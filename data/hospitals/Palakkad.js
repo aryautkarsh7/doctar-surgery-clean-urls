@@ -1,0 +1,8376 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "ahalia-ayurveda-medical-college-hospital-palakkad",
+    "name": "Ahalia Ayurveda Medical College Hospital",
+    "type": "Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Palakkad, Ahalia Ayurveda Medical College Hospital brings together specialists for Kidney Transplant Surgery In Palakkad. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Palakkad.",
+    "email": "",
+    "phone": "04923 226 888",
+    "alternatePhone": "",
+    "website": "http://www.ahaliaayurvedic.org/",
+    "address": "Ayurveda Hospital Building, Ahalia Health,Heritage & Knowledge Village Kozhippara, Ayurveda Hospital Road, Ahalia Campus, Palakkad, Kerala 678557",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678557",
+    "locality": "Ahalia Campus",
+    "landmark": "Heritage & Knowledge Village Kozhippara",
+    "emergencyContact": "04923 226 888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjQ_bpsVxa4qvEK500Q8tgbtyrxRj20ljqf7xe3g2FCJIB9RCgKJjCSKsoZe-rKYPQbNpzIE2dKN5CIs8fFtJWK-bQbmRO6coWD5mWDlR58XSnsfBV9B4WO8PVrp7yLUgL3153=w1200-h900-p-k-no",
+    "logo": "https://ahaliaayurvedic.org/hospital/wp-content/uploads/sites/5/2022/07/LOGO-358X88-01-e1656661630914-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjQ_bpsVxa4qvEK500Q8tgbtyrxRj20ljqf7xe3g2FCJIB9RCgKJjCSKsoZe-rKYPQbNpzIE2dKN5CIs8fFtJWK-bQbmRO6coWD5mWDlR58XSnsfBV9B4WO8PVrp7yLUgL3153=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7918148,
+      "lng": 76.8297268,
+      "label": "Ahalia Ayurveda Medical College Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ahalia-diabetes-hospital-elappully",
+    "name": "Ahalia Diabetes Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Elappully, Ahalia Diabetes Hospital offers coordinated hospital care with major focus on Kidney Transplant Surgery In Palakkad and Diabetology. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Elappully.",
+    "email": "",
+    "phone": "04923 225 555",
+    "alternatePhone": "",
+    "website": "http://www.ahaliadiabetes.org/",
+    "address": "P O, Ahalia Campus, Kozhippara, Elappully, Kerala 678557",
+    "city": "Elappully",
+    "state": "Kerala",
+    "pincode": "678557",
+    "locality": "Kozhippara",
+    "landmark": "Kozhippara",
+    "emergencyContact": "04923 225 555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad",
+      "Diabetology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCqiyPSCeoQ5YmC_A7icD2S129V7H9ive_H2BGw9OxSFYWKDwT3cDsSJ7Jajd2SkxKV9OSd5GhspPlZ30JXh5bUVhjKZg8uI-HR9OBZiJmwBD5RkobYLs2SoySABgK_c9VP91hAA=w1200-h900-p-k-no",
+    "logo": "https://ahaliadiabetes.org/wp-content/uploads/2020/07/280X80-72-RESO-01-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCqiyPSCeoQ5YmC_A7icD2S129V7H9ive_H2BGw9OxSFYWKDwT3cDsSJ7Jajd2SkxKV9OSd5GhspPlZ30JXh5bUVhjKZg8uI-HR9OBZiJmwBD5RkobYLs2SoySABgK_c9VP91hAA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPLY68RwH4n4ymcj2cKYgxv4rglO3wfnQEcRfgzMQ4rEIf49xQfLrK6X-FWMs8kG4aCZVa8HaROZ9vsdMjIcc0hmy3IMurJ7FBlBPi7LJTu-3PtNC436qSADGe3CqP7FvucyxZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7918328,
+      "lng": 76.8275683,
+      "label": "Ahalia Diabetes Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ahalia-health-heritage-and-knowledge-village-elappully",
+    "name": "AHALIA HEALTH, HERITAGE & KNOWLEDGE VILLAGE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Elappully, AHALIA HEALTH, HERITAGE & KNOWLEDGE VILLAGE brings together specialists for Gynecologist Surgery In Palakkad. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Elappully can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "04923 225 000",
+    "alternatePhone": "",
+    "website": "http://www.ahalia.in/",
+    "address": "Ahalia Health Heritage & Knowledge village, Ahalia Campus, Kozhippara, Elappully, Kerala 678557",
+    "city": "Elappully",
+    "state": "Kerala",
+    "pincode": "678557",
+    "locality": "Kozhippara",
+    "landmark": "Kozhippara",
+    "emergencyContact": "04923 225 000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF46RRn8LuZH0hpRZxUjJbZoIRK5Fl8KTwWGL-UzNzsm1lO38_2Za-sOPTPHXxLonn4eq-bJk10Y2Y0o8SYaYMekh7cuMkqOnFlS8thF4g2dpSlQ05xWXoIjFhnHhgxFoP3v-DB=w1200-h900-p-k-no",
+    "logo": "https://ahalia.in/wp-content/uploads/2019/10/400-X-100-LOGO-AHHKV.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF46RRn8LuZH0hpRZxUjJbZoIRK5Fl8KTwWGL-UzNzsm1lO38_2Za-sOPTPHXxLonn4eq-bJk10Y2Y0o8SYaYMekh7cuMkqOnFlS8thF4g2dpSlQ05xWXoIjFhnHhgxFoP3v-DB=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7945575,
+      "lng": 76.8268854,
+      "label": "AHALIA HEALTH, HERITAGE & KNOWLEDGE VILLAGE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ahalia-women-and-children-s-hospital-kozhippara",
+    "name": "Ahalia Women And Children's Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ahalia Women And Children's Hospital has built a strong reputation in Kozhippara for multidisciplinary treatment pathways covering Orthopedic Surgery In Palakkad and Women and Child Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kozhippara.",
+    "email": "",
+    "phone": "04923 226 000",
+    "alternatePhone": "",
+    "website": "https://awach.org/",
+    "address": "P.O, Ahalia Double Rd, Ahalia Campus, Kozhippara, Kerala 678557",
+    "city": "Kozhippara",
+    "state": "Kerala",
+    "pincode": "678557",
+    "locality": "Ahalia Campus",
+    "landmark": "Ahalia Campus",
+    "emergencyContact": "04923 226 000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8eeXYsruq0V0KRta7UiMBeV2U6k26C2tD3UWs2yGd7G6YgHImb-ioTtcN3a3MBrPOfU7WZxODLDgfdkj-bP1_seNlGiUfqzcARM5TP9UUtU_tgtaAagEvYAE7EoTz6LdD1QMd=w1200-h900-p-k-no",
+    "logo": "https://awach.org/wp-content/uploads/2020/01/BANNER-LOGO-540-X-100.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8eeXYsruq0V0KRta7UiMBeV2U6k26C2tD3UWs2yGd7G6YgHImb-ioTtcN3a3MBrPOfU7WZxODLDgfdkj-bP1_seNlGiUfqzcARM5TP9UUtU_tgtaAagEvYAE7EoTz6LdD1QMd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFodtD3nMd9N9YJlyJfK-74rRVR2BAHB8K2PVhbZnYTNtirDJMArpNUgbZdYPrhvbJslhJwe-yYFvN19GhOmNSbaTcGWeijk4vOyc-JJrhfc26rM3zZ41rbXhlXep2VIMcEPsOKrA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGR9LGAti9MOmUVEgWB3rm-JkoGK9IRq-rQNArCb5VHODVfW3wsixGPWbKiMEzkEvJjZ3L4qsl6qQVXXiOX5WEcIObPkpvxgqMEJKQkIs1_MnPNF5iOs46ySk2a5wmVnoI2_Ng=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7969204,
+      "lng": 76.8281573,
+      "label": "Ahalia Women And Children's Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aravindakshan-ayurvedic-clinic-chittur",
+    "name": "Aravindakshan Ayurvedic Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Chittur, Aravindakshan Ayurvedic Clinic offers coordinated hospital care with major focus on Cancer Surgery In Palakkad. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Chittur.",
+    "email": "",
+    "phone": "04923 222 778",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MPVH+H64, SH25, Ambatpalayam, Chittur-Thathamangalam, Chittur, Kerala 678104",
+    "city": "Chittur",
+    "state": "Kerala",
+    "pincode": "678104",
+    "locality": "Chittur-Thathamangalam",
+    "landmark": "Ambatpalayam",
+    "emergencyContact": "04923 222 778",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFlqCKP4mdAG7xW5XdG7UePZfyTL3hTQDFEjUND2S-B9kLZXQHPmUi2fOEH9PCQtLIS2uBI8fiAx7VDXv6UV1XRsFuUtKaXioaYsNBWx1rRBJzeY_lzYecJ9-cPNTOIN-LhakDHmICK6AWv=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFlqCKP4mdAG7xW5XdG7UePZfyTL3hTQDFEjUND2S-B9kLZXQHPmUi2fOEH9PCQtLIS2uBI8fiAx7VDXv6UV1XRsFuUtKaXioaYsNBWx1rRBJzeY_lzYecJ9-cPNTOIN-LhakDHmICK6AWv=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.6938925,
+      "lng": 76.7280925,
+      "label": "Aravindakshan Ayurvedic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ascent-ent-hospital-and-medical-centre-palakkad",
+    "name": "Ascent ENT Hospital & Medical Centre",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ascent ENT Hospital & Medical Centre is a prominent specialized hospital in Palakkad, known for structured tertiary care across Liver Transplant Surgery In Palakkad. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Palakkad.",
+    "email": "",
+    "phone": "081369 15115",
+    "alternatePhone": "",
+    "website": "https://www.ascenthospital.com/",
+    "address": "Harikara street, Court Rd, Santhi Nagar, Sultanpet, Palakkad, Kerala 678001",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678001",
+    "locality": "Sultanpet",
+    "landmark": "Santhi Nagar",
+    "emergencyContact": "081369 15115",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHat_Hn2WPLZJkAn3275DPBsd3yVrnt328Z-37sI_2phmvAc8X9pH28owQ3_fUcShwqTtK0cxlU6rB8dJTi4CvsKhw7c4IAQvN_vXM9Knt43ZAcHnyQ05ObB_AxLJ_iDBlm9Xt=w1200-h900-p-k-no",
+    "logo": "https://www.ascenthospital.com/public/assets/img/logo/ascent-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHat_Hn2WPLZJkAn3275DPBsd3yVrnt328Z-37sI_2phmvAc8X9pH28owQ3_fUcShwqTtK0cxlU6rB8dJTi4CvsKhw7c4IAQvN_vXM9Knt43ZAcHnyQ05ObB_AxLJ_iDBlm9Xt=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyxmiWhaezrdqSh9M-D7nGsy2ri7jaQCWFDOLYpaA3Y4l1moZ1vCaW14w_MbBIWCSUflLLEgWkt2iTQ0kPUyM9f5p86OUzkqL5oS5hoZu3-yloQv2PumB040ecsVeKGM02R4OZ_o9s6vh3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdz4W91eyr2JkAHc2aM5VwZyUi5e9Z2We1NI2yNbCNuQYfM1qje8M4F9eDTPlqe5T1LFMu0V_QNuNdr1PlXs7BUtlBrMuU7MpYVOQejFUeboyYnCAqxWMe51o4jCy4Ojf9vzW7T1REcKU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7710246,
+      "lng": 76.6575509,
+      "label": "Ascent ENT Hospital & Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ashwin-hospital-best-laparoscopy-surgery-and-multispecialty-hospital-in-gandhipuram-coimbatore-gandhipuram",
+    "name": "Ashwin Hospital | Best Laparoscopy Surgery and Multispecialty Hospital in Gandhipuram, Coimbatore",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ashwin Hospital | Best Laparoscopy Surgery and Multispecialty Hospital in Gandhipuram, Coimbatore is a prominent private hospital in Gandhipuram, known for structured tertiary care across Kidney Transplant Surgery In Palakkad and Speciality Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Gandhipuram.",
+    "email": "",
+    "phone": "090478 00007",
+    "alternatePhone": "",
+    "website": "http://www.ashwinhospital.com/",
+    "address": "Sathy Main Road, 1, Alamu Nagar Rd, Near GP Theatre, Gandhipuram, Tamil Nadu 641006",
+    "city": "Gandhipuram",
+    "state": "Tamil Nadu",
+    "pincode": "641006",
+    "locality": "Near GP Theatre",
+    "landmark": "Near GP Theatre, Gandhipuram, Tamil Nadu 641006",
+    "emergencyContact": "090478 00007",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwcy2mhy4d7fC8ZNkeDFLDCXk58uXWWKUn7VAVhR3fxyI1jxdgmYezXqG8xii2RH5Y_rsYBIxj6_ohl4GDomX8oEUM3ixfPZYu0nIHWGLVjniCdmy8ev5KzGWYFdckEPzBHckyCA=w1200-h900-p-k-no",
+    "logo": "https://www.ashwinhospital.com/wp-content/uploads/2023/11/ashwin-hospital-logo.png.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwcy2mhy4d7fC8ZNkeDFLDCXk58uXWWKUn7VAVhR3fxyI1jxdgmYezXqG8xii2RH5Y_rsYBIxj6_ohl4GDomX8oEUM3ixfPZYu0nIHWGLVjniCdmy8ev5KzGWYFdckEPzBHckyCA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMN-KBMyQdQ3ty1qkFEkEidcn8GnkXwt74mVXEF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM7UfwAiWVFsKyArN82d2TrPY5TumqExCCtPmLC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPPPJtvGNA7QwuWnZZ57J2ViHCw815AbhhbriFI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMQ55v81WX3ax_UQhF4cbROJ5rEg8kfIXoeD8pf=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.0241257,
+      "lng": 76.9731625,
+      "label": "Ashwin Hospital | Best Laparoscopy Surgery and Multispecialty Hospital in Gandhipuram, Coimbatore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aster-ramesh-hospital-sanghamitra-best-multispeciality-hospital-in-ongole-pelluru-pelluru",
+    "name": "Aster Ramesh Hospital (Sanghamitra) - Best Multispeciality Hospital in Ongole, Pelluru",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pelluru, Aster Ramesh Hospital (Sanghamitra) - Best Multispeciality Hospital in Ongole, Pelluru delivers integrated care across Kidney Transplant Surgery In Palakkad and Speciality Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pelluru.",
+    "email": "",
+    "phone": "085922 86777",
+    "alternatePhone": "",
+    "website": "https://www.asterhospitals.in/hospitals/aster-ramesh-ongole",
+    "address": "F2HW+V8Q, NH 5, near South Bypass Junction, Ambedkar Colony, Pragathy Colony, Pelluru, Andhra Pradesh 523001",
+    "city": "Pelluru",
+    "state": "Andhra Pradesh",
+    "pincode": "523001",
+    "locality": "Pragathy Colony",
+    "landmark": "near South Bypass Junction, Ambedkar Colony, Pragathy Colony, Pelluru, Andhra Pradesh 523001",
+    "emergencyContact": "085922 86777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPzCJDa2rXoAsRobnoMkt91TofslQvxVOnz-oLGQDagH8yWLcqOyp2vzTKQz_T107qdZRaoslxBBSi7bCHkH3LritToy-OmDXrbNs3PKRFyyKyWen6e-cehvMwOWy0k0VMlLCBB7As_1I=w1200-h900-p-k-no",
+    "logo": "https://www.asterhospitals.in/sites/default/files/2023-06/aster-ramesh-hospitals-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPzCJDa2rXoAsRobnoMkt91TofslQvxVOnz-oLGQDagH8yWLcqOyp2vzTKQz_T107qdZRaoslxBBSi7bCHkH3LritToy-OmDXrbNs3PKRFyyKyWen6e-cehvMwOWy0k0VMlLCBB7As_1I=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMviXKKCkR-fM4-GK7u487E1T6sgSqIMDplKC0q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPu1IxGSNzHyw_opOLVS5e75-KLmQ03YjW7S_h5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNmji2sKQ6o0BZPCccs_seZ7lNp3gz32VwCXPjj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOcVHuxm3qdVf2juGhCClpsxkbGTv-2fk6_GzbE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.4789781,
+      "lng": 80.0484276,
+      "label": "Aster Ramesh Hospital (Sanghamitra) - Best Multispeciality Hospital in Ongole, Pelluru",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aswini-speciality-hospital-ottapalam",
+    "name": "Aswini Speciality Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ottapalam often choose Aswini Speciality Hospital for its strength in Orthopedic Surgery In Palakkad and Speciality Care. Operational strengths including Google rating 3.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ottapalam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q9CC+RX7, Palakkad - Guruvayur Road, near aswini hospital, Ottapalam, Kerala 679101",
+    "city": "Ottapalam",
+    "state": "Kerala",
+    "pincode": "679101",
+    "locality": "near aswini hospital",
+    "landmark": "near aswini hospital, Ottapalam, Kerala 679101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB5DkIKdHQ1J7J8cYvsQLkTatmR8G_OC8jqQp6HKQ-IDss0wFIscq7LC5hMybTxIh5ZNOohkXpK2L-PYNA5YEYqOVTwZbVMsoQuDln7pPQtXP7ILFgdncDnula41H9fwPmpEc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB5DkIKdHQ1J7J8cYvsQLkTatmR8G_OC8jqQp6HKQ-IDss0wFIscq7LC5hMybTxIh5ZNOohkXpK2L-PYNA5YEYqOVTwZbVMsoQuDln7pPQtXP7ILFgdncDnula41H9fwPmpEc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7720428,
+      "lng": 76.3724095,
+      "label": "Aswini Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "athani-hospital-palakkad",
+    "name": "Athani Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Palakkad, Athani Hospital delivers integrated care across Orthopedic Surgery In Palakkad. The facility stands out for Google rating 3.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Palakkad.",
+    "email": "",
+    "phone": "04923 226 226",
+    "alternatePhone": "",
+    "website": "http://athani.hospital/",
+    "address": "PRV8+XGG, Nattukal -Athicode Road, Nattukal P.O., Chittur, Palakkad, Kerala 678554",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678554",
+    "locality": "Chittur",
+    "landmark": "Nattukal P.O.",
+    "emergencyContact": "04923 226 226",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMXuw-Cz7vWiXc65dxCG8utU8Q8kYBqGyuKgzegtXrShEwHCGkwlSEMJnzz0y-XblLAP-4hyYvNi84CsA07Hxkpn2P62urgwJONYeBddRrYbYO8yKdSDliqQVYkUiza9KkWFUG=w1200-h900-p-k-no",
+    "logo": "https://athani.hospital/wp-content/uploads/2020/03/cropped-logo-1-1-32x32.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMXuw-Cz7vWiXc65dxCG8utU8Q8kYBqGyuKgzegtXrShEwHCGkwlSEMJnzz0y-XblLAP-4hyYvNi84CsA07Hxkpn2P62urgwJONYeBddRrYbYO8yKdSDliqQVYkUiza9KkWFUG=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.744938,
+      "lng": 76.816315,
+      "label": "Athani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "azeezia-hospital-palakkad-multispeciality-health-city-palakkad",
+    "name": "Azeezia Hospital Palakkad – Multispeciality Health City",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Azeezia Hospital Palakkad – Multispeciality Health City has built a strong reputation in Palakkad for multidisciplinary treatment pathways covering Orthopedic Surgery In Palakkad and Speciality Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Palakkad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "04922 351 111",
+    "alternatePhone": "",
+    "website": "https://azeeziahealthcity.com/?utm_source",
+    "address": "NH 544, Erattakulam PO, Alathur, Palakkad, Kerala 678682",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678682",
+    "locality": "Alathur",
+    "landmark": "Alathur",
+    "emergencyContact": "04922 351 111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7sHQPRuDf17gcYF0JBlWgTngHIZ6x4K_lw9nJtvA5Q5ncuqvQ2wemx7R65dS92HbTNtIkuFap6DDuAGUMLZywaykwmtCIPh7PQRNzidllwZjqY0gchJ3KqPCm8PDgpo0Xx0GGe2zQqYo=w1200-h900-p-k-no",
+    "logo": "https://azeeziahealthcity.com/wp-content/themes/generatepress-child/azeezia-images/azeezia-health-city-logo-blue.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7sHQPRuDf17gcYF0JBlWgTngHIZ6x4K_lw9nJtvA5Q5ncuqvQ2wemx7R65dS92HbTNtIkuFap6DDuAGUMLZywaykwmtCIPh7PQRNzidllwZjqY0gchJ3KqPCm8PDgpo0Xx0GGe2zQqYo=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP-1pDLuNmeF6oJN7xpvg5ZhY1q82KGpMU6_RyQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMoVyO1adw_crF35ilqbcLXJltsJoyUJrwA8TR4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNUMNFg5aQS-TFqd6vSsLRN0C5n6Z3eqi4e45rO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMT7oRkrFbdezoxpuW2vJNN0ACDuecj9pNakqgy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.6303466,
+      "lng": 76.513433,
+      "label": "Azeezia Hospital Palakkad – Multispeciality Health City",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "coimbatore-kidney-centre-best-multi-specialty-hospital-in-coimbatore-24-x-7-emergency-care-coimbatore",
+    "name": "Coimbatore Kidney Centre | Best Multi-Specialty Hospital in Coimbatore | 24 x 7 Emergency Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Coimbatore Kidney Centre | Best Multi-Specialty Hospital in Coimbatore | 24 x 7 Emergency Care has built a strong reputation in Coimbatore for multidisciplinary treatment pathways covering Liver Transplant Surgery In Palakkad, Kidney Care, and Speciality Care. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Coimbatore can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0422 231 2006",
+    "alternatePhone": "",
+    "website": "http://www.coimbatorekidneycentre.com/",
+    "address": "738-B, Puliakulam Rd, Pudur, Coimbatore, Tamil Nadu 641045",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "pincode": "641045",
+    "locality": "Pudur",
+    "landmark": "Pudur",
+    "emergencyContact": "0422 231 2006",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad",
+      "Kidney Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgGxwEgHcGYDa-pj9sWnL6qxMCdhLZu5aq9xfoSUwGXXwwkHvwdIjCjkKIqQMSoee-1Ans94SJXLItwyloDSIGkVrEi4v4wrf69asjg7j_a3zy9Ud9ayUU0hr0vlvmQ6mynUZZDg=w1200-h900-p-k-no",
+    "logo": "https://coimbatorekidneycentre.com/wp-content/uploads/2023/12/cropped-CKClogo-1.jpg-e1738978119731.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgGxwEgHcGYDa-pj9sWnL6qxMCdhLZu5aq9xfoSUwGXXwwkHvwdIjCjkKIqQMSoee-1Ans94SJXLItwyloDSIGkVrEi4v4wrf69asjg7j_a3zy9Ud9ayUU0hr0vlvmQ6mynUZZDg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHETRRllW0FJYAR1gp--XvKa5aEILXibuyjciemPJguC_tQTv-2vCqGOfNlrkbRKFnd8E8nAF_qrG_ZJM9lGSL2I6gLFqyHk4W7x3wDcUka533koQqOALUG8NKSA6QJJuOtS2TcDQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.009663,
+      "lng": 76.989632,
+      "label": "Coimbatore Kidney Centre | Best Multi-Specialty Hospital in Coimbatore | 24 x 7 Emergency Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "crescent-hospital-alathur-alathur",
+    "name": "CRESCENT HOSPITAL ALATHUR",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Alathur, CRESCENT HOSPITAL ALATHUR delivers integrated care across Kidney Transplant Surgery In Palakkad. With public-facing highlights like Google rating 3.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Alathur.",
+    "email": "",
+    "phone": "04922 223 321",
+    "alternatePhone": "",
+    "website": "http://www.crescenthospital.com/",
+    "address": "COURT ROAD, PO, Alathur, Kerala 678541",
+    "city": "Alathur",
+    "state": "Kerala",
+    "pincode": "678541",
+    "locality": "PO",
+    "landmark": "Alathur",
+    "emergencyContact": "04922 223 321",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB-5QDz0A7MnVX-90PhXhX4scEy4BWtSmMlBhUNG_A-K_fLRr8spYqtxHwRK5Br2fdqTBx9UWKplkys_b4BvWi3062-HPaCay9DhodibEqNlbKcuZlePyRMfD9eWEU0d39NwWekw=w1200-h900-p-k-no",
+    "logo": "http://www.crescenthospital.com/images/gentogenlogo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB-5QDz0A7MnVX-90PhXhX4scEy4BWtSmMlBhUNG_A-K_fLRr8spYqtxHwRK5Br2fdqTBx9UWKplkys_b4BvWi3062-HPaCay9DhodibEqNlbKcuZlePyRMfD9eWEU0d39NwWekw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkIvqZsfE7cGTIJvOYXOb2Sd7XKinIoNB-USVbGkn0OY_s5fvq9yCu3BqjJ2fOj4kUVo5orie6BuK_4L1hcjqspk5y8zh2SMAux2BIk5EEVWUEeyCuzxiPrhEe58cz4W49g6k=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.6474805,
+      "lng": 76.5447818,
+      "label": "CRESCENT HOSPITAL ALATHUR",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "daya-hospital-palakkad-palakkad",
+    "name": "Daya Hospital, Palakkad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Palakkad often choose Daya Hospital, Palakkad for its strength in Liver Transplant Surgery In Palakkad. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Palakkad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0491 253 2044",
+    "alternatePhone": "",
+    "website": "https://dayahospitals.in/palakkad/",
+    "address": "Coimbatore Rd, Prathiba Nagar, Kalmandapam, Palakkad, Kerala 678013",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678013",
+    "locality": "Kalmandapam",
+    "landmark": "Kalmandapam",
+    "emergencyContact": "0491 253 2044",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFT-VDC9l3JFtIyPoyxP6sYFWrIU9y3tPYSoJsy94NWlmfx3IMB8EZnM5DlWBl5gzawHxucUBTtpljpsodLB-dgvqGy67abNlNkkeLs6fgD6ztf0yNQNXv6mzDrdQjfBao3YSP7Gg=w1200-h900-p-k-no",
+    "logo": "https://dayahospitals.in/palakkad/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFT-VDC9l3JFtIyPoyxP6sYFWrIU9y3tPYSoJsy94NWlmfx3IMB8EZnM5DlWBl5gzawHxucUBTtpljpsodLB-dgvqGy67abNlNkkeLs6fgD6ztf0yNQNXv6mzDrdQjfBao3YSP7Gg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7705646,
+      "lng": 76.6695028,
+      "label": "Daya Hospital, Palakkad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "district-hospital-palakkad-palakkad",
+    "name": "District Hospital, Palakkad",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "District Hospital, Palakkad is a prominent government hospital in Palakkad, known for structured tertiary care across Urologist Surgery In Palakkad. With public-facing highlights like Google rating 3.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Palakkad.",
+    "email": "",
+    "phone": "0491 253 3327",
+    "alternatePhone": "",
+    "website": "https://www.dhs.kerala.gov.in/",
+    "address": "QM95+942, Sultanpet, Palakkad, Kerala 678001",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678001",
+    "locality": "Sultanpet",
+    "landmark": "Palakkad",
+    "emergencyContact": "0491 253 3327",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZrsE7sRYuBkPE5zGmUNLn1z9JUM1GdJs45TaoHWZ9uxtkWt5OTv_s4POZDe3Bd4qDAFpM6gftMQSF2e-WgjvIQEvoRmOF2TeK5W_N4tBJ1H360vut32mdnUFhzlxSAcX_tKbYN-BY5FWF=w1200-h900-p-k-no",
+    "logo": "https://dhs.kerala.gov.in/wp-content/uploads/2024/12/logo1-new.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZrsE7sRYuBkPE5zGmUNLn1z9JUM1GdJs45TaoHWZ9uxtkWt5OTv_s4POZDe3Bd4qDAFpM6gftMQSF2e-WgjvIQEvoRmOF2TeK5W_N4tBJ1H360vut32mdnUFhzlxSAcX_tKbYN-BY5FWF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXxw8ceTQNdSKtivib7CNBOaEBSvKoVapJCnI7yqpjruWzYlXTbkZfTDV5DHd0p3IyDoOGdON5X3qnbcmqyPLZYq1tXbYHgZCUO7_-LIjlyzyNTu-HNkF7w=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXxw8ceTQNdSKtivib7CNBOaEBSvKoVapJCnI7yqpjruWzYlXTbkZfTDV5DHd0p3IyDoOGdON5X3qnbcmqyPLZYq1tXbYHgZCUO7_-LIjlyzyNTu-HNkF7wviTAsV-__VVLo44=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMGv6MO4g5ihzRZ3lfs648cA6zTEvHp5cmThK8OyckT5aV2ybY8Gw5A6mqmqHSW8ElqpHrBU6biTfrcAoqWoQ90UeHeDB8d3c1sQrkexXlZ4PGpAzGLOGkJl1kQtm_JJBe_H6d=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkvKVylByjtpLK70SuRG41PVoIWH9zDhOMYygCxfenj-lhBvwG19oKzE968daF3rn1Q0oedhGix7C0o4SY9u3QTaKmI0aobmYhqeqR0UQtP4b_twEDYuOUHUwF-eD8l1Y-afjIxw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7683788,
+      "lng": 76.6577681,
+      "label": "District Hospital, Palakkad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "divisional-railway-hospital-palakkad",
+    "name": "Divisional Railway Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted government hospital in Palakkad, Divisional Railway Hospital delivers integrated care across Urologist Surgery In Palakkad. The facility stands out for Google rating 3.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Palakkad.",
+    "email": "",
+    "phone": "0491 255 5333",
+    "alternatePhone": "",
+    "website": "http://www.indianrailways.gov.in/railwayboard/view_section.jsp?id",
+    "address": "Puthuppariyaram, Olavakot, Palakkad, Kerala 678009",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678009",
+    "locality": "Olavakot",
+    "landmark": "Palakkad",
+    "emergencyContact": "0491 255 5333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGG2UzAuEg7V6zgGBR40C_Py-Ha1_wDVFue98-nUnZ6m7Ag9B-DEg_RXPnxjDvQdQhWl1oIQcyR2SJP12pM77NxtTiMHZMCINNe5y5We10QGHOLITRyqz9m0oeN-FK3_CEk9RTwGg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGG2UzAuEg7V6zgGBR40C_Py-Ha1_wDVFue98-nUnZ6m7Ag9B-DEg_RXPnxjDvQdQhWl1oIQcyR2SJP12pM77NxtTiMHZMCINNe5y5We10QGHOLITRyqz9m0oeN-FK3_CEk9RTwGg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.8167954,
+      "lng": 76.6329673,
+      "label": "Divisional Railway Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "erattakulam-medical-centre-palakkad",
+    "name": "Erattakulam Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Erattakulam Medical Centre has built a strong reputation in Palakkad for multidisciplinary treatment pathways covering Gynecologist Surgery In Palakkad. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Palakkad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096054 75205",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near Erattakulam signal jn, NH544, Erattakulam post, Alathur, Palakkad, Kerala 678682",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678682",
+    "locality": "Alathur",
+    "landmark": "Erattakulam post",
+    "emergencyContact": "096054 75205",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEADV6r162vtSizgibS4Dtj-iY68q_30ss19DHhWCIrt4uJ_hLRkCrRh7YJNX_xkYK6pnYX0sCIcrHUPuIIzYjWdhon8mwfz5gBQE9XBvi30aAS49htRxzG9o_xPbSevt6CSAVvtg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEADV6r162vtSizgibS4Dtj-iY68q_30ss19DHhWCIrt4uJ_hLRkCrRh7YJNX_xkYK6pnYX0sCIcrHUPuIIzYjWdhon8mwfz5gBQE9XBvi30aAS49htRxzG9o_xPbSevt6CSAVvtg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.6368427,
+      "lng": 76.5218169,
+      "label": "Erattakulam Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "esaf-hospital-and-research-centre-thachampara",
+    "name": "ESAF Hospital & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ESAF Hospital & Research Centre is a prominent hospital in Thachampara, known for structured tertiary care across Orthopedic Surgery In Palakkad. Its infrastructure includes Google rating 3.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Thachampara.",
+    "email": "",
+    "phone": "094467 00002",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XG45+Q92, 213, National Highway, Thachampara, Kerala 678593",
+    "city": "Thachampara",
+    "state": "Kerala",
+    "pincode": "678593",
+    "locality": "National Highway",
+    "landmark": "National Highway",
+    "emergencyContact": "094467 00002",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEs6DWK_fN5UXf8rsmTrvGDVdJdP4payXWyJ6fs74WtwgfNVZikwH7pzjSWQWMZTH_sxap91QuWmNwLYT_BHARWpoUXkIYueb8kCW2YhH_ROFr4L8cmg0SAvUeI5JQh2mFqBuiTxA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEs6DWK_fN5UXf8rsmTrvGDVdJdP4payXWyJ6fs74WtwgfNVZikwH7pzjSWQWMZTH_sxap91QuWmNwLYT_BHARWpoUXkIYueb8kCW2YhH_ROFr4L8cmg0SAvUeI5JQh2mFqBuiTxA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVd_xQy_xBYKwUjFWutc5wUulgz8hnrb6HqNQ9zHKu890sV8bngYrbIj3weIS8D85Ba6BugdkL7nQDMw_ItubL5yEoo5ZOcW8s2uyx0LdVaFyPH1ByscqGTcyMpVoYlHvrZ7jp2gqt0WHu=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.9578766,
+      "lng": 76.50918,
+      "label": "ESAF Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "esi-hospital-palakkad-palakkad",
+    "name": "ESI Hospital,Palakkad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Palakkad often choose ESI Hospital,Palakkad for its strength in Urologist Surgery In Palakkad. Hospital capacity markers such as Google rating 3.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Palakkad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0491 250 0134",
+    "alternatePhone": "",
+    "website": "http://www.esic.nic.in/",
+    "address": "QJQR+34Q, Jainmedu, Vadakkanthara, Palakkad, Pirayiri, Kerala 678012",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678012",
+    "locality": "Vadakkanthara",
+    "landmark": "Vadakkanthara",
+    "emergencyContact": "0491 250 0134",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8JjkaScRczANoGucvnJRDbmleN_Y0QZmmxgWQw8k6G6kffz5FV8RJLqkPTafUZPNvDZSZhipbXDYbdIwB0ZHQdC8_dnlro9z7VYHYUU_fUItbN1zn3LuPdhPy9ENTHH_fHVDNkQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8JjkaScRczANoGucvnJRDbmleN_Y0QZmmxgWQw8k6G6kffz5FV8RJLqkPTafUZPNvDZSZhipbXDYbdIwB0ZHQdC8_dnlro9z7VYHYUU_fUItbN1zn3LuPdhPy9ENTHH_fHVDNkQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYfnWfszI2ORBTnp6A8rP6ns_0sasxI34jNOPrgnWNPa5CIkzQKlRyko54_rQXEs3e9pn9pBvSgG8KX_zjWjARKvR2SBsdKiTQBgpWRyXYgDxFv1UCnW4l6IH0VRT-DVykV-yBLQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7877088,
+      "lng": 76.6403551,
+      "label": "ESI Hospital,Palakkad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "eumed-superspeciality-hospital-best-hospital-in-palakkad-palakkad",
+    "name": "Eumed Superspeciality Hospital - Best Hospital in Palakkad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Eumed Superspeciality Hospital - Best Hospital in Palakkad is a prominent hospital in Palakkad, known for structured tertiary care across Urologist Surgery In Palakkad and Speciality Care. Its infrastructure includes Google rating 4.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Palakkad.",
+    "email": "",
+    "phone": "0491 253 2567",
+    "alternatePhone": "",
+    "website": "https://eumedhospitalpalakkad.com/",
+    "address": "Calicut Bypass Road, near KVR Tata, New Civil Nagar, Palakkad, Kerala 678001",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678001",
+    "locality": "New Civil Nagar",
+    "landmark": "near KVR Tata, New Civil Nagar, Palakkad, Kerala 678001",
+    "emergencyContact": "0491 253 2567",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Palakkad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvHg8ZxB6e1b7eOmTTrk13pB-4Gd5SuL-NXYwkx4ahl4XhAixrErZ8SXfPiBm09TjIQtYg6NUZGmHpJfvjoxcwZnLOqVNi_GbmLc5EgXIn7W0ZCndjOSrQgPmGpYjf3kYyOiJC=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvHg8ZxB6e1b7eOmTTrk13pB-4Gd5SuL-NXYwkx4ahl4XhAixrErZ8SXfPiBm09TjIQtYg6NUZGmHpJfvjoxcwZnLOqVNi_GbmLc5EgXIn7W0ZCndjOSrQgPmGpYjf3kYyOiJC=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7825332,
+      "lng": 76.6581832,
+      "label": "Eumed Superspeciality Hospital - Best Hospital in Palakkad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fetal-care-advanced-sonography-palakkad",
+    "name": "Fetal Care (Advanced Sonography)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Fetal Care (Advanced Sonography) has built a strong reputation in Palakkad for multidisciplinary treatment pathways covering Gynecologist Surgery In Palakkad and Fetal Medicine. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Palakkad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://idscans.in/",
+    "address": "Harikkara Street, Santhi Nagar, Sultanpet, Palakkad, Kerala 678001",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678001",
+    "locality": "Sultanpet",
+    "landmark": "Sultanpet",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Palakkad",
+      "Fetal Medicine"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEscdgSuq2nR0u3OqbmPNkzNxciFnDPagDzITUOyxT0NTZF1KlISYKKs2H3Sd_rX09r3fQ10qARUDObLB-TO2Ozpbe-G2n8TFoKG_q5ZpeqHQjbKtWNt0HXDsZVV8VN2Jhug1FX=w1200-h900-p-k-no",
+    "logo": "https://idscans.in/assets/images/logo-fetal-care-palakkad-550x123.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEscdgSuq2nR0u3OqbmPNkzNxciFnDPagDzITUOyxT0NTZF1KlISYKKs2H3Sd_rX09r3fQ10qARUDObLB-TO2Ozpbe-G2n8TFoKG_q5ZpeqHQjbKtWNt0HXDsZVV8VN2Jhug1FX=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7710363,
+      "lng": 76.6568132,
+      "label": "Fetal Care (Advanced Sonography)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fims-hospital-kurichi",
+    "name": "FIMS Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kurichi, FIMS Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Palakkad. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kurichi.",
+    "email": "",
+    "phone": "083001 08108",
+    "alternatePhone": "",
+    "website": "http://www.fimshospitals.com/",
+    "address": "193 145, Pollachi Main Rd, Sundarapuram, Coimbatore, Kurichi, Tamil Nadu 641024",
+    "city": "Kurichi",
+    "state": "Tamil Nadu",
+    "pincode": "641024",
+    "locality": "Coimbatore",
+    "landmark": "Sundarapuram",
+    "emergencyContact": "083001 08108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoQ12f5ZfcyShyA-qlvAIH_jO8ALViIrH_mP-eEBJVY0lQ_H5XuhP_55MrOvz7r22RulWA7yu3OBw2ZFsjWqJ1tJn62puq0XHvBaaLIcvIl2BJzaFayHwazgXN5RnzG37bpsyfrg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoQ12f5ZfcyShyA-qlvAIH_jO8ALViIrH_mP-eEBJVY0lQ_H5XuhP_55MrOvz7r22RulWA7yu3OBw2ZFsjWqJ1tJn62puq0XHvBaaLIcvIl2BJzaFayHwazgXN5RnzG37bpsyfrg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8cap4DKHoimPsmzQ4jJxzWzjJVSZRlI9HqN_uoGN0ohXnqb-n2zKbWcwjmpdMRM6G-sBg4tr0hu5WeKlSiR965zUNrJ515JTbrmCJCgKKwEB5IOk_HWnLx2hDIWsLq5ofeYSx=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.957823,
+      "lng": 76.972314,
+      "label": "FIMS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "flood-rescue-dhwani-medical-center-palakkad",
+    "name": "Flood Rescue (Dhwani Medical Center)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Palakkad, Flood Rescue (Dhwani Medical Center) delivers integrated care across Kidney Transplant Surgery In Palakkad. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Palakkad.",
+    "email": "",
+    "phone": "070348 11822",
+    "alternatePhone": "",
+    "website": "",
+    "address": "QMPF+V7F, Kallepully Rd, NGO Quarters, Ramanathapuram Gramam, Kalepully, Palakkad, Kerala 678005",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678005",
+    "locality": "Kalepully",
+    "landmark": "NGO Quarters",
+    "emergencyContact": "070348 11822",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.7871949%2C76.6731727&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.7871949%2C76.6731727&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.7871949%2C76.6731727&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.7871949%2C76.6731727&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7871949,
+      "lng": 76.6731727,
+      "label": "Flood Rescue (Dhwani Medical Center)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gem-hospital-coimbatore-coimbatore",
+    "name": "GEM Hospital Coimbatore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Coimbatore, GEM Hospital Coimbatore delivers integrated care across Liver Transplant Surgery In Palakkad. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Coimbatore.",
+    "email": "",
+    "phone": "0422 469 5100",
+    "alternatePhone": "",
+    "website": "https://gemhospitals.com/",
+    "address": "45, Pankaja Mills Rd, Palaniappa Nagar, Sowripalayam Pirivu, Ramanathapuram, Coimbatore, Tamil Nadu 641045",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "pincode": "641045",
+    "locality": "Ramanathapuram",
+    "landmark": "Palaniappa Nagar",
+    "emergencyContact": "0422 469 5100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnYM5UW7IToH2TSLC1gHRysXR2KcCdStrGBUPTAiHVPcXR_0AjfXR295E0bNXAUNuxvuOyWvc-GiM7x4BgE2MABu3CRbX0CYd-A9WPl2Ie_Xwk0N9ex2RgJ378zXgA01xz6lHiwA=w1200-h900-p-k-no",
+    "logo": "https://gemhospitals.com/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnYM5UW7IToH2TSLC1gHRysXR2KcCdStrGBUPTAiHVPcXR_0AjfXR295E0bNXAUNuxvuOyWvc-GiM7x4BgE2MABu3CRbX0CYd-A9WPl2Ie_Xwk0N9ex2RgJ378zXgA01xz6lHiwA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNsjqFHDGO4UPsw4M3MuH7LWfSf6UbtVv1Aif=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNsjqFHDGO4UPsw4M3MuH7LWfSf6UbtVv1Aifp5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMYcyGqi8niluJevQyyjvNv2qjcnah7nyPIQNG_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM3rXPHHNF6S2PYADHXXDeMLOLzENCEczWBRwkN=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.9996215,
+      "lng": 76.9954638,
+      "label": "GEM Hospital Coimbatore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "government-medical-college-hospital-palakkad",
+    "name": "Government Medical College Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Government Medical College Hospital is a prominent government hospital in Palakkad, known for structured tertiary care across Urologist Surgery In Palakkad. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Palakkad.",
+    "email": "",
+    "phone": "0491 297 4125",
+    "alternatePhone": "",
+    "website": "http://www.gmcpalakkad.in/",
+    "address": "QM27+36R, Kadamkode, Kalmandapam, Palakkad, Kerala 678013",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678013",
+    "locality": "Kalmandapam",
+    "landmark": "Kalmandapam",
+    "emergencyContact": "0491 297 4125",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMY9u0Ea_zBDjGF5LSccMMNVZV48wSNtjhHxL6ArRJC6i4amSY2tq4x3Xj6xWBAB9FWZ3oSNlBjagzJcjL-OiSrDriAUv7WI1U-l-pzkNHbmutyKzKcoUSXfn4hFJEWacUQ7I0r-77C-Hk=w1200-h900-p-k-no",
+    "logo": "http://www.gmcpalakkad.in/assets/corporate/img/logos/logo-corp-red.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMY9u0Ea_zBDjGF5LSccMMNVZV48wSNtjhHxL6ArRJC6i4amSY2tq4x3Xj6xWBAB9FWZ3oSNlBjagzJcjL-OiSrDriAUv7WI1U-l-pzkNHbmutyKzKcoUSXfn4hFJEWacUQ7I0r-77C-Hk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7502426,
+      "lng": 76.6630095,
+      "label": "Government Medical College Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "government-taluk-hospital-chittur-chittur",
+    "name": "Government Taluk Hospital Chittur",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Chittur, Government Taluk Hospital Chittur brings together specialists for Orthopedic Surgery In Palakkad. With public-facing highlights like Google rating 3.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Chittur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "04923 222 385",
+    "alternatePhone": "",
+    "website": "http://www.dhs.kerala.gov.in/",
+    "address": "14/60, SH25, Chittur, Kerala 678101",
+    "city": "Chittur",
+    "state": "Kerala",
+    "pincode": "678101",
+    "locality": "SH25",
+    "landmark": "Chittur",
+    "emergencyContact": "04923 222 385",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKchmdVra6ZcGRqv5KVdyu3A0erQmhsxZb7_2U7UALFNo2Hq5y7cHUmR8Rn3nm2aYQQvKzbrvpxtPmMEwva1JxNrXCAImdl4orYFtssTfCm23Qxt0ZPiWGbdftRkPP4nAnuM0=w1200-h900-p-k-no",
+    "logo": "https://dhs.kerala.gov.in/wp-content/uploads/2024/12/logo1-new.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKchmdVra6ZcGRqv5KVdyu3A0erQmhsxZb7_2U7UALFNo2Hq5y7cHUmR8Rn3nm2aYQQvKzbrvpxtPmMEwva1JxNrXCAImdl4orYFtssTfCm23Qxt0ZPiWGbdftRkPP4nAnuM0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXB3jYo7Qk5L1Kyc6BGYONYVaeLuArgo1rRJxnUe9jCMQ1ERxoQ70s4Y6NweJ67WlXC3jUwj7NjMK84hYVwsBZquH-eRWavSl6EHsJ6E1XBYxDSi-hGhsCMN8hjmitgxIuDJ2z=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkkdLSZ3SDniB0NQd-pgAMTWEhhN6DFPQ5g6Xet55AxI_wkWutfS8B_Ckeb1A2BRsTrdz3qAXp971wi6_QpnZR4R7z1qpcz9C0ITW6f21LJw5Rx9sWThtLUuRH5cm-wM67soefmg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGVkXFSLJxHHHoJ-5KGgrpSbIn6wNRIWZdBhRRQdhA6N9BVVezsp3etEFFM-ItMu69eu_ovJ28yRZ7iFny-Fg_HCrrOOF2YPIdhG2JjkRAThMzquIrP0ygh-2xBSIMDkUsPuwYD85pgZs=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbtUZbBsT4qYmR5QFGAJhRNl2ZvEEAHVJFh4wWm_14SUaaEwNBh3swUU8T_hiX239KWfz4AHNrM4kgJ0-CjbMhkbz8Rw6aifpYU2V6Qyq7U9FvLMRzQyTt7uI0iwqP_kAMJ3PeCoi0FpNe=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.6997696,
+      "lng": 76.7533091,
+      "label": "Government Taluk Hospital Chittur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "government-women-and-children-s-hospital-palakkad-palakkad",
+    "name": "Government Women And Children's Hospital Palakkad",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted government hospital in Palakkad, Government Women And Children's Hospital Palakkad delivers integrated care across Gynecologist Surgery In Palakkad and Women and Child Care. The facility stands out for Google rating 3.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Palakkad.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://dhs.kerala.gov.in/en/dhsw/",
+    "address": "4 TH FLOOR, GOVT WOMEN AND CHILDREN'S HOSPITAL, Sultanpet, Palakkad, Kerala 678001",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678001",
+    "locality": "Sultanpet",
+    "landmark": "Sultanpet",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Palakkad",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGurM-oTRldSX_V3Hxx2_jGRtLtB5li3B_8ALzAEObSZoKcVMpu25YLcNnIoXnGqWHGjx-AH0aLdDcE67nMneORnAybPKy9cp8rNEjklkZZpGnSrebsOpEe6EM_z-BDQH_1zeS1=w1200-h900-p-k-no",
+    "logo": "https://dhs.kerala.gov.in/wp-content/uploads/2024/12/logo1-new.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGurM-oTRldSX_V3Hxx2_jGRtLtB5li3B_8ALzAEObSZoKcVMpu25YLcNnIoXnGqWHGjx-AH0aLdDcE67nMneORnAybPKy9cp8rNEjklkZZpGnSrebsOpEe6EM_z-BDQH_1zeS1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLvIFf0zINua57ZqbveOW4-B-4pdfcIbKCY-7BppE4jeqESv-v1qocouJHrjXOGoM_0QBqtHvKDBZzZXugwfOa=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLvIFf0zINua57ZqbveOW4-B-4pdfcIbKCY-7BppE4jeqESv-v1qocouJHrjXOGoM_0QBqtHvKDBZzZXugwfOaaGeNzWu5Xcbxcn6qX1O1CmpC-Ytm2639c8QxfD6lTwJ1WnMpHbsPn7pz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGs4qyVKtFjPQVNVQEUBgE4g_zKjkERDM88DnMlOd7lBhA7o58Nb1-t84yI9ucrVXZp-MMCGITndM8VlQpTqSiqNIiFjILKHjh1_1u4F9YdaQiyUQcWas3wQaYcsAaKseBf7q3Zg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFvMSSc4U2ppy1_wygqTgdhXs39t9_YmYxSEuQ1eYWgjzJ1j3NdYEIoZbtTZUG8QM0baOSKLRnfFZkNePTPLLGWSQTNQSZ5dQ4XcDhvANZZyCgWHICgy5-KSYoHNHPTekJJUecXkw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7686109,
+      "lng": 76.6595009,
+      "label": "Government Women And Children's Hospital Palakkad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "govt-medical-college-main-block-palakkad-palakkad",
+    "name": "Govt Medical College Main block, Palakkad",
+    "type": "Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Palakkad often choose Govt Medical College Main block, Palakkad for its strength in Gynecologist Surgery In Palakkad. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Palakkad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kadamkode, Kalmandapam, Palakkad, Kerala 678013",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678013",
+    "locality": "Kalmandapam",
+    "landmark": "Palakkad",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYtjtcRYD2i1K8KluTbf80d6P-RHZdhMiGaluyKUetixy1uP0Y45kDVlNGfwRXnYC03MHYkdfugKON6yHaddr-6l1lYX0KmD3uqooSEP75kxfv3vNEd9cz105I4490HkTO4xLX=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYtjtcRYD2i1K8KluTbf80d6P-RHZdhMiGaluyKUetixy1uP0Y45kDVlNGfwRXnYC03MHYkdfugKON6yHaddr-6l1lYX0KmD3uqooSEP75kxfv3vNEd9cz105I4490HkTO4xLX=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7511538,
+      "lng": 76.6640703,
+      "label": "Govt Medical College Main block, Palakkad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "govt-taluk-hospital-ottapalam-ottapalam",
+    "name": "Govt. Taluk Hospital Ottapalam",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ottapalam, Govt. Taluk Hospital Ottapalam offers coordinated hospital care with major focus on Orthopedic Surgery In Palakkad. Hospital capacity markers such as Google rating 3.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ottapalam.",
+    "email": "",
+    "phone": "0466 224 4480",
+    "alternatePhone": "",
+    "website": "http://dhs.kerala.gov.in/",
+    "address": "Q9HF+VV3, Ottapalam - Cherppulassery Rd, Aditya Nagar, Ottapalam, Kerala 679102",
+    "city": "Ottapalam",
+    "state": "Kerala",
+    "pincode": "679102",
+    "locality": "Aditya Nagar",
+    "landmark": "Aditya Nagar",
+    "emergencyContact": "0466 224 4480",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGva7uRzGVbk6PEaxEFxypENvfMDO4AcmVOSa7MZB36kFDS9jrIXX4rpL0XtkI8re-ilJRwbJsZOX33y704bo8UAKOybHyigiJPQOcqhqPobZSOhc6eQgAzpYGPfbEhWWxAnYk=w1200-h900-p-k-no",
+    "logo": "https://dhs.kerala.gov.in/wp-content/uploads/2024/12/logo1-new.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGva7uRzGVbk6PEaxEFxypENvfMDO4AcmVOSa7MZB36kFDS9jrIXX4rpL0XtkI8re-ilJRwbJsZOX33y704bo8UAKOybHyigiJPQOcqhqPobZSOhc6eQgAzpYGPfbEhWWxAnYk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7796254,
+      "lng": 76.3746707,
+      "label": "Govt. Taluk Hospital Ottapalam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hakeem-s-clinic-palakkad",
+    "name": "HAKEEM'S CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Palakkad, HAKEEM'S CLINIC offers coordinated hospital care with major focus on Liver Transplant Surgery In Palakkad. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Palakkad.",
+    "email": "",
+    "phone": "0491 253 4055",
+    "alternatePhone": "",
+    "website": "",
+    "address": "QMM2+87X, Parakkunnam, Palakkad, Kerala 678001",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678001",
+    "locality": "Parakkunnam",
+    "landmark": "Palakkad",
+    "emergencyContact": "0491 253 4055",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbzK3sp8LRfxOtlssfP9GHh9EjUGZlhR7yxhP2ZO3Y74WbQ6QQ6wyDVUWZevw_sOXz6PCKKBpIhCiBf1ksnGzLqkLx_vER44DvB8OS_PDnmx10MHElkC0U4ABnhEv2F3gXFNIriw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbzK3sp8LRfxOtlssfP9GHh9EjUGZlhR7yxhP2ZO3Y74WbQ6QQ6wyDVUWZevw_sOXz6PCKKBpIhCiBf1ksnGzLqkLx_vER44DvB8OS_PDnmx10MHElkC0U4ABnhEv2F3gXFNIriw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7833693,
+      "lng": 76.6507292,
+      "label": "HAKEEM'S CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "india-hospital-thiruvananthapuram",
+    "name": "India Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Thiruvananthapuram, India Hospital delivers integrated care across Kidney Transplant Surgery In Palakkad. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Thiruvananthapuram.",
+    "email": "",
+    "phone": "093878 04668",
+    "alternatePhone": "",
+    "website": "http://www.indiahospitalkerala.com/",
+    "address": "Ems Rd, near Subramonia temple, Mele, Thampanoor, Thiruvananthapuram, Kerala 695001",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "pincode": "695001",
+    "locality": "Thampanoor",
+    "landmark": "near Subramonia temple, Mele, Thampanoor, Thiruvananthapuram, Kerala 695001",
+    "emergencyContact": "093878 04668",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXCFhxQoXxxoWxbtVb-ucRF-KftBBVocQOiB9QWQZdFHJ3QRaoZpV9XkYD7Dp-0FMtfyPIbCIT1wLtG2mGhVspkW0WflffOwgUxGQHL1Mct2aDUb9cJfnMRo9uvJNhtfWYmIz73iliLaYI=w1200-h900-p-k-no",
+    "logo": "https://indiahospitalkerala.com/images/logo-red.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXCFhxQoXxxoWxbtVb-ucRF-KftBBVocQOiB9QWQZdFHJ3QRaoZpV9XkYD7Dp-0FMtfyPIbCIT1wLtG2mGhVspkW0WflffOwgUxGQHL1Mct2aDUb9cJfnMRo9uvJNhtfWYmIz73iliLaYI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.4928179,
+      "lng": 76.9513267,
+      "label": "India Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "iqraa-international-hospital-and-research-centre-kozhikode",
+    "name": "IQRAA International Hospital & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kozhikode, IQRAA International Hospital & Research Centre delivers integrated care across Kidney Transplant Surgery In Palakkad. With public-facing highlights like Google rating 4.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kozhikode.",
+    "email": "",
+    "phone": "0495 353 6100",
+    "alternatePhone": "",
+    "website": "http://www.iqraahospital.in/",
+    "address": "Wayanad Rd, Malaparamba, Kozhikode, Kerala 673009",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "pincode": "673009",
+    "locality": "Malaparamba",
+    "landmark": "Kozhikode",
+    "emergencyContact": "0495 353 6100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9qYTUjZ_bvR1wgaojc42Nwe6PKIkyvHFUBIKg0mCG8SsbCWg_vwKQ40rjkxNN7whR8rSn3NFmGr46yppmOxztzqtVwDUKryLn2wE5LqZqo__71MCr1MjUvpukmp_KUBykEhu-=w1200-h900-p-k-no",
+    "logo": "https://iqraahospital.in/wp-content/uploads/2017/05/iqraa-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9qYTUjZ_bvR1wgaojc42Nwe6PKIkyvHFUBIKg0mCG8SsbCWg_vwKQ40rjkxNN7whR8rSn3NFmGr46yppmOxztzqtVwDUKryLn2wE5LqZqo__71MCr1MjUvpukmp_KUBykEhu-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGTYHy1nq234TAZ9tmKupq4LngrivVDC6Ik0QuHH0LBFXdCENDrGqHG6nUvm5S0I2cV-XDrz4WzwlxrjvcKatNT9pJT4LmaCmVo1veduO4M7oN4ChUqvJ39SwOORigaZIAl3u9kUesBpCA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtnyee9LIKif0NtuB_MaVdRbIx3F76eKy3oCZVdy_bEXP-O2XIeEpIcsEgqTV57C-PxTJrBtRHcstm3e9fWUnPcFii9yrjSyvr0LgC3TJSK1MVl1m80wFcH1KQkp2Hstebchl79EpeyMoN=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.2866691,
+      "lng": 75.7981171,
+      "label": "IQRAA International Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kairali-the-ayurvedic-healing-village-palayamkadu-p-o-olassery-kodumbu",
+    "name": "Kairali - The Ayurvedic Healing Village",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Palayamkadu P.O. - Olassery Kodumbu often choose Kairali - The Ayurvedic Healing Village for its strength in Cancer Surgery In Palakkad. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Palayamkadu P.O. - Olassery Kodumbu can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095551 56156",
+    "alternatePhone": "",
+    "website": "https://ayurvedichealingvillage.com/beauty-care-and-eye-care/",
+    "address": "III/73, Palayamkadu P.O. - Olassery Kodumbu, Kerala 678551",
+    "city": "Palayamkadu P.O. - Olassery Kodumbu",
+    "state": "Kerala",
+    "pincode": "678551",
+    "locality": "III/73",
+    "landmark": "Kerala 678551",
+    "emergencyContact": "095551 56156",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGy7kFTk95vL1oIvSbIc_mz7YEuMw02W-CdJuNIk0Qf6UI9Cq3Vj8qmnS83S5jbp0zKClPJY87CjVAFMQT6F8wz4FdzxDEdUnim4ZaYjVbYcGHM593nowOfZ0EI-t-tABXYUGgC=w1200-h900-p-k-no",
+    "logo": "https://ayurvedichealingvillage.com/wp-content/uploads/2024/11/logo_color-da22eb.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGy7kFTk95vL1oIvSbIc_mz7YEuMw02W-CdJuNIk0Qf6UI9Cq3Vj8qmnS83S5jbp0zKClPJY87CjVAFMQT6F8wz4FdzxDEdUnim4ZaYjVbYcGHM593nowOfZ0EI-t-tABXYUGgC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMTbz8xMuwnZDtkAEruh_XBbq1R1r6sZLe5jdg6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPLb8rl5d-HAYav9cV31_nQtau5BzXvOcjwp5d4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPQiIdxqJPVQb4mEodBsKity9ddtLiw-Tli_7DN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN9cdMvu2OzhogCl4oqFaSHpGo5MCR4NNx9ALvE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7279419,
+      "lng": 76.711564,
+      "label": "Kairali - The Ayurvedic Healing Village",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kalyani-kidney-care-centre-erode",
+    "name": "Kalyani Kidney Care Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Kalyani Kidney Care Centre for its strength in Kidney Transplant Surgery In Palakkad and Kidney Care. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "0424 226 6949",
+    "alternatePhone": "",
+    "website": "http://kidneystoneindia.com/",
+    "address": "104, Sampath Nagar Rd, near to Kongu Kalaiyarangam, Sanjay Nagar, Sampath Nagar, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Sampath Nagar",
+    "landmark": "near to Kongu Kalaiyarangam, Sanjay Nagar, Sampath Nagar, Erode, Tamil Nadu 638009",
+    "emergencyContact": "0424 226 6949",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCuZbhzkTrtgFG2Cdb5k99FyrlxG7_RazB50wDIaa9qKETapcJeoCffNwKKubSOK7R2b31KGIZZk7i-nnALzDfyAB6kq-jcEyVqqboV6-C5IogP4dTSTGvZrkANSyaj8tRQjlA=w1200-h900-p-k-no",
+    "logo": "https://kidneystoneindia.com/wp-content/uploads/2026/01/chola-logo-300x225.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCuZbhzkTrtgFG2Cdb5k99FyrlxG7_RazB50wDIaa9qKETapcJeoCffNwKKubSOK7R2b31KGIZZk7i-nnALzDfyAB6kq-jcEyVqqboV6-C5IogP4dTSTGvZrkANSyaj8tRQjlA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3383308,
+      "lng": 77.7082941,
+      "label": "Kalyani Kidney Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "karuna-hospital-palakkad",
+    "name": "Karuna Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Palakkad, Karuna Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Palakkad. With public-facing highlights like Google rating 3.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Palakkad.",
+    "email": "",
+    "phone": "086060 54200",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Palakkad - Ponnani Rd, Moothanthara, Melamuri, Palakkad, Kerala 678006",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678006",
+    "locality": "Melamuri",
+    "landmark": "Melamuri",
+    "emergencyContact": "086060 54200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMNUSX-u7wdKTV5ma5CiU7GAfJHKMnT48kDsSkdIwM-6VbGujtHiozeJkJH2FfV1RhP7xk1UPq6Jodoe3rHL4XOK3Ip-DH6MGegQydNV7bhMhinSArAaeOPfa7CNfptUOgK-gy5g8e_OE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMNUSX-u7wdKTV5ma5CiU7GAfJHKMnT48kDsSkdIwM-6VbGujtHiozeJkJH2FfV1RhP7xk1UPq6Jodoe3rHL4XOK3Ip-DH6MGegQydNV7bhMhinSArAaeOPfa7CNfptUOgK-gy5g8e_OE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPrrS-vT8Xug_VvOZorFRlKr89Is73uhPFLViZj=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7741088,
+      "lng": 76.6380158,
+      "label": "Karuna Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "karuna-medical-college-perumatty",
+    "name": "Karuna Medical College",
+    "type": "Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Perumatty often choose Karuna Medical College for its strength in Orthopedic Surgery In Palakkad. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Perumatty.",
+    "email": "",
+    "phone": "094969 62555",
+    "alternatePhone": "",
+    "website": "https://karunamedicalcollege.com/",
+    "address": "Chittur, Perumatty, Kerala 678103",
+    "city": "Perumatty",
+    "state": "Kerala",
+    "pincode": "678103",
+    "locality": "Chittur",
+    "landmark": "Kerala 678103",
+    "emergencyContact": "094969 62555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHm8SADS5uNwg6Wi9JT0R4AbmGd7NNj7HjMRHxCxlisMy8qiPV4Lzgatqro616gTKaiaNYTC-01WnPfXLtKUhqQwNlIH0I4yejTCS1DS-KES7_6VSQNYuUS00_vDZvGeefq4MG3GU2iX0u1=w1200-h900-p-k-no",
+    "logo": "https://karunamedicalcollege.com/wp-content/uploads/2025/08/cropped-karuna-logo.-1png-300x72.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHm8SADS5uNwg6Wi9JT0R4AbmGd7NNj7HjMRHxCxlisMy8qiPV4Lzgatqro616gTKaiaNYTC-01WnPfXLtKUhqQwNlIH0I4yejTCS1DS-KES7_6VSQNYuUS00_vDZvGeefq4MG3GU2iX0u1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMa7EtXyVfKPNXXOKoFrcXwYwuSb9Isz13z49C2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN228u9fyzaLfaPT1NH7MnDC1me17SdXnON9tHC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOrJPJykNobpJqv27yNSf77Y70HVC-JayWPd9WQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOkxc_t7IaGCzOejqlD4hHhtYkmoLp0hi5oIJQ_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.6802526,
+      "lng": 76.7730424,
+      "label": "Karuna Medical College",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "karunya-medical-pallakad-palakkad",
+    "name": "Karunya Medical Pallakad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Karunya Medical Pallakad is a prominent hospital in Palakkad, known for structured tertiary care across Kidney Transplant Surgery In Palakkad. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Palakkad.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "District Government Hospital, Santhi Nagar, Sultanpet, Palakkad, Kerala 678001",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678001",
+    "locality": "Sultanpet",
+    "landmark": "Sultanpet",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.7697707%2C76.657154&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.7697707%2C76.657154&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.7697707%2C76.657154&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.7697707%2C76.657154&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7697707,
+      "lng": 76.657154,
+      "label": "Karunya Medical Pallakad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kidney-hypertension-and-diabetes-specialty-clinic-thrissur",
+    "name": "Kidney Hypertension & Diabetes specialty clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kidney Hypertension & Diabetes specialty clinic has built a strong reputation in Thrissur for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Palakkad, Kidney Care, Diabetology, and Speciality Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Thrissur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "G6J7+CQJ, Patturaikkal, Thrissur, Kerala 680020",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": "680020",
+    "locality": "Patturaikkal",
+    "landmark": "Thrissur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad",
+      "Kidney Care",
+      "Diabetology",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.5310891%2C76.2143937&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.5310891%2C76.2143937&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.5310891%2C76.2143937&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.5310891%2C76.2143937&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.5310891,
+      "lng": 76.2143937,
+      "label": "Kidney Hypertension & Diabetes specialty clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kims-alshifa-super-speciality-hospital-perinthalmanna",
+    "name": "KIMS Alshifa Super Speciality Hospital കിംസ് അൽശിഫ ആശുപത്രി",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Perinthalmanna, KIMS Alshifa Super Speciality Hospital കിംസ് അൽശിഫ ആശുപത്രി offers coordinated hospital care with major focus on Liver Transplant Surgery In Palakkad and Speciality Care. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Perinthalmanna.",
+    "email": "",
+    "phone": "04933 299 299",
+    "alternatePhone": "",
+    "website": "http://kimsalshifahospital.com/",
+    "address": "Ootty Rd, Valiyangadi, Perinthalmanna, Kerala 679322",
+    "city": "Perinthalmanna",
+    "state": "Kerala",
+    "pincode": "679322",
+    "locality": "Valiyangadi",
+    "landmark": "Perinthalmanna",
+    "emergencyContact": "04933 299 299",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8fZbvfwufKWGjSagpP9RuYW_KMLwVO3Qr9AEnzosyZL7PxJVDCxU-xsjXzyFn5i94_HcJgYVEiV9XInHrKeYtHpOoX3ymzfCfja2e4MiFX_1qo2YHcrNbY3AGro77SuNF88Mb=w1200-h900-p-k-no",
+    "logo": "https://kimsalshifahospital.com/assets/front/images/kims-alshifa-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8fZbvfwufKWGjSagpP9RuYW_KMLwVO3Qr9AEnzosyZL7PxJVDCxU-xsjXzyFn5i94_HcJgYVEiV9XInHrKeYtHpOoX3ymzfCfja2e4MiFX_1qo2YHcrNbY3AGro77SuNF88Mb=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMzQs0zgJrT_QjFcYR9HdvGOmQHfrIucqBB17cz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN9czamqsAL1qF1PvTulXBkxShQ7Cmds6TRinVD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMucpEF0VHsICPcGOxb5MFs_AXFn2EXnl2HPTxp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExtbA0eGLz8u6G-HIlJCF4SMuic9W7mBsXCunSUOOiwnAAJrD_ZUcPHGa3ojccasXu9X2u7N5840YpVD_H3A7InUX_CapduAiTtakcvZdgUlh7B5BYOlXH33OWjdnRi9meUPgR452NgcY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.9846355,
+      "lng": 76.2238792,
+      "label": "KIMS Alshifa Super Speciality Hospital കിംസ് അൽശിഫ ആശുപത്രി",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kims-avitis-hospital-palakkad-nenmara",
+    "name": "KIMS AVITIS Hospital, Palakkad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Nenmara often choose KIMS AVITIS Hospital, Palakkad for its strength in Liver Transplant Surgery In Palakkad. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Nenmara.",
+    "email": "",
+    "phone": "04923 225 500",
+    "alternatePhone": "",
+    "website": "http://www.avitishospital.com/",
+    "address": "Building#: XX, 882, Pollachi- Trissur Main Road, near Japamaalarani Church, Nenmara, Kerala 678508",
+    "city": "Nenmara",
+    "state": "Kerala",
+    "pincode": "678508",
+    "locality": "near Japamaalarani Church",
+    "landmark": "near Japamaalarani Church, Nenmara, Kerala 678508",
+    "emergencyContact": "04923 225 500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFg4IzrIJ4YkT2Dh_U7g-m1BCd2X8ONQQ6YMwqnDrFdzlrr1tzPCuY7R34xLlFlUkm99QwHDHmOhTDc9Ok2rf4qvwOup2tb0aALmpnwvzeNJFGZX7PvwmSX4mAtDfdYzVWj0Pk=w1200-h900-p-k-no",
+    "logo": "https://www.avitishospital.com/wp-content/uploads/2023/05/avitis-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFg4IzrIJ4YkT2Dh_U7g-m1BCd2X8ONQQ6YMwqnDrFdzlrr1tzPCuY7R34xLlFlUkm99QwHDHmOhTDc9Ok2rf4qvwOup2tb0aALmpnwvzeNJFGZX7PvwmSX4mAtDfdYzVWj0Pk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9y44dKN6JLkHkqamcw3nCDlb4QJnfncUxyZZXLsfgyTq0QY_RX3XhS7qzbmAsKb9HCwY6ECWUtA6TklM0QDrBHbO2ff2xhv0R0msV1joOU4KP3ESK2Nt7LopNwJlft0a2pPC0IQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGfiNZv8uMfI0k2SF7W_AhIajjQOgaecOKoVa0_4nAJglqjqFlHqFNirQP0CbnAyJJISIa7RtcYBRdV0cxpuzL7g3xxhv1VdQZLcM2tsgzur9NmtrucgxrxCfIemcWcMozRdyxIwg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.5905132,
+      "lng": 76.582463,
+      "label": "KIMS AVITIS Hospital, Palakkad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "krishnammal-memorial-hospital-theni-unjampatti",
+    "name": "Krishnammal Memorial Hospital, Theni",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Unjampatti often choose Krishnammal Memorial Hospital, Theni for its strength in Kidney Transplant Surgery In Palakkad. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Unjampatti.",
+    "email": "",
+    "phone": "097151 52545",
+    "alternatePhone": "",
+    "website": "https://krishnammalmemorialhospital.com/",
+    "address": "293, Periyakulam Main Rd, near Aravind Eye Hospital, Konduraja Line, Theni, Unjampatti, Tamil Nadu 625531",
+    "city": "Unjampatti",
+    "state": "Tamil Nadu",
+    "pincode": "625531",
+    "locality": "Theni",
+    "landmark": "near Aravind Eye Hospital, Konduraja Line, Theni, Unjampatti, Tamil Nadu 625531",
+    "emergencyContact": "097151 52545",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFe44xgTnXdzSc1khCIm8S20Isn5fl2XBptbQ9nutzOjc4bDjocJpErqA6Pv3_kYXT7RSH5haB-oEmEzIcgIMPMf7ogEMNTyJL59wFECitR_G3ITQKPH66gNFoS-lvDzW6AZitm=w1200-h900-p-k-no",
+    "logo": "https://krishnammalmemorialhospital.com/wp-content/uploads/2024/08/cropped-kmh-tamil-150x150.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFe44xgTnXdzSc1khCIm8S20Isn5fl2XBptbQ9nutzOjc4bDjocJpErqA6Pv3_kYXT7RSH5haB-oEmEzIcgIMPMf7ogEMNTyJL59wFECitR_G3ITQKPH66gNFoS-lvDzW6AZitm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPKAVoo5MEwejqgR3EM11vGKKQ0XzgQjlcpLX_p=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNmUUrvOls4SDgwjdSy4EQQhA6-UiXF6IDgZJgh=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNB1jOWl5xLK4ZzrGEzQZArOf5jc95WYRirRWJy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOuSSG7r9ylZguZAM5rdFNgjvplgbWoiVOLcVTs=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.0230554,
+      "lng": 77.4799756,
+      "label": "Krishnammal Memorial Hospital, Theni",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lakshmi-hospital-palakkad",
+    "name": "Lakshmi Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lakshmi Hospital is a prominent private hospital in Palakkad, known for structured tertiary care across Urologist Surgery In Palakkad. Operational strengths including Google rating 3.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Palakkad.",
+    "email": "",
+    "phone": "086060 48999",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chittur Rd, Durga Nagar, Kenathuparambu, Kunnathurmedu, Palakkad, Kerala 678013",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678013",
+    "locality": "Kunnathurmedu",
+    "landmark": "Kenathuparambu",
+    "emergencyContact": "086060 48999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIMSB8Wr4YhO0fCSBg1LbELNFi7coyQxuYyYpbDa9ML4GH90N34oa_jBZPhg6iZs0qkk9YWir1KRmqnH5w3wC-utF0Tr4AIHfBM9md4SZvAaj-J5sGseAxcLV1LKnMewfCsPTo=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIMSB8Wr4YhO0fCSBg1LbELNFi7coyQxuYyYpbDa9ML4GH90N34oa_jBZPhg6iZs0qkk9YWir1KRmqnH5w3wC-utF0Tr4AIHfBM9md4SZvAaj-J5sGseAxcLV1LKnMewfCsPTo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7636883,
+      "lng": 76.6621952,
+      "label": "Lakshmi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "liver-surgery-india-ernakulam",
+    "name": "Liver Surgery India",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ernakulam, Liver Surgery India delivers integrated care across Liver Transplant Surgery In Palakkad and Liver Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ernakulam.",
+    "email": "",
+    "phone": "096709 71552",
+    "alternatePhone": "",
+    "website": "https://www.liversurgeryindia.com/",
+    "address": "66, Lakeshore Hospital Rd, Nettoor, Maradu, Kochi, Ernakulam, Kerala 682506",
+    "city": "Ernakulam",
+    "state": "Kerala",
+    "pincode": "682506",
+    "locality": "Kochi",
+    "landmark": "Nettoor",
+    "emergencyContact": "096709 71552",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad",
+      "Liver Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=9.9183925%2C76.3189159&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://liversurgeryindia.com/images/2024/01/logo.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=9.9183925%2C76.3189159&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=9.9183925%2C76.3189159&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=9.9183925%2C76.3189159&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 9.9183925,
+      "lng": 76.3189159,
+      "label": "Liver Surgery India",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "malabar-hospitals-palakkad",
+    "name": "Malabar Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Palakkad, Malabar Hospitals brings together specialists for Urologist Surgery In Palakkad. The facility stands out for Google rating 3.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Palakkad.",
+    "email": "",
+    "phone": "0491 252 8200",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH 47, near Yakkara Bridge, Kenathuparambu, Kunathurmedu, Palakkad, Kerala 678001",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678001",
+    "locality": "Kunathurmedu",
+    "landmark": "near Yakkara Bridge, Kenathuparambu, Kunathurmedu, Palakkad, Kerala 678001",
+    "emergencyContact": "0491 252 8200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5PuvhNckQpGEgS0YzYdGA-jvkzTAbKRJ7u92suduYTDcMqxQTDz9WTkojA2WntfZAw0_NNgpaKg92YoYLiE8NnWe0MnDf4B9A_XTAeLO2scvPEEoAz17hXB3342JxlBbwjnk2=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5PuvhNckQpGEgS0YzYdGA-jvkzTAbKRJ7u92suduYTDcMqxQTDz9WTkojA2WntfZAw0_NNgpaKg92YoYLiE8NnWe0MnDf4B9A_XTAeLO2scvPEEoAz17hXB3342JxlBbwjnk2=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.749163,
+      "lng": 76.6606903,
+      "label": "Malabar Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mankara-heart-hospital-mankara",
+    "name": "MANKARA HEART HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MANKARA HEART HOSPITAL has built a strong reputation in Mankara for multidisciplinary treatment pathways covering Cardiac Surgery In Palakkad and Cardiac Care. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Mankara can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0491 291 1448",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Old Theatre Stop, Mankara, Kerala 678613",
+    "city": "Mankara",
+    "state": "Kerala",
+    "pincode": "678613",
+    "locality": "Old Theatre Stop",
+    "landmark": "Kerala 678613",
+    "emergencyContact": "0491 291 1448",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Palakkad",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdHn3WfiNkVfxkTsUEghnVEGvQEBP09c4ph51J1m6S-MPeMKvVJgvYxyERrEnDz00sDbnqcabMaAfOVMG8FhwP8YN8BMWsR5aKy-Oy7QH9O5bd8Zv_cLGEEv_nNGD5AJiwYeZagA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdHn3WfiNkVfxkTsUEghnVEGvQEBP09c4ph51J1m6S-MPeMKvVJgvYxyERrEnDz00sDbnqcabMaAfOVMG8FhwP8YN8BMWsR5aKy-Oy7QH9O5bd8Zv_cLGEEv_nNGD5AJiwYeZagA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7837417,
+      "lng": 76.4902432,
+      "label": "MANKARA HEART HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "meditrina-hospital-palakkad",
+    "name": "Meditrina Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Palakkad, Meditrina Hospital offers coordinated hospital care with major focus on Urologist Surgery In Palakkad. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Palakkad.",
+    "email": "",
+    "phone": "0491 350 0300",
+    "alternatePhone": "",
+    "website": "http://palakkad.meditrinahospitals.com/",
+    "address": "Mercy Junction, Shornur Rd, Thondikulam, Nurani, Palakkad, Kerala 678006",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678006",
+    "locality": "Nurani",
+    "landmark": "Thondikulam",
+    "emergencyContact": "0491 350 0300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIBstG_3EflJZ1TF2mTzi-rov-IqH5nAsNRRu84MNaiU8axIj6PMofh9dTNYfK7EiVTXEvAAvgsSZZe8C8V0XuGQb3gLoA0vMihOkmc2ROEjn5PEiDV4SkLG2ijaqeH4pCPqWp=w1200-h900-p-k-no",
+    "logo": "http://palakkad.meditrinahospitals.com/assets/images/nabh_logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIBstG_3EflJZ1TF2mTzi-rov-IqH5nAsNRRu84MNaiU8axIj6PMofh9dTNYfK7EiVTXEvAAvgsSZZe8C8V0XuGQb3gLoA0vMihOkmc2ROEjn5PEiDV4SkLG2ijaqeH4pCPqWp=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7700352,
+      "lng": 76.6374408,
+      "label": "Meditrina Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "meditrina-hospitals-pvt-ltd-kollam",
+    "name": "Meditrina Hospitals Pvt. Ltd.",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Meditrina Hospitals Pvt. Ltd. is a prominent private hospital in Kollam, known for structured tertiary care across Kidney Transplant Surgery In Palakkad. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kollam.",
+    "email": "",
+    "phone": "0474 272 1111",
+    "alternatePhone": "",
+    "website": "http://www.meditrinahospitals.com/",
+    "address": "Kollam - Ayoor Road, Bypass Road, Ayathil, Kollam, Kerala 691021",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691021",
+    "locality": "Ayathil",
+    "landmark": "Ayathil",
+    "emergencyContact": "0474 272 1111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZKlairb3bz8S5AoSF4YIz8GP9xNwV_uzjAPOJfne2nmciGvXAiaubrQXf_UnW3DlNvSd3YLj13NdUMWd2N_GrmDGcQXkCESffN2MlfEP-uJ1moSMNIxRvJk7Ow2rF3CDgGic-uAfJV-Wp=w1200-h900-p-k-no",
+    "logo": "http://www.meditrinahospitals.com/assets/images/nabh_logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZKlairb3bz8S5AoSF4YIz8GP9xNwV_uzjAPOJfne2nmciGvXAiaubrQXf_UnW3DlNvSd3YLj13NdUMWd2N_GrmDGcQXkCESffN2MlfEP-uJ1moSMNIxRvJk7Ow2rF3CDgGic-uAfJV-Wp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMoilKaiPhdY7s6UAojdVCaQ65IeBT_NGI_BKXG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM3447SEMrVX_VNQkPULTb76aXM5zV7sSHLaYd8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNkOajzyXcyV52iANzD5Rmm8ito-U8jtNA8_azr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPfFd7oGvWgVP__e5u8Tuhw4ksrojePVO7OTt2K=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8921905,
+      "lng": 76.6324065,
+      "label": "Meditrina Hospitals Pvt. Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mercy-hospital-alathur",
+    "name": "Mercy Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mercy Hospital is a prominent hospital in Alathur, known for structured tertiary care across Orthopedic Surgery In Palakkad. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Alathur.",
+    "email": "",
+    "phone": "090613 75072",
+    "alternatePhone": "",
+    "website": "http://www.mercyorthopedichospital.com/",
+    "address": "Gandhi junction, Alathur, Kerala 678541",
+    "city": "Alathur",
+    "state": "Kerala",
+    "pincode": "678541",
+    "locality": "Gandhi junction",
+    "landmark": "Kerala 678541",
+    "emergencyContact": "090613 75072",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHW4EdcQjPb0Xwvj4A7n2MZAVFfz_gkakceeCyBONt0Ew0Qucb1OxrUpKCiXm3j5npXe4ZZaAk5et8MsbdEL9ciZx81FKD36k6NRNP1KXnu4gtqAXlvsVLAsL9Oo7WaltUFoDGpyw=w1200-h900-p-k-no",
+    "logo": "https://static.wixstatic.com/media/35af96_20a3e7b99a6f43edaaa11fbcc806d5cf~mv2.png/v1/fill/w_230,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Bajaj-Allianz-Life-Insurance-Logo-PNG-Vector.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHW4EdcQjPb0Xwvj4A7n2MZAVFfz_gkakceeCyBONt0Ew0Qucb1OxrUpKCiXm3j5npXe4ZZaAk5et8MsbdEL9ciZx81FKD36k6NRNP1KXnu4gtqAXlvsVLAsL9Oo7WaltUFoDGpyw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.6445775,
+      "lng": 76.5495546,
+      "label": "Mercy Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "modern-semalk-hospital-ottapalam",
+    "name": "Modern Semalk Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ottapalam, Modern Semalk Hospital brings together specialists for Orthopedic Surgery In Palakkad. Hospital capacity markers such as Google rating 3.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ottapalam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0466 224 6438",
+    "alternatePhone": "",
+    "website": "https://semalkhospital.in/",
+    "address": "Palakkad - Ponnani Rd, Vinayaka Nagar, Kanniyampuram, Ottapalam, Kerala 679521",
+    "city": "Ottapalam",
+    "state": "Kerala",
+    "pincode": "679521",
+    "locality": "Kanniyampuram",
+    "landmark": "Kanniyampuram",
+    "emergencyContact": "0466 224 6438",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYNbzfDcDmE9ZBd8MUeB4WOKZhVjDj_-NNx8MaJ169HJxk2n2es1jhjP9TKQhIO073_pBWc5KXolJR7xoIMD0KnHnoLe0t8AG-bgRQSrPK61kWqhVM4uFt361mr2qYidu-OY9Pp7vqrO_r=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYNbzfDcDmE9ZBd8MUeB4WOKZhVjDj_-NNx8MaJ169HJxk2n2es1jhjP9TKQhIO073_pBWc5KXolJR7xoIMD0KnHnoLe0t8AG-bgRQSrPK61kWqhVM4uFt361mr2qYidu-OY9Pp7vqrO_r=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.773082,
+      "lng": 76.368752,
+      "label": "Modern Semalk Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mother-care-hospital-kumaramputhur",
+    "name": "Mother Care Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Kumaramputhur, Mother Care Hospital delivers integrated care across Liver Transplant Surgery In Palakkad. Hospital capacity markers such as Google rating 3.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kumaramputhur.",
+    "email": "",
+    "phone": "04924 227 700",
+    "alternatePhone": "",
+    "website": "https://www.mothercarehealth.com/",
+    "address": "National Highway 966, Vattambalam, Kumaramputhur, Kerala 678583",
+    "city": "Kumaramputhur",
+    "state": "Kerala",
+    "pincode": "678583",
+    "locality": "Vattambalam",
+    "landmark": "Kumaramputhur",
+    "emergencyContact": "04924 227 700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVnzJPPr6RxcV2E4cOef3jFsX8sz1T6c95_3UjeYlLeMVMQlk5mR9aH0Iq2UOPBtyzBl3lGgGy3ajhbqKYLtXcFzVG5uHCZexA1wvAt7XZzDhWhQPYeiyQHZveAk02qle7ZYE50QuE_-Gw=w1200-h900-p-k-no",
+    "logo": "https://www.mothercarehealth.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVnzJPPr6RxcV2E4cOef3jFsX8sz1T6c95_3UjeYlLeMVMQlk5mR9aH0Iq2UOPBtyzBl3lGgGy3ajhbqKYLtXcFzVG5uHCZexA1wvAt7XZzDhWhQPYeiyQHZveAk02qle7ZYE50QuE_-Gw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOKOUjiR9VImhJNa3BT7dggR0opcWqhdtY4Ya3F=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNJ6y3wzxgW2mavgc9ji-7Qv3htaWxF4T_X6onV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMBuTDq_xol95t4kfE1HxeOhL_bF36KzPT_PUKP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPBVCNu-M_qiPARGYBf3-x6R_jIlCAEcWGTURUW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.9834237,
+      "lng": 76.4232254,
+      "label": "Mother Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nims-hospital-neyyattinkara",
+    "name": "NIMS Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Neyyattinkara, NIMS Hospital offers coordinated hospital care with major focus on Kidney Transplant Surgery In Palakkad. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Neyyattinkara.",
+    "email": "",
+    "phone": "0471 222 2115",
+    "alternatePhone": "",
+    "website": "http://www.nimshospital.com/",
+    "address": "Aralumoodu, Neyyattinkara, Kerala 695123",
+    "city": "Neyyattinkara",
+    "state": "Kerala",
+    "pincode": "695123",
+    "locality": "Aralumoodu",
+    "landmark": "Kerala 695123",
+    "emergencyContact": "0471 222 2115",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0QIJg1rzognfL4WFGTK-6M4ciXAlp2Ie2owT9-BaGWhc7hJXvedMsa9vACVBGECOhFJuCUIEblr1ekSxyJXWlbR_4YBh5VURgeRApc_QLXmCnz-NRscNEI7qIFtyjxNjg7iOU=w1200-h900-p-k-no",
+    "logo": "https://www.nimshospital.com/wp-content/uploads/2025/09/logonaac.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0QIJg1rzognfL4WFGTK-6M4ciXAlp2Ie2owT9-BaGWhc7hJXvedMsa9vACVBGECOhFJuCUIEblr1ekSxyJXWlbR_4YBh5VURgeRApc_QLXmCnz-NRscNEI7qIFtyjxNjg7iOU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHk6rSd9Oh-w2LBpM4mjgtazT7Sy60z3N8EY8ajpLyJSRixZWqwE6wjPCIIDCpp3sQbL98wB0gxeEMZpHKXZ4EnXxkqQaAtt3yeKmYUdetciTgi_8MuU5A2TfywYWLCwpboQs8r=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHX47lzirldztC_zqnPJlWavfmwLlZMAJfiuXr4DXEbkBIv-7N0aJqY_tS88INMasF0EJH-jlt97IVdlu03xd70mVOCjXvcXG_6FoJs5MhPOMYSbg5X3snYSv2ldbkbCHiklDM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEx_VkcB7BxhG5naSx0AfwbB6e2KUmxrYkQ769udM8jnRnGtUh-b03J32ZosC-YTkf7j_jC1EhVgP1NRsZ6-Fx3e6kZgbg73t0F-rGhce_rV9ALLBNKLdDt10DWItf9MIw093AVJw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOzeKitl_niA98xhyrN4ntyyGqBwDY_TMXtolBB9eHjTonS-T40maK9VJVa5ovakLJFrpJg-AVGrdQzFP--DvNKsEcKMjXjMdB_nUG6POPzzx0ZlN4j2TtO9fz8VdE74TBLnaj=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.4122195,
+      "lng": 77.0659184,
+      "label": "NIMS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "paalana-hospital-kannadi-ii",
+    "name": "Paalana Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Paalana Hospital is a prominent hospital in Kannadi-II, known for structured tertiary care across Urologist Surgery In Palakkad. Its infrastructure includes Google rating 3.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kannadi-II.",
+    "email": "",
+    "phone": "0491 252 0901",
+    "alternatePhone": "",
+    "website": "http://www.paalana.in/contact/",
+    "address": "Palana Hospital Rd, Kannadi-I, Kannadi-II, Kerala 678701",
+    "city": "Kannadi-II",
+    "state": "Kerala",
+    "pincode": "678701",
+    "locality": "Kannadi-I",
+    "landmark": "Kannadi-II",
+    "emergencyContact": "0491 252 0901",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGkCtNeZWKNmrxBWTygRuxfQlJu1ObMOOEsFYI0mi3xCoCmG333ZNE5YIwvVRQFbSDe5GEmlZwa4eTZTw1l2kj7m6PEHDOJRiQ1n5-Ed7FaIePqQx9VlZVzUJt62a8GHnjPphP=w1200-h900-p-k-no",
+    "logo": "https://paalana.in/wp-content/uploads/2022/08/cropped-log-32x32.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGkCtNeZWKNmrxBWTygRuxfQlJu1ObMOOEsFYI0mi3xCoCmG333ZNE5YIwvVRQFbSDe5GEmlZwa4eTZTw1l2kj7m6PEHDOJRiQ1n5-Ed7FaIePqQx9VlZVzUJt62a8GHnjPphP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDeqsxOu_tDdu33Zx1G8ljoD5zbJyLJEcrYGzFxjhj4IjXLFJBY8cqu-R7jEX7oDdJtzZyHpRildMCrP-E33L5mryoV9nlbLKT5r-bwqa3ItFi6bc_PSAgvoPv8HYebUx0G8GI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7385383,
+      "lng": 76.6512955,
+      "label": "Paalana Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "palakkad-institute-of-medical-sciences-palakkad",
+    "name": "Palakkad Institute of Medical Sciences",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Palakkad often choose Palakkad Institute of Medical Sciences for its strength in Orthopedic Surgery In Palakkad. With public-facing highlights like Google rating 4.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Palakkad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0491 286 3000",
+    "alternatePhone": "",
+    "website": "http://www.pimshospital.com",
+    "address": "RRHM+65 Institute of Medical Science, Palakkad, opposite to Deer Park, Pudussery East, Kerala 678624",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678624",
+    "locality": "RRHM+65 Institute of Medical Science",
+    "landmark": "opposite to Deer Park, Pudussery East, Kerala 678624",
+    "emergencyContact": "0491 286 3000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4rorvOLGhChpNUWH6AdTMPdOp_bZaOJcoaWoDEo2mMsYmxk_R9kiJyKE17CqoieuWBrcM0yoj_TZh-RfFTKLMfDjECfz3GDDK17_gMtuTB0-5_mzv4HROf1zLKum6CmmnnbE50hBPWKpB=w1200-h900-p-k-no",
+    "logo": "https://pimshospital.com/hospital/wp-content/uploads/2025/07/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4rorvOLGhChpNUWH6AdTMPdOp_bZaOJcoaWoDEo2mMsYmxk_R9kiJyKE17CqoieuWBrcM0yoj_TZh-RfFTKLMfDjECfz3GDDK17_gMtuTB0-5_mzv4HROf1zLKum6CmmnnbE50hBPWKpB=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOEPFDeFcKc_L1RG7tAu0EcP04R0pZHrFhAS25G=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOixvKM0mYf4Sfgdyo_URgG2nju4AcvKEw2I_Oa=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOZai37SH-aXWzs9QhUVqDIm_tdzGrlzTsV8ncl=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPReax4Qm2wbqMEV78HJk0b3ZH1kiORHNKlEMBN=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.8276363,
+      "lng": 76.8328497,
+      "label": "Palakkad Institute of Medical Sciences",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "palghat-poly-clinic-hospital-palakkad-palakkad",
+    "name": "Palghat Poly Clinic Hospital Palakkad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Palakkad often choose Palghat Poly Clinic Hospital Palakkad for its strength in Orthopedic Surgery In Palakkad. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Palakkad.",
+    "email": "",
+    "phone": "0491 252 4153",
+    "alternatePhone": "",
+    "website": "",
+    "address": "QMCC+3CX, Menna Nagar Colony, Kalmandapam, Palakkad, Kerala 678001",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678001",
+    "locality": "Kalmandapam",
+    "landmark": "Kalmandapam",
+    "emergencyContact": "0491 252 4153",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJVBW3bcBdA8VsMN9frpnGYpzTD2zooVMhHBuV2v4B9EkcqfW1EOxGFrVRH-UYDfzYlhcirTCJiyNm7_DNh4c3jYn2-HQ_yXhodfNR1oQC-d1SZ_MItq7_b77rIVK-jkr0za4Hhh6GLgw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJVBW3bcBdA8VsMN9frpnGYpzTD2zooVMhHBuV2v4B9EkcqfW1EOxGFrVRH-UYDfzYlhcirTCJiyNm7_DNh4c3jYn2-HQ_yXhodfNR1oQC-d1SZ_MItq7_b77rIVK-jkr0za4Hhh6GLgw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPpZjn2SNHDWMs_kLcI1eA-QhpMfQk4XuVxR2Z5GaCE2diRf0-eu7UPSbGzOBmkppUDlp5og6vaDngPRQknHpEvDxzmc4lALjJ9ITDJqemVLvi5nzmJExiNWqJho06sTJo75EhMTAgCMmd=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7715618,
+      "lng": 76.6709846,
+      "label": "Palghat Poly Clinic Hospital Palakkad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "palliative-district-centre-palakkad-palakkad",
+    "name": "Palliative District Centre Palakkad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Palakkad, Palliative District Centre Palakkad offers coordinated hospital care with major focus on Kidney Transplant Surgery In Palakkad. Operational strengths including Google rating 3.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Palakkad.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "QM95+966, District Hospital, near Municipal Office, Palakkad, Kerala 678001",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678001",
+    "locality": "near Municipal Office",
+    "landmark": "near Municipal Office, Palakkad, Kerala 678001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMGq-EyPyL-QCxpQxyUz6bu8SCKTAI0DUCPHZ-BZO0DRbz_dQHd9oRwATiilA4FlpBZ3GCeDXzx2qLLHfowbUhTI3Kjw-Xp0Y1sVLRvA0W8_mhDFoReBio5UlV0w2KbFcxZh_i=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMGq-EyPyL-QCxpQxyUz6bu8SCKTAI0DUCPHZ-BZO0DRbz_dQHd9oRwATiilA4FlpBZ3GCeDXzx2qLLHfowbUhTI3Kjw-Xp0Y1sVLRvA0W8_mhDFoReBio5UlV0w2KbFcxZh_i=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7684244,
+      "lng": 76.6580067,
+      "label": "Palliative District Centre Palakkad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pk-das-institute-of-medical-sciences-hospital-and-medical-college-ottapalam",
+    "name": "PK DAS Institute of Medical Sciences - Hospital and Medical College",
+    "type": "Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "PK DAS Institute of Medical Sciences - Hospital and Medical College is a prominent hospital in Ottapalam, known for structured tertiary care across Kidney Transplant Surgery In Palakkad. The facility stands out for Google rating 4.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ottapalam.",
+    "email": "",
+    "phone": "0466 234 4500",
+    "alternatePhone": "",
+    "website": "https://pkdims.org/",
+    "address": "Vaniamkulam, Ottapalam, Kerala 679522",
+    "city": "Ottapalam",
+    "state": "Kerala",
+    "pincode": "679522",
+    "locality": "Vaniamkulam",
+    "landmark": "Kerala 679522",
+    "emergencyContact": "0466 234 4500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0OcmafSWob0QX5-k1ai154qDcjpdnRNiOiYsNkywI62ESf4EAMtnP3sJcsdrqm6n1Y6ThjW6eUjquwj_72M19WUKnsok5i-ngrzNvcf6x_py6prOPXuBj56W0AT-iStOfb1k6=w1200-h900-p-k-no",
+    "logo": "https://pkdims.org/wp-content/uploads/2024/03/pkdims-logo-dark-mobile-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0OcmafSWob0QX5-k1ai154qDcjpdnRNiOiYsNkywI62ESf4EAMtnP3sJcsdrqm6n1Y6ThjW6eUjquwj_72M19WUKnsok5i-ngrzNvcf6x_py6prOPXuBj56W0AT-iStOfb1k6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEAQpPsi1XohhbiNkKeP4FWikLDyxE5LBsZoyz3BiVc-l1AMbabauHsb4vpkWpelVLoMWOiJkpYShxYprsEeOvwKgweAGivthpRho5jdbR9nC4svlt9YB-So_bQrnzRsx_9JdY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGVf0hEcdzjw-UycUEwAD716FfkiOC0OFjsNKqH3zI5WVwH9X5iuIB0SImJ2LvDnT3b67RfyUfbb0WUu2bhxvR-EWQdvQ6scbOm_cSYa8XlT2dUzkhrRT94KL9VBowQxuBnGNn3EjF85P6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHBbwPReSYj0482wlOz_xHb98pPkIOWxvOIVhA1S3cisGM1_yC1xhQCaRane6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHBbwPReSYj0482wlOz_xHb98pPkIOWxvOIVhA1S3cisGM1_yC1xhQCaRane6btTtgPXTSJHMbO-d2wdmnqvNLZAkOPrv6y8-tw4116y-SIvqI3d0i1TBBEJ0gZBagD6orWwVM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7828475,
+      "lng": 76.3269766,
+      "label": "PK DAS Institute of Medical Sciences - Hospital and Medical College",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rajiv-gandhi-co-operative-hospital-palakkad",
+    "name": "Rajiv Gandhi Co-operative Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Palakkad, Rajiv Gandhi Co-operative Hospital offers coordinated hospital care with major focus on Urologist Surgery In Palakkad. Hospital capacity markers such as Google rating 3.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Palakkad.",
+    "email": "",
+    "phone": "0491 250 9000",
+    "alternatePhone": "",
+    "website": "http://www.cooperativehospitalpkd.com/",
+    "address": "Mepparambu - Kallekkad Sub Rd, Kodunthirapully, Palakkad, Pirayiri, Kerala 678004",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678004",
+    "locality": "Kodunthirapully",
+    "landmark": "Palakkad",
+    "emergencyContact": "0491 250 9000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4nxjOFKKMNl5-ZVtCAQF_ZseF-S09dBp-EhFaOHomRSbCtBohxS6SjXBas2qTnUR76U_GqrNkmkcDD6KdyU9u5rGqqVzIZXfkxfSt_LDhSFXfcglNuLUpm93qdMdVYCrrTDVHGg=w1200-h900-p-k-no",
+    "logo": "https://www.cooperativehospitalpkd.com/assets/img/pdch-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4nxjOFKKMNl5-ZVtCAQF_ZseF-S09dBp-EhFaOHomRSbCtBohxS6SjXBas2qTnUR76U_GqrNkmkcDD6KdyU9u5rGqqVzIZXfkxfSt_LDhSFXfcglNuLUpm93qdMdVYCrrTDVHGg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0e3ZX0QVTvq6aUM9y0wOInACJSmVCJzHTeGD6weiZcGSPT1SI3sjB31uPgOOM6Sp5Q3XhqDQtjJlU7LWH_AF3veFVXcCtJP3d8i7WXcQlAd5XNoBw9ZtrxDDpfdNvj0vJgzSvcg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7783199,
+      "lng": 76.6052809,
+      "label": "Rajiv Gandhi Co-operative Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "reni-kidney-care-pollachi",
+    "name": "RENI KIDNEY CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RENI KIDNEY CARE has built a strong reputation in Pollachi for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Palakkad and Kidney Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pollachi.",
+    "email": "",
+    "phone": "090477 77876",
+    "alternatePhone": "",
+    "website": "http://www.renikidneycare.com/",
+    "address": "6/3, Thirugnanasambandar St, Pollachi, Tamil Nadu 642002",
+    "city": "Pollachi",
+    "state": "Tamil Nadu",
+    "pincode": "642002",
+    "locality": "Thirugnanasambandar St",
+    "landmark": "Pollachi",
+    "emergencyContact": "090477 77876",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFEerOmoT-kIz8HRNJ82RwBZqh21l0SufeE4oO8y0OzyBzoFlqzEXwSKIWp8err2jeepcrtLuRITTDpoYfrnHL6UOEp1dA_ZGmjWdTrL_5lZCwJoc-ekUJBhmXxhmCI3DrLhdNN=w1200-h900-p-k-no",
+    "logo": "https://renikidneycare.com/wp-content/uploads/2025/02/RENI-LOGO-NEW.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFEerOmoT-kIz8HRNJ82RwBZqh21l0SufeE4oO8y0OzyBzoFlqzEXwSKIWp8err2jeepcrtLuRITTDpoYfrnHL6UOEp1dA_ZGmjWdTrL_5lZCwJoc-ekUJBhmXxhmCI3DrLhdNN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMpoU3gJwk055Y6BlZS9Mf6me1ELvl59whw7gQc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.6657229,
+      "lng": 77.0090367,
+      "label": "RENI KIDNEY CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rheumatology-clinic-reni-kidney-care-pollachi",
+    "name": "RHEUMATOLOGY CLINIC @RENI KIDNEY CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pollachi, RHEUMATOLOGY CLINIC @RENI KIDNEY CARE delivers integrated care across Kidney Transplant Surgery In Palakkad and Kidney Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pollachi.",
+    "email": "",
+    "phone": "090477 77876",
+    "alternatePhone": "",
+    "website": "https://www.renikidneycare.com/",
+    "address": "Thirugnanasambandar St, Mahalingapuram, Pollachi, Tamil Nadu 642002",
+    "city": "Pollachi",
+    "state": "Tamil Nadu",
+    "pincode": "642002",
+    "locality": "Mahalingapuram",
+    "landmark": "Pollachi",
+    "emergencyContact": "090477 77876",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Palakkad",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.6659633%2C77.0087732&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://renikidneycare.com/wp-content/uploads/2025/02/RENI-LOGO-NEW.jpg",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.6659633%2C77.0087732&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.6659633%2C77.0087732&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.6659633%2C77.0087732&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.6659633,
+      "lng": 77.0087732,
+      "label": "RHEUMATOLOGY CLINIC @RENI KIDNEY CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sai-hospital-olavakkode-palakkad",
+    "name": "SAI HOSPITAL OLAVAKKODE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SAI HOSPITAL OLAVAKKODE has built a strong reputation in Palakkad for multidisciplinary treatment pathways covering Urologist Surgery In Palakkad. Hospital capacity markers such as Google rating 3.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Palakkad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090206 18705",
+    "alternatePhone": "",
+    "website": "https://sai-hospital.com/",
+    "address": "QJWV+JJP sai junction, Dasaradha Nagar, Chathapuram, Kalpathy, Palakkad, Kerala 678002",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678002",
+    "locality": "Kalpathy",
+    "landmark": "Chathapuram",
+    "emergencyContact": "090206 18705",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQyqba3pj1c0U7HAOLNX3dd183tZ8RNK1hCG-bvLvbr7o4JA868gIGS5qDQC30PPSA5s9Qa2ix2ZZkPFiaEe3MbIonhfcEWr5pyo0mOlw_GvmMAp9wwR3muQCSR5QDP8XiIx5YUJJMAboN=w1200-h900-p-k-no",
+    "logo": "https://sai-hospital.com/assets/images/logo/logo-dark.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQyqba3pj1c0U7HAOLNX3dd183tZ8RNK1hCG-bvLvbr7o4JA868gIGS5qDQC30PPSA5s9Qa2ix2ZZkPFiaEe3MbIonhfcEWr5pyo0mOlw_GvmMAp9wwR3muQCSR5QDP8XiIx5YUJJMAboN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEYzJgWmOS-_VlwEjyNoMLizzj2t-lyZXtXnNIYb89_i_k9XCl-I_feokfVt9E2AXftYPb-lOa39w-ub0aBfrYnM37LwjL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEYzJgWmOS-_VlwEjyNoMLizzj2t-lyZXtXnNIYb89_i_k9XCl-I_feokfVt9E2AXftYPb-lOa39w-ub0aBfrYnM37LwjL_1y1rrgdIfwa8WaexSlGzJKz3OW7_7O8xQ7K5nXLl=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7965688,
+      "lng": 76.6436644,
+      "label": "SAI HOSPITAL OLAVAKKODE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sanjeevani-chikitsalayam-vaniyamkulam-i",
+    "name": "Sanjeevani Chikitsalayam",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vaniyamkulam-I, Sanjeevani Chikitsalayam brings together specialists for Liver Transplant Surgery In Palakkad. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Vaniyamkulam-I.",
+    "email": "",
+    "phone": "081578 75066",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q8G4+54P, Palakkad - Ponnani Rd, Koonathara, Vaniyamkulam-I, Kerala 679523",
+    "city": "Vaniyamkulam-I",
+    "state": "Kerala",
+    "pincode": "679523",
+    "locality": "Koonathara",
+    "landmark": "Koonathara",
+    "emergencyContact": "081578 75066",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjrJE7E3tQ9Bjc_ffw7d5I24QmPic1tDe1wMEh_NrZqSC5d-HYIWrrB8xqnuXp4udliZFloqLLaE2vVeKGRa-OiIePxjUT0CP2x7_q0_Zij8YXB-91UT9GIbP2VpF7Gyr8WAS6=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjrJE7E3tQ9Bjc_ffw7d5I24QmPic1tDe1wMEh_NrZqSC5d-HYIWrrB8xqnuXp4udliZFloqLLaE2vVeKGRa-OiIePxjUT0CP2x7_q0_Zij8YXB-91UT9GIbP2VpF7Gyr8WAS6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7754739,
+      "lng": 76.3053437,
+      "label": "Sanjeevani Chikitsalayam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "seventh-day-adventist-hospital-ottapalam",
+    "name": "Seventh Day Adventist Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ottapalam, Seventh Day Adventist Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Palakkad. The facility stands out for Google rating 3.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ottapalam.",
+    "email": "",
+    "phone": "0466 224 4201",
+    "alternatePhone": "",
+    "website": "http://osdah.in/",
+    "address": "Post, Kanniyampuram, Ottapalam, Kerala 679104",
+    "city": "Ottapalam",
+    "state": "Kerala",
+    "pincode": "679104",
+    "locality": "Kanniyampuram",
+    "landmark": "Ottapalam",
+    "emergencyContact": "0466 224 4201",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHz5kIsZPrlBIWMJWoO-NDfq2motJnb6M8_jfY34dCdqyZleOltxVVEk55YIoUTrc8xsGTBMN_BxxWKJ28Ssavyy18A70Rp4QOIsW873eQ9sLhDPIfFCVBc1ewAVA5awfaTYZvECg=w1200-h900-p-k-no",
+    "logo": "https://osdah.in/images/SDAHlogo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHz5kIsZPrlBIWMJWoO-NDfq2motJnb6M8_jfY34dCdqyZleOltxVVEk55YIoUTrc8xsGTBMN_BxxWKJ28Ssavyy18A70Rp4QOIsW873eQ9sLhDPIfFCVBc1ewAVA5awfaTYZvECg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7770942,
+      "lng": 76.3581209,
+      "label": "Seventh Day Adventist Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shivada-ayurveda-hospital-palakkad",
+    "name": "Shivada Ayurveda Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shivada Ayurveda Hospital is a prominent hospital in Palakkad, known for structured tertiary care across Orthopedic Surgery In Palakkad. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Palakkad.",
+    "email": "",
+    "phone": "094957 77658",
+    "alternatePhone": "",
+    "website": "http://shivadaayurvedahospital.com/",
+    "address": "Kallingal - Marutharoad Rd, Kodumba, Palakkad, Kerala 678551",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678551",
+    "locality": "Kodumba",
+    "landmark": "Palakkad",
+    "emergencyContact": "094957 77658",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6V2gC-BnjvvcuYGvFER5JsXP2nv1jW1ForOW19rYCPUE9dJpeM99G4lFQI3nz7XWMCHbfhH98fzX4sakh58LNvMbAlLGaUWyoUf80XcPpwmoWCir7zLxt4EgrJYrNJUTZ7orJ=w1200-h900-p-k-no",
+    "logo": "https://static.wixstatic.com/media/7a8bf4_15b262acf75e442abdc12b7e889ca0c2~mv2.jpg/v1/fill/w_51,h_80,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20new%20final.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6V2gC-BnjvvcuYGvFER5JsXP2nv1jW1ForOW19rYCPUE9dJpeM99G4lFQI3nz7XWMCHbfhH98fzX4sakh58LNvMbAlLGaUWyoUf80XcPpwmoWCir7zLxt4EgrJYrNJUTZ7orJ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.752015,
+      "lng": 76.6873866,
+      "label": "Shivada Ayurveda Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sia-fertility-and-maternity-centre-palakkad",
+    "name": "SIA Fertility & Maternity centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SIA Fertility & Maternity centre has built a strong reputation in Palakkad for multidisciplinary treatment pathways covering IVF In Palakkad and Fertility Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Palakkad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Second floor, Poorna Arcade, junction, near Govt ITI Guest house, Chandranagar Colony, Palakkad, Kerala 678007",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678007",
+    "locality": "Chandranagar Colony",
+    "landmark": "near Govt ITI Guest house, Chandranagar Colony, Palakkad, Kerala 678007",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Palakkad",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.7730072%2C76.6795824&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.7730072%2C76.6795824&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.7730072%2C76.6795824&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.7730072%2C76.6795824&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7730072,
+      "lng": 76.6795824,
+      "label": "SIA Fertility & Maternity centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "spt-hospitals-24x7-kidney-cardiac-and-bone-care-coimbatore",
+    "name": "SPT Hospitals 24x7 KIDNEY ,CARDIAC & BONE CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SPT Hospitals 24x7 KIDNEY ,CARDIAC & BONE CARE is a prominent hospital in Coimbatore, known for structured tertiary care across Liver Transplant Surgery In Palakkad, Cardiac Care, Kidney Care, and Orthopaedics. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Coimbatore.",
+    "email": "",
+    "phone": "0422 223 2525",
+    "alternatePhone": "",
+    "website": "https://spthospitals.com/",
+    "address": "50, Vivekananda Rd, Peranaidu Layout, Ram Nagar, Coimbatore, Tamil Nadu 641009",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "pincode": "641009",
+    "locality": "Ram Nagar",
+    "landmark": "Peranaidu Layout",
+    "emergencyContact": "0422 223 2525",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad",
+      "Cardiac Care",
+      "Kidney Care",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnwtqDTGej0uKbP26C5Xix07MlM4EUSPg9rD6M4fntPyal9Hkla8a_JQPeZNIJofqlhHXiy1KJqD7nJaNZXUQDVLXaaUm8Bs6aXD8f-vdAtzLfMICvvK1rIfVYcfKGZ8JlytYm=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnwtqDTGej0uKbP26C5Xix07MlM4EUSPg9rD6M4fntPyal9Hkla8a_JQPeZNIJofqlhHXiy1KJqD7nJaNZXUQDVLXaaUm8Bs6aXD8f-vdAtzLfMICvvK1rIfVYcfKGZ8JlytYm=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.01434,
+      "lng": 76.9614552,
+      "label": "SPT Hospitals 24x7 KIDNEY ,CARDIAC & BONE CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "thangam-hospital-of-pmrc-palakkad",
+    "name": "Thangam Hospital of PMRC",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Palakkad, Thangam Hospital of PMRC brings together specialists for Urologist Surgery In Palakkad. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Palakkad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0491 251 5718",
+    "alternatePhone": "",
+    "website": "https://thangampmrc.com/blog/best-cardiology-hospital-in-palakkad/",
+    "address": "Chadanamkurussi, West Yakkara, Palakkad, Kerala 678004",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678004",
+    "locality": "West Yakkara",
+    "landmark": "Palakkad",
+    "emergencyContact": "0491 251 5718",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG50QXt9PLdSBVmYE7HUQ6RMRsW9P8vdgYi_Fbh-bX_lh_Al6_OfSYgTkV5mMm_CqEw6auaXYhJFrXBZ0B0bKHPfpmKSBI8Dlk10sKPro-dJwI8LpQXMm_x5ZHNehcYOH4DRnk=w1200-h900-p-k-no",
+    "logo": "https://thangampmrc.com/wp-content/uploads/2023/02/logo.gif",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG50QXt9PLdSBVmYE7HUQ6RMRsW9P8vdgYi_Fbh-bX_lh_Al6_OfSYgTkV5mMm_CqEw6auaXYhJFrXBZ0B0bKHPfpmKSBI8Dlk10sKPro-dJwI8LpQXMm_x5ZHNehcYOH4DRnk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO2jc0e25hk2XcfLrVU5VcHrpyFze621Cz6WNQx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPIXvm1ZcDgsUiG8dLH7bSqfc7ns5Oh26ZVr1eZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP4GfNRbHicz_iNZ8-0jrV0Xmg2sO-hGAvt6jNd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO265PMJCpt4I-9C4okWOtq30Ex47m9Jej96hst=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7548412,
+      "lng": 76.6385079,
+      "label": "Thangam Hospital of PMRC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "the-palakkad-district-cooperative-hospital-and-research-centre-ltd-p-no-878-palakkad",
+    "name": "The Palakkad District Cooperative Hospital And Research Centre Ltd P No. 878",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Palakkad often choose The Palakkad District Cooperative Hospital And Research Centre Ltd P No. 878 for its strength in Orthopedic Surgery In Palakkad. With public-facing highlights like Google rating 2.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Palakkad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0491 252 0391",
+    "alternatePhone": "",
+    "website": "http://www.cooperativehospitalpkd.com/",
+    "address": "Court Rd, Santhi Nagar, Sultanpet, Palakkad, Kerala 678001",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "pincode": "678001",
+    "locality": "Sultanpet",
+    "landmark": "Sultanpet",
+    "emergencyContact": "0491 252 0391",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHWLqCaEjDQEpw-ANdRGcUkg7I7ICcqds-rQ51pGAxgM8GIcFaIjPb3uqQZ9SPTfURUbXGy8yvcx6bFGu0RnqSON2CBNRT0kR-Pc9YFoBwgLIpVGCIYCPDb-9XDfb47Q7io86Ui=w1200-h900-p-k-no",
+    "logo": "https://www.cooperativehospitalpkd.com/assets/img/pdch-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHWLqCaEjDQEpw-ANdRGcUkg7I7ICcqds-rQ51pGAxgM8GIcFaIjPb3uqQZ9SPTfURUbXGy8yvcx6bFGu0RnqSON2CBNRT0kR-Pc9YFoBwgLIpVGCIYCPDb-9XDfb47Q7io86Ui=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7696112,
+      "lng": 76.6573419,
+      "label": "The Palakkad District Cooperative Hospital And Research Centre Ltd P No. 878",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "thomas-clinic-kozhinjampara",
+    "name": "Thomas Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Thomas Clinic is a prominent hospital in Kozhinjampara, known for structured tertiary care across Liver Transplant Surgery In Palakkad. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kozhinjampara.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PRQM+MWP, Pollachi Road, Palakkad - Pollachi Rd, Kozhinjampara, Kerala 678555",
+    "city": "Kozhinjampara",
+    "state": "Kerala",
+    "pincode": "678555",
+    "locality": "Palakkad - Pollachi Rd",
+    "landmark": "Palakkad - Pollachi Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.7392054%2C76.8348368&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.7392054%2C76.8348368&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.7392054%2C76.8348368&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.7392054%2C76.8348368&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7392054,
+      "lng": 76.8348368,
+      "label": "Thomas Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "valluvanad-hospital-ottapalam",
+    "name": "Valluvanad Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Valluvanad Hospital has built a strong reputation in Ottapalam for multidisciplinary treatment pathways covering Liver Transplant Surgery In Palakkad. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ottapalam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0466 224 4423",
+    "alternatePhone": "",
+    "website": "http://www.valluvanadhospital.com/",
+    "address": "Valluvanad Hospital Complex, Kanniyampuram, Ottapalam, Kerala 679104",
+    "city": "Ottapalam",
+    "state": "Kerala",
+    "pincode": "679104",
+    "locality": "Kanniyampuram",
+    "landmark": "Ottapalam",
+    "emergencyContact": "0466 224 4423",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4xIANy56NlECH7EMqcygSPTfied6oqVZ3IA2Aa7qI09IyprQ0Y8NA7AIKK3tNV3rkhI2kAzCso2BCXjLWXxzWBz1RzUkP4BxSOR0ham_KIhOex3-YFSJ-wCVJJiGHRgGJBu-4iw=w1200-h900-p-k-no",
+    "logo": "https://www.valluvanadhospital.com/assets/front/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4xIANy56NlECH7EMqcygSPTfied6oqVZ3IA2Aa7qI09IyprQ0Y8NA7AIKK3tNV3rkhI2kAzCso2BCXjLWXxzWBz1RzUkP4BxSOR0ham_KIhOex3-YFSJ-wCVJJiGHRgGJBu-4iw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.7743672,
+      "lng": 76.3605632,
+      "label": "Valluvanad Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vps-lakeshore-hospital-ernakulam",
+    "name": "VPS Lakeshore Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "VPS Lakeshore Hospital is a prominent private hospital in Ernakulam, known for structured tertiary care across Liver Transplant Surgery In Palakkad. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ernakulam.",
+    "email": "",
+    "phone": "0484 270 3951",
+    "alternatePhone": "",
+    "website": "https://www.vpslakeshorehospital.com/",
+    "address": "NH 66, Nettoor, Maradu, Kochi, Ernakulam, Kerala 682040",
+    "city": "Ernakulam",
+    "state": "Kerala",
+    "pincode": "682040",
+    "locality": "Kochi",
+    "landmark": "Maradu",
+    "emergencyContact": "0484 270 3951",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Palakkad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqB2pe7t375cKPm14vrbC_3Ru8eipM-fuWTo9JB8Ykwp4dnbD8gFEoxDEyiwLRHcYRVaOvp60uSmVhAPoYncWG-OsLz4kpIeC-27zSQNyWwe5ZJGnx6SdviIA6DpBV3NStFapecsRWmFas=w1200-h900-p-k-no",
+    "logo": "https://www.vpslakeshorehospital.com/img/logos/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqB2pe7t375cKPm14vrbC_3Ru8eipM-fuWTo9JB8Ykwp4dnbD8gFEoxDEyiwLRHcYRVaOvp60uSmVhAPoYncWG-OsLz4kpIeC-27zSQNyWwe5ZJGnx6SdviIA6DpBV3NStFapecsRWmFas=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaK0OjXcmp537mniBCgW4Dx7OLkWiY4tBm-UTOgu0_3NdCGxOD84X11VKqhGb2ei2uPvhOw1HlvTb2CnExgxWXhSlqXyiPGnNamSwELB1fEUfsC54Ii6ddbzokhmAjoZBtpVC4Yu9YHXY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpgpOBuG9xEuM-YaPOsuzN7959PIziZ0y5HanEFT0Bh2raNkxW3Y3HIPu9VrERvtCYHMNYNK5rVox-vCo-yvccmmSb3mhYAMXR6Qx6QLnJGg9wQnDtrKrVQ5iTt0TdKzwMnA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4wTLjJb0HecD_r2L1iodVzy_d6YCl7OadSwBnsKiH1RBkl0B0tS3hF3Qr2wH0aMKWfw5LuRLhRfCoz2fY1PGXoVuShd0g2LLbw0KkE1BsRWf_LshakJfSG_t6qpjpzBNpXxGAlg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6ZTC8WaU5WaQc6bDpMcqp2OJCL1bW5QLAtETMaxNR8uUe-ZFvFytI0AIuHf1jcvZJBRbOWWSqJ0LEi1yQgl1NevJVMPC9HZbWdUo-1D5_cn7LwAt53nmq6rzwJoKskyCd_1aFjg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 9.918978,
+      "lng": 76.3189243,
+      "label": "VPS Lakeshore Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

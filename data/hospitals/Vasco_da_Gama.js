@@ -1,0 +1,247 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "daffodils-multi-speciality-hospital-vasco-da-gama",
+    "name": "Daffodils Multi-Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vasco Da Gama, Daffodils Multi-Speciality Hospital brings together specialists for Liver Transplant Surgery In Vasco Da Gama and Speciality Care. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Vasco Da Gama.",
+    "email": "",
+    "phone": "080077 71157",
+    "alternatePhone": "",
+    "website": "https://daffodilshospital.com/",
+    "address": "FL Gomes Rd, opp. Tilak Maidan, Vaddem, Vasco Da Gama, Goa 403802",
+    "city": "Vasco Da Gama",
+    "state": "Goa",
+    "pincode": "403802",
+    "locality": "Vaddem",
+    "landmark": "Vaddem",
+    "emergencyContact": "080077 71157",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vasco Da Gama",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfyemI5Mde1qfQOf08vT2txhFS_xKeN2nsKjJSqXr4It4UAegDLgRWed4WUcXo9f0mNpcCVCq-GnUy29WupB9N35fAg81kdoxq-qPtzR96AiPS4tPTKpKb0wG9A8c1cUOVya5o=w1200-h900-p-k-no",
+    "logo": "http://daffodilshospital.com/wp-content/uploads/2022/03/Daffodil_LOGO-e1649913447631.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfyemI5Mde1qfQOf08vT2txhFS_xKeN2nsKjJSqXr4It4UAegDLgRWed4WUcXo9f0mNpcCVCq-GnUy29WupB9N35fAg81kdoxq-qPtzR96AiPS4tPTKpKb0wG9A8c1cUOVya5o=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPDudyGlQ3Xi3i0GYH2CJr7yXOSnzV9VW-tfweH=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPeVSgCZtaa6ns58s_RlmUwltFWaqMA-FggXEsY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNm0d3Bu7FRFA9V8igk3e15nSeqwpd-UHIB30sQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO6y7vBL4RD_1aOiPd1MW8Ak5lo3QEMJ00JZcpT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.4007268,
+      "lng": 73.8152556,
+      "label": "Daffodils Multi-Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "institute-of-gastroenterology-and-liver-sciences-bhubaneswar",
+    "name": "Institute of Gastroenterology And Liver Sciences",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Institute of Gastroenterology And Liver Sciences is a prominent hospital in Bhubaneswar, known for structured tertiary care across Liver Transplant Surgery In Vasco Da Gama, Liver Care, and Gastroenterology. Hospital capacity markers such as Google rating 1.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bhubaneswar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://sigls.co.in/",
+    "address": "Plot No. 145, Ganganagar, Bhubaneswar, Odisha 751030",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751030",
+    "locality": "Ganganagar",
+    "landmark": "Bhubaneswar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vasco Da Gama",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.0",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=20.2535508%2C85.7962231&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://sigls.co.in/wp-content/uploads/2025/01/sigls_01.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=20.2535508%2C85.7962231&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.2535508%2C85.7962231&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.2535508%2C85.7962231&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.2535508,
+      "lng": 85.7962231,
+      "label": "Institute of Gastroenterology And Liver Sciences",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

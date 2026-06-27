@@ -1,0 +1,2361 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "all-is-well-hospital-mohammadpura",
+    "name": "All Is Well Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mohammadpura, All Is Well Hospital delivers integrated care across Urologist Surgery In Burhanpur. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Mohammadpura.",
+    "email": "",
+    "phone": "070890 99888",
+    "alternatePhone": "",
+    "website": "https://alliswellhospital.com/",
+    "address": "Macro Vision Academy, Near, Mohammadpura, Madhya Pradesh 450331",
+    "city": "Mohammadpura",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Near",
+    "landmark": "Mohammadpura",
+    "emergencyContact": "070890 99888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHrxFQln7wyhiBSuE4c12TTDADU3CnTIaGhKzdDets1c5oRQTNzgc7coyCo3ypiBuW0U2kj_aqJkURY42vdo-c8pjD43Bp75MMFhjSCf_JRvqBzbIq1nvuDrdTUP8ihCk7K7ziZ=w1200-h900-p-k-no",
+    "logo": "https://www.alliswellhospital.com/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHrxFQln7wyhiBSuE4c12TTDADU3CnTIaGhKzdDets1c5oRQTNzgc7coyCo3ypiBuW0U2kj_aqJkURY42vdo-c8pjD43Bp75MMFhjSCf_JRvqBzbIq1nvuDrdTUP8ihCk7K7ziZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOoOWiEBchae_PX8LJdhQFCB3AeBGYzWcR1iTP-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPJ7Hm6faMAT_FI8BML8td-8SALR5S8bSnCtnLG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP2vSJz7xwR3NTACfelgEBPr3__IejPYxi8ekV2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMwrAPB0gHLNhQJ1JlIfUPSg5UyIkRXbRBjsZUL=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.2862094,
+      "lng": 76.2021876,
+      "label": "All Is Well Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "all-is-well-super-clinic-burhanpur-burhanpur",
+    "name": "All is Well Super Clinic Burhanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Burhanpur, All is Well Super Clinic Burhanpur offers coordinated hospital care with major focus on Kidney Transplant Surgery In Burhanpur. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Burhanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.alliswellhospital.com/",
+    "address": "All Is Well Super clinic, near Radhabai shivchand chudiwal memorial Nimar Hospital, Amravati Road, in front of HDFC Bank, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "in front of HDFC Bank",
+    "landmark": "near Radhabai shivchand chudiwal memorial Nimar Hospital, Amravati Road, in front of HDFC Bank, Burhanpur, Madhya Pradesh 450331",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGuN5r-oYzS_hUe053xLfJTzopGiA1HcmpTMA-RkYuRj61F_kUGOwiORTPEbh24qeo22JoVkSEKHgnTr_wVO06fSGOemt48-qpm5PSrXoiGiJj2AU2G5SFzqAfTpJOY-M9PvJm346V1RRgX=w1200-h900-p-k-no",
+    "logo": "https://www.alliswellhospital.com/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGuN5r-oYzS_hUe053xLfJTzopGiA1HcmpTMA-RkYuRj61F_kUGOwiORTPEbh24qeo22JoVkSEKHgnTr_wVO06fSGOemt48-qpm5PSrXoiGiJj2AU2G5SFzqAfTpJOY-M9PvJm346V1RRgX=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3011864,
+      "lng": 76.2225816,
+      "label": "All is Well Super Clinic Burhanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apple-hospital-burhanpur",
+    "name": "Apple Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Burhanpur often choose Apple Hospital for its strength in Urologist Surgery In Burhanpur. With public-facing highlights like Google rating 4.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Burhanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070891 11234",
+    "alternatePhone": "",
+    "website": "https://applehospitalbpr.in/",
+    "address": "Govind Puram Colony, behind collector office, Burhanpur, Mohammadpura, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "behind collector office",
+    "landmark": "Burhanpur",
+    "emergencyContact": "070891 11234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7_U7CvqGSbuviExKngQGZ1frvkrMN6T10aJEIj7hUC8hfcmmPuJ9uJGDaKPoi0_9Dzglx8m3bw0cl7bFG0IrKXcYYOa_lzxWSRl0C2LTZRJPUAnNQIVgp__jR01SRk9hyrK3T=w1200-h900-p-k-no",
+    "logo": "https://applehospitalbpr.in/wp-content/uploads/2025/03/cropped-Apple.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7_U7CvqGSbuviExKngQGZ1frvkrMN6T10aJEIj7hUC8hfcmmPuJ9uJGDaKPoi0_9Dzglx8m3bw0cl7bFG0IrKXcYYOa_lzxWSRl0C2LTZRJPUAnNQIVgp__jR01SRk9hyrK3T=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3003775,
+      "lng": 76.2080987,
+      "label": "Apple Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "borle-hospital-and-research-center-burhanpur-burhanpur",
+    "name": "Borle Hospital And Research Center Burhanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Burhanpur often choose Borle Hospital And Research Center Burhanpur for its strength in Urologist Surgery In Burhanpur. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Burhanpur.",
+    "email": "",
+    "phone": "099260 62888",
+    "alternatePhone": "",
+    "website": "http://www.borlehospitals.com/",
+    "address": "Amravati Road, Sanjay Nagar, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Sanjay Nagar",
+    "landmark": "Burhanpur",
+    "emergencyContact": "099260 62888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGDQRn6LkuJPJlwWZyH989aOlRtXFB_Vd7znYQlrG1SXqohfpmEYCA2MGdmCi64ZaNVAIc-lV903OYeKDUI6Qul91uE6mwRCz5fhAlpFCq8Cq322SIck9Fe_pLNnAml6VM-kB-Cg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGDQRn6LkuJPJlwWZyH989aOlRtXFB_Vd7znYQlrG1SXqohfpmEYCA2MGdmCi64ZaNVAIc-lV903OYeKDUI6Qul91uE6mwRCz5fhAlpFCq8Cq322SIck9Fe_pLNnAml6VM-kB-Cg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgZ1EnarX6Ys33AnyNDhXzoptof3rdngouxdzLHgeO0H_4MuHGE0XUJ-STVdY5WTMRTcaIihL5iLrcOCuEPY0_WBSf8mVxp9V8JbfYbjRG_sBasnWhYJqklj5rtpAOeIuuPU6Fwnbzcd5h=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.2980597,
+      "lng": 76.2225971,
+      "label": "Borle Hospital And Research Center Burhanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "district-hospital-burhanpur-burhanpur",
+    "name": "District Hospital, Burhanpur",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted government hospital in Burhanpur, District Hospital, Burhanpur delivers integrated care across Liver Transplant Surgery In Burhanpur. Operational strengths including Google rating 3.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Burhanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Badarpur Road, Guru Govind Singh Colony, Burhanpur, Mohammadpura, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Guru Govind Singh Colony",
+    "landmark": "Burhanpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9JDY9D6YoljtQHbEYN78ZO_TV0KuiAFKxua6Vky9X21Yi22ZPUd2ohnZ3czr3Nde8ZRKpeiPV4izSX2CmVNQh7SUnrP39fH6e3kwaAaysE3oNcpE7v02f-DdUQcJm1N8p8cTT=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9JDY9D6YoljtQHbEYN78ZO_TV0KuiAFKxua6Vky9X21Yi22ZPUd2ohnZ3czr3Nde8ZRKpeiPV4izSX2CmVNQh7SUnrP39fH6e3kwaAaysE3oNcpE7v02f-DdUQcJm1N8p8cTT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFr_cuT982PVlU0SDhQmU3UN_Qc18ZqEpiGhDS5a8YTOIaV62xW174KCyBGCNQAoPWJedY-W2JPIRYjYTjk5oPeaStqw-VMkWsbPmyLwKB7yl0-UcmBz5_74CBxkc9PPIcoIehD75GDvFCT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3087639,
+      "lng": 76.2084254,
+      "label": "District Hospital, Burhanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "garkal-multi-speciality-hospital-burhanpur",
+    "name": "GARKAL Multi-Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Burhanpur, GARKAL Multi-Speciality Hospital delivers integrated care across Urologist Surgery In Burhanpur and Speciality Care. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Burhanpur.",
+    "email": "",
+    "phone": "094797 87575",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near Rajasthan tiles , burhanpur Shahpur, Road, opposite Hotel Radhekrishna, Amravati, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Amravati",
+    "landmark": "opposite Hotel Radhekrishna, Amravati, Burhanpur, Madhya Pradesh 450331",
+    "emergencyContact": "094797 87575",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Burhanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAELEZ3Sq7PwqB4k2kyj5hA0hDVsET8dL8AnrE14ySt67iyQAVLbPY89a5VNoi6M47yoL3yv8-fVrSU3zu1OqX8_PnUlG5XzS5EyNRxsjI8NHMGcC7HW-MMGLtG-frl_QM_uNe3o=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAELEZ3Sq7PwqB4k2kyj5hA0hDVsET8dL8AnrE14ySt67iyQAVLbPY89a5VNoi6M47yoL3yv8-fVrSU3zu1OqX8_PnUlG5XzS5EyNRxsjI8NHMGcC7HW-MMGLtG-frl_QM_uNe3o=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.2917445,
+      "lng": 76.2228444,
+      "label": "GARKAL Multi-Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "good-hospital-burhanpur",
+    "name": "Good hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Burhanpur, Good hospital delivers integrated care across Cardiac Surgery In Burhanpur. Hospital capacity markers such as Google rating 2.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Burhanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Balaji Nagar, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Balaji Nagar",
+    "landmark": "Madhya Pradesh 450331",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6dxyC1oJihH5gL47TD6g-XAkhjjFTQeLjkqal97zYSrmRMr5XM1TLKo4VKkuZmmZVoUG6DJSubCv9tUBZEEk268inEUXQjXNYg08TGV3eCQeqpQjCIhM5sr2Ibwi_huIpNJLK=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6dxyC1oJihH5gL47TD6g-XAkhjjFTQeLjkqal97zYSrmRMr5XM1TLKo4VKkuZmmZVoUG6DJSubCv9tUBZEEk268inEUXQjXNYg08TGV3eCQeqpQjCIhM5sr2Ibwi_huIpNJLK=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3047324,
+      "lng": 76.2239758,
+      "label": "Good hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hakimi-hospital-burhanpur",
+    "name": "Hakimi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hakimi Hospital is a prominent hospital in Burhanpur, known for structured tertiary care across Spine Surgery In Burhanpur. The facility stands out for Google rating 3.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Burhanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "State Bank Colony, Burhanpur SH-4, Lalbagh Rd, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Lalbagh Rd",
+    "landmark": "Lalbagh Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuAHvXFxTjd6w0yxgxksYphMawwK8cuRTOoym4hjuNoKgYzOU-IPTgPrilayRCNo33SyaZa2cQ3JVcy6Gg6v-5Q9DVlnN_kCL2dBCvMouGj5601-F0cILO1B-pjcP37IMBPMal5Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuAHvXFxTjd6w0yxgxksYphMawwK8cuRTOoym4hjuNoKgYzOU-IPTgPrilayRCNo33SyaZa2cQ3JVcy6Gg6v-5Q9DVlnN_kCL2dBCvMouGj5601-F0cILO1B-pjcP37IMBPMal5Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3179,
+      "lng": 76.2156,
+      "label": "Hakimi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "icon-hospital-burhanpur-burhanpur",
+    "name": "ICON HOSPITAL BURHANPUR",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Burhanpur, ICON HOSPITAL BURHANPUR brings together specialists for Urologist Surgery In Burhanpur. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Burhanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sanjay Nagar, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Sanjay Nagar",
+    "landmark": "Madhya Pradesh 450331",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7ycbsgd8qanmfAA_pgNbP-rY8k3zONG-OfnikvNlR-ly3uB9VrB_05-siq8uc_TAs0r9LZxIuruENqys3Hpjijfn1gjTseTCLLkVrhln05I3uDZ0o36HvihbtwbSQFh41wumdyw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7ycbsgd8qanmfAA_pgNbP-rY8k3zONG-OfnikvNlR-ly3uB9VrB_05-siq8uc_TAs0r9LZxIuruENqys3Hpjijfn1gjTseTCLLkVrhln05I3uDZ0o36HvihbtwbSQFh41wumdyw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3001495,
+      "lng": 76.221561,
+      "label": "ICON HOSPITAL BURHANPUR",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "krishna-life-care-burhanpur",
+    "name": "KRISHNA LIFE CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Burhanpur often choose KRISHNA LIFE CARE for its strength in Laparoscopic Surgery In Burhanpur. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Burhanpur.",
+    "email": "",
+    "phone": "077719 78109",
+    "alternatePhone": "",
+    "website": "http://www.krishnalifecare.com/",
+    "address": "Renuka Mata Mandir road, near shikarpura police station, in front of Gayatri mandir, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "in front of Gayatri mandir",
+    "landmark": "near shikarpura police station, in front of Gayatri mandir, Burhanpur, Madhya Pradesh 450331",
+    "emergencyContact": "077719 78109",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpyTXk2RUctcPSBZJH4fic-cIzxAejWg0Zw0QH1P6I_PIwkIZzkqC1TedT2B6HtV3WoJkXqJMgeiHIXw_tDOSSKMhZ8ujEqrl8k7kj5PBIyzodxgal-N1IHRVzRCObd5f8DErl=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpyTXk2RUctcPSBZJH4fic-cIzxAejWg0Zw0QH1P6I_PIwkIZzkqC1TedT2B6HtV3WoJkXqJMgeiHIXw_tDOSSKMhZ8ujEqrl8k7kj5PBIyzodxgal-N1IHRVzRCObd5f8DErl=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.2946895,
+      "lng": 76.2211585,
+      "label": "KRISHNA LIFE CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mangal-ayurvedic-clinic-burhanpur",
+    "name": "Mangal Ayurvedic Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mangal Ayurvedic Clinic is a prominent hospital in Burhanpur, known for structured tertiary care across Cosmetic Surgery In Burhanpur. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Burhanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Tilak Rd, Pandumal Chauraha, Sanjay Nagar, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Sanjay Nagar",
+    "landmark": "Sanjay Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtf6DjZsJnphIMzlPwk8vT48gVEC7q2iJuuyIWQCF-tUJRILC7MlnlgmWqW-gRds4ggnf8OdYIvouroojT1aAWQeMzgtlpAoRpDLYWRsiox3mKH-fE8JHZElPztnw9w_3gO8tRew=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtf6DjZsJnphIMzlPwk8vT48gVEC7q2iJuuyIWQCF-tUJRILC7MlnlgmWqW-gRds4ggnf8OdYIvouroojT1aAWQeMzgtlpAoRpDLYWRsiox3mKH-fE8JHZElPztnw9w_3gO8tRew=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3061541,
+      "lng": 76.2314329,
+      "label": "Mangal Ayurvedic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "matru-seva-sadan-hospital-burhanpur",
+    "name": "Matru Seva Sadan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Burhanpur, Matru Seva Sadan Hospital offers coordinated hospital care with major focus on Cancer Surgery In Burhanpur. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Burhanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "863F+PFW, Seerpur Rd, Rastipura Colony, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Rastipura Colony",
+    "landmark": "Rastipura Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG21TUCzRLj0GiQn3KLvc_fK1uOBx4uR4WM35K5IVcaBlHOVYebRCnl6WVZcOg_Uq1u_UN-C1ce8e72CZAypZCjgoUI6EGY6KvOwJIExfXBojCK9oYUVogUFf3JNwPdCUl7cNf-SA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG21TUCzRLj0GiQn3KLvc_fK1uOBx4uR4WM35K5IVcaBlHOVYebRCnl6WVZcOg_Uq1u_UN-C1ce8e72CZAypZCjgoUI6EGY6KvOwJIExfXBojCK9oYUVogUFf3JNwPdCUl7cNf-SA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3043508,
+      "lng": 76.2237096,
+      "label": "Matru Seva Sadan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "metro-medicare-multispeciality-hospital-burhanpur",
+    "name": "METRO MEDICARE MULTISPECIALITY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Burhanpur, METRO MEDICARE MULTISPECIALITY HOSPITAL brings together specialists for Liver Transplant Surgery In Burhanpur and Speciality Care. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Burhanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073252 55622",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shanwara Road, near Bank of India, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "near Bank of India",
+    "landmark": "near Bank of India, Burhanpur, Madhya Pradesh 450331",
+    "emergencyContact": "073252 55622",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Burhanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDjeP3rBp2oSkvAtJoP31dJNiTwnIP4ezjeaRjmWkOtPv-RwWaMWFjsNQO83YxZPhCtDP0HFtyYaNdn0yxelh7GTj-P1RYaYWfCqbPyQ7Ls-uOnCnPW6PmsEZqAJIkVisiCDRj=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDjeP3rBp2oSkvAtJoP31dJNiTwnIP4ezjeaRjmWkOtPv-RwWaMWFjsNQO83YxZPhCtDP0HFtyYaNdn0yxelh7GTj-P1RYaYWfCqbPyQ7Ls-uOnCnPW6PmsEZqAJIkVisiCDRj=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.311563,
+      "lng": 76.2275647,
+      "label": "METRO MEDICARE MULTISPECIALITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "precious-life-care-hospital-burhanpur",
+    "name": "Precious Life Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Burhanpur often choose Precious Life Care Hospital for its strength in IVF In Burhanpur. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Burhanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Precious Life Care Hospital, Bahadurpura Rd, in front of indira colony, Guru Govind Singh Colony, Burhanpur, Mohammadpura, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Guru Govind Singh Colony",
+    "landmark": "in front of indira colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB1OmQzkJjb-7DUsRLmAsKK3DLSFxC_PV73vlGjUh1heRdXaRPvqBJLhTtTDiF_bAS04UyZoMpQL8u7Xw3oSLocU3ps1583Gx4iLLc4cuk_7o7YGvN0HCXLY9-eG1LDRAzsnbq1pgV63uK=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB1OmQzkJjb-7DUsRLmAsKK3DLSFxC_PV73vlGjUh1heRdXaRPvqBJLhTtTDiF_bAS04UyZoMpQL8u7Xw3oSLocU3ps1583Gx4iLLc4cuk_7o7YGvN0HCXLY9-eG1LDRAzsnbq1pgV63uK=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3116964,
+      "lng": 76.2130909,
+      "label": "Precious Life Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "radheshyam-ashirwad-hospital-burhanpur",
+    "name": "Radheshyam Ashirwad Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Burhanpur, Radheshyam Ashirwad Hospital delivers integrated care across Cosmetic Surgery In Burhanpur. With public-facing highlights like Google rating 3.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Burhanpur.",
+    "email": "",
+    "phone": "094797 45999",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shanwara Station Road, Industrial Area, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Industrial Area",
+    "landmark": "Burhanpur",
+    "emergencyContact": "094797 45999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-mNpDi-Z8AuPXhoAI-waVQdi1LutXKAWFdbrRj2ZtC_52kMXNr0Mo3Y8P_s1lPtWmFbKo_NcEFmT-xT17rxU2sko0RqLnCU6TBy1ZgqzOfKCNPI-MCxfolRHXsM_KDRBnpqGh3Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-mNpDi-Z8AuPXhoAI-waVQdi1LutXKAWFdbrRj2ZtC_52kMXNr0Mo3Y8P_s1lPtWmFbKo_NcEFmT-xT17rxU2sko0RqLnCU6TBy1ZgqzOfKCNPI-MCxfolRHXsM_KDRBnpqGh3Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3128528,
+      "lng": 76.2245594,
+      "label": "Radheshyam Ashirwad Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sakshat-hospital-burhanpur",
+    "name": "Sakshat Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Burhanpur, Sakshat Hospital offers coordinated hospital care with major focus on Laparoscopic Surgery In Burhanpur. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Burhanpur.",
+    "email": "",
+    "phone": "097538 93501",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sanjay Nagar, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Sanjay Nagar",
+    "landmark": "Madhya Pradesh 450331",
+    "emergencyContact": "097538 93501",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUeinApP2NgoOjaZn068PFYOsFb8UjelZYpxZt6Eiq4942dSOggWRt3e_emZmMoYVMnzVI7TjJVNzaZIGEh3yncQEC1ZJ8AJTd5MBvfDL6odbf61royKAE2OHg6rdOUOiHurOX=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUeinApP2NgoOjaZn068PFYOsFb8UjelZYpxZt6Eiq4942dSOggWRt3e_emZmMoYVMnzVI7TjJVNzaZIGEh3yncQEC1ZJ8AJTd5MBvfDL6odbf61royKAE2OHg6rdOUOiHurOX=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.29714,
+      "lng": 76.2224349,
+      "label": "Sakshat Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sehat-hospital-burhanpur",
+    "name": "Sehat hospital",
+    "type": "Hospital Equipment And Supplies",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sehat hospital is a prominent hospital equipment and supplies in Burhanpur, known for structured tertiary care across IVF In Burhanpur. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Burhanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jyoti Nagar, Lalbagh Rd, behind Dental College, State Bank Colony, Burhanpur, Mohammadpura, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "State Bank Colony",
+    "landmark": "behind Dental College",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEae_1VbVW9Wm0fCuNtLuJX56rAAoRN9FmowfY6MibefDY9a_EZDcviL6n9CaZd8FQTfKdZCR7ZaASJip3Z6f7FU3Ki5gyTF13YBsvYxUzmZ2ZKsZUjssIPKCvTPQQux3nZbrY0lw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEae_1VbVW9Wm0fCuNtLuJX56rAAoRN9FmowfY6MibefDY9a_EZDcviL6n9CaZd8FQTfKdZCR7ZaASJip3Z6f7FU3Ki5gyTF13YBsvYxUzmZ2ZKsZUjssIPKCvTPQQux3nZbrY0lw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3206122,
+      "lng": 76.2123453,
+      "label": "Sehat hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shaswat-clinic-burhanpur-burhanpur",
+    "name": "Shaswat Clinic Burhanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shaswat Clinic Burhanpur is a prominent hospital in Burhanpur, known for structured tertiary care across Cosmetic Surgery In Burhanpur. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Burhanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "76XG+GVM, Shikarpura Rd, Sanjay Nagar, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Sanjay Nagar",
+    "landmark": "Sanjay Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Burhanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFz10n6jDgv06qR46soWIhXnscXZg_0RUTNmrU8lHO_SNTn2gFdpdjgj1Rn5ZmStX3GVKITZ8Z6u_D-76HTyf-IGvNuEMFdhkvWEpIT8Ix2pydgCwxENgVR29Cpo8S49wLY12c=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFz10n6jDgv06qR46soWIhXnscXZg_0RUTNmrU8lHO_SNTn2gFdpdjgj1Rn5ZmStX3GVKITZ8Z6u_D-76HTyf-IGvNuEMFdhkvWEpIT8Ix2pydgCwxENgVR29Cpo8S49wLY12c=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFz10n6jDgv06qR46soWIhXnscXZg_0RUTNmrU8lHO_SNTn2gFdpdjgj1Rn5ZmStX3GVKITZ8Z6u_D-76HTyf-IGvNuEMFdhkvWEpIT8I=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.2988342,
+      "lng": 76.2271571,
+      "label": "Shaswat Clinic Burhanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ssk-burhanpur",
+    "name": "SSK",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted children's hospital in Burhanpur, SSK delivers integrated care across Cosmetic Surgery In Burhanpur and Women and Child Care. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Burhanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "14, Balaji Nagar, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Balaji Nagar",
+    "landmark": "Burhanpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Burhanpur",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4OJvO2QjJaq30FoceYQ-RfWVmIWUfbrmgr9Fzrp_hOOTl5YNtSZSZarthoJGsTT5uhyTY4EgNqnvf_3K1DUPQ6-J8hS_16sVY3EyhzNW-rdEq9RsGhVJscEdoRC5k0jHDMTTW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3009285,
+      "lng": 76.2214881,
+      "label": "SSK",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "womens-care-clinic-burhanpur",
+    "name": "Womens Care Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Burhanpur often choose Womens Care Clinic for its strength in IVF In Burhanpur and Women and Child Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Burhanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "866G+Q83, Pushpak Bus Stand Rd, Jamalpura, Burhanpur, Madhya Pradesh 450331",
+    "city": "Burhanpur",
+    "state": "Madhya Pradesh",
+    "pincode": "450331",
+    "locality": "Jamalpura",
+    "landmark": "Jamalpura",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Burhanpur",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=21.3119%2C76.2258&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=21.3119%2C76.2258&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=21.3119%2C76.2258&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=21.3119%2C76.2258&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.3119,
+      "lng": 76.2258,
+      "label": "Womens Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

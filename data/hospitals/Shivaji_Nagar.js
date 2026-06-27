@@ -1,0 +1,3497 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "best-multispeciality-hospital-in-pune-pune",
+    "name": "Best Multispeciality Hospital in Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Best Multispeciality Hospital in Pune has built a strong reputation in Pune for multidisciplinary treatment pathways covering Plastic Surgery In Shivaji Nagar and Speciality Care. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "080 6510 5054",
+    "alternatePhone": "",
+    "website": "https://www.pristyncare.com/pune/c/proctology/?utm_source",
+    "address": "1671-75, Ganeshkhind Rd, near Hotel Pride, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "near Hotel Pride, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+    "emergencyContact": "080 6510 5054",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Shivaji Nagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=18.5318898%2C73.847348&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://www.pristyncare.com/blog/wp-content/uploads/2021/01/pristyn-logo.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=18.5318898%2C73.847348&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=18.5318898%2C73.847348&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=18.5318898%2C73.847348&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5318898,
+      "lng": 73.847348,
+      "label": "Best Multispeciality Hospital in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bhagwan-mahaveer-jain-hospital-bengaluru",
+    "name": "Bhagwan Mahaveer Jain Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bengaluru, Bhagwan Mahaveer Jain Hospital delivers integrated care across Spine Neurosurgeon In Shivaji Nagar. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bengaluru.",
+    "email": "",
+    "phone": "080 4087 5555",
+    "alternatePhone": "",
+    "website": "http://www.bmjh.org/",
+    "address": "17, Millers Rd, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560052",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560052",
+    "locality": "Vasanth Nagar",
+    "landmark": "Kaverappa Layout",
+    "emergencyContact": "080 4087 5555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFiDIFBRtUPZ6uFSeHlOLcSqSNzWfcceyzuh0rQ7xo6jOvYOOIrwIo3ARKpcPiB9z5mtMinRCxs4Eq3zZUHKZXw5R4mrhT4-DW4ykLjrFr-vWoICqzKKqfi5Qn2W5RvB03bZEzj=w1200-h900-p-k-no",
+    "logo": "https://www.bmjh.org/favicon.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFiDIFBRtUPZ6uFSeHlOLcSqSNzWfcceyzuh0rQ7xo6jOvYOOIrwIo3ARKpcPiB9z5mtMinRCxs4Eq3zZUHKZXw5R4mrhT4-DW4ykLjrFr-vWoICqzKKqfi5Qn2W5RvB03bZEzj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsQkbTS-wB4IRISuxuy3Nt4nGtAipp7VlXII51WATOrljxwdNJvnKFHHBDRM-VDxWxlgB_Fdlox5X6axVEHEWm7wWuqbleXXOfz4GlRcTBkMG1hhkd3piECXio6grXZaf740Kt=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2MMmtDtIGb_pJDTqoHFXU1vVZ1i0Dl2Qpw1tcfcCkeJktka-ThNLnB-SdgFSesStmH-Njq6em_FdDxbxsO-IPyAdeq6alHF4zQXk_FuERGOifuIp4JclDx326oWoM7dUXRPCz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQ2oCcTDjN4DxlAm8C0NUFxc6u3Qfc8zcCDK7Hxm7SPuZHbPVbR8BylRiPxHdVViQ57SxU3HVjfukUZh78jiP-lCShvlqhBMa1TCSSqCXtcBtgkWipGbB3ZR72XV_JXGQKy5uiUUyoiiVA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.991625,
+      "lng": 77.5950349,
+      "label": "Bhagwan Mahaveer Jain Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "brain-and-spine-hospital-kolkata",
+    "name": "Brain and spine hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Brain and spine hospital has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Spine Neurosurgeon In Shivaji Nagar, Neurosciences, and Spine Care. Operational strengths including Google rating 3.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "43, AJC Bose Rd, Mullick Bazar, Beniapukur, Kolkata, West Bengal 700017",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700017",
+    "locality": "Beniapukur",
+    "landmark": "Mullick Bazar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Shivaji Nagar",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4MTCVYux-7qKdgVMZ9kaN6muHJyduoxWrNgVP4XCB9vmtZv7y1fNxaMVQOuHSjJtPW3zajBCBu7MCGeDk0YM-CDuqPfrVsy3qbemzb79s4FPvmVDDtBvAnSd5ypUVt3j4-igZ4BUzeUk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4MTCVYux-7qKdgVMZ9kaN6muHJyduoxWrNgVP4XCB9vmtZv7y1fNxaMVQOuHSjJtPW3zajBCBu7MCGeDk0YM-CDuqPfrVsy3qbemzb79s4FPvmVDDtBvAnSd5ypUVt3j4-igZ4BUzeUk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5469393,
+      "lng": 88.3614252,
+      "label": "Brain and spine hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "charaka-super-speciality-hospital-shivaji-nagar",
+    "name": "Charaka super speciality hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Charaka super speciality hospital has built a strong reputation in Shivaji Nagar for multidisciplinary treatment pathways covering Spine Neurosurgeon In Shivaji Nagar and Speciality Care. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Shivaji Nagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XJQ2+VQR, HKP Road, Sulthangunta, Shivaji Nagar, Bengaluru, Karnataka 560051",
+    "city": "Shivaji Nagar",
+    "state": "Karnataka",
+    "pincode": "560051",
+    "locality": "Sulthangunta",
+    "landmark": "Sulthangunta",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Shivaji Nagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGBaazYUq6cyjyzrZFmiKPBlSv2MupMGwkTI0-MouLnV5_o0fM8NBUNN_fm9xpBBVNOWtpeFHZILUL1md0hO8Z7NkpzFge5k6jvf5OkBdlyIG0dOTrs1aTjOUf4yJaOEcW2cEeu=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGBaazYUq6cyjyzrZFmiKPBlSv2MupMGwkTI0-MouLnV5_o0fM8NBUNN_fm9xpBBVNOWtpeFHZILUL1md0hO8Z7NkpzFge5k6jvf5OkBdlyIG0dOTrs1aTjOUf4yJaOEcW2cEeu=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.9897251,
+      "lng": 77.6019005,
+      "label": "Charaka super speciality hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "charnock-hospital-super-specialty-hospital-kolkata",
+    "name": "Charnock Hospital - Super Specialty Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kolkata, Charnock Hospital - Super Specialty Hospital brings together specialists for Neurosurgeon In Shivaji Nagar and Speciality Care. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "033 4050 0500",
+    "alternatePhone": "",
+    "website": "http://www.charnockhospital.com/",
+    "address": "BMC 195, Biswa Bangla Sarani, Dhalipara, Tegharia, Newtown, Kolkata, West Bengal 700157",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700157",
+    "locality": "Newtown",
+    "landmark": "Dhalipara",
+    "emergencyContact": "033 4050 0500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Shivaji Nagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEc_UBDxBzNf7oFfatxtWt8XemHMx_9n9kAHOkAkP1DGVvyRLLSP0Jr9okBAd1OkLDokLbBcx12HuyOz7cBemFCmTCcyeys4hDsNBkSaaxWBRCV5XLN8I8L9Ydwnz6Acl7_jUyrdg=w1200-h900-p-k-no",
+    "logo": "https://charnockhospital.com/wp-content/uploads/2025/03/Charnock-Hospitals-Logo-nabh-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEc_UBDxBzNf7oFfatxtWt8XemHMx_9n9kAHOkAkP1DGVvyRLLSP0Jr9okBAd1OkLDokLbBcx12HuyOz7cBemFCmTCcyeys4hDsNBkSaaxWBRCV5XLN8I8L9Ydwnz6Acl7_jUyrdg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM493Y1ZXjsHH3BV5qLGZPHzBekNgLTpljzojmD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOmIlv2UIuSrw-xGmF8TbjJCgACioVxgcFjDYqr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOM9vq_VOKi53tahFBPucNHzPA2zfckqsAPjUDk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPQqoqxzWnwqLzo1DyZM990J5SKRlbtwqmcWGYe=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.6257993,
+      "lng": 88.4348323,
+      "label": "Charnock Hospital - Super Specialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "church-of-south-india-hospital-shivaji-nagar",
+    "name": "Church of South India Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Church of South India Hospital is a prominent general hospital in Shivaji Nagar, known for structured tertiary care across General Surgery In Shivaji Nagar. Its infrastructure includes Google rating 3.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Shivaji Nagar.",
+    "email": "",
+    "phone": "080 2286 1103",
+    "alternatePhone": "",
+    "website": "https://www.csihospitalbangalore.org/",
+    "address": "2, HKP Road, Sulthangunta, Shivaji Nagar, Bengaluru, Karnataka 560051",
+    "city": "Shivaji Nagar",
+    "state": "Karnataka",
+    "pincode": "560051",
+    "locality": "Sulthangunta",
+    "landmark": "Sulthangunta",
+    "emergencyContact": "080 2286 1103",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1Lvg2efLhl-JSnml9ualBBWs4vS_5j_NUe7K4bWZiUjv6sF42uNNonODfbVILptosdK59Hk5UF5-qiJ7iR3XSU8eR6TBJKejAhONeh2V0ZKjcexHw4szqmyQR4qtL9jT5OTeA=w1200-h900-p-k-no",
+    "logo": "https://www.csihospitalbangalore.org/sites/default/files/CSI%20Logo_2_1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1Lvg2efLhl-JSnml9ualBBWs4vS_5j_NUe7K4bWZiUjv6sF42uNNonODfbVILptosdK59Hk5UF5-qiJ7iR3XSU8eR6TBJKejAhONeh2V0ZKjcexHw4szqmyQR4qtL9jT5OTeA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.9910548,
+      "lng": 77.6014781,
+      "label": "Church of South India Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "deccan-hardikar-hospital-pune",
+    "name": "Deccan Hardikar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Deccan Hardikar Hospital is a prominent hospital in Pune, known for structured tertiary care across Spine Neurosurgeon In Shivaji Nagar. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "077579 64091",
+    "alternatePhone": "",
+    "website": "https://www.deccanhospital.in/",
+    "address": "1160/61, University Rd, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "Shivajinagar",
+    "emergencyContact": "077579 64091",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEKZEoHgSH6uqJbpVFnE3ickUW8z6FRXSL642UkzY6GL3cn267AiKQs8wRh1DgdJr3rDe2VdqqPt-QJs60bMjSTZf1tJqeKIm9s_-mJn9aBQ7L0rBSmjsodPqShGuntnM3aurnCAg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEKZEoHgSH6uqJbpVFnE3ickUW8z6FRXSL642UkzY6GL3cn267AiKQs8wRh1DgdJr3rDe2VdqqPt-QJs60bMjSTZf1tJqeKIm9s_-mJn9aBQ7L0rBSmjsodPqShGuntnM3aurnCAg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPZSBlbOmr3CpMPITuIafDtHtuKyyRohM8w4PMT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNbq9HJ44ttX9Lllg6J24GVHeJUtj51mRXjbwrf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMgPFngZrwj_s71991QkD484uFF-VrEROHiB5Ca=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOHz1ywbyuw5CRTUWqFL_Qfkc_4MPcAxgXjCNwZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5304104,
+      "lng": 73.8474815,
+      "label": "Deccan Hardikar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fortis-hospital-and-kidney-institute-rash-behari-kolkata-best-hospital-in-kolkata-kolkata",
+    "name": "Fortis Hospital and Kidney Institute, Rash Behari, Kolkata - Best Hospital in Kolkata",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kolkata, Fortis Hospital and Kidney Institute, Rash Behari, Kolkata - Best Hospital in Kolkata delivers integrated care across Kidney Transplant Surgery In Shivaji Nagar and Kidney Care. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098730 30996",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/location/fortis-hospital-kidney-institute-gariahat-kolkata?utm_source",
+    "address": "111A, Rash Behari Ave, Dover Terrace, Gariahat, Kolkata, West Bengal 700029",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700029",
+    "locality": "Gariahat",
+    "landmark": "Dover Terrace",
+    "emergencyContact": "098730 30996",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Shivaji Nagar",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXciqEOVVhEqIblma6N8JMuBVoogaEP0V9AJhuHd4WYEkPl1diEEznwVTf8bkD_NQok-vhedAbr_W6yPpQQCZVRNip6OflarvGni64hErKfPOQAlM6QlMZWKXffZGSZKk90IPp2Q=w1200-h900-p-k-no",
+    "logo": "https://www.fortishealthcare.com/themes/custom/fortis/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXciqEOVVhEqIblma6N8JMuBVoogaEP0V9AJhuHd4WYEkPl1diEEznwVTf8bkD_NQok-vhedAbr_W6yPpQQCZVRNip6OflarvGni64hErKfPOQAlM6QlMZWKXffZGSZKk90IPp2Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMoFkz4lx4xOEbH1O6w-uGHRI2vmFRHJuPSksCW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMVrRHFIPgIxPCGAJSNYnQSCCa-3OocPH-l_9ML=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOHpsZfc6kjE9U32bQST768rL1O00MDUjkEaSbF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOd0c-lDnAjy-eHnk63tlnJOxNp0LxzHj3SouWU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5182209,
+      "lng": 88.3559414,
+      "label": "Fortis Hospital and Kidney Institute, Rash Behari, Kolkata - Best Hospital in Kolkata",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fortis-hospital-bangalore-cunningham-road-best-hospital-in-bangalore-bengaluru",
+    "name": "Fortis Hospital Bangalore | Cunningham Road - Best Hospital in Bangalore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Fortis Hospital Bangalore | Cunningham Road - Best Hospital in Bangalore is a prominent hospital in Bengaluru, known for structured tertiary care across Spine Neurosurgeon In Shivaji Nagar. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bengaluru.",
+    "email": "",
+    "phone": "096868 60310",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/location/fortis-hospital-cg-road-bangalore",
+    "address": "14, Cunningham Rd, near Sigma Central Mall, Vasanth Nagar, Bengaluru, Karnataka 560001",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560001",
+    "locality": "Vasanth Nagar",
+    "landmark": "near Sigma Central Mall, Vasanth Nagar, Bengaluru, Karnataka 560001",
+    "emergencyContact": "096868 60310",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4iMKXfRXlO8A3wzzrU0IafMpqW_YcHBlk9d0Cc0SUwA80kXPrKQrawYoOGcP3GBij9KMytgedlo0727Yuc69jPpu8Aqmu5kOEMhqVZCP5Le7LJ5LRCjtcL4RWWjKSvvG6-zI0bx4sqbQ=w1200-h900-p-k-no",
+    "logo": "https://www.fortishealthcare.com/themes/custom/fortis/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4iMKXfRXlO8A3wzzrU0IafMpqW_YcHBlk9d0Cc0SUwA80kXPrKQrawYoOGcP3GBij9KMytgedlo0727Yuc69jPpu8Aqmu5kOEMhqVZCP5Le7LJ5LRCjtcL4RWWjKSvvG6-zI0bx4sqbQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN7akJ1myMAPsmK_D3sYPSRW-EjWDxf6So5CgOx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOza0cCuF_rl8yB5CT4b9woK9kHECPVlN5AsAqY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPrigZCiParNt4_WKbJnl7YSVZe75Y0UOBlEQ_I=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO9C-F8Bw2V=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.9882166,
+      "lng": 77.5943056,
+      "label": "Fortis Hospital Bangalore | Cunningham Road - Best Hospital in Bangalore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "h-b-s-hospital-shivaji-nagar",
+    "name": "H B S Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "H B S Hospital is a prominent hospital in Shivaji Nagar, known for structured tertiary care across Spine Neurosurgeon In Shivaji Nagar. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Shivaji Nagar.",
+    "email": "",
+    "phone": "080 2555 5500",
+    "alternatePhone": "",
+    "website": "http://www.hbshospital.com/",
+    "address": "58, Cock Burn Rd, Sulthangunta, Shivaji Nagar, Bengaluru, Karnataka 560051",
+    "city": "Shivaji Nagar",
+    "state": "Karnataka",
+    "pincode": "560051",
+    "locality": "Sulthangunta",
+    "landmark": "Sulthangunta",
+    "emergencyContact": "080 2555 5500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFc6oq5Tn1jZ3kGl1n66li6ZfcxuTlJ8peUGfd2m9eB0eiKVJlni1AfvmwmvG31R12agN0XfTCoSTPEmh-RHeHtNyrXUUzCf6RbyCzKzzcerIVrXCe5P6jrDhIp-wbaFhv2xgAA=w1200-h900-p-k-no",
+    "logo": "https://hbshospital.com/images/logo-wide.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFc6oq5Tn1jZ3kGl1n66li6ZfcxuTlJ8peUGfd2m9eB0eiKVJlni1AfvmwmvG31R12agN0XfTCoSTPEmh-RHeHtNyrXUUzCf6RbyCzKzzcerIVrXCe5P6jrDhIp-wbaFhv2xgAA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.9893266,
+      "lng": 77.6035364,
+      "label": "H B S Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hhp-hospital-pvt-ltd-rajpur-sonarpur",
+    "name": "HHP Hospital Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Rajpur Sonarpur often choose HHP Hospital Pvt Ltd for its strength in Neurosurgeon In Shivaji Nagar. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Rajpur Sonarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "033 2435 9997",
+    "alternatePhone": "",
+    "website": "http://hhphospital.com/",
+    "address": "2406, Garia Main Rd, near Hindusthan More, Hindustan More, Ramkrishna Nagar, Garia Gardens, Garia, Kolkata, Rajpur Sonarpur, West Bengal 700084",
+    "city": "Rajpur Sonarpur",
+    "state": "West Bengal",
+    "pincode": "700084",
+    "locality": "Kolkata",
+    "landmark": "near Hindusthan More, Hindustan More, Ramkrishna Nagar, Garia Gardens, Garia, Kolkata, Rajpur Sonarpur, West Bengal 700084",
+    "emergencyContact": "033 2435 9997",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGse7GxCNZ7-aKZ4tk0yBtKb-EqKJMvuT5Hy0oNrVL5D2wPxS7-an_LntmqqycaigY18IDPca0z2mdgit6uLCtRXUWgzlhxc8AUoS9KiGWqggOgGu_C-W9Bh-p_qFNpHuypidk9A=w1200-h900-p-k-no",
+    "logo": "https://hhphospital.com/wp-content/uploads/2025/08/hhp-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGse7GxCNZ7-aKZ4tk0yBtKb-EqKJMvuT5Hy0oNrVL5D2wPxS7-an_LntmqqycaigY18IDPca0z2mdgit6uLCtRXUWgzlhxc8AUoS9KiGWqggOgGu_C-W9Bh-p_qFNpHuypidk9A=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMbQr-UXOZJIGApVNTKS5v7bZHACjqEwT5z5nSG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMbQr-UXOZJIGApVNTKS5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNDLlyNQ_pe1NA1YO88vOVuSU6Yawk0TL9dNT5F=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN_sZ0HkLKUt0zwe6KCGP9Vx0U2IbfFj72ntzKW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.4583119,
+      "lng": 88.3834594,
+      "label": "HHP Hospital Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "institute-of-reproductive-medicine-irm-kolkata",
+    "name": "Institute of Reproductive Medicine (IRM)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, Institute of Reproductive Medicine (IRM) offers coordinated hospital care with major focus on IVF In Shivaji Nagar and Reproductive Medicine. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "033 2321 5125",
+    "alternatePhone": "",
+    "website": "https://irmkolkata.org/",
+    "address": "Dr. B.n. Chakraborty Hospital, HB-36/A/3, 1st Cross Rd, HB Block, Sector 3, Bidhannagar, Kolkata, West Bengal 700106",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700106",
+    "locality": "Bidhannagar",
+    "landmark": "1st Cross Rd",
+    "emergencyContact": "033 2321 5125",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Shivaji Nagar",
+      "Reproductive Medicine"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUWv3vnauypX61w-aogFk8uTR5Ao3FDo2fps5Fu_QjM2W2ZGIoFEKFB2SnPlXKsebZpLsT52DYm3V8v4Kah24ml4nYlLdiWkGBXUOr0rdU4XYOxH2JR1BXivbTnweSiITaHQyG=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUWv3vnauypX61w-aogFk8uTR5Ao3FDo2fps5Fu_QjM2W2ZGIoFEKFB2SnPlXKsebZpLsT52DYm3V8v4Kah24ml4nYlLdiWkGBXUOr0rdU4XYOxH2JR1BXivbTnweSiITaHQyG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOv8_sQyXMefQfzk0YV_XeTNH9gAxvQNKNfZg0G=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNmPKwBIvodzdB8xTLfOrSvQ8A6fMjhIV3bThom=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPcYkxkLcFfxQsHLo0E5Rggxs-wZGZMXbVHQfQz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNCHYHCqhYB4Q0f4OiWIIUBiOYvY99DL4B-unBE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5751871,
+      "lng": 88.416922,
+      "label": "Institute of Reproductive Medicine (IRM)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "joshi-hospital-maharashtra-medical-foundation-pune",
+    "name": "Joshi Hospital, Maharashtra Medical Foundation",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Joshi Hospital, Maharashtra Medical Foundation delivers integrated care across General Surgery In Shivaji Nagar. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "020 4109 6666",
+    "alternatePhone": "",
+    "website": "http://joshihospital.in/",
+    "address": "778, Kamala Nehru Park Rd, opposite Kamala Nehru Park, Shivajinagar, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Shivajinagar",
+    "landmark": "opposite Kamala Nehru Park, Shivajinagar, Pune, Maharashtra 411004",
+    "emergencyContact": "020 4109 6666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGngBybYs4DfyEte0irXefHdXX9CNfXlFVXLRdYPnTsbcsJzIozi1A7XRGh0lMU1C2j2D99bCrtaHJP6o1N2wVy90Dfc4zbuvhg3ZN1Q46FjtqMyBvoLOCl3fw7dt3kId1hoEoj=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGngBybYs4DfyEte0irXefHdXX9CNfXlFVXLRdYPnTsbcsJzIozi1A7XRGh0lMU1C2j2D99bCrtaHJP6o1N2wVy90Dfc4zbuvhg3ZN1Q46FjtqMyBvoLOCl3fw7dt3kId1hoEoj=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5171681,
+      "lng": 73.8333084,
+      "label": "Joshi Hospital, Maharashtra Medical Foundation",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kolkata-kidney-institute-kolkata",
+    "name": "KOLKATA KIDNEY INSTITUTE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KOLKATA KIDNEY INSTITUTE has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Shivaji Nagar and Kidney Care. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "033 2484 0009",
+    "alternatePhone": "",
+    "website": "https://kolkatakidneyinstitute.com/",
+    "address": "823, Kalikapur Rd, Purbachal Kalitala, Kalikapur, Haltu, Kolkata, West Bengal 700078",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700078",
+    "locality": "Haltu",
+    "landmark": "Purbachal Kalitala",
+    "emergencyContact": "033 2484 0009",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Shivaji Nagar",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZlvo8Ep-uSjgXZkFqWzqJ4uwQmCn1Zl7oNt276QAMO8hcp37TWf_6zYgInMQwAYnvEwtkfk1MzVq6Uy2ICt8eoaaa7Y1-oAyHJlJ9ZJWCDqvok11A_B5hglr3GiIV1cVkpPrWSXulUAJe=w1200-h900-p-k-no",
+    "logo": "https://kolkatakidneyinstitute.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZlvo8Ep-uSjgXZkFqWzqJ4uwQmCn1Zl7oNt276QAMO8hcp37TWf_6zYgInMQwAYnvEwtkfk1MzVq6Uy2ICt8eoaaa7Y1-oAyHJlJ9ZJWCDqvok11A_B5hglr3GiIV1cVkpPrWSXulUAJe=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.503913,
+      "lng": 88.3979072,
+      "label": "KOLKATA KIDNEY INSTITUTE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manipal-hospital-em-bypass-kolkata",
+    "name": "Manipal Hospital EM Bypass",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Manipal Hospital EM Bypass has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Neurosurgeon In Shivaji Nagar. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "033 6907 0000",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/em-bypass/?utm_source",
+    "address": "127, Eastern Metropolitan Bypass, Nitai Nagar, Mukundapur, Kolkata, West Bengal 700099",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Mukundapur",
+    "landmark": "Nitai Nagar",
+    "emergencyContact": "033 6907 0000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGy1cUUls7a79b8vpGh0off8Sxl0sYe16mB9QMpXAMD9L9Hka85APQIsbpi71DWQBV6816534pE_ID-g_zQHWPWIOwOD6fXtgUyj7aEN8rESRJALCaMtK5a5TbdryOM7MzIqq81uQidGpcE=w1200-h900-p-k-no",
+    "logo": "https://www.manipalhospitals.com/em-bypass/assets/images/homepage/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGy1cUUls7a79b8vpGh0off8Sxl0sYe16mB9QMpXAMD9L9Hka85APQIsbpi71DWQBV6816534pE_ID-g_zQHWPWIOwOD6fXtgUyj7aEN8rESRJALCaMtK5a5TbdryOM7MzIqq81uQidGpcE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPXTauQf_UGgNNf-zCUb3Xw9yd-Lx_W2mLKABBy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMQ2nZYptCf4QSuafik7xOo_u6jxKez3LHAcDXE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNYuFOCKaVDH-poociRB6Jm6XNZIsWFCJawDo1_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDBBzqC5zhf3evqXH0AMWMeazmngSqCeJX7hNvJ6F7HAqcMxYG8n6gioJv3jkMmL7lKBdX0JWAFteKg22UyeFzW4ztwIDx-db9EU4XI_XK1KJJUboyk2FUIYDH5foEE-n6fmQ_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.4942277,
+      "lng": 88.400696,
+      "label": "Manipal Hospital EM Bypass",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manipal-hospital-millers-road-bengaluru",
+    "name": "Manipal Hospital Millers Road",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Manipal Hospital Millers Road is a prominent hospital in Bengaluru, known for structured tertiary care across Spine Neurosurgeon In Shivaji Nagar. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bengaluru.",
+    "email": "",
+    "phone": "1800 102 4647",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/millersroad/blog/sinus-causes-symptoms-and-headache/",
+    "address": "71/1, Millers Rd, opp. to St. Anne's College, Vasanth Nagar, Bengaluru, Karnataka 560001",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560001",
+    "locality": "Vasanth Nagar",
+    "landmark": "opp. to St. Anne's College",
+    "emergencyContact": "1800 102 4647",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJMnH8aA2rlwF0duxOcBdakQRrdKObJSp7C04ITN05WoHZhHvNMXqUK4YSCb-SmIqSADQyaUJc6QlyPehOnHylxw_jtd-mHCXgT_aB1nDpmQtrfFjwz4u6Bo-wYEqmsAQv5oYg5w=w1200-h900-p-k-no",
+    "logo": "https://www.manipalhospitals.com/millersroad/assets/images/homepage/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJMnH8aA2rlwF0duxOcBdakQRrdKObJSp7C04ITN05WoHZhHvNMXqUK4YSCb-SmIqSADQyaUJc6QlyPehOnHylxw_jtd-mHCXgT_aB1nDpmQtrfFjwz4u6Bo-wYEqmsAQv5oYg5w=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNI1m5kcI99Qt-ApReJ00qGeB7RwmOnlLEPmBAV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOMzHaW9QjU1Raeje4XwhQKO0a5xn_jenQa2LvV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOHD3kYXLuw_swEO_lhW29QQuTUGS6eWqibhT6y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNlxfrF-ufH1Gx6f3wTed4kNAcJ7jWV9GA5stLx=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.9883379,
+      "lng": 77.5919754,
+      "label": "Manipal Hospital Millers Road",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manipal-hospital-salt-lake-kolkata",
+    "name": "Manipal Hospital, Salt Lake",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, Manipal Hospital, Salt Lake offers coordinated hospital care with major focus on Neurosurgeon In Shivaji Nagar. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "1800 102 4647",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/saltlake/",
+    "address": "IB-193, Broadway Rd, IB Block, Sector 3, Bidhannagar, Kolkata, West Bengal 700106",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700106",
+    "locality": "Bidhannagar",
+    "landmark": "IB Block",
+    "emergencyContact": "1800 102 4647",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/geougc/AF1QipMH4F3xKZAmuh9VRPNf_seXxX32KiBxwGoJQIRf=w1200-h900-p-k-no",
+    "logo": "https://www.manipalhospitals.com/saltlake/assets/images/homepage/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/geougc/AF1QipMH4F3xKZAmuh9VRPNf_seXxX32KiBxwGoJQIRf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMd1AE6De5E7KRDZDLwLl01wTsx4Ffy3zkx694I=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNsRtdoYHSHIwvypUL3lH_sFchsa3qifDphGBcZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEheej-AYARZLIbyGPcq5U8SaghKcZYSMMl4KB-oaOaRPfkG6PcS7B0wbwGrOVNWdsotSTkTDe3oObhSkKcoT5rzSVe84vHBaQgEKEG5PJY0nW4weEFwDEumYC42quaOeUUOvBx6X-wCaSE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPp5xTf5reP9mwUTU6yF2t0_lrb5BRt6J9E1AbS=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5724101,
+      "lng": 88.4127851,
+      "label": "Manipal Hospital, Salt Lake",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medic-star-hospital-shivaji-nagar",
+    "name": "Medic Star Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Shivaji Nagar, Medic Star Hospital offers coordinated hospital care with major focus on Cardiac Surgery In Shivaji Nagar. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Shivaji Nagar.",
+    "email": "",
+    "phone": "090357 83088",
+    "alternatePhone": "",
+    "website": "",
+    "address": "17/1, AM Road, Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001",
+    "city": "Shivaji Nagar",
+    "state": "Karnataka",
+    "pincode": "560001",
+    "locality": "Bharati Nagar",
+    "landmark": "Bharati Nagar",
+    "emergencyContact": "090357 83088",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG13f6Erm3n6UjJjRdVO5bGnzlMELH7IoefpmTdwTWJqpuEUVXgxgO5lED7NeWnxh6XYcAd3L2lNQef7iR9MQ0XsIqyvhEeddwWUpyybabPRYy0oD7SjnNQMH3oNEDAWVgF3CG5RA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG13f6Erm3n6UjJjRdVO5bGnzlMELH7IoefpmTdwTWJqpuEUVXgxgO5lED7NeWnxh6XYcAd3L2lNQef7iR9MQ0XsIqyvhEeddwWUpyybabPRYy0oD7SjnNQMH3oNEDAWVgF3CG5RA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.9876878,
+      "lng": 77.6093507,
+      "label": "Medic Star Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medicover-hospitals-best-hospital-in-pune-pune",
+    "name": "Medicover Hospitals - Best Hospital in Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Medicover Hospitals - Best Hospital in Pune for its strength in Spine Surgery In Shivaji Nagar. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "040 6833 4455",
+    "alternatePhone": "",
+    "website": "https://www.medicoverhospitals.in/hospitals/maharashtra/pune/?utm_source",
+    "address": "Indrayani Nagar Rd, Sector No. 1, Bhosari, Pimpri-Chinchwad, Pune, Maharashtra 411026",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411026",
+    "locality": "Pimpri-Chinchwad",
+    "landmark": "Bhosari",
+    "emergencyContact": "040 6833 4455",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPzbDqzK6DnSP-qDDUm_ueaqVhDreOWPKCZXm-QPCK98R8mcy6utC7Z7hHPp_5H9SEfynLfOCeiIJY7btsiASGdK4vnoXHkF0VG_jI9km6FfNVMawnBzgSviaMPJKjFwsWkD1W2QXNNzYF=w1200-h900-p-k-no",
+    "logo": "https://www.medicoverhospitals.in/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPzbDqzK6DnSP-qDDUm_ueaqVhDreOWPKCZXm-QPCK98R8mcy6utC7Z7hHPp_5H9SEfynLfOCeiIJY7btsiASGdK4vnoXHkF0VG_jI9km6FfNVMawnBzgSviaMPJKjFwsWkD1W2QXNNzYF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNI3X-7RBjpQL3RVNp-Cme6_ZNFHaYYVoJrr5ou=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOlHrKa8rlhmB5uJcPnOCUduTOJKLJBHnebWf5Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMK30cnYd_kq_Opa8IsCVlEvVKwEdEN1G7ujLjO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNn__yhqPNPaCbsKjDdCQ-JotrCqCePWAet9E8P=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.634398,
+      "lng": 73.84615,
+      "label": "Medicover Hospitals - Best Hospital in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mjm-hospital-pune",
+    "name": "MJM Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, MJM Hospital brings together specialists for General Surgery In Shivaji Nagar. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "020 4149 9999",
+    "alternatePhone": "",
+    "website": "http://www.mjmhospital.com/",
+    "address": "1194, Janardan Sadan, 1194/23, Ghole Rd, Sud Nagar, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "1194/23",
+    "emergencyContact": "020 4149 9999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKgP226QhFFU5k_msgai_hJwCTCiJgQOhE8Cnph-fptX-b8Rym1znCL6qEZVSU-N6M6h17Hns5kRgEx0lqJ2hT3T-7snVewxNCU4J1iXFerClsN7jKpYvP6sxpHpbATSzc-qc_=w1200-h900-p-k-no",
+    "logo": "https://www.mjmhospital.com/img/logomjm.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKgP226QhFFU5k_msgai_hJwCTCiJgQOhE8Cnph-fptX-b8Rym1znCL6qEZVSU-N6M6h17Hns5kRgEx0lqJ2hT3T-7snVewxNCU4J1iXFerClsN7jKpYvP6sxpHpbATSzc-qc_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN_8i5M06ec_wwlw1o9tOq8qWzlDeMo1vmakRJv=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5245717,
+      "lng": 73.8438811,
+      "label": "MJM Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "narayana-rn-tagore-hospital-mukundapur-kolkata",
+    "name": "Narayana RN Tagore Hospital, Mukundapur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Narayana RN Tagore Hospital, Mukundapur has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Cardiac Surgery In Shivaji Nagar. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080675 06860",
+    "alternatePhone": "",
+    "website": "https://www.narayanahealth.org/hospitals/kolkata/rabindranath-tagore-international-institute-cardiac-sciences/?utm_source",
+    "address": "Premises No: 1489, 124, Eastern Metropolitan Bypass, Mukundapur Market, Stadium Colony, Mukundapur, Kolkata, West Bengal 700099",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Mukundapur",
+    "landmark": "Eastern Metropolitan Bypass",
+    "emergencyContact": "080675 06860",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLPJetBiuGEMMJnuUtZV5PpDMqWsd7PLd9JmAC3xaBcsaRi3piD9a2D_SyMFVsoa3BvsRJe-8j9UKCX-MuxoWG9ohGoSbu5Gioso9GiivG0tnC3s8TsfZnzwIXDB4djpq4Lc2CXw=w1200-h900-p-k-no",
+    "logo": "https://www.narayanahealth.org/images/nh-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLPJetBiuGEMMJnuUtZV5PpDMqWsd7PLd9JmAC3xaBcsaRi3piD9a2D_SyMFVsoa3BvsRJe-8j9UKCX-MuxoWG9ohGoSbu5Gioso9GiivG0tnC3s8TsfZnzwIXDB4djpq4Lc2CXw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMz75f9PU9uhNgC_xEYhlYxvufxuEBWo77BUx7J=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNaQbdGeRIjGFqu1SaBhjErQsftLDzlmKETTiKu=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOxNZydIb0yCTHL99ppHcxB3_rkBP8Xuqcl2e5v=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNock5DJia9uPd50wBx2rTAm3lyoPDjIJgMZNca=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.4912281,
+      "lng": 88.4024062,
+      "label": "Narayana RN Tagore Hospital, Mukundapur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nkpc-kidney-clinic-kolkata",
+    "name": "NKPC Kidney Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose NKPC Kidney Clinic for its strength in Kidney Transplant Surgery In Shivaji Nagar and Kidney Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "084200 17061",
+    "alternatePhone": "",
+    "website": "https://nkpc.in/",
+    "address": "1212, 2nd St, Purbalok, Santoshpur, Kolkata, West Bengal 700099",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Santoshpur",
+    "landmark": "Purbalok",
+    "emergencyContact": "084200 17061",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Shivaji Nagar",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCmv94IaoSzM0m0PhygJ7-WaRORhtrpsezJnwKPUx-MvAC5Qy7rnH3ughLrbhQscc4M7KxrRt2E4bnMc35nmNSsakatUx4PdBtQGplQlmUti9_inK38TzfAhC42Tf36OqW0pKHmhqDEvU=w1200-h900-p-k-no",
+    "logo": "https://nkpc.in/images/nkpc_kidney_clinic_logo22-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCmv94IaoSzM0m0PhygJ7-WaRORhtrpsezJnwKPUx-MvAC5Qy7rnH3ughLrbhQscc4M7KxrRt2E4bnMc35nmNSsakatUx4PdBtQGplQlmUti9_inK38TzfAhC42Tf36OqW0pKHmhqDEvU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.498556,
+      "lng": 88.4002065,
+      "label": "NKPC Kidney Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "peerless-hospital-kolkata",
+    "name": "Peerless Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kolkata, Peerless Hospital brings together specialists for Laparoscopic Surgery In Shivaji Nagar. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.peerlesshospital.com/",
+    "address": "360, Panchasayar Rd, Sahid Smirity Colony, Pancha Sayar, Kolkata, West Bengal 700094",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700094",
+    "locality": "Pancha Sayar",
+    "landmark": "Sahid Smirity Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYU61e40CX_mFwq5N8wErWT35tKCPuNH-6CESf9SEEzD2T3ExbUNLdHz2HfDE-PlZhS0cFr3M_9jsicO2OWuZVVbs43RMEOVc-bgYu53hSW3ImTYdw_4WFmyT7cRGbmKV-wa45=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYU61e40CX_mFwq5N8wErWT35tKCPuNH-6CESf9SEEzD2T3ExbUNLdHz2HfDE-PlZhS0cFr3M_9jsicO2OWuZVVbs43RMEOVc-bgYu53hSW3ImTYdw_4WFmyT7cRGbmKV-wa45=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1W9bn1kUsfkOrCyTOzsBgUa-nGWeB1H89zNooy8KFww98U5RGdQkliTpBGs_2zhBjbh-d4xsGgJQBfONuZdzN6Ck1b7a6KObIsquqhw6iuz0A_REFwoQopBzCk0PNKD5pJ4jFyQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHoM-EkgFvETnoHcG1q8VueQpz6yYw2Nr0eWeiL8K7xMRTGSVoI34OAXi6OhZ7j1VhFoFyzCHtHOHz7ookUgZS-4VuN2XRyTfzGB_SVDJN5l60yCOsEJyXTZXzUH7MVYSqEDE-k=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4iLM3WPQlcH2F06FYL1z6pkXA2Y02AU6ul35Rcm7FogHRTcSLWNpJm_rR6PejjbQqKlbH_J0ZJxN_7NN1OXDz7B6P4qe35VSeciumfN4kBnlZdFu33Si7jICyehDboTwPB_REB2AD3pfR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXLlHcUQxrCcFIV5CwUpMQt8EZrBPeONgVI49orVVI2sBWFyIAA3VlVTx940rUuIuO9yFqO6J6loxbx_pyhoriVSCzKehPECKRChbglU9a5oVInWoWHaqqJtRHGQ6aowGrFvK9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.4807775,
+      "lng": 88.3942466,
+      "label": "Peerless Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "q-medical-center-and-hospital-dickenson-road-bangalore-bengaluru",
+    "name": "Q Medical Center and Hospital , Dickenson Road, Bangalore",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Q Medical Center and Hospital , Dickenson Road, Bangalore is a prominent private hospital in Bengaluru, known for structured tertiary care across Spine Neurosurgeon In Shivaji Nagar. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bengaluru.",
+    "email": "",
+    "phone": "095919 30365",
+    "alternatePhone": "",
+    "website": "https://qmch.in/",
+    "address": "Q Medical Center(Speciality Hospital, 43, Dickenson Rd, next to Hasanath College, Halasuru, Hanumanthappa Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560042",
+    "locality": "Sivanchetti Gardens",
+    "landmark": "Dickenson Rd",
+    "emergencyContact": "095919 30365",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVlYywXjEghs286NndcRBBto9_YlNHHfpsYDsMk7QplcKGolOtwpUN1Dyjb5qW6NQ4TRBHhQSzTE8Gz1Q6_i78j7uKCL6xKmmwkH4oupG5zEfaRTdEuC6gTFELm7XPhfKidz05aw=w1200-h900-p-k-no",
+    "logo": "https://qmch.in/wp-content/uploads/2024/01/cropped-QMCH-NEW-LOGO-512-x-512-px-10-jpeg.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVlYywXjEghs286NndcRBBto9_YlNHHfpsYDsMk7QplcKGolOtwpUN1Dyjb5qW6NQ4TRBHhQSzTE8Gz1Q6_i78j7uKCL6xKmmwkH4oupG5zEfaRTdEuC6gTFELm7XPhfKidz05aw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNfK_e4MfG677oPefPtuU1ES09Tz10lWQ1eRwlq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN6MKrV9-XebVIktW-ZxS2EpKgNGcH4a4nZY1AJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMjkfQ1eCQmlapmn3gtjsiwcW7LDjsUv4FQivnb=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPczBneBhi0oEWiXGdlx6FgUTNsnZQYMwCdV7os=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.9791068,
+      "lng": 77.6153811,
+      "label": "Q Medical Center and Hospital , Dickenson Road, Bangalore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sancheti-hospital-pune",
+    "name": "Sancheti Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Sancheti Hospital delivers integrated care across Spine Neurosurgeon In Shivaji Nagar. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "088888 08845",
+    "alternatePhone": "",
+    "website": "https://sanchetihospital.org/",
+    "address": "11/12 16 16, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "Shivajinagar",
+    "emergencyContact": "088888 08845",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFN0B26ArCrRPVguSxDUCmXiGfhC_sgvi-stdHrojcNMvpPT_oJDRqGDpB8b0PEsmvBTwsfLYnyak8t1T9HeLj1V6bN27-egtDE8xGlld92HOxtc59KUhtt78choIEYJp84lxUQ5Q=w1200-h900-p-k-no",
+    "logo": "https://sanchetihospital.org/wp-content/uploads/2025/06/Group-35681-1.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFN0B26ArCrRPVguSxDUCmXiGfhC_sgvi-stdHrojcNMvpPT_oJDRqGDpB8b0PEsmvBTwsfLYnyak8t1T9HeLj1V6bN27-egtDE8xGlld92HOxtc59KUhtt78choIEYJp84lxUQ5Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP0J6QRWnNO1J4OG9BizOEsGL1xwAoxTsAbFAiq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNpLCYpzhzO24uOq5kY-fA_JiVy7khnUJLonhMc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPKmVoN5RZnNrpPZq39s5s-k5G1gsJbTLo_KF5s=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOUIUvsrzqfYxr6UfFIi22pasNiRK9ag8ujA1HO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5299624,
+      "lng": 73.852979,
+      "label": "Sancheti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "spandan-hospital-kolkata",
+    "name": "SPANDAN HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SPANDAN HOSPITAL is a prominent hospital in Kolkata, known for structured tertiary care across Laparoscopic Surgery In Shivaji Nagar. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "033 4004 5511",
+    "alternatePhone": "",
+    "website": "http://www.spandanhospital.in/",
+    "address": "VIP Rd, near Disha Eye Hospital, Tegharia, Kaikhali, Kolkata, West Bengal 700052",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700052",
+    "locality": "Kaikhali",
+    "landmark": "near Disha Eye Hospital, Tegharia, Kaikhali, Kolkata, West Bengal 700052",
+    "emergencyContact": "033 4004 5511",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXlFK87zKhfVoJ53semwbLWmp-EnPeP5iZ1_ea2yQxZxSWtCmX9ZYvFrzAE7-mJFXgLcKOoN4k_c-zPRNaotDCjhoiEIxZiq0J7a85rvbxIZGygp-rPxdFl5Gg4GSnIZRKmMw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXlFK87zKhfVoJ53semwbLWmp-EnPeP5iZ1_ea2yQxZxSWtCmX9ZYvFrzAE7-mJFXgLcKOoN4k_c-zPRNaotDCjhoiEIxZiq0J7a85rvbxIZGygp-rPxdFl5Gg4GSnIZRKmMw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.6205579,
+      "lng": 88.4329311,
+      "label": "SPANDAN HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sparsh-hospital-for-advanced-surgery-former-sita-bhateja-speciality-hospital-now-merged-bengaluru",
+    "name": "Sparsh Hospital For Advanced Surgery (former Sita Bhateja Speciality Hospital- now merged)",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bengaluru often choose Sparsh Hospital For Advanced Surgery (former Sita Bhateja Speciality Hospital- now merged) for its strength in Spine Neurosurgeon In Shivaji Nagar and Speciality Care. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Bengaluru.",
+    "email": "",
+    "phone": "098450 88175",
+    "alternatePhone": "",
+    "website": "",
+    "address": "146, Infantry Rd, opp. Police Commissioners Office, Vasanth Nagar, Bengaluru, Karnataka 560001",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560001",
+    "locality": "Vasanth Nagar",
+    "landmark": "opp. Police Commissioners Office",
+    "emergencyContact": "098450 88175",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Shivaji Nagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3lhfG91mf_jDfov-Cg9ZcZWL1KUtC2SzdDIAP1Ghvt1IasUUL3UrKaryDDvmy5JxtzSXkc81z9PKe2DvLWsea_KSUchdOO6-TkMwX7nKPM8QyeCGF_R5Wd8nfenNICr625c34_Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3lhfG91mf_jDfov-Cg9ZcZWL1KUtC2SzdDIAP1Ghvt1IasUUL3UrKaryDDvmy5JxtzSXkc81z9PKe2DvLWsea_KSUchdOO6-TkMwX7nKPM8QyeCGF_R5Wd8nfenNICr625c34_Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.98331,
+      "lng": 77.594774,
+      "label": "Sparsh Hospital For Advanced Surgery (former Sita Bhateja Speciality Hospital- now merged)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sparsh-hospital-infantry-road-bengaluru",
+    "name": "SPARSH Hospital, Infantry Road",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bengaluru, SPARSH Hospital, Infantry Road offers coordinated hospital care with major focus on Spine Surgery In Shivaji Nagar. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bengaluru.",
+    "email": "",
+    "phone": "080 6591 3403",
+    "alternatePhone": "",
+    "website": "https://www.sparshhospital.com/bangalore/cardiologist-infantry-road/",
+    "address": "No 146, Prestige Opal, Infantry Rd, opp. Police Commissioner’s office, Vasanth Nagar, Bengaluru, Karnataka 560001",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560001",
+    "locality": "Vasanth Nagar",
+    "landmark": "Infantry Rd",
+    "emergencyContact": "080 6591 3403",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Shivaji Nagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeOPm-DjywjhCoFaBawqiLoBrjDGKghX22_S7urzG9XH7ivogLpv9tpWOTBsqRwoZQSNaZNJepkjdY68y5Mg771ce6lYhERiODWynqrkLD-iEX6XJYCAwHPeGsWraZ2qewo4mWbQ=w1200-h900-p-k-no",
+    "logo": "https://www.sparshhospital.com/wp-content/uploads/2025/06/new-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeOPm-DjywjhCoFaBawqiLoBrjDGKghX22_S7urzG9XH7ivogLpv9tpWOTBsqRwoZQSNaZNJepkjdY68y5Mg771ce6lYhERiODWynqrkLD-iEX6XJYCAwHPeGsWraZ2qewo4mWbQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOWBhS6gsG424XvHM0O7bNSDw_XIzQQcndPHJyf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOZWmzUiczL0Z722sChSXHVfoaZIKDHG5yMlWBn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNL-4aiG5QXjap8B0rMaF8xIOwl33owoXZSpywl=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHQnwBZjSHN18arH-nId4S9grLlJgWkbg_El-iCmJ_OW2hDUmWhfxEEGRFv_ahrl8u1NqHv04zKsh4tt44WMnv5HMaDkCOwowv367rFge4w4WEITcb58NqS-x6t0dscrYQFwi55w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.9832825,
+      "lng": 77.59475,
+      "label": "SPARSH Hospital, Infantry Road",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tathagat-heart-care-centre-and-hospital-dr-mahantesh-r-charantimath-bengaluru",
+    "name": "Tathagat Heart Care Centre & Hospital (Dr Mahantesh R Charantimath)",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bengaluru, Tathagat Heart Care Centre & Hospital (Dr Mahantesh R Charantimath) brings together specialists for Cardiac Surgery In Shivaji Nagar and Cardiac Care. The facility stands out for Google rating 4.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Bengaluru can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099003 56000",
+    "alternatePhone": "",
+    "website": "",
+    "address": "32, Crescent Rd, Nehru Nagar, Gandhi Nagar, Bengaluru, Karnataka 560001",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560001",
+    "locality": "Gandhi Nagar",
+    "landmark": "Nehru Nagar",
+    "emergencyContact": "099003 56000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Shivaji Nagar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2499Na0G7RE5K64iA2Lb8yMTpqXZGTHmB9DJQHv_WituhiPNQGaNCRq27qf7g3x8o1Sgh0xDzbzXJZkoB2Je37nl2rlIi36GP-Lb7ne-vMo3iYHUNPeIF3K3iEdMrQofcycMYopcDCo0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2499Na0G7RE5K64iA2Lb8yMTpqXZGTHmB9DJQHv_WituhiPNQGaNCRq27qf7g3x8o1Sgh0xDzbzXJZkoB2Je37nl2rlIi36GP-Lb7ne-vMo3iYHUNPeIF3K3iEdMrQofcycMYopcDCo0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.985298,
+      "lng": 77.58038,
+      "label": "Tathagat Heart Care Centre & Hospital (Dr Mahantesh R Charantimath)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

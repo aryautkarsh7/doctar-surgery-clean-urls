@@ -1,0 +1,9190 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "ahuja-hospital-kanpur",
+    "name": "AHUJA Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kanpur, AHUJA Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Kanpur. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "088403 24241",
+    "alternatePhone": "",
+    "website": "https://ahujahospitalkanpur.com/",
+    "address": "Keshavpuram, Kalyanpur, Kanpur, Uttar Pradesh 208019",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208019",
+    "locality": "Kalyanpur",
+    "landmark": "Kanpur",
+    "emergencyContact": "088403 24241",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9ZpxoU1TPD_DQ65VGtNLRzMOQzU44QPVevbuUTtTY69oYKWSe9dDhEgGJiaxrZ8L9i-GnLiD6ny9oqJUSGCAg6ZSJzy-ESVBJO31yGlMyvOhLu-2dxa3IN6a_8EdIiAf7Q3kJKDTVXJk=w1200-h900-p-k-no",
+    "logo": "https://ahujahospitalkanpur.com/favicon.ico",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9ZpxoU1TPD_DQ65VGtNLRzMOQzU44QPVevbuUTtTY69oYKWSe9dDhEgGJiaxrZ8L9i-GnLiD6ny9oqJUSGCAg6ZSJzy-ESVBJO31yGlMyvOhLu-2dxa3IN6a_8EdIiAf7Q3kJKDTVXJk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPPjWIkOYNcr-QkQE-_puT-40jzf7cTLtdp6Wgj=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4858636,
+      "lng": 80.2653505,
+      "label": "AHUJA Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ahuja-medical-and-research-centre-laparoscopic-surgery-hospital-kanpur-high-risk-pregnancy-care-diabetes-care-hospital-kanpur",
+    "name": "Ahuja Medical & Research centre - Laparoscopic Surgery Hospital Kanpur/High Risk Pregnancy Care/Diabetes Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kanpur, Ahuja Medical & Research centre - Laparoscopic Surgery Hospital Kanpur/High Risk Pregnancy Care/Diabetes Care Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Kanpur and Diabetology. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "063931 32460",
+    "alternatePhone": "",
+    "website": "https://amrcindia.com/",
+    "address": "87/53, Bhannana Purwa, Near Sangeet Talkies, Deputy Padao, Kanpur, Uttar Pradesh 208001",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208001",
+    "locality": "Deputy Padao",
+    "landmark": "Near Sangeet Talkies, Deputy Padao, Kanpur, Uttar Pradesh 208001",
+    "emergencyContact": "063931 32460",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur",
+      "Diabetology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC2acnxkH_6v9kSBcvOcXjbu0ouOpHdHLPwdbWSzv1d781BCKfP5YCGs9P8ffZUTHzOR0H7g--Gus5r2cwqTqNkssnE3oPk1h6cs8C8BW7EVtuzErnxWyv-Qw7riWQ3S4qB0VrU30ktqw=w1200-h900-p-k-no",
+    "logo": "https://amrcindia.com/image/Sahara-Hospital%20Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC2acnxkH_6v9kSBcvOcXjbu0ouOpHdHLPwdbWSzv1d781BCKfP5YCGs9P8ffZUTHzOR0H7g--Gus5r2cwqTqNkssnE3oPk1h6cs8C8BW7EVtuzErnxWyv-Qw7riWQ3S4qB0VrU30ktqw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNLb-cVaeHY1p63LPq8HrQrKo5eZ_7Bzok5VcgX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNGFfIrP2xz6m3Dcl__FQ82qGsce4d9q956vaQe=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOh708fumIX8iw8cp9k-fMRbY_Bz92Txg9hX49a=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPwV6ZkqhyyEwp433sPCsTFIqKFM2dJaW6uPsfV=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4626943,
+      "lng": 80.3307957,
+      "label": "Ahuja Medical & Research centre - Laparoscopic Surgery Hospital Kanpur/High Risk Pregnancy Care/Diabetes Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "anurag-hospital-best-hospital-in-sharda-nagar-kanpur-kanpur",
+    "name": "ANURAG HOSPITAL | BEST HOSPITAL IN SHARDA NAGAR, KANPUR.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kanpur, ANURAG HOSPITAL | BEST HOSPITAL IN SHARDA NAGAR, KANPUR. delivers integrated care across Brain Surgery In Kanpur. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "098895 38233",
+    "alternatePhone": "",
+    "website": "http://www.anuraghealthcare.org/",
+    "address": "150, Sharda Nagar Rd, Namak Factory Chauraha, Chhapeda Pulia, Geeta Nagar, Sharda Nagar, Kanpur, Uttar Pradesh 208025",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208025",
+    "locality": "Sharda Nagar",
+    "landmark": "Namak Factory Chauraha",
+    "emergencyContact": "098895 38233",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHo2nJgi_VFKJX9I0Cj6d5beF0brcnpXEzMylUYCDYxdsPml50IPCG6Samt76t7TPICj4HcupXwj29RyFJGK7RHkTg3NMkv5Qb7jDn0DwVOP6cKtAW74wTyE8RZlq_LWBqT1mw-=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHo2nJgi_VFKJX9I0Cj6d5beF0brcnpXEzMylUYCDYxdsPml50IPCG6Samt76t7TPICj4HcupXwj29RyFJGK7RHkTg3NMkv5Qb7jDn0DwVOP6cKtAW74wTyE8RZlq_LWBqT1mw-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOvM9HcqMRsR4FdRFDZmal-zaiWrOBhrSpOoGfu=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPEeccmSKgt0eHtGlmFGyMK_Y6DbExzGMkv1E_V=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOrH6jsxcSfqR3F_0q6BtFT03MeqdFW3bb8uOEB=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4845115,
+      "lng": 80.2887703,
+      "label": "ANURAG HOSPITAL | BEST HOSPITAL IN SHARDA NAGAR, KANPUR.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apollo-spectra-hospitals-kanpur-kanpur",
+    "name": "Apollo Spectra Hospitals - Kanpur",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apollo Spectra Hospitals - Kanpur has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering Brain Surgery In Kanpur. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084484 40991",
+    "alternatePhone": "",
+    "website": "https://www.apollospectra.com/kanpur/chunni-ganj/our-hospitals/best-hospital-in-chunni-ganj-kanpur?utm_source",
+    "address": "14/138, Mall Rd, near B.N.S.D Inter College, Chunniganj Chauraha, Chunni Ganj, Permat, Kanpur, Uttar Pradesh 208001",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208001",
+    "locality": "Permat",
+    "landmark": "near B.N.S.D Inter College, Chunniganj Chauraha, Chunni Ganj, Permat, Kanpur, Uttar Pradesh 208001",
+    "emergencyContact": "084484 40991",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwly1AMkAKUDcPnHEpT_rswyRaVn9AmJY3U2yg-B_qFmjWeBvWqIji_YRKoYs9RlI0tALVRql6hK45kNjsPTEhWcYfvSr0Kv3t7gyQG-ZI3GLI0zRmJDYWHrpnsEJNwIg32YSA=w1200-h900-p-k-no",
+    "logo": "https://www.apollospectra.com/images/logos/mobile-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwly1AMkAKUDcPnHEpT_rswyRaVn9AmJY3U2yg-B_qFmjWeBvWqIji_YRKoYs9RlI0tALVRql6hK45kNjsPTEhWcYfvSr0Kv3t7gyQG-ZI3GLI0zRmJDYWHrpnsEJNwIg32YSA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN_nm0Y5NgCzTB1cXYysGAbUXUC2Q-J6z6Hetx4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMo1eZZKzGCQV2HF2co-l7u20yco9JEaGnL1G1Y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOixZ5-1iB1_g61DFPH03qztdVyxpE0kjs8qLBk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOfn2xoFZG6W7KwEHHEyOJnzJwqaWn9QHSRsCHt=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4774295,
+      "lng": 80.3368915,
+      "label": "Apollo Spectra Hospitals - Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "arogya-hospital-kanpur",
+    "name": "Arogya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Arogya Hospital is a prominent hospital in Kanpur, known for structured tertiary care across General Surgery In Kanpur. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "063884 38312",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C Block, 172, Panki Thana Rd, Near SBI, Shahpur, Panki, Kanpur, Uttar Pradesh 208020",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208020",
+    "locality": "Panki",
+    "landmark": "Near SBI, Shahpur, Panki, Kanpur, Uttar Pradesh 208020",
+    "emergencyContact": "063884 38312",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHVadl7WJZLVag-3psyGkML9m-kb2kYUIVZqQNL9LfL0RgAqTKgIGZeVk5QjMmVUPQlxhmKacva9FCgk2uaOVX0RuYQqWvULVbTFLHjtFMvZKwXZYqN7hwgpbSYFPLo52xqTO_=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHVadl7WJZLVag-3psyGkML9m-kb2kYUIVZqQNL9LfL0RgAqTKgIGZeVk5QjMmVUPQlxhmKacva9FCgk2uaOVX0RuYQqWvULVbTFLHjtFMvZKwXZYqN7hwgpbSYFPLo52xqTO_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHk_XTBa_lpuqwj0fMtLhY1l3HC5X7UbqMokU6KhUmr3PR_mt1hbc-12pMuYjG91-PrCjw3XtihM6HvG9XMgR-3lVok_jZYY2CbXbfG8nwTbmGgj315Z-yqId463gELW7NjywfMQg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4676287,
+      "lng": 80.248874,
+      "label": "Arogya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "asia-hospital-kanpur-kanpur",
+    "name": "Asia Hospital Kanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanpur often choose Asia Hospital Kanpur for its strength in Heart Surgery In Kanpur. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://kanpurhealth.com/",
+    "address": "Bajrang Chauraha, M-37, Tower Wali Gali, Baba Nagar, Yashoda Nagar, Kanpur, Uttar Pradesh 208021",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208021",
+    "locality": "Yashoda Nagar",
+    "landmark": "Tower Wali Gali",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFza2Wt_OIua26IJ6dm75oJq7lssOxzBJdD7y2CVza0YoAnG4CynQSSDvd8J8UNmY0XR0vHDTqODGditzEBdYaCHrooIb-pnMYjsNbE_BfU9A7s5fSS-89b0VMLZ2edLGF2FWOoxA=w1200-h900-p-k-no",
+    "logo": "https://kanpurhealth.com/wp-content/uploads/2024/10/cropped-pexels-photo-302743-302743-scaled-2.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFza2Wt_OIua26IJ6dm75oJq7lssOxzBJdD7y2CVza0YoAnG4CynQSSDvd8J8UNmY0XR0vHDTqODGditzEBdYaCHrooIb-pnMYjsNbE_BfU9A7s5fSS-89b0VMLZ2edLGF2FWOoxA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZLM-y7cWaGnFUWn4eu53F-Sxn1z9IVSxaVEJtom8SPkWPsP74oqEBb4OKM5I1rbM-08m5a5kcuFT882QXw7JCEXhuBvJr7l0KAJeCByKEebTk8pqnairfDatB-B2AU5YV5E6IojSePY84=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.40588,
+      "lng": 80.3319895,
+      "label": "Asia Hospital Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bhargava-hospital-cghs-hospital-railway-empanelled-hospital-icu-hospital-in-kanpur-kanpur",
+    "name": "BHARGAVA HOSPITAL - CGHS Hospital | Railway Empanelled Hospital | ICU Hospital In Kanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kanpur, BHARGAVA HOSPITAL - CGHS Hospital | Railway Empanelled Hospital | ICU Hospital In Kanpur delivers integrated care across General Surgery In Kanpur. Hospital capacity markers such as Google rating 3.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "0512 230 4500",
+    "alternatePhone": "",
+    "website": "https://bhargavahospital.com/",
+    "address": "15/263, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208001",
+    "locality": "Civil Lines",
+    "landmark": "Kanpur",
+    "emergencyContact": "0512 230 4500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyISUVz-HX4dcJcBo8yEsoKOda_zp6HuBDW6GYLJ_MFQYI6mTeey9wEP82NEoUKKeji7GvAiMYIgOK4CViyG7GQ8BpWIOXu4BNd7UytZxQOCG8D7koUvLQbV34acHhr4hyaibAF2M0MOW1=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyISUVz-HX4dcJcBo8yEsoKOda_zp6HuBDW6GYLJ_MFQYI6mTeey9wEP82NEoUKKeji7GvAiMYIgOK4CViyG7GQ8BpWIOXu4BNd7UytZxQOCG8D7koUvLQbV34acHhr4hyaibAF2M0MOW1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMyHTXFVBW3QVYKkb8YgLHq71yt1nqn9C-CZE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMyHTXFVBW3QVYKkb8YgLHq71yt1nqn9C-CZEG0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrjUMJaMMmFJhk3ZQnvFVYeO5o3pdCnNY-dPnWq1_5QzjGKaFDQscc1MJJVJc8qUPugH3kSPaquMruq93NqTs5uIOzd_1fZzcjIllvNyCooGFhtZLeEufrtbDBw_0MTBi7HiT7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4743613,
+      "lng": 80.3501461,
+      "label": "BHARGAVA HOSPITAL - CGHS Hospital | Railway Empanelled Hospital | ICU Hospital In Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bliss-hospital-kanpur",
+    "name": "Bliss Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanpur often choose Bliss Hospital for its strength in Laparoscopic Surgery In Kanpur. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098391 04450",
+    "alternatePhone": "",
+    "website": "",
+    "address": "F1-27, Barra 8 Rd, Barra 8, Barra, Kanpur, Uttar Pradesh 208027",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208027",
+    "locality": "Barra",
+    "landmark": "Barra 8",
+    "emergencyContact": "098391 04450",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsUHep0eU7RkiD3L1b9fbNVIc8qSbNaIytLNa0zcPnbpC5WOagArCvOqOK7Fyvo_D0P5vDQSmlv9qeR-QXF4OMwySR8x9fNNhYP6lw1d4MfuNNzn1lcT2RnTZpSLPk9BtFDfE1=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsUHep0eU7RkiD3L1b9fbNVIc8qSbNaIytLNa0zcPnbpC5WOagArCvOqOK7Fyvo_D0P5vDQSmlv9qeR-QXF4OMwySR8x9fNNhYP6lw1d4MfuNNzn1lcT2RnTZpSLPk9BtFDfE1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFPn0LTtAtHO31rqIy6xL5ZGUAUVlkXo3RpkOKxlL0rV6TPTBK65gLlrDH6h82-Elpa_YF6AZ0iLYOBAITMKLvR6-0Fg3niQQAb-FmtGxL5QBcU-l1t1WuNabSjqvYF8_HrJuyt2ohhihI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4299632,
+      "lng": 80.2900841,
+      "label": "Bliss Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cardiology-kanpur",
+    "name": "Cardiology",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanpur often choose Cardiology for its strength in Heart Surgery In Kanpur. The facility stands out for Google rating 4.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "073809 96666",
+    "alternatePhone": "",
+    "website": "https://lpscardiology.org/",
+    "address": "4, Awas Vikas Rd, Hanspuram, Yashoda Nagar, Kanpur, Uttar Pradesh 208021",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208021",
+    "locality": "Yashoda Nagar",
+    "landmark": "Hanspuram",
+    "emergencyContact": "073809 96666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9dtMPeFez2dLzKtrpkdfxV0RuX2xnx9jqXGjuA86OGsFbI8T51yTDb9VyiyafqpZA0rrk4W2k3pn4mL4-HZ6vcwZFyPcepBLVb2KWiS93X_LgRcVBt0cT52qfJ_RaQg68cwT3Jg=w1200-h900-p-k-no",
+    "logo": "https://lpscardiology.org/images/lpscardiology.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9dtMPeFez2dLzKtrpkdfxV0RuX2xnx9jqXGjuA86OGsFbI8T51yTDb9VyiyafqpZA0rrk4W2k3pn4mL4-HZ6vcwZFyPcepBLVb2KWiS93X_LgRcVBt0cT52qfJ_RaQg68cwT3Jg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.397942,
+      "lng": 80.3272612,
+      "label": "Cardiology",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "chandni-hospital-kanpur",
+    "name": "Chandni Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Chandni Hospital is a prominent private hospital in Kanpur, known for structured tertiary care across Brain Surgery In Kanpur. With public-facing highlights like Google rating 3.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "0512 255 1185",
+    "alternatePhone": "",
+    "website": "https://www.chandnihospital.com/",
+    "address": "9/60, Arya Nagar Rd, Khalasi Line, Arya Nagar, Kanpur, Uttar Pradesh 208002",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208002",
+    "locality": "Arya Nagar",
+    "landmark": "Khalasi Line",
+    "emergencyContact": "0512 255 1185",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-Brk7HVtA_X9ziu49EbQ21aBUhU7gDovmDnM7k3s7EIPA5MVHG0mt3R5xQ_uMYxDxMqS2hb-naViM2UjXcGObXNUjwN3IPKyLL0oFLgiPMvzrzXQwfJvMs3_YS5KQB-BZaepjWg=w1200-h900-p-k-no",
+    "logo": "https://www.chandnihospital.com/wp-content/uploads/2022/08/logo-60x60.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-Brk7HVtA_X9ziu49EbQ21aBUhU7gDovmDnM7k3s7EIPA5MVHG0mt3R5xQ_uMYxDxMqS2hb-naViM2UjXcGObXNUjwN3IPKyLL0oFLgiPMvzrzXQwfJvMs3_YS5KQB-BZaepjWg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFo6y0OVcDrHfIDQRgZD_vBi52pWyBXgX5skN15n3MEmIelOJT-A8TQv7sf6bMSWtlZ0BkOGp-WjX6ezfnDjuU0tn--htJJQc_qZ5mKZcmSaMkRbvATflOseLDTYU4O8cOs-6db-EDmhehp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAgYW0qhVVRdahtWYJ31TfgszZrgQfYoZh6sSLKlAVZZtMUlnvmLWg-bEwYm5ay5hFje9hyccflWy-vG-VCrVrJzvfDmgkG7QwLSMwzHyMloBS48gsRMkqSl4nRs8MiFirLek0lQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.479538,
+      "lng": 80.3225617,
+      "label": "Chandni Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "delta-hospital-kanpur",
+    "name": "Delta Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kanpur, Delta Hospital offers coordinated hospital care with major focus on Brain Surgery In Kanpur. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Barra Bypass Rd, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208014",
+    "locality": "Saket Nagar",
+    "landmark": "Saket Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYEuvrK3PgSvXZgVSMJfybaeUYzzgG9sMfuPwDQRoErMdEDmIZS_h0TMmuI3Bi2hQSGN_fST2VJWBWl6DJeDSnjlLo-sBEmWFcJctUqFpage3KT1pR-1suFLOIMd2Az0evqIJd=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYEuvrK3PgSvXZgVSMJfybaeUYzzgG9sMfuPwDQRoErMdEDmIZS_h0TMmuI3Bi2hQSGN_fST2VJWBWl6DJeDSnjlLo-sBEmWFcJctUqFpage3KT1pR-1suFLOIMd2Az0evqIJd=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4343327,
+      "lng": 80.3087478,
+      "label": "Delta Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dhanvantri-superspeciality-hospital-kanpur",
+    "name": "Dhanvantri Superspeciality Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Kanpur, Dhanvantri Superspeciality Hospital delivers integrated care across Heart Surgery In Kanpur and Speciality Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "1800 123 2191",
+    "alternatePhone": "",
+    "website": "http://www.dhanvantrihealthcare.com/",
+    "address": "thane se, kalpi ki or, Vasant Vihar, chalne par, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208021",
+    "locality": "Naubasta",
+    "landmark": "Vasant Vihar",
+    "emergencyContact": "1800 123 2191",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSm7GmIgc1oWv65AtEbsbciaL0SbjxugBxKcu8y2ApEGvsmKjAhaV95AKk32NL6jeH8hf0_HAZRGjP7AIcl3_3bwWE_Op6AhbAC7fDIGzg6z39a7Irxjo67wKzunRuRGjHNVa44BEnoGw=w1200-h900-p-k-no",
+    "logo": "https://dhanvantrihealthcare.com/wp-content/uploads/2021/08/dhan_logo-1024x208.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSm7GmIgc1oWv65AtEbsbciaL0SbjxugBxKcu8y2ApEGvsmKjAhaV95AKk32NL6jeH8hf0_HAZRGjP7AIcl3_3bwWE_Op6AhbAC7fDIGzg6z39a7Irxjo67wKzunRuRGjHNVa44BEnoGw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4212845,
+      "lng": 80.3179722,
+      "label": "Dhanvantri Superspeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "family-hospital-and-research-centre-multi-speciality-hospital-in-kanpur-kanpur",
+    "name": "Family Hospital & Research Centre - Multi Speciality Hospital in Kanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanpur often choose Family Hospital & Research Centre - Multi Speciality Hospital in Kanpur for its strength in Gynecologist Surgery In Kanpur and Speciality Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097935 65758",
+    "alternatePhone": "",
+    "website": "https://www.familyhospital.co.in/",
+    "address": "Hanspuram, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208021",
+    "locality": "Naubasta",
+    "landmark": "Kanpur",
+    "emergencyContact": "097935 65758",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGV6HFh3IPVq1vgZGq7ydlCSOgzOpXiS4xHREATpvmavoP205i5dkM7gS08DCrAhF_NR92W-iOeuFmGcLerdyaFIgT6EgO-Bp0ngSLnPvxzOj_V3XLnKLfmbpEFP4eajSVt66sA=w1200-h900-p-k-no",
+    "logo": "https://www.familyhospital.co.in/wp-content/uploads/2023/12/final-1.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGV6HFh3IPVq1vgZGq7ydlCSOgzOpXiS4xHREATpvmavoP205i5dkM7gS08DCrAhF_NR92W-iOeuFmGcLerdyaFIgT6EgO-Bp0ngSLnPvxzOj_V3XLnKLfmbpEFP4eajSVt66sA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.3992166,
+      "lng": 80.3143161,
+      "label": "Family Hospital & Research Centre - Multi Speciality Hospital in Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fortune-hospital-kanpur",
+    "name": "Fortune Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Fortune Hospital has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering Gynecologist Surgery In Kanpur. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070803 00300",
+    "alternatePhone": "",
+    "website": "http://www.fortunehospital.in/",
+    "address": "117/Q/40-A, Q Block, Sharda Nagar, Kanpur, Uttar Pradesh 208025",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208025",
+    "locality": "Sharda Nagar",
+    "landmark": "Sharda Nagar",
+    "emergencyContact": "070803 00300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHM0CtPy_1ObmaNfwxa1bCQ9e1PqCl1nhtYsH2nHVlmFP-5vH1k5f1c1lNOGiv79aRxQPbi3IzypfHhELfT0b097a9-JZpvnlUWl8MOLMFeWL8QzUhVcvWkfxG4ozElr9yctakDBEg83l62=w1200-h900-p-k-no",
+    "logo": "http://fortunehospital.in/assets/image/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHM0CtPy_1ObmaNfwxa1bCQ9e1PqCl1nhtYsH2nHVlmFP-5vH1k5f1c1lNOGiv79aRxQPbi3IzypfHhELfT0b097a9-JZpvnlUWl8MOLMFeWL8QzUhVcvWkfxG4ozElr9yctakDBEg83l62=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2nNBhiztafOhKypLQ6yHygxfhA_Yme5vYiNiCUtfowCXKZbNnggKWpNJ0BEvf_KMj5ReuE-yrMuIDFuVLUkb5jkgxrZyWX214mq3im_v48wTN8XP15qAM7MWWTMsesyfUiNM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4883875,
+      "lng": 80.2889507,
+      "label": "Fortune Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gahlaut-health-care-private-limited-kanpur",
+    "name": "Gahlaut Health Care Private Limited |",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gahlaut Health Care Private Limited | has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering IVF In Kanpur. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098393 08777",
+    "alternatePhone": "",
+    "website": "https://gahlauthealthcare.com/",
+    "address": "Infront Of kalyanpur Thana, C-13, behind Petrol Pump, New Azad Nagar, Kalyanpur, Kanpur, Uttar Pradesh 208026",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208026",
+    "locality": "Kalyanpur",
+    "landmark": "behind Petrol Pump",
+    "emergencyContact": "098393 08777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3JmydySmqjfO410h5QgLtQsSb5aYfckAiOYZ7nlU55u15EcwNFPfKwFLcbGgpMxZ55LOIW9QmBPstbs2ktdJpgFmIlp9eNA9CeJWondwRlAjHkpD-xAi85PllyRa9M-G_RKsprg=w1200-h900-p-k-no",
+    "logo": "https://gahlauthealthcare.com/wp-content/uploads/2022/08/Logo-1-1024x496.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3JmydySmqjfO410h5QgLtQsSb5aYfckAiOYZ7nlU55u15EcwNFPfKwFLcbGgpMxZ55LOIW9QmBPstbs2ktdJpgFmIlp9eNA9CeJWondwRlAjHkpD-xAi85PllyRa9M-G_RKsprg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.5001278,
+      "lng": 80.2574355,
+      "label": "Gahlaut Health Care Private Limited |",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "geetanjali-hospital-and-critical-care-centre-kanpur",
+    "name": "Geetanjali Hospital & Critical Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Geetanjali Hospital & Critical Care Centre has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering General Surgery In Kanpur. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "063866 54142",
+    "alternatePhone": "",
+    "website": "http://www.geetanjalihospitalmmr.com/",
+    "address": "N C block, Plot no 16, near Divinity Home society, Indira Nagar, Kalyanpur, Kanpur, Uttar Pradesh 208026",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208026",
+    "locality": "Kalyanpur",
+    "landmark": "near Divinity Home society, Indira Nagar, Kalyanpur, Kanpur, Uttar Pradesh 208026",
+    "emergencyContact": "063866 54142",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG23chUR-wZjjkg0e2cckn0aCxhmLbGl05NagNvi-zVTEP3vfS-Yh3FpXURHXQ-APqeYMEqApBWNSdaUU6TchjOUuSB7dsuUyOCeCNJsNX6xe_kx2zPfvbt5nBjE33kZdDzIV78Ng=w1200-h900-p-k-no",
+    "logo": "http://www.geetanjalihospitalmmr.com/images/logo-dark.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG23chUR-wZjjkg0e2cckn0aCxhmLbGl05NagNvi-zVTEP3vfS-Yh3FpXURHXQ-APqeYMEqApBWNSdaUU6TchjOUuSB7dsuUyOCeCNJsNX6xe_kx2zPfvbt5nBjE33kZdDzIV78Ng=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.5119699,
+      "lng": 80.2630207,
+      "label": "Geetanjali Hospital & Critical Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gopal-krishna-surgical-and-maternity-clinic-kanpur",
+    "name": "Gopal Krishna Surgical & Maternity Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kanpur, Gopal Krishna Surgical & Maternity Clinic delivers integrated care across Gynecologist Surgery In Kanpur. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "089578 58306",
+    "alternatePhone": "",
+    "website": "",
+    "address": "127W-1/63, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208014",
+    "locality": "Saket Nagar",
+    "landmark": "Saket Nagar",
+    "emergencyContact": "089578 58306",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgETCoDNkl2A7LaA85x7fETTheWprRGLZ-3dj630FbsQg-vcOeb0aQO8IMQ114UcbcukKM95wLnRLrMKiq4_FBbJ4JDYExsE3UJIWCo_HG-QaC8vQE-y0yzMPtBaI4N4vSPqdl=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgETCoDNkl2A7LaA85x7fETTheWprRGLZ-3dj630FbsQg-vcOeb0aQO8IMQ114UcbcukKM95wLnRLrMKiq4_FBbJ4JDYExsE3UJIWCo_HG-QaC8vQE-y0yzMPtBaI4N4vSPqdl=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4396628,
+      "lng": 80.3095088,
+      "label": "Gopal Krishna Surgical & Maternity Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hear-implant-kanpur",
+    "name": "Hear Implant",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kanpur, Hear Implant brings together specialists for General Surgery In Kanpur. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "091510 12724",
+    "alternatePhone": "",
+    "website": "http://cochlearimplantmeh.com/",
+    "address": "2nd Floor, 111/114, near Beech wala Mandir, Ashok Nagar, Harsh Nagar, Kanpur, Uttar Pradesh 208012",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208012",
+    "locality": "Harsh Nagar",
+    "landmark": "near Beech wala Mandir, Ashok Nagar, Harsh Nagar, Kanpur, Uttar Pradesh 208012",
+    "emergencyContact": "091510 12724",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqTfJAM8z8L1JAD_rpXvxHL1tcLi8r7CO5s06X3XetclYhLJqW3zuYljX-9kOYCd1Kn4WEw5fvMKsaHNac2GNJN-LE6Kc7FWTdR_PGY9V1reF2jVCsEWbNeuvelJBZ7a6flIrrGw=w1200-h900-p-k-no",
+    "logo": "https://www.cochlearimplantmeh.com/hear_website/assets/img/hear logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqTfJAM8z8L1JAD_rpXvxHL1tcLi8r7CO5s06X3XetclYhLJqW3zuYljX-9kOYCd1Kn4WEw5fvMKsaHNac2GNJN-LE6Kc7FWTdR_PGY9V1reF2jVCsEWbNeuvelJBZ7a6flIrrGw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4727858,
+      "lng": 80.3202542,
+      "label": "Hear Implant",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "heart-care-centre-kanpur",
+    "name": "Heart Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanpur often choose Heart Care Centre for its strength in Heart Surgery In Kanpur and Cardiac Care. Hospital capacity markers such as Google rating 2.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "111, 269B, Brahm Nagar, Harsh Nagar, Kanpur, Uttar Pradesh 208012",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208012",
+    "locality": "Harsh Nagar",
+    "landmark": "Brahm Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kanpur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrv9-kcSXBRwYbTwk6kZ6FmgtSqwuN8Dat1Mr2l2tsvYF0Sqh-NF41dfSX7c9-yDyxVo-19YoXi7TgWXu-_eViy6sjARyHLUsl0euZ6zCGlKnMlchGOkBqfxR_t7Cz6Bsx0K-N7Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrv9-kcSXBRwYbTwk6kZ6FmgtSqwuN8Dat1Mr2l2tsvYF0Sqh-NF41dfSX7c9-yDyxVo-19YoXi7TgWXu-_eViy6sjARyHLUsl0euZ6zCGlKnMlchGOkBqfxR_t7Cz6Bsx0K-N7Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4754005,
+      "lng": 80.3245967,
+      "label": "Heart Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kalyan-trauma-centre-accident-hospital-in-kanpur-trauma-centre-in-kanpur-kanpur",
+    "name": "Kalyan Trauma Centre | Accident Hospital in Kanpur | Trauma Centre in Kanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kalyan Trauma Centre | Accident Hospital in Kanpur | Trauma Centre in Kanpur is a prominent hospital in Kanpur, known for structured tertiary care across General Surgery In Kanpur. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "093059 84846",
+    "alternatePhone": "",
+    "website": "https://aktripathi.com/",
+    "address": "G. C.-90, Panki - Kalyanpur Rd, behind Hari CNG, Keshavpuram, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208017",
+    "locality": "Kalyanpur",
+    "landmark": "behind Hari CNG",
+    "emergencyContact": "093059 84846",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERuL9rE15gYG42BjOJ_VaZ4KCoqgnso1EKlZUvJcs9JyK-dg2oQ173j6hoV7QUqrbjWv_XL8td4bX06TrIF0pujscnHsm4yqCDgxevHfWOzvtdOqMGsRnP5JYXkUm2MqvJb282ZA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERuL9rE15gYG42BjOJ_VaZ4KCoqgnso1EKlZUvJcs9JyK-dg2oQ173j6hoV7QUqrbjWv_XL8td4bX06TrIF0pujscnHsm4yqCDgxevHfWOzvtdOqMGsRnP5JYXkUm2MqvJb282ZA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN8QwAOlgf1Xuey3BaPbT2IJ7y-9H1uXsdG5ZaB=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP7fbnyU_P0ZXY_sz-dkQXROGYNBAc714fYsSWA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOPMjJqUZ99Dt5SK9CNV9ZvqM1I67IgWkgAQStc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPU2ZiS59R7DPRX4elQYMfK-0Sbc62nsSD02Yvn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4966761,
+      "lng": 80.2518594,
+      "label": "Kalyan Trauma Centre | Accident Hospital in Kanpur | Trauma Centre in Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kanika-hospital-best-eye-hospital-in-kanpur-kanpur",
+    "name": "Kanika Hospital - Best Eye Hospital in Kanpur",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kanpur, Kanika Hospital - Best Eye Hospital in Kanpur offers coordinated hospital care with major focus on General Surgery In Kanpur. With public-facing highlights like Google rating 3.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "091513 08078",
+    "alternatePhone": "",
+    "website": "https://www.kannikahospital.in/",
+    "address": "111, A/5, 111/214, Chandra Gupta Road, Harsh Nagar, 149E, Harsh Nagar, Kanpur, Uttar Pradesh 208002",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208002",
+    "locality": "Harsh Nagar",
+    "landmark": "111/214",
+    "emergencyContact": "091513 08078",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3U96xaHxD2SxVTyYtVVDz3vSniQZCrgi0TIJheY3nraQqEjB4JmeH3eUvNC0DlK3_viDZKsHvhPT-YqWeXAtNpPdYxen5uCtwxF7zVSUs2OcJCylVsHafTmBBr5jqAdo4G2Kw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3U96xaHxD2SxVTyYtVVDz3vSniQZCrgi0TIJheY3nraQqEjB4JmeH3eUvNC0DlK3_viDZKsHvhPT-YqWeXAtNpPdYxen5uCtwxF7zVSUs2OcJCylVsHafTmBBr5jqAdo4G2Kw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.475814,
+      "lng": 80.3247276,
+      "label": "Kanika Hospital - Best Eye Hospital in Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kanishk-super-speciality-hospital-best-hospital-in-kanpur-kanpur",
+    "name": "Kanishk Super Speciality Hospital - Best Hospital in Kanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kanpur, Kanishk Super Speciality Hospital - Best Hospital in Kanpur offers coordinated hospital care with major focus on Brain Surgery In Kanpur and Speciality Care. With public-facing highlights like Google rating 4.4 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "095598 03232",
+    "alternatePhone": "",
+    "website": "https://kanishkhospital.org/",
+    "address": "10\\503-A, Khalasi Line Rd, Khalasi Line, Tilak Nagar, Kanpur, Uttar Pradesh 208002",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208002",
+    "locality": "Tilak Nagar",
+    "landmark": "Khalasi Line",
+    "emergencyContact": "095598 03232",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLF7SG5BIqL1sWs0WaE--I97JtkJMFJZkLD-JS1sbONcIcm-TeSzi1n7cC6wuhE9ai4U14fVug7FVFlxG3CFFsIBEF0oYT-qF8zERz1C2o6xRnMNtVEklmwnzw6Xbo9uXsJgD1SA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLF7SG5BIqL1sWs0WaE--I97JtkJMFJZkLD-JS1sbONcIcm-TeSzi1n7cC6wuhE9ai4U14fVug7FVFlxG3CFFsIBEF0oYT-qF8zERz1C2o6xRnMNtVEklmwnzw6Xbo9uXsJgD1SA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4857254,
+      "lng": 80.32474,
+      "label": "Kanishk Super Speciality Hospital - Best Hospital in Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kanpur-medical-centre-private-limited-best-multispeciality-hospital-in-kanpur-kanpur",
+    "name": "Kanpur Medical Centre Private Limited - Best Multispeciality Hospital in Kanpur",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kanpur Medical Centre Private Limited - Best Multispeciality Hospital in Kanpur has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering Brain Surgery In Kanpur and Speciality Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.kmcpvtltd.com/",
+    "address": "120/500(24, Govind Nagar Rd, Near J.K. Temple, Lajpat Nagar, Narainpurwa, Kanpur, Uttar Pradesh 208005",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208005",
+    "locality": "Narainpurwa",
+    "landmark": "Near J.K. Temple, Lajpat Nagar, Narainpurwa, Kanpur, Uttar Pradesh 208005",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCZwNRCPhN6q9Zi-kdSveS0rrVm0KuALhYwGREXyZmHqKWubpRDDs9GQ30vyn4Tw3NsCYE8NzYpFVzx9MN_J6EdpOjgtLI0C5tUOqZ2KuodDGecdkYvh1kOWBjXI9XQouia2Rh1UZ98Rj-=w1200-h900-p-k-no",
+    "logo": "https://kmcpvtltd.com/wp-content/uploads/2024/04/wide-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCZwNRCPhN6q9Zi-kdSveS0rrVm0KuALhYwGREXyZmHqKWubpRDDs9GQ30vyn4Tw3NsCYE8NzYpFVzx9MN_J6EdpOjgtLI0C5tUOqZ2KuodDGecdkYvh1kOWBjXI9XQouia2Rh1UZ98Rj-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAESqOsZz12j5uYy4rQVuTbQhQmNrchVf8NW3T-WC5aurBpeYqj_qDcAZorAtR7V5GUEguUW7DKqpMBmfLoYKgGvYhZvdqDx7Y5zPVMw2cJ7Yzief5225oBdMKp6qwUTX4qSrNWJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZc3iR0OyTRrXh2aVhEDEIaMg3cUgGD84dUEHBqpva7Oe1QogsSupLY13FMDMQ7ajEnM2wRT0Hz97p_B8k6Jxz7_oSxwftIl4utxQxrMXIoUo-dWMDs5-4R9vJ-M2aYrNOtCr8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4716615,
+      "lng": 80.3035328,
+      "label": "Kanpur Medical Centre Private Limited - Best Multispeciality Hospital in Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kanpur-metro-ivf-hospital-kanpur",
+    "name": "Kanpur Metro IVF Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanpur often choose Kanpur Metro IVF Hospital for its strength in IVF In Kanpur and Fertility Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "094151 34428",
+    "alternatePhone": "",
+    "website": "https://kanpurmetrohospital.com/",
+    "address": "10A, GT Rd, near Gurudev Crossing, Lakhanpur, Khyora, Kanpur, Uttar Pradesh 208024",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208024",
+    "locality": "Khyora",
+    "landmark": "near Gurudev Crossing, Lakhanpur, Khyora, Kanpur, Uttar Pradesh 208024",
+    "emergencyContact": "094151 34428",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Kanpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhpvEud111LgjKLU4edXYEdMFETmXv5I4I0GdGljXt07wOdyzJmy6YjZq-Dm46v4FOKE9omm_4zWl6BLL23OnjBZJ3q06SSFp9_9_HHWOaVLc3eA-FgAgdoeYHyNLR33qTDNLhNw=w1200-h900-p-k-no",
+    "logo": "https://kanpurmetrohospital.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhpvEud111LgjKLU4edXYEdMFETmXv5I4I0GdGljXt07wOdyzJmy6YjZq-Dm46v4FOKE9omm_4zWl6BLL23OnjBZJ3q06SSFp9_9_HHWOaVLc3eA-FgAgdoeYHyNLR33qTDNLhNw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN6gmof1UUJoEuOYTgA-0clq1d1nqmHmtCTa9Bk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOV-HeiQyb4dI-r3_Bd4iP7asUHmLJ9Fnc5PHpS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP0kI-UIAQxVk6OaTILle2nq-wqTO-NroVBIOK0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM6nj2JQQLedrogmJSVvi7g5cDnwSEhtt-2ng2C=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4920063,
+      "lng": 80.2844662,
+      "label": "Kanpur Metro IVF Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kirandeep-multispeciality-hospital-kanpur",
+    "name": "Kirandeep Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kirandeep Multispeciality Hospital has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering Gynecologist Surgery In Kanpur and Speciality Care. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "092609 47280",
+    "alternatePhone": "",
+    "website": "http://www.kirandeephospital.in.net/",
+    "address": "14/116A, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208001",
+    "locality": "Civil Lines",
+    "landmark": "Kanpur",
+    "emergencyContact": "092609 47280",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkJfQqVfIwLoNzzkEOYOIBUzqjJf5maanh2x7mH2zVhtrGcPTioRIZlS2Q5LLhuKWdO8z5zf0kHGGX0f-gU0nH8F6G2lEbWgzuzb2GUpbju09zAvHkZIgBD87gxZHHLECOQWCW0Na0mx68=w1200-h900-p-k-no",
+    "logo": "https://www.kirandeephospital.in.net/Admin_Content/Images/CompanyLogo/Logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkJfQqVfIwLoNzzkEOYOIBUzqjJf5maanh2x7mH2zVhtrGcPTioRIZlS2Q5LLhuKWdO8z5zf0kHGGX0f-gU0nH8F6G2lEbWgzuzb2GUpbju09zAvHkZIgBD87gxZHHLECOQWCW0Na0mx68=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4791582,
+      "lng": 80.3438993,
+      "label": "Kirandeep Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kolumbia-hospital-kanpur",
+    "name": "Kolumbia Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kanpur, Kolumbia Hospital delivers integrated care across General Surgery In Kanpur. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://kolumbiahospital.in/",
+    "address": "No.3, 3546, Panki Rd, near Shiv Mandir, Awas Vikas, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208017",
+    "locality": "Kalyanpur",
+    "landmark": "near Shiv Mandir, Awas Vikas, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqXxR5Nc1nS9Rcb-MUh9UcdOOjpRK5JenrYyRPO4IiObSeUT0L-OCpyx63A5EoHjkCy1x1VFpH7-sXq_gBkUhYtSDQ85g9Svjc-rmDBY28K0iK0Inhl5fpRh9RP6dacUr-IK5Ebw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqXxR5Nc1nS9Rcb-MUh9UcdOOjpRK5JenrYyRPO4IiObSeUT0L-OCpyx63A5EoHjkCy1x1VFpH7-sXq_gBkUhYtSDQ85g9Svjc-rmDBY28K0iK0Inhl5fpRh9RP6dacUr-IK5Ebw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4811476,
+      "lng": 80.2445564,
+      "label": "Kolumbia Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "krishna-super-speciality-hospital-best-multi-speciality-hospital-kanpur-kanpur",
+    "name": "Krishna Super Speciality Hospital - Best Multi-Speciality Hospital Kanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Krishna Super Speciality Hospital - Best Multi-Speciality Hospital Kanpur is a prominent hospital in Kanpur, known for structured tertiary care across Brain Surgery In Kanpur and Speciality Care. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "084003 00216",
+    "alternatePhone": "",
+    "website": "https://ksshkanpur.in/",
+    "address": "363, near Tatmil Chauraha, Harris Ganj, Cooperganj, Kanpur, Uttar Pradesh 208004",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208004",
+    "locality": "Cooperganj",
+    "landmark": "near Tatmil Chauraha, Harris Ganj, Cooperganj, Kanpur, Uttar Pradesh 208004",
+    "emergencyContact": "084003 00216",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRlVTrzDJjCfSxX8Fr6-3kd-xQRUFOZ-0AQ6NZf48_o62M_yyB6crbgMQeixdIc5z6PRTJbG7NeNys_A8SLsMKkibaI-UvywsPIqV1KYBGHmg3s8EPpoyOe825JRkoyCVKt0ibtf7jUNWz=w1200-h900-p-k-no",
+    "logo": "https://ksshkanpur.in/wp-content/uploads/2025/10/hospital-logo-scaled.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRlVTrzDJjCfSxX8Fr6-3kd-xQRUFOZ-0AQ6NZf48_o62M_yyB6crbgMQeixdIc5z6PRTJbG7NeNys_A8SLsMKkibaI-UvywsPIqV1KYBGHmg3s8EPpoyOe825JRkoyCVKt0ibtf7jUNWz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtCuocXZCjmjyqD5ZY618uchjOs4Gfga0Ac8qNk2vCwdHQef98xBHABuy0LtuFj6J13PliZo6uxgSb4RlzUgm8O6USKMzxpT0GkKFq_ObLtURsfa6V4mG5S8VqdJkowrrdjxtTrotI_d8_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4501856,
+      "lng": 80.3445863,
+      "label": "Krishna Super Speciality Hospital - Best Multi-Speciality Hospital Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "l-p-s-heart-disease-center-kanpur",
+    "name": "L.P.S. Heart Disease Center",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "L.P.S. Heart Disease Center is a prominent heart hospital in Kanpur, known for structured tertiary care across Heart Surgery In Kanpur and Cardiac Care. Its infrastructure includes Google rating 4.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://lpscardiology.org/",
+    "address": "GT రోడ్డు, Rawat Pur, Kanpur, Uttar Pradesh 208002",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208002",
+    "locality": "Rawat Pur",
+    "landmark": "Kanpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kanpur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-REwKvB-WNeKw9HYkFadIj81WX4TRUjAbZFDN-C3mNPaRdgLjSsfIRrFbnBLLKE8WXTcNzbBxoE3Rk_3JE-wO-z_QXYCT0UZGkFPDWh6D0TlWeUjqvDPi8bpr7YKkpjKcQ-Xw=w1200-h900-p-k-no",
+    "logo": "https://lpscardiology.org/images/lpscardiology.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-REwKvB-WNeKw9HYkFadIj81WX4TRUjAbZFDN-C3mNPaRdgLjSsfIRrFbnBLLKE8WXTcNzbBxoE3Rk_3JE-wO-z_QXYCT0UZGkFPDWh6D0TlWeUjqvDPi8bpr7YKkpjKcQ-Xw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHenkgtsDIwmrfAvZlcxHyM5dlhCJABoXxiDDAjfRXWwOqgR8VC-5RTkWFA-Tvglu5lPVbBiHpN45A50QEtsb-uRvtcCMkLhCa0319Hj6oHwVAOxgHIPZmYZSuD2RlH5aHzjpb2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFypxig0JyCaGoDcy1n2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFypxig0JyCaGoDcy1n2IDSRFaeQjeTomCK26qvUouhF5fJWkVLPaKaxhF45WKkwywBW3yKtQ6ur7OaajVpjtdV1e_wRsbcKyuVARAWcmVFO-dQClp-JQIqd-xKj4nBasIX6I_4fKLDEXC6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.481058,
+      "lng": 80.3036445,
+      "label": "L.P.S. Heart Disease Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lotus-super-specialty-hospital-kanpur",
+    "name": "Lotus Super Specialty Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kanpur, Lotus Super Specialty Hospital offers coordinated hospital care with major focus on General Surgery In Kanpur and Speciality Care. The facility stands out for Google rating 3.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "095111 13923",
+    "alternatePhone": "",
+    "website": "https://lotushospitalkanpur.com/",
+    "address": "120/500(22, Lajpat Nagar Rd, Near J.K. Temple, Lajpat Nagar, Narainpurwa, Kanpur, Uttar Pradesh 208005",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208005",
+    "locality": "Narainpurwa",
+    "landmark": "Near J.K. Temple, Lajpat Nagar, Narainpurwa, Kanpur, Uttar Pradesh 208005",
+    "emergencyContact": "095111 13923",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzO4hvk9BqpNfI9gb4SOpPq4Uum7bM50UioUy2Mubx2LoRVKLKgwWrodDLMG_79_HvVSVcTRiGQmzKG4FvlaTYJ_Ds0FrP8EYz38bJaTgTEVY5Cvty_41---KEJN6nENYLGp5Q=w1200-h900-p-k-no",
+    "logo": "https://lotushospitalkanpur.com/images/resources/logo.gif",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzO4hvk9BqpNfI9gb4SOpPq4Uum7bM50UioUy2Mubx2LoRVKLKgwWrodDLMG_79_HvVSVcTRiGQmzKG4FvlaTYJ_Ds0FrP8EYz38bJaTgTEVY5Cvty_41---KEJN6nENYLGp5Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4714448,
+      "lng": 80.3036471,
+      "label": "Lotus Super Specialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "madhulok-hospital-kanpur",
+    "name": "MADHULOK HOSPITAL",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MADHULOK HOSPITAL has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering General Surgery In Kanpur. The facility stands out for Google rating 3.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0512 355 2709",
+    "alternatePhone": "",
+    "website": "",
+    "address": "128/628-629, K Block, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208011",
+    "locality": "Kidwai Nagar",
+    "landmark": "Kidwai Nagar",
+    "emergencyContact": "0512 355 2709",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFuR44-qXedviuSDCCxqk-hI89UzXV-glphkqfg1CUkDSb_Dfkg7qVlFYWUzzUOzUGkQ_w4Ipz2_WvmHhfVqRe8FBHHScxonFvUSD2sMDCOIUTFB6M4dcuCpFRMsBjZXMaD2-oY=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFuR44-qXedviuSDCCxqk-hI89UzXV-glphkqfg1CUkDSb_Dfkg7qVlFYWUzzUOzUGkQ_w4Ipz2_WvmHhfVqRe8FBHHScxonFvUSD2sMDCOIUTFB6M4dcuCpFRMsBjZXMaD2-oY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaPRMFjp4XGqnNskAn-spBpGYttv0xyyyi8MPvcl8y5XCgNjNGj7-i18RH2gHFHnW3MA5yQN_xbxaQjD5V9d4YiVFwX4FdNHXFdYapo0Agwa6c4AawX4DlAfQRU-BZeRX0WZf7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4238685,
+      "lng": 80.320519,
+      "label": "MADHULOK HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "madhuraj-hospital-private-limited-kanpur",
+    "name": "Madhuraj Hospital Private Limited",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kanpur, Madhuraj Hospital Private Limited offers coordinated hospital care with major focus on IVF In Kanpur. Operational strengths including Google rating 3.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "1800 120 8700",
+    "alternatePhone": "",
+    "website": "http://www.madhuraj.org/",
+    "address": "113/121-A, Motilal Swaroop Nagar, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208002",
+    "locality": "Swaroop Nagar",
+    "landmark": "Khalasi Line",
+    "emergencyContact": "1800 120 8700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDPOoh2q2ipYjl2YJso9lSFgW5_qgreKfGk_BcojqpxD7aPhTWQCcRGPUcFz-yO_5lGQWN0bcJWZ6SsfqswLGxYdp-7TU829WK3I6TvL_yCDVQ5NH4GsIS5qGVnPYMRvLWlv72=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDPOoh2q2ipYjl2YJso9lSFgW5_qgreKfGk_BcojqpxD7aPhTWQCcRGPUcFz-yO_5lGQWN0bcJWZ6SsfqswLGxYdp-7TU829WK3I6TvL_yCDVQ5NH4GsIS5qGVnPYMRvLWlv72=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXNIWtfDRZo-DSfdeQDxEhBN21H_7UKYEznsBrj0n89O-nj54_XFk60HEsrb2t6GjAESp28cX6p7mgdtfhNNEzWdp18keFf6VWsoGA7k19DfzHQ1gG2pjMbInRDJJbDXp9SwhDn4hQqtI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4795488,
+      "lng": 80.3176406,
+      "label": "Madhuraj Hospital Private Limited",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mahadeva-multi-speciality-hospital-best-maternity-hospital-in-kanpur-best-trauma-center-in-kanpur-emergency-care-kanpur",
+    "name": "Mahadeva Multi Speciality Hospital | Best Maternity Hospital in Kanpur | Best Trauma Center in Kanpur | Emergency Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mahadeva Multi Speciality Hospital | Best Maternity Hospital in Kanpur | Best Trauma Center in Kanpur | Emergency Care has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering Gynecologist Surgery In Kanpur and Speciality Care. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070114 56694",
+    "alternatePhone": "",
+    "website": "https://mahadevahospital.com/",
+    "address": "H.I.G, 17/18/19, Vasant Vihar, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208021",
+    "locality": "Naubasta",
+    "landmark": "Vasant Vihar",
+    "emergencyContact": "070114 56694",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhcOioeLSBH1Pp2wI4R3FxbFpuI6qysJuNJq9tLYiKsWatbrLwP0IQWSd00ggDTXfjkvyypzhVKzK8-3DCehDSR_eJpKGnxuPiRLxiUXh_Nrz_PoopaQqr7pq5YI8yg5hs3Dj7=w1200-h900-p-k-no",
+    "logo": "https://mahadevahospital.com/wp-content/uploads/2022/08/mahaadeva-final-logo-1-ai-e1661943564808.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhcOioeLSBH1Pp2wI4R3FxbFpuI6qysJuNJq9tLYiKsWatbrLwP0IQWSd00ggDTXfjkvyypzhVKzK8-3DCehDSR_eJpKGnxuPiRLxiUXh_Nrz_PoopaQqr7pq5YI8yg5hs3Dj7=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMwm_dWQbM8QeWJxHCljSoe8S33Kk6KgQj_Ma9D=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN_6mCJCoMuzpkXvKdyhMzPeFvpQZIpjMkTyBSh=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsUXMWgqJKyr7V7VGku_9Uw8KI5pd11xEHjSv89bEgku11sJqBqF9-oZ_Z3mMVSdQxnTNDT7wOzUe6SFLygn_UmoUf3lw4WtGd7CXCopbumGCpoSFfNi_T_SoGpscJr0r7ikcSAA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM_5TAGqWcDCjupNXSEeQHw49O-1GTSikOMU3QG=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4209937,
+      "lng": 80.3131601,
+      "label": "Mahadeva Multi Speciality Hospital | Best Maternity Hospital in Kanpur | Best Trauma Center in Kanpur | Emergency Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mamta-hospital-and-ivf-centre-kanpur",
+    "name": "MAMTA Hospital and ivf centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kanpur, MAMTA Hospital and ivf centre delivers integrated care across IVF In Kanpur and Fertility Care. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "S block, fort of mamata lawn, 360 D, near Bajrang Chauraha, Yashoda Nagar, Kanpur, Uttar Pradesh 208011",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208011",
+    "locality": "Yashoda Nagar",
+    "landmark": "near Bajrang Chauraha, Yashoda Nagar, Kanpur, Uttar Pradesh 208011",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Kanpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=26.4068116%2C80.3331259&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=26.4068116%2C80.3331259&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.4068116%2C80.3331259&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.4068116%2C80.3331259&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4068116,
+      "lng": 80.3331259,
+      "label": "MAMTA Hospital and ivf centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mariampur-multi-speciality-hospital-kanpur",
+    "name": "Mariampur Multi Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mariampur Multi Speciality Hospital is a prominent hospital in Kanpur, known for structured tertiary care across Gynecologist Surgery In Kanpur and Speciality Care. Its infrastructure includes Google rating 3.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "083818 29894",
+    "alternatePhone": "",
+    "website": "https://mariampurhospital.com/",
+    "address": "120/811, Govind Nagar Rd, near obc bank, Hospital line road, Ranjeet Nagar, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208005",
+    "locality": "Shastri Nagar",
+    "landmark": "near obc bank, Hospital line road, Ranjeet Nagar, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "emergencyContact": "083818 29894",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUxjaDpcyxoUe2zL9W-YC69nIWIWzBat1QW2Z_ArOvz3j2Ogm5OzFQkKT2_rDhvzfMDQ9Z7JeSj0XmPneB1IU69HmDSO-8oNOpBIGcwdJVi2IJhIwj-moG502HSMAzHlQauI0cq4lG8EI=w1200-h900-p-k-no",
+    "logo": "https://mariampurhospital.com/front_assets/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUxjaDpcyxoUe2zL9W-YC69nIWIWzBat1QW2Z_ArOvz3j2Ogm5OzFQkKT2_rDhvzfMDQ9Z7JeSj0XmPneB1IU69HmDSO-8oNOpBIGcwdJVi2IJhIwj-moG502HSMAzHlQauI0cq4lG8EI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMVOYo8oGeBJmGREqYA-c3Z5rga5Q3Rw-Yg6CLa=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOz471o0gxYP-G8kJUrrPxmz_xfatZggMfxtwky=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPIEfKZ2VoaYMaMmUw71Z90hLisyi9ppOERPed9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPrgQQrz3LY2onLbPe=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4654513,
+      "lng": 80.3059217,
+      "label": "Mariampur Multi Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medcare-hospital-kanpur",
+    "name": "Medcare Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medcare Hospital is a prominent general hospital in Kanpur, known for structured tertiary care across General Surgery In Kanpur. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "0512 406 7653",
+    "alternatePhone": "",
+    "website": "http://newmedcarehospital.com/",
+    "address": "111/478, Gandhi Park Road, Sisamau, Block C, Govind Nagar, Kanpur, Uttar Pradesh 208012",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208012",
+    "locality": "Govind Nagar",
+    "landmark": "Sisamau",
+    "emergencyContact": "0512 406 7653",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1Kx1QGkzUGvKFw0rMBQnPOGN_Z9Gzk2mTQ9rK9Dofvg8PSQJBlOJ3-7YdxHW7ET9MaT97O2cSrRaax3NEaPc7jz8pIjN1M202uBx6uUcK3Qqqftx2I_I1GhcW6Fv2Em0aIVfxQg=w1200-h900-p-k-no",
+    "logo": "https://newmedcarehospital.com/favicon.ico",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1Kx1QGkzUGvKFw0rMBQnPOGN_Z9Gzk2mTQ9rK9Dofvg8PSQJBlOJ3-7YdxHW7ET9MaT97O2cSrRaax3NEaPc7jz8pIjN1M202uBx6uUcK3Qqqftx2I_I1GhcW6Fv2Em0aIVfxQg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFU0hRFvitgHBeFjNC7714MqjKN89pLR4Jbe7NTw-POzZBpkHyW-y1Q-8lsn5UCFtE3dcU-Rv6cvrNBTckPHOjD6kJENIUj-hwodShNM8Gu4IzTyV-B15WHyyWkokFU1-CqOGA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4679304,
+      "lng": 80.3299653,
+      "label": "Medcare Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medihelp-hospital-kanpur",
+    "name": "Medihelp Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanpur often choose Medihelp Hospital for its strength in General Surgery In Kanpur. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098398 00199",
+    "alternatePhone": "",
+    "website": "",
+    "address": "K, 117, 22, Sarvodaya Nagar, Kanpur, Uttar Pradesh 208025",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208025",
+    "locality": "Sarvodaya Nagar",
+    "landmark": "22",
+    "emergencyContact": "098398 00199",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEgFLhav1NubQr7_9-MxqbxBsN3uajSHhbLXY-dPhrLq5xlttyYA19bmugBQd5oXN57vAJMPeba7DvmF871v8a2UHKbGGfIez5wHO00K8gmdK1PjJwp3tHilWlZaMFlRay0-5oTtQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEgFLhav1NubQr7_9-MxqbxBsN3uajSHhbLXY-dPhrLq5xlttyYA19bmugBQd5oXN57vAJMPeba7DvmF871v8a2UHKbGGfIez5wHO00K8gmdK1PjJwp3tHilWlZaMFlRay0-5oTtQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4793314,
+      "lng": 80.2978492,
+      "label": "Medihelp Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "merrygold-hospital-kanpur",
+    "name": "Merrygold Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Merrygold Hospital has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering Gynecologist Surgery In Kanpur. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "094153 24875",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C85G+HXP, 128-S/629, opposite Shanidev Mandir, S Block, Yashoda Nagar, Kanpur, Uttar Pradesh 208011",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208011",
+    "locality": "Yashoda Nagar",
+    "landmark": "opposite Shanidev Mandir, S Block, Yashoda Nagar, Kanpur, Uttar Pradesh 208011",
+    "emergencyContact": "094153 24875",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlfuMTBYsLybnMQxt_iOAh-1eEJ0illffVsZvVvicfAReO70DzW2-ESzWtLb9bmZbnw43S56j8WnbR2AlFdqfdtiLE335JBj-9UkFD4GT3SNqwoyzmWR3uVj3okNnQ58v2uorc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlfuMTBYsLybnMQxt_iOAh-1eEJ0illffVsZvVvicfAReO70DzW2-ESzWtLb9bmZbnw43S56j8WnbR2AlFdqfdtiLE335JBj-9UkFD4GT3SNqwoyzmWR3uVj3okNnQ58v2uorc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4089509,
+      "lng": 80.3274286,
+      "label": "Merrygold Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "murli-hospital-kanpur",
+    "name": "Murli Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kanpur, Murli Hospital brings together specialists for Gynecologist Surgery In Kanpur. With public-facing highlights like Google rating 4.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0512 355 8678",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hansh Mandir, Plot No. 24, New Azad Nagar, Satbari Rd, near toddler school, near omkareshwar school, PAC Mod, Kanpur, Uttar Pradesh 208011",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208011",
+    "locality": "PAC Mod",
+    "landmark": "near toddler school, near omkareshwar school, PAC Mod, Kanpur, Uttar Pradesh 208011",
+    "emergencyContact": "0512 355 8678",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFN_omG9dncsEa3IoDg9QyW0lVD_TELICut99dEwGu3V_kVbPov8LlnWjm44NojY5DnZ7jxKu_E8xKwxMu4pX3j0KWZqrpWOWHoCY4ENYcDn_2zQQGM5Ne9pRjKcvvnNYr1R-fL=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFN_omG9dncsEa3IoDg9QyW0lVD_TELICut99dEwGu3V_kVbPov8LlnWjm44NojY5DnZ7jxKu_E8xKwxMu4pX3j0KWZqrpWOWHoCY4ENYcDn_2zQQGM5Ne9pRjKcvvnNYr1R-fL=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4032023,
+      "lng": 80.3544495,
+      "label": "Murli Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "neuron-super-speciality-hospital-kanpur",
+    "name": "Neuron Super Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Neuron Super Speciality Hospital is a prominent hospital in Kanpur, known for structured tertiary care across Brain Surgery In Kanpur, Neurosciences, and Speciality Care. Hospital capacity markers such as Google rating 2.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "098897 58623",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Double Pulia, Navin Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208025",
+    "locality": "Kakadeo",
+    "landmark": "Kakadeo",
+    "emergencyContact": "098897 58623",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur",
+      "Neurosciences",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgGR-6P-l4KXvAg4Ma4wvGBfLUgPuK7QjlkJu2FGHNCbfaF9bCVqb50S7bIxQzqd5ABhVD2WqNlpxtRMpxERzTnfyYVW_6QydU6huOPiY8s7_c8ykuxjtEF8MyAGheA51TCooirQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgGR-6P-l4KXvAg4Ma4wvGBfLUgPuK7QjlkJu2FGHNCbfaF9bCVqb50S7bIxQzqd5ABhVD2WqNlpxtRMpxERzTnfyYVW_6QydU6huOPiY8s7_c8ykuxjtEF8MyAGheA51TCooirQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4721345,
+      "lng": 80.2894839,
+      "label": "Neuron Super Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "new-lakhanpur-hospital-and-trauma-center-pvt-ltd-kanpur",
+    "name": "New Lakhanpur Hospital And Trauma Center Pvt. Ltd.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kanpur, New Lakhanpur Hospital And Trauma Center Pvt. Ltd. delivers integrated care across Laparoscopic Surgery In Kanpur. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "092352 00587",
+    "alternatePhone": "",
+    "website": "http://www.newlakhanpurhospital.com/",
+    "address": "6-A, GT Rd, Near Gurudev Palace, Lakhanpur, Khyora, Kanpur, Uttar Pradesh 208024",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208024",
+    "locality": "Khyora",
+    "landmark": "Near Gurudev Palace, Lakhanpur, Khyora, Kanpur, Uttar Pradesh 208024",
+    "emergencyContact": "092352 00587",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHdBySVVtKWNBI2b2X3MhoVaAOd24PDQGihb1KYFuS0Zr9w48smQlMINmuGlgx9-828BLkRvzUX-kgBkkSWsgVtv-MWb2-mfh5KOMG0G8kWpLTd03b4kFBx0PjOuFnLJCt5fKqaQ=w1200-h900-p-k-no",
+    "logo": "https://newlakhanpurhospital.com/slide/LOGO.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHdBySVVtKWNBI2b2X3MhoVaAOd24PDQGihb1KYFuS0Zr9w48smQlMINmuGlgx9-828BLkRvzUX-kgBkkSWsgVtv-MWb2-mfh5KOMG0G8kWpLTd03b4kFBx0PjOuFnLJCt5fKqaQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4918987,
+      "lng": 80.2842319,
+      "label": "New Lakhanpur Hospital And Trauma Center Pvt. Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "new-leelamani-hospital-kanpur",
+    "name": "New Leelamani Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanpur often choose New Leelamani Hospital for its strength in Brain Surgery In Kanpur. With public-facing highlights like Google rating 4.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "093366 70360",
+    "alternatePhone": "",
+    "website": "http://www.newleelamanihospital.com/",
+    "address": "chauraha, 14/116, C, First St, Mac Robert Gunge Colony, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208001",
+    "locality": "Civil Lines",
+    "landmark": "C",
+    "emergencyContact": "093366 70360",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVw7FnoxqmGaPaxQyyoQCono87K_4VrAHBhv-8An7xgiFAePucTStyZNrAYk2e9bJwQuXk-1UoICzv54d6UfuZ32NTCvBdrlIeeM2XofWvcDTH3ResxHEdK7e7sjWuvgTMWNvExg=w1200-h900-p-k-no",
+    "logo": "http://www.newleelamanihospital.com/assets/img/favicon.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVw7FnoxqmGaPaxQyyoQCono87K_4VrAHBhv-8An7xgiFAePucTStyZNrAYk2e9bJwQuXk-1UoICzv54d6UfuZ32NTCvBdrlIeeM2XofWvcDTH3ResxHEdK7e7sjWuvgTMWNvExg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.479678,
+      "lng": 80.3438214,
+      "label": "New Leelamani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "north-star-hospital-kanpur",
+    "name": "North Star Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kanpur, North Star Hospital brings together specialists for General Surgery In Kanpur. With public-facing highlights like Google rating 4.1, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089606 78999",
+    "alternatePhone": "",
+    "website": "",
+    "address": "25, 11, Canal Rd, Naughara, Downtown, Kanpur, Uttar Pradesh 208001",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208001",
+    "locality": "Downtown",
+    "landmark": "Canal Rd",
+    "emergencyContact": "089606 78999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhnBNVYGj_VyL_VluDoYTQ7UkZo4roV3N0kWvR814ntsS7B1mrGq2qeC_l_fZRsrdJjKmO-X7t33OMjqJXJwJz-VcIO9R2mAwLBWFRPe5cqc5raEOCAxIHrsxrHaIPQ1qbyOQTH23yvC7j=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhnBNVYGj_VyL_VluDoYTQ7UkZo4roV3N0kWvR814ntsS7B1mrGq2qeC_l_fZRsrdJjKmO-X7t33OMjqJXJwJz-VcIO9R2mAwLBWFRPe5cqc5raEOCAxIHrsxrHaIPQ1qbyOQTH23yvC7j=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPT5uiLYQJ9Kvu0Ell1e5RmMniLet3taE3C1GYB=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPn9AzjpQpmTsPNF0HN2e072CTpwu-H4AEXCK6N=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMaPkaaXXUn_riZwmBHNdqtjtrG3Uq9KX5Jbzft=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMVREZ22Gzmx49bgOLJkCPKbirJ4Yh_uiQRcGWO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4635963,
+      "lng": 80.3590391,
+      "label": "North Star Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "plastic-cosmetic-surgery-and-burn-care-clinic-kanpur",
+    "name": "Plastic, Cosmetic Surgery & Burn Care Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kanpur, Plastic, Cosmetic Surgery & Burn Care Clinic offers coordinated hospital care with major focus on Plastic Surgery In Kanpur. With public-facing highlights like Google rating 1.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "088968 57314",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7/202 B, Kesav Nagar, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208002",
+    "locality": "Swaroop Nagar",
+    "landmark": "Khalasi Line",
+    "emergencyContact": "088968 57314",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=26.4809747%2C80.3099868&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=26.4809747%2C80.3099868&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.4809747%2C80.3099868&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.4809747%2C80.3099868&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4809747,
+      "lng": 80.3099868,
+      "label": "Plastic, Cosmetic Surgery & Burn Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ppm-hospital-kanpur",
+    "name": "PPM Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "PPM Hospital has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering Gynecologist Surgery In Kanpur. With public-facing highlights like Google rating 3.1, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "092355 62182",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W-1, 127/1/63, Barra Bypass Rd, Parag Milk Dairy, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208014",
+    "locality": "Saket Nagar",
+    "landmark": "Barra Bypass Rd",
+    "emergencyContact": "092355 62182",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6lE7n8vTJNDiVtDFU2ctOBR7F6OgArvQ6OsBHV-9Y0oumNJA3jhjxW6ySnw7NyRbfLxip2I7AGfYUM4LUApkWGByeJ3EKkBueW9a3zhYQjLUgWPHcAMAX1V2UI9landFQe4pO5g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6lE7n8vTJNDiVtDFU2ctOBR7F6OgArvQ6OsBHV-9Y0oumNJA3jhjxW6ySnw7NyRbfLxip2I7AGfYUM4LUApkWGByeJ3EKkBueW9a3zhYQjLUgWPHcAMAX1V2UI9landFQe4pO5g=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4355791,
+      "lng": 80.3088317,
+      "label": "PPM Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "prakhar-hospital-kanpur",
+    "name": "Prakhar Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Prakhar Hospital is a prominent general hospital in Kanpur, known for structured tertiary care across General Surgery In Kanpur. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "099180 02225",
+    "alternatePhone": "",
+    "website": "https://prakharhospital.com/",
+    "address": "8/219, Khalasi Line, Arya Nagar, Kanpur, Uttar Pradesh 208002",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208002",
+    "locality": "Arya Nagar",
+    "landmark": "Arya Nagar",
+    "emergencyContact": "099180 02225",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJQMSDjvWX5_Utgdb2ZsVVA3L6y4opUeipP9dQ2v6zXXHAs6ea2i6Ydv9vncpq9ng62JDvV3I8WbErsb-LRBXtj8GzmeJ346kLPK2fVGioxptVeskSyJ3T1eePtyiKZGRwD7IAW-FK070=w1200-h900-p-k-no",
+    "logo": "https://prakharhospital.com/wp-content/uploads/elementor/thumbs/Prakhar-Hospital-500x250-px-r2qojqu8rpgtp7cggsm4rbpdlords4cvgtnrpkae9w.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJQMSDjvWX5_Utgdb2ZsVVA3L6y4opUeipP9dQ2v6zXXHAs6ea2i6Ydv9vncpq9ng62JDvV3I8WbErsb-LRBXtj8GzmeJ346kLPK2fVGioxptVeskSyJ3T1eePtyiKZGRwD7IAW-FK070=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE08lnuaG9dzoRYpB_zqK7kh_BHM_O-SflzgDTXQ0aHvoYS387r29T-9UvxW788dlPfbnl2r6GrnRFs74EVTxq-Q3K5RsiA2uKG_PNI-UPNNw4PBLqtMMX-Up6FJTVoozYlZqeBKg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4811125,
+      "lng": 80.3217175,
+      "label": "Prakhar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pratha-hospital-kanpur",
+    "name": "Pratha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kanpur, Pratha Hospital delivers integrated care across Brain Surgery In Kanpur. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://prathahospital.in/",
+    "address": "Metro Pillar 257, 113/58, Next to Allahabad Bank, Opposite Motijheel, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208002",
+    "locality": "Swaroop Nagar",
+    "landmark": "Opposite Motijheel, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHki6b1YaSbuEVinhIBnWPII14JgD3GAnCJ24S1utOnzAU-Teiid87lBIb8agag5hHsXmA_wIVsYks-RxJdOHON-kHHM9xg4iFyR-Wljy9Ta-IpppIbrt09uX37MW_Li-G2-QROq66YRNs=w1200-h900-p-k-no",
+    "logo": "https://prathahospital.in/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHki6b1YaSbuEVinhIBnWPII14JgD3GAnCJ24S1utOnzAU-Teiid87lBIb8agag5hHsXmA_wIVsYks-RxJdOHON-kHHM9xg4iFyR-Wljy9Ta-IpppIbrt09uX37MW_Li-G2-QROq66YRNs=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4791781,
+      "lng": 80.3142939,
+      "label": "Pratha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pravi-ivf-and-fertility-center-ivf-and-test-tube-baby-centre-in-kanpur-best-ivf-center-in-kanpur-uttar-pradesh-kanpur",
+    "name": "Pravi IVF & Fertility Center | IVF & Test Tube baby Centre in kanpur -Best IVF Center in Kanpur, Uttar Pradesh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kanpur, Pravi IVF & Fertility Center | IVF & Test Tube baby Centre in kanpur -Best IVF Center in Kanpur, Uttar Pradesh brings together specialists for IVF In Kanpur and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084170 84446",
+    "alternatePhone": "",
+    "website": "http://praviivf.in/",
+    "address": "117/729, 117/36-C, near Mount Carmel School, Q Block, Sharda Nagar, Kanpur, Uttar Pradesh 208025",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208025",
+    "locality": "Sharda Nagar",
+    "landmark": "near Mount Carmel School, Q Block, Sharda Nagar, Kanpur, Uttar Pradesh 208025",
+    "emergencyContact": "084170 84446",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Kanpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1eNXoYiOkg6AqbafXjhaf1cyi_VDtkn7Q25OrmeM-Hhi_jMaCo9B6ilO3-OB0rhPYN_zQ6ePQOpg2Y4YMv9fQnEBow2uZnjfHh8erEx2xs1KCU1I3evdtJY84BMdz1zd4eClg=w1200-h900-p-k-no",
+    "logo": "http://praviivf.in/images/client-logo-1.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1eNXoYiOkg6AqbafXjhaf1cyi_VDtkn7Q25OrmeM-Hhi_jMaCo9B6ilO3-OB0rhPYN_zQ6ePQOpg2Y4YMv9fQnEBow2uZnjfHh8erEx2xs1KCU1I3evdtJY84BMdz1zd4eClg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPNkalw-gg66iCR3uW7F1RVNsgeJuZCb-C7MwxP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM7fhoJe4u0lOQ2icBqEgpVwThr_M2stS5CsQr4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO9F_p4MiiE5PYUd3R6myJsUygYpe4O7VRlC8p9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNd4dWKdbLCKRFVy93IFJd0MKJAxKS35TJ4UPQm=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4866866,
+      "lng": 80.289964,
+      "label": "Pravi IVF & Fertility Center | IVF & Test Tube baby Centre in kanpur -Best IVF Center in Kanpur, Uttar Pradesh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "preeti-hospital-kanpur",
+    "name": "Preeti Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kanpur, Preeti Hospital delivers integrated care across General Surgery In Kanpur. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "17-C, New Azad Nagar, Kalyanpur, Kanpur, Uttar Pradesh 208026",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208026",
+    "locality": "Kalyanpur",
+    "landmark": "Kalyanpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLYSNiJbYuA2pxUAI_ZnBkiAQSa5Ar0wUMkpSqMEVhT1JBfGqqz8qinf9BHzMevoA4Lnhw4QZCd0-t1FxbaIT97GYbEuodLDCVwYsi22u0BtuSzlN2OU_UJG3lMGY-uL-haQ1-=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLYSNiJbYuA2pxUAI_ZnBkiAQSa5Ar0wUMkpSqMEVhT1JBfGqqz8qinf9BHzMevoA4Lnhw4QZCd0-t1FxbaIT97GYbEuodLDCVwYsi22u0BtuSzlN2OU_UJG3lMGY-uL-haQ1-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.5004777,
+      "lng": 80.2569777,
+      "label": "Preeti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "priya-hospital-kanpur",
+    "name": "Priya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Priya Hospital has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering Gynecologist Surgery In Kanpur. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "098392 00152",
+    "alternatePhone": "",
+    "website": "http://www.priyahospital.in/",
+    "address": "D-25 , Bypass Road, Vishwabank, HIG, Barra, Kanpur, Uttar Pradesh 208027",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208027",
+    "locality": "Barra",
+    "landmark": "Vishwabank",
+    "emergencyContact": "098392 00152",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGuXhj1tdkMaxOJ60Azyfg3yXvRjQUHjIzvsJ_bEjYUmupchzMbaa5HTBAYD1mdfYSv0QdvqcHfEwLzezuJo6FIfoulwzokN2osebA2RPuxybtwYQ4DVhX1B3kmW3HQxk1hoYUOEg=w1200-h900-p-k-no",
+    "logo": "https://www.priyahospital.in/wp-content/uploads/2024/02/cropped-LOGO-6-593x112.jpeg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGuXhj1tdkMaxOJ60Azyfg3yXvRjQUHjIzvsJ_bEjYUmupchzMbaa5HTBAYD1mdfYSv0QdvqcHfEwLzezuJo6FIfoulwzokN2osebA2RPuxybtwYQ4DVhX1B3kmW3HQxk1hoYUOEg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6I8uRCClwx6XH6WOd_x10drppAYGe0GVrpYG_q6oR7IGLPQ-T3L7FkRNAhiXa1uu4lIeAjIzdeGCk1xFCfYlVxHzWGmrcjyk1YzveYP6GYkPmo9qrV7HuQFMED2rcFkQ72hThNw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHz7ZaAbtRFCBDfwq8X72Zw3AssHzj43ykGP6_aUB1gDKyqJYm-29yDtx7A6gIjkVLRtVog_gNdaXI3PXEfrd2LfX7cYJ2ebAqWAh3D6GFVZgeI9aYFrFRgY4akBoB3Zs3xdm4qiAxnUaYw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkKhgBZVK9UDdEs8QtJH9Z4bWLc8uvczW9q0F9Argb8Nq2ohoytMbPXbxPyBrDAsMqT6o2N8-Hwhf2qAKd_ISf9kQanor-LGPigmYG4neeQ9QlOl9PLJG2JgI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkKhgBZVK9UDdEs8QtJH9Z4bWLc8uvczW9q0F9Argb8Nq2ohoytMbPXbxPyBrDAsMqT6o2N8-Hwhf2qAKd_ISf9kQanor-LGPigmYG4neeQ9QlOl9PLJG2JgI5FL38rtKA7hQJZg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.430488,
+      "lng": 80.2998716,
+      "label": "Priya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "raj-hospital-icu-nicu-ivf-ortho-kanpur",
+    "name": "Raj Hospital ICU | NICU | IVF | Ortho",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanpur often choose Raj Hospital ICU | NICU | IVF | Ortho for its strength in IVF In Kanpur, Orthopaedics, and Fertility Care. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0512 268 2174",
+    "alternatePhone": "",
+    "website": "http://www.rajhospitalkanpur.com/",
+    "address": "Bypass NH2, Vishwa Bank Colony, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208027",
+    "locality": "Barra",
+    "landmark": "Barra World Bank",
+    "emergencyContact": "0512 268 2174",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Kanpur",
+      "Orthopaedics",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHsVELn90k76v6j0QenCP30JQbP13isAQh7OG5NkUNSTp5zlafXHgyVTy6fj9PpraHUTxfOBxMkIiQfdTGWT19r6Cj_UpGm0LgUPj7Pu3CsDdiZrkGZi08cpO2kPlip1xsWuaUL=w1200-h900-p-k-no",
+    "logo": "https://rajhospitalkanpur.com/wp-content/uploads/2019/08/Logo-11-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHsVELn90k76v6j0QenCP30JQbP13isAQh7OG5NkUNSTp5zlafXHgyVTy6fj9PpraHUTxfOBxMkIiQfdTGWT19r6Cj_UpGm0LgUPj7Pu3CsDdiZrkGZi08cpO2kPlip1xsWuaUL=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.429455,
+      "lng": 80.3018358,
+      "label": "Raj Hospital ICU | NICU | IVF | Ortho",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "raja-hospital-kanpur",
+    "name": "Raja Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Raja Hospital is a prominent hospital in Kanpur, known for structured tertiary care across General Surgery In Kanpur. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "095543 89251",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1160/2 New Azad Nagar, Bypass Road, near Bharat Petrol pump, Koyla Nagar, Kanpur, Uttar Pradesh 208021",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208021",
+    "locality": "Koyla Nagar",
+    "landmark": "near Bharat Petrol pump, Koyla Nagar, Kanpur, Uttar Pradesh 208021",
+    "emergencyContact": "095543 89251",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErlgMrumPPANew_trPoUuForX1Y194URB9xyGQwDgSzt_8rGhYAYlIr7R5Z7DnkC8QJRLHMfsXnSeX5uVcaanBfb442NDSaExHJdaGxR4-ZVopSh2bV0bvUCmBHXZGw8c6KOA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErlgMrumPPANew_trPoUuForX1Y194URB9xyGQwDgSzt_8rGhYAYlIr7R5Z7DnkC8QJRLHMfsXnSeX5uVcaanBfb442NDSaExHJdaGxR4-ZVopSh2bV0bvUCmBHXZGw8c6KOA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4043132,
+      "lng": 80.3578224,
+      "label": "Raja Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rama-devi-medical-centre-pvt-ltd-kanpur",
+    "name": "Rama Devi Medical Centre pvt ltd",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kanpur, Rama Devi Medical Centre pvt ltd brings together specialists for General Surgery In Kanpur. Its infrastructure includes Google rating 4.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "070809 02028",
+    "alternatePhone": "",
+    "website": "http://www.ramadevimedicalcentre.in/",
+    "address": "205, G.T. Road, opposite Kanshiram Samyukth Chikitsalay, Lal Bungalow, Krishna Nagar, Kanpur, Uttar Pradesh 208007",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208007",
+    "locality": "Krishna Nagar",
+    "landmark": "opposite Kanshiram Samyukth Chikitsalay, Lal Bungalow, Krishna Nagar, Kanpur, Uttar Pradesh 208007",
+    "emergencyContact": "070809 02028",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1Xw371fXtwNRk80jRPF246ZdgV6RmOBM8XrT69QFL9aEHVImvErIF-BV-F-7JeL-dYImgMlw3wkBMAxuq8Z-5xM-vVYPUslfKKXIPZ_3SCirKQFpWPYwRwHqiNzzDynzi1RnQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1Xw371fXtwNRk80jRPF246ZdgV6RmOBM8XrT69QFL9aEHVImvErIF-BV-F-7JeL-dYImgMlw3wkBMAxuq8Z-5xM-vVYPUslfKKXIPZ_3SCirKQFpWPYwRwHqiNzzDynzi1RnQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEydD-pRpILYNuuKH5JMjLfR1pVnKnZdo3XSW6PlqCUygg1yS9tT7s1OBpwc2Z6jH-DQ6HuCEVrlZXxrn3fGQh9VHM4WrgEmdIW0ItkvrdDx6ITPBuzMWCcJMytoSQ2ccBPFZs3FA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4147611,
+      "lng": 80.3832143,
+      "label": "Rama Devi Medical Centre pvt ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ratandeep-hospital-kanpur",
+    "name": "Ratandeep Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanpur often choose Ratandeep Hospital for its strength in Brain Surgery In Kanpur. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "072339 00037",
+    "alternatePhone": "",
+    "website": "https://ratandeephospital.com/",
+    "address": "Railway Crossing, Sarvodaya Nagar, I-6, near Rawat Pur, Moti Vihar, Rawat Pur, Kanpur, Uttar Pradesh 208025",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208025",
+    "locality": "Rawat Pur",
+    "landmark": "near Rawat Pur, Moti Vihar, Rawat Pur, Kanpur, Uttar Pradesh 208025",
+    "emergencyContact": "072339 00037",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_VedS-arOqG91iTp-G9gzX4zzGW0DkvprhdRWHWcdYBa1sUras1H9gAy51_F_uw1sYsOL586MdQrLJPoVQKZkcTaQbh01KbWe-UaYZZPYZlQKijBZsdFsCKZBqsR1B083P_hS=w1200-h900-p-k-no",
+    "logo": "https://ratandeephospital.com/wp-content/uploads/2022/09/logo-2022-1.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_VedS-arOqG91iTp-G9gzX4zzGW0DkvprhdRWHWcdYBa1sUras1H9gAy51_F_uw1sYsOL586MdQrLJPoVQKZkcTaQbh01KbWe-UaYZZPYZlQKijBZsdFsCKZBqsR1B083P_hS=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.48086,
+      "lng": 80.2996225,
+      "label": "Ratandeep Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "regency-multi-super-speciality-hospital-govind-nagar-kanpur-kanpur",
+    "name": "Regency Multi Super Speciality Hospital - Govind Nagar, Kanpur",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Regency Multi Super Speciality Hospital - Govind Nagar, Kanpur is a prominent general hospital in Kanpur, known for structured tertiary care across Brain Surgery In Kanpur and Speciality Care. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "0512 350 2222",
+    "alternatePhone": "",
+    "website": "https://regencyhealthcare.in/locations/regency-govind-nagar/",
+    "address": "16/17, Block K, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208006",
+    "locality": "Govind Nagar",
+    "landmark": "Govind Nagar",
+    "emergencyContact": "0512 350 2222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHaz7Ou-FjpOQLX7NNjl7WtK0lsPw_uLiyTtop8T3bSO4wAJqhZ9tgFjvGyCTMfhq-k5Z_UsamrsUpfvpvySv0XiUBpWDti8JOwWr_dI2FXQr2wNLkCM2ZUt0kSWDxpZoT3esbz=w1200-h900-p-k-no",
+    "logo": "https://regencyhealthcare.in/wp-content/uploads/2022/01/Regency-Healthcare-Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHaz7Ou-FjpOQLX7NNjl7WtK0lsPw_uLiyTtop8T3bSO4wAJqhZ9tgFjvGyCTMfhq-k5Z_UsamrsUpfvpvySv0XiUBpWDti8JOwWr_dI2FXQr2wNLkCM2ZUt0kSWDxpZoT3esbz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH66PkcdNkB0a2mbtc-GggypuLvI2Sh81TN0kdBGXkrts9ITucFPn1CM6eMILU61P975G-t8PxKM8lsrUlr554e94YzvGPM0m8L=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH66PkcdNkB0a2mbtc-GggypuLvI2Sh81TN0kdBGXkrts9ITucFPn1CM6eMILU61P975G-t8PxKM8lsrUlr554e94YzvGPM0m8LlAczFnnrZ58__o_ns8nMm3jy0yq8dRSMJFO2=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4473752,
+      "lng": 80.3145798,
+      "label": "Regency Multi Super Speciality Hospital - Govind Nagar, Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "regency-multi-super-speciality-hospital-tower-1-sarvodaya-nagar-kanpur-kanpur",
+    "name": "Regency Multi Super Speciality Hospital - Tower 1, Sarvodaya Nagar, Kanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanpur often choose Regency Multi Super Speciality Hospital - Tower 1, Sarvodaya Nagar, Kanpur for its strength in General Surgery In Kanpur and Speciality Care. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0512 350 1111",
+    "alternatePhone": "",
+    "website": "https://regencyhealthcare.in/locations/tower-1/",
+    "address": "Regency Hospital Tower-1, A-2, A 2, Sarvodaya Nagar, Kanpur, Uttar Pradesh 208005",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208005",
+    "locality": "Sarvodaya Nagar",
+    "landmark": "A 2",
+    "emergencyContact": "0512 350 1111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFm6hfkVgeUULl-Cs_--5KWygEZ0U4kLH9sVI0ONXZ7qp8Q7Pfov76CLcdQcJR3c859FqstCkACpxE-LXHjUf6lzZSHEPjrdMGQttbyJTp1DnLR8zKLHKa9y4ACYUMw6g1JIwY=w1200-h900-p-k-no",
+    "logo": "https://regencyhealthcare.in/wp-content/uploads/2022/01/Regency-Healthcare-Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFm6hfkVgeUULl-Cs_--5KWygEZ0U4kLH9sVI0ONXZ7qp8Q7Pfov76CLcdQcJR3c859FqstCkACpxE-LXHjUf6lzZSHEPjrdMGQttbyJTp1DnLR8zKLHKa9y4ACYUMw6g1JIwY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4799781,
+      "lng": 80.3012266,
+      "label": "Regency Multi Super Speciality Hospital - Tower 1, Sarvodaya Nagar, Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ru-hospital-best-multispeciality-hospital-in-kanpur-kanpur",
+    "name": "RU Hospital | Best Multispeciality Hospital in Kanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RU Hospital | Best Multispeciality Hospital in Kanpur has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering General Surgery In Kanpur and Speciality Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "063068 49052",
+    "alternatePhone": "",
+    "website": "http://www.ruhospital.in/",
+    "address": "128/641, W, N 2 Rd, Vasant Vihar, Juhi Kala, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208021",
+    "locality": "Naubasta",
+    "landmark": "N 2 Rd",
+    "emergencyContact": "063068 49052",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUUS2Fk14A22Sp3tCWV3ks4waA7hGViuauQBko_GawECJULNa8X3J3D1p453krZCnJfRRnOiHcCrYlqW4MOTBZpVloZYVWOKi1-dTk0gMTAxCfumR4E6mPI1ZLEK0glrQwcGN0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUUS2Fk14A22Sp3tCWV3ks4waA7hGViuauQBko_GawECJULNa8X3J3D1p453krZCnJfRRnOiHcCrYlqW4MOTBZpVloZYVWOKi1-dTk0gMTAxCfumR4E6mPI1ZLEK0glrQwcGN0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4188108,
+      "lng": 80.3133057,
+      "label": "RU Hospital | Best Multispeciality Hospital in Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "saaol-heart-center-kanpur-kanpur",
+    "name": "SAAOL HEART CENTER KANPUR",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kanpur, SAAOL HEART CENTER KANPUR delivers integrated care across Heart Surgery In Kanpur and Cardiac Care. Its infrastructure includes Google rating 3.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "094154 84868",
+    "alternatePhone": "",
+    "website": "https://saaol.com/contact-saaol/",
+    "address": "120/52, Lajpat Nagar, Narainpurwa, Kanpur, Uttar Pradesh 208005",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208005",
+    "locality": "Narainpurwa",
+    "landmark": "Narainpurwa",
+    "emergencyContact": "094154 84868",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kanpur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG24Rj6GdsP_bi42ACygojCb24EocQnt7ug0X1Adf0VEgvG6YTrHwuOG5Dbo21Ikegibcewi82cgF7DOVxg5Tg2avbGTRdQ7Fr548Gl6a5eFfyjX0tGqEt66n57eZPfH3clwNJeMTUeyZBZ=w1200-h900-p-k-no",
+    "logo": "https://saaol.com/psd/assets/images/webp/logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG24Rj6GdsP_bi42ACygojCb24EocQnt7ug0X1Adf0VEgvG6YTrHwuOG5Dbo21Ikegibcewi82cgF7DOVxg5Tg2avbGTRdQ7Fr548Gl6a5eFfyjX0tGqEt66n57eZPfH3clwNJeMTUeyZBZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4695482,
+      "lng": 80.3081618,
+      "label": "SAAOL HEART CENTER KANPUR",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "samriddhi-hospital-kanpur",
+    "name": "Samriddhi Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Samriddhi Hospital is a prominent private hospital in Kanpur, known for structured tertiary care across General Surgery In Kanpur. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "093052 57103",
+    "alternatePhone": "",
+    "website": "",
+    "address": "104/411, P Rd, near ICICI Home Finance Company Limited, Rambagh Chauraha, Nehru Nagar, Colonelganj, Kanpur, Uttar Pradesh 208012",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208012",
+    "locality": "Colonelganj",
+    "landmark": "near ICICI Home Finance Company Limited, Rambagh Chauraha, Nehru Nagar, Colonelganj, Kanpur, Uttar Pradesh 208012",
+    "emergencyContact": "093052 57103",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzG7EtcBOTKQqS5JvMJvewfbU6W-zvB_spDQr9Bpxv7KSHCBciJf97DvE0QqDIqySl1SXRmJSu_WnNfIwa6kGQqazQOH1VaE0TPA1vB_JLXhZ1o_A76Kdkv6jYMZBGRjK-Ozzn=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzG7EtcBOTKQqS5JvMJvewfbU6W-zvB_spDQr9Bpxv7KSHCBciJf97DvE0QqDIqySl1SXRmJSu_WnNfIwa6kGQqazQOH1VaE0TPA1vB_JLXhZ1o_A76Kdkv6jYMZBGRjK-Ozzn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4722095,
+      "lng": 80.3299079,
+      "label": "Samriddhi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sanjeevani-hospital-and-test-tube-baby-center-kanpur",
+    "name": "Sanjeevani Hospital & Test Tube Baby Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kanpur, Sanjeevani Hospital & Test Tube Baby Center offers coordinated hospital care with major focus on IVF In Kanpur. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "091989 61885",
+    "alternatePhone": "",
+    "website": "https://www.zypa.in/",
+    "address": "127/453, Deep Talkies Road, near Kisan Dairy, W-1, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208014",
+    "locality": "Saket Nagar",
+    "landmark": "near Kisan Dairy, W-1, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "emergencyContact": "091989 61885",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=26.4381953%2C80.3125216&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://zypa.in/wp-content/uploads/2025/12/cropped-Zypa-Logo-Circle-White-300x300.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=26.4381953%2C80.3125216&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.4381953%2C80.3125216&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.4381953%2C80.3125216&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4381953,
+      "lng": 80.3125216,
+      "label": "Sanjeevani Hospital & Test Tube Baby Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sarojni-medical-centre-kanpur",
+    "name": "Sarojni Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kanpur, Sarojni Medical Centre offers coordinated hospital care with major focus on Gynecologist Surgery In Kanpur. The facility stands out for Google rating 4.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "083540 59780",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49A, W-2, Juhi Kala, Damodar Nagar, Kanpur, Uttar Pradesh 208027",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208027",
+    "locality": "Damodar Nagar",
+    "landmark": "Juhi Kala",
+    "emergencyContact": "083540 59780",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3jk841x8y7193xJt_nG0NKSNuq61rGeYJXVJ2oMIZYnfVLFhEXAWyQ1TDWqGo6BVbMEu_9pD91LckLh5JdTyAi26jmNIk63sXWwApOUPwzVhMv2nzzKpxpc_UDQlapc1Y1Ts=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3jk841x8y7193xJt_nG0NKSNuq61rGeYJXVJ2oMIZYnfVLFhEXAWyQ1TDWqGo6BVbMEu_9pD91LckLh5JdTyAi26jmNIk63sXWwApOUPwzVhMv2nzzKpxpc_UDQlapc1Y1Ts=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4243886,
+      "lng": 80.3112327,
+      "label": "Sarojni Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "saubhagya-hospital-kanpur",
+    "name": "Saubhagya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kanpur, Saubhagya Hospital brings together specialists for Brain Surgery In Kanpur. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "078062 07777",
+    "alternatePhone": "",
+    "website": "",
+    "address": "76a, Panki - Kalyanpur Rd, Awas Vikas Ambedkar Puram, krishna vihar, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208017",
+    "locality": "Kalyanpur",
+    "landmark": "Awas Vikas Ambedkar Puram",
+    "emergencyContact": "078062 07777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG528-J3WYD7J43ZW3XC5plL_YBUDrjGcs3VNjBZt1uEsLZmkeonuui7NCtNxYrBuI0_U2HDMVLf7Cdc77A-rzJgokeWkJD2O1CWLgEKteKVqFy3f09g1461gtD63uqwW1wRrVG3KJgwIPC=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG528-J3WYD7J43ZW3XC5plL_YBUDrjGcs3VNjBZt1uEsLZmkeonuui7NCtNxYrBuI0_U2HDMVLf7Cdc77A-rzJgokeWkJD2O1CWLgEKteKVqFy3f09g1461gtD63uqwW1wRrVG3KJgwIPC=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4919812,
+      "lng": 80.2473073,
+      "label": "Saubhagya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "seeds-of-innocence-ivf-centre-best-ivf-centre-in-kanpur-uttar-pradesh-kanpur",
+    "name": "Seeds of Innocence IVF Centre | Best IVF Centre In Kanpur, Uttar Pradesh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kanpur, Seeds of Innocence IVF Centre | Best IVF Centre In Kanpur, Uttar Pradesh brings together specialists for IVF In Kanpur and Fertility Care. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "098103 50512",
+    "alternatePhone": "",
+    "website": "https://www.seedsofinnocens.com/uttar-pradesh/best-ivf-centre-in-kanpur/",
+    "address": "7/153, Kumhar Wali gali, Kanpur Vidya Mandir, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208002",
+    "locality": "Swaroop Nagar",
+    "landmark": "Kanpur Vidya Mandir",
+    "emergencyContact": "098103 50512",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Kanpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1Z_EFmMrPqDDA-jP5a8N2mFaXciHHmTIepi8JfuXANAegb6IJysTmZpfQVdyog4N_apvRdZaeFmRLAGmZMhhXtlsYLQwg4UWODSmE4ElnniRjy8Yr_TmZl3YAD4bWFMwLhfVlNGCtwy4d=w1200-h900-p-k-no",
+    "logo": "https://www.seedsofinnocens.com/assets/img/Header Logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1Z_EFmMrPqDDA-jP5a8N2mFaXciHHmTIepi8JfuXANAegb6IJysTmZpfQVdyog4N_apvRdZaeFmRLAGmZMhhXtlsYLQwg4UWODSmE4ElnniRjy8Yr_TmZl3YAD4bWFMwLhfVlNGCtwy4d=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMmcYnlWPin9WwT281lPRkSR78w5F0FgEjx1OPm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPB7FwwGyOni7UjCfwVRhe51ahGbgfmdlHNrGjw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOjfKC6EdJZK22oapNK4dfgcQlHEeR8f3eIi4LS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP22xAxJX075QctduhO7jZCPetHhj0pI8sfeq9E=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4831966,
+      "lng": 80.3154961,
+      "label": "Seeds of Innocence IVF Centre | Best IVF Centre In Kanpur, Uttar Pradesh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shivani-hospital-and-ivf-kanpur",
+    "name": "Shivani Hospital & IVF",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kanpur, Shivani Hospital & IVF brings together specialists for IVF In Kanpur and Fertility Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093078 31529",
+    "alternatePhone": "",
+    "website": "http://www.shivanihospital.com/",
+    "address": "120, Post Office 503, adjacent Shivaji Nagar, Shivaji Nagar, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208005",
+    "locality": "Shastri Nagar",
+    "landmark": "adjacent Shivaji Nagar",
+    "emergencyContact": "093078 31529",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Kanpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqirGmrEagfUpPtHTDoV01_NzccgPhkiDiX1FGFqss0getWcR0ex-aS0zjhclBL833yTGupdZ2vrFMEMEPDqz9RYPDSkq-O4edE-ZfqpY_gG8oFPhSwQ-lSA0VPcGcqXKROyA=w1200-h900-p-k-no",
+    "logo": "https://www.shivanihospital.com/wp-content/uploads/2023/05/cropped-115650279_2780830805481218_7972075975074698539_n-removebg-preview.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqirGmrEagfUpPtHTDoV01_NzccgPhkiDiX1FGFqss0getWcR0ex-aS0zjhclBL833yTGupdZ2vrFMEMEPDqz9RYPDSkq-O4edE-ZfqpY_gG8oFPhSwQ-lSA0VPcGcqXKROyA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEv8ZYbevWAigKOu0uOFzzoG2c8LMVP2V99VkwXcODxPIETN2fWR3qubFDg3y_9Skd2GKRVIfTf_8E5nMfI24inAF-KswhwHSlfZth3OH8XBqNN1zex6zxKBKTcEeQg5DqCba9_m6J3OFA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4718364,
+      "lng": 80.302098,
+      "label": "Shivani Hospital & IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sindhi-hospital-kanpur",
+    "name": "Sindhi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kanpur, Sindhi Hospital brings together specialists for General Surgery In Kanpur. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Block-11, Govind Nagar Rd, A Block, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208006",
+    "locality": "Govind Nagar",
+    "landmark": "A Block",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2y2BMyjNW5RMLVHw3Q2-VwBTyooSzLfzcINV-7m7HBq36qIgYi-NG7pmpC2UyG11Bb4r8kZDqS7B1pGmeIJJrJtafD9iN71BP5LaUrltGHw4GleroOna3DV3Bj5kjz4n6IiPK49C5mAG-=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2y2BMyjNW5RMLVHw3Q2-VwBTyooSzLfzcINV-7m7HBq36qIgYi-NG7pmpC2UyG11Bb4r8kZDqS7B1pGmeIJJrJtafD9iN71BP5LaUrltGHw4GleroOna3DV3Bj5kjz4n6IiPK49C5mAG-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbmsxrhIe3Rd6mT5nXItjf9yAdPaF-jEwl-cdZy--wc-fxXqNr_JYvPi6KpCqUfj1OXJU3L4DWrwd5sF0CnIhvFnPbhZ3xDhto6-ioypPoRdiBTqMN47QllBalDK-TyaIU4C8WRqJtij2_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4525418,
+      "lng": 80.3020753,
+      "label": "Sindhi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sis-hospital-and-research-centre-kanpur",
+    "name": "SIS HOSPITAL & RESEARCH CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SIS HOSPITAL & RESEARCH CENTRE has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering Brain Surgery In Kanpur. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073805 15151",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No .3, 1/9 , AMBEDAKER PURAM, Awas Vikas, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208017",
+    "locality": "Kalyanpur",
+    "landmark": "AMBEDAKER PURAM",
+    "emergencyContact": "073805 15151",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFlmOtmH8OMPAvTnP26BLY75ehNcdgycWwUJQb2Je0_qMWz_wZ7vf5TRRoPgimqqVj_9lZMZ7vs9kdCo8NCX-wJppruEm0yq1qDVBj79KiyBsvvvLGAx2-BlxprH0YBTDO9fhMm=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFlmOtmH8OMPAvTnP26BLY75ehNcdgycWwUJQb2Je0_qMWz_wZ7vf5TRRoPgimqqVj_9lZMZ7vs9kdCo8NCX-wJppruEm0yq1qDVBj79KiyBsvvvLGAx2-BlxprH0YBTDO9fhMm=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4842449,
+      "lng": 80.2559371,
+      "label": "SIS HOSPITAL & RESEARCH CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "surman-hospital-best-multispeciality-hospital-in-kanpur-kanpur",
+    "name": "SURMAN HOSPITAL- BEST MULTISPECIALITY HOSPITAL IN KANPUR",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SURMAN HOSPITAL- BEST MULTISPECIALITY HOSPITAL IN KANPUR has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering Gynecologist Surgery In Kanpur and Speciality Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "077550 44555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Black kakade, 120 Feet Road, Namak Factory Chauraha, P-1, Kakadeo, Kasper, Kanpur, Uttar Pradesh 20802",
+    "city": "Kanpur",
+    "state": "West Bengal",
+    "pincode": "",
+    "locality": "Kasper",
+    "landmark": "Namak Factory Chauraha",
+    "emergencyContact": "077550 44555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3tAAu0STS6gj1Ah6AjlAYJLiVlOBTSFATxe9H-ig58rCTWAxXf_b-n3rjMCt-k5mhBKPgwK5g7tydbw7X-HlBqpKY5MVqCMoBXd4glVjem7C_78HA8VvGQJ35hAIjeciusZ8TwA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3tAAu0STS6gj1Ah6AjlAYJLiVlOBTSFATxe9H-ig58rCTWAxXf_b-n3rjMCt-k5mhBKPgwK5g7tydbw7X-HlBqpKY5MVqCMoBXd4glVjem7C_78HA8VvGQJ35hAIjeciusZ8TwA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPu-un6vlNMv19RBjQQS6uQEDzdmH3i_9_W9qJf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO6d74cy1oOj7H_Bxy7D7QgWvDe8vmZfdX_pQvq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPpzmcBI9bnrb9sh4eFQRknmMJphLv5pcMmyWdL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPHWCriwJts2Lc1Jp1raLQBoY3-cjhCfm855Fh9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4782691,
+      "lng": 80.2836027,
+      "label": "SURMAN HOSPITAL- BEST MULTISPECIALITY HOSPITAL IN KANPUR",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tulip-hospital-kanpur",
+    "name": "Tulip Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kanpur, Tulip Hospital brings together specialists for IVF In Kanpur. Operational strengths including Google rating 4.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "070809 99988",
+    "alternatePhone": "",
+    "website": "",
+    "address": "117/439, H block, Pandu Nagar, near Police Station and Paliwal Diagnostics, Kakadeo, Kanpur, Uttar Pradesh 208005",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208005",
+    "locality": "Kakadeo",
+    "landmark": "near Police Station and Paliwal Diagnostics, Kakadeo, Kanpur, Uttar Pradesh 208005",
+    "emergencyContact": "070809 99988",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHL55anZKbVFY-2UftdcB9AGsq1OGKnBTEaONxbt3acpifc4NCIIUBa5Mwgm3zNwVelSCysHWzsNGnLT_Jr01uZrJk2YKRnygXJ-cd_5czaBi-Nq-HO6P96QTHlYclICQZptK9R=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHL55anZKbVFY-2UftdcB9AGsq1OGKnBTEaONxbt3acpifc4NCIIUBa5Mwgm3zNwVelSCysHWzsNGnLT_Jr01uZrJk2YKRnygXJ-cd_5czaBi-Nq-HO6P96QTHlYclICQZptK9R=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMTj8HBN-CxvVSH_gTxmhd6C_uzMjSEtmiVKgpf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPObX1T7hxxdAphH_YRK41LQO1XeUjNe6Brf3qk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMWqh3u5Uj0_2wdnuZmqR1tbkPpnEeSYadajxrx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMCSJo9RzsNkhALe-FJitxr_XVGzXlJrVISpkEs=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4749367,
+      "lng": 80.3024941,
+      "label": "Tulip Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tulsi-hospitals-limited-kanpur",
+    "name": "Tulsi Hospitals Limited",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Kanpur, Tulsi Hospitals Limited delivers integrated care across General Surgery In Kanpur. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "095980 60511",
+    "alternatePhone": "",
+    "website": "",
+    "address": "14/116-A, Mac Robert Gunge Colony, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208001",
+    "locality": "Civil Lines",
+    "landmark": "Civil Lines",
+    "emergencyContact": "095980 60511",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGO79pFsOyRAJR-F6jDgGANsk0wAH2zuEjrETG4fnp3_KeDN1dx8OsXTr5ebikgdECfm7T-IpAomiQIBFmvROSJmflN67WKp50ixUcwI0XNWhMBZ88gJb4GKYmjBwK_A_3mGT_a=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGO79pFsOyRAJR-F6jDgGANsk0wAH2zuEjrETG4fnp3_KeDN1dx8OsXTr5ebikgdECfm7T-IpAomiQIBFmvROSJmflN67WKp50ixUcwI0XNWhMBZ88gJb4GKYmjBwK_A_3mGT_a=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4793465,
+      "lng": 80.3440749,
+      "label": "Tulsi Hospitals Limited",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ujala-cygnus-kulwanti-hospital-best-multispeciality-hospital-in-kanpur-kanpur",
+    "name": "Ujala Cygnus Kulwanti Hospital | Best Multispeciality Hospital in Kanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ujala Cygnus Kulwanti Hospital | Best Multispeciality Hospital in Kanpur has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering Brain Surgery In Kanpur and Speciality Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "091466 91466",
+    "alternatePhone": "",
+    "website": "https://ujalacygnus.com/hospitals/ujala-cygnus-kulwanti-hospital-kanpur?utm_source",
+    "address": "117/N/8, near Devki Cinema, Near Kulwanti Hospital, Ambedkar Nagar, Navin Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208025",
+    "locality": "Kakadeo",
+    "landmark": "near Devki Cinema, Near Kulwanti Hospital, Ambedkar Nagar, Navin Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "emergencyContact": "091466 91466",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOp8BqX0WBDJMmYDOV2oVB_qzKHK0WM8nGrk4LnLOZjGp2cDM2K1G1f9jcdwSrBebLCY7h-RXix7eiPD6MrFXhSgaXb4DOj-HRy6bzBgSylQexM9bdd6ztseBACE7VkXuNvrp_EbpHkj9O=w1200-h900-p-k-no",
+    "logo": "https://ujalacygnus.com/_next/image?url=%2Fassets%2Ficons%2Flogo1.jpeg&w=640&q=100",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOp8BqX0WBDJMmYDOV2oVB_qzKHK0WM8nGrk4LnLOZjGp2cDM2K1G1f9jcdwSrBebLCY7h-RXix7eiPD6MrFXhSgaXb4DOj-HRy6bzBgSylQexM9bdd6ztseBACE7VkXuNvrp_EbpHkj9O=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNfn9zar0k1WuSJPWwu_9FhPiedfD59GkS3L6Jr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMNXjfMN7hoMHeVPXk2ddGFQIL8BQGjG-ron9s6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMFXmtJvVeB2qeHi1-wl191yvaqk4z18s9LHg1D=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOyRst8UyMZUtLpB8i=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4796771,
+      "lng": 80.2935781,
+      "label": "Ujala Cygnus Kulwanti Hospital | Best Multispeciality Hospital in Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ujala-cygnus-noble-hospital-kanpur-best-super-speciality-hospital-in-kanpur-kanpur",
+    "name": "Ujala Cygnus Noble Hospital Kanpur | Best Super Speciality Hospital in Kanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanpur often choose Ujala Cygnus Noble Hospital Kanpur | Best Super Speciality Hospital in Kanpur for its strength in Brain Surgery In Kanpur and Speciality Care. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanpur.",
+    "email": "",
+    "phone": "091510 08901",
+    "alternatePhone": "",
+    "website": "https://ujalacygnus.com/hospitals/ujala-cygnus-noble-superspeciality-hospital-kanpur?utm_source",
+    "address": "113/16 A, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208002",
+    "locality": "Swaroop Nagar",
+    "landmark": "Swaroop Nagar",
+    "emergencyContact": "091510 08901",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9xRECN1husqpsCsdzkQzPzrT6hos9myt_5TGTRtVcFaXTw_jiBkuFhfvqKG0jwLOD_6h2dTasGkPWPUBV-eEm0_8q1qhXeI7Ha1ctoCYAHu-ZUnGk4RuPKKzi82sFUyGeM5UczZ4q6FXm=w1200-h900-p-k-no",
+    "logo": "https://ujalacygnus.com/_next/image?url=%2Fassets%2Ficons%2Flogo1.jpeg&w=640&q=100",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9xRECN1husqpsCsdzkQzPzrT6hos9myt_5TGTRtVcFaXTw_jiBkuFhfvqKG0jwLOD_6h2dTasGkPWPUBV-eEm0_8q1qhXeI7Ha1ctoCYAHu-ZUnGk4RuPKKzi82sFUyGeM5UczZ4q6FXm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO-Hd0AoWS1f4zfV9STAwtIZRq6x6EHKHOCFY3v=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNR7h2zTOU8IRP_nTTrw9ROFQgMpgLjTNW_TPuN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP93bLndMnHMa2L4biCtyhZa-7QwpifpZ2W8JHm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNDsXfOOiiYrrrCJJyoWA226FsITnWyBUwZ2IE_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4801911,
+      "lng": 80.3123267,
+      "label": "Ujala Cygnus Noble Hospital Kanpur | Best Super Speciality Hospital in Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "utkarsh-hospital-a-multi-speciality-100-bed-kanpur",
+    "name": "Utkarsh Hospital ( A Multi Speciality 100 bed )",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 100,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Utkarsh Hospital ( A Multi Speciality 100 bed ) is a prominent hospital in Kanpur, known for structured tertiary care across General Surgery In Kanpur and Speciality Care. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "095327 00007",
+    "alternatePhone": "",
+    "website": "",
+    "address": "14a2c, Chaturvedi Building, Baba Nagar, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208021",
+    "locality": "Naubasta",
+    "landmark": "Baba Nagar",
+    "emergencyContact": "095327 00007",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZ1V_eBo0d9rcjcWVMPdrt6ENVL5nrRaA_TLsEGU9is1vGs_MYSC1bEWVAwdWxNMFQqNYEpD-JBEjpSsKBZpk4qmJUXjb12igGx407CRDR-OHq5FCSte_UiOMXrlqcdsxgLiD3cF6pkww=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZ1V_eBo0d9rcjcWVMPdrt6ENVL5nrRaA_TLsEGU9is1vGs_MYSC1bEWVAwdWxNMFQqNYEpD-JBEjpSsKBZpk4qmJUXjb12igGx407CRDR-OHq5FCSte_UiOMXrlqcdsxgLiD3cF6pkww=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJz3sMwYaUSDNJQwyQYLb1uCYJNdz3vhygDeHYJPhkgnk_yD6PEnv0VeGLhDa-xEwHkcyCTcZcz-g69yF8luQSvbCChL0XmpYqAtWAeBCay0oNA4kzF0AJMqxGBImTBarMuLSg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGj9QDvXMEj1SDIEw9Ac-Gxih-xQwps-18mscdK_fIrXoBVM8wlahRWla2yhnXjwdAeEcXlmLnhBbRrQklYbGVFkXcPWNYAqiTpq_riQOuKHGkZo9lQQb2lXN4VY-mAuFUzcK_2pQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEskI4U2uDK_U8MR5LfBuSZDYCzQmtq4tNy-6q0jAIQWBVzC0t8jMeq03vPWh8ujEYmrY6b_4RxmCs5j0srXyahG1-vkipuovqSIFviSlLN3mEt9QBL-yFdIMKnagHTuQA9NZUQRFby8mA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4138597,
+      "lng": 80.3150146,
+      "label": "Utkarsh Hospital ( A Multi Speciality 100 bed )",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vaishnavi-hospital-best-hospital-in-kanpur-kanpur",
+    "name": "Vaishnavi Hospital : Best Hospital in Kanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kanpur, Vaishnavi Hospital : Best Hospital in Kanpur offers coordinated hospital care with major focus on Heart Surgery In Kanpur. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "075250 22701",
+    "alternatePhone": "",
+    "website": "http://www.vaishnavihospital.in/",
+    "address": "Gate No. 2, Infront of Kesco, 1A/ 23 ,Awas Vikas, Canal Road, Naubasta Bamba, Hanspuram, Kanpur, Uttar Pradesh 208021",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208021",
+    "locality": "Hanspuram",
+    "landmark": "1A/ 23",
+    "emergencyContact": "075250 22701",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCConiN1gwH_g_Tpc0Z-Y2pTy0X6IB9hpaJlsaU4m6nj-r1T3lHs2iW8hEYsJ3zJiv-0a6x8c7xOe-WMmQnWGTJcnu90Y_elpn1pV5_7YgtQrgD3uiPhSXZB3gT2aSmXT_Cv_BYBOHkKk5=w1200-h900-p-k-no",
+    "logo": "https://vaishnavihospital.in/wp-content/uploads/2026/02/Screenshot-2026-03-26-122349.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCConiN1gwH_g_Tpc0Z-Y2pTy0X6IB9hpaJlsaU4m6nj-r1T3lHs2iW8hEYsJ3zJiv-0a6x8c7xOe-WMmQnWGTJcnu90Y_elpn1pV5_7YgtQrgD3uiPhSXZB3gT2aSmXT_Cv_BYBOHkKk5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNfxil6_h6f-9CqgK0H0kX0w04N0o1Lx4n2jIdU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOmXN6MRQQv9Q6JLRZngC1yv1Di5dn18yNNc0No=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMhqsEVAYjF9sKJ96szM_iVJOY1KGS32K1E2C0z=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4000183,
+      "lng": 80.3155843,
+      "label": "Vaishnavi Hospital : Best Hospital in Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vedanta-hospital-kanpur",
+    "name": "Vedanta Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vedanta Hospital has built a strong reputation in Kanpur for multidisciplinary treatment pathways covering General Surgery In Kanpur. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097945 94759",
+    "alternatePhone": "",
+    "website": "https://ktcvedantahospital.com/",
+    "address": "9, 55, Dayal Rd, Khalasi Line, Arya Nagar, Kanpur, Uttar Pradesh 208002",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208002",
+    "locality": "Arya Nagar",
+    "landmark": "Dayal Rd",
+    "emergencyContact": "097945 94759",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFtcDpF9YqQKt9MfEfGE-jIP6Np4tGtXZ1ZNvcsu-3QUDOwcNFZ6wDtzOS2I7rglJNP3owCMEkmiToNr3FS-ia1hazpm7D9KNTfhFb1j4Bk0IpFZlF1Qq5RcdlnXicTZbzKwOko=w1200-h900-p-k-no",
+    "logo": "https://ktcvedantahospital.com/mysiteadmin/company_images/1.png.jfif",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFtcDpF9YqQKt9MfEfGE-jIP6Np4tGtXZ1ZNvcsu-3QUDOwcNFZ6wDtzOS2I7rglJNP3owCMEkmiToNr3FS-ia1hazpm7D9KNTfhFb1j4Bk0IpFZlF1Qq5RcdlnXicTZbzKwOko=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4790376,
+      "lng": 80.3227913,
+      "label": "Vedanta Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vighnesh-hospital-and-trauma-centre-best-hospital-in-kanpur-kanpur",
+    "name": "Vighnesh Hospital & Trauma Centre! Best Hospital In Kanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vighnesh Hospital & Trauma Centre! Best Hospital In Kanpur is a prominent hospital in Kanpur, known for structured tertiary care across General Surgery In Kanpur. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "089601 53581",
+    "alternatePhone": "",
+    "website": "https://vighneshhospitalkanpur.my.canva.site/",
+    "address": "Plot number 4, Block, GT రోడ్డు, opposite Kalyanpur police station, Singh Market, Kalyanpur, Kanpur, Uttar Pradesh 208026",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208026",
+    "locality": "Kalyanpur",
+    "landmark": "opposite Kalyanpur police station, Singh Market, Kalyanpur, Kanpur, Uttar Pradesh 208026",
+    "emergencyContact": "089601 53581",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=26.4999913%2C80.2568305&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://vighneshhospitalkanpur.my.canva.site/_assets/images/2d0b56e7e51cf11036ad8734bdb67e2d.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=26.4999913%2C80.2568305&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.4999913%2C80.2568305&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.4999913%2C80.2568305&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4999913,
+      "lng": 80.2568305,
+      "label": "Vighnesh Hospital & Trauma Centre! Best Hospital In Kanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vimal-hospital-laparoscopic-centre-in-juhi-depot-baradevi-kanpur",
+    "name": "Vimal Hospital - Laparoscopic Centre in juhi depot, baradevi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kanpur, Vimal Hospital - Laparoscopic Centre in juhi depot, baradevi brings together specialists for Laparoscopic Surgery In Kanpur. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095060 44082",
+    "alternatePhone": "",
+    "website": "http://www.vimalhospital.com/",
+    "address": "Juhi Depot, 127/433, S - Block, Juhi - 2, Vinoba Nagar, chauraha, Kanpur, Uttar Pradesh 208014",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208014",
+    "locality": "chauraha",
+    "landmark": "S - Block",
+    "emergencyContact": "095060 44082",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhwNp7lcmdGZO8QF2wnxrrDCLeXIG1H3jV5Oq6rqqQGtdq8eiHc6AAHyEg9WOhKAwf2eWBAimb7PtMyz-1FbLDBKOdaEn0CgTXVoa8k_sbWMPoCDTJz8jK_jtBNkambmRr_3gdBoNUuG8=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhwNp7lcmdGZO8QF2wnxrrDCLeXIG1H3jV5Oq6rqqQGtdq8eiHc6AAHyEg9WOhKAwf2eWBAimb7PtMyz-1FbLDBKOdaEn0CgTXVoa8k_sbWMPoCDTJz8jK_jtBNkambmRr_3gdBoNUuG8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4424915,
+      "lng": 80.3213607,
+      "label": "Vimal Hospital - Laparoscopic Centre in juhi depot, baradevi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "world-women-hospital-kanpur",
+    "name": "World Women hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kanpur, World Women hospital delivers integrated care across Gynecologist Surgery In Kanpur and Women and Child Care. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9 No crossing, Sharda Nagar, 117/511/39, Chapeda Pulia Rd, near State Bank Of India, Chhapeda Pulia, Geeta Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208025",
+    "locality": "Kakadeo",
+    "landmark": "near State Bank Of India, Chhapeda Pulia, Geeta Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kanpur",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGi7aiMMkiTGdytK31cykkM5E8E9aKnvJ3sp1o_ShbBqyJYdd76lw0ROjmD_Dg6OoAn8bsfWzWpQQxRWoNRh2WldIjN8yS0D3uD0MvG4urnI4oyBpcpDS2Yj1evIRLaau_Ms41G=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGi7aiMMkiTGdytK31cykkM5E8E9aKnvJ3sp1o_ShbBqyJYdd76lw0ROjmD_Dg6OoAn8bsfWzWpQQxRWoNRh2WldIjN8yS0D3uD0MvG4urnI4oyBpcpDS2Yj1evIRLaau_Ms41G=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4864327,
+      "lng": 80.2908278,
+      "label": "World Women hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "and-kanpur",
+    "name": "✅𝗚𝗥𝗦 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 & 𝗛𝗲𝗮𝗿𝘁 𝗖𝗲𝗻𝘁𝗿𝗲",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "✅𝗚𝗥𝗦 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 & 𝗛𝗲𝗮𝗿𝘁 𝗖𝗲𝗻𝘁𝗿𝗲 is a prominent hospital in Kanpur, known for structured tertiary care across General Surgery In Kanpur. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanpur.",
+    "email": "",
+    "phone": "086046 01010",
+    "alternatePhone": "",
+    "website": "https://grshospital.in/",
+    "address": "Near Mehrotra ENT Hospital, 111/326, Ashok Nagar, Kanpur, Uttar Pradesh 208012",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208012",
+    "locality": "Ashok Nagar",
+    "landmark": "Ashok Nagar",
+    "emergencyContact": "086046 01010",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Kanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9RbFN2Jre2zm8Kk1Q2pxO0bKeTrAEq_H0kjIIJlGhlcpSmpbL0H5vzspGHV6v39MiMNPPh0pJdMcZuuD6O_sQHoGXELBj-YWbjHKonbZqJXP5ooe5iwoJWXqw2FSaETNXxkGNgg=w1200-h900-p-k-no",
+    "logo": "https://grshospital.in/assets/img/grs.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9RbFN2Jre2zm8Kk1Q2pxO0bKeTrAEq_H0kjIIJlGhlcpSmpbL0H5vzspGHV6v39MiMNPPh0pJdMcZuuD6O_sQHoGXELBj-YWbjHKonbZqJXP5ooe5iwoJWXqw2FSaETNXxkGNgg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.4725841,
+      "lng": 80.3207509,
+      "label": "✅𝗚𝗥𝗦 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 & 𝗛𝗲𝗮𝗿𝘁 𝗖𝗲𝗻𝘁𝗿𝗲",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

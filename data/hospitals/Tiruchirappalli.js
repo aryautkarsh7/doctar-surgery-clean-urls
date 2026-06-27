@@ -1,0 +1,1 @@
+window.DOCTAR_TEMP_HOSP = []

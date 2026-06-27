@@ -1,0 +1,11373 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "acharya-harihar-cancer-hospital-cuttack",
+    "name": "Acharya harihar cancer hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose Acharya harihar cancer hospital for its strength in Cancer Surgery In Cuttack. Its infrastructure includes Google rating 1.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FV7M+352, Siba Bazar, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Siba Bazar",
+    "landmark": "Cuttack",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=20.4626398%2C85.8829037&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=20.4626398%2C85.8829037&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4626398%2C85.8829037&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4626398%2C85.8829037&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4626398,
+      "lng": 85.8829037,
+      "label": "Acharya harihar cancer hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "acharya-harihar-regional-cancer-research-centre-cuttack",
+    "name": "Acharya Harihar Regional Cancer Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, Acharya Harihar Regional Cancer Research Centre offers coordinated hospital care with major focus on Oncologist Surgery In Cuttack. The facility stands out for Google rating 3.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "QTR NO 3R/3, CANCER WING, S.C.B MEDICAL COLLEGE, Professors Colony, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Professors Colony",
+    "landmark": "S.C.B MEDICAL COLLEGE",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVHwiafXOED44oWr81ZjWEXR0k8sgwPApG_l0IhI_ylgFryHC1yguaQxEePedyw7WfVoejJBdRkvBB-0zOwyI2CKqf5pMeK_PgRuwE5nzh1sJnbFWJd_tHsmMB0IM3ZpXq9-cZxQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVHwiafXOED44oWr81ZjWEXR0k8sgwPApG_l0IhI_ylgFryHC1yguaQxEePedyw7WfVoejJBdRkvBB-0zOwyI2CKqf5pMeK_PgRuwE5nzh1sJnbFWJd_tHsmMB0IM3ZpXq9-cZxQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4755405,
+      "lng": 85.8891023,
+      "label": "Acharya Harihar Regional Cancer Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "add-hospital-pvt-ltd-cuttack",
+    "name": "Add Hospital Pvt Ltd",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Add Hospital Pvt Ltd has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Urologist Surgery In Cuttack. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://about.me/hospital43b/edit/spotlight",
+    "address": "College Square, Junus Patana, Jobra Rd, Cuttack, Odisha 753003",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753003",
+    "locality": "Jobra Rd",
+    "landmark": "Jobra Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-uT8xpcQuqJQO3BLZtuE1uc8dx13usjUXGbB2pzi9TAT16eVPxY9wlRmc9jG9A_a0sqUHNXb64e3zO-XkeFo5twmgstFr-0UBlRPwg4V0z31pDhoNQLbPV5xTNGa5BXBbgvp6yQ=w1200-h900-p-k-no",
+    "logo": "https://about.me/s3/h/favicon/favicon_180.60004a0b.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-uT8xpcQuqJQO3BLZtuE1uc8dx13usjUXGbB2pzi9TAT16eVPxY9wlRmc9jG9A_a0sqUHNXb64e3zO-XkeFo5twmgstFr-0UBlRPwg4V0z31pDhoNQLbPV5xTNGa5BXBbgvp6yQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4680418,
+      "lng": 85.8954297,
+      "label": "Add Hospital Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ahrcc-cancer-hospital-cuttack",
+    "name": "AHRCC Cancer Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "AHRCC Cancer Hospital is a prominent hospital in Cuttack, known for structured tertiary care across Oncologist Surgery In Cuttack. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVGQ+CQ6, Unnamed Road, Professors Colony, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Professors Colony",
+    "landmark": "Professors Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9_OTFJka_0FHmrCqr5C8AOoYax9WrgeaUiuPAt-YfOa-qRdLnGKJJ9HT6wV_hid0VOd50A64m21A3IYETbwdcEgEJ5uCRE4Ofyd4I5p6DLBQL9DNqj2VHy-tt4lkTRs7xbQOU=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9_OTFJka_0FHmrCqr5C8AOoYax9WrgeaUiuPAt-YfOa-qRdLnGKJJ9HT6wV_hid0VOd50A64m21A3IYETbwdcEgEJ5uCRE4Ofyd4I5p6DLBQL9DNqj2VHy-tt4lkTRs7xbQOU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4760417,
+      "lng": 85.8893882,
+      "label": "AHRCC Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "arogya-hospital-kunheipara",
+    "name": "Arogya hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kunheipara, Arogya hospital brings together specialists for Gynecologist Surgery In Cuttack. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kunheipara can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097777 22230",
+    "alternatePhone": "",
+    "website": "http://www.arogyahealthcares.com/",
+    "address": "Banki - Cuttack Rd, Naranpur, Kunheipara, Odisha 754005",
+    "city": "Kunheipara",
+    "state": "Odisha",
+    "pincode": "754005",
+    "locality": "Naranpur",
+    "landmark": "Kunheipara",
+    "emergencyContact": "097777 22230",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHspjhzgRXppKHEsHy8mXsL1eiPDoQ2bFtPbn00tfGqtvkvpwfSpiptksG9O2JqYhNj6s-hPNGZvLfXsbLHSXQ1yD8UKevJikaKZc0W28Zl6N4JPuppce22nkaITK3BefFgxGI=w1200-h900-p-k-no",
+    "logo": "https://arogyahealthcares.com/wp-content/uploads/2024/08/cropped-logo-aro-32x32.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHspjhzgRXppKHEsHy8mXsL1eiPDoQ2bFtPbn00tfGqtvkvpwfSpiptksG9O2JqYhNj6s-hPNGZvLfXsbLHSXQ1yD8UKevJikaKZc0W28Zl6N4JPuppce22nkaITK3BefFgxGI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4370981,
+      "lng": 85.845743,
+      "label": "Arogya hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ashirbad-hospital-cuttack",
+    "name": "Ashirbad Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose Ashirbad Hospital for its strength in Oncologist Surgery In Cuttack. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Press Chhak, Nuapada, Industrial Estate Rd, Industrial Estate Khapuria, Cuttack, Odisha 753010",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753010",
+    "locality": "Industrial Estate Khapuria",
+    "landmark": "Industrial Estate Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=20.4682081%2C85.8912541&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=20.4682081%2C85.8912541&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4682081%2C85.8912541&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4682081%2C85.8912541&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4682081,
+      "lng": 85.8912541,
+      "label": "Ashirbad Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ashwini-hospital-cuttack",
+    "name": "Ashwini Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Cuttack, Ashwini Hospital brings together specialists for Spine Surgery In Cuttack. With public-facing highlights like Google rating 4.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "092380 08811",
+    "alternatePhone": "",
+    "website": "https://ashwinihospitals.in/",
+    "address": "CDA, Sector 1, Cuttack, Odisha 753014",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753014",
+    "locality": "Sector 1",
+    "landmark": "Cuttack",
+    "emergencyContact": "092380 08811",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGuEr48aAu_GRguXD9zsEw6UfaovVt04aJsaiCfj0otRCdCktIngLeWWIGzQhEHz0rV5h74gZ40PZqNk9gqV-L8jDUYBzbtwqyFjPCeK8WodGbFARyanpaSF4vL6z-Hb5lktSV_lw=w1200-h900-p-k-no",
+    "logo": "https://www.ashwinihospitals.in/favicon.ico",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGuEr48aAu_GRguXD9zsEw6UfaovVt04aJsaiCfj0otRCdCktIngLeWWIGzQhEHz0rV5h74gZ40PZqNk9gqV-L8jDUYBzbtwqyFjPCeK8WodGbFARyanpaSF4vL6z-Hb5lktSV_lw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4736797,
+      "lng": 85.8494351,
+      "label": "Ashwini Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ashwini-trauma-centre-cuttack",
+    "name": "Ashwini Trauma Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Cuttack, Ashwini Trauma Centre delivers integrated care across Orthopedic Surgery In Cuttack. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "092380 08800",
+    "alternatePhone": "",
+    "website": "http://www.ashwinihospitals.in/",
+    "address": "CDA Area, Cuttack, Odisha 753014",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753014",
+    "locality": "CDA Area",
+    "landmark": "Odisha 753014",
+    "emergencyContact": "092380 08800",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvHnIX82bc0TWltD9atoN7Ay7tb9Q3c4TF6siihOxmufl40pwzva3Qg4QQQCb_50OK1bAk5Nu5HbDGgmQ8_V16576mZCSGWn8EWP1kRej0mKv5Yp4PgydeInRKVOTQybh_m2Z_hl-CNN4=w1200-h900-p-k-no",
+    "logo": "https://www.ashwinihospitals.in/favicon.ico",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvHnIX82bc0TWltD9atoN7Ay7tb9Q3c4TF6siihOxmufl40pwzva3Qg4QQQCb_50OK1bAk5Nu5HbDGgmQ8_V16576mZCSGWn8EWP1kRej0mKv5Yp4PgydeInRKVOTQybh_m2Z_hl-CNN4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4721998,
+      "lng": 85.8474818,
+      "label": "Ashwini Trauma Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aswini-truma-care-cuttack-cuttack",
+    "name": "Aswini Truma Care Cuttack",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, Aswini Truma Care Cuttack offers coordinated hospital care with major focus on Orthopedic Surgery In Cuttack. Hospital capacity markers such as Google rating 3.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Unnamed Road, CDA Area, Cuttack, Odisha 753014",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753014",
+    "locality": "CDA Area",
+    "landmark": "Cuttack",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHieFU63vAPBEbG8LZg2kBfMVCW2OH5mL1T7epGu3sKh9rf9rkv0xOhuL9V68kLg2HM_dDZRZwG0ddLz2b0La5Rj6iZygN7SO0Q1N960Ap1QmyKnlrjJrPPzx1T6yG9lEbTUrrL=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHieFU63vAPBEbG8LZg2kBfMVCW2OH5mL1T7epGu3sKh9rf9rkv0xOhuL9V68kLg2HM_dDZRZwG0ddLz2b0La5Rj6iZygN7SO0Q1N960Ap1QmyKnlrjJrPPzx1T6yG9lEbTUrrL=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4723028,
+      "lng": 85.8473429,
+      "label": "Aswini Truma Care Cuttack",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bada-medical-cuttack-cuttack",
+    "name": "Bada Medical Cuttack",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, Bada Medical Cuttack offers coordinated hospital care with major focus on Orthopedic Surgery In Cuttack. Operational strengths including Google rating 3.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVFR+28V, Cuttack Railway Station Rd NH Side, Behera Colony, Gandarpur, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Gandarpur",
+    "landmark": "Behera Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7sQ4s0xwBRJU7-tC3dNXtNxcmxW7_XZcGjtpj-kC3_1Ro6HpxLvWvsXGJmOzuaSq7FDQTWKeQXYFUj4qUkKZi6xsFCfMtzDqTW-vMq0b3S_KD0hUyAwA_Kw6ypWZhhWKy2ugIGQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7sQ4s0xwBRJU7-tC3dNXtNxcmxW7_XZcGjtpj-kC3_1Ro6HpxLvWvsXGJmOzuaSq7FDQTWKeQXYFUj4qUkKZi6xsFCfMtzDqTW-vMq0b3S_KD0hUyAwA_Kw6ypWZhhWKy2ugIGQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4726193,
+      "lng": 85.8907928,
+      "label": "Bada Medical Cuttack",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "balaji-hospital-cuttack",
+    "name": "Balaji Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Cuttack, Balaji Hospital delivers integrated care across Orthopedic Surgery In Cuttack. Hospital capacity markers such as Google rating 3.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "0671 253 0777",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ranihat, Ranihat bye pass, Canal Rd, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Canal Rd",
+    "landmark": "Canal Rd",
+    "emergencyContact": "0671 253 0777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3TucM2LBabtBKGvVsUHSp6hkyuhCd6VIlVk0i9hoY73zRwQeuhXODWPzC8NYiiUkwoNIoryrHHWzSUTc6H_n6FFvWHyZ8fTnECLw-n1K1RJhfkvlZc7dXHpthzvW3nffJBYTK=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3TucM2LBabtBKGvVsUHSp6hkyuhCd6VIlVk0i9hoY73zRwQeuhXODWPzC8NYiiUkwoNIoryrHHWzSUTc6H_n6FFvWHyZ8fTnECLw-n1K1RJhfkvlZc7dXHpthzvW3nffJBYTK=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4691585,
+      "lng": 85.8913073,
+      "label": "Balaji Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "banshadhara-clinic-cuttack",
+    "name": "Banshadhara Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Cuttack, Banshadhara Clinic brings together specialists for Gynecologist Surgery In Cuttack. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0671 230 3707",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVFP+WP4, Kathagola Rd, Professors Colony, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Professors Colony",
+    "landmark": "Professors Colony",
+    "emergencyContact": "0671 230 3707",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_D5C7M-D5VpY0ccJ4g3vKYvs-qPkY2UfxqInip7viylROzoOhCv1L3EPatcc69B0ZeyT47A4HXPdcZVqByj7maJ72zORp94Ezz3gt4Pg1P6yVAS0eem1vmgwLAOGYpuo1y4-d=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_D5C7M-D5VpY0ccJ4g3vKYvs-qPkY2UfxqInip7viylROzoOhCv1L3EPatcc69B0ZeyT47A4HXPdcZVqByj7maJ72zORp94Ezz3gt4Pg1P6yVAS0eem1vmgwLAOGYpuo1y4-d=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4747678,
+      "lng": 85.8868136,
+      "label": "Banshadhara Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bhagya-jyoti-hospital-cuttack",
+    "name": "BHAGYA JYOTI HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BHAGYA JYOTI HOSPITAL has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Gynecologist Surgery In Cuttack. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098615 80585",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3082, Mahanadi Vihar, New Colony, Gandarpur, Cuttack, Odisha 753003",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753003",
+    "locality": "Gandarpur",
+    "landmark": "New Colony",
+    "emergencyContact": "098615 80585",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdaqbHxzfmnK9I7dsFinJGk4fmzsLrLWAvnrR50SgpHfxf_g-QfFogguMAj3cOkEXh9CXkNuQLBy03l0ef_0MYB5RS-82lh87mtQpjQTFi9yOsOmMFXexeSYEndFEBRCwiopwi=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdaqbHxzfmnK9I7dsFinJGk4fmzsLrLWAvnrR50SgpHfxf_g-QfFogguMAj3cOkEXh9CXkNuQLBy03l0ef_0MYB5RS-82lh87mtQpjQTFi9yOsOmMFXexeSYEndFEBRCwiopwi=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEL4tnX4TVlxjvJflnN0wRRrKTjeMqvZmHSvU_qmC47Y1hb6CgdGYv1E3jiGZefPpL5qR3DpAo16_U_qoAQv2ldStAn8bw_hi1SxlVcwdbMKI5L3MWFSIoHyeQFgwMBbQPqMX0p=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.466415,
+      "lng": 85.9061823,
+      "label": "BHAGYA JYOTI HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "blue-line-hospital-cuttack",
+    "name": "Blue Line Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, Blue Line Hospital offers coordinated hospital care with major focus on Heart Surgery In Cuttack. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "0671 236 3333",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Satichaura Chakk, Mohanty Pada, Lane Infront of, Income Tax Colony, Cuttack, Odisha 753002",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753002",
+    "locality": "Income Tax Colony",
+    "landmark": "Lane Infront of",
+    "emergencyContact": "0671 236 3333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIuII8lriuZuobVMTKURVQzQ8MeL2GoSdfl4Pgk_bkk6QG2XtafUlj1u978Bq6ob7tqkrD30GspXrOIg5_R-YBYt3hfL40YYlP1Uk5bZCuGlROrro54y6lxnBek7ctkIjtCz8X=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIuII8lriuZuobVMTKURVQzQ8MeL2GoSdfl4Pgk_bkk6QG2XtafUlj1u978Bq6ob7tqkrD30GspXrOIg5_R-YBYt3hfL40YYlP1Uk5bZCuGlROrro54y6lxnBek7ctkIjtCz8X=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4757855,
+      "lng": 85.8523025,
+      "label": "Blue Line Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "budha-baba-multispeciality-hospital-bbmh-cuttack",
+    "name": "Budha Baba Multispeciality Hospital (BBMH)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose Budha Baba Multispeciality Hospital (BBMH) for its strength in Orthopedic Surgery In Cuttack and Speciality Care. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "094391 03000",
+    "alternatePhone": "",
+    "website": "http://www.bbmh.in",
+    "address": "Laxmi Bazar, Jobra Colony, Cuttack, Odisha 753003",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753003",
+    "locality": "Jobra Colony",
+    "landmark": "Cuttack",
+    "emergencyContact": "094391 03000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmiIWRy3NC0h-wonk_a1Jm3wSJzZTnE72SNSqjS46twR6zHuF1a7aJDXcyKnxzM-7uMiKMTKoSfIRrjMhtWjNZ6HAEVb1AmUPr3cnFNXm7QaOpPsD3SV3o1RfdOYM43OqdAskynA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmiIWRy3NC0h-wonk_a1Jm3wSJzZTnE72SNSqjS46twR6zHuF1a7aJDXcyKnxzM-7uMiKMTKoSfIRrjMhtWjNZ6HAEVb1AmUPr3cnFNXm7QaOpPsD3SV3o1RfdOYM43OqdAskynA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO0UjqYMxI0cN4tWLkK3B9aozGcpgvvOhHhFQDh=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMAM5jIfueft1eF-pMh2DySj_izKGLVTKALGrdy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMUMwHBN_AS0ggXtq2LpKrfIa88I6sv8SQZbJzi=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOtUX2m_1Ja09QY2b_IihSgdbzWl-Fys0mgvhxf=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4722745,
+      "lng": 85.8996819,
+      "label": "Budha Baba Multispeciality Hospital (BBMH)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cancer-hospital-new-building-cuttack",
+    "name": "Cancer Hospital (New Building)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Cuttack, Cancer Hospital (New Building) brings together specialists for Cancer Surgery In Cuttack. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVGQ+HVR, Professors Colony, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Professors Colony",
+    "landmark": "Cuttack",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjh3dib7ZQoYJQwhs4LNmBowuFTan7voH6TnpSV6dZQLWn7fMNlcP196_OAvkOMyBKMKLkKfcbmPYPIgayNHpRX3-RuGpnDxmPHZe1lBWLQwJiMcMGTvlmR0ftLNNIBtc5bZ7rWA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjh3dib7ZQoYJQwhs4LNmBowuFTan7voH6TnpSV6dZQLWn7fMNlcP196_OAvkOMyBKMKLkKfcbmPYPIgayNHpRX3-RuGpnDxmPHZe1lBWLQwJiMcMGTvlmR0ftLNNIBtc5bZ7rWA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4766627,
+      "lng": 85.8899698,
+      "label": "Cancer Hospital (New Building)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cardiology-dept-scb-medical-college-cuttack",
+    "name": "Cardiology Dept,SCB Medical College",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Cuttack, Cardiology Dept,SCB Medical College brings together specialists for Liver Transplant Surgery In Cuttack. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "0671 241 4080",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVCV+G57, Manglabag, Professors Colony, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Professors Colony",
+    "landmark": "Professors Colony",
+    "emergencyContact": "0671 241 4080",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmecPZTMCX7T8UAEZDOtoEN3trEsaLdLbx4_DglfS_y6uOW5WV2aY11H3qa-DyVSXg_0ws6aA4E1bjFzZztUBhHjFIl2ZdHwGo4gq3qE92iqiEisjrKDBKcZRDOfy64OQ-IGPc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmecPZTMCX7T8UAEZDOtoEN3trEsaLdLbx4_DglfS_y6uOW5WV2aY11H3qa-DyVSXg_0ws6aA4E1bjFzZztUBhHjFIl2ZdHwGo4gq3qE92iqiEisjrKDBKcZRDOfy64OQ-IGPc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4712879,
+      "lng": 85.8929284,
+      "label": "Cardiology Dept,SCB Medical College",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "chanakya-hospital-cuttack",
+    "name": "Chanakya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Chanakya Hospital is a prominent hospital in Cuttack, known for structured tertiary care across Spine Surgery In Cuttack. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "0671 220 1393",
+    "alternatePhone": "",
+    "website": "https://chanakyahospital.in/",
+    "address": "Ranihat Canal Rd, LIC Colony, Odisha, Cuttack, Odisha 753003",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753003",
+    "locality": "Odisha",
+    "landmark": "Odisha",
+    "emergencyContact": "0671 220 1393",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3tVf8KkgSTSyaca8AxMdNRMcSjQRPTU_5wDCPR34m5eTKqY9EO5Crih-_6yPILFO4NfliKhOuFZ8myFPTIYGZMK04XXpJZ_QWQyazo44F3KJS8gV_hZOjZNNGtnzZKUUap-xIx-awyWg=w1200-h900-p-k-no",
+    "logo": "https://chanakyahospital.in/wp-content/uploads/2025/01/cropped-1735625969284-1-32x32.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3tVf8KkgSTSyaca8AxMdNRMcSjQRPTU_5wDCPR34m5eTKqY9EO5Crih-_6yPILFO4NfliKhOuFZ8myFPTIYGZMK04XXpJZ_QWQyazo44F3KJS8gV_hZOjZNNGtnzZKUUap-xIx-awyWg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4684391,
+      "lng": 85.8933853,
+      "label": "Chanakya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cuttack-laparoscopic-hospital-cuttack",
+    "name": "Cuttack Laparoscopic Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose Cuttack Laparoscopic Hospital for its strength in Urologist Surgery In Cuttack. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://about.me/hospital43b/edit/spotlight",
+    "address": "Badambadi New LIC Colony, New LIC Colony, OSEB Colony, Cuttack, Odisha 753012",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753012",
+    "locality": "OSEB Colony",
+    "landmark": "OSEB Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZfJTTV__xuEMg2NZ2-NMY5HVZmcXHrgYdcbr-YJ6EWdC16aiy8FcPn04XX3QqZL3RdBDep5oGe3-BH5SmIV_2BhgpfJS5rH_Gk6R6EodWsOqS_a7Vp5By5Rq_SXJ3ip_OkPg=w1200-h900-p-k-no",
+    "logo": "https://about.me/s3/h/favicon/favicon_180.60004a0b.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZfJTTV__xuEMg2NZ2-NMY5HVZmcXHrgYdcbr-YJ6EWdC16aiy8FcPn04XX3QqZL3RdBDep5oGe3-BH5SmIV_2BhgpfJS5rH_Gk6R6EodWsOqS_a7Vp5By5Rq_SXJ3ip_OkPg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4525465,
+      "lng": 85.8855499,
+      "label": "Cuttack Laparoscopic Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "daivik-hospital-cuttack",
+    "name": "Daivik Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Daivik Hospital has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Cancer Surgery In Cuttack. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082499 71981",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CVQX+X98 Press Chowk, near Panchamukhi Hanuman Temple, Netaji Nagar, Cuttack, Odisha 753010",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753010",
+    "locality": "Netaji Nagar",
+    "landmark": "near Panchamukhi Hanuman Temple, Netaji Nagar, Cuttack, Odisha 753010",
+    "emergencyContact": "082499 71981",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2QqlY9t5l_zYRtNkAHiLXheA_rK3I3qryX0wCvmXDmEpRY1HkzzbE3ExnYJn0AeDfTM3ysajdVxGiNQ6ySELirQGLrsE-cSL2l3XSiI6Vgq9tLP4kZOm8hJjQ6yOMAAtY0Rwq=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2QqlY9t5l_zYRtNkAHiLXheA_rK3I3qryX0wCvmXDmEpRY1HkzzbE3ExnYJn0AeDfTM3ysajdVxGiNQ6ySELirQGLrsE-cSL2l3XSiI6Vgq9tLP4kZOm8hJjQ6yOMAAtY0Rwq=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4398222,
+      "lng": 85.8985829,
+      "label": "Daivik Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "district-head-quarter-hospital-cuttack-city-hospital-cuttack",
+    "name": "District Head Quarter Hospital, Cuttack (City Hospital)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Cuttack, District Head Quarter Hospital, Cuttack (City Hospital) brings together specialists for Gynecologist Surgery In Cuttack. With public-facing highlights like Google rating 3.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094399 90016",
+    "alternatePhone": "",
+    "website": "https://cuttack.dhhodisha.in/",
+    "address": "Jail Rd, Dargah Bazaar, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Dargah Bazaar",
+    "landmark": "Cuttack",
+    "emergencyContact": "094399 90016",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHj7XXr-ATivN1bUe7CCx1ZMC3MFtsSdQmnyOrjWc-o9P5F_bX34RhzNxWtxbE5P8pMiMBCVCp0posoSOkklQtcfsPdViYvvuNPz5TEbfUHy8JW64iMPLa4ksVSSqO2UqvrqX2iRw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHj7XXr-ATivN1bUe7CCx1ZMC3MFtsSdQmnyOrjWc-o9P5F_bX34RhzNxWtxbE5P8pMiMBCVCp0posoSOkklQtcfsPdViYvvuNPz5TEbfUHy8JW64iMPLa4ksVSSqO2UqvrqX2iRw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4668139,
+      "lng": 85.8684997,
+      "label": "District Head Quarter Hospital, Cuttack (City Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "eecp-and-cardiac-rehab-by-heartmate-cuttack",
+    "name": "EECP & CARDIAC REHAB BY HEARTMATE",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, EECP & CARDIAC REHAB BY HEARTMATE offers coordinated hospital care with major focus on Heart Surgery In Cuttack and Cardiac Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "090401 83301",
+    "alternatePhone": "",
+    "website": "http://www.heartmate.co.in/",
+    "address": "GROUND FLOOR, PLOT B/1514, CDA Sector VI, Cuttack, Odisha 753014",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753014",
+    "locality": "CDA Sector VI",
+    "landmark": "CDA Sector VI",
+    "emergencyContact": "090401 83301",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Cuttack",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLploSQrEJ4xc9MNbFwTK5lWPDQdriNa5zp7Snw0956MLKHsmnZtVzIeho05uuXrxMjM4Ysx4ZlHHm955GAE7y8EDCY4MT47KkZ8L_9rQ6c9k_QJlh7HzRdmW0K4zaVWtLxLZL2w=w1200-h900-p-k-no",
+    "logo": "https://heartmate.co.in/images/logo_heatmate.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLploSQrEJ4xc9MNbFwTK5lWPDQdriNa5zp7Snw0956MLKHsmnZtVzIeho05uuXrxMjM4Ysx4ZlHHm955GAE7y8EDCY4MT47KkZ8L_9rQ6c9k_QJlh7HzRdmW0K4zaVWtLxLZL2w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4780537,
+      "lng": 85.8369057,
+      "label": "EECP & CARDIAC REHAB BY HEARTMATE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gastro-and-kidney-care-hospital-shankarpur",
+    "name": "Gastro & Kidney Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Shankarpur, Gastro & Kidney Care Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Cuttack, Kidney Care, and Gastroenterology. Its infrastructure includes Google rating 2.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Shankarpur.",
+    "email": "",
+    "phone": "0674 255 3335",
+    "alternatePhone": "",
+    "website": "http://www.igkchospital.com/",
+    "address": "N-1, 1460/61, IRC Village, Nayapalli, Bhubaneswar, Shankarpur, Odisha 751029",
+    "city": "Shankarpur",
+    "state": "Odisha",
+    "pincode": "751029",
+    "locality": "Bhubaneswar",
+    "landmark": "IRC Village",
+    "emergencyContact": "0674 255 3335",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack",
+      "Kidney Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=20.2674437%2C85.7680148&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=20.2674437%2C85.7680148&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.2674437%2C85.7680148&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.2674437%2C85.7680148&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.2674437,
+      "lng": 85.7680148,
+      "label": "Gastro & Kidney Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gastro-surgery-ward-cuttack",
+    "name": "Gastro Surgery Ward",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Cuttack, Gastro Surgery Ward brings together specialists for Liver Transplant Surgery In Cuttack and Gastroenterology. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVFR+92G, SCB MCH, Behera Colony, Professors Colony, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Professors Colony",
+    "landmark": "Behera Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=20.4734416%2C85.890086&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=20.4734416%2C85.890086&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4734416%2C85.890086&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4734416%2C85.890086&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4734416,
+      "lng": 85.890086,
+      "label": "Gastro Surgery Ward",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "goodluck-hospital-cuttack",
+    "name": "Goodluck Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Goodluck Hospital is a prominent private hospital in Cuttack, known for structured tertiary care across Orthopedic Surgery In Cuttack. The facility stands out for Google rating 3.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVGP+4JJ, Kathagola Rd, Mangalabag, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Mangalabag",
+    "landmark": "Mangalabag",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjD-ixhGvUKscWCsV29Ob6v1EGppa9BGSnQIsyiVTggA3R-qMqMXPf5ePZ-pi0slDMGnclZtivrrvx8Qt3HSH9rrs_5NJUo3hccVbCVYwhNs93f-cWh34oSxJm5BNZ0PTbssEg4g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjD-ixhGvUKscWCsV29Ob6v1EGppa9BGSnQIsyiVTggA3R-qMqMXPf5ePZ-pi0slDMGnclZtivrrvx8Qt3HSH9rrs_5NJUo3hccVbCVYwhNs93f-cWh34oSxJm5BNZ0PTbssEg4g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3azJ3X1gm3JyZT6YrJo5FdGMmaPUmUf__or6Pj11RgzuHQJWC-etQGQyFT74XNJWFgCikmlBwoGz3rNrsMOtprh4TKKWv4lTkbjBj8uuRLbJATGTzucMqVcxq74WeGvLmDfHm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoVLgBa2xfoQUiI46H71fKcUJAgaeFTEFXDb2PkqVIF95eSr70JsxLps01wfQGzjzvja4RCMwZcrNiniJsoA9io3LBCN1hpoiFiHWHImMBDoHwiRJK99sn5qt6fUUifP6qTJEorRYhBNuD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4753426,
+      "lng": 85.8865217,
+      "label": "Goodluck Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "health-village-hospital-bhubaneswar",
+    "name": "Health Village Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bhubaneswar, Health Village Hospital delivers integrated care across Liver Transplant Surgery In Cuttack. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bhubaneswar.",
+    "email": "",
+    "phone": "070644 27700",
+    "alternatePhone": "",
+    "website": "https://healthvillagehospital.com/",
+    "address": "15/1, Indradhanu Market, civic centre, Nayapalli, Bhubaneswar, Odisha 751015",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751015",
+    "locality": "Nayapalli",
+    "landmark": "civic centre",
+    "emergencyContact": "070644 27700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEEEUzvQGszQDx8A-aWUkAPRSA6mI5hlYqfhqoxJWZSp86okf-jvlRZPVLYSK-jr5lmSTL59S_ypTGVe4F21KfU9pwtkzJd9SFrMd7lpGbHUUG1Cjw4A8Ip0WWlHNkiruYCAwrufSnzU9hG=w1200-h900-p-k-no",
+    "logo": "https://healthvillagehospital.com/assets/images/logo/logo-light.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEEEUzvQGszQDx8A-aWUkAPRSA6mI5hlYqfhqoxJWZSp86okf-jvlRZPVLYSK-jr5lmSTL59S_ypTGVe4F21KfU9pwtkzJd9SFrMd7lpGbHUUG1Cjw4A8Ip0WWlHNkiruYCAwrufSnzU9hG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMPKBxbmsDQbYI26sz1rgByfDhpdh3ZVAkrX7b3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOiLDDJDGcYjgu1TKhvFe9vlwuB_nAfOcUiHo1t=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNPnAD-eZAfEDBZlaysslggxGXGzBe5Vp6KUlUa=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN1V6c873tlKSQn_MGSnpiDTiWSZmhh6Z5cjMpw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.2947667,
+      "lng": 85.8166319,
+      "label": "Health Village Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "heartmate-institute-cuttack",
+    "name": "HeartMate Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "HeartMate Institute has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Heart Surgery In Cuttack and Cardiac Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090401 83301",
+    "alternatePhone": "",
+    "website": "http://www.heartmate.co.in/",
+    "address": "PLOT NO 1194, CDA Sector VI, Markat Nagar, Cuttack, Odisha 753014",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753014",
+    "locality": "Markat Nagar",
+    "landmark": "Markat Nagar",
+    "emergencyContact": "090401 83301",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Cuttack",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQ8LH42dH_vA-aD8Q8QGU0kY6lco1IRGZc7B6prKi7WhJQ0k3to8idp-mOMAKWSdRL5EpzM8DW2-HXZoaqWKHaMdZINzIq0CU1I-gfemA0Nl-GkBNlWV0AVoDeMMXiQ4Rp8d_0=w1200-h900-p-k-no",
+    "logo": "https://heartmate.co.in/images/logo_heatmate.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQ8LH42dH_vA-aD8Q8QGU0kY6lco1IRGZc7B6prKi7WhJQ0k3to8idp-mOMAKWSdRL5EpzM8DW2-HXZoaqWKHaMdZINzIq0CU1I-gfemA0Nl-GkBNlWV0AVoDeMMXiQ4Rp8d_0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4777551,
+      "lng": 85.8394311,
+      "label": "HeartMate Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "heartmate-institute-campus-ii-cuttack",
+    "name": "HEARTMATE INSTITUTE CAMPUS II",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted heart hospital in Cuttack, HEARTMATE INSTITUTE CAMPUS II delivers integrated care across Heart Surgery In Cuttack and Cardiac Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PLOT NO- 1194/9, CDA Sector VI, Cuttack, Odisha 753014",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753014",
+    "locality": "CDA Sector VI",
+    "landmark": "Cuttack",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Cuttack",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=20.4777181%2C85.8394295&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=20.4777181%2C85.8394295&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4777181%2C85.8394295&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4777181%2C85.8394295&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4777181,
+      "lng": 85.8394295,
+      "label": "HEARTMATE INSTITUTE CAMPUS II",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hemaprava-multispeciality-hospital-cuttack",
+    "name": "Hemaprava Multispeciality Hospital.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose Hemaprava Multispeciality Hospital. for its strength in Gynecologist Surgery In Cuttack and Speciality Care. The facility stands out for Google rating 2.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "091240 05679",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ranihat Colony, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Ranihat Colony",
+    "landmark": "Odisha 753001",
+    "emergencyContact": "091240 05679",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_gfaHnw3Jc3vCGP08Mu_SnQQGmY_DNCI791pxV8qZGL1n51MJ6klYatU747oGIITXN3cVeL_Twz4U9oqKtAGPHR4LoJMr2bkZ1-4YO6443WHbdgK6IGykVsrpULY1gpLA-Nfy=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_gfaHnw3Jc3vCGP08Mu_SnQQGmY_DNCI791pxV8qZGL1n51MJ6klYatU747oGIITXN3cVeL_Twz4U9oqKtAGPHR4LoJMr2bkZ1-4YO6443WHbdgK6IGykVsrpULY1gpLA-Nfy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4625767,
+      "lng": 85.8905766,
+      "label": "Hemaprava Multispeciality Hospital.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hope-hospital-cuttack",
+    "name": "Hope Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose Hope Hospital for its strength in Orthopedic Surgery In Cuttack. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094396 31911",
+    "alternatePhone": "",
+    "website": "http://www.hopehospitalodisha.in/",
+    "address": "Mangalabag, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Mangalabag",
+    "landmark": "Odisha 753001",
+    "emergencyContact": "094396 31911",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkTfphSy8_k-mNyLqUfNW2QR4pHOzIVUdCaXl3U16Id0xtIkEFsRBRH_jV8U5NT8amMDK5qcYz4eEdpces5tQql9GCDK86PFqkUuhLuCMFoRjpQF7t7xWPl1OEff0xoivwljWbtg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkTfphSy8_k-mNyLqUfNW2QR4pHOzIVUdCaXl3U16Id0xtIkEFsRBRH_jV8U5NT8amMDK5qcYz4eEdpces5tQql9GCDK86PFqkUuhLuCMFoRjpQF7t7xWPl1OEff0xoivwljWbtg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4739218,
+      "lng": 85.8869959,
+      "label": "Hope Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "igkc-multispecialty-hospital-bhubaneswar",
+    "name": "IGKC Multispecialty Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhubaneswar, IGKC Multispecialty Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Cuttack and Speciality Care. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bhubaneswar.",
+    "email": "",
+    "phone": "0674 660 0000",
+    "alternatePhone": "",
+    "website": "http://www.igkchospitals.com/",
+    "address": "Plot No:- G1-43/1695, 7QF7+HMX, Ghatikia, KH-443, Ghatikia Main Rd, Kalinganagar, Bhubaneswar, Odisha 751029",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751029",
+    "locality": "Kalinganagar",
+    "landmark": "Ghatikia",
+    "emergencyContact": "0674 660 0000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFlg9v0_A2gNuolaOdBP2FqNuZKlSmVyuFuBNUyPOCgBRcOnyf6uXIu5qqCUremVFr4ieLSbM7mYS_PWwj66scaNokQ-7sEcXdsmb-GqaLF3tMmBzzUePYDzm4mh0jFoKpTfl7a=w1200-h900-p-k-no",
+    "logo": "http://www.igkchospitals.com/images/LOGO_igkc.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFlg9v0_A2gNuolaOdBP2FqNuZKlSmVyuFuBNUyPOCgBRcOnyf6uXIu5qqCUremVFr4ieLSbM7mYS_PWwj66scaNokQ-7sEcXdsmb-GqaLF3tMmBzzUePYDzm4mh0jFoKpTfl7a=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpMVfV8ExOcgcZsC94e8Nsrl35hD0eoaJFFIMEK9lBZRrBxc5I3NAbN_gv9E8vdK4OhwUZT4U2TcU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpMVfV8ExOcgcZsC94e8Nsrl35hD0eoaJFFIMEK9lBZRrBxc5I3NAbN_gv9E8vdK4OhwUZT4U2TcURXfIvva6GTT8wcd2yIzkrQh6NUFexP9a9F70-scCMZO6xg3lzZN_kog5y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFrsH9QKPrMQVTdLXucXpbG5RZhL-Bp56Ab6gG8O2FVx1ppkElVLtyFNevdD5N7LxOGUCLBwVoQHkkmwLAqCvEUAEsZuInN_Hw34W3-McPmiU9eIMxyeTxjxwsTluPHg3NSnoRurQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFz9Ea3NrbbVZ5o36C=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.2739911,
+      "lng": 85.7642268,
+      "label": "IGKC Multispecialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "institute-of-cardiovascular-science-cuttack",
+    "name": "Institute Of Cardiovascular Science",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose Institute Of Cardiovascular Science for its strength in Heart Surgery In Cuttack. The facility stands out for Google rating 2.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVCV+C78, Behera Colony, Professors Colony, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Professors Colony",
+    "landmark": "Professors Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIb72f9zgeDVw7t3LJxAI0t45SHPZXXh8M2Ik4yRpR_6s3YduXnOMxOnOT9ULhQnqdkJzbklTeldS0vJ3j4wsM2XRHn4jt0hwvz0jAFheYphjSw9XUVgxI5DG0Sl1tnxcZ33y2=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIb72f9zgeDVw7t3LJxAI0t45SHPZXXh8M2Ik4yRpR_6s3YduXnOMxOnOT9ULhQnqdkJzbklTeldS0vJ3j4wsM2XRHn4jt0hwvz0jAFheYphjSw9XUVgxI5DG0Sl1tnxcZ33y2=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.471046,
+      "lng": 85.893195,
+      "label": "Institute Of Cardiovascular Science",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "janani-medical-cuttack",
+    "name": "Janani Medical",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, Janani Medical offers coordinated hospital care with major focus on Gynecologist Surgery In Cuttack. Operational strengths including Google rating 3.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "099386 46771",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Professors Colony, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Professors Colony",
+    "landmark": "Odisha 753001",
+    "emergencyContact": "099386 46771",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFiv4OUbUZDLK-RWeRWKkwCudx2HzFm7GCXnhJ4i5pEw7thW7sztsKgWKlYw4oCnzzk-fY_3n-BeOUe5gRX31rvaTI2tXeZvzttp__T66QkUNEST91wWNVXdlotxP4LqYixAMVrKQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFiv4OUbUZDLK-RWeRWKkwCudx2HzFm7GCXnhJ4i5pEw7thW7sztsKgWKlYw4oCnzzk-fY_3n-BeOUe5gRX31rvaTI2tXeZvzttp__T66QkUNEST91wWNVXdlotxP4LqYixAMVrKQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4699021,
+      "lng": 85.8901622,
+      "label": "Janani Medical",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jansevak-medicare-hospital-cuttack",
+    "name": "JANSEVAK MEDICARE HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, JANSEVAK MEDICARE HOSPITAL offers coordinated hospital care with major focus on Gynecologist Surgery In Cuttack. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "082493 23402",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near HDFC Bank, Manguli Chowk, Cuttack, Badachanchoo, Odisha 754025",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "754025",
+    "locality": "Manguli Chowk",
+    "landmark": "Cuttack",
+    "emergencyContact": "082493 23402",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8DT2PFQ_q2KjtqajwxGPKQ8ka2qO8S4RIkkeN3S8-itGnSlZErtMhO2caL2Ynwe4tuG4RLT_Et537u4Lb7Ds46_kOVJ0KMwIMm0JaXr-SrbYm4ettTbjo7FeMmu9iQwXXiyVGwF6phxwm=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8DT2PFQ_q2KjtqajwxGPKQ8ka2qO8S4RIkkeN3S8-itGnSlZErtMhO2caL2Ynwe4tuG4RLT_Et537u4Lb7Ds46_kOVJ0KMwIMm0JaXr-SrbYm4ettTbjo7FeMmu9iQwXXiyVGwF6phxwm=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.5290125,
+      "lng": 85.9472626,
+      "label": "JANSEVAK MEDICARE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jeevan-jyoti-hospital-cuttack",
+    "name": "Jeevan Jyoti Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jeevan Jyoti Hospital is a prominent hospital in Cuttack, known for structured tertiary care across Orthopedic Surgery In Cuttack. Hospital capacity markers such as Google rating 3.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "082605 31151",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FV9R+59X, Nuapatna Rd, Near Durga Mandap, Ranihat, Ranihat Colony, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Ranihat Colony",
+    "landmark": "Near Durga Mandap, Ranihat, Ranihat Colony, Cuttack, Odisha 753001",
+    "emergencyContact": "082605 31151",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDZVLmXDlMKeNB1N5YfBnb3VTsMW45ZJmLmtLX3buaE_WoQfJnTL2XMCsi0ILXZHNTJwG7Q53mjCOXMba7d4GdMXoYLV5nxsmDx2347GCb9e9qUe_iq6Cwf9VJzvnNwrGIC53Ubg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDZVLmXDlMKeNB1N5YfBnb3VTsMW45ZJmLmtLX3buaE_WoQfJnTL2XMCsi0ILXZHNTJwG7Q53mjCOXMba7d4GdMXoYLV5nxsmDx2347GCb9e9qUe_iq6Cwf9VJzvnNwrGIC53Ubg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4679832,
+      "lng": 85.8909979,
+      "label": "Jeevan Jyoti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jj-hospital-cuttack",
+    "name": "JJ Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Cuttack, JJ Hospital delivers integrated care across Oncologist Surgery In Cuttack. With public-facing highlights like Google rating 3.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "0671 230 5333",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVGQ+G25, Pramila Bhawan Kathagola, Phandi Road, Mangalabag, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Mangalabag",
+    "landmark": "Phandi Road",
+    "emergencyContact": "0671 230 5333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEWPFEPJ6nWqVOIewwT5n2SiV0hOdkEsT85v2SIF-HlL3V_wpjwtc6qaiyoChmwwvdrsuRc_7q_WBsb_CjhluZacOrLCjWMjIASnT7yiFyJiBYKmfh7F3cUN647LK4opb4wygyl9A=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEWPFEPJ6nWqVOIewwT5n2SiV0hOdkEsT85v2SIF-HlL3V_wpjwtc6qaiyoChmwwvdrsuRc_7q_WBsb_CjhluZacOrLCjWMjIASnT7yiFyJiBYKmfh7F3cUN647LK4opb4wygyl9A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4762552,
+      "lng": 85.8876159,
+      "label": "JJ Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kalinga-clinic-cuttack",
+    "name": "Kalinga clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Cuttack, Kalinga clinic brings together specialists for Oncologist Surgery In Cuttack. Hospital capacity markers such as Google rating 3.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078734 01111",
+    "alternatePhone": "",
+    "website": "https://www.kalingaclinic.com/",
+    "address": "FV9R+R7M, SCB Medical Rd, Ranihat, Professors Colony, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Professors Colony",
+    "landmark": "Ranihat",
+    "emergencyContact": "078734 01111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_q1SayxZcKzKtHqnIzS53se-S-lmCB46E9xbWeQK4iA9178SLQo7ZEsVwiKRO3wv1q7AhpFl1EX8Mo0hTqWpVtdc8hAWyby9Z0Mriu1LP2b7sjMX0B1284w7vTAj2xKkhOkAI=w1200-h900-p-k-no",
+    "logo": "https://www.kalingaclinic.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_q1SayxZcKzKtHqnIzS53se-S-lmCB46E9xbWeQK4iA9178SLQo7ZEsVwiKRO3wv1q7AhpFl1EX8Mo0hTqWpVtdc8hAWyby9Z0Mriu1LP2b7sjMX0B1284w7vTAj2xKkhOkAI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwDo4nsL37dJbAo4Y_mv80XJ4Wi_IGBoZRjFbnjBydS-k6H45xljWnz6GqNwltDNKhf7GuiE-xGpcvNEk5jszjVIgQfmNwGUVQ00NmIY3vKmhcrf3aQI0_ZEWD3N3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwDo4nsL37dJbAo4Y_mv80XJ4Wi_IGBoZRjFbnjBydS-k6H45xljWnz6GqNwltDNKhf7GuiE-xGpcvNEk5jszjVIgQfmNwGUVQ00NmIY3vKmhcrf3aQI0_ZEWD3N3rEFN_E3qnrA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0c16Uk6XehGKAX4CJeTbG4sCCjivLt4HULhz-NcmJIxoF8gJNxng5gMCda3QgcLXJUCXhZGUyI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0c16Uk6XehGKAX4CJeTbG4sCCjivLt4HULhz-NcmJIxoF8gJNxng5gMCda3QgcLXJUCXhZGUyIfp-Ikqt34Tq-JbG1SwAM-toaTByW03wQ86eIdisgCm3GZaacImxfPiEIJ2A4w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.469585,
+      "lng": 85.890674,
+      "label": "Kalinga clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kathagola-cuttack",
+    "name": "Kathagola",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose Kathagola for its strength in Neurosurgeon In Cuttack. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVGP+98C, Kathagola Rd, Professors Colony, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Professors Colony",
+    "landmark": "Professors Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHNtGJSAZ2fGmlvbvg9JBA7SSjILvRGjwZiCUbFn0R96J0QJ7ZhhQ47YQGfKhD_ck5Vc6r-RrzRxOQjF__0gXOX2uE9k_45ALiBZyHgkG__w97O0F8Z45BcosXbPdEDf-SNL6YCEQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHNtGJSAZ2fGmlvbvg9JBA7SSjILvRGjwZiCUbFn0R96J0QJ7ZhhQ47YQGfKhD_ck5Vc6r-RrzRxOQjF__0gXOX2uE9k_45ALiBZyHgkG__w97O0F8Z45BcosXbPdEDf-SNL6YCEQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4759316,
+      "lng": 85.8857571,
+      "label": "Kathagola",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "life-institute-of-gastroenterology-and-gynecology-best-24-7-surgical-hospital-cuttack-odisha-cuttack",
+    "name": "Life Institute of Gastroenterology and Gynecology | Best 24/7 Surgical Hospital | Cuttack, Odisha",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Life Institute of Gastroenterology and Gynecology | Best 24/7 Surgical Hospital | Cuttack, Odisha has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Liver Transplant Surgery In Cuttack and Gastroenterology. The facility stands out for Google rating 4.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "093383 12205",
+    "alternatePhone": "",
+    "website": "https://ligg.co.in/",
+    "address": "Potapokhari, Block Chhaka, Naya Bazaar, Cuttack, Odisha 753004",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753004",
+    "locality": "Naya Bazaar",
+    "landmark": "Naya Bazaar",
+    "emergencyContact": "093383 12205",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkdjQBNMU3-pd3vLPVjzGT3DZikPvMYXyBef7sTKd6S98xeBoc_BujQ3bmdqnyljsUbO_QM8j_u7gdGV-RO3MBjfoAeBW235QbEH3MBJ8ZJ1TGQWW_dclpyH8W1kj8tBME_Lhx=w1200-h900-p-k-no",
+    "logo": "https://ligg.co.in/wp-content/uploads/sites/35/2024/07/final_LIGG_LOGO-.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkdjQBNMU3-pd3vLPVjzGT3DZikPvMYXyBef7sTKd6S98xeBoc_BujQ3bmdqnyljsUbO_QM8j_u7gdGV-RO3MBjfoAeBW235QbEH3MBJ8ZJ1TGQWW_dclpyH8W1kj8tBME_Lhx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNhfVI7Jk7rYM2-aCYHcfLTw01sr_lj5bbCK_0p=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPrhzWs4suoOBi0eAv4wagCYZs14omqc4OSOIu-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMFi86wz6DC9_CrS0zMCfAPnpGqsf70k-q_hhtr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPBnhkNOBy0CTnOgwaA20auPvsuo9h0li5iPiY6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4557107,
+      "lng": 85.9180207,
+      "label": "Life Institute of Gastroenterology and Gynecology | Best 24/7 Surgical Hospital | Cuttack, Odisha",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "m-m-medicare-opposite-samrat-cinema-hall",
+    "name": "M.M.Medicare",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in opposite Samrat Cinema Hall, M.M.Medicare brings together specialists for Gynecologist Surgery In Cuttack. Hospital capacity markers such as Google rating 3.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in opposite Samrat Cinema Hall can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094375 77611",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FW22+5VJ, Rajendra Nagar, opposite Samrat Cinema Hall, Odisha 753010",
+    "city": "opposite Samrat Cinema Hall",
+    "state": "Odisha",
+    "pincode": "753010",
+    "locality": "Rajendra Nagar",
+    "landmark": "opposite Samrat Cinema Hall, Odisha 753010",
+    "emergencyContact": "094375 77611",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzP0deQmftrx5QYC2sYgqLr3uephRpZeE27UK37oeRcOOdJ4tPIj4jpncG4JEV9lCxR7T7EX5tOHDotBjgisHS546D7-rh7gLg2GuHc4jPy2VLzpY0c9I7D7VRfnhl_UZCB5Q6sQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzP0deQmftrx5QYC2sYgqLr3uephRpZeE27UK37oeRcOOdJ4tPIj4jpncG4JEV9lCxR7T7EX5tOHDotBjgisHS546D7-rh7gLg2GuHc4jPy2VLzpY0c9I7D7VRfnhl_UZCB5Q6sQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFaa5vnApYLecKtrup40i1fVF2NhEZFCRn9OdQz86hWtrvFSfKzNfWzkcezgH2BGfvMJIs4SaNsKBh0B2AUXszaMzaV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFaa5vnApYLecKtrup40i1fVF2NhEZFCRn9OdQz86hWtrvFSfKzNfWzkcezgH2BGfvMJIs4SaNsKBh0B2AUXszaMzaVw-o1WmY-PqaC4KzF7Vl2lSAsx75aEEmzkpyzmRieWlnIhW3Q6O0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4504536,
+      "lng": 85.9021522,
+      "label": "M.M.Medicare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mahapatra-hospital-pvt-ltd-cuttack",
+    "name": "Mahapatra Hospital Pvt. Ltd.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mahapatra Hospital Pvt. Ltd. has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Urologist Surgery In Cuttack. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079784 83303",
+    "alternatePhone": "",
+    "website": "https://www.mahapatrahospital.com/",
+    "address": "Bajrakabati Canal Rd, Samanta Sahi, Siba Bazar, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Siba Bazar",
+    "landmark": "Siba Bazar",
+    "emergencyContact": "079784 83303",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsTkK3WLSxVFKHPu_S-5pLW2TfUMBIbXNibyCukH18PeA7NTzzSpliCWGdlSyInJEOqXo-Hfm4uFyDE4UHLw65bRhXmFmacxHFRYwNaE4qIy2OMBNvr6BGbNyCjQfGSMmqKSdS=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsTkK3WLSxVFKHPu_S-5pLW2TfUMBIbXNibyCukH18PeA7NTzzSpliCWGdlSyInJEOqXo-Hfm4uFyDE4UHLw65bRhXmFmacxHFRYwNaE4qIy2OMBNvr6BGbNyCjQfGSMmqKSdS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERkLHwZj_Cfaa4Gg0HrmYyoo-cVrdgi8szILWS5MPKik0Xf2AZaN-ueH3158fa4hnTBlIdvuAfS1i4iVEbECiWwJ4anJ828dZ7NWG3QJsNtuUYVTBg42DZntK3NGXp6zmWreD0sA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4670078,
+      "lng": 85.8827611,
+      "label": "Mahapatra Hospital Pvt. Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "men-surgical-ward-cuttack",
+    "name": "Men Surgical Ward",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Men Surgical Ward has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Liver Transplant Surgery In Cuttack. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FW6C+76J, Naya Bazaar, Cuttack, Odisha 753004",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753004",
+    "locality": "Naya Bazaar",
+    "landmark": "Cuttack",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=20.4607122%2C85.920519&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=20.4607122%2C85.920519&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4607122%2C85.920519&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4607122%2C85.920519&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4607122,
+      "lng": 85.920519,
+      "label": "Men Surgical Ward",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "moon-hospital-cuttack",
+    "name": "Moon Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Cuttack, Moon Hospital delivers integrated care across Orthopedic Surgery In Cuttack. With public-facing highlights like Google rating 3.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "094385 09897",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FW68+G3H, 1075, Mahanadi Vihar - Nayabazar Rd, Mahanadi Vihar, Cuttack, Odisha 753004",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753004",
+    "locality": "Mahanadi Vihar",
+    "landmark": "Mahanadi Vihar - Nayabazar Rd",
+    "emergencyContact": "094385 09897",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZ_MlIqQEEEfCFQuJTER9iRWjyJlGklUG0fxY53Ayn-ODhJ1zInfCMLVMDyhSTHa460TjzdhbsYa74NOF9KeLsvW1Gp5kL_qZHboIxO8_ElUC7ZVnuEJeiZHtIsEEOP8PW4RcF0g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZ_MlIqQEEEfCFQuJTER9iRWjyJlGklUG0fxY53Ayn-ODhJ1zInfCMLVMDyhSTHa460TjzdhbsYa74NOF9KeLsvW1Gp5kL_qZHboIxO8_ElUC7ZVnuEJeiZHtIsEEOP8PW4RcF0g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGMb622g2y2A1EF-EZrYZLtmGfYTvb_SIsAwBVG32CuR76uITYANGvcLsGA9vSWV0xOV3apcaFjlZzQrRcQAWkSdukx9634TPbXtbczpWYSr_qYhyEWeu8NhHF7Uci9KURABZ5Ypg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4641611,
+      "lng": 85.9107321,
+      "label": "Moon Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "new-health-point-hospital-cuttack",
+    "name": "NEW HEALTH POINT HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose NEW HEALTH POINT HOSPITAL for its strength in Heart Surgery In Cuttack. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1483/B, Road, 6, MLP Rd, CDA Sector VI, Cuttack, Odisha 753014",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753014",
+    "locality": "CDA Sector VI",
+    "landmark": "6",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEngAcCRhIfrAC-ZbB3lnRkj3e-YFvh4jV0eds0vsoafDNM6whV5TL39p1rb-9hR-IjK2amMb-qanGVpI-DcaxX5iJsDt7SPDSpFGVPHXnWiXJHl8fvtZ6tDR3oFowd8173lHmc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEngAcCRhIfrAC-ZbB3lnRkj3e-YFvh4jV0eds0vsoafDNM6whV5TL39p1rb-9hR-IjK2amMb-qanGVpI-DcaxX5iJsDt7SPDSpFGVPHXnWiXJHl8fvtZ6tDR3oFowd8173lHmc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4778385,
+      "lng": 85.8381332,
+      "label": "NEW HEALTH POINT HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "newborn-and-pediatric-health-centre-cuttack",
+    "name": "Newborn & Pediatric Health Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, Newborn & Pediatric Health Centre offers coordinated hospital care with major focus on Liver Transplant Surgery In Cuttack. Hospital capacity markers such as Google rating 3.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "070082 35512",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot No D/54, CDA Sector 7, Cuttack, Odisha 753014",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753014",
+    "locality": "CDA Sector 7",
+    "landmark": "Cuttack",
+    "emergencyContact": "070082 35512",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlJgrISm4Wfe5H6sAsDR29JxDHZd3lvvWVjfTs26QPkGVyoppWn_nVKsIlSjaIfOyp9HiJIyvrBh2G9jPnWXPUvRdIVJw38SugferPoioFNa5IJR5gpu0EFppm7c4HYruOti1-1Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlJgrISm4Wfe5H6sAsDR29JxDHZd3lvvWVjfTs26QPkGVyoppWn_nVKsIlSjaIfOyp9HiJIyvrBh2G9jPnWXPUvRdIVJw38SugferPoioFNa5IJR5gpu0EFppm7c4HYruOti1-1Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4742569,
+      "lng": 85.8401204,
+      "label": "Newborn & Pediatric Health Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nigam-hospital-cuttack",
+    "name": "Nigam Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose Nigam Hospital for its strength in Orthopedic Surgery In Cuttack. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093384 66377",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bajrakabati Canal Rd, Samanta Sahi, Siba Bazar, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Siba Bazar",
+    "landmark": "Siba Bazar",
+    "emergencyContact": "093384 66377",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5sPqDJlBKgYkSl_7fDzwAFdsOvPyRTbsSreSq7sHyLxNPDqy6z_fYR42-0BzY2kYhe1cO1PNMxVw09doYw_8ydYwPBRD4gZZbBQoNIelEDeDaJDigSEbxfm9GWIZJWkdwlydHZw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5sPqDJlBKgYkSl_7fDzwAFdsOvPyRTbsSreSq7sHyLxNPDqy6z_fYR42-0BzY2kYhe1cO1PNMxVw09doYw_8ydYwPBRD4gZZbBQoNIelEDeDaJDigSEbxfm9GWIZJWkdwlydHZw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECaDjiZKipfhcZxqotNdCpVHUFQMGkpt9T8M9HXo9zJ3lIvNK9GxP0KuMTeoyd7casTnYqg3QzWCmMXZ5qoirYxSRoPQGMY8hwATr2pPWtUcX1igKr-8jMm_IZlX8Ra9h6ExQaWQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4661508,
+      "lng": 85.8842991,
+      "label": "Nigam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nk-agarwal-clinic-and-hospital-cuttack",
+    "name": "NK Agarwal Clinic & Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, NK Agarwal Clinic & Hospital offers coordinated hospital care with major focus on Spine Surgery In Cuttack. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "087637 13762",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ward No, 23, SCB Medical Rd, Ranihat Colony, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Ranihat Colony",
+    "landmark": "SCB Medical Rd",
+    "emergencyContact": "087637 13762",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-2sonpuDg-Rit0DF88IcsedlgEv9n41_L3CBq1Ymbj2LUJqqEVkp4oMSMfW-at-RZPcxK-6xxV4P4idYRa-N2G8pfu_MHR4l1T5fo93axePcd0uEKRC7IvtN1MXupFE_OcyULXg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-2sonpuDg-Rit0DF88IcsedlgEv9n41_L3CBq1Ymbj2LUJqqEVkp4oMSMfW-at-RZPcxK-6xxV4P4idYRa-N2G8pfu_MHR4l1T5fo93axePcd0uEKRC7IvtN1MXupFE_OcyULXg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.470301,
+      "lng": 85.8900649,
+      "label": "NK Agarwal Clinic & Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "odisha-ent-and-head-and-neck-cancer-care-cuttack",
+    "name": "ODISHA ENT AND HEAD AND NECK CANCER CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ODISHA ENT AND HEAD AND NECK CANCER CARE has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Cancer Surgery In Cuttack. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "075409 48148",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Manguli Chowk, Cuttack, Odisha 754025",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "754025",
+    "locality": "Manguli Chowk",
+    "landmark": "Odisha 754025",
+    "emergencyContact": "075409 48148",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnbypTSgzkcgF8EfX0DL7DDOAIo9c_U3-aqQD5e-2k9Hx0eq_Xlxj-iTMrs2Fnpj9VuEnaqU674pyycSu3ksuS4cACodd0y3Q9yh-ef6kGhzIOVXIkVyzOhnvAUB1r0qFx9r1M=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnbypTSgzkcgF8EfX0DL7DDOAIo9c_U3-aqQD5e-2k9Hx0eq_Xlxj-iTMrs2Fnpj9VuEnaqU674pyycSu3ksuS4cACodd0y3Q9yh-ef6kGhzIOVXIkVyzOhnvAUB1r0qFx9r1M=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.5287051,
+      "lng": 85.9473882,
+      "label": "ODISHA ENT AND HEAD AND NECK CANCER CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "om-saikrupa-hospital-cuttack",
+    "name": "Om Saikrupa Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Om Saikrupa Hospital has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Gynecologist Surgery In Cuttack. The facility stands out for Google rating 3.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "094371 68666",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B/1518, CDA Sector VI, Cuttack, Odisha 753014",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753014",
+    "locality": "CDA Sector VI",
+    "landmark": "Cuttack",
+    "emergencyContact": "094371 68666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQCOFv2wJv5-Waaym5tqDL-WPuPzouehjl7kvuGs5O3BdBU6u6q43Bb3KKKjV9jW5BT9g-SzeDgTdrxGbfDGIMWgDdW6e3h8kHOM4N43VtUmnz3G1jpafddllhvDY7yNPswDw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQCOFv2wJv5-Waaym5tqDL-WPuPzouehjl7kvuGs5O3BdBU6u6q43Bb3KKKjV9jW5BT9g-SzeDgTdrxGbfDGIMWgDdW6e3h8kHOM4N43VtUmnz3G1jpafddllhvDY7yNPswDw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4785673,
+      "lng": 85.8360925,
+      "label": "Om Saikrupa Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "om-suvam-hospital-cuttack",
+    "name": "Om Suvam Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, Om Suvam Hospital offers coordinated hospital care with major focus on Spine Surgery In Cuttack. Operational strengths including Google rating 3.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "094374 95364",
+    "alternatePhone": "",
+    "website": "http://www.omsuvamhospital.com/",
+    "address": "FV9V+94R, LIC Colony, Cuttack, Odisha 753003",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753003",
+    "locality": "LIC Colony",
+    "landmark": "Cuttack",
+    "emergencyContact": "094374 95364",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3M2lHX0z_BqNv4FSbdip8HLWmVjVzGXMy3WW1Su75EIcHCZvLDTkt1bHNFJr6suKH15FdOpYgHhGXbzUvX7VHPsd0JUtpbM-K0qiw8rJuiphQ5-VooQnPTO_zLryYsPz6ui6X2A=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3M2lHX0z_BqNv4FSbdip8HLWmVjVzGXMy3WW1Su75EIcHCZvLDTkt1bHNFJr6suKH15FdOpYgHhGXbzUvX7VHPsd0JUtpbM-K0qiw8rJuiphQ5-VooQnPTO_zLryYsPz6ui6X2A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4684933,
+      "lng": 85.8927789,
+      "label": "Om Suvam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "omm-multyspecility-hospital-cuttack",
+    "name": "OMM MULTYSPECILITY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose OMM MULTYSPECILITY HOSPITAL for its strength in Oncologist Surgery In Cuttack. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "070088 76286",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mahanadi Vihar, Cuttack, Odisha 753004",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753004",
+    "locality": "Mahanadi Vihar",
+    "landmark": "Odisha 753004",
+    "emergencyContact": "070088 76286",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEKDqwdWRxmzKCBjWXm3vM58NysuHO6b-lA9bg-Q8q2Do66nVGYdDOOOHksuZMnEZAPfYMH3q2KVvhSRWK9S12NgvJSW47skhtUQGZqPjTRRv-rOe-u3ZVbnGr5MXJ4oqDE8M0ht5x6IrfI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEKDqwdWRxmzKCBjWXm3vM58NysuHO6b-lA9bg-Q8q2Do66nVGYdDOOOHksuZMnEZAPfYMH3q2KVvhSRWK9S12NgvJSW47skhtUQGZqPjTRRv-rOe-u3ZVbnGr5MXJ4oqDE8M0ht5x6IrfI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4619783,
+      "lng": 85.912527,
+      "label": "OMM MULTYSPECILITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "poly-hospital-cuttack",
+    "name": "POLY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "POLY HOSPITAL is a prominent hospital in Cuttack, known for structured tertiary care across Spine Surgery In Cuttack. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "063710 60689",
+    "alternatePhone": "",
+    "website": "http://polyhospital.in/",
+    "address": "Chowk, Deulasahi Rd, Kafla Colony, Tulsipur, Cuttack, Odisha 753008",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753008",
+    "locality": "Tulsipur",
+    "landmark": "Kafla Colony",
+    "emergencyContact": "063710 60689",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtldE2Dil5iGBP1CDRswAWfFKz-_h11lV4ADS24cyKeCp0hbJ24yHS36n-x7kULZboyRgafXYXTQgUEezgRd8WvMFj6r_lFIXwEGeT95mG8Cc96Ld5BiXEuGrCs6hH2YXJ9ipyFQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtldE2Dil5iGBP1CDRswAWfFKz-_h11lV4ADS24cyKeCp0hbJ24yHS36n-x7kULZboyRgafXYXTQgUEezgRd8WvMFj6r_lFIXwEGeT95mG8Cc96Ld5BiXEuGrCs6hH2YXJ9ipyFQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOak7JFzpWGT0EJ8vhGAyMIFifaxnQUKRYKeKNq=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4846206,
+      "lng": 85.8479914,
+      "label": "POLY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "prachee-hospital-cuttack",
+    "name": "Prachee Hospital",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose Prachee Hospital for its strength in Gynecologist Surgery In Cuttack and Women and Child Care. The facility stands out for Google rating 3.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FRGJ+PH2, behind Jugal Kishore Park, CDA Sector 8, Cuttack, Odisha 753014",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753014",
+    "locality": "CDA Sector 8",
+    "landmark": "CDA Sector 8",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwG1RCfCFd04ekmsOZN57x3UfyFpcyz-XfiuGJ9q1tla70XsS9eJ-ncCgLsd8oYmJDCLngO6C92JyH4PUYUqgyZyFAcMtKuIoyG3YSNzATLo3Zf4LkPwZcoP2PbSRw-Bv6iOa9bXdGuAR3=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwG1RCfCFd04ekmsOZN57x3UfyFpcyz-XfiuGJ9q1tla70XsS9eJ-ncCgLsd8oYmJDCLngO6C92JyH4PUYUqgyZyFAcMtKuIoyG3YSNzATLo3Zf4LkPwZcoP2PbSRw-Bv6iOa9bXdGuAR3=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.47676,
+      "lng": 85.831397,
+      "label": "Prachee Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "prime-multispeciality-hospital-cuttack",
+    "name": "Prime multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Prime multispeciality Hospital is a prominent hospital in Cuttack, known for structured tertiary care across Kidney Transplant Surgery In Cuttack and Speciality Care. Hospital capacity markers such as Google rating 3.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "084569 36450",
+    "alternatePhone": "",
+    "website": "https://www.primehospitalctc.com/",
+    "address": "BSNL OFFICE, Link Rd, Surya Vihar, Cuttack, Odisha 753012",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753012",
+    "locality": "Surya Vihar",
+    "landmark": "Surya Vihar",
+    "emergencyContact": "084569 36450",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Cuttack",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEV3NiENw-lBHoo3mGdGmRcGuFDU6wgaOEvN40AJL2gs32f1hBWuu9gJp2LM1jsqO_Ay3ymAFCxZoZiv7IdvSJIGMBNWX5jS1titoZjMdIXQkRzc_oJzfHmHtuNaIpvphoybPhLHg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEV3NiENw-lBHoo3mGdGmRcGuFDU6wgaOEvN40AJL2gs32f1hBWuu9gJp2LM1jsqO_Ay3ymAFCxZoZiv7IdvSJIGMBNWX5jS1titoZjMdIXQkRzc_oJzfHmHtuNaIpvphoybPhLHg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4487855,
+      "lng": 85.8944013,
+      "label": "Prime multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "raj-clinic-and-hospital-cuttack",
+    "name": "RAJ CLINIC AND HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Cuttack, RAJ CLINIC AND HOSPITAL brings together specialists for Oncologist Surgery In Cuttack. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "0671 244 1432",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CHAULIAGANZ, Cuttack - Paradeep Rd, Survey & Agriculture Settlement Colony, Naya Bazaar, Cuttack, Odisha 753004",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753004",
+    "locality": "Naya Bazaar",
+    "landmark": "Survey & Agriculture Settlement Colony",
+    "emergencyContact": "0671 244 1432",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnreZJnyipeYxkFHyXB8HtOSaiunbuF7BOmRi6w8fiI7AqnbYV75qDamKGetYoLgYFI7CJLlnry4Dfw_m0sqRyEMMWoTNla-SF4F35To5SxNcOnriLnV82fb66D7kEpofreeGw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnreZJnyipeYxkFHyXB8HtOSaiunbuF7BOmRi6w8fiI7AqnbYV75qDamKGetYoLgYFI7CJLlnry4Dfw_m0sqRyEMMWoTNla-SF4F35To5SxNcOnriLnV82fb66D7kEpofreeGw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4549747,
+      "lng": 85.9110975,
+      "label": "RAJ CLINIC AND HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "regional-spinal-injury-centre-cuttack",
+    "name": "Regional Spinal Injury Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Cuttack, Regional Spinal Injury Centre brings together specialists for Spine Surgery In Cuttack. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVFV+F33, Behera Colony, Professors Colony, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Professors Colony",
+    "landmark": "Professors Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuLIgxZDJsq-4BObSWPhyzDAhJGTk-UPNpYDcnEda7HxO7_qhbnVb6-uaVBQRrgpCF9uVQ-rQfgEmKryBduAUt9yADD9-ebbeFIiTiNXE5zUPKAyQYuLOpuVd0fK7nd3SmK70=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuLIgxZDJsq-4BObSWPhyzDAhJGTk-UPNpYDcnEda7HxO7_qhbnVb6-uaVBQRrgpCF9uVQ-rQfgEmKryBduAUt9yADD9-ebbeFIiTiNXE5zUPKAyQYuLOpuVd0fK7nd3SmK70=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.473631,
+      "lng": 85.8926755,
+      "label": "Regional Spinal Injury Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "relax-hospitals-cuttack",
+    "name": "Relax Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, Relax Hospitals offers coordinated hospital care with major focus on Orthopedic Surgery In Cuttack. Operational strengths including Google rating 3.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "090402 05111",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Emporium Ln, Ranihat, Professors Colony, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Professors Colony",
+    "landmark": "Professors Colony",
+    "emergencyContact": "090402 05111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwKMQA6fYdzcpI2YMaRfov03cId3i33UD50X8Pdz6brv7HQqcUTAwkq98Tq36s0BswW77x73E-ImxFafb2ru3OXLOsMSPQBy0lN4kOsNshDWlMg0Voy8QHkFOlMqy4prjlAbg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwKMQA6fYdzcpI2YMaRfov03cId3i33UD50X8Pdz6brv7HQqcUTAwkq98Tq36s0BswW77x73E-ImxFafb2ru3OXLOsMSPQBy0lN4kOsNshDWlMg0Voy8QHkFOlMqy4prjlAbg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4704892,
+      "lng": 85.8887579,
+      "label": "Relax Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rims-hospital-cuttack",
+    "name": "RIMS HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RIMS HOSPITAL has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Oncologist Surgery In Cuttack. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FV8M+9R5, Bajrakabati Canal Rd, Samanta Sahi, Siba Bazar, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Siba Bazar",
+    "landmark": "Samanta Sahi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhceYa5iEQXDxi1UMVhjYtCQ0t0PJdDlkvNS2nn4a8pq-gFv-tQjsKU8eJRC-P6mFOjMKQRZaoVa4f5PZs-w78oD2yrbM0jgzLGJaHlIQJFMle99QTmNZt7Aje_bK89GhbVjzP8Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhceYa5iEQXDxi1UMVhjYtCQ0t0PJdDlkvNS2nn4a8pq-gFv-tQjsKU8eJRC-P6mFOjMKQRZaoVa4f5PZs-w78oD2yrbM0jgzLGJaHlIQJFMle99QTmNZt7Aje_bK89GhbVjzP8Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4658795,
+      "lng": 85.884608,
+      "label": "RIMS HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "riverine-hospital-cuttack",
+    "name": "Riverine Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Cuttack, Riverine Hospital brings together specialists for Cancer Surgery In Cuttack. Operational strengths including Google rating 3.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0671 230 9200",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CDA, A/697, Cuttack - Athgarh Rd, CDA Sector 8, Cuttack, Odisha 753014",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753014",
+    "locality": "CDA Sector 8",
+    "landmark": "Cuttack - Athgarh Rd",
+    "emergencyContact": "0671 230 9200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxmCYYhF_AhELndNDB0rm2THtepn4AYa0QbrKvi5ws_knkiOS7LQO8UAM9WEmdbMA4FkQKCI-0MFXK0D82iSHB8pb_bb-_zUptLfVRSUvqMuGaxSU-f5GIiPGIvcxIZKu6g4M=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxmCYYhF_AhELndNDB0rm2THtepn4AYa0QbrKvi5ws_knkiOS7LQO8UAM9WEmdbMA4FkQKCI-0MFXK0D82iSHB8pb_bb-_zUptLfVRSUvqMuGaxSU-f5GIiPGIvcxIZKu6g4M=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4743255,
+      "lng": 85.8293769,
+      "label": "Riverine Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "royal-hospital-and-research-cuttack",
+    "name": "ROYAL HOSPITAL AND RESEARCH",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ROYAL HOSPITAL AND RESEARCH has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Oncologist Surgery In Cuttack. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "070085 46656",
+    "alternatePhone": "",
+    "website": "https://www.royalhospitalctc.com/",
+    "address": "Plot Number 1245, FV8F+VM3, Peyton Sahi Rd, Dargah Bazaar, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Dargah Bazaar",
+    "landmark": "Peyton Sahi Rd",
+    "emergencyContact": "070085 46656",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHaNkVP2xwAWQ-3ExVqE9cMmvD4kpKsnum7pD5aYWXoenoTCcjspfG7CQzRyBQMBRoLHswL9__NeaujOuqnea5gukF_3EySqMrBUXAPmD1KyY0dFzsHNKosi_nR-aYbdnIMR6vdQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHaNkVP2xwAWQ-3ExVqE9cMmvD4kpKsnum7pD5aYWXoenoTCcjspfG7CQzRyBQMBRoLHswL9__NeaujOuqnea5gukF_3EySqMrBUXAPmD1KyY0dFzsHNKosi_nR-aYbdnIMR6vdQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4674239,
+      "lng": 85.8739515,
+      "label": "ROYAL HOSPITAL AND RESEARCH",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rudra-hospital-best-multispeciality-hospital-in-cuttack-urali",
+    "name": "Rudra Hospital - Best Multispeciality Hospital in Cuttack",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Urali often choose Rudra Hospital - Best Multispeciality Hospital in Cuttack for its strength in Orthopedic Surgery In Cuttack and Speciality Care. Operational strengths including Google rating 2.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Urali can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073810 29178",
+    "alternatePhone": "",
+    "website": "https://www.rudrahospital.com/",
+    "address": "NH 16, Bhanpur, Gopalpur, Urali, Odisha 753011",
+    "city": "Urali",
+    "state": "Odisha",
+    "pincode": "753011",
+    "locality": "Gopalpur",
+    "landmark": "Gopalpur",
+    "emergencyContact": "073810 29178",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-EXc7umvIVmFd25lkuwC2xMQ9eDZuo7srWANQefRrz5v1rCdk5aXT7IS4vfsS8Rmh_6SobZPAMpp6psC-0eamyv7jGhESD3JOyOpjLyAHD8GocWBszJuXaPgFtuD75PJDAZnT5A=w1200-h900-p-k-no",
+    "logo": "https://www.rudrahospital.com/wp-content/themes/expose-business/assets/images/header-img1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-EXc7umvIVmFd25lkuwC2xMQ9eDZuo7srWANQefRrz5v1rCdk5aXT7IS4vfsS8Rmh_6SobZPAMpp6psC-0eamyv7jGhESD3JOyOpjLyAHD8GocWBszJuXaPgFtuD75PJDAZnT5A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4145268,
+      "lng": 85.8798222,
+      "label": "Rudra Hospital - Best Multispeciality Hospital in Cuttack",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "s-s-hospital-cuttack",
+    "name": "S S HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Cuttack, S S HOSPITAL delivers integrated care across Orthopedic Surgery In Cuttack. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "094373 15045",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kathagola Rd, Mangalabag, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Mangalabag",
+    "landmark": "Cuttack",
+    "emergencyContact": "094373 15045",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1mtuMTLg3enwDYU47SuD7o6AVs6HaGdtwmj2BLoK1Sscgw9GYOr5_w6ic2UMDlPL9kRxHXMkeNn6H0N20zBwD37Hrd52Jw03TGy57hbDkPMb3jxRlL1TeyktU_51qyfwiSkVvXA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1mtuMTLg3enwDYU47SuD7o6AVs6HaGdtwmj2BLoK1Sscgw9GYOr5_w6ic2UMDlPL9kRxHXMkeNn6H0N20zBwD37Hrd52Jw03TGy57hbDkPMb3jxRlL1TeyktU_51qyfwiSkVvXA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8ivjiELra3Bp3fGAmKDI-m-d4P_pkPEC4pehUQwjhR8Vs-nkvozRzcmGr18sMwEgY_J4ITNY18sQmhViDwnMXXngwEWmB0mExOYapuEzbXP15nfzNekkBm4u2X8aZfXQUTXA-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcoUANif8Ur5fe7J0xsFdc2JbEiJgzZxlyLjjzD7IAFM9ZpO7yGEwvLjf6fIi3GksbHwvCv5yZxKHrAX3RtLVBOhBfAehaoghkhJ71Rc7Ru_rA7hq48pJWw-INn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcoUANif8Ur5fe7J0xsFdc2JbEiJgzZxlyLjjzD7IAFM9ZpO7yGEwvLjf6fIi3GksbHwvCv5yZxKHrAX3RtLVBOhBfAehaoghkhJ71Rc7Ru_rA7hq48pJWw-INnqDWjMhCJ7VF=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4756533,
+      "lng": 85.8869612,
+      "label": "S S HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sadguru-cancer-hospital-jagatpur",
+    "name": "Sadguru Cancer Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sadguru Cancer Hospital has built a strong reputation in Jagatpur for multidisciplinary treatment pathways covering Oncologist Surgery In Cuttack. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jagatpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://sadguruhospitals.com/cancer-care",
+    "address": "Jagatpur Industrial Estate, Jagatpur, Odisha 754021",
+    "city": "Jagatpur",
+    "state": "Odisha",
+    "pincode": "754021",
+    "locality": "Jagatpur Industrial Estate",
+    "landmark": "Odisha 754021",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG5Jb50p2_38BCA3qduV5j2m8KZ87sScNIiVbHItaSvCon8OgXSaoSJT9AI98nR76g1ITqfY8I5gV49EEnHg8AHeb4o6p72zSGPeUU4NTGcj1HXANhfbg_R2f835-ezzYOLgvEjPT8uDuo=w1200-h900-p-k-no",
+    "logo": "https://sadguruhospitals.com/wp-content/uploads/2024/09/Sadguru-Hospitals-WebLogo250.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG5Jb50p2_38BCA3qduV5j2m8KZ87sScNIiVbHItaSvCon8OgXSaoSJT9AI98nR76g1ITqfY8I5gV49EEnHg8AHeb4o6p72zSGPeUU4NTGcj1HXANhfbg_R2f835-ezzYOLgvEjPT8uDuo=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNk6EC9dg-ZJ4QQ99tD1Qky7cExrkJV32irUELI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMeos97P_IOQh4M=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMeos97P_IOQh4Ma9GKmGzU7lQ6yCWrolTSwNRl=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipONKRM_YZMjeubyyjQohYxtjQuBRgbZKlQc6lT2=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4951554,
+      "lng": 85.9320007,
+      "label": "Sadguru Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sadguru-hospital-cuttack",
+    "name": "Sadguru Hospital",
+    "type": "University Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sadguru Hospital is a prominent university hospital in Cuttack, known for structured tertiary care across Kidney Transplant Surgery In Cuttack. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "072050 96011",
+    "alternatePhone": "",
+    "website": "https://sadguruhospitals.com/",
+    "address": "Jagatpur Industrial Estate, Cuttack, Jagatpur, Odisha 754021",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "754021",
+    "locality": "Jagatpur Industrial Estate",
+    "landmark": "Jagatpur",
+    "emergencyContact": "072050 96011",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6otVFsvH6KKm15u1Q6AmxufqMKu4Hq0T9XLp5RLKtrtOA1tLlJ2iTJ7wgWeT8WmtVOR1WDMcVYm2JfKt_C8SiSSSDWLgvgvgft5YxnsG86toKNAl7nWzmQMZaDYeVDvfeAwwkDsACktDC=w1200-h900-p-k-no",
+    "logo": "https://sadguruhospitals.com/wp-content/uploads/2024/09/Sadguru-Hospitals-WebLogo250.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6otVFsvH6KKm15u1Q6AmxufqMKu4Hq0T9XLp5RLKtrtOA1tLlJ2iTJ7wgWeT8WmtVOR1WDMcVYm2JfKt_C8SiSSSDWLgvgvgft5YxnsG86toKNAl7nWzmQMZaDYeVDvfeAwwkDsACktDC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNbtTXy32-81pnq9idpmoJgduBFBWrQxpTPSAKb=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPS_dMEfsiukP8g2lAgyJ5bCzVlhtIqUvS8PmF1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM8hhuI97pmUnIa4woFkQhY7dbeHxLK-CDoLSjd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOLizs8SKueYaLAxBdrwLKOuGyQORO88W1zVJlb=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4955786,
+      "lng": 85.9324333,
+      "label": "Sadguru Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sai-vision-hospital-and-research-centre-cuttack",
+    "name": "SAI VISION HOSPITAL & RESEARCH CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SAI VISION HOSPITAL & RESEARCH CENTRE is a prominent hospital in Cuttack, known for structured tertiary care across Orthopedic Surgery In Cuttack. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "082491 51538",
+    "alternatePhone": "",
+    "website": "https://saivisionhospital.com/",
+    "address": "Kesharpur Rd, Siba Bazar, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Siba Bazar",
+    "landmark": "Cuttack",
+    "emergencyContact": "082491 51538",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEl1_drpL2o40a3U4ReZtXjjCKXwpId3b3q81XvvkomTDF5CODM47BJsQB3bQoQHG5R8wJ9h1fZdQS5YnhM7PrEBcQ_KV65paf9MZxoy2Ow75gGkQqQ50Fu5LH_EX-6wdW-6MGC=w1200-h900-p-k-no",
+    "logo": "https://saivisionhospital.com/assets/images/logo-96x96.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEl1_drpL2o40a3U4ReZtXjjCKXwpId3b3q81XvvkomTDF5CODM47BJsQB3bQoQHG5R8wJ9h1fZdQS5YnhM7PrEBcQ_KV65paf9MZxoy2Ow75gGkQqQ50Fu5LH_EX-6wdW-6MGC=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4701605,
+      "lng": 85.8776175,
+      "label": "SAI VISION HOSPITAL & RESEARCH CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sanjukta-curatives-cuttack",
+    "name": "Sanjukta Curatives",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Cuttack, Sanjukta Curatives delivers integrated care across Orthopedic Surgery In Cuttack. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FV8M+CX8, Bajrakabati Canal Rd, Samanta Sahi, Ranihat Colony, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Ranihat Colony",
+    "landmark": "Samanta Sahi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsEI8-gyJYfV4EuNn2hRwUhHXeYJxr7SW3s8ClPhrEeLpRuhvp9mRMzfOmtBuzvR3ApWsqR98ZIDBW12uAtPPTEZruBoverztfO0WSzsWCKI2VvFeun8bokVdLepB19iQIqz3V=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsEI8-gyJYfV4EuNn2hRwUhHXeYJxr7SW3s8ClPhrEeLpRuhvp9mRMzfOmtBuzvR3ApWsqR98ZIDBW12uAtPPTEZruBoverztfO0WSzsWCKI2VvFeun8bokVdLepB19iQIqz3V=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVe8maBMDzP-rrZxSvl7NBgVQDm_q0Dx0n0ySPPpbWrDNLg2hxbavz2BCxyJDDj7VrlsC5J05q_i4A5rbaw4EnFiQl7U-AbHixWt44hlnu6e4173Us0X7XOGAPlRnnD0OwWRAY1Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4660309,
+      "lng": 85.8849635,
+      "label": "Sanjukta Curatives",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sarangi-clinic-and-research-centre-private-limited-link-road-opp-punjab-national-bank",
+    "name": "Sarangi Clinic & Research Centre Private Limited",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Link Road Opp. Punjab National Bank, Sarangi Clinic & Research Centre Private Limited offers coordinated hospital care with major focus on Gynecologist Surgery In Cuttack. Its infrastructure includes Google rating 2.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Link Road Opp. Punjab National Bank.",
+    "email": "",
+    "phone": "0671 232 1007",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Link Road Opp. Punjab National Bank, Odisha 753012",
+    "city": "Link Road Opp. Punjab National Bank",
+    "state": "Odisha",
+    "pincode": "753012",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "0671 232 1007",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1FMzjaXB72rjX2yEQ7-dZd7wnJDM2BjGEo--3lfJY4skjNG3Rfi8Insu1JWM1Moi8BOxQyYrTxv5fBnumuPRcvKG_HTa9L2eEZKAvLtthLO7yA6L1AzsYk8td9xCZSBDcnlg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1FMzjaXB72rjX2yEQ7-dZd7wnJDM2BjGEo--3lfJY4skjNG3Rfi8Insu1JWM1Moi8BOxQyYrTxv5fBnumuPRcvKG_HTa9L2eEZKAvLtthLO7yA6L1AzsYk8td9xCZSBDcnlg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeQzqNSu9pCs1Ui1mnxFw4eQXTzW58m1WEtKx8N7MQCoBPOrjPt-NUM6gSxZsT9yOZ0SuqY1fwM-Dvr9uX05bjFe-RRtCmeMvma_9FU0_SgyXctXyXpelpj3xi9Q1UyBIxmKk6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6R0DpiSk9FD-HDBu7CzRYJVMQki7TrnUbNW_n0wsrZlkkb27WBgywvtFBSDyhxrHASUpFsTdWoNVu51eyo-B8jdzEyicPAmr4zJ1uDVzY9N9FNjuYY8drySgIWK5lGmiHJVT9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGR3cKsQNqyJWcPTK85qebDPGyIb6CoShSFadqwE6CZduMATGpoOQsT3Z4_V25HBHGlJSxJu-alDI6Xqe7UJu2uWGqDOwVBbBwXw8VYvEU95dyvz4JZRtWPvtLB1dNtfUqqaCQB=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQSmw3ScAz5-UTXRtjhw6O7DIm92IWCxUxpWjVfgi607uksvNgWtAVdUe6ChrHtbZDe62EJmkBuMnwgs_1qCh_ek-aHVde7OO9H8gZMgCYTU0XPLhTaFgRhmaS_YdoOT6d-HvxO9ecOFI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4525475,
+      "lng": 85.8909747,
+      "label": "Sarangi Clinic & Research Centre Private Limited",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sarojini-hospital-sarangi-clinic-and-research-center-cuttack",
+    "name": "Sarojini Hospital, Sarangi clinic and research center",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sarojini Hospital, Sarangi clinic and research center is a prominent private hospital in Cuttack, known for structured tertiary care across Gynecologist Surgery In Cuttack. Hospital capacity markers such as Google rating 3.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "0671 232 1007",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Link Rd, Bishram Nagar, Orissa State Electricity Board Colony, Cuttack, Odisha 753012",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753012",
+    "locality": "Orissa State Electricity Board Colony",
+    "landmark": "Orissa State Electricity Board Colony",
+    "emergencyContact": "0671 232 1007",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQSmw3ScAz5-UTXRtjhw6O7DIm92IWCxUxpWjVfgi607uksvNgWtAVdUe6ChrHtbZDe62EJmkBuMnwgs_1qCh_ek-aHVde7OO9H8gZMgCYTU0XPLhTaFgRhmaS_YdoOT6d-HvxO9ecOFI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQSmw3ScAz5-UTXRtjhw6O7DIm92IWCxUxpWjVfgi607uksvNgWtAVdUe6ChrHtbZDe62EJmkBuMnwgs_1qCh_ek-aHVde7OO9H8gZMgCYTU0XPLhTaFgRhmaS_YdoOT6d-HvxO9ecOFI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4524754,
+      "lng": 85.8909956,
+      "label": "Sarojini Hospital, Sarangi clinic and research center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sasmita-behuria-associate-peofessor-near-prasanti-lab-kathagola-road-mangalabag-ctc-cuttack",
+    "name": "Sasmita Behuria Associate Peofessor Near Prasanti Lab, Kathagola Road, Mangalabag, Ctc",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sasmita Behuria Associate Peofessor Near Prasanti Lab, Kathagola Road, Mangalabag, Ctc is a prominent hospital in Cuttack, known for structured tertiary care across Gynecologist Surgery In Cuttack. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVFP+RR7, Maachhua Bazar, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Maachhua Bazar",
+    "landmark": "Cuttack",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=20.4745435%2C85.887053&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=20.4745435%2C85.887053&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4745435%2C85.887053&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4745435%2C85.887053&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4745435,
+      "lng": 85.887053,
+      "label": "Sasmita Behuria Associate Peofessor Near Prasanti Lab, Kathagola Road, Mangalabag, Ctc",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sbm-hospital-cuttack",
+    "name": "SBM Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SBM Hospital has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Liver Transplant Surgery In Cuttack. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095838 10329",
+    "alternatePhone": "",
+    "website": "http://sbmplasticsurgeryhospital.com/",
+    "address": "NH-5, near BALIKUDA RAILWAY CROSSING, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "near BALIKUDA RAILWAY CROSSING",
+    "landmark": "near BALIKUDA RAILWAY CROSSING, Cuttack, Odisha 753001",
+    "emergencyContact": "095838 10329",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0Y7U0RQ-lj4q-w5DM3mpyAe5aqAqiLc7ynDeTfUn3f8njdBdoPEuAu_xxpLcvQr-NsnoSOBxg_eCr4QZ7tiMNfU-1d9hi92IFgEejd3LMfGJp-q3R7K-Z0CrBLiERHJN0msZE9w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0Y7U0RQ-lj4q-w5DM3mpyAe5aqAqiLc7ynDeTfUn3f8njdBdoPEuAu_xxpLcvQr-NsnoSOBxg_eCr4QZ7tiMNfU-1d9hi92IFgEejd3LMfGJp-q3R7K-Z0CrBLiERHJN0msZE9w=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-yBE1C=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-yBE1CyHr2gAMGfMPTY_AHn-_CmsM44h_3A12y3YshJO7n0dCFTzjc9MGbLbto_ewNlYfDzOPtF-OABGzAPKJzyBPJN85rHx-hb37JFzBdEc-vyqiT-X9h6tdUGceAoTfAM4RDIKsPc_B=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmS0Kvbg6u8qTdLSMreq56jHm2fbX2AcmRPpjMuqVGZYcS0oxWVzBeDhd1UL34MGPR8D66uD15UpskEUBtKoSqTWwurioy_06op35EWZDDp6WfJrRBWCVoR78ScwltR6X5h3WWGZ7eNBxy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4309723,
+      "lng": 85.8744071,
+      "label": "SBM Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "scb-medical-neurosurgery-ward-cuttack",
+    "name": "SCB Medical Neurosurgery Ward",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SCB Medical Neurosurgery Ward is a prominent hospital in Cuttack, known for structured tertiary care across Neurosurgeon In Cuttack and Neurosciences. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "0671 241 4355",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVFR+H2W, Behera Colony, Professors Colony, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Professors Colony",
+    "landmark": "Professors Colony",
+    "emergencyContact": "0671 241 4355",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Cuttack",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHN8qJNa8RjJ9IgeTMPqcyb6Hs8F-U8l0xeVuSXgqcZp7hCejWUc5w_UG35kdypG8xQoj9mEjoC05TmibW5sIOoFu6ZJvPjO1aZL28U6fi_RaOsBs52JtWOpYQHU6-psu_WoiROkOrqyc0j=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHN8qJNa8RjJ9IgeTMPqcyb6Hs8F-U8l0xeVuSXgqcZp7hCejWUc5w_UG35kdypG8xQoj9mEjoC05TmibW5sIOoFu6ZJvPjO1aZL28U6fi_RaOsBs52JtWOpYQHU6-psu_WoiROkOrqyc0j=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.473996,
+      "lng": 85.890087,
+      "label": "SCB Medical Neurosurgery Ward",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shakti-hospital-cuttack",
+    "name": "Shakti Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Cuttack, Shakti Hospital delivers integrated care across Orthopedic Surgery In Cuttack. The facility stands out for Google rating 3.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "AT, Mahanadi Vihar - Nayabazar Rd, Naya Bazaar, Cuttack, Odisha 753004",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753004",
+    "locality": "Naya Bazaar",
+    "landmark": "Naya Bazaar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFG1T36xnbZG_AKD66BP83ERzWO_iU8dG1KcM0rLc2tkn-6tVamz4nDuP38SgH2G9o5MykWVNB3L2TE7d2sRUDCQ2X_Pj-3AgabZVJUJBgAkwsJJztKvuLEL4fV-TcUgOm40q98AQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFG1T36xnbZG_AKD66BP83ERzWO_iU8dG1KcM0rLc2tkn-6tVamz4nDuP38SgH2G9o5MykWVNB3L2TE7d2sRUDCQ2X_Pj-3AgabZVJUJBgAkwsJJztKvuLEL4fV-TcUgOm40q98AQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4639713,
+      "lng": 85.910573,
+      "label": "Shakti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shanti-memorial-hospital-cuttack",
+    "name": "Shanti Memorial Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Cuttack, Shanti Memorial Hospital brings together specialists for Urologist Surgery In Cuttack. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "076828 29910",
+    "alternatePhone": "",
+    "website": "http://www.shantimemorialhospital.com/",
+    "address": "FV9M+FJ2, Thoria Sahi Patnaik Colony, Friends Colony, Mangalabag, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Mangalabag",
+    "landmark": "Friends Colony",
+    "emergencyContact": "076828 29910",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExT9BRAae6x5l-VzW59wiBYcVpdhH3kq386AvkaTSf2u61bhJ2NxfCLJ_Bol8OsdSRUt85IYK24HJl3QAEisI-AakkC8zbnzr16llCeT43oxYSLUMukmflE1_rvddOGAiTiciy=w1200-h900-p-k-no",
+    "logo": "https://www.shantimemorialhospital.com/wp-content/uploads/2021/05/SMH-Logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExT9BRAae6x5l-VzW59wiBYcVpdhH3kq386AvkaTSf2u61bhJ2NxfCLJ_Bol8OsdSRUt85IYK24HJl3QAEisI-AakkC8zbnzr16llCeT43oxYSLUMukmflE1_rvddOGAiTiciy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqLCdEo7GCzAi-oTblwQXPQcuTr62jv_vtbzYwoMpWCekWHVdYD_KogWSsICFYus-8PXfeCLiVzdRiqcMded2rgIBlxbH5VACJg_Kx4lIqcLSrDXUKdvxKRdwRgghEam1t8lcnYw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXMCaHuepMGblr6PMs1a3vbJt4z3Bw3r9LvG-2fFMKCGBZ89RcIto6NzqycXdzPtwrdRuGjEfZLgMonb2pAXkJW30Be34jUkt2bP9qk7sxINTCv0Sz2heC6Nufqv5Bk88WWzj8UA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4690445,
+      "lng": 85.8831149,
+      "label": "Shanti Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shreeja-hospital-cuttack",
+    "name": "SHREEJA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SHREEJA HOSPITAL has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Knee Replacement Surgery In Cuttack. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "099380 10300",
+    "alternatePhone": "",
+    "website": "http://www.shreejahospital.com/",
+    "address": "OMP Square, Gurkha Colony, Mal Godown Market, Cuttack, Odisha 753003",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753003",
+    "locality": "Mal Godown Market",
+    "landmark": "Mal Godown Market",
+    "emergencyContact": "099380 10300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5db_cJ0-5YADABp-9gbOhhc0_gngPcjXj8hS09WJrRyIt3gw80j2SM_Ig68C2hHs3z2sbzzPrckPCwDcBL0QvBJKv6b_xULbrY2uIyX7bzl6o3jt_VTGGaSfaYXnF5UUXBt1t=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5db_cJ0-5YADABp-9gbOhhc0_gngPcjXj8hS09WJrRyIt3gw80j2SM_Ig68C2hHs3z2sbzzPrckPCwDcBL0QvBJKv6b_xULbrY2uIyX7bzl6o3jt_VTGGaSfaYXnF5UUXBt1t=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkP4bDXPVPsKGhjAwdzW9KqVhtwg9wuc9BkztDIz155saPGmORwqa1vcxejFEF6vkekhQEGxdJXqILVuQ36u0oAA_mCeLrveuptBn2bJh7kLf7a4bwWo4FBLVbSTW99n2NIA9loQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4541981,
+      "lng": 85.9000412,
+      "label": "SHREEJA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "silver-city-hospital-cuttack",
+    "name": "Silver city Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Cuttack, Silver city Hospital delivers integrated care across Cosmetic Surgery In Cuttack. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FV2R+V3J, Arunodaya Colony, Cuttack, Odisha 753012",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753012",
+    "locality": "Arunodaya Colony",
+    "landmark": "Cuttack",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFT3rLxJO0Jy9xQBN_8DigHM3eC80ilutDHeTRq2NaWeZSM5AxDtcNkf77gq0DXwhGToBHeYPbVrFm3x7rkrTuGLEcBaE6gALA5omDYrnYqkIAl8rTTs7VCVcIh6G_QLcpLfM7I=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFT3rLxJO0Jy9xQBN_8DigHM3eC80ilutDHeTRq2NaWeZSM5AxDtcNkf77gq0DXwhGToBHeYPbVrFm3x7rkrTuGLEcBaE6gALA5omDYrnYqkIAl8rTTs7VCVcIh6G_QLcpLfM7I=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4522244,
+      "lng": 85.8901276,
+      "label": "Silver city Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "silvercity-hospital-and-research-center-cuttack",
+    "name": "Silvercity Hospital and Research center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Cuttack, Silvercity Hospital and Research center delivers integrated care across Liver Transplant Surgery In Cuttack. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "0671 796 4079",
+    "alternatePhone": "",
+    "website": "https://silvercityhospital.com/",
+    "address": "Main Road, near Durga Mandir, Chauliaganj, Cuttack, Odisha 753004",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753004",
+    "locality": "Chauliaganj",
+    "landmark": "near Durga Mandir, Chauliaganj, Cuttack, Odisha 753004",
+    "emergencyContact": "0671 796 4079",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGfQDQyoLi_ZdzCG4q6u7JiCdclcjDnHY5RQllwLsEeDT6hYgJKim17BUuwh8ra-J6uIoXKga22FQw71oGw2Uf8Q9X1zEi8izKBe81RFR469Jo8YLMAV-4w_fhiNZvTpc-6ER3FQ=w1200-h900-p-k-no",
+    "logo": "https://silvercityhospital.com/wp-content/uploads/2025/04/s-logo128x64px.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGfQDQyoLi_ZdzCG4q6u7JiCdclcjDnHY5RQllwLsEeDT6hYgJKim17BUuwh8ra-J6uIoXKga22FQw71oGw2Uf8Q9X1zEi8izKBe81RFR469Jo8YLMAV-4w_fhiNZvTpc-6ER3FQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtoMc-Fz6Z1RVBIqXaQckH6bUKZauGYvhIg5aYlhvBkcheqkbsAXN2NHfK9cyRbEvX6bPPP226GYOSf3nCXOMTez3-ldpi1iFscaZqF93oECtsGz9b6LtbtGwxtQrQnO4OjgsC5XUx21U=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.455473,
+      "lng": 85.9095671,
+      "label": "Silvercity Hospital and Research center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "south-point-hospital-cuttack",
+    "name": "South Point Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "South Point Hospital has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Orthopedic Surgery In Cuttack. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ring Rd, behind Indian oil petrol pump, High Court Colony, Arunodaya Nagar, Cuttack, Odisha 753012",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753012",
+    "locality": "Arunodaya Nagar",
+    "landmark": "High Court Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8Tv-RvlcU2hNBL4RAjDIPWig5gYblaz_ChwEhLwoKbq1821734ViNhDAFgLjjzeWzLDIq23_DI1-HTOl1gN4J0ezfEQS1pVOn2j13Srsa7ly6hNfzg4QcNlATZDABjBf2Mpjf=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8Tv-RvlcU2hNBL4RAjDIPWig5gYblaz_ChwEhLwoKbq1821734ViNhDAFgLjjzeWzLDIq23_DI1-HTOl1gN4J0ezfEQS1pVOn2j13Srsa7ly6hNfzg4QcNlATZDABjBf2Mpjf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFWKAuN3X2BqISN5f7XXv7t5nij9ZDG8BUU4Do3oJv3NiPoIatx6ltBO4AGaGQow-_lMn_Iv7e3PNzt-6n7Kgc1d5551J32ddBXkAg1rEA5mPJoBCvr0fHPGZMKzxuTxvaJV690=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4512484,
+      "lng": 85.8864432,
+      "label": "South Point Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sriram-hospital-cuttack",
+    "name": "SRIRAM HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Cuttack, SRIRAM HOSPITAL brings together specialists for Orthopedic Surgery In Cuttack. Its infrastructure includes Google rating 3.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "070089 99801",
+    "alternatePhone": "",
+    "website": "http://sriramhospitalctc.in/",
+    "address": "FWF2+PFR, Jobra Rd, Municipal Colony, Cuttack, Odisha 753003",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753003",
+    "locality": "Municipal Colony",
+    "landmark": "Municipal Colony",
+    "emergencyContact": "070089 99801",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGpb-dOycg6iFEbum5VOihQHw7ULPP62IMe5OH_wS3cfLunTvJ_2hRa1PPO2oAR99vpVkSm69_gHUvR5ZpdCb2_KKV62aiJ9F-vbWcq-anVQMmIqyupaeW0YnpbCSWkJ8X-geYk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGpb-dOycg6iFEbum5VOihQHw7ULPP62IMe5OH_wS3cfLunTvJ_2hRa1PPO2oAR99vpVkSm69_gHUvR5ZpdCb2_KKV62aiJ9F-vbWcq-anVQMmIqyupaeW0YnpbCSWkJ8X-geYk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4743629,
+      "lng": 85.9011494,
+      "label": "SRIRAM HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "srushti-multispeciality-hospital-cuttack",
+    "name": "Srushti Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, Srushti Multispeciality Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Cuttack and Speciality Care. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "084809 67673",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bajrakabati Rd, Bajrakabati, Cuttack, Odisha 753012",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753012",
+    "locality": "Bajrakabati",
+    "landmark": "Cuttack",
+    "emergencyContact": "084809 67673",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzkNw3QUaBECkCp98QfUIHAQWZETPuZnl94Z0JmsTo59IyltJnYFXb1GfH9JKtISZiocMkT9lSbgGcaLMhI4sHtvgxmGxMZ2YiXVRCJv13vElfgbWARHUbJjyNqrkeBuj3SmWfng=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzkNw3QUaBECkCp98QfUIHAQWZETPuZnl94Z0JmsTo59IyltJnYFXb1GfH9JKtISZiocMkT9lSbgGcaLMhI4sHtvgxmGxMZ2YiXVRCJv13vElfgbWARHUbJjyNqrkeBuj3SmWfng=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4634923,
+      "lng": 85.8876895,
+      "label": "Srushti Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "srusti-hospital-cuttack",
+    "name": "Srusti Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose Srusti Hospital for its strength in Orthopedic Surgery In Cuttack. Hospital capacity markers such as Google rating 3.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "073810 62525",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot No. 9, Kathagola, Ring Rd, Mangalabag, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Mangalabag",
+    "landmark": "Ring Rd",
+    "emergencyContact": "073810 62525",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEipbrn8TdRus7-2NIfghv1u9TMD4oRRYW6FSsMlKBqL5UOHCBe5FYgb3EHMCZEtaX0vw4dCWotlUTQMgPFWPoBcf9cKgNR3mJEF8FwWhroOyt7Rbw723NAxZprweCAseHhY_SQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEipbrn8TdRus7-2NIfghv1u9TMD4oRRYW6FSsMlKBqL5UOHCBe5FYgb3EHMCZEtaX0vw4dCWotlUTQMgPFWPoBcf9cKgNR3mJEF8FwWhroOyt7Rbw723NAxZprweCAseHhY_SQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4766983,
+      "lng": 85.8876744,
+      "label": "Srusti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "star-hospital-cuttack-odisha-cuttack",
+    "name": "Star Hospital( CUTTACK,ODISHA)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Star Hospital( CUTTACK,ODISHA) has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Oncologist Surgery In Cuttack. Its infrastructure includes Google rating 2.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Cuttack can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073810 63394",
+    "alternatePhone": "",
+    "website": "http://starhospitalctc.com/",
+    "address": "FVFW+8R4, Jobra Road, Rehman Chhak Rd, Jobra Colony, Cuttack, Odisha 753003",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753003",
+    "locality": "Jobra Colony",
+    "landmark": "Rehman Chhak Rd",
+    "emergencyContact": "073810 63394",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6ERPnoXvzwuU29szntkhhM7dUkbraEQYyoXaQ5UIYnYYqWz89AH5Y7w9cToeQ52CSotK06vnZIApsafz9FEMpDi911XAHuZAmZKubdm8wRMzHqNOBqQCNKrAobzO9MFg4ZqYU=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6ERPnoXvzwuU29szntkhhM7dUkbraEQYyoXaQ5UIYnYYqWz89AH5Y7w9cToeQ52CSotK06vnZIApsafz9FEMpDi911XAHuZAmZKubdm8wRMzHqNOBqQCNKrAobzO9MFg4ZqYU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHWl1hAZpdsAFASUe0svj6Px-nw0K9jnDR2VIFtBqBM2KraUEKZOwbaqZcVD-Su1-rTUHmFAGaG74O1nuPBcwLDW6weYKrbjedtLlhPxFro06-7DHQK4Fvmc4C9OkEppDJp9B9QX2S5gZY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4733053,
+      "lng": 85.8971969,
+      "label": "Star Hospital( CUTTACK,ODISHA)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sum-ultimate-medicare-hospital-bhubaneswar-bhubaneswar",
+    "name": "SUM Ultimate Medicare Hospital bhubaneswar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SUM Ultimate Medicare Hospital bhubaneswar is a prominent hospital in Bhubaneswar, known for structured tertiary care across Liver Transplant Surgery In Cuttack. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bhubaneswar.",
+    "email": "",
+    "phone": "0674 350 0500",
+    "alternatePhone": "",
+    "website": "https://sumum.soahospitals.com/",
+    "address": "K8 Kalinga Nagar, Ghatikia, Bhubaneswar, Odisha 751029",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751029",
+    "locality": "Ghatikia",
+    "landmark": "Bhubaneswar",
+    "emergencyContact": "0674 350 0500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDGTY263taGb7WENT3QfsMsqlj2Xo2Bov4t-uDsF4SY9yc26du82qJDX1P7dZ5506Jyr3fAr8hfVuwWqcDCnRU5yQ9BqcpSuVnm1nd2m2m_LVRo8GbsoodDhEbLNMTIkGIr1ASMQ=w1200-h900-p-k-no",
+    "logo": "https://sumum.soahospitals.com/wp-content/uploads/2022/04/logo-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDGTY263taGb7WENT3QfsMsqlj2Xo2Bov4t-uDsF4SY9yc26du82qJDX1P7dZ5506Jyr3fAr8hfVuwWqcDCnRU5yQ9BqcpSuVnm1nd2m2m_LVRo8GbsoodDhEbLNMTIkGIr1ASMQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGT8LKAAmA0JeYc83Iqrn_2zRd7ZtALav7wB8BL1gJJCxdB8Y5Gk-LOT1War7RplgPKnLXwv4xeIZ-dwaJl4l_0Ax-ODy-qAyEjlNMFOM_b68IfDlLC2_UaobXAp7a75FKoSpJ2sw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqWcBWNswvz-BhvoxQG5MJaqJJOneJpwlKc9TGdlTg-H8V8Ri_SWd0IvO39MQEseSKksaVk3e7L1N7N_nycMhzNOL8pecoJKERRBEScI-62xxCTkklMtUIwen-gcvWXpUF9fTY8g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOLzSeZp2yUE8c5L1ldIgLmR_oGqiw-v4OQkgtPj6gDo4ZiMTmvqQ0nsXWTlupFjqFH9mLx4AkRYXPeX1a-Rn3K33oVTe8fI0gD5Ltx2gwUyaURIXyLIYj8nTjng3pLY1fdC-VPw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGV8HS4RNYJl8dydy4QJdYSAvVUPO3As6KBhEpEn5e3QkUwR-O0I-T0J4zzJU1dxWR2GpGeo68FBi5hOetGYr_ks1Orld5ohQZLFC5gMPEI4O_3dbOmGF5De2go-xU08hHlJYGmZkEwK_VM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.2830483,
+      "lng": 85.7725506,
+      "label": "SUM Ultimate Medicare Hospital bhubaneswar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sunshine-hospital-bhubaneswar",
+    "name": "Sunshine Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhubaneswar, Sunshine Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Cuttack. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bhubaneswar.",
+    "email": "",
+    "phone": "0674 666 9000",
+    "alternatePhone": "",
+    "website": "http://sunshineodisha.com/",
+    "address": "371, Cuttack - Puri Rd, Budheswari Colony, Laxmisagar, Bhubaneswar, Odisha 751006",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751006",
+    "locality": "Laxmisagar",
+    "landmark": "Budheswari Colony",
+    "emergencyContact": "0674 666 9000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaWEGJNk2lrZiPbpP5TQHXGNsl4IvplKfYv3qlljWIDIGxG4uKnwNiXsbwTCJzjVFySpS-YG32es2RJ1xnXh7dZJxeUzb9F1NYvNsdJKfic8OcGsaEgebqoxzucWb1JwCsQ08=w1200-h900-p-k-no",
+    "logo": "https://sunshineodisha.com/images/sunshine-hospital-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaWEGJNk2lrZiPbpP5TQHXGNsl4IvplKfYv3qlljWIDIGxG4uKnwNiXsbwTCJzjVFySpS-YG32es2RJ1xnXh7dZJxeUzb9F1NYvNsdJKfic8OcGsaEgebqoxzucWb1JwCsQ08=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVU-W3bpllLd5KZkWhiUNPsNZlMZ3YtkY1gnb0ILnsVfOMuuB-9nkIL_fdq4ALa6AdsmxlACTKLAQinCZGA06Rc3oMFayR25K9iXa_JGaFTinSZxUdXHhAoYi5CH5-r9OpdRsKeA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.2691196,
+      "lng": 85.8486194,
+      "label": "Sunshine Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "supper-speciality-surgical-block-cuttack",
+    "name": "Supper Speciality Surgical Block",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Supper Speciality Surgical Block is a prominent government hospital in Cuttack, known for structured tertiary care across Liver Transplant Surgery In Cuttack and Speciality Care. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVFR+M68, Behera Colony Manglabagh, Professors Colony, Cuttack, Odisha 753007",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753007",
+    "locality": "Professors Colony",
+    "landmark": "Professors Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=20.474154%2C85.8905835&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=20.474154%2C85.8905835&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.474154%2C85.8905835&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.474154%2C85.8905835&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.474154,
+      "lng": 85.8905835,
+      "label": "Supper Speciality Surgical Block",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "susruta-hospital-cuttack",
+    "name": "Susruta Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Susruta Hospital has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Urologist Surgery In Cuttack. The facility stands out for Google rating 2.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "0671 243 2266",
+    "alternatePhone": "",
+    "website": "http://cgct.org/",
+    "address": "FV8M+J7P, Susruta, Canal Rd, near Susruta Hospital, Samanta Sahi, Siba Bazar, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Siba Bazar",
+    "landmark": "near Susruta Hospital, Samanta Sahi, Siba Bazar, Cuttack, Odisha 753001",
+    "emergencyContact": "0671 243 2266",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZ5Y685M7zRvBpsyLsWEvhovzGX7Po5D4aFIG2guiC17dpaXMptMC2s4icFXSItHXm20J6ch9bbc9sOLjQKK9Yv4wamaCzU-fNn4jRgvR8Uyhdfqjgtg63Nj4Ex3Vc_b4SQtaa=w1200-h900-p-k-no",
+    "logo": "http://cgct.org/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZ5Y685M7zRvBpsyLsWEvhovzGX7Po5D4aFIG2guiC17dpaXMptMC2s4icFXSItHXm20J6ch9bbc9sOLjQKK9Yv4wamaCzU-fNn4jRgvR8Uyhdfqjgtg63Nj4Ex3Vc_b4SQtaa=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4665408,
+      "lng": 85.8835441,
+      "label": "Susruta Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "swapna-superspeciality-hospital-cuttack",
+    "name": "Swapna Superspeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Cuttack, Swapna Superspeciality Hospital offers coordinated hospital care with major focus on Cancer Surgery In Cuttack and Speciality Care. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "073770 00201",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Buxi Bazar Rd, Meria Bazar, Durga Bazar, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Durga Bazar",
+    "landmark": "Durga Bazar",
+    "emergencyContact": "073770 00201",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Cuttack",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFRnmQbdOII5IUXn5xrBCz1w8F1-t-l58iq5eXSul5WsLr3istQZ4K4BtPkMw6Cl2IF4PfeSVSpkfolVBmcJ0seBSaFpDOhJ6eLhwTgy81DT6p7BYqyFxN9E9tTaq-MYM42BW10XbMC1nwE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFRnmQbdOII5IUXn5xrBCz1w8F1-t-l58iq5eXSul5WsLr3istQZ4K4BtPkMw6Cl2IF4PfeSVSpkfolVBmcJ0seBSaFpDOhJ6eLhwTgy81DT6p7BYqyFxN9E9tTaq-MYM42BW10XbMC1nwE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.473699,
+      "lng": 85.8762541,
+      "label": "Swapna Superspeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sweta-hospital-cuttack",
+    "name": "Sweta Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sweta Hospital has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Spine Surgery In Cuttack. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "098612 33678",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bajrakabati Rd, Friends Colony, Mangalabag, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Mangalabag",
+    "landmark": "Mangalabag",
+    "emergencyContact": "098612 33678",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFFPCPLJqsWLC1ByKm_Ki4tnjZj4KdQx4GhzOjrmWC1GkQQSwxvIqmN9IxZEAmEstGIbAMRepWlt96IkrkNckI1f7msoc-seEBbWWCvHl2toLxu3G4w660Ru02pomTIdSiGpedVVTx-6av=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFFPCPLJqsWLC1ByKm_Ki4tnjZj4KdQx4GhzOjrmWC1GkQQSwxvIqmN9IxZEAmEstGIbAMRepWlt96IkrkNckI1f7msoc-seEBbWWCvHl2toLxu3G4w660Ru02pomTIdSiGpedVVTx-6av=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.468166,
+      "lng": 85.8842026,
+      "label": "Sweta Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "the-heart-beat-clinic-cuttack",
+    "name": "The Heart Beat Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Cuttack, The Heart Beat Clinic delivers integrated care across Heart Surgery In Cuttack and Cardiac Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "KFC building, OSL Tower 3, Badambadi Colony, Cuttack, Odisha 753009",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753009",
+    "locality": "Badambadi Colony",
+    "landmark": "Badambadi Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Cuttack",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkmfndmHKf0kfbQ38KFLTesLsyi0-V3Jszhf_KR8QCrPzDICsNM9cT2KrTo-EtAwjdC3I-S72WK7hqWyiSvdNe3CyIqOQJo0mEPgJ7-CRZt00k2yZnZHWVTHcObzGLgR6oMtYUFoMk3tE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkmfndmHKf0kfbQ38KFLTesLsyi0-V3Jszhf_KR8QCrPzDICsNM9cT2KrTo-EtAwjdC3I-S72WK7hqWyiSvdNe3CyIqOQJo0mEPgJ7-CRZt00k2yZnZHWVTHcObzGLgR6oMtYUFoMk3tE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4601689,
+      "lng": 85.8807626,
+      "label": "The Heart Beat Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "total-kidney-care-2-cuttack",
+    "name": "Total Kidney Care 2",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose Total Kidney Care 2 for its strength in Kidney Transplant Surgery In Cuttack and Kidney Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FRFV+CV2, CDA Sector VI, Cuttack, Odisha 753014",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753014",
+    "locality": "CDA Sector VI",
+    "landmark": "Cuttack",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Cuttack",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=20.4735017%2C85.8446355&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=20.4735017%2C85.8446355&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4735017%2C85.8446355&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.4735017%2C85.8446355&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4735017,
+      "lng": 85.8446355,
+      "label": "Total Kidney Care 2",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tulip-care-hospital-cuttack",
+    "name": "TULIP CARE HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Cuttack often choose TULIP CARE HOSPITAL for its strength in Oncologist Surgery In Cuttack. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SURYA VIHAR, Badambadi Colony, Cuttack, Odisha 753012",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753012",
+    "locality": "Badambadi Colony",
+    "landmark": "Cuttack",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_99ZhVNqcDlcKv87EjjM77_MeNvnMApX2uZJrmABzHiANnpErKCJJhPkGHtTkM5oxbVR6WF3nFv9yyC5R5zrfLHcdPBN4aL4pmtvk9aTgTQHzIU4r5jowUywGVdA9fvrjRQp7=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_99ZhVNqcDlcKv87EjjM77_MeNvnMApX2uZJrmABzHiANnpErKCJJhPkGHtTkM5oxbVR6WF3nFv9yyC5R5zrfLHcdPBN4aL4pmtvk9aTgTQHzIU4r5jowUywGVdA9fvrjRQp7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4504087,
+      "lng": 85.89187,
+      "label": "TULIP CARE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "twincity-hospital-cuttack",
+    "name": "TWINCITY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "TWINCITY HOSPITAL is a prominent hospital in Cuttack, known for structured tertiary care across Gynecologist Surgery In Cuttack. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "070086 65445",
+    "alternatePhone": "",
+    "website": "http://www.twincityhospital.com/",
+    "address": "NH -16 , PLOT-790, SIKHARPUR, Gandarpur, Cuttack, Odisha 753003",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753003",
+    "locality": "Gandarpur",
+    "landmark": "SIKHARPUR",
+    "emergencyContact": "070086 65445",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmgWnHET2s_Em6ZDNQ5POHpizOFy3e9LeosjJvteUYL-_n-r1mMFhdRIPZEHNgCmACd5Zu47gqPYDeLoMM-kzhmDj_SC6C8VG4LgDsAFXfj0FgpmoByyv5QNyCGzmiDzYTLx54MQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmgWnHET2s_Em6ZDNQ5POHpizOFy3e9LeosjJvteUYL-_n-r1mMFhdRIPZEHNgCmACd5Zu47gqPYDeLoMM-kzhmDj_SC6C8VG4LgDsAFXfj0FgpmoByyv5QNyCGzmiDzYTLx54MQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4643316,
+      "lng": 85.9042615,
+      "label": "TWINCITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "uro-nephro-center-of-excellence-bhubaneswar",
+    "name": "URO NEPHRO CENTER OF EXCELLENCE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "URO NEPHRO CENTER OF EXCELLENCE is a prominent hospital in Bhubaneswar, known for structured tertiary care across Kidney Transplant Surgery In Cuttack. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bhubaneswar.",
+    "email": "",
+    "phone": "094380 25959",
+    "alternatePhone": "",
+    "website": "http://www.uncehealth.org",
+    "address": "Plot 457/11713, Nandankanan Rd, Shree Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751031",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751031",
+    "locality": "Chandrasekharpur",
+    "landmark": "Shree Vihar",
+    "emergencyContact": "094380 25959",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4WuSy3f3NKViW_-SnxX2aqqBfb0wWktm_tUx_XCvVrsSHvxwEFEvaR_OOHPxEslHwKTdcFD__RaN4dnhmwAjmGpJIX7yRsAWLGNhKh0V5Men6wZ-sIRB0iUvKP_u3LV7utSWloB8f82l-=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4WuSy3f3NKViW_-SnxX2aqqBfb0wWktm_tUx_XCvVrsSHvxwEFEvaR_OOHPxEslHwKTdcFD__RaN4dnhmwAjmGpJIX7yRsAWLGNhKh0V5Men6wZ-sIRB0iUvKP_u3LV7utSWloB8f82l-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOuPtRiaVY8VKjZWHlWZOl2ZqKAJ0sopRy7EVeD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMoCV2ZeWt7BANah3uQNIoC_x7ZFG0wY72rRD8B=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPZMcC4t59-BZjJ9CnjMsOFfF93RjNE-qAy9jXf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN_JgZ4bO58KIZAkD-CNwJJ5cYdpUkoM9g3Q7rU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.3377665,
+      "lng": 85.8226817,
+      "label": "URO NEPHRO CENTER OF EXCELLENCE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "uro-nephro-hospital-cuttack",
+    "name": "URO NEPHRO HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Cuttack, URO NEPHRO HOSPITAL delivers integrated care across Kidney Transplant Surgery In Cuttack. Its infrastructure includes Google rating 3.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Cuttack.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVGP+PCV, Ring Rd, Maachhua Bazar, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Maachhua Bazar",
+    "landmark": "Maachhua Bazar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3jZo9NelCi2vuLdjRPqcMsYcD7ukS2B8uP2Yzk9LuHsXYPCboIdusWydP_dkyXIiZEYQJGN3cuOdr4G1yKZB5Un3s2go6KC-IgIF8rtnFnFQWZ5maUIfGwRCXuLpqki0eiuE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3jZo9NelCi2vuLdjRPqcMsYcD7ukS2B8uP2Yzk9LuHsXYPCboIdusWydP_dkyXIiZEYQJGN3cuOdr4G1yKZB5Un3s2go6KC-IgIF8rtnFnFQWZ5maUIfGwRCXuLpqki0eiuE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4768663,
+      "lng": 85.8860575,
+      "label": "URO NEPHRO HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "urocare-cuttack",
+    "name": "UROCARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "UROCARE has built a strong reputation in Cuttack for multidisciplinary treatment pathways covering Urologist Surgery In Cuttack. The facility stands out for Google rating 2.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Cuttack.",
+    "email": "",
+    "phone": "094399 73223",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FVGP+C9H, Kathagola Rd, Mangalabag, Cuttack, Odisha 753001",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "pincode": "753001",
+    "locality": "Mangalabag",
+    "landmark": "Mangalabag",
+    "emergencyContact": "094399 73223",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8Iq4mULLxMLnOWKsFs4HiFHCRQq5FC_W1A7BcrnKUFPaX9gTUs_eQDOqZ7hdGxSyeUdIZTRTyLu9WOBhyA5mhkjcLalxzVM_xOIphoQoAZKkneaKEznKnR0YJ-wT6a5NgzM5s=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8Iq4mULLxMLnOWKsFs4HiFHCRQq5FC_W1A7BcrnKUFPaX9gTUs_eQDOqZ7hdGxSyeUdIZTRTyLu9WOBhyA5mhkjcLalxzVM_xOIphoQoAZKkneaKEznKnR0YJ-wT6a5NgzM5s=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.4760703,
+      "lng": 85.8859889,
+      "label": "UROCARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "utkal-hospital-bhubaneswar",
+    "name": "UTKAL HOSPITAL",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "UTKAL HOSPITAL has built a strong reputation in Bhubaneswar for multidisciplinary treatment pathways covering Liver Transplant Surgery In Cuttack. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Bhubaneswar.",
+    "email": "",
+    "phone": "063707 04001",
+    "alternatePhone": "",
+    "website": "https://utkalhospital.com/",
+    "address": "Defence Colony Rd, Niladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751021",
+    "locality": "Chandrasekharpur",
+    "landmark": "Chandrasekharpur",
+    "emergencyContact": "063707 04001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHRMbLL5Tq1UXfel7bBsIXNHcPXAdGiVytPj5MvtE0sTk76cjCpgDyi7CYknWZHrmuJya2mn6JclpIvVcfR8S_wigJeN0JgM-K1qXLgKMgIqlkA_C_F4M96g5dCObHC2aDg7TR4qA=w1200-h900-p-k-no",
+    "logo": "https://utkalhospital.com/images/header/logo/utkal.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHRMbLL5Tq1UXfel7bBsIXNHcPXAdGiVytPj5MvtE0sTk76cjCpgDyi7CYknWZHrmuJya2mn6JclpIvVcfR8S_wigJeN0JgM-K1qXLgKMgIqlkA_C_F4M96g5dCObHC2aDg7TR4qA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFM_Hu-EIHm9Ud757Tk9RQt_pcNUOMY-5A0HnK3xcESNCBl8_K2xLg3i8XclFNHYynzwe7PXeLGCEfZiVXqA1MynT0EBn0Lv7-b00bMH2b6qKfOjPl0PpN57S2up71z3F70BTs=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHlTq7n2MFYV7476RMAhJUuRWlcFVhGaRJq-p5EAkP7vHmRqtPSOheM1Q8RcA9068_dg76Gi1v3G7g9HMZRmHDPPcQFw8GnOWS7hgY-mu_EE8UlRsrbEF9oWJP-kDh1xcFOhPNxjq2FBg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.3225785,
+      "lng": 85.8004278,
+      "label": "UTKAL HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vivekanand-hospital-bhubaneswar-bhubaneswar",
+    "name": "Vivekanand Hospital Bhubaneswar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vivekanand Hospital Bhubaneswar is a prominent hospital in Bhubaneswar, known for structured tertiary care across Liver Transplant Surgery In Cuttack. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bhubaneswar.",
+    "email": "",
+    "phone": "090909 60353",
+    "alternatePhone": "",
+    "website": "http://www.vivekanandhospital.com/",
+    "address": "A 54/1, near Fire Station Road, Paika Nagar, Baramunda, Bhubaneswar, Odisha 751003",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751003",
+    "locality": "Baramunda",
+    "landmark": "near Fire Station Road, Paika Nagar, Baramunda, Bhubaneswar, Odisha 751003",
+    "emergencyContact": "090909 60353",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Cuttack"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEF1ejKAVR8Fvm-gZAdrgX-DkfzYd6-HmeTNltKqqM77jgiuzXk9wFOp4A0s-21l5eRDrt7PWGytCRBY4-hu1VExwfrMmvoKtzWBgLrMKMlODnV3y1RgThRLITFF2YnTbDWwDofcQ=w1200-h900-p-k-no",
+    "logo": "http://vivekanandhospital.com/wp-content/uploads/2022/05/VMM-Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEF1ejKAVR8Fvm-gZAdrgX-DkfzYd6-HmeTNltKqqM77jgiuzXk9wFOp4A0s-21l5eRDrt7PWGytCRBY4-hu1VExwfrMmvoKtzWBgLrMKMlODnV3y1RgThRLITFF2YnTbDWwDofcQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMYBFOkpAHBk5isRqYVRZIItsYgoHVp4rm7vpvY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNe4zXuE7Pj7276SRSfp0e_VMxeWs9WUS8rocCn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNrXD4RUGNzQyRbLY3-UB59eifM8c7I5Y1-sa_8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMrq1uEvW2R5PLbIMsV8WFRwrjLDBe1OOQ6bHi3=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.2791283,
+      "lng": 85.8002974,
+      "label": "Vivekanand Hospital Bhubaneswar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

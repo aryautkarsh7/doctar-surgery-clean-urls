@@ -1,0 +1,11812 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aarogyam-multi-speciality-hospital-and-iccu-kalyan",
+    "name": "Aarogyam Multi speciality Hospital & ICCU",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kalyan often choose Aarogyam Multi speciality Hospital & ICCU for its strength in Urologist Surgery In Dombivli and Speciality Care. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kalyan.",
+    "email": "",
+    "phone": "086910 06299",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Shripat Smruti Building, Manpada Rd, Star Colony, MIDC, Dombivli East, Kalyan, Maharashtra 421204",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421204",
+    "locality": "Dombivli East",
+    "landmark": "Manpada Rd",
+    "emergencyContact": "086910 06299",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqZhnfJg1pS6qmdn1VvZr1z1ZM9B_3Ku43eebmu177lwuqGVQQPcAzeMXx393ZJvwEIIywS_XtVW7VQlJzBSOvAwHjP-vI_LrjJwwVANPhr1X4oGcZRgP_6FmP13zskc64mj7EsQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqZhnfJg1pS6qmdn1VvZr1z1ZM9B_3Ku43eebmu177lwuqGVQQPcAzeMXx393ZJvwEIIywS_XtVW7VQlJzBSOvAwHjP-vI_LrjJwwVANPhr1X4oGcZRgP_6FmP13zskc64mj7EsQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM7g4OWR2M_zF_gSSQxq3yLQIoZIyapwnm-ClEl=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOpYboNgdsGM_kUENE89hR17zguIYxbQjBxdFlU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMoq_JlT3r49412ios_hWtrP_vNnz8xsLruPCwW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPObFsRDigxqyHIiTz4ia2NmshCQ5p9Xp0g0a9l=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2038943,
+      "lng": 73.0956514,
+      "label": "Aarogyam Multi speciality Hospital & ICCU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aastha-hospital-dombivli",
+    "name": "AASTHA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dombivli, AASTHA HOSPITAL delivers integrated care across Heart Surgery In Dombivli. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dombivli.",
+    "email": "",
+    "phone": "092235 52715",
+    "alternatePhone": "",
+    "website": "",
+    "address": "638R+3MF, TATA Power Lane, Dombivli, Krishna Radha Society, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "TATA Power Lane",
+    "landmark": "Dombivli",
+    "emergencyContact": "092235 52715",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiA_6jddAV6_bA3VnyrmS-w4wIlijGaXnibKAuKxSLyiJ6wW5tcttQj2NbZNjz9UHxGd_oQHq-dzP3oLqBW27wudiubdLsUNtwFVrmmolUjQZoMTlnUYn41dZINrVe-D5Efieu=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiA_6jddAV6_bA3VnyrmS-w4wIlijGaXnibKAuKxSLyiJ6wW5tcttQj2NbZNjz9UHxGd_oQHq-dzP3oLqBW27wudiubdLsUNtwFVrmmolUjQZoMTlnUYn41dZINrVe-D5Efieu=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2151993,
+      "lng": 73.09164,
+      "label": "AASTHA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aims-hospital-dombivli",
+    "name": "AIMS Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dombivli, AIMS Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Dombivli. Hospital capacity markers such as Google rating 4.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli.",
+    "email": "",
+    "phone": "0251 618 5000",
+    "alternatePhone": "",
+    "website": "https://www.aimshospital.co.in/",
+    "address": "Plot No. P72, Aims Hospital Milap Nagar, Dombivli, MIDC, Dombivli East, Maharashtra 421203",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "Aims Hospital Milap Nagar",
+    "landmark": "Dombivli",
+    "emergencyContact": "0251 618 5000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEck8e9Uh7dLANtnBNqFbrN0Jm1vPPHDc6613TjcoXpAf_8m-GO7ek9J8M1xmmyWBiglrHnqZbC3WdKrzTEHKrEL-zGaLtrSmdfEGULDrm39m3DokOyb5i3aWfoSx9IXyKlpXg=w1200-h900-p-k-no",
+    "logo": "https://www.aimshospital.co.in/assets/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEck8e9Uh7dLANtnBNqFbrN0Jm1vPPHDc6613TjcoXpAf_8m-GO7ek9J8M1xmmyWBiglrHnqZbC3WdKrzTEHKrEL-zGaLtrSmdfEGULDrm39m3DokOyb5i3aWfoSx9IXyKlpXg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE81nimM2_4RkAFwzUeV10YcoIrwVmtLJauvwD7QtdYzra2iI042EnxJEgYk9YR4j_H_84jZ1CAj4F_Q3tdKVyo82glpXmGeWnRrfcOufHlFCs3Xzx-HYxybXBXfRoT9SoolT8M=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsDnYmJFR2i3FgsfuGhVtCK--ieudU8wBPuEOvnKvKvQbq2F8laqA8zZo6jGKQmzzNJmsX7gzl9bAucBeAnPb4qIfr13K3UOnppPtjBpL-zCM4T_ER_pnKz3CAGkMUR7LifZU6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEI4DfNxYPxaYd1jwgJEuVR0ElLp39YHe8xBfoY7YhoHRXIzzb5C7wnAxDFKOAMezCJPZ3B_I0TT9_59h5i3D4h9vKJi5VJLquqse7mfQKJZvTGY3_xklUpPZEWMW0zFBMsMD9UkQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2079586,
+      "lng": 73.1056402,
+      "label": "AIMS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aj-manavta-hospital-kalyan",
+    "name": "AJ Manavta Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kalyan, AJ Manavta Hospital brings together specialists for Orthopedic Surgery In Dombivli. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kalyan can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "077009 12905",
+    "alternatePhone": "",
+    "website": "http://www.ajmanavta.com/",
+    "address": "Ritesh Empire, 60 Feet Road, near Model College, above Domino's Pizza, Katemanivali, Kalyan East, Kalyan, Maharashtra 421306",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421306",
+    "locality": "Kalyan East",
+    "landmark": "near Model College, above Domino's Pizza, Katemanivali, Kalyan East, Kalyan, Maharashtra 421306",
+    "emergencyContact": "077009 12905",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXoCTsbPeOSALBXySQtdZV8DjWaJZsDf46MHGPCTVYDiX84NNcNUooHvlqHyaf2lQNQNpfoMU_QYXxW66YPAWi9uglrrBb1t8suBLQ7kxXFlHTSBIKmwnaqO-N4Wa-UcxywR4=w1200-h900-p-k-no",
+    "logo": "https://ajmanavta.com/wp-content/uploads/2022/05/aj-manavta-hospital-logo-2.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXoCTsbPeOSALBXySQtdZV8DjWaJZsDf46MHGPCTVYDiX84NNcNUooHvlqHyaf2lQNQNpfoMU_QYXxW66YPAWi9uglrrBb1t8suBLQ7kxXFlHTSBIKmwnaqO-N4Wa-UcxywR4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2206904,
+      "lng": 73.1423589,
+      "label": "AJ Manavta Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amey-multispeciality-hospital-dombivli",
+    "name": "Amey Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dombivli, Amey Multispeciality Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Dombivli and Speciality Care. Hospital capacity markers such as Google rating 3.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dombivli.",
+    "email": "",
+    "phone": "081081 37272",
+    "alternatePhone": "",
+    "website": "http://www.ameyhospital.com/",
+    "address": "Skylon Tower, Chakki Naka, Dombivli, Pisavli Village, Dombivli East, Kalyan, Maharashtra 421306",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421306",
+    "locality": "Chakki Naka",
+    "landmark": "Dombivli",
+    "emergencyContact": "081081 37272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHokageRNqv77ai5tRQ07sCQFXm6PKGqH6m5BaGah8PbMqBwNGn-rBmFpwpfb1LkbKIMahvHljEkhxbkJystLQu421T9JnAhdgzYdjocAm7vpMIYk8Tzjdlacd0OGqG8IhC-Tvr=w1200-h900-p-k-no",
+    "logo": "https://www.ameyhospital.com/images/uperlog.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHokageRNqv77ai5tRQ07sCQFXm6PKGqH6m5BaGah8PbMqBwNGn-rBmFpwpfb1LkbKIMahvHljEkhxbkJystLQu421T9JnAhdgzYdjocAm7vpMIYk8Tzjdlacd0OGqG8IhC-Tvr=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2233879,
+      "lng": 73.1254416,
+      "label": "Amey Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ankur-hospital-kalyan",
+    "name": "Ankur Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kalyan, Ankur Hospital brings together specialists for Gynecologist Surgery In Dombivli. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kalyan can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095940 70261",
+    "alternatePhone": "",
+    "website": "",
+    "address": "101, First Floor, Gangagiri Apt, Pune Link Road, opposite Hotel Prasad, Tisgao Naka, Kalyan East, Kalyan, Maharashtra 421306",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421306",
+    "locality": "Kalyan East",
+    "landmark": "opposite Hotel Prasad, Tisgao Naka, Kalyan East, Kalyan, Maharashtra 421306",
+    "emergencyContact": "095940 70261",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEdm1zyhEO2fMvdQ6FXknsXd3jjThY0KV0H52k-W-iaoiwZtXMEgJRWTUCu44n2c-8WOGW0gU3W5-GCcxDsT0YDcO1JCCTsfc8LC96Hkgcxq2MButg9AAeNDlzDm-flgXzmzy0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEdm1zyhEO2fMvdQ6FXknsXd3jjThY0KV0H52k-W-iaoiwZtXMEgJRWTUCu44n2c-8WOGW0gU3W5-GCcxDsT0YDcO1JCCTsfc8LC96Hkgcxq2MButg9AAeNDlzDm-flgXzmzy0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2246316,
+      "lng": 73.1343851,
+      "label": "Ankur Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apex-hospital-dombivli",
+    "name": "Apex Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli often choose Apex Hospital for its strength in Orthopedic Surgery In Dombivli. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Janki Smrit Building, Ghanshyam Gupte Road, Dombivli, Vishnu Nagar, Dombivli West, Maharashtra 421202",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421202",
+    "locality": "Ghanshyam Gupte Road",
+    "landmark": "Ghanshyam Gupte Road",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdmGR0XRIlO1vDP3KBeOsT_BjV5FDaI9eEW8EqWIX7MchPmHYFKKGoWRtPCoUlal2r1zpGMJ54DtdF_mVQWOlJf8VJa-1U5quZ7Yq1xdyV-mFX2TwEC0TV_gmA2s1KuaK9cpk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdmGR0XRIlO1vDP3KBeOsT_BjV5FDaI9eEW8EqWIX7MchPmHYFKKGoWRtPCoUlal2r1zpGMJ54DtdF_mVQWOlJf8VJa-1U5quZ7Yq1xdyV-mFX2TwEC0TV_gmA2s1KuaK9cpk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.221868,
+      "lng": 73.0852926,
+      "label": "Apex Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apex-kidney-care-kalyan",
+    "name": "Apex Kidney Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kalyan, Apex Kidney Care delivers integrated care across Kidney Transplant Surgery In Dombivli and Kidney Care. The facility stands out for Google rating 2.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kalyan.",
+    "email": "",
+    "phone": "074000 95918",
+    "alternatePhone": "",
+    "website": "http://www.apexkidneycare.com/center_detail.php?centerid",
+    "address": "64VC+HRF, Parnaka Rd, Samarth Co-Operative Housing Society, Kalyan West, Kalyan, Maharashtra 421301",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421301",
+    "locality": "Kalyan West",
+    "landmark": "Samarth Co-Operative Housing Society",
+    "emergencyContact": "074000 95918",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dombivli",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3HxW8jfGxZPUQDyzv-DpCMMsetHwKWF8sjNdevyDgjrFgfrLV_KvCDWQp3FkWiSzTpChUVAK9=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3HxW8jfGxZPUQDyzv-DpCMMsetHwKWF8sjNdevyDgjrFgfrLV_KvCDWQp3FkWiSzTpChUVAK9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3HxW8jfGxZPUQDyzv-DpCMMsetHwKWF8sjNdevyDgjrFgfrLV_KvCDWQp3FkWiSzTpChUVAK9OnfnMF79nGgN2EkToVDZjCPA1P_NN9ZiopMAyNPxvwHpy3XPIAALiPfBgCemJXkwjVU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2439382,
+      "lng": 73.1220589,
+      "label": "Apex Kidney Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apple-hospital-dombivli-west",
+    "name": "Apple Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli West often choose Apple Hospital for its strength in Knee Replacement Surgery In Dombivli. Hospital capacity markers such as Google rating 3.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli West.",
+    "email": "",
+    "phone": "0251 248 1234",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B Ground Floor, SANAVI CHS LTD Ghanashyam Gupte Road, Near Gopi Cine Mall, Dombivli West, Maharashtra 421202",
+    "city": "Dombivli West",
+    "state": "Maharashtra",
+    "pincode": "421202",
+    "locality": "Near Gopi Cine Mall",
+    "landmark": "Near Gopi Cine Mall, Dombivli West, Maharashtra 421202",
+    "emergencyContact": "0251 248 1234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnp2vwUNrI4CwB5sdT9_l3QG9lPCdHmOS0DqbaIojrVt2jO_jfNL9klydlNtd7je6Cf5fXOnvZoHGzAX5PnqYVxbLjCgIGOtD2N-NvZXQu8zG29CWenp4YVZ8ic2f64y6ZLAQ9Ow=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnp2vwUNrI4CwB5sdT9_l3QG9lPCdHmOS0DqbaIojrVt2jO_jfNL9klydlNtd7je6Cf5fXOnvZoHGzAX5PnqYVxbLjCgIGOtD2N-NvZXQu8zG29CWenp4YVZ8ic2f64y6ZLAQ9Ow=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2219534,
+      "lng": 73.0847518,
+      "label": "Apple Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ashirwad-hospital-kalyan",
+    "name": "Ashirwad Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ashirwad Hospital is a prominent general hospital in Kalyan, known for structured tertiary care across Orthopedic Surgery In Dombivli. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kalyan.",
+    "email": "",
+    "phone": "097664 91645",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7, Mahatma Gandhi Rd, opposite Vodafone Gallery, Gangotri Society, Vishnu Nagar, Dombivli West, Thane, Kalyan, Maharashtra 421202",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421202",
+    "locality": "Thane",
+    "landmark": "opposite Vodafone Gallery, Gangotri Society, Vishnu Nagar, Dombivli West, Thane, Kalyan, Maharashtra 421202",
+    "emergencyContact": "097664 91645",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8GruXYTh0DVfNwfOxpkwd1ZqY4wAYW2KUcACrmx0-PAwTB4z0XjBZTmE7arbLX3zXNA1TB8_sTkAiDaEA9qP7dHALUeB8P7sPoM3kDgGBXo5lmb4-jq9BzMrK-oYODVBlLDr4=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8GruXYTh0DVfNwfOxpkwd1ZqY4wAYW2KUcACrmx0-PAwTB4z0XjBZTmE7arbLX3zXNA1TB8_sTkAiDaEA9qP7dHALUeB8P7sPoM3kDgGBXo5lmb4-jq9BzMrK-oYODVBlLDr4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.218838,
+      "lng": 73.086612,
+      "label": "Ashirwad Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ashray-charitable-hospital-and-dialysis-center-dombivli",
+    "name": "Ashray charitable hospital and Dialysis center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dombivli, Ashray charitable hospital and Dialysis center delivers integrated care across Kidney Transplant Surgery In Dombivli. The facility stands out for Google rating 3.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli.",
+    "email": "",
+    "phone": "0251 244 0990",
+    "alternatePhone": "",
+    "website": "",
+    "address": "nr. abhinav bank, usma petrol pump, P57/1, Dombivli, MIDC, Dombivli East, Maharashtra 421203",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "P57/1",
+    "landmark": "P57/1",
+    "emergencyContact": "0251 244 0990",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSpd_1e2yujAxsJi3HKeVb2RmEtwshiYV3atSWKzRCI1OdwKqyBx3SfGoj3ISKjU-bTOa2WvsptqzP1Wr9klz1hwA1D_FmeQfiI_-la5hv9bkcnJSsddTH8ihoFoVRGIeoz6jRtA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSpd_1e2yujAxsJi3HKeVb2RmEtwshiYV3atSWKzRCI1OdwKqyBx3SfGoj3ISKjU-bTOa2WvsptqzP1Wr9klz1hwA1D_FmeQfiI_-la5hv9bkcnJSsddTH8ihoFoVRGIeoz6jRtA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2116454,
+      "lng": 73.1077933,
+      "label": "Ashray charitable hospital and Dialysis center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aurindam-mother-and-child-care-hospital-c-o-dombivli-health-care-llp-midc",
+    "name": "Aurindam Mother & Child Care Hospital, C/o Dombivli Health Care LLP",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in MIDC, Aurindam Mother & Child Care Hospital, C/o Dombivli Health Care LLP delivers integrated care across Laparoscopic Surgery In Dombivli and Women and Child Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in MIDC.",
+    "email": "",
+    "phone": "075061 11199",
+    "alternatePhone": "",
+    "website": "https://aurindamhospital.com/motherandchildcare",
+    "address": "Health Care LLP, P 76, Next to Shivai Balak Mandir School, Near MIDC Nivasi Bus Stop Care of, Phase II, MIDC, Maharashtra 421203",
+    "city": "MIDC",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "Phase II",
+    "landmark": "Near MIDC Nivasi Bus Stop Care of, Phase II, MIDC, Maharashtra 421203",
+    "emergencyContact": "075061 11199",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dombivli",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzNO7wyk1HblrkQrN2U8Ut1HCkAYB5ozpXkD8bSb76Fps_oL5oAXYaYhxghodPNkmeDLeLLwCd8FcyJ917WSiyGvvLymAVpEm93GA8cenJQgjMkRanhRD5V5PloMZUpzZEIZve=w1200-h900-p-k-no",
+    "logo": "https://aurindamhospital.com/favicon3.ico",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzNO7wyk1HblrkQrN2U8Ut1HCkAYB5ozpXkD8bSb76Fps_oL5oAXYaYhxghodPNkmeDLeLLwCd8FcyJ917WSiyGvvLymAVpEm93GA8cenJQgjMkRanhRD5V5PloMZUpzZEIZve=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2041139,
+      "lng": 73.100933,
+      "label": "Aurindam Mother & Child Care Hospital, C/o Dombivli Health Care LLP",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aurindam-multispeciality-hospital-dombivli",
+    "name": "Aurindam Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, Aurindam Multispeciality Hospital brings together specialists for Urologist Surgery In Dombivli and Speciality Care. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092245 64569",
+    "alternatePhone": "",
+    "website": "https://www.aurindamhospital.in/",
+    "address": "P- 29/2-4, next to Pendharkar College, near Family Tree Hotel, Dombivli, MIDC, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "near Family Tree Hotel",
+    "landmark": "near Family Tree Hotel, Dombivli, MIDC, Dombivli East, Kalyan, Maharashtra 421201",
+    "emergencyContact": "092245 64569",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcQSOtrTPhc-H2zxg8Axs-VSYhoTA6uAD6nW_9UwPOYey7HXWC_ZMOpN-NyxBEUvc5yVDFxw4aaXu3cknIruTKRR_0VlcmKSgjANjHRGSRJnPKIss46jBfVdb4BqM-_fj9TBYEXA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcQSOtrTPhc-H2zxg8Axs-VSYhoTA6uAD6nW_9UwPOYey7HXWC_ZMOpN-NyxBEUvc5yVDFxw4aaXu3cknIruTKRR_0VlcmKSgjANjHRGSRJnPKIss46jBfVdb4BqM-_fj9TBYEXA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNUsw8kmrbA0Qh6Tdd4uv3ehg1b9Iwth_4i3BQc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNN41gOESn657xZy4mm96AvF4kftI52cR8yplO1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP8mRH-93ziNc6dLUQpyUkvsI2zmY8i6HQ-80Uk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMeRIS1Q4y6wTxyQ8wCWeRmG5kPNyDkCwwgd54D=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2142245,
+      "lng": 73.106313,
+      "label": "Aurindam Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "baj-rr-hospital-dombivli",
+    "name": "BAJ RR Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dombivli, BAJ RR Hospital delivers integrated care across Urologist Surgery In Dombivli. The facility stands out for Google rating 3.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dombivli.",
+    "email": "",
+    "phone": "077158 30884",
+    "alternatePhone": "",
+    "website": "",
+    "address": "P, BAJ Symbiotic Services Pvt Ltd, 14, College Rd, Dombivli, MIDC, Dombivli East, Kalyan, Maharashtra 421203",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "College Rd",
+    "landmark": "14",
+    "emergencyContact": "077158 30884",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXIFTIXcpItRet4Dlry_puxY61XkyYQ5fV0ZhGOiC2kdHbdKCG_APAxeMZLNaGsZJLdd0W3gzjQQ3OZePfvMnKEFvJoZeXg5F60LtpNFRCJuUkndhrW_mlwBpX0bbwtMPbCH8xQg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXIFTIXcpItRet4Dlry_puxY61XkyYQ5fV0ZhGOiC2kdHbdKCG_APAxeMZLNaGsZJLdd0W3gzjQQ3OZePfvMnKEFvJoZeXg5F60LtpNFRCJuUkndhrW_mlwBpX0bbwtMPbCH8xQg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2125501,
+      "lng": 73.106655,
+      "label": "BAJ RR Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "best-heart-specialists-in-dombivli-kalyan-ecg-2d-echo-angiography-angioplasty-tavi-fortis-hospital-kalyan-kalyan",
+    "name": "Best Heart Specialists in Dombivli, Kalyan | ECG | 2D ECHO | Angiography | Angioplasty | TAVI | Fortis Hospital Kalyan",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Best Heart Specialists in Dombivli, Kalyan | ECG | 2D ECHO | Angiography | Angioplasty | TAVI | Fortis Hospital Kalyan has built a strong reputation in Kalyan for multidisciplinary treatment pathways covering Liver Transplant Surgery In Dombivli and Cardiac Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kalyan.",
+    "email": "",
+    "phone": "022 6884 6143",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/specialities/adult-ctvs-cardiothoracic-and-vascular-surgery-12?utm_source",
+    "address": "Cabin No 40, Fortis Hospital, Kalyan - Shilphata Rd, Bhanunagar Kalyan(West), Bail Bazar, Bhoiwada, Kalyan, Maharashtra 421301",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421301",
+    "locality": "Bhoiwada",
+    "landmark": "Kalyan - Shilphata Rd",
+    "emergencyContact": "022 6884 6143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEYgb4o57uowM_agSzdHkxK7PkxhY8jiHbaKPo34ABtegPtvKkA7EfGX0vHj5m0rCpUdgkKyd27m_CObVM-KY0z0RhNB6gYW7nT6FUQkrYge_NaTgZNmNs69vQHMEp8YkXHyVZyiKZjKnWG=w1200-h900-p-k-no",
+    "logo": "https://www.fortishealthcare.com/themes/custom/fortis/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEYgb4o57uowM_agSzdHkxK7PkxhY8jiHbaKPo34ABtegPtvKkA7EfGX0vHj5m0rCpUdgkKyd27m_CObVM-KY0z0RhNB6gYW7nT6FUQkrYge_NaTgZNmNs69vQHMEp8YkXHyVZyiKZjKnWG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMrtJLm65eN_QeI9VZxprZTAtNDKDDc130509rq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOu-v_HVq1EEQf8RD7Z-m15ASUmeKXVKqVjtJWP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMPa4RL2EIJ79FSSH0DsE84HKj2sV9OlJt3ZuNx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMCc6vb8TAwsBKpty5fXSUyKZiomIwhGK03T4aZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2375089,
+      "lng": 73.1234228,
+      "label": "Best Heart Specialists in Dombivli, Kalyan | ECG | 2D ECHO | Angiography | Angioplasty | TAVI | Fortis Hospital Kalyan",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "best-multispeciality-hospital-in-mumbai-dombivli",
+    "name": "Best Multispeciality Hospital in Mumbai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dombivli, Best Multispeciality Hospital in Mumbai offers coordinated hospital care with major focus on Gynecologist Surgery In Dombivli and Speciality Care. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli.",
+    "email": "",
+    "phone": "080 6510 5058",
+    "alternatePhone": "",
+    "website": "https://www.pristyncare.com/mumbai/c/proctology/?utm_source",
+    "address": "1st floor, Navare Plaza, 106-108, opp. Ramnagar Police Chowky, next to Swami Samarth Math, Dombivli, Ramnagar, Dombivli East, Navi Mumbai, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "next to Swami Samarth Math",
+    "landmark": "106-108",
+    "emergencyContact": "080 6510 5058",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCVgtGVZrfrD-pVytfgDJCt7Zr2_pcOm2BxrawEJpPQLc6Jp7HvvDQ4yvBT3ME9mxs4o502-6c1qQm7ujQ9gFRMxauIQK6-xzzO4nYQDEyiK2pizcYEhePCw_ff7iP7wfVddGMGRryJAGA=w1200-h900-p-k-no",
+    "logo": "https://www.pristyncare.com/blog/wp-content/uploads/2021/01/pristyn-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCVgtGVZrfrD-pVytfgDJCt7Zr2_pcOm2BxrawEJpPQLc6Jp7HvvDQ4yvBT3ME9mxs4o502-6c1qQm7ujQ9gFRMxauIQK6-xzzO4nYQDEyiK2pizcYEhePCw_ff7iP7wfVddGMGRryJAGA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEYZgj2ZLCRS1bXdw3iJ4RtDPPubssVNx-9Hi_O07CjAl0p8FlciP3xWsssBSLUEIeYEmEmYrsDrHClCZLLiBbx_oQeUryFrLxzjn4qdXHDGQQ7YTyU1WVbI4XrDoipBwgM8TFD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2150168,
+      "lng": 73.0866883,
+      "label": "Best Multispeciality Hospital in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dandekar-hospital-dombivli",
+    "name": "Dandekar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dandekar Hospital has built a strong reputation in Dombivli for multidisciplinary treatment pathways covering Urologist Surgery In Dombivli. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0251 286 2337",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kasturi Plaza, B-Wing, Manpada Rd, Dombivli, Dombivli East, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Manpada Rd",
+    "landmark": "Manpada Rd",
+    "emergencyContact": "0251 286 2337",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6e-HzObgFsFiFZZTsUMbJxrTH2X5dZZO-QfWvPT3o6ds8GwAZnxRfaDCcELEgiY_HYhaAZORGJSdnnUCBWVZ3_lvN1zgyUERq79VLs_9C84o87l2xK-XTf58lducZchdF0swy=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6e-HzObgFsFiFZZTsUMbJxrTH2X5dZZO-QfWvPT3o6ds8GwAZnxRfaDCcELEgiY_HYhaAZORGJSdnnUCBWVZ3_lvN1zgyUERq79VLs_9C84o87l2xK-XTf58lducZchdF0swy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2151559,
+      "lng": 73.0903006,
+      "label": "Dandekar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dandekar-kidney-care-dombivli",
+    "name": "Dandekar kidney care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, Dandekar kidney care brings together specialists for Kidney Transplant Surgery In Dombivli and Kidney Care. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098210 42064",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kasturi Plaza, C-64, Manpada Rd, Dombivli, Ramnagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Manpada Rd",
+    "landmark": "Manpada Rd",
+    "emergencyContact": "098210 42064",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dombivli",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=19.2154163%2C73.0900314&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=19.2154163%2C73.0900314&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.2154163%2C73.0900314&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.2154163%2C73.0900314&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2154163,
+      "lng": 73.0900314,
+      "label": "Dandekar kidney care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dhange-hospital-bhiwandi",
+    "name": "Dhange Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dhange Hospital is a prominent hospital in Bhiwandi, known for structured tertiary care across Kidney Transplant Surgery In Dombivli. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bhiwandi.",
+    "email": "",
+    "phone": "02522 233 879",
+    "alternatePhone": "",
+    "website": "https://dhangehospitals.com/",
+    "address": "29, Mandai - Dhamankar Naka Rd, Prabhu Ali, Mandai, Bhiwandi, Maharashtra 421308",
+    "city": "Bhiwandi",
+    "state": "Maharashtra",
+    "pincode": "421308",
+    "locality": "Mandai",
+    "landmark": "Prabhu Ali",
+    "emergencyContact": "02522 233 879",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUKOb7Q2sRp7uYIoa9XccKXQ0X5_edCcc7aMFtOeI-edCihAnn4B-i67_Y9Ja8cVp0S9h-HLYZCy3W_qjTnt7iNh990CmnB2nrItIkRUQm18EdcBsoDLCdRQPMsdLOp2PQd4ql=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUKOb7Q2sRp7uYIoa9XccKXQ0X5_edCcc7aMFtOeI-edCihAnn4B-i67_Y9Ja8cVp0S9h-HLYZCy3W_qjTnt7iNh990CmnB2nrItIkRUQm18EdcBsoDLCdRQPMsdLOp2PQd4ql=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO6uyrjCug2LfvOvromyqsWpvbqHqSNIF_gAzGS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPz0N91TU9Nt4pBCgYiQ6wNdvoWEYIjSAc6R1V2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN0w31e5Yhp95l0CevxfVF_NP7M_AcDIoAVUkn0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOoi14XIK2P-9iTe0NJBKpaUKtYG_yt3oXhJv-c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.3001599,
+      "lng": 73.0552845,
+      "label": "Dhange Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dhanvantari-hospital-dombivli",
+    "name": "Dhanvantari Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dombivli, Dhanvantari Hospital delivers integrated care across Orthopedic Surgery In Dombivli. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli.",
+    "email": "",
+    "phone": "070837 70806",
+    "alternatePhone": "",
+    "website": "",
+    "address": "A/105, 1st Floor Shree ganesh darshan Building Manpada Gaon, Khoni-Umbharli Gaon - Kalayn Shi Rd, Dombivli, dombivli (e, Maharashtra 421204",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421204",
+    "locality": "Khoni-Umbharli Gaon - Kalayn Shi Rd",
+    "landmark": "Khoni-Umbharli Gaon - Kalayn Shi Rd",
+    "emergencyContact": "070837 70806",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCe-ahyUihdespyvtN-VHM_jkU3tAdnrUUq_Gtr5GXqAKMHNLYW39uVULonPZ4vllA5OZoUyrIvRX9szNdlppynKyWPjshEMGRyHF1x7xhXcXWMkE9kaqMYOehhCod65N8hQxD=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCe-ahyUihdespyvtN-VHM_jkU3tAdnrUUq_Gtr5GXqAKMHNLYW39uVULonPZ4vllA5OZoUyrIvRX9szNdlppynKyWPjshEMGRyHF1x7xhXcXWMkE9kaqMYOehhCod65N8hQxD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.1846033,
+      "lng": 73.0954379,
+      "label": "Dhanvantari Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dombivli-multispeciality-hospital-dombivli",
+    "name": "Dombivli Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, Dombivli Multispeciality Hospital brings together specialists for Kidney Transplant Surgery In Dombivli and Speciality Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082911 41515",
+    "alternatePhone": "",
+    "website": "https://www.dombivlimultispecialityhospital.com/",
+    "address": "635Q+CGH Muktai, Dombivli, Sudam Wadi, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "635Q+CGH Muktai",
+    "landmark": "Sudam Wadi",
+    "emergencyContact": "082911 41515",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEV7C8XJSttxqU2xOISAzd4kIh0M92vOWZFeseLjlJvv0ATVOaweUcwJPw26DwHdERt-GHDgJhtA1rJw9cKI7gI22oBZUTMq3zBdPFdXE8nlbuNcAGA5d6-YcWCB9vVttVZBrhZ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEV7C8XJSttxqU2xOISAzd4kIh0M92vOWZFeseLjlJvv0ATVOaweUcwJPw26DwHdERt-GHDgJhtA1rJw9cKI7gI22oBZUTMq3zBdPFdXE8nlbuNcAGA5d6-YcWCB9vVttVZBrhZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2085554,
+      "lng": 73.0888693,
+      "label": "Dombivli Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "elpizo-superspeciality-hospital-and-medical-research-centre-dombivli",
+    "name": "ELPIZO SUPERSPECIALITY HOSPITAL & MEDICAL RESEARCH CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, ELPIZO SUPERSPECIALITY HOSPITAL & MEDICAL RESEARCH CENTRE brings together specialists for Oncologist Surgery In Dombivli and Speciality Care. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "072089 79679",
+    "alternatePhone": "",
+    "website": "https://www.elpizohospital.com/",
+    "address": "First floor, VInayak Exotica, Kalyan - Shilphata Rd, Dombivli, Sonar Pada, Dombivli East, Kalyan, Maharashtra 421204",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421204",
+    "locality": "Kalyan - Shilphata Rd",
+    "landmark": "Kalyan - Shilphata Rd",
+    "emergencyContact": "072089 79679",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAgFEvSTOMsO8KHPiPjN-Ff_ZhFrdWVbv2s2VpvzEoGzaO3o1HwMP0dnrWYUToF1LTBVbdYYZPCDL-x_jaWaHLOrhmeKILWPJSlYLrUaT17EyDeQaByRk2xp0DOWzAd7eM685c=w1200-h900-p-k-no",
+    "logo": "https://elpizohospital.com/demo/wp-content/themes/clinmedix/images/logo-3.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAgFEvSTOMsO8KHPiPjN-Ff_ZhFrdWVbv2s2VpvzEoGzaO3o1HwMP0dnrWYUToF1LTBVbdYYZPCDL-x_jaWaHLOrhmeKILWPJSlYLrUaT17EyDeQaByRk2xp0DOWzAd7eM685c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.1970771,
+      "lng": 73.0996832,
+      "label": "ELPIZO SUPERSPECIALITY HOSPITAL & MEDICAL RESEARCH CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fortis-hospital-kalyan-best-hospital-in-kalyan-kalyan",
+    "name": "Fortis Hospital Kalyan | Best Hospital in Kalyan",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Fortis Hospital Kalyan | Best Hospital in Kalyan is a prominent hospital in Kalyan, known for structured tertiary care across Liver Transplant Surgery In Dombivli. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kalyan.",
+    "email": "",
+    "phone": "022 6884 6143",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/location/fortis-hospital-kalyan-mumbai?utm_source",
+    "address": "Fortis Hosptial, 1191, Kalyan - Shilphata Rd, Bhanunagar Kalyan(West), Bail Bazar, Bhoiwada, Kalyan, Maharashtra 421301",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421301",
+    "locality": "Bhoiwada",
+    "landmark": "Kalyan - Shilphata Rd",
+    "emergencyContact": "022 6884 6143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHb-TACO1bRisL9OBZ4uYZ5bL9qPrg6ui7sXtV19vLMMhqE1FrDGy2brHsf8AeW4ceNZ1ISUp1d6RiVUJsE3i8j13nmyia1wFIDXml220gXiKaOMFqG8huqpE0qWAe9A3iohhjt=w1200-h900-p-k-no",
+    "logo": "https://www.fortishealthcare.com/themes/custom/fortis/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHb-TACO1bRisL9OBZ4uYZ5bL9qPrg6ui7sXtV19vLMMhqE1FrDGy2brHsf8AeW4ceNZ1ISUp1d6RiVUJsE3i8j13nmyia1wFIDXml220gXiKaOMFqG8huqpE0qWAe9A3iohhjt=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNnEsI_AqEtahCMDRhmr8eKdGIKBRhjqKer9v6y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMKgnq-gyrR4K-ocWx1zSozhBVS9eICxjM9mFjZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPWCX0uSxZCEYajF_chEKCV4wOVO7UXZASuJ5MC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNgG0O-F16XAxRBNyIst9taznlxhdNiV4FH1_xB=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2373684,
+      "lng": 73.1234606,
+      "label": "Fortis Hospital Kalyan | Best Hospital in Kalyan",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fortis-hospital-mulund-best-hospital-in-mumbai-mumbai",
+    "name": "Fortis Hospital Mulund | Best Hospital in Mumbai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Fortis Hospital Mulund | Best Hospital in Mumbai has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Liver Transplant Surgery In Dombivli. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Mumbai can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "022 6884 6143",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/location/fortis-hospital-mulund-mumbai?utm_source",
+    "address": "Mulund - Goregaon Link Rd Nahur West, Industrial Area, Bhandup West, Mulund West, Mumbai, Maharashtra 400078",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400078",
+    "locality": "Mulund West",
+    "landmark": "Bhandup West",
+    "emergencyContact": "022 6884 6143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEL_F3l62bREUIPENANkgIF4n-5EwbqY5eUdI6-faGM1ixo0pEDLxuEV4QxzjQizNuhtVBALHw_8HsABP1si5LyYSJRN_pyBn9J4y0eJr3uqukE9IpsnIcNcOUtg6fjPv-Y4g99eRs_NStf=w1200-h900-p-k-no",
+    "logo": "https://www.fortishealthcare.com/themes/custom/fortis/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEL_F3l62bREUIPENANkgIF4n-5EwbqY5eUdI6-faGM1ixo0pEDLxuEV4QxzjQizNuhtVBALHw_8HsABP1si5LyYSJRN_pyBn9J4y0eJr3uqukE9IpsnIcNcOUtg6fjPv-Y4g99eRs_NStf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN62vWShxO3_gbBGKJhenFjaI-9muHrIVyL_pCT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNQcuDQfy9cjMGwX9E3e87DUX5Lg9DZWqlS5jIu=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMju0E9NTw9ay3BncT2nNcbx6tXqn-lbUUmYPG1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNBhQibd-hoaRJz67Gzuta7ycwjkBLWLfUnwmnI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.1617943,
+      "lng": 72.9418091,
+      "label": "Fortis Hospital Mulund | Best Hospital in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "g-plus-heart-hospital-and-multi-superspeciality-center-in-kalyan-kalyan",
+    "name": "G Plus Heart Hospital & Multi Superspeciality Center in Kalyan",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "G Plus Heart Hospital & Multi Superspeciality Center in Kalyan is a prominent hospital in Kalyan, known for structured tertiary care across Heart Surgery In Dombivli, Cardiac Care, and Speciality Care. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kalyan.",
+    "email": "",
+    "phone": "091526 07000",
+    "alternatePhone": "",
+    "website": "https://gpluskalyan.com/",
+    "address": "Sarvoday Classic, opp. Radha Nagar, Gandhar Nagar, Khadakpada, Kalyan, Maharashtra 421301",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421301",
+    "locality": "Khadakpada",
+    "landmark": "Gandhar Nagar",
+    "emergencyContact": "091526 07000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Dombivli",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUreLpT42WIyPUKgDCHsxcEkFlW4tua_hgLyc6zNjw3a_ustmuxbETzfk6Ml_dYdAABvoR0KJ8xi19sDtRmd8_hCtRMlaGqaWBjjbvxbK2mAbrI285xfTt83c5szviKnaIK4xL=w1200-h900-p-k-no",
+    "logo": "https://gpluskalyan.com/static/images/home/gplus_logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUreLpT42WIyPUKgDCHsxcEkFlW4tua_hgLyc6zNjw3a_ustmuxbETzfk6Ml_dYdAABvoR0KJ8xi19sDtRmd8_hCtRMlaGqaWBjjbvxbK2mAbrI285xfTt83c5szviKnaIK4xL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFulBLL4P47H_mDXsM9ufwhWz73M64tTaZH-VbRqdBDvZ1y8xf9oOF0E6Dfze94Ot2BOgOv4HvCxXKSwBuLLnaZASttYrOY-33OvB9K-t-8a5Ag-TvkVsSLQYmw5Pm4PjLejQ58tw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpGg1GXTBqGLFXnUtX4HjQmBccd086neWX1BsCKMgoC2lE8fuzKeGUFhnqnCw-05n-MmckhFSslj_-8PuXqn0s3xWlNJwEI2jzNtvrWeLfvBRKMVnjnrgsRhBGOau4XomWFyt6bQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFvhNQmz-evRAwhetXFlefO3w9CcNqkDhx8HmAUeE3bcC8PY7FZ2XekySunGAYf7Dh1tlD1TlJMCFmiIu1d_6-qbOoOTjWjBvA_ENRSC-tZ6NVrlNGw4LLQwncMg2IR3608KHw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4Y0Y3gP8gHYHDD7OUHYlSGQV3eAg98-6pduxORZofwSUncLrUwyMbeTQg1-DOjrFYjPkzmqqyParuowr5WV0glvHDwmKybCDearyczzj3MP-8S_z7NtWmbdcRayQDMXIVPb1smkW3JWw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2551787,
+      "lng": 73.1378811,
+      "label": "G Plus Heart Hospital & Multi Superspeciality Center in Kalyan",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gharda-hospital-dombivli",
+    "name": "Gharda Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dombivli, Gharda Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Dombivli. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli.",
+    "email": "",
+    "phone": "093217 47484",
+    "alternatePhone": "",
+    "website": "http://brghdombivli.org/",
+    "address": "Atmabodh building, Patkar Rd, opp. KDMC office, near Waman Hari Pethe Jwellers, Dombivli, Ramnagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "near Waman Hari Pethe Jwellers",
+    "landmark": "near Waman Hari Pethe Jwellers, Dombivli, Ramnagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "emergencyContact": "093217 47484",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyT1OaPU9b4g7eO3jclktkzjRo_upTTQKyHz-y9y6kpOL0Lgw8IAN5m2S5sJoARdXiqNSa-ZMS-x_FYRuO-ORURrwMbWyB3ehB0PiLdVtj6Hpo1NO9J_ZSn7WE5_Qq5qJE048=w1200-h900-p-k-no",
+    "logo": "https://brghdombivli.org/wp-content/uploads/2025/09/gharda-hospitals-logo-Photoroom-e1754467872308-1024x408.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyT1OaPU9b4g7eO3jclktkzjRo_upTTQKyHz-y9y6kpOL0Lgw8IAN5m2S5sJoARdXiqNSa-ZMS-x_FYRuO-ORURrwMbWyB3ehB0PiLdVtj6Hpo1NO9J_ZSn7WE5_Qq5qJE048=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2172945,
+      "lng": 73.0894996,
+      "label": "Gharda Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ghc-hospitals-thane",
+    "name": "GHC Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "GHC Hospitals is a prominent hospital in Thane, known for structured tertiary care across Liver Transplant Surgery In Dombivli. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Thane.",
+    "email": "",
+    "phone": "081042 42551",
+    "alternatePhone": "",
+    "website": "https://ghchospitals.com/",
+    "address": "Shil Road, Kausa, Mumbra, Thane, Maharashtra 400612",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": "400612",
+    "locality": "Mumbra",
+    "landmark": "Mumbra",
+    "emergencyContact": "081042 42551",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHebloi1DfxS2O6mfIwTnN8pgUjWSGFrOTqIomkslDjcHRvuiAd0UlhtD35xtlo1KlvRqVDPqZ7fTg8Kf-3K3N6Bv-UW3GkhYHMtezUTW2Q5HbjxX8dlS2OlLWb_FEiMzIzU8weRA=w1200-h900-p-k-no",
+    "logo": "https://www.ghchospitals.com/wp-content/uploads/2022/09/ghc-logo-png-e1662530265153.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHebloi1DfxS2O6mfIwTnN8pgUjWSGFrOTqIomkslDjcHRvuiAd0UlhtD35xtlo1KlvRqVDPqZ7fTg8Kf-3K3N6Bv-UW3GkhYHMtezUTW2Q5HbjxX8dlS2OlLWb_FEiMzIzU8weRA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDBEiQoy6tNsguB-Q8tXvLc1RtlwSwK9cYyi0SmLV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDBEiQoy6tNsguB-Q8tXvLc1RtlwSwK9cYyi0SmLVsVGFKLtca1CHuqdPRmNEjqK2fD7JcsoN3ZUADwjvH1gu1gFSWQB-PwqmmPK7Qo4DQ6W-7A_q9UzBNosH-mMaC4Q8qHEanjw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.1584052,
+      "lng": 73.0293209,
+      "label": "GHC Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hambarde-hospital-dombivli",
+    "name": "Hambarde Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, Hambarde Hospital brings together specialists for Urologist Surgery In Dombivli. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "098190 03870",
+    "alternatePhone": "",
+    "website": "",
+    "address": "638R+JJ4, Shahid Bhagat Singh Rd, Near Sarvesh Hall, Dombivli, Krishna Radha Society, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Near Sarvesh Hall",
+    "landmark": "Near Sarvesh Hall, Dombivli, Krishna Radha Society, Dombivli East, Kalyan, Maharashtra 421201",
+    "emergencyContact": "098190 03870",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPmvnOfiL7z2URp2ifo7qoR8xqUbuYH06jeb4QPDRHkv8CcFt1RJducrdqbCPKlku4NSzZDqEAWtjyrhsS5SetT3YF96-Bfq_PH78RL5I63xb1BiFM4tu35ui5Xq0kXW7Sj0be=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPmvnOfiL7z2URp2ifo7qoR8xqUbuYH06jeb4QPDRHkv8CcFt1RJducrdqbCPKlku4NSzZDqEAWtjyrhsS5SetT3YF96-Bfq_PH78RL5I63xb1BiFM4tu35ui5Xq0kXW7Sj0be=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2160146,
+      "lng": 73.0918746,
+      "label": "Hambarde Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hardikar-hospital-dombivli",
+    "name": "Hardikar Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hardikar Hospital has built a strong reputation in Dombivli for multidisciplinary treatment pathways covering Gynecologist Surgery In Dombivli. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "0251 244 5294",
+    "alternatePhone": "",
+    "website": "",
+    "address": "634R+9GM, Dombivli, Ramchandra Nagar, Dombivli East, Kalyan, Maharashtra 421204",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421204",
+    "locality": "",
+    "landmark": "Ramchandra Nagar",
+    "emergencyContact": "0251 244 5294",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=19.2059642%2C73.0913001&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=19.2059642%2C73.0913001&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.2059642%2C73.0913001&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.2059642%2C73.0913001&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2059642,
+      "lng": 73.0913001,
+      "label": "Hardikar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "heramb-eye-hospital-dombivli",
+    "name": "Heramb Eye Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dombivli, Heramb Eye Hospital delivers integrated care across Orthopedic Surgery In Dombivli. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dombivli.",
+    "email": "",
+    "phone": "098199 50515",
+    "alternatePhone": "",
+    "website": "https://drherambashokbhole.getmy.clinic/?utm_source",
+    "address": "B wing, 1st floor, Archis apartment, Tandon Rd, beside Gusto Pizzeria, Dombivli, Ramnagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "beside Gusto Pizzeria",
+    "landmark": "beside Gusto Pizzeria, Dombivli, Ramnagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "emergencyContact": "098199 50515",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENM7AENU3nyAlY_2GPlYHh-04E4aBoyzfxDhzKwDuLCberRB_QXCcSt7cifqy4h-HmrpLplWi87fTwgg_jIybjhwSN0BTfgBSs9J-8qqylH0tO-k2c4efLs0bgWeL1Pbf9vfcw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENM7AENU3nyAlY_2GPlYHh-04E4aBoyzfxDhzKwDuLCberRB_QXCcSt7cifqy4h-HmrpLplWi87fTwgg_jIybjhwSN0BTfgBSs9J-8qqylH0tO-k2c4efLs0bgWeL1Pbf9vfcw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOXDLI4zAz-pLpYl2p2Da42hnKam4LWvi88NCkk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPhLjqCbcEZjZyHOZn3f2yshZgkUYXuISRjRvB3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP9NQ7qiZQvvZDUIed4tQEtU_yZPn0WVsdQfz4Y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMobwDhFfoer7G3gY9LqSEROE7Z1LyLaGnz5Sfy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2148153,
+      "lng": 73.0862741,
+      "label": "Heramb Eye Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "icon-hospital-kalyan",
+    "name": "ICON Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kalyan often choose ICON Hospital for its strength in Urologist Surgery In Dombivli. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kalyan can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095944 02402",
+    "alternatePhone": "",
+    "website": "http://www.iconhospital.com/",
+    "address": "Manpada Rd, Mahaveer Nagar, Ganesh Nagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Dombivli East",
+    "landmark": "Ganesh Nagar",
+    "emergencyContact": "095944 02402",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFA11M9HyrgxT6YJeLl2IroWgIdxiW9mqAWbpNHcloNBS1MrrzGkzlPO4qs4Ftmu0U171JcuC_wi_JXaTGY242R-9R-ADRIhLWRmygqQESB7AWuX0FnCxvqNAKPqm5_GCwRO_c=w1200-h900-p-k-no",
+    "logo": "https://www.iconhospital.com/assets/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFA11M9HyrgxT6YJeLl2IroWgIdxiW9mqAWbpNHcloNBS1MrrzGkzlPO4qs4Ftmu0U171JcuC_wi_JXaTGY242R-9R-ADRIhLWRmygqQESB7AWuX0FnCxvqNAKPqm5_GCwRO_c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2078173,
+      "lng": 73.0942917,
+      "label": "ICON Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ishwar-hospital-dombivli",
+    "name": "Ishwar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ishwar Hospital is a prominent hospital in Dombivli, known for structured tertiary care across Liver Transplant Surgery In Dombivli. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sunder Society, R.P Rd, Dombivli, Ramnagar, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "R.P Rd",
+    "landmark": "Dombivli",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwl3-AgLWMVZP68Pi-3aUULxDvFYHyFux4K3RHIWCPFBugE0eLYsg1zNKxTI28j2uCKDUuegHpsVly2Alh0UHZLGOStzLWkjz--GOV5XR2ghE7TxYTEgUJlDMJc9hoeUIfQRsY=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwl3-AgLWMVZP68Pi-3aUULxDvFYHyFux4K3RHIWCPFBugE0eLYsg1zNKxTI28j2uCKDUuegHpsVly2Alh0UHZLGOStzLWkjz--GOV5XR2ghE7TxYTEgUJlDMJc9hoeUIfQRsY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2135721,
+      "lng": 73.0873179,
+      "label": "Ishwar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jan-kalyan-multispeciality-hospital-dombivli",
+    "name": "Jan Kalyan Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jan Kalyan Multispeciality Hospital has built a strong reputation in Dombivli for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Dombivli and Speciality Care. With public-facing highlights like Google rating 4.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099678 06118",
+    "alternatePhone": "",
+    "website": "https://www.jankalyanhospital.in/",
+    "address": "Malang Road, Malangad Road opp.kalyan janta shakari bank, Kalyan East., Dombivli, Maharashtra 421306",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421306",
+    "locality": "Kalyan East.",
+    "landmark": "Kalyan East.",
+    "emergencyContact": "099678 06118",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQrILFkhVwaOtH5pRjWMfaVgks6xkuzfROpRCg2zdAaCysacn37gfJjmkFNFbAEAUxuXii69xa0maxMoF5kXJRSVPVE4J7jrjBEZIsd5oSKVKCE0Nro0rv3QNsVNZh-cTIKBTWs0Z1w1k=w1200-h900-p-k-no",
+    "logo": "https://jankalyanhospital.in/wp-content/uploads/2022/06/121png.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQrILFkhVwaOtH5pRjWMfaVgks6xkuzfROpRCg2zdAaCysacn37gfJjmkFNFbAEAUxuXii69xa0maxMoF5kXJRSVPVE4J7jrjBEZIsd5oSKVKCE0Nro0rv3QNsVNZh-cTIKBTWs0Z1w1k=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNczXQLO9sPJgwomoDp0wozKvSczmujNkzVy6I3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPgoU604aThGtkNGCEqlZSJP13sIZKxUyBHKGK3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPYsOps7qEc3iZklP31ITY0nOVtPvL6wYNGqMFI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2177678,
+      "lng": 73.129206,
+      "label": "Jan Kalyan Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "janki-global-multispeciality-hospital-kalyan",
+    "name": "Janki global multispeciality hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Janki global multispeciality hospital is a prominent hospital in Kalyan, known for structured tertiary care across Orthopedic Surgery In Dombivli and Speciality Care. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kalyan.",
+    "email": "",
+    "phone": "077100 07730",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chaitanya Palace first floor near Anmol garden, 100 Feet Rd, beside Sai Marriage Hall, Kalyan East, Kalyan, Maharashtra 421306",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421306",
+    "locality": "Kalyan East",
+    "landmark": "near Anmol garden, 100 Feet Rd, beside Sai Marriage Hall, Kalyan East, Kalyan, Maharashtra 421306",
+    "emergencyContact": "077100 07730",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdyS_Y6Abjsj9d8L0SYBTytdjd_IZ2ou5Ftb-6kfKvEsnGUTBlNt73_YSZXAD-56H7yH2m_Iy0bTTgTQPkeMGEtQNmQrDJb2M-apGcfgrqFC252adlY1F-Dh6ZWyUY2ISfqZxC=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdyS_Y6Abjsj9d8L0SYBTytdjd_IZ2ou5Ftb-6kfKvEsnGUTBlNt73_YSZXAD-56H7yH2m_Iy0bTTgTQPkeMGEtQNmQrDJb2M-apGcfgrqFC252adlY1F-Dh6ZWyUY2ISfqZxC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNKuGemSd553ExUl2BDNizYOyLB9FhQbFo_bIKC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNDKSqs-JgqWHSAjroXuPQLEilMos_NMqevYASq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPXRGRTFG6Q9IEMIeVehJQ4aWBfNnZLZQO_1zkL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOJ74NY1IRrGtoP-RRd0k7XS0AKe7nPViH0-xUY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2146139,
+      "lng": 73.1312136,
+      "label": "Janki global multispeciality hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jinkushal-cardiac-care-and-superspeciality-hospital-best-heart-hospital-in-thane-top-hospitals-in-thane-cardiac-hospital-thane",
+    "name": "Jinkushal Cardiac Care & Superspeciality Hospital - Best Heart Hospital in Thane, Top Hospitals in Thane, Cardiac Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jinkushal Cardiac Care & Superspeciality Hospital - Best Heart Hospital in Thane, Top Hospitals in Thane, Cardiac Hospital has built a strong reputation in Thane for multidisciplinary treatment pathways covering Liver Transplant Surgery In Dombivli, Cardiac Care, and Speciality Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Thane.",
+    "email": "",
+    "phone": "092228 88070",
+    "alternatePhone": "",
+    "website": "https://www.jinkushalcardiaccare.com/",
+    "address": "Second Floor, Jinkushal Cardiac Care & Superspeciality Hospital, Rosa Vista, Ghodbunder Rd, opposite Suraj Water Park, Kavesar, Thane West, Thane, Maharashtra 400615",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": "400615",
+    "locality": "Thane West",
+    "landmark": "opposite Suraj Water Park, Kavesar, Thane West, Thane, Maharashtra 400615",
+    "emergencyContact": "092228 88070",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPHbUh68S-sF2XuZkzmm7m1XlIwSHSsg3kLcrfYdWtduyEcC55ZBhoAaZ_FY6ietvAqENfIlg0Z5k7KgqYOyW5ZK6fz_86n24IWBP0nord8oWC6K_GjD5LNYPCX-XZDlxiox8=w1200-h900-p-k-no",
+    "logo": "https://www.jinkushalcardiaccare.com/wp-content/uploads/2023/10/JCC-LOGO.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPHbUh68S-sF2XuZkzmm7m1XlIwSHSsg3kLcrfYdWtduyEcC55ZBhoAaZ_FY6ietvAqENfIlg0Z5k7KgqYOyW5ZK6fz_86n24IWBP0nord8oWC6K_GjD5LNYPCX-XZDlxiox8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMRKFjApYLu2wfnCIadXMVQ5rl_LxM6LJiqsJts=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM8dI-Bfv3VCJgxWAykI2RPMt6bgIKqSdP9xffP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNh1g5L6xlyXJw1BSooabcUHavXnDPxNn8IckD7=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNh0RztVQdF5c2dDRGW7PNNaXzA9EKYgN3bvr7P=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2556735,
+      "lng": 72.97168,
+      "label": "Jinkushal Cardiac Care & Superspeciality Hospital - Best Heart Hospital in Thane, Top Hospitals in Thane, Cardiac Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "joshi-hospital-dombivli-west",
+    "name": "JOSHI HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dombivli West, JOSHI HOSPITAL offers coordinated hospital care with major focus on Orthopedic Surgery In Dombivli. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli West.",
+    "email": "",
+    "phone": "0251 249 8144",
+    "alternatePhone": "",
+    "website": "",
+    "address": "639M+GCJ, Gaurishankar apartments, behind Bharat Natya Mandir, Shastri Nagar, Dombivli West, Maharashtra 421202",
+    "city": "Dombivli West",
+    "state": "Maharashtra",
+    "pincode": "421202",
+    "locality": "Shastri Nagar",
+    "landmark": "behind Bharat Natya Mandir",
+    "emergencyContact": "0251 249 8144",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=19.2188404%2C73.0835277&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=19.2188404%2C73.0835277&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.2188404%2C73.0835277&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.2188404%2C73.0835277&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2188404,
+      "lng": 73.0835277,
+      "label": "JOSHI HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jupiter-hospital-dombivli-east-dombivli",
+    "name": "Jupiter Hospital, Dombivli East",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dombivli, Jupiter Hospital, Dombivli East delivers integrated care across Liver Transplant Surgery In Dombivli. With public-facing highlights like Google rating 4.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli.",
+    "email": "",
+    "phone": "0251 658 5555",
+    "alternatePhone": "",
+    "website": "https://www.jupiterhospital.com/dombivli/",
+    "address": "1, Kalyan - Shilphata Rd, Dombivli, Bhadra Nagar, Dombivli East, Thane, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Kalyan - Shilphata Rd",
+    "landmark": "Dombivli",
+    "emergencyContact": "0251 658 5555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQceMPeq446nlyhy7XdZqzN86jXEEqLbAIzL4DqK8qKt4Pla-_MShYwWKTyvoPAxqj_V2D5whWwwTudRcEVPEaY2B3LQnbuMeKCelALq-0Dp6Euk1Z4IyvTnginqwAZQaM9hHy8aCq8ug=w1200-h900-p-k-no",
+    "logo": "https://www.jupiterhospital.com/wp-content/uploads/2022/12/jupiter-hospital-2.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQceMPeq446nlyhy7XdZqzN86jXEEqLbAIzL4DqK8qKt4Pla-_MShYwWKTyvoPAxqj_V2D5whWwwTudRcEVPEaY2B3LQnbuMeKCelALq-0Dp6Euk1Z4IyvTnginqwAZQaM9hHy8aCq8ug=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.1831403,
+      "lng": 73.0904223,
+      "label": "Jupiter Hospital, Dombivli East",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jupiter-hospital-thane-thane",
+    "name": "Jupiter Hospital, Thane",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Thane, Jupiter Hospital, Thane delivers integrated care across Liver Transplant Surgery In Dombivli. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Thane.",
+    "email": "",
+    "phone": "022 6297 5555",
+    "alternatePhone": "",
+    "website": "https://www.jupiterhospital.com/",
+    "address": "Service Rd, Eastern Express Hwy, next to Viviana Mall, Thane, Maharashtra 400601",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": "400601",
+    "locality": "next to Viviana Mall",
+    "landmark": "next to Viviana Mall",
+    "emergencyContact": "022 6297 5555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHsP4bvUUy39OTnnyLr-dYCr6DD36Ae2fwnivtlS5e_0MoF5WmhRWYNVSorkMo84b86JbPNKL8rx7tmS3NYE6ktG9PvXhYHUbaTrrSDOznsLskwx2sM-8tXBZYfcx15hjFkdsX=w1200-h900-p-k-no",
+    "logo": "https://www.jupiterhospital.com/wp-content/uploads/2022/12/jupiter-hospital-2.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHsP4bvUUy39OTnnyLr-dYCr6DD36Ae2fwnivtlS5e_0MoF5WmhRWYNVSorkMo84b86JbPNKL8rx7tmS3NYE6ktG9PvXhYHUbaTrrSDOznsLskwx2sM-8tXBZYfcx15hjFkdsX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFeOQoTf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFeOQoTfI36C_ew20xAfLn_o0AeVXG5Tl8xcj5DeLrsWedOEkL7kUmktXcLLrPKwYIAZ5qi4RH75VaasPuN85dbAiMJeZri-eRrFVOzFtAizLzTosk6tTKSIx3qlNHaBLnMDxmumfaTSDD-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGj5l9gptRhZ0NTmBSPc_yFtXg4GwqpNcDOTqKeAN3ccN7Dbhej4gxTdVnwStTostXzqNMVL9HWpvCU3jbgMmOOBUZk4athppmaigdaUaGMSN4_l12ER066SBo7-9LBf6S6S9t5vg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFAXGVFOC_uBWKuNoNB0C9ACA3c5S50COkEWWAarXDAXhGMIntB382MSoUd7RNHARh5Wxrlx-N8kIychKHIAPhblPXuwKqRJEopGP0hLGNko3q12v6jVYiJoh55fVQ7jksphOoA_Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2097096,
+      "lng": 72.9723931,
+      "label": "Jupiter Hospital, Thane",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jyotirmay-hospital-dombivli",
+    "name": "Jyotirmay Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, Jyotirmay Hospital brings together specialists for Heart Surgery In Dombivli. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "0251 244 9567",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Tilak Road, Dombivli, Krishna Radha Society, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Tilak Road",
+    "landmark": "Krishna Radha Society",
+    "emergencyContact": "0251 244 9567",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4KMkBidLvIfEnbsgNOk0ISCHbGMD2v7KtgshOkN-WZGJxGA4VZmwfWuiQE13HSt7dLdvoeRpMKQk_gu9Ke2PrL5Pw0lVrjgp2wTUscDhZVwctGmu_aIEwzHHuhWPkTzZ3rExoKw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4KMkBidLvIfEnbsgNOk0ISCHbGMD2v7KtgshOkN-WZGJxGA4VZmwfWuiQE13HSt7dLdvoeRpMKQk_gu9Ke2PrL5Pw0lVrjgp2wTUscDhZVwctGmu_aIEwzHHuhWPkTzZ3rExoKw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2163422,
+      "lng": 73.0921681,
+      "label": "Jyotirmay Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kamat-hospital-dombivli",
+    "name": "Kamat Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kamat Hospital has built a strong reputation in Dombivli for multidisciplinary treatment pathways covering Orthopedic Surgery In Dombivli. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "097697 88447",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sudama Nagar, Dombivli, MIDC Residential Area, Maharashtra 421203",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "Sudama Nagar",
+    "landmark": "MIDC Residential Area",
+    "emergencyContact": "097697 88447",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHL410I2g_pAJ64Q4N05yhDMqdnL8uw5B8vS7jzc_f4sB3n7nZ8x4jZrpF2aTIvp2PrQqYmEc1sNG_Hj7119Ru--Fxf5rB_m9UDAvNN3Tv8vdwiC3axzscmyVkuvbSm2IZ_Xzg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHL410I2g_pAJ64Q4N05yhDMqdnL8uw5B8vS7jzc_f4sB3n7nZ8x4jZrpF2aTIvp2PrQqYmEc1sNG_Hj7119Ru--Fxf5rB_m9UDAvNN3Tv8vdwiC3axzscmyVkuvbSm2IZ_Xzg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2067687,
+      "lng": 73.104808,
+      "label": "Kamat Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "karwa-hospital-and-heart-care-centre-dombivli",
+    "name": "Karwa Hospital & Heart Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli often choose Karwa Hospital & Heart Care Centre for its strength in General Surgery In Dombivli and Cardiac Care. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0251 243 8705",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Swar Ganga, Tilak Road, Dombivli East, Dombivli, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Dombivli East",
+    "landmark": "Tilak Road",
+    "emergencyContact": "0251 243 8705",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dombivli",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHF9WbxJrKPLJR1kaXAYndC5H0rjFgieLU9RfMO1WBZD-FVCOjY5p8l5KRX1DcjKQ7ud43wTOmfxnREcItcGwwLqqxXNRkiG3GmMYM478rljWQ56IPGaS1-WfV9zNCNF6mRvbCKFg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHF9WbxJrKPLJR1kaXAYndC5H0rjFgieLU9RfMO1WBZD-FVCOjY5p8l5KRX1DcjKQ7ud43wTOmfxnREcItcGwwLqqxXNRkiG3GmMYM478rljWQ56IPGaS1-WfV9zNCNF6mRvbCKFg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGyGq6-CUBkKfyeqIMsaCg_9LK8qy_hYIbGMH5UATx6WGH3UMfIxIx8wPb9dyrE0bvRS4QLe2pztntMWznvsqnrpJ0sdYZSqxXMNt8wvMZGBuhcR9a_WPYsjHYDcRsYAB2nVI3oTH6SZFKE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2163187,
+      "lng": 73.0926827,
+      "label": "Karwa Hospital & Heart Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "koparde-s-hospital-dombivli",
+    "name": "Koparde’s Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli often choose Koparde’s Hospital for its strength in Orthopedic Surgery In Dombivli. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "099690 25961",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Ashutosh Apartament, Koparde Hospital, Kalyan - Shilphata Rd, above Titan Shop, Dombivli, Dombivli East, Navi Mumbai, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "above Titan Shop",
+    "landmark": "Koparde Hospital",
+    "emergencyContact": "099690 25961",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEWIpjzADqeL5wjrPP_YRHnxEBXrZiJZ1_1hOM4-FvBbuzE9Ag5s-w-uGsAZv8Oy7tfXUnuTl_VAGrKUwLO5xtqhL85z7F1flxu9CGPqMEP90ADLFn7dDRhOM78MXu5CpPEZ2arA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEWIpjzADqeL5wjrPP_YRHnxEBXrZiJZ1_1hOM4-FvBbuzE9Ag5s-w-uGsAZv8Oy7tfXUnuTl_VAGrKUwLO5xtqhL85z7F1flxu9CGPqMEP90ADLFn7dDRhOM78MXu5CpPEZ2arA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.215382,
+      "lng": 73.0950292,
+      "label": "Koparde’s Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kumar-nursing-and-maternity-hospital-dombivli",
+    "name": "Kumar Nursing & Maternity Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kumar Nursing & Maternity Hospital has built a strong reputation in Dombivli for multidisciplinary treatment pathways covering Gynecologist Surgery In Dombivli. The facility stands out for Google rating 3.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0251 244 8693",
+    "alternatePhone": "",
+    "website": "http://www.jkwomenhospital.com/",
+    "address": "638R+C6J, Rd Number 2, Dombivli, Pendse Nagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Rd Number 2",
+    "landmark": "Dombivli",
+    "emergencyContact": "0251 244 8693",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwtAZe163QBYkm4j_cX4Dr7LEr_KEukkNMts3-fGRivkk6WgIUBEeBYCl9r00a3CDrD02_uWo0L7XtFLzE4Who4HcEFy3MMdLCVGqlh7CZCYovKlBenHTYafSc_n3sZrsiYwQ=w1200-h900-p-k-no",
+    "logo": "https://jkwomenhospital.com/wp-content/uploads/2024/07/logo-dark.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwtAZe163QBYkm4j_cX4Dr7LEr_KEukkNMts3-fGRivkk6WgIUBEeBYCl9r00a3CDrD02_uWo0L7XtFLzE4Who4HcEFy3MMdLCVGqlh7CZCYovKlBenHTYafSc_n3sZrsiYwQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2160778,
+      "lng": 73.0905128,
+      "label": "Kumar Nursing & Maternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lakshmi-hospital-dombivli",
+    "name": "Lakshmi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lakshmi Hospital is a prominent hospital in Dombivli, known for structured tertiary care across Urologist Surgery In Dombivli. With public-facing highlights like Google rating 3.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dombivli.",
+    "email": "",
+    "phone": "091522 81387",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Veera Shopping Centre, Dr. Raath Road, Station Rd, opp. Railway Station, Dombivli, Ramnagar, Dombivli East, Maharashtra 421021",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421021",
+    "locality": "opp. Railway Station",
+    "landmark": "Dr. Raath Road",
+    "emergencyContact": "091522 81387",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqvvOer9k_a_dEinFEX3HoauYq3KC9s3bsJpBIiXJMvtqDTY6f5_BRpD-WMSh5f77oZivhmeMBqW9pRAJeK5Zp81Jk3ZDbSDCgK1MhYGZ1yXLSMPjDDpMJ3cHnZXTUfUL05jdr=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqvvOer9k_a_dEinFEX3HoauYq3KC9s3bsJpBIiXJMvtqDTY6f5_BRpD-WMSh5f77oZivhmeMBqW9pRAJeK5Zp81Jk3ZDbSDCgK1MhYGZ1yXLSMPjDDpMJ3cHnZXTUfUL05jdr=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2177618,
+      "lng": 73.0871574,
+      "label": "Lakshmi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lotus-multispeciality-hospital-dombivli",
+    "name": "Lotus Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli often choose Lotus Multispeciality Hospital for its strength in Oncologist Surgery In Dombivli and Speciality Care. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "087797 21155",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First Floor, Manpada Rd, near Char Rasta Indira Tower, Dombivli, Dattanagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "near Char Rasta Indira Tower",
+    "landmark": "near Char Rasta Indira Tower, Dombivli, Dattanagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "emergencyContact": "087797 21155",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGNWWSEAFqAhSUv96T11ICP2ninitTDXE8zs0jJNOg4LHnYN7Ynj5IUvsK-kyR-fPrYhAOpG-l88yLxF098PSjVYAF8nA5unNGvNFs-NO2uge7s15ylZ44jy9gXgUOtNBMIAu5LrANNa7yQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGNWWSEAFqAhSUv96T11ICP2ninitTDXE8zs0jJNOg4LHnYN7Ynj5IUvsK-kyR-fPrYhAOpG-l88yLxF098PSjVYAF8nA5unNGvNFs-NO2uge7s15ylZ44jy9gXgUOtNBMIAu5LrANNa7yQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2127827,
+      "lng": 73.0918797,
+      "label": "Lotus Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "m-d-thakur-memorial-hospital-dombivli",
+    "name": "M.D.Thakur Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, M.D.Thakur Memorial Hospital brings together specialists for Gynecologist Surgery In Dombivli. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0251 244 5417",
+    "alternatePhone": "",
+    "website": "",
+    "address": "371, Road Number 5,MIDC, next to AIMS Hospital, Dombivli, Sudama Nagar, Dombivli East, Maharashtra 421203",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "next to AIMS Hospital",
+    "landmark": "MIDC",
+    "emergencyContact": "0251 244 5417",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9X7ZJD16TJk8rchlEcDgejT4rhrS0ZdbHERTy2S2utWpuXsm9342deBWSAhP7AmaTKSJsvJzXrmRKRK_I2oSdomqKRp-qDcZyicpAhL3yOvHjmAKAsnoMHePuPRPpPJFgQxv3=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9X7ZJD16TJk8rchlEcDgejT4rhrS0ZdbHERTy2S2utWpuXsm9342deBWSAhP7AmaTKSJsvJzXrmRKRK_I2oSdomqKRp-qDcZyicpAhL3yOvHjmAKAsnoMHePuPRPpPJFgQxv3=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2076631,
+      "lng": 73.1060616,
+      "label": "M.D.Thakur Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "madhusudan-multispeciality-hospital-mumbai",
+    "name": "Madhusudan Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Madhusudan Multispeciality Hospital brings together specialists for Urologist Surgery In Dombivli and Speciality Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Mumbai can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "076695 02802",
+    "alternatePhone": "",
+    "website": "https://madhusudhanmultispecialityhospital.in/",
+    "address": "1&2nd floor, Radhabai Palace, 103, 203, Manpada Rd, opp. Bank of Baroda, Star Colony, Dombivali (E, Mumbai, Maharashtra 421201",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Dombivali (E",
+    "landmark": "103",
+    "emergencyContact": "076695 02802",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFquV9WquJ67sVuPCjb5ldg7wJHkmYlwA_FZ4wuKX76XvRpV6iK9Cmi2TUCGTJ_sXuU9pcoqSlyrcWTR3Fu1_-GsuDyr-gzDy_Xl12UQu2_pV4fQ9DDHtofZKdjwEU1PcYarM=w1200-h900-p-k-no",
+    "logo": "https://www.madhusudhanmultispecialityhospital.in/assets/image/LogoDark.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFquV9WquJ67sVuPCjb5ldg7wJHkmYlwA_FZ4wuKX76XvRpV6iK9Cmi2TUCGTJ_sXuU9pcoqSlyrcWTR3Fu1_-GsuDyr-gzDy_Xl12UQu2_pV4fQ9DDHtofZKdjwEU1PcYarM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2041503,
+      "lng": 73.0956244,
+      "label": "Madhusudan Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mahalaxmi-hospital-kalyan",
+    "name": "Mahalaxmi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kalyan, Mahalaxmi Hospital brings together specialists for Gynecologist Surgery In Dombivli. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kalyan.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near Samrat Hotel, Jai Hind Colony, Vishnu Nagar, Dombivli West, Kalyan, Maharashtra 421202",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421202",
+    "locality": "Dombivli West",
+    "landmark": "Vishnu Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzmcqWq-HGar_pL1ZKFq8wtLpLlUxUUxJC0ZACKqlYMLa4f2muoR9Edgd9EFX5Z7sZ24NY2jQBL4mmkuuyfFp2qh_DazW9B6YUJuFnYgQw9FgmzhhpMTn_cITBn6Jtpthw19E0zTEr4XI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzmcqWq-HGar_pL1ZKFq8wtLpLlUxUUxJC0ZACKqlYMLa4f2muoR9Edgd9EFX5Z7sZ24NY2jQBL4mmkuuyfFp2qh_DazW9B6YUJuFnYgQw9FgmzhhpMTn_cITBn6Jtpthw19E0zTEr4XI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2218899,
+      "lng": 73.0819386,
+      "label": "Mahalaxmi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mahavir-hospital-dombivli",
+    "name": "Mahavir Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli often choose Mahavir Hospital for its strength in Kidney Transplant Surgery In Dombivli. The facility stands out for Google rating 3.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0251 243 0004",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mahavir hospital, P&T Colony Rd, opposite Gurudev family restaurant and bar, Dombivli, P and T Colony, Dombivli East, Kalyan, Maharashtra 421204",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421204",
+    "locality": "opposite Gurudev family restaurant and bar",
+    "landmark": "opposite Gurudev family restaurant and bar, Dombivli, P and T Colony, Dombivli East, Kalyan, Maharashtra 421204",
+    "emergencyContact": "0251 243 0004",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFB6TPh7wds3luWXokz8p0c62wAFIIZU4-i1lfCBAwkzjcNha_MCa34UfizVCxD-tPQkhxObJ_0VY1wnfpyouo1wVmFi0VSAu8VSgbkkwXZx6Ig0XpqhIeYKDyYjKxhn3W7Fm_6=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFB6TPh7wds3luWXokz8p0c62wAFIIZU4-i1lfCBAwkzjcNha_MCa34UfizVCxD-tPQkhxObJ_0VY1wnfpyouo1wVmFi0VSAu8VSgbkkwXZx6Ig0XpqhIeYKDyYjKxhn3W7Fm_6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2033074,
+      "lng": 73.0924113,
+      "label": "Mahavir Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manasvi-spine-and-ortho-care-dombivli",
+    "name": "Manasvi Spine & Ortho Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli often choose Manasvi Spine & Ortho Care for its strength in Spine Surgery In Dombivli, Spine Care, and Orthopaedics. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "0251 244 0060",
+    "alternatePhone": "",
+    "website": "https://www.thespinecare.in/index.php?/contact",
+    "address": "Sai Plaza, Dr R.P. Rd, near Tilak Post Office, Dombivli, Tilak Nagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "near Tilak Post Office",
+    "landmark": "near Tilak Post Office, Dombivli, Tilak Nagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "emergencyContact": "0251 244 0060",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Dombivli",
+      "Spine Care",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5Q_xYjhthYpNJuceH--1HBV4-i1ifk5kwDZR7kQsqYYA4WdT6y5db46i2sKWBF_L0MnKXZo7gnLTgIjtcvwkILOIIv2s1-Dd1NjZZGNhvJbkkzviTZnaa2JkoBM9VDuO0ZWzuVA=w1200-h900-p-k-no",
+    "logo": "https://www.thespinecare.in/assest/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5Q_xYjhthYpNJuceH--1HBV4-i1ifk5kwDZR7kQsqYYA4WdT6y5db46i2sKWBF_L0MnKXZo7gnLTgIjtcvwkILOIIv2s1-Dd1NjZZGNhvJbkkzviTZnaa2JkoBM9VDuO0ZWzuVA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPavicda54BMCSqXlXJv2jZ4NizLFcJvOUSk4Nz=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2150479,
+      "lng": 73.0930525,
+      "label": "Manasvi Spine & Ortho Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manav-kalyan-kendra-hospital-dombivli",
+    "name": "Manav Kalyan Kendra Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Manav Kalyan Kendra Hospital is a prominent hospital in Dombivli, known for structured tertiary care across Urologist Surgery In Dombivli. Operational strengths including Google rating 3.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dombivli.",
+    "email": "",
+    "phone": "0251 244 5574",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ground, 1st & 2nd Floor, Sharda Apartment, TATA Power Lane, Dombivli, Joshi Wadi, Tilak Nagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "TATA Power Lane",
+    "landmark": "Sharda Apartment",
+    "emergencyContact": "0251 244 5574",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpG-psYqK4XjEarR1OwtItZzrhUyT17x8Tmb9ydO6SWXH1tYKzgTmzptQzR25nn3pHv0I824RszHdPvO5cN_VjJ8rT3sj3sl9tjeiw1TnBbzMqCy9saPY2YoluLeuRLpWOlKmxRLcvIh5H=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpG-psYqK4XjEarR1OwtItZzrhUyT17x8Tmb9ydO6SWXH1tYKzgTmzptQzR25nn3pHv0I824RszHdPvO5cN_VjJ8rT3sj3sl9tjeiw1TnBbzMqCy9saPY2YoluLeuRLpWOlKmxRLcvIh5H=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2150008,
+      "lng": 73.0913852,
+      "label": "Manav Kalyan Kendra Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mdm-dawadi-hospital-pvt-ltd-dombivli",
+    "name": "MDM Dawadi Hospital pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, MDM Dawadi Hospital pvt Ltd brings together specialists for Oncologist Surgery In Dombivli. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "081888 66779",
+    "alternatePhone": "",
+    "website": "http://www.mdmdawadihospital.com/",
+    "address": "Dawadi Gaon Rd, Dombivli, Sonar Pada, Dombivli East, Kalyan, Maharashtra 421203",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "Dawadi Gaon Rd",
+    "landmark": "Sonar Pada",
+    "emergencyContact": "081888 66779",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHq0YXMdNHJSCi2S111aJiTDN8GQ4zYYzlgwZuGv4KLM4gR6KbeTBOURwxVhzekTFRNn-5WTRz87p7C0b1Yv3fVneKJsAr9cmqVflSp17ChrdUPhcM7h-AaxC5DN1KlUqhcNulZIm3mCWeH=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHq0YXMdNHJSCi2S111aJiTDN8GQ4zYYzlgwZuGv4KLM4gR6KbeTBOURwxVhzekTFRNn-5WTRz87p7C0b1Yv3fVneKJsAr9cmqVflSp17ChrdUPhcM7h-AaxC5DN1KlUqhcNulZIm3mCWeH=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2013058,
+      "lng": 73.1130214,
+      "label": "MDM Dawadi Hospital pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medwell-multispeciality-hospital-kalyan",
+    "name": "MEDWELL MULTISPECIALITY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kalyan, MEDWELL MULTISPECIALITY HOSPITAL offers coordinated hospital care with major focus on Hip Replacement Surgery In Dombivli and Speciality Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kalyan.",
+    "email": "",
+    "phone": "090908 98993",
+    "alternatePhone": "",
+    "website": "https://medwellhospitalkalyan.com/",
+    "address": "Murlidhar Ali Rd, par naka, Kalyan West, Kalyan, Maharashtra 421301",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421301",
+    "locality": "Kalyan West",
+    "landmark": "Kalyan West",
+    "emergencyContact": "090908 98993",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZHufdN-Ugfo2ObYJqjIRgmp_lAro-OPLAQJCV3r3UFX0vGMhZsDb_DV_vsVaZZkGghhkDdElu0t7_wO2JW6d843cK9wPblNPS6vCya-0frI4PX3xn8m7LX0zvU4FTsuCsJXS1oQ=w1200-h900-p-k-no",
+    "logo": "https://medwellhospitalkalyan.com/img/icon.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZHufdN-Ugfo2ObYJqjIRgmp_lAro-OPLAQJCV3r3UFX0vGMhZsDb_DV_vsVaZZkGghhkDdElu0t7_wO2JW6d843cK9wPblNPS6vCya-0frI4PX3xn8m7LX0zvU4FTsuCsJXS1oQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMAZR1YAsrl9v389AkbQnBs6Bvbc1g32NDv22BA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOQtOTc4AOUM5pnWMBrBbjbYN62goL4RkvInO7A=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO7MD0T5qwpgyHvTfFwXxMVrhchk_wHWxldEnrf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOzxwr0kTf0ZsA9RbHemHXFl4Ku3PeIKJXaX84v=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2447079,
+      "lng": 73.1240522,
+      "label": "MEDWELL MULTISPECIALITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nahar-dombivli",
+    "name": "Nahar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, Nahar brings together specialists for Laparoscopic Surgery In Dombivli. With public-facing highlights like Google rating 3.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070453 80007",
+    "alternatePhone": "",
+    "website": "https://www.rnaharhospital.com/",
+    "address": "Bagalya Darshan Shankara Nagar, Kasturi Ashish, Regency Road( Kalyan-Suil Road), near Venkatesh Petrol Pump, Dombivli, Maharashtra 421203",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "near Venkatesh Petrol Pump",
+    "landmark": "near Venkatesh Petrol Pump, Dombivli, Maharashtra 421203",
+    "emergencyContact": "070453 80007",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWPiLt5xCJluWeiU8kgLXP_4zop9_pAGWI1a92lAej-pqiYm9cSQZbffKjiadVnFxuL9KBwBZA1y_TgP-aKaMCE9RH4__kzpSAUl6wULQvO7viRUvEvLLrW5EHM5U8j67hG9x61g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWPiLt5xCJluWeiU8kgLXP_4zop9_pAGWI1a92lAej-pqiYm9cSQZbffKjiadVnFxuL9KBwBZA1y_TgP-aKaMCE9RH4__kzpSAUl6wULQvO7viRUvEvLLrW5EHM5U8j67hG9x61g=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.204894,
+      "lng": 73.10742,
+      "label": "Nahar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "neptune-superspeciality-hospital-dombivli",
+    "name": "Neptune Superspeciality Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Neptune Superspeciality Hospital is a prominent general hospital in Dombivli, known for structured tertiary care across Orthopedic Surgery In Dombivli and Speciality Care. Its infrastructure includes Google rating 4.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dombivli.",
+    "email": "",
+    "phone": "084258 41002",
+    "alternatePhone": "",
+    "website": "http://www.neptune-hospital.com/",
+    "address": "1st Floor, Jai Hanuman Plaza, Kalyan - Shilphata Rd, Dombivli, Sonar Pada, Dombivli East, Kalyan, Maharashtra 421203",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "Kalyan - Shilphata Rd",
+    "landmark": "Kalyan - Shilphata Rd",
+    "emergencyContact": "084258 41002",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHnux9aUZHVd4tCfuAAf9_N9OPYP7m-EB-27mWuYZTQJ81ZcV7O1crASbn383el5Lvpjwa7S1LdcIefPFntUQuMZ1Z3vebynHHzHAbI8Cnacb6WCCrNZlLSq3ItsZP82a_9uY=w1200-h900-p-k-no",
+    "logo": "https://static.wixstatic.com/media/25884e_c03c6a79d0b143088a6c782e9e5a0512~mv2.png/v1/fill/w_174,h_122,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/nabh-pre-accredited-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHnux9aUZHVd4tCfuAAf9_N9OPYP7m-EB-27mWuYZTQJ81ZcV7O1crASbn383el5Lvpjwa7S1LdcIefPFntUQuMZ1Z3vebynHHzHAbI8Cnacb6WCCrNZlLSq3ItsZP82a_9uY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZnhQxEUyOtLZqebPfUa5s5BYwwwORcwOBOdrhmwIVL-cRVWbVyyPFCbIlp3gY-ydXA-5LZojJNEhfdSsJBlDr4PkAVtXfI9yYyMYJrfA4d9nBMJx0s7i6nQ0LoSIF1hhPU4ZPGpGM2Dg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2009198,
+      "lng": 73.1032708,
+      "label": "Neptune Superspeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "new-balajee-hospital-diva",
+    "name": "New Balajee Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Diva, New Balajee Hospital delivers integrated care across Laparoscopic Surgery In Dombivli. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Diva.",
+    "email": "",
+    "phone": "080 6548 8949",
+    "alternatePhone": "",
+    "website": "https://www.newbalajeehospital.in/",
+    "address": "Matoshree Apartment, 1st Floor, Khardigoan Shilphata Road, Near Sai Shrusti Height, Khardi Goan Diva east, Khardigoan, Diva, Maharashtra 400612",
+    "city": "Diva",
+    "state": "Maharashtra",
+    "pincode": "400612",
+    "locality": "Khardigoan",
+    "landmark": "Near Sai Shrusti Height, Khardi Goan Diva east, Khardigoan, Diva, Maharashtra 400612",
+    "emergencyContact": "080 6548 8949",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzGQUiD6_2a0KOt2-J8puH7mWwe47SvOfiFcfrWLig3v4b-kBa5eSVINN7WpsDv-IMukEflVeDxhY_VdCDoW7e0VWGlSk9qp67aomWoMBFDnSWaQT0ejjN4J7Trz9A2KkDCb9iT9hyH4rV=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzGQUiD6_2a0KOt2-J8puH7mWwe47SvOfiFcfrWLig3v4b-kBa5eSVINN7WpsDv-IMukEflVeDxhY_VdCDoW7e0VWGlSk9qp67aomWoMBFDnSWaQT0ejjN4J7Trz9A2KkDCb9iT9hyH4rV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPjbmjuKvi6ptMjFsRnMWcfjxrfiARiUChRkcnk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMbmUxAvsdO_7mtuKa_Up2wVkPOqKghyqwDHMCc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMe4-bKI-uecktd-dqOBtWd2aQ1M5CpRc4gwdtp=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2103319,
+      "lng": 73.1056257,
+      "label": "New Balajee Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nirman-ivf-center-best-ivf-center-in-dombivli-thane-mumbai-dombivli",
+    "name": "Nirman IVF Center | Best IVF Center in Dombivli Thane, Mumbai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli often choose Nirman IVF Center | Best IVF Center in Dombivli Thane, Mumbai for its strength in IVF In Dombivli and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "086525 53338",
+    "alternatePhone": "",
+    "website": "https://www.nirmanivf.in/",
+    "address": "Manpada Rd, Dombivli, Gandhi Nagar, Dombivli East, Kalyan, Maharashtra 421204",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421204",
+    "locality": "Manpada Rd",
+    "landmark": "Gandhi Nagar",
+    "emergencyContact": "086525 53338",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Dombivli",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMJSqH-YiTG-0R9wg4NVpDqS9tugoYqt_jvZ21RJ5N4kH609VMOL9NsUpSvIPTn99mIZxTSZAIu-sXL-EKnpgddKK8DUDZnhtES7SpGcMVucfbt6gHKdYAOZuQgOxlwRFm9zHz=w1200-h900-p-k-no",
+    "logo": "https://www.nirmanivf.in/Assets/nirmanivf-logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMJSqH-YiTG-0R9wg4NVpDqS9tugoYqt_jvZ21RJ5N4kH609VMOL9NsUpSvIPTn99mIZxTSZAIu-sXL-EKnpgddKK8DUDZnhtES7SpGcMVucfbt6gHKdYAOZuQgOxlwRFm9zHz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOO-Mvgicdn0RB42-Z9wBQHn36lS_9NA1MCIgmS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOxLt7m26vYbqPWs7he6ZXN-o-5gfI8qnD-gCnZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPTvpSxdO_tmaSV0tHspSUzsNCj21iKiLpTiEzR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2044872,
+      "lng": 73.0954934,
+      "label": "Nirman IVF Center | Best IVF Center in Dombivli Thane, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "noble-hospital-dombivli",
+    "name": "noble hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dombivli, noble hospital offers coordinated hospital care with major focus on Cancer Surgery In Dombivli. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dombivli.",
+    "email": "",
+    "phone": "0251 286 0041",
+    "alternatePhone": "",
+    "website": "http://noblehospital.co.in/",
+    "address": "1st floor, Sanat Sasta Bhaji Mandai, opp. Puja Madhuban Theatre, Ursekarwadi, Dombivli, Dombivli East, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Ursekarwadi",
+    "landmark": "opp. Puja Madhuban Theatre",
+    "emergencyContact": "0251 286 0041",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEb1eVEHDjnxWPS8_Bh_-0BoD_4CWFt3CGx9FhZxkEY9R4xmFE6S0oLcGWUV4RpnTJambDfpOvfV1JRnBiG3rb-y2OWjmmpRBeKXHdzlh_V01BSHTWTw9nb_yMKlXszWEvMd2Apqg=w1200-h900-p-k-no",
+    "logo": "http://noblehospital.co.in/assets/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEb1eVEHDjnxWPS8_Bh_-0BoD_4CWFt3CGx9FhZxkEY9R4xmFE6S0oLcGWUV4RpnTJambDfpOvfV1JRnBiG3rb-y2OWjmmpRBeKXHdzlh_V01BSHTWTw9nb_yMKlXszWEvMd2Apqg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2176504,
+      "lng": 73.0882443,
+      "label": "noble hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "noble-nx-hospital-dombivli",
+    "name": "Noble NX Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Noble NX Hospital is a prominent hospital in Dombivli, known for structured tertiary care across Oncologist Surgery In Dombivli. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli.",
+    "email": "",
+    "phone": "090761 51555",
+    "alternatePhone": "",
+    "website": "https://noblehospital.co.in/",
+    "address": "Sai Paradise, 1 st floor, Ghanshyam Gupte Road, Dombivli, Vishnu Nagar, Dombivli West, Maharashtra 421202",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421202",
+    "locality": "Ghanshyam Gupte Road",
+    "landmark": "Ghanshyam Gupte Road",
+    "emergencyContact": "090761 51555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4ytD4DcZi8W4-K9qbC6LUNvf8FfHjnBks2KOJWM-to7peMQYjO9_lMqypYsMOng7M7rgNUzREwO_zlmSEkZlUFPoelnRq2ssyg5F61T0UT2vf_6JILnRcoQhRubMnbU-XHbIm1w=w1200-h900-p-k-no",
+    "logo": "https://noblehospital.co.in/assets/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4ytD4DcZi8W4-K9qbC6LUNvf8FfHjnBks2KOJWM-to7peMQYjO9_lMqypYsMOng7M7rgNUzREwO_zlmSEkZlUFPoelnRq2ssyg5F61T0UT2vf_6JILnRcoQhRubMnbU-XHbIm1w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2198323,
+      "lng": 73.0867357,
+      "label": "Noble NX Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ojas-hospital-maternity-nicu-paediatric-respiratory-hospital-and-sleep-lab-dombivli",
+    "name": "Ojas Hospital - Maternity,NICU, Paediatric, Respiratory hospital and Sleep Lab",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli often choose Ojas Hospital - Maternity,NICU, Paediatric, Respiratory hospital and Sleep Lab for its strength in Orthopedic Surgery In Dombivli. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0251 245 0097",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sai Plaza, post office, Dr R.P. Rd, near Tilak nagar, Dombivli, Tilak Nagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "near Tilak nagar",
+    "landmark": "near Tilak nagar, Dombivli, Tilak Nagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "emergencyContact": "0251 245 0097",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGMAthsihLuoRsvB49Oz1wI2CLcyu4ymzQuPiqsNq0ESlxj8b6-IC-DrRUqQ6GO3aBx8CNXMID509ATS660_9RoLaH3bBtsn2KzUwC5T4xP7e2VV5XNwKMs1QbWPktgohdXms1K29cZcdZ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGMAthsihLuoRsvB49Oz1wI2CLcyu4ymzQuPiqsNq0ESlxj8b6-IC-DrRUqQ6GO3aBx8CNXMID509ATS660_9RoLaH3bBtsn2KzUwC5T4xP7e2VV5XNwKMs1QbWPktgohdXms1K29cZcdZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2149701,
+      "lng": 73.0930658,
+      "label": "Ojas Hospital - Maternity,NICU, Paediatric, Respiratory hospital and Sleep Lab",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "om-hospital-dombivli",
+    "name": "Om Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli often choose Om Hospital for its strength in Urologist Surgery In Dombivli. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072080 13582",
+    "alternatePhone": "",
+    "website": "http://www.omhospital.com/",
+    "address": "1st Floor, Tandon Rd, Dombivli, Ramnagar, Dombivli East, Thane, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Tandon Rd",
+    "landmark": "Dombivli",
+    "emergencyContact": "072080 13582",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqXdSf-p9lCSmqINRutJrBEBG8fQPSZBSi-AWfJaWPF0jPxmqu_BczlaTO_jw07if9OgH9gk9XtBmJwhy3zvbdT-z1ycGR-k33xNUqp1DlICn3Kwmfz6l0jlmoVZa2w1QRwpHL=w1200-h900-p-k-no",
+    "logo": "https://omhospital.com/wp-content/uploads/2021/06/logo-main-mobile.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqXdSf-p9lCSmqINRutJrBEBG8fQPSZBSi-AWfJaWPF0jPxmqu_BczlaTO_jw07if9OgH9gk9XtBmJwhy3zvbdT-z1ycGR-k33xNUqp1DlICn3Kwmfz6l0jlmoVZa2w1QRwpHL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN91YkbiMUHc3DFpMm-vFN_6BO-7twy7Y7Y3lz6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNDApZIl8J_904j_mFwr_uuOpPRUUHs4SjncQea=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMaGqVSfipMthPbNsfa3lv4OZZOeYO8SiOnaDdm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPMtcBTX4yjXkYSR6lbr-kjqkxPOa2jQOBjrKl6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.214063,
+      "lng": 73.0868708,
+      "label": "Om Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "optilife-multispeciality-hospital-iccu-and-nicu-dombivli",
+    "name": "Optilife Multispeciality Hospital ICCU & NICU",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, Optilife Multispeciality Hospital ICCU & NICU brings together specialists for Urologist Surgery In Dombivli and Speciality Care. Its infrastructure includes Google rating 4.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "080808 05918",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Phonix Arcade, Manpada Rd, near Domino's, Dombivli, Ayodhya nagari, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "near Domino's",
+    "landmark": "near Domino's, Dombivli, Ayodhya nagari, Dombivli East, Kalyan, Maharashtra 421201",
+    "emergencyContact": "080808 05918",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1urir4HBU3sMXT2KHZdGdr3rCt8wc99RgXqdmnP2-iUBrkJSQUoVHUP0sZGB_zsGKsqKZKccez2n8EVLgWywkzlG42ngekcMAM8n2GFFyc6iJX7f2O6UD0TuJv-bCU0qCm5KK=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1urir4HBU3sMXT2KHZdGdr3rCt8wc99RgXqdmnP2-iUBrkJSQUoVHUP0sZGB_zsGKsqKZKccez2n8EVLgWywkzlG42ngekcMAM8n2GFFyc6iJX7f2O6UD0TuJv-bCU0qCm5KK=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMxKNMdy1LqOhRhAhUID6S2PzXDk13FiF6wxkcT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMNBz9NvdQ7UnpQvqiGMRFS7KyqzrmQwjBwn050=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM2bAMiUov_e1NX3sZjoVHv93o5J8F9V-mObLdd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMCbOOfJhDkia4xB0Q1DHRIBPHVfC5kNRmzcq0i=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2072002,
+      "lng": 73.0953756,
+      "label": "Optilife Multispeciality Hospital ICCU & NICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ozone-dombivli",
+    "name": "Ozone",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli often choose Ozone for its strength in Urologist Surgery In Dombivli. With public-facing highlights like Google rating 3.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "091520 46666",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mahatma Gandhi Rd, Dombivli, Vishnu Nagar, Dombivli West, Kalyan, Maharashtra 421202",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421202",
+    "locality": "Mahatma Gandhi Rd",
+    "landmark": "Vishnu Nagar",
+    "emergencyContact": "091520 46666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjz7nwhDAn9qi34BwZ1c1ayiAuNcxMnXAjQlGouhB3NEDSARfl9yz-xMunj6TizXW9RKEBazyIBUiqjfhx4nWCM_T9Ndv6buUiNhME5ZpMp6NZirc4jzeurFNNHnTUT4UhlN4=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjz7nwhDAn9qi34BwZ1c1ayiAuNcxMnXAjQlGouhB3NEDSARfl9yz-xMunj6TizXW9RKEBazyIBUiqjfhx4nWCM_T9Ndv6buUiNhME5ZpMp6NZirc4jzeurFNNHnTUT4UhlN4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2202486,
+      "lng": 73.0886235,
+      "label": "Ozone",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "padmashree-hospital-kalyan",
+    "name": "Padmashree Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Kalyan, Padmashree Hospital delivers integrated care across Orthopedic Surgery In Dombivli. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kalyan.",
+    "email": "",
+    "phone": "0251 244 2287",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chandrama, L, N. Marg, Shrikhande Wadi, Sangeeta Wadi, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Dombivli East",
+    "landmark": "N. Marg",
+    "emergencyContact": "0251 244 2287",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=19.2122375%2C73.0917584&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=19.2122375%2C73.0917584&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.2122375%2C73.0917584&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.2122375%2C73.0917584&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2122375,
+      "lng": 73.0917584,
+      "label": "Padmashree Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "phoenix-hospital-and-fertility-center-dombivli",
+    "name": "Phoenix Hospital and Fertility Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Phoenix Hospital and Fertility Center has built a strong reputation in Dombivli for multidisciplinary treatment pathways covering IVF In Dombivli and Fertility Care. The facility stands out for Google rating 4.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098203 57305",
+    "alternatePhone": "",
+    "website": "https://www.drnileshshirodkar.com/",
+    "address": "Opposite DNC School, near Pragati College, Dombivli, Dombivli East, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "near Pragati College",
+    "landmark": "near Pragati College, Dombivli, Dombivli East, Maharashtra 421201",
+    "emergencyContact": "098203 57305",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Dombivli",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDaZKJixvl5CJHNf0JvPVLS4hLoEiLkptFAxZAJiJursLNORi2ItTkTS37uaFTh56_X91oDeAwT5LdrorI2apDj4LZbR0wrsXhaAJ_n4lUyrdoqltmxWdEemL7fkpvP3kHYxtG=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDaZKJixvl5CJHNf0JvPVLS4hLoEiLkptFAxZAJiJursLNORi2ItTkTS37uaFTh56_X91oDeAwT5LdrorI2apDj4LZbR0wrsXhaAJ_n4lUyrdoqltmxWdEemL7fkpvP3kHYxtG=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2090284,
+      "lng": 73.0888852,
+      "label": "Phoenix Hospital and Fertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "platinum-hospital-dombivli",
+    "name": "Platinum Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Platinum Hospital has built a strong reputation in Dombivli for multidisciplinary treatment pathways covering Gynecologist Surgery In Dombivli. Its infrastructure includes Google rating 4.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "633V+5WG Yende Compound, L B, Manpada Rd, Dombivli, Sagaon, Dombivli East, Kalyan, Maharashtra 421204",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421204",
+    "locality": "Manpada Rd",
+    "landmark": "Manpada Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGG9O0xZkUfrep6TfhHT0KgdpHVSORpwi5NW-PwVr-ADk_4oKPdlX8DoYZxjXPGo8cTwAxbxZJEZ0ACr2-XIDzyHHRG6GRBoNemmYNZ0ls0LRwRuxcow6yecqT-N8-sOAx6ziNJ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGG9O0xZkUfrep6TfhHT0KgdpHVSORpwi5NW-PwVr-ADk_4oKPdlX8DoYZxjXPGo8cTwAxbxZJEZ0ACr2-XIDzyHHRG6GRBoNemmYNZ0ls0LRwRuxcow6yecqT-N8-sOAx6ziNJ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2029259,
+      "lng": 73.094909,
+      "label": "Platinum Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pmr-s-ace-children-s-hospital-kalyan",
+    "name": "PMR's ACE Children's Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kalyan, PMR's ACE Children's Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Dombivli and Women and Child Care. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kalyan.",
+    "email": "",
+    "phone": "096197 30904",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Star Colony, Nandivali Panchanand, Dombivli East, Kalyan, Maharashtra 421204",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421204",
+    "locality": "Dombivli East",
+    "landmark": "Dombivli East",
+    "emergencyContact": "096197 30904",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_W406CvKJzAUufcJ6RctobZIo8DnlkRJLqxv9NM3x6NwsyYf2oH4GEAASBAL2oa3bIAExuaAyeI6drgl9r7qCGdH99i9fbdAc3mLTojqaEaNlsGZYm_sZz_gT10A83xwq5afw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_W406CvKJzAUufcJ6RctobZIo8DnlkRJLqxv9NM3x6NwsyYf2oH4GEAASBAL2oa3bIAExuaAyeI6drgl9r7qCGdH99i9fbdAc3mLTojqaEaNlsGZYm_sZz_gT10A83xwq5afw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2037777,
+      "lng": 73.094907,
+      "label": "PMR's ACE Children's Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "saarth-netralay-dombivli",
+    "name": "Saarth Netralay",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, Saarth Netralay brings together specialists for Orthopedic Surgery In Dombivli. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "084250 08986",
+    "alternatePhone": "",
+    "website": "https://saarthnetralay.com/",
+    "address": "1st Floor, Gautameshwardham, Tandon Rd, Dombivli, Ramnagar, Dombivli East, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Tandon Rd",
+    "landmark": "Tandon Rd",
+    "emergencyContact": "084250 08986",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVR289XpdCKeA4MzBHiCankWlUVQadqA0JKsxETtiIW5FWD5ylinQWbQeX_eb6K8PPPfyHDKgBVYkOwe4aroshtf1NbWvOZxaXfIX7dhSn7ufvFI19QKFz8-GzOgpXdt5zGVjfQA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVR289XpdCKeA4MzBHiCankWlUVQadqA0JKsxETtiIW5FWD5ylinQWbQeX_eb6K8PPPfyHDKgBVYkOwe4aroshtf1NbWvOZxaXfIX7dhSn7ufvFI19QKFz8-GzOgpXdt5zGVjfQA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPZxAV7_HaphOXNnzAiijD5mlrzOrtHvCbI20CK=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOXBxOooUAyr8Ros2n37DVk_i1pbkHX3oPyKsKH=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPbfCyZf7OOi-94eRMo1BD6GfADPjIeR6HkdKCy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPzWqXkxoTU9QyB3fdCTfVeCOqgCUfz-71hFFZR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2135421,
+      "lng": 73.0870514,
+      "label": "Saarth Netralay",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sai-amrut-multispeciality-hospital-best-hospital-multispeciality-hospital-nursing-facility-in-dombivali-dombivli",
+    "name": "Sai Amrut Multispeciality Hospital - Best Hospital | Multispeciality Hospital | Nursing Facility in Dombivali",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sai Amrut Multispeciality Hospital - Best Hospital | Multispeciality Hospital | Nursing Facility in Dombivali is a prominent hospital in Dombivli, known for structured tertiary care across Oncologist Surgery In Dombivli and Speciality Care. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli.",
+    "email": "",
+    "phone": "085913 29368",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gymkhana Rd, Dombivli, Sagarli Gaon, Dombivli East, Kalyan, Maharashtra 421203",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "Gymkhana Rd",
+    "landmark": "Sagarli Gaon",
+    "emergencyContact": "085913 29368",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6M9aAt4zCCdz4sVmHGV8KbiipeFbybCmVxu2S1UX2Ufm28Hfww7pwA4aBvVu4fAgamKzSZT-rC_9ZjdQVAFpi3BqDG4lkqlsJQSnLjmAd49auPqtR9tF0gIMJ3vnI66RnJ8GKCg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6M9aAt4zCCdz4sVmHGV8KbiipeFbybCmVxu2S1UX2Ufm28Hfww7pwA4aBvVu4fAgamKzSZT-rC_9ZjdQVAFpi3BqDG4lkqlsJQSnLjmAd49auPqtR9tF0gIMJ3vnI66RnJ8GKCg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2095101,
+      "lng": 73.1000032,
+      "label": "Sai Amrut Multispeciality Hospital - Best Hospital | Multispeciality Hospital | Nursing Facility in Dombivali",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sai-hospital-and-icu-best-multi-speciality-hospital-in-dombivli-emergency-and-trauma-critical-top-hospitals-dombivli-east-dombivli",
+    "name": "Sai Hospital & Icu - Best Multi-Speciality Hospital in Dombivli | Emergency & Trauma Critical | Top Hospitals Dombivli East",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli often choose Sai Hospital & Icu - Best Multi-Speciality Hospital in Dombivli | Emergency & Trauma Critical | Top Hospitals Dombivli East for its strength in Kidney Transplant Surgery In Dombivli and Speciality Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074004 64468",
+    "alternatePhone": "",
+    "website": "https://saihospitaldombivli.com/",
+    "address": "Vaibhav Nagari, Kalyan - Shilphata Rd, Dombivli, Katai, Kalyan, Maharashtra 421204",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421204",
+    "locality": "Kalyan - Shilphata Rd",
+    "landmark": "Dombivli",
+    "emergencyContact": "074004 64468",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGlA7PHWV_OaW7p5ZdsqrSCIC_1STc4SEgJlYlbdwQQ1ySJfslk70PccttLfEV3TPolIoeTx-HngvE0DbF84wHO7ZmanHI1gpt8j9XDd_ngUzVf8A7dORks-0DwdrwHBgjqo2fqUyrkcODf=w1200-h900-p-k-no",
+    "logo": "https://saihospitaldombivli.com/wp-content/uploads/2023/07/sai-hospital-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGlA7PHWV_OaW7p5ZdsqrSCIC_1STc4SEgJlYlbdwQQ1ySJfslk70PccttLfEV3TPolIoeTx-HngvE0DbF84wHO7ZmanHI1gpt8j9XDd_ngUzVf8A7dORks-0DwdrwHBgjqo2fqUyrkcODf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPA663cCEytAgB6ddxzw6O-t4nG3PdYaUB0kmf1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMXs1tn81VWWJu8f1spjFT_YFMmBwf9HoGXlv9r=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPI_T_Uex4essc2D637_Z3cqCWlFBVLjYW4eMm1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOE4LHHK2SfeOBkGW2g7mEjFkLj8WFJl-_JErqb=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.1736086,
+      "lng": 73.0846206,
+      "label": "Sai Hospital & Icu - Best Multi-Speciality Hospital in Dombivli | Emergency & Trauma Critical | Top Hospitals Dombivli East",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sai-isha-multispecialty-hospital-kalyan",
+    "name": "Sai Isha Multispecialty Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kalyan, Sai Isha Multispecialty Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Dombivli and Speciality Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kalyan.",
+    "email": "",
+    "phone": "099870 81890",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Agra Rd, above Dr. Telavne clinic, near PNG Jewelers, Swanand Nagar, Kalyan West, Kalyan, Maharashtra 421301",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421301",
+    "locality": "Kalyan West",
+    "landmark": "near PNG Jewelers, Swanand Nagar, Kalyan West, Kalyan, Maharashtra 421301",
+    "emergencyContact": "099870 81890",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgR3b4Mzht77F61BNZZ0-fMfkJ5UfwyXkodZz8yrdmowruNnQEE4nFCyqLc__Xf-iS0-BRrQhBmCVAf0i-wOzRyniBucti7mjEletQ14P8v51rp--BOBPvPLeAGMUwPizEHYCtMw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgR3b4Mzht77F61BNZZ0-fMfkJ5UfwyXkodZz8yrdmowruNnQEE4nFCyqLc__Xf-iS0-BRrQhBmCVAf0i-wOzRyniBucti7mjEletQ14P8v51rp--BOBPvPLeAGMUwPizEHYCtMw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOs8LuSBQF1g8jWeIMJyGlbEkS4mhEqgX5C3xoH=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOZRqlSFr1HTD1W8-oKAUFXbG2PTA6dVLpLFIyj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPWxOsOv_wiJwwBYj-RX1s=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPWxOsOv_wiJwwBYj-RX1s5EdFmVUYqz5Aa8AYk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2452829,
+      "lng": 73.1274596,
+      "label": "Sai Isha Multispecialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sai-shraddha-hospital-mumbai",
+    "name": "SAI SHRADDHA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, SAI SHRADDHA HOSPITAL offers coordinated hospital care with major focus on Oncologist Surgery In Dombivli. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Mumbai.",
+    "email": "",
+    "phone": "086557 06203",
+    "alternatePhone": "",
+    "website": "http://www.omhospital.com/",
+    "address": "1st Floor, Klassik Aptn, Koper Rd, Near Santoshimata Mandir, Dombivili West, Mumbai, Maharashtra 421202",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "421202",
+    "locality": "Dombivili West",
+    "landmark": "Near Santoshimata Mandir, Dombivili West, Mumbai, Maharashtra 421202",
+    "emergencyContact": "086557 06203",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERSJg9d9ICpVvb4D93obgY4vxKo5XnA-IlYH7HT2-HMmjGx1ltsz9qxhovqOZaB3WZTDGqsUr2ZlRpIGyVUANViLl98isOtC4Idk8HzHuTOxL41DqNZoBxm6bNQFinTDf5yF1z=w1200-h900-p-k-no",
+    "logo": "https://omhospital.com/wp-content/uploads/2021/06/logo-main-mobile.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERSJg9d9ICpVvb4D93obgY4vxKo5XnA-IlYH7HT2-HMmjGx1ltsz9qxhovqOZaB3WZTDGqsUr2ZlRpIGyVUANViLl98isOtC4Idk8HzHuTOxL41DqNZoBxm6bNQFinTDf5yF1z=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2149473,
+      "lng": 73.0801803,
+      "label": "SAI SHRADDHA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "saijyot-multispeciality-hospital-dombivli",
+    "name": "Saijyot Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Saijyot Multispeciality Hospital has built a strong reputation in Dombivli for multidisciplinary treatment pathways covering Urologist Surgery In Dombivli and Speciality Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "093205 85849",
+    "alternatePhone": "",
+    "website": "http://www.saijyothospital.in/",
+    "address": "Suchit Square, Dr.R P Road, Ram Nagar, Dombivli East, Dombivli, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Dombivli East",
+    "landmark": "Ram Nagar",
+    "emergencyContact": "093205 85849",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2efRkqIf87n7pMs6-xyLG1FbzX8N0rr0xK85440_85ydnajjj-KIviz72WvFeNJZktaLawJ-wyvGr2Z8I_DhFDKQOi_uq0qDn7bMd0Ck1kVVYGTeq5og1ZAbNDREtYFeU_ywm=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2efRkqIf87n7pMs6-xyLG1FbzX8N0rr0xK85440_85ydnajjj-KIviz72WvFeNJZktaLawJ-wyvGr2Z8I_DhFDKQOi_uq0qDn7bMd0Ck1kVVYGTeq5og1ZAbNDREtYFeU_ywm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOFZL-r5JGKAZyGd5uxCAebrLdvdNR-Juqt8L3j=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPDEwI27oVO6lNMHbUM72zq7JqwpdLFq2heWVaj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNaQmReXA-ZcuKrs_O3_2hUtO2HsZq50lIUQhEw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM6yR_dfE_rK-bGKcBlzg5WsiRZtQ5AUR9ZZLVh=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2136774,
+      "lng": 73.0881243,
+      "label": "Saijyot Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "samarth-multispeciality-hospital-dombivali-dombivli",
+    "name": "Samarth Multispeciality Hospital - Dombivali",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dombivli, Samarth Multispeciality Hospital - Dombivali delivers integrated care across Urologist Surgery In Dombivli and Speciality Care. With public-facing highlights like Google rating 4.1, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dombivli.",
+    "email": "",
+    "phone": "097025 50900",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Omkar Conclave, Shiv Mandir Rd, opposite Shiv Mandir, Dombivli, Ramnagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "opposite Shiv Mandir",
+    "landmark": "opposite Shiv Mandir, Dombivli, Ramnagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "emergencyContact": "097025 50900",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDqbEx54LJukYTbyAGtUWN67RTmEgVnH244Txr7TJW_8DTnz2vWC6a0ILBg8FkdemaXNBtjYROCn1PWaQozi3z0tVS9hT5mdXaSZGwoBd8kYvHFHS91KlC4if2COebAJ7VSpQzDg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDqbEx54LJukYTbyAGtUWN67RTmEgVnH244Txr7TJW_8DTnz2vWC6a0ILBg8FkdemaXNBtjYROCn1PWaQozi3z0tVS9hT5mdXaSZGwoBd8kYvHFHS91KlC4if2COebAJ7VSpQzDg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOcdgH-vpBbub5LM04AiCDJba02Y5P0eL1Q3Rdx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPvcA5QqIBfjs6jBVez_7wwBBiJAqvsUHt7KbhZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPG0iGRLQym_G2vT6LwHLGFiuGzkdDhE0-Le7jD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNytKx6blRtnefvZi9eBttmOppu8HAHJWDrMbwW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2133407,
+      "lng": 73.0893187,
+      "label": "Samarth Multispeciality Hospital - Dombivali",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "samata-hospital-in-dombivli-best-multispecialty-hospital-for-hernia-gallbladder-piles-fissure-and-fistula-treatment-thane",
+    "name": "Samata Hospital in Dombivli - Best Multispecialty Hospital for Hernia, Gallbladder, Piles, Fissure & Fistula Treatment",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Thane, Samata Hospital in Dombivli - Best Multispecialty Hospital for Hernia, Gallbladder, Piles, Fissure & Fistula Treatment offers coordinated hospital care with major focus on Urologist Surgery In Dombivli and Speciality Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Thane.",
+    "email": "",
+    "phone": "094038 90477",
+    "alternatePhone": "",
+    "website": "https://www.samatahospital.com/multispeciality-hospital/",
+    "address": "2nd Floor, Swara Emerald, Samata Hospital, Dr R.P. Rd, Tilak Nagar, Dombivli East, Thane, Maharashtra 421201",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Dombivli East",
+    "landmark": "Samata Hospital",
+    "emergencyContact": "094038 90477",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMVUdy5gyrrfuE8vYxtXDqng6XKzP4_L7d-nY5iNRaoo-t97phroIjPArEG_y3WXe13dmFsEDiRV1K25fMX3rD5BAPlG4UksiLdA7yu_hjuSIUWQyY7ICkF09cRKD0Kw7IcfPOBIuDAAvQ=w1200-h900-p-k-no",
+    "logo": "https://www.samatahospital.com/wp-content/uploads/2025/11/Samata-Logo_Final-Converted-1-1024x345.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMVUdy5gyrrfuE8vYxtXDqng6XKzP4_L7d-nY5iNRaoo-t97phroIjPArEG_y3WXe13dmFsEDiRV1K25fMX3rD5BAPlG4UksiLdA7yu_hjuSIUWQyY7ICkF09cRKD0Kw7IcfPOBIuDAAvQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNNL3aSJcZ3fqGqKKnX64_2AlttY2f_F9iVzAZy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPIuo2bAbtUDpfFxZ5sJS9BlDmNpbvEd4DkxQnU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNuijfA1YtPGT8DD5Wh9ufzluti1rDvaScGR_Ei=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN58mJ7EqESEn5wHGRY1mHpNF5fJxbzGZyQ47Hl=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.214708,
+      "lng": 73.0932699,
+      "label": "Samata Hospital in Dombivli - Best Multispecialty Hospital for Hernia, Gallbladder, Piles, Fissure & Fistula Treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sanjivani-surgical-and-maternity-hospital-dombivli",
+    "name": "Sanjivani Surgical and Maternity Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sanjivani Surgical and Maternity Hospital has built a strong reputation in Dombivli for multidisciplinary treatment pathways covering Liver Transplant Surgery In Dombivli. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "0251 286 1598",
+    "alternatePhone": "",
+    "website": "",
+    "address": "638P+H85, Rajaji Path, Dombivli, Ramnagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Rajaji Path",
+    "landmark": "Dombivli",
+    "emergencyContact": "0251 286 1598",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=19.2163821%2C73.0858625&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=19.2163821%2C73.0858625&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.2163821%2C73.0858625&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.2163821%2C73.0858625&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2163821,
+      "lng": 73.0858625,
+      "label": "Sanjivani Surgical and Maternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sanvik-super-speciality-hospital-heart-care-all-mediclaims-icu-cashless-general-surgery-gynac-kalyan",
+    "name": "Sanvik Super Speciality Hospital | Heart Care | All Mediclaims | ICU | Cashless | General Surgery | Gynac",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kalyan, Sanvik Super Speciality Hospital | Heart Care | All Mediclaims | ICU | Cashless | General Surgery | Gynac offers coordinated hospital care with major focus on Oncologist Surgery In Dombivli, Cardiac Care, and Speciality Care. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kalyan.",
+    "email": "",
+    "phone": "099300 88533",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chakki Naka, Metro Mall Road, Kalyan East, Kalyan, Maharashtra 421306",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421306",
+    "locality": "Kalyan East",
+    "landmark": "Kalyan East",
+    "emergencyContact": "099300 88533",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Dombivli",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcynVItKefPfngqpTUBgQS3k-eOx7myfWIUKu-InUMOfV8MpUCpHFYQ1iOEDlw9e5bb1xW916RRVDvJTyIVMR3P5u6BvrAmVjGwI3yeGVnIq_6q3IJ2DSL26vjz5C85cM1xe_iCQzt6nIF=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcynVItKefPfngqpTUBgQS3k-eOx7myfWIUKu-InUMOfV8MpUCpHFYQ1iOEDlw9e5bb1xW916RRVDvJTyIVMR3P5u6BvrAmVjGwI3yeGVnIq_6q3IJ2DSL26vjz5C85cM1xe_iCQzt6nIF=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2247568,
+      "lng": 73.1265863,
+      "label": "Sanvik Super Speciality Hospital | Heart Care | All Mediclaims | ICU | Cashless | General Surgery | Gynac",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sawant-hospital-dombivli-west",
+    "name": "Sawant Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli West often choose Sawant Hospital for its strength in Urologist Surgery In Dombivli. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli West.",
+    "email": "",
+    "phone": "074002 02412",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rajendra CHS, dindayal cross road, road, near samrat chowk, Thakurwadi, Dombivli West, Maharashtra 421202",
+    "city": "Dombivli West",
+    "state": "Maharashtra",
+    "pincode": "421202",
+    "locality": "Thakurwadi",
+    "landmark": "near samrat chowk, Thakurwadi, Dombivli West, Maharashtra 421202",
+    "emergencyContact": "074002 02412",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=19.222029%2C73.0807992&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=19.222029%2C73.0807992&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.222029%2C73.0807992&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.222029%2C73.0807992&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.222029,
+      "lng": 73.0807992,
+      "label": "Sawant Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-ashirwad-hospital-kalyan",
+    "name": "Shree Ashirwad Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Ashirwad Hospital has built a strong reputation in Kalyan for multidisciplinary treatment pathways covering Orthopedic Surgery In Dombivli. Its infrastructure includes Google rating 3.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kalyan.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "A-1 Manpada Rd Purva Society, Manpada Rd, Purva Society, Gograswadi, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Dombivli East",
+    "landmark": "Purva Society",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8Tp6Qt4g43N6XykjBXLeyCAZPT2OoZ8RrhHhREszJO7dasCV0FvkDHAndxZ7FvqiTAW115L4_jO5MJKtdQ0pnHSVDTUCyWhRAVmhruCbcXN2gDMyYlwnAB5LrQRaniREm0aZ0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8Tp6Qt4g43N6XykjBXLeyCAZPT2OoZ8RrhHhREszJO7dasCV0FvkDHAndxZ7FvqiTAW115L4_jO5MJKtdQ0pnHSVDTUCyWhRAVmhruCbcXN2gDMyYlwnAB5LrQRaniREm0aZ0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2076537,
+      "lng": 73.0949129,
+      "label": "Shree Ashirwad Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-gajanan-hospital-mumbai",
+    "name": "Shree Gajanan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Gajanan Hospital is a prominent hospital in Mumbai, known for structured tertiary care across Orthopedic Surgery In Dombivli. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Mumbai.",
+    "email": "",
+    "phone": "084258 63766",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Umbarli Road, Manpada Gaon, near Samant (Manpada) Petrol Pump, Dombivli East, Mumbai, Maharashtra 421204",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "421204",
+    "locality": "Dombivli East",
+    "landmark": "near Samant (Manpada) Petrol Pump, Dombivli East, Mumbai, Maharashtra 421204",
+    "emergencyContact": "084258 63766",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2qCxkba_8MoRfkdRk7Kg85fwUMuPPuhc1IXKtoc6GUeD2XBsb7OBznARxXF3_eZAZdiIC_3uOXS_4GlJ6DuXGl2ZXUaOqUyTe6ux_PV4XVHmCkYB4Zz5iDWovDV1wrYgB_PDW=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2qCxkba_8MoRfkdRk7Kg85fwUMuPPuhc1IXKtoc6GUeD2XBsb7OBznARxXF3_eZAZdiIC_3uOXS_4GlJ6DuXGl2ZXUaOqUyTe6ux_PV4XVHmCkYB4Zz5iDWovDV1wrYgB_PDW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.1857027,
+      "lng": 73.0919807,
+      "label": "Shree Gajanan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-krishna-maternity-and-surgical-hospital-dombivli",
+    "name": "Shree Krishna Maternity and Surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, Shree Krishna Maternity and Surgical Hospital brings together specialists for Gynecologist Surgery In Dombivli. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "099200 26569",
+    "alternatePhone": "",
+    "website": "",
+    "address": "first floor, Shree Ram Galaxy, Patharli Rd, opp. Sai baba Mandir, near Sarita Ice Factory, Dombivli, Ayodhya nagari, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "near Sarita Ice Factory",
+    "landmark": "near Sarita Ice Factory, Dombivli, Ayodhya nagari, Dombivli East, Kalyan, Maharashtra 421201",
+    "emergencyContact": "099200 26569",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8pvfr4_ahIsmI1fm3HHNV1DhviFN7cCMXY_IJu2QQa_N1eZi6kxhBdD1vh5yJHzhljeJ9yDf2bOFpk1ydbkUu0_hsMxDkYwo7WF6wxpJzxV4F4M0SbMzH6sCBNMHwozTV7lCz=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8pvfr4_ahIsmI1fm3HHNV1DhviFN7cCMXY_IJu2QQa_N1eZi6kxhBdD1vh5yJHzhljeJ9yDf2bOFpk1ydbkUu0_hsMxDkYwo7WF6wxpJzxV4F4M0SbMzH6sCBNMHwozTV7lCz=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2070328,
+      "lng": 73.096412,
+      "label": "Shree Krishna Maternity and Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-sadguru-krupa-hospital-dombivli",
+    "name": "Shree Sadguru Krupa Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dombivli, Shree Sadguru Krupa Hospital delivers integrated care across Spine Surgery In Dombivli. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dombivli.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ghanshyam Gupte Road, near Gopi mall, Dombivli, Vishnu Nagar, Dombivli West, Kalyan, Maharashtra 421202",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421202",
+    "locality": "near Gopi mall",
+    "landmark": "near Gopi mall, Dombivli, Vishnu Nagar, Dombivli West, Kalyan, Maharashtra 421202",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEu6d9Wj459_2g2RQoPw8ROxqLKsFNfIEdb37l8p8wqLzkcdl3lGeD6toV6lDrsBi5qDlQ9n4qciAwy7OQjwAp-1Ij_jGjVyhobH_vQUZhgeKei-4cG2kkfRSd3cw1eYfHipsUH0SljIhI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEu6d9Wj459_2g2RQoPw8ROxqLKsFNfIEdb37l8p8wqLzkcdl3lGeD6toV6lDrsBi5qDlQ9n4qciAwy7OQjwAp-1Ij_jGjVyhobH_vQUZhgeKei-4cG2kkfRSd3cw1eYfHipsUH0SljIhI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2219829,
+      "lng": 73.0848329,
+      "label": "Shree Sadguru Krupa Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-siddhi-women-s-and-general-hospital-mumbai",
+    "name": "Shree Siddhi Women's & General Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Shree Siddhi Women's & General Hospital offers coordinated hospital care with major focus on IVF In Dombivli and Women and Child Care. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Mumbai.",
+    "email": "",
+    "phone": "099677 67852",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Parshwa Bhakti, Near Apna Bazar, Opp. Riksha Stand, Gandhi Nagar Rd, Ganesh Nagar, Dombivli East, Mumbai, Maharashtra 421201",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Dombivli East",
+    "landmark": "Near Apna Bazar, Opp. Riksha Stand, Gandhi Nagar Rd, Ganesh Nagar, Dombivli East, Mumbai, Maharashtra 421201",
+    "emergencyContact": "099677 67852",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Dombivli",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9iyXwsGjQ5dzm9xfW15EvSeA6eWeo7AJnXg8X1V_lgBXAvhe-YNalpPC6huudu99moz0I_LYNoheuc4adWGibGR3LVx-920nPwTcNC7jFAuhSutzspy0KZNzW7YRU1FOj4ibA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9iyXwsGjQ5dzm9xfW15EvSeA6eWeo7AJnXg8X1V_lgBXAvhe-YNalpPC6huudu99moz0I_LYNoheuc4adWGibGR3LVx-920nPwTcNC7jFAuhSutzspy0KZNzW7YRU1FOj4ibA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2067978,
+      "lng": 73.093299,
+      "label": "Shree Siddhi Women's & General Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-siddhivinayak-hospital-dombivli-east",
+    "name": "Shree Siddhivinayak Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Siddhivinayak Hospital is a prominent private hospital in Dombivli East, known for structured tertiary care across Urologist Surgery In Dombivli. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli East.",
+    "email": "",
+    "phone": "086522 28774",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6456+GC4, kalyan shill road dawdi naka, near suyog hotel, Golavli, Dombivli East, Maharashtra 421203",
+    "city": "Dombivli East",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "Golavli",
+    "landmark": "near suyog hotel, Golavli, Dombivli East, Maharashtra 421203",
+    "emergencyContact": "086522 28774",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=19.208761%2C73.1110712&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=19.208761%2C73.1110712&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.208761%2C73.1110712&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.208761%2C73.1110712&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.208761,
+      "lng": 73.1110712,
+      "label": "Shree Siddhivinayak Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shreedevi-hospital-mumbai",
+    "name": "Shreedevi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mumbai, Shreedevi Hospital delivers integrated care across Orthopedic Surgery In Dombivli. With public-facing highlights like Google rating 4.4 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Mumbai.",
+    "email": "",
+    "phone": "070455 89938",
+    "alternatePhone": "",
+    "website": "http://www.shreedevihospital.com/",
+    "address": "Akash Arcade, Deepak Shetty Road Bail Bazar Circle Near Bhanu Sagar Cinema, Kalyan West, Mumbai, Maharashtra 421301",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "421301",
+    "locality": "Kalyan West",
+    "landmark": "Near Bhanu Sagar Cinema, Kalyan West, Mumbai, Maharashtra 421301",
+    "emergencyContact": "070455 89938",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGv9PDsbO3_LH2QOEggX9AaY2nqfm2JMd7M6EdHl8-z92TtP3gKUzMCX8qIb_9-EHcuD7zDp7nAHiHbcbS3enaFQXupTgtlkWCxGpnrrOf6GjWjYV5O9AzxX5CaAuKy7wT5yfMu=w1200-h900-p-k-no",
+    "logo": "https://www.shreedevihospital.com/images/logo_shreedevi.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGv9PDsbO3_LH2QOEggX9AaY2nqfm2JMd7M6EdHl8-z92TtP3gKUzMCX8qIb_9-EHcuD7zDp7nAHiHbcbS3enaFQXupTgtlkWCxGpnrrOf6GjWjYV5O9AzxX5CaAuKy7wT5yfMu=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGq4T0Et95LR7Dau6DIDQLVtQhnQ2NkDqDLt2SpU4STu2kdSvrRR3kC6cmDonlxutVt_tyOTGBoVIpJBIW47TGjP4GSvfMX9NhMiCJZA7gJZBze9YQGoLj_mM5MqaXSqTSfhl0Y=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2360674,
+      "lng": 73.1273023,
+      "label": "Shreedevi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shri-shatayu-multispeciality-hospital-thakurli",
+    "name": "Shri Shatayu Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shri Shatayu Multispeciality Hospital is a prominent hospital in Thakurli, known for structured tertiary care across Urologist Surgery In Dombivli and Speciality Care. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Thakurli.",
+    "email": "",
+    "phone": "084337 76871",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ground and First Floor , Vitthal Darshan Society Near Ambar Enclave Blg behind Icici bank 90 feet road, E, Khambalpada Rd, Thakurli, Maharashtra 421201",
+    "city": "Thakurli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Khambalpada Rd",
+    "landmark": "Near Ambar Enclave Blg behind Icici bank 90 feet road, E, Khambalpada Rd, Thakurli, Maharashtra 421201",
+    "emergencyContact": "084337 76871",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQwECvYg64cUVw9GBGn03sAJiq3_MO53dH7i9FlXxAydl2psHrSqEpOWjs4u50CSCDxLdyvvoDRkhY5blvCARkCDyx9osjsGBeQQIty78Sm3k7jODMKqYSGYYYSU-1ccpfKclXWWa0S0IO=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQwECvYg64cUVw9GBGn03sAJiq3_MO53dH7i9FlXxAydl2psHrSqEpOWjs4u50CSCDxLdyvvoDRkhY5blvCARkCDyx9osjsGBeQQIty78Sm3k7jODMKqYSGYYYSU-1ccpfKclXWWa0S0IO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2249826,
+      "lng": 73.1053568,
+      "label": "Shri Shatayu Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "silver-crest-hospital-kalyan",
+    "name": "Silver Crest Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kalyan, Silver Crest Hospital offers coordinated hospital care with major focus on Oncologist Surgery In Dombivli. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kalyan.",
+    "email": "",
+    "phone": "090444 86662",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st, Shree Mangalmurti Complex, above 90 Feet Road, Thakurli, Chole Gaon, Kalyan, Maharashtra 421201",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Chole Gaon",
+    "landmark": "above 90 Feet Road",
+    "emergencyContact": "090444 86662",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_qpa3FuINj8yXqXeExPtV2sS2xkxtZ2sQc6_uYS0bTQW6JuKd_-ZoOGpJJR5Iy1-63TaUwADYrxwtogsNnVOmi3O-UGcNNxkKkRKFpcg6G8daT2IYKDqSQLJIEiEdAAZCv55dPA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_qpa3FuINj8yXqXeExPtV2sS2xkxtZ2sQc6_uYS0bTQW6JuKd_-ZoOGpJJR5Iy1-63TaUwADYrxwtogsNnVOmi3O-UGcNNxkKkRKFpcg6G8daT2IYKDqSQLJIEiEdAAZCv55dPA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM8FzD9X8HT3JEmeaR96COL_Bc-IrvwNkMW1Zfr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMLzZCxNhNHpkt8VIYAEAb8jq-8ojuVYgGpUYIV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOtmuV_IigPHoO77lZ1dwMn3tOCYZxsSNI9de6d=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPDH3n4Xwz35uaWhxUdooE7fgwH1Sgtgxg1_Inj=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2238586,
+      "lng": 73.1019105,
+      "label": "Silver Crest Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "spandan-hospital-dombivli",
+    "name": "Spandan Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dombivli, Spandan Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Dombivli. Operational strengths including Google rating 3.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "63CP+JR2, Mahatma Phule Rd, Dombivli, Vishnu Nagar, Dombivli West, Kalyan, Maharashtra 421202",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421202",
+    "locality": "Mahatma Phule Rd",
+    "landmark": "Dombivli",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqe6pbF5ZHJRuzAIbRrRaNr7ki9e9G4o4ZqLGtcsJlt0FjI_OdWZ-IiV8RJfG1CRS2ycFNJp6pjuVJpKFD5WfPuYFhWnDqyEfONDXmmsZIgUTW_rX3cSt-GxU2_bQvSYsnrIUW0Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqe6pbF5ZHJRuzAIbRrRaNr7ki9e9G4o4ZqLGtcsJlt0FjI_OdWZ-IiV8RJfG1CRS2ycFNJp6pjuVJpKFD5WfPuYFhWnDqyEfONDXmmsZIgUTW_rX3cSt-GxU2_bQvSYsnrIUW0Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2215217,
+      "lng": 73.0870208,
+      "label": "Spandan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sparsh-multispeciality-hospital-dombivli",
+    "name": "Sparsh Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dombivli, Sparsh Multispeciality Hospital delivers integrated care across Urologist Surgery In Dombivli and Speciality Care. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli.",
+    "email": "",
+    "phone": "077000 58105",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Dr R.P. Rd, near Tilak School Road, Dombivli, Tilak Nagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "near Tilak School Road",
+    "landmark": "near Tilak School Road, Dombivli, Tilak Nagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "emergencyContact": "077000 58105",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7HY3Tuqed456d8QMZth8yhdbk5x_s65j_Y5jsHkwuxIC8spweRb_DRN7TWoh_KZuZq_i1_vo8pqvrx2NvBcVs25gii0_AwuPPXL2rA_8ge0t5ynovlZ01BwW3XDkZbgyQnrVv=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7HY3Tuqed456d8QMZth8yhdbk5x_s65j_Y5jsHkwuxIC8spweRb_DRN7TWoh_KZuZq_i1_vo8pqvrx2NvBcVs25gii0_AwuPPXL2rA_8ge0t5ynovlZ01BwW3XDkZbgyQnrVv=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2148655,
+      "lng": 73.0922907,
+      "label": "Sparsh Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "srv-hospitals-dombivali-formerly-mamata-hospital-dombivli",
+    "name": "SRV Hospitals - Dombivali (Formerly Mamata Hospital)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dombivli, SRV Hospitals - Dombivali (Formerly Mamata Hospital) brings together specialists for Liver Transplant Surgery In Dombivli. Hospital capacity markers such as Google rating 3.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "086036 00600",
+    "alternatePhone": "",
+    "website": "http://www.srvhospitals.com/",
+    "address": "P-43, next to ICICI Bank, Dombivli, Phase II, MIDC, Dombivli (E, Maharashtra 421203",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "next to ICICI Bank",
+    "landmark": "Dombivli",
+    "emergencyContact": "086036 00600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0yJtMnMqDf0W-RQamhRU2SOtuy9YiUFb9qN1mnF-lR37vEOHTobhY7G8dT4Z5njE1M2x7BxgBeN7w37TkO6Yugin98YGW0Oc0AfReBjPEweEgoCfTcgdx3y2v4i8WRtBIXyA4b7IO6Us=w1200-h900-p-k-no",
+    "logo": "https://srvhospitals.com/wp-content/uploads/2023/04/Logo-2.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0yJtMnMqDf0W-RQamhRU2SOtuy9YiUFb9qN1mnF-lR37vEOHTobhY7G8dT4Z5njE1M2x7BxgBeN7w37TkO6Yugin98YGW0Oc0AfReBjPEweEgoCfTcgdx3y2v4i8WRtBIXyA4b7IO6Us=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPqWihV7e9G-Q5WyC3i7iZcKPMY8s0AXkiFU6Bk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOsybvdOfBz8VzI2J-A8K1EUBOVEEDJoA-hzoW3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOYkDGSTPIHVX-DBQq_wHNSZSN1-bM9VB7Ty-bN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOECXRB_mPri0xBQWoMfkKvmByxQ0XrR34V06KM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2073689,
+      "lng": 73.1042058,
+      "label": "SRV Hospitals - Dombivali (Formerly Mamata Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "star-city-multispeciality-hospital-dombivli",
+    "name": "Star City Multispeciality Hospital",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Star City Multispeciality Hospital has built a strong reputation in Dombivli for multidisciplinary treatment pathways covering Liver Transplant Surgery In Dombivli and Speciality Care. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099300 88433",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gopal Chowk, Anant Sudha Bhavan, Malang Gad Rd, Chakki Naka, Kalyan East, Dombivli, Kalyan, Maharashtra 421306",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421306",
+    "locality": "Kalyan East",
+    "landmark": "Malang Gad Rd",
+    "emergencyContact": "099300 88433",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIlXu6yKFmEI_KTSdWPhX2q6EflXB8Pz-sn1V86biVnP-dBKfxrCWahIPDwiq7dmN3BNCWQqJdTth2Asnap5B8ww-pnIVoPbwwTZeh_KgznKwbMpwd5XSHc9lYePgTL9HuAUGw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIlXu6yKFmEI_KTSdWPhX2q6EflXB8Pz-sn1V86biVnP-dBKfxrCWahIPDwiq7dmN3BNCWQqJdTth2Asnap5B8ww-pnIVoPbwwTZeh_KgznKwbMpwd5XSHc9lYePgTL9HuAUGw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPoFN4Thv-FwQlvaV3eV1JCDpq_KAKv5Rf35SMM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOwDlZhMA0ZI5DjV7xUoRa3MRk_9Qqo_7Qa0ipR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOIO8BMQNWbBq5DthtaTBTWt03cUuRZ3j08LSDW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNVNCtN7tTaX2bya4s9wQC_RpcPaCpLvCK3K92y=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2246168,
+      "lng": 73.1261738,
+      "label": "Star City Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "stemrx-hospital-and-research-center-navi-mumbai",
+    "name": "Stemrx Hospital & Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Navi Mumbai often choose Stemrx Hospital & Research Center for its strength in Liver Transplant Surgery In Dombivli. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Navi Mumbai.",
+    "email": "",
+    "phone": "099799 76862",
+    "alternatePhone": "",
+    "website": "https://stemrx.in",
+    "address": "Mahajan's Hospital & ITC R-831, Dr, Thane - Belapur Rd, next to Shell Petrol Pump, T.T.C, Industrial Area, Rabale, Navi Mumbai, Maharashtra 400708",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400708",
+    "locality": "Rabale",
+    "landmark": "Thane - Belapur Rd",
+    "emergencyContact": "099799 76862",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVPA65HhjLFSy5i2icNLPZPu4wD6SvWtJ0eJbqpjnWUnbhf84rs_x0AjHL7MpsVvYp1QuhgEyZzZbOpw2CbCNoDON0B6TaUVJymGJAZ0Nr8I1Fn0vX3IxCaJx-a6pXM0wv_xyT=w1200-h900-p-k-no",
+    "logo": "https://stemrx.in/assets/img/logo-new.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVPA65HhjLFSy5i2icNLPZPu4wD6SvWtJ0eJbqpjnWUnbhf84rs_x0AjHL7MpsVvYp1QuhgEyZzZbOpw2CbCNoDON0B6TaUVJymGJAZ0Nr8I1Fn0vX3IxCaJx-a6pXM0wv_xyT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNJxrvJHYuiWC5dN327M4Hm16ULEn9WeAdjxtm1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPvvzU9lSiiPaT-Ojv87LmVXH382YtMczQ9NM1r=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNT20F1pOokkultPaKgfjufcsAz0vr24zN_Vbak=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM11SWhtDIAVH-ZjfmHnXScvnPTt6lw3v92eHwq=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.1451626,
+      "lng": 73.0015529,
+      "label": "Stemrx Hospital & Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "supreme-multi-speciality-hospital-best-hospital-in-dombivli-thane",
+    "name": "Supreme Multi-Speciality Hospital-Best Hospital in Dombivli",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Thane often choose Supreme Multi-Speciality Hospital-Best Hospital in Dombivli for its strength in Urologist Surgery In Dombivli and Speciality Care. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Thane.",
+    "email": "",
+    "phone": "072085 70155",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Yas Plaza, Near Dawadi Naka Kalyan Shil Road, Dombivali, Kalyan, Thane, Maharashtra 421203",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": "421203",
+    "locality": "Kalyan",
+    "landmark": "Near Dawadi Naka Kalyan Shil Road, Dombivali, Kalyan, Thane, Maharashtra 421203",
+    "emergencyContact": "072085 70155",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPzcSVtoFGGf9gC7kghAZhyIcVeTlG4hFiwXwvghrbTyqac5JbzLgjJIRbZyLbfqpEibWwADqXZCvwjG49YiObWrQQ_NtKqdQjpLeFScEuHCzqw82jioAYMfo4X1T6VH1NvLnly88qxEg3=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPzcSVtoFGGf9gC7kghAZhyIcVeTlG4hFiwXwvghrbTyqac5JbzLgjJIRbZyLbfqpEibWwADqXZCvwjG49YiObWrQQ_NtKqdQjpLeFScEuHCzqw82jioAYMfo4X1T6VH1NvLnly88qxEg3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNQ24eJ0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNQ24eJ0sf-uLtnLkwz7w82yjRV7Bs-JMORcleh=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNiSz5RiYNNIKHt6kK32q-y95YzF0K8CVzrLL2v=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMNlNPT7Iv6Vz-6enKcqadQPkqwFnkI8CIVSVrY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2064443,
+      "lng": 73.1088393,
+      "label": "Supreme Multi-Speciality Hospital-Best Hospital in Dombivli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "surekha-varicose-veins-clinic-varicose-veins-treatment-in-dombivli-dombivli",
+    "name": "Surekha Varicose Veins Clinic | Varicose Veins treatment in Dombivli",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Surekha Varicose Veins Clinic | Varicose Veins treatment in Dombivli has built a strong reputation in Dombivli for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Dombivli. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dombivli.",
+    "email": "",
+    "phone": "094038 90477",
+    "alternatePhone": "",
+    "website": "https://www.varicoseveinsmumbai.com/",
+    "address": "2nd Floor, Surekha Varicose Veins Clinic, Swara Emerald, Dr R.P. Rd, Dombivli, Tilak Nagar, Dombivli East, Thane, Kalyan, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Dr R.P. Rd",
+    "landmark": "Swara Emerald",
+    "emergencyContact": "094038 90477",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmHHDdz67IzoFBWirWcjZKMtVTZFCNPvTzmMYQswpL96__oM80KLHTm7AuRRZOJNVYRutdDY556dU2GlLOg1XI3OQJheM6a5RACTlj8UKwTPkagLUqzPYri8CISeEEB9BFbBKy1Ahg8bxX=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmHHDdz67IzoFBWirWcjZKMtVTZFCNPvTzmMYQswpL96__oM80KLHTm7AuRRZOJNVYRutdDY556dU2GlLOg1XI3OQJheM6a5RACTlj8UKwTPkagLUqzPYri8CISeEEB9BFbBKy1Ahg8bxX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMST93K0iuDP29YHlcMYD7ywmYtYT5pZrhiTD5w=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMNw1yt6qZ7_xNof_VyYc9XlZ8rm3g592WdFnNM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOqBc4xpjyydLvk24FvQfurCwU6YQEBrOA9rRiS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMt6qtJuYc6KooBnc2FuWgWpe5YDcTX_0J9ax0k=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2147561,
+      "lng": 73.0932352,
+      "label": "Surekha Varicose Veins Clinic | Varicose Veins treatment in Dombivli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "suyash-hospital-dombivli",
+    "name": "Suyash Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dombivli often choose Suyash Hospital for its strength in Laparoscopic Surgery In Dombivli. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dombivli can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0251 243 6689",
+    "alternatePhone": "",
+    "website": "",
+    "address": "635V+QG2, Mandapa Road, Opp: Aggarwal Hall, Dombivli(E, Dombivli, Dombivli East, Maharashtra 421201",
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Dombivli(E",
+    "landmark": "Opp: Aggarwal Hall",
+    "emergencyContact": "0251 243 6689",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=19.2093917%2C73.0937746&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=19.2093917%2C73.0937746&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.2093917%2C73.0937746&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=19.2093917%2C73.0937746&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2093917,
+      "lng": 73.0937746,
+      "label": "Suyash Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "suyog-hospital-kalyan",
+    "name": "Suyog Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kalyan, Suyog Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Dombivli. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kalyan.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "637R+882, Raghuveer Nagar, Dattanagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Dombivli East",
+    "landmark": "Dattanagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXHZjQzY_xhl49lYykPCBlaQ-x64CJa7BAllMJjzVz_E3jCk6J7ifrYWhEkd6fCglVmJuZTgRVcpeoQsy5Jp5eOhGk4qGm_ENApczPm5N6e1R22hCDz4m-EkqgLgbFzGW2AVHZ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXHZjQzY_xhl49lYykPCBlaQ-x64CJa7BAllMJjzVz_E3jCk6J7ifrYWhEkd6fCglVmJuZTgRVcpeoQsy5Jp5eOhGk4qGm_ENApczPm5N6e1R22hCDz4m-EkqgLgbFzGW2AVHZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2132736,
+      "lng": 73.0907767,
+      "label": "Suyog Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "swastik-hospital-and-urology-centre-dombivli-east",
+    "name": "Swastik Hospital & Urology Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dombivli East, Swastik Hospital & Urology Centre delivers integrated care across Urologist Surgery In Dombivli. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dombivli East.",
+    "email": "",
+    "phone": "0251 245 3248",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Nav Manas CHS, Ground Floor, Pandurang Wadi Lane No 2, Dombivli East. Lanmdark:, behind Renuka Maata Mandir, Pandurangwadi, Dombivli East, Maharashtra 421201",
+    "city": "Dombivli East",
+    "state": "Maharashtra",
+    "pincode": "421201",
+    "locality": "Pandurangwadi",
+    "landmark": "Pandurang Wadi Lane No 2",
+    "emergencyContact": "0251 245 3248",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dombivli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgQwEvpLiCVrRSH0kvZjiTEDo7y-Dyjpqcr1zt6Eqa4sqtYXKquSNMRGtFznufd3A0J5uliptrAQ4d7T6_p0PHBvkaJrZo0aiMw1pTDjE_ZsBo0TqxNyDwWO2PrJmmfxA-k-U=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgQwEvpLiCVrRSH0kvZjiTEDo7y-Dyjpqcr1zt6Eqa4sqtYXKquSNMRGtFznufd3A0J5uliptrAQ4d7T6_p0PHBvkaJrZo0aiMw1pTDjE_ZsBo0TqxNyDwWO2PrJmmfxA-k-U=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2096873,
+      "lng": 73.0919241,
+      "label": "Swastik Hospital & Urology Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vaibhav-ortho-surgical-hospital-kalyan-west",
+    "name": "Vaibhav Ortho-Surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kalyan West, Vaibhav Ortho-Surgical Hospital offers coordinated hospital care with major focus on Hip Replacement Surgery In Dombivli and Orthopaedics. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kalyan West.",
+    "email": "",
+    "phone": "086558 61234",
+    "alternatePhone": "",
+    "website": "",
+    "address": "101, Tulip, Mezzanine Floor, Flower Valley Khadakpada Circle, above State Bank Of Travancore, Kalyan West, Maharashtra 421301",
+    "city": "Kalyan West",
+    "state": "Maharashtra",
+    "pincode": "421301",
+    "locality": "above State Bank Of Travancore",
+    "landmark": "Mezzanine Floor",
+    "emergencyContact": "086558 61234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Dombivli",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8bsWu362sEWR4Kcct2UKU2KZsB4uOLvHPJj9nPbQp5Z6KxFGEJSpASw7pONXRsiJqcqR0Zzbgd9To9tfMB0yKxd_y2LerRKoW8eKSa1jo3mKRXxADlj3G0XXsPhfeZXDgqq0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8bsWu362sEWR4Kcct2UKU2KZsB4uOLvHPJj9nPbQp5Z6KxFGEJSpASw7pONXRsiJqcqR0Zzbgd9To9tfMB0yKxd_y2LerRKoW8eKSa1jo3mKRXxADlj3G0XXsPhfeZXDgqq0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2524461,
+      "lng": 73.1376172,
+      "label": "Vaibhav Ortho-Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vertex-multispeciality-hospital-kalyan-east",
+    "name": "Vertex Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vertex Multispeciality Hospital is a prominent hospital in Kalyan East, known for structured tertiary care across Orthopedic Surgery In Dombivli and Speciality Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kalyan East.",
+    "email": "",
+    "phone": "084228 40084",
+    "alternatePhone": "",
+    "website": "http://vertexmultispecialityhospital.com/",
+    "address": "Rajaram Apt, 1st Floor, Kalyan Janta Sahakari Bank Sri Malang Road, 100 Feet Rd, Kalyan East, Maharashtra 421306",
+    "city": "Kalyan East",
+    "state": "Maharashtra",
+    "pincode": "421306",
+    "locality": "100 Feet Rd",
+    "landmark": "Kalyan Janta Sahakari Bank Sri Malang Road",
+    "emergencyContact": "084228 40084",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dombivli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEAtvXEyQH7AQNgVxNyUyvx4C3Kvj4RvqPrWBFYtH7Q9nB7Iz61pVIdPV9rhbxHvOKzPWRUcQNzFFmNMebM9T-Fp4akrq8eBDJz-0ZuAyc8_h6Fu_UlfDsfGtTvGJAhKV0fNYDvaPh605bY=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEAtvXEyQH7AQNgVxNyUyvx4C3Kvj4RvqPrWBFYtH7Q9nB7Iz61pVIdPV9rhbxHvOKzPWRUcQNzFFmNMebM9T-Fp4akrq8eBDJz-0ZuAyc8_h6Fu_UlfDsfGtTvGJAhKV0fNYDvaPh605bY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 19.2177536,
+      "lng": 73.1299022,
+      "label": "Vertex Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

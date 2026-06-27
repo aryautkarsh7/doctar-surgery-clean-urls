@@ -1,0 +1,6390 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "sri-someshwara-ent-clinic-ss-ent-day-care-center-ballari",
+    "name": "\"Sri Someshwara ENT Clinic - SS ENT Day Care Center,\"",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ballari often choose \"Sri Someshwara ENT Clinic - SS ENT Day Care Center,\" for its strength in Cosmetic Surgery In Bellary. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "087227 26831",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No. 3, Narlax Complex, beside BJP Office, opp. SP Bunglow, KHB Colony, Parvathi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Parvathi Nagar",
+    "landmark": "beside BJP Office, opp. SP Bunglow, KHB Colony, Parvathi Nagar, Ballari, Karnataka 583103",
+    "emergencyContact": "087227 26831",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVUdEt2hhmtX8KrLnLztpzq5amyAMN3YVUsnpLYyJN_Fat5Y4a1bWJBmVhBQKLJ-FCvbwcg0tGfjF79YVhC4IAzPx4iWZahhflR-auVvpzIRFMAFumbnu8ABBbjoqUn92glLnMjoBPVpNw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVUdEt2hhmtX8KrLnLztpzq5amyAMN3YVUsnpLYyJN_Fat5Y4a1bWJBmVhBQKLJ-FCvbwcg0tGfjF79YVhC4IAzPx4iWZahhflR-auVvpzIRFMAFumbnu8ABBbjoqUn92glLnMjoBPVpNw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1516016,
+      "lng": 76.9220804,
+      "label": "\"Sri Someshwara ENT Clinic - SS ENT Day Care Center,\"",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "adarsh-heart-care-and-multi-speciality-hospital-pvt-ltd-ballari",
+    "name": "Adarsh Heart Care & Multi Speciality Hospital Pvt. Ltd.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ballari, Adarsh Heart Care & Multi Speciality Hospital Pvt. Ltd. delivers integrated care across Oral Surgery In Bellary, Cardiac Care, and Speciality Care. Operational strengths including Google rating 3.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ballari.",
+    "email": "",
+    "phone": "083922 30575",
+    "alternatePhone": "",
+    "website": "https://www.dhfind.com/listing/adarsh-heart-care-multispeciality-hospital-pvt-ltd-ballari/",
+    "address": "Sangeetha Complex, Kolachalam Compound, opp. Old KSRTC Bus Stand, APMC, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "APMC",
+    "landmark": "opp. Old KSRTC Bus Stand",
+    "emergencyContact": "083922 30575",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bellary",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFDElsXMm-GjNPIfG5Js2Ksltd2nj443U6N4zFwzjffCx2MBYydei1Z9RPf1db9_TPOqMWdteAXtT558cfNwM4ojjKfHU5iT6mUq0y8WV6zRkGRy7rpZqp7P4L-TLzuiS0szA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFDElsXMm-GjNPIfG5Js2Ksltd2nj443U6N4zFwzjffCx2MBYydei1Z9RPf1db9_TPOqMWdteAXtT558cfNwM4ojjKfHU5iT6mUq0y8WV6zRkGRy7rpZqp7P4L-TLzuiS0szA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.146384,
+      "lng": 76.9289311,
+      "label": "Adarsh Heart Care & Multi Speciality Hospital Pvt. Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "agastya-hospitals-ballari",
+    "name": "AGASTYA HOSPITALS",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ballari often choose AGASTYA HOSPITALS for its strength in Heart Surgery In Bellary. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "072591 85429",
+    "alternatePhone": "",
+    "website": "",
+    "address": "ward no :35, Ganesh Nagar, TS No : 349/5B3, Siruguppa Rd, beside BBC college, Ashok Nagar, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "Ashok Nagar",
+    "landmark": "beside BBC college, Ashok Nagar, Ballari, Karnataka 583101",
+    "emergencyContact": "072591 85429",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=15.1554014%2C76.9169972&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=15.1554014%2C76.9169972&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=15.1554014%2C76.9169972&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=15.1554014%2C76.9169972&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1554014,
+      "lng": 76.9169972,
+      "label": "AGASTYA HOSPITALS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "anantha-vasudev-hospital-ballari",
+    "name": "ANANTHA VASUDEV HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ballari, ANANTHA VASUDEV HOSPITAL offers coordinated hospital care with major focus on Kidney Transplant Surgery In Bellary. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ballari.",
+    "email": "",
+    "phone": "094820 97637",
+    "alternatePhone": "",
+    "website": "https://ananthavasudevhealthcare.com/",
+    "address": "Dr Rajkumar Road, Anantapur Rd, near BPSC School, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "near BPSC School",
+    "landmark": "near BPSC School, Ballari, Karnataka 583101",
+    "emergencyContact": "094820 97637",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9sngwqBam6_Dkl1-QkCWLXrnycg-0KpbYtKx2gvFhHKi5vt7alix3peA5RTt3zgxFrsFIc36mYqKs60UQmQXb49biWYbW3jwGh2H48hxQ9_ygaEeZDeIma2W9sA9kyOFYBe6i=w1200-h900-p-k-no",
+    "logo": "https://ananthavasudevhealthcare.com/assets/vasudev-title-logo2-DdhL6qcj.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9sngwqBam6_Dkl1-QkCWLXrnycg-0KpbYtKx2gvFhHKi5vt7alix3peA5RTt3zgxFrsFIc36mYqKs60UQmQXb49biWYbW3jwGh2H48hxQ9_ygaEeZDeIma2W9sA9kyOFYBe6i=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.142478,
+      "lng": 76.9457346,
+      "label": "ANANTHA VASUDEV HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "anushka-hosptial-ballari-ballari",
+    "name": "ANUSHKA HOSPTIAL BALLARI",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ballari, ANUSHKA HOSPTIAL BALLARI delivers integrated care across Orthopedic Surgery In Bellary. Operational strengths including Google rating 3.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/anushka-hospital-ballari/",
+    "address": "MOTHER THERESA HOME ROAD, near OPD Road, opp. ASHA HOSPTIAL, Housing Board Colony, Cantonment, Ballari, Karnataka 583104",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583104",
+    "locality": "Cantonment",
+    "landmark": "near OPD Road, opp. ASHA HOSPTIAL, Housing Board Colony, Cantonment, Ballari, Karnataka 583104",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4H9iuwpiiG6KuyhF-srnphK7IHWDUONZrQL84hZ4sva0KqRQroWMy25qUdQzQiBMsgF1d_iu2uzowuv3bIkgIfPnGZErDifbmGCP8jzTT_qxdr5OPoIF3gSTB3zrxCadr98X5Gg=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/anushkahospitalballari/wp-content/uploads/sites/62/2023/07/anushka-hospital-ballari-Logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4H9iuwpiiG6KuyhF-srnphK7IHWDUONZrQL84hZ4sva0KqRQroWMy25qUdQzQiBMsgF1d_iu2uzowuv3bIkgIfPnGZErDifbmGCP8jzTT_qxdr5OPoIF3gSTB3zrxCadr98X5Gg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.155056,
+      "lng": 76.8995687,
+      "label": "ANUSHKA HOSPTIAL BALLARI",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aradhana-hospital-ballari",
+    "name": "Aradhana Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ballari, Aradhana Hospital offers coordinated hospital care with major focus on Laparoscopic Surgery In Bellary. Its infrastructure includes Google rating 3.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "083922 58888",
+    "alternatePhone": "",
+    "website": "http://www.healraton.com/listing/aradhana-hospital-ballari/",
+    "address": "Sontha linganna colony, oppostie to MBSL School, 3rd Cross Rd, KHB Colony, Gandhi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Gandhi Nagar",
+    "landmark": "3rd Cross Rd",
+    "emergencyContact": "083922 58888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMwxlYNbNa2izQ-0UIId8aG6eGk3BtTERkPzS-tGr0Dx2eMah0Yg-MpbSU_nylNVm54rAQoWMzecJVfDwnwwWdvkAMhBYyiblLMMORMIeMxpWIrj51PMjB5AAHfznTbbzK3jA=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMwxlYNbNa2izQ-0UIId8aG6eGk3BtTERkPzS-tGr0Dx2eMah0Yg-MpbSU_nylNVm54rAQoWMzecJVfDwnwwWdvkAMhBYyiblLMMORMIeMxpWIrj51PMjB5AAHfznTbbzK3jA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1573792,
+      "lng": 76.937913,
+      "label": "Aradhana Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "arunodaya-hospital-ballari",
+    "name": "Arunodaya Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ballari often choose Arunodaya Hospital for its strength in Spine Surgery In Bellary. Operational strengths including Google rating 3.2, 2+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080883 41333",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/arunodaya-hospital-ballari/",
+    "address": "Siruguppa Rd, Bhuvanagiri Colony, Ashok Nagar, Havambhavi, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "Havambhavi",
+    "landmark": "Ashok Nagar",
+    "emergencyContact": "080883 41333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "2+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFmhUTr2Rrr0GknFaLwkVNTUw7i5nn-L7CS3OERSy4zf65aLQhOVcHualR3WaSBnNCNMx-HNsEeV0QfQegeQXWQz-d3DYE5jvHSpJa8vy00Cuo7KVXvbe3O-46sSxXO1zd6Or_=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFmhUTr2Rrr0GknFaLwkVNTUw7i5nn-L7CS3OERSy4zf65aLQhOVcHualR3WaSBnNCNMx-HNsEeV0QfQegeQXWQz-d3DYE5jvHSpJa8vy00Cuo7KVXvbe3O-46sSxXO1zd6Or_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMRNCGCfXTkcdzbRMC0Yodf8QhkUOPmZGK8Qj6gS4Rr3eWegwWU800Xssbf4cbxetbFIki4SClJbxSBk5Qn0KyUahqxewprGXb0iyW00D7inERQDUmG6M2fkioSULTA30tIf2Z4g=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1600833,
+      "lng": 76.9157258,
+      "label": "Arunodaya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 2,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "b-k-s-hospital-ballari",
+    "name": "B K S Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "B K S Hospital has built a strong reputation in Ballari for multidisciplinary treatment pathways covering Knee Replacement Surgery In Bellary. Hospital capacity markers such as Google rating 4.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083922 56500",
+    "alternatePhone": "",
+    "website": "",
+    "address": "BKS hospital, 1st Cross Rd, KHB Colony, Gandhi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Gandhi Nagar",
+    "landmark": "KHB Colony",
+    "emergencyContact": "083922 56500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmG4cWuXwLtCELgRzri1cIlja8z071kbEPNLWG184R1pPDpbA-UEDBLp99kV7sGGkODrb7uf3jNMh0BPvjWLFoQg3AN_dOpofGkWF5go7wtn9D3n0Y0qPxKdYq3zG5n6JSYbQwjgxA7exT=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmG4cWuXwLtCELgRzri1cIlja8z071kbEPNLWG184R1pPDpbA-UEDBLp99kV7sGGkODrb7uf3jNMh0BPvjWLFoQg3AN_dOpofGkWF5go7wtn9D3n0Y0qPxKdYq3zG5n6JSYbQwjgxA7exT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1524564,
+      "lng": 76.936249,
+      "label": "B K S Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ballari-chest-center-ballari",
+    "name": "Ballari Chest Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ballari, Ballari Chest Center brings together specialists for Cosmetic Surgery In Bellary. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/ballari-chest-centre-ballari/",
+    "address": "3rd Cross St, opp. to smt Basava rajeshwari madam house, KHB Colony, Gandhi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Gandhi Nagar",
+    "landmark": "KHB Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHM0kv2SZM21McIUY0lcFezFfFiWTKytB2YDU19z4XOQoVAF5IfMekGHmGdjfTIsyjrvvL9tzWZz3Jz6TnTUcIM1gCWE6ZX4yuF3nm3lgHGYVSBIpMAkwPzefnQOYAI7iTyRHDYYg=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHM0kv2SZM21McIUY0lcFezFfFiWTKytB2YDU19z4XOQoVAF5IfMekGHmGdjfTIsyjrvvL9tzWZz3Jz6TnTUcIM1gCWE6ZX4yuF3nm3lgHGYVSBIpMAkwPzefnQOYAI7iTyRHDYYg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1543179,
+      "lng": 76.937534,
+      "label": "Ballari Chest Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ballari-health-city-ballari",
+    "name": "BALLARI Health City",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ballari, BALLARI Health City brings together specialists for Liver Transplant Surgery In Bellary. The facility stands out for Google rating 3.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "085798 97989",
+    "alternatePhone": "",
+    "website": "https://ballarihealthcity.com/",
+    "address": "Health City, 19/24 W No 35, 19/24, Siruguppa Rd, opp. to Vijaydurga Mills Havambhavi, Havambhavi, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Havambhavi",
+    "landmark": "19/24",
+    "emergencyContact": "085798 97989",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzz14n9d8QxBVyFcXFGyDi9ouJmMK_gyHPjyfBGKXe757fEYrz9dUFmA7pL9yLmJxTk9_JfdXuYiAaghSqkrYSsYsLLlLJJkpGh1YnTUQk9t8TWLxUKIDXV5vMyicL9QXmeE8k=w1200-h900-p-k-no",
+    "logo": "https://ballarihealthcity.com/wp-content/uploads/2024/01/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzz14n9d8QxBVyFcXFGyDi9ouJmMK_gyHPjyfBGKXe757fEYrz9dUFmA7pL9yLmJxTk9_JfdXuYiAaghSqkrYSsYsLLlLJJkpGh1YnTUQk9t8TWLxUKIDXV5vMyicL9QXmeE8k=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.162552,
+      "lng": 76.9143633,
+      "label": "BALLARI Health City",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ballari-hrudayalaya-ballari",
+    "name": "BALLARI HRUDAYALAYA",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BALLARI HRUDAYALAYA has built a strong reputation in Ballari for multidisciplinary treatment pathways covering Heart Surgery In Bellary. The facility stands out for Google rating 2.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/ballari-hrudayalaya-and-superspeciality-hospital/",
+    "address": "5W3P+R4V, 3rd Cross Rd, KHB Colony, Basaveshwar Nagar, Sidiginamola, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Sidiginamola",
+    "landmark": "KHB Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdDwIaWM_RT5HGw4PYNZDktLTmy4CQ1VJ0XvQ47OmsLUcamkbzsl0Ju2fWCT9ehWAxl8ItehSmMUYB3KuQGtiGM1-fE6av56wu469qbgrWVDhwT7OK_Cq6zVhuwvm9kCxYTTOpozbmoaHI=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdDwIaWM_RT5HGw4PYNZDktLTmy4CQ1VJ0XvQ47OmsLUcamkbzsl0Ju2fWCT9ehWAxl8ItehSmMUYB3KuQGtiGM1-fE6av56wu469qbgrWVDhwT7OK_Cq6zVhuwvm9kCxYTTOpozbmoaHI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1545458,
+      "lng": 76.9389227,
+      "label": "BALLARI HRUDAYALAYA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ballari-lifeline-hospital-ballari",
+    "name": "Ballari Lifeline Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ballari, Ballari Lifeline Hospital delivers integrated care across Heart Surgery In Bellary. Operational strengths including Google rating 3.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ballari.",
+    "email": "",
+    "phone": "080888 49991",
+    "alternatePhone": "",
+    "website": "http://www.ballarilifelinehospital.com/",
+    "address": "Double Rd, behind Hotel Mayura, opposite old KSRTC Bus Stand, Satya Narayana Pet, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "Satya Narayana Pet",
+    "landmark": "opposite old KSRTC Bus Stand, Satya Narayana Pet, Ballari, Karnataka 583101",
+    "emergencyContact": "080888 49991",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGe2uEHr3Dxpug-AdBw5c75Wpm9zcSpl9OYO3WvVqvyKoyd3XDCNZMKLAdUUl-EOOArBeaFyHV-0gIp7DuucWt05pTI_kBoqFPmcUOwHps6IysimTskTJD5AkTwqltyH_lB9jKystf2Q1F9=w1200-h900-p-k-no",
+    "logo": "https://www.ballarilifelinehospital.com/assets/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGe2uEHr3Dxpug-AdBw5c75Wpm9zcSpl9OYO3WvVqvyKoyd3XDCNZMKLAdUUl-EOOArBeaFyHV-0gIp7DuucWt05pTI_kBoqFPmcUOwHps6IysimTskTJD5AkTwqltyH_lB9jKystf2Q1F9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1473337,
+      "lng": 76.9291849,
+      "label": "Ballari Lifeline Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bharath-health-centre-ballari",
+    "name": "Bharath Health Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bharath Health Centre is a prominent hospital in Ballari, known for structured tertiary care across Gynecologist Surgery In Bellary. Hospital capacity markers such as Google rating 3.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ballari.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.healraton.com/listing/bharath-health-centre-ballari/",
+    "address": "Kappagal Rd, Tekur Compound, Gandhi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Gandhi Nagar",
+    "landmark": "Gandhi Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3hNxtkbyZvLB4QeJUa3Ltktg-tKP7fXXpgKXSEc9BbKWaqHvLpX7xbbo-Cd9amVy_P_qKrTJHvtr-RE0UCMj6DfJCZW2ChAxHvGg2F4W4dVTcmMqimSw92T-IoBmMtI_EVeE3sQ=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/bharathhealthcentreballari/wp-content/uploads/sites/64/2023/08/Bharath-Health-Centre-Logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3hNxtkbyZvLB4QeJUa3Ltktg-tKP7fXXpgKXSEc9BbKWaqHvLpX7xbbo-Cd9amVy_P_qKrTJHvtr-RE0UCMj6DfJCZW2ChAxHvGg2F4W4dVTcmMqimSw92T-IoBmMtI_EVeE3sQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_LT0TArgRor4S7_Vv84dVC_q6eJej5hpJ_g00Qk2qVsRpjJR-aav8UkIRqkc0Nj5T0SvZw73SBp8ohtMfCVUYukIRBIK670kRWKab6QauvIX3b7BiDDwWJF5zqr-usHBQZ_GOXsuw_Go=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.156779,
+      "lng": 76.9327744,
+      "label": "Bharath Health Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bmc-hospital-basaveshwara-medical-center-ballari",
+    "name": "BMC Hospital- Basaveshwara Medical Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ballari, BMC Hospital- Basaveshwara Medical Center offers coordinated hospital care with major focus on Urologist Surgery In Bellary. Hospital capacity markers such as Google rating 3.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "081055 15641",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Siddartha Nagar, Devi Nagar, Ballari, Karnataka 583104",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583104",
+    "locality": "Devi Nagar",
+    "landmark": "Ballari",
+    "emergencyContact": "081055 15641",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH33V9af25pV9uhdmNjNbBH2BmWXGiu-j0i0a15tiuralgTjNQgGM568fd7VV37-VpqRTC6gNQcdKi9Jq5qgObBhRG3vE7nSwVPJw2r_he6XFli7mT4pEQONkRAhpmCvteVlMnQjK7RYB1G=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH33V9af25pV9uhdmNjNbBH2BmWXGiu-j0i0a15tiuralgTjNQgGM568fd7VV37-VpqRTC6gNQcdKi9Jq5qgObBhRG3vE7nSwVPJw2r_he6XFli7mT4pEQONkRAhpmCvteVlMnQjK7RYB1G=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1513062,
+      "lng": 76.9024364,
+      "label": "BMC Hospital- Basaveshwara Medical Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "danamma-super-speciality-hospital-ballari",
+    "name": "Danamma Super Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ballari, Danamma Super Speciality Hospital brings together specialists for Spine Surgery In Bellary and Speciality Care. Hospital capacity markers such as Google rating 4.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083922 70361",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/danamma-super-speciality-hospital-ballari/",
+    "address": "Kolachalam Compound, Opp Old KSRTC Bus Stand Royal Circle, Satya Narayana Pet, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "Satya Narayana Pet",
+    "landmark": "Satya Narayana Pet",
+    "emergencyContact": "083922 70361",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Bellary",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtVGepITfc7KrAuHAwLjlZMxxSaA49myXEBK_UWkjowO8Nf3MSH0kfgnyWVzTvRLohixIBbtMJD2wyAYBcQwzihV-9veUVHi2DE7lpAquhPgLGNCq1TOMV8sS14RugY9ce96Q=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtVGepITfc7KrAuHAwLjlZMxxSaA49myXEBK_UWkjowO8Nf3MSH0kfgnyWVzTvRLohixIBbtMJD2wyAYBcQwzihV-9veUVHi2DE7lpAquhPgLGNCq1TOMV8sS14RugY9ce96Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1455974,
+      "lng": 76.9293792,
+      "label": "Danamma Super Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "district-hospital-ballari-ballari",
+    "name": "District Hospital, Ballari",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ballari often choose District Hospital, Ballari for its strength in Gynecologist Surgery In Bellary. Hospital capacity markers such as Google rating 3.9, 3+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "011 2397 8046",
+    "alternatePhone": "",
+    "website": "http://districthospitalballari.com/",
+    "address": "4WVM+QW2, ಸತ್ಯನಾರಾಯಣ ಪೇಟೆ, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "ಸತ್ಯನಾರಾಯಣ ಪೇಟೆ",
+    "landmark": "Ballari",
+    "emergencyContact": "011 2397 8046",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "3+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFofN56VytwK67X39fDckpCdICKSMII3hMxhBEvJkBSJ18_R3Nj0SxNSWDXJ_3cxuRokEsqKxxztGNl6SfXiuWuuVQryLeOu_IbqhRkkfXYH1kwp4CInWuLai8tlS6_Hq1fkWzs=w1200-h900-p-k-no",
+    "logo": "https://districthospitalballari.com/wp-content/uploads/2018/12/logo1-free-img.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFofN56VytwK67X39fDckpCdICKSMII3hMxhBEvJkBSJ18_R3Nj0SxNSWDXJ_3cxuRokEsqKxxztGNl6SfXiuWuuVQryLeOu_IbqhRkkfXYH1kwp4CInWuLai8tlS6_Hq1fkWzs=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEb73UzcAAMEymj8fMNX7IEZ95Tt3qY3poyTsUIOg7UUb_R3djYqcFgh0UmoH0vnwUe2_tkL7dSAvMA5wmFd-oAEnE_tYa3YKO_PEGMxdYzmeMjjRIQpImXzDJKOikeex9Z9KM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDIoCWG73dt5-z6jG35Z9KRFbu091BNBnbb3_AX34-taI7W4VyrjOHEe9H_55Z7-3iyyN_ltaCdg-yM_7k4IVhCRoZju=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDIoCWG73dt5-z6jG35Z9KRFbu091BNBnbb3_AX34-taI7W4VyrjOHEe9H_55Z7-3iyyN_ltaCdg-yM_7k4IVhCRoZjua74_tPaJIit1RMLyQqHYQQey7kVOr9YnTQ9TLFKUWKVEWd9qQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1443869,
+      "lng": 76.934778,
+      "label": "District Hospital, Ballari",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 3,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dwaraka-hospital-ballari",
+    "name": "Dwaraka Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ballari, Dwaraka Hospital brings together specialists for Spine Surgery In Bellary. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "083922 55911",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Moka Rd, KHB Colony, Basaveshwar Nagar, Gandhi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Gandhi Nagar",
+    "landmark": "Basaveshwar Nagar",
+    "emergencyContact": "083922 55911",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnub9OZdyrh1d9Tku0oXp0srEv83sPoElZbNWQIThf-_VMuBUemZ5plke92Y1Mf27EvSz42ywXM5zRG5BXuNz8ncvuMOHtrE7UcODcGTQEO6-rQYmdYnmMpi-70rURk4XTk2lauQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnub9OZdyrh1d9Tku0oXp0srEv83sPoElZbNWQIThf-_VMuBUemZ5plke92Y1Mf27EvSz42ywXM5zRG5BXuNz8ncvuMOHtrE7UcODcGTQEO6-rQYmdYnmMpi-70rURk4XTk2lauQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1544262,
+      "lng": 76.9411182,
+      "label": "Dwaraka Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gunasheela-fertility-centre-ballari-best-ivf-centre-ballari",
+    "name": "Gunasheela Fertility Centre - Ballari | Best IVF Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gunasheela Fertility Centre - Ballari | Best IVF Centre has built a strong reputation in Ballari for multidisciplinary treatment pathways covering IVF In Bellary and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "096637 69595",
+    "alternatePhone": "",
+    "website": "https://www.gunasheela.in/",
+    "address": "MIG-3, 1st Floor, Ayyappan Du-Tower, ParvathiNagar Main Rd, opp. KFC, KHB Colony, Parvathi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Parvathi Nagar",
+    "landmark": "Ayyappan Du-Tower",
+    "emergencyContact": "096637 69595",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Bellary",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYTlx6Cg6Qj3gra_tNh-arbxHFcxOFHr_dsPhMYiOeK9sZN7ZZsB8Nxiv3G3BNymIBWrO-dGHlJDbfNhhRo1ui6SEIO7bCRazQTxhcz5FlM_9Yf759Loz_lvfizP0_mnMlEr6pRw=w1200-h900-p-k-no",
+    "logo": "https://gunasheela.in/wp-content/uploads/2024/06/cropped-Gunasheela-Logo_001-scaled-1.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYTlx6Cg6Qj3gra_tNh-arbxHFcxOFHr_dsPhMYiOeK9sZN7ZZsB8Nxiv3G3BNymIBWrO-dGHlJDbfNhhRo1ui6SEIO7bCRazQTxhcz5FlM_9Yf759Loz_lvfizP0_mnMlEr6pRw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.151391,
+      "lng": 76.9231199,
+      "label": "Gunasheela Fertility Centre - Ballari | Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "indira-hospital-ballari",
+    "name": "Indira Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ballari often choose Indira Hospital for its strength in Laparoscopic Surgery In Bellary. With public-facing highlights like Google rating 3.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083922 78001",
+    "alternatePhone": "",
+    "website": "http://seeglobal.in/index.php/en/ads/58e0bdce5f56e/Consultant+Physician+Doctors/Indira+Hospital",
+    "address": "4WXH+9VV, Court Rd, Satya Narayana Pet, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "Satya Narayana Pet",
+    "landmark": "Satya Narayana Pet",
+    "emergencyContact": "083922 78001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_kN67JEC5TCiO_5ykaCu_GBYc9xcdtoWeW9CR8cLLDFVH1v-HqNjPPL-Gy7Y23n86PvdcIhPWUXZTfZbjL3fVCeLfzM8pp-fdYfSAzpZrI8AM30Bz4E_jCHMyzkmxPPl7yZM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_kN67JEC5TCiO_5ykaCu_GBYc9xcdtoWeW9CR8cLLDFVH1v-HqNjPPL-Gy7Y23n86PvdcIhPWUXZTfZbjL3fVCeLfzM8pp-fdYfSAzpZrI8AM30Bz4E_jCHMyzkmxPPl7yZM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1484864,
+      "lng": 76.9296802,
+      "label": "Indira Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "k-s-m-hospital-ballari",
+    "name": "K S M Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ballari often choose K S M Hospital for its strength in Gynecologist Surgery In Bellary. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083922 66675",
+    "alternatePhone": "",
+    "website": "",
+    "address": "5W3G+FW6, Parvathi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Parvathi Nagar",
+    "landmark": "Ballari",
+    "emergencyContact": "083922 66675",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1VD1ZSK-bo1af3HLpB-Bl2FlN0nYwAwCub6czzO2vvXr1J1d_AS9Keqzb9-81yoTYGq_wqMlqeoT9AOcBZiVJFZ8rJvbewdUP1AGVP5I4sTbqGMbhi3KOnB2tGOGaJzvwj-WtGg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1VD1ZSK-bo1af3HLpB-Bl2FlN0nYwAwCub6czzO2vvXr1J1d_AS9Keqzb9-81yoTYGq_wqMlqeoT9AOcBZiVJFZ8rJvbewdUP1AGVP5I4sTbqGMbhi3KOnB2tGOGaJzvwj-WtGg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1536618,
+      "lng": 76.9272512,
+      "label": "K S M Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lakshya-dental-and-bonne-body-hair-clinic-ballari",
+    "name": "LAKSHYA DENTAL & BONNE BODY HAIR CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "LAKSHYA DENTAL & BONNE BODY HAIR CLINIC has built a strong reputation in Ballari for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Bellary. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "099029 30931",
+    "alternatePhone": "",
+    "website": "https://lakshmipriyahospitals.com/",
+    "address": "Veeran Goud colony, Ashok Nagar, Rajeshwari nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Rajeshwari nagar",
+    "landmark": "Rajeshwari nagar",
+    "emergencyContact": "099029 30931",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdeOLcBVyNFs9KqV0pa4aPvL5sQX3OXH_ruB2wf2QWElgeHhRT-H9NA6fmLfqBmtZpz6KLIEI57yZ7WB2ghsXDPL_HE-t0U1Dpqn0v87DC0eY8vmDspXx0qbuUM1MJbKdEHfm1=w1200-h900-p-k-no",
+    "logo": "https://lakshmipriyahospitals.com/images/lakshyalogo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdeOLcBVyNFs9KqV0pa4aPvL5sQX3OXH_ruB2wf2QWElgeHhRT-H9NA6fmLfqBmtZpz6KLIEI57yZ7WB2ghsXDPL_HE-t0U1Dpqn0v87DC0eY8vmDspXx0qbuUM1MJbKdEHfm1=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1568241,
+      "lng": 76.9152453,
+      "label": "LAKSHYA DENTAL & BONNE BODY HAIR CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "leela-ent-care-ballari-ballari",
+    "name": "Leela Ent Care Ballari",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ballari often choose Leela Ent Care Ballari for its strength in Laparoscopic Surgery In Bellary. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094480 76901",
+    "alternatePhone": "",
+    "website": "",
+    "address": "4WXP+HF3, ಸತ್ಯನಾರಾಯಣ ಪೇಟೆ, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "ಸತ್ಯನಾರಾಯಣ ಪೇಟೆ",
+    "landmark": "Ballari",
+    "emergencyContact": "094480 76901",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqW-K1EOfiWwuqXZkTFgjELM9At5Y1lBOaUPe27cDLg7m05Kq00tAf7tmZs4f9YoeKrTSi_w_A5GqCGs-qbjPq5c81XreLeuElC3Hv1jScfG91e3x5NCdzwPaaogNaj_yryUg3yg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqW-K1EOfiWwuqXZkTFgjELM9At5Y1lBOaUPe27cDLg7m05Kq00tAf7tmZs4f9YoeKrTSi_w_A5GqCGs-qbjPq5c81XreLeuElC3Hv1jScfG91e3x5NCdzwPaaogNaj_yryUg3yg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1488959,
+      "lng": 76.9361699,
+      "label": "Leela Ent Care Ballari",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "m-s-kidney-hospital-ballari",
+    "name": "M.S.Kidney Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ballari, M.S.Kidney Hospital brings together specialists for Urologist Surgery In Bellary and Kidney Care. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "063626 20878",
+    "alternatePhone": "",
+    "website": "",
+    "address": "4WWH+8R4, Satya Narayana Pet, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "Satya Narayana Pet",
+    "landmark": "Ballari",
+    "emergencyContact": "063626 20878",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Bellary",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiFH3Uffa7gv4xriGHrvuR1GqgxQI9y5oqz1NZXMBZD6m1gZgJxhGPMaNqWKSjvGbap-wa7Krv7uB-r_0WGddloscieCPQzYIbWaUAOVOt-tV2ZEYiaA3wnzsh_XIuS7v7LUDK=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiFH3Uffa7gv4xriGHrvuR1GqgxQI9y5oqz1NZXMBZD6m1gZgJxhGPMaNqWKSjvGbap-wa7Krv7uB-r_0WGddloscieCPQzYIbWaUAOVOt-tV2ZEYiaA3wnzsh_XIuS7v7LUDK=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1457743,
+      "lng": 76.9295662,
+      "label": "M.S.Kidney Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "madhuri-superspecialty-eye-hospital-ballari",
+    "name": "Madhuri superspecialty eye hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ballari, Madhuri superspecialty eye hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Bellary and Speciality Care. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "096111 74274",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Moka Rd, KHB Colony, Basaveshwar Nagar, Gandhi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Gandhi Nagar",
+    "landmark": "Basaveshwar Nagar",
+    "emergencyContact": "096111 74274",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Bellary",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZ5VkW5EY-LeTE-qQtdZulaRqLJGSoXjAT9k3MxB3hkyT2LD-a-QIEaauixG6SV8XnadzGLXr8bTYa6YeyfQUpu-lYj5LtJ31t7og_qmGSdk2AeeIDN2oQ2HNZ2AfiCz9nrwA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZ5VkW5EY-LeTE-qQtdZulaRqLJGSoXjAT9k3MxB3hkyT2LD-a-QIEaauixG6SV8XnadzGLXr8bTYa6YeyfQUpu-lYj5LtJ31t7og_qmGSdk2AeeIDN2oQ2HNZ2AfiCz9nrwA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1566155,
+      "lng": 76.9408305,
+      "label": "Madhuri superspecialty eye hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mahima-hospital-beside-bageecha-hotel",
+    "name": "Mahima Hospital",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in beside Bageecha hotel, Mahima Hospital offers coordinated hospital care with major focus on Laparoscopic Surgery In Bellary and Women and Child Care. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in beside Bageecha hotel.",
+    "email": "",
+    "phone": "083922 55541",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd floor, Moka Rd, beside Bageecha hotel, Karnataka 583103",
+    "city": "beside Bageecha hotel",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Moka Rd",
+    "landmark": "beside Bageecha hotel, Karnataka 583103",
+    "emergencyContact": "083922 55541",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Bellary",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqwlKSjqeSR-eS_wTCzbnDfvHEcmVTUI4keYdFh8ACsc8L6u9Hiq_LPv4oGK13A2YucJZ-MaZXnAjYT9hh03NLf1smf4rqc0iH0bxR8a74EiEwsKQm7AvewB4zwBbpg6Sw2nxh=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqwlKSjqeSR-eS_wTCzbnDfvHEcmVTUI4keYdFh8ACsc8L6u9Hiq_LPv4oGK13A2YucJZ-MaZXnAjYT9hh03NLf1smf4rqc0iH0bxR8a74EiEwsKQm7AvewB4zwBbpg6Sw2nxh=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1555433,
+      "lng": 76.9363724,
+      "label": "Mahima Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mithil-clinic-ballari",
+    "name": "MITHIL CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MITHIL CLINIC is a prominent hospital in Ballari, known for structured tertiary care across Cosmetic Surgery In Bellary. Operational strengths including Google rating 3.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ballari.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/mithil-poly-clinic-ballari/",
+    "address": "Kolagallu Rd, Ashok Nagar, Vidya Nagar, Ballari, Karnataka 583104",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583104",
+    "locality": "Vidya Nagar",
+    "landmark": "Vidya Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGomjwMhSFzeiWkMO8uC8EDEiz56gTM-yJdJatKShBHTgOOktXJhJF3wFJotvxzneZfZpEzxkX0VGrUBsABBHuuDLEI8PtnqcMu-HZWkZWITYeaz-KuUhwaw7GclVUVEwg7U2L8DA=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGomjwMhSFzeiWkMO8uC8EDEiz56gTM-yJdJatKShBHTgOOktXJhJF3wFJotvxzneZfZpEzxkX0VGrUBsABBHuuDLEI8PtnqcMu-HZWkZWITYeaz-KuUhwaw7GclVUVEwg7U2L8DA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1590018,
+      "lng": 76.8973318,
+      "label": "MITHIL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mother-s-hospital-ballari",
+    "name": "Mother's Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ballari, Mother's Hospital brings together specialists for Orthopedic Surgery In Bellary. Hospital capacity markers such as Google rating 3.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://mothershospital.org/",
+    "address": "4VQW+QJ4, Belgal cross cricle, Belagal Cross, Cowl Bazaar, Ballari, Karnataka 583102",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583102",
+    "locality": "Cowl Bazaar",
+    "landmark": "Belagal Cross",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEAsR5I-pUJkXri2LrWypMTqns0V-QQhFsCxsALp_cZUXcuzNYL-CX5WhWDuT3WmJll3whZbIJ94vkRkjZAU5T1hcePQh2RKhbnkf9tWuz6eZeS2Sy1XY_pyOZzlQGPrZ2n2hQ=w1200-h900-p-k-no",
+    "logo": "https://mothershospital.org/assets/mothers-title-logo-footer-BQUjOXWp.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEAsR5I-pUJkXri2LrWypMTqns0V-QQhFsCxsALp_cZUXcuzNYL-CX5WhWDuT3WmJll3whZbIJ94vkRkjZAU5T1hcePQh2RKhbnkf9tWuz6eZeS2Sy1XY_pyOZzlQGPrZ2n2hQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1389574,
+      "lng": 76.8966584,
+      "label": "Mother's Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "msr-hospital-ballari",
+    "name": "MSR Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ballari often choose MSR Hospital for its strength in Orthopedic Surgery In Bellary. Hospital capacity markers such as Google rating 3.0, 3+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/msr-hospital-ballari/",
+    "address": "Ward 171, SPR Flats, S N Pet Main Road, New Under Bridge, 44/22, Sri Ramakrishna Vivekananda Rd, Satya Narayana Pet, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "Satya Narayana Pet",
+    "landmark": "S N Pet Main Road",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "3+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHV7McQ6fvAUmnmawZ4FgIgGKiLcUnRCcNvMMRuLRuO1uPEHWR4d7r8fJTlontKOnbvRc-3U8t7HhZsS_i7B-MB6bOcA00pMC999V_pVWJ6l740BE5FXYhhKP900BDrQq38BwY=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHV7McQ6fvAUmnmawZ4FgIgGKiLcUnRCcNvMMRuLRuO1uPEHWR4d7r8fJTlontKOnbvRc-3U8t7HhZsS_i7B-MB6bOcA00pMC999V_pVWJ6l740BE5FXYhhKP900BDrQq38BwY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5rS1bYLdJOfBmxsi42LosqMi_tIvLjvyACTekLH15k28bdvFET-UlfMZVcEEqPolJMdrRDTCV_gOtZgo8sTYN1j-gNw0UeTQq2_5nO-ZKiNvDN4uSJkey_iK2Vx-M9r8VwfnD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1507007,
+      "lng": 76.9367562,
+      "label": "MSR Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 3,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "n-b-hospital-dr-kasa-somasekhar-ballari",
+    "name": "N B Hospital Dr, Kasa Somasekhar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ballari, N B Hospital Dr, Kasa Somasekhar delivers integrated care across Spine Surgery In Bellary. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "092412 20333",
+    "alternatePhone": "",
+    "website": "http://www.healraton.com/listing/n-b-hospital-ballari/",
+    "address": "3rd, Main, Bellary - Uravakonda - Anantapur Rd, Venkateswara Nagar, Patel Nagar, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "Patel Nagar",
+    "landmark": "Bellary - Uravakonda - Anantapur Rd",
+    "emergencyContact": "092412 20333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFu0FzZohFxBwlgNOFIQ6qb4A0AzGDKv31ZnAcB9mIrsB_xU1xtcJiSRxSEA--VdY0fNJudGVC2PL8OXHGC6dlc3hmt77YKKvtrDK6wOEB81taHcCg7WYiv9zP99izLHCiEB6H=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/nbhospitalballari/wp-content/uploads/sites/58/2023/01/cropped-N-B-Hospital-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFu0FzZohFxBwlgNOFIQ6qb4A0AzGDKv31ZnAcB9mIrsB_xU1xtcJiSRxSEA--VdY0fNJudGVC2PL8OXHGC6dlc3hmt77YKKvtrDK6wOEB81taHcCg7WYiv9zP99izLHCiEB6H=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1428274,
+      "lng": 76.9471288,
+      "label": "N B Hospital Dr, Kasa Somasekhar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nava-karnataka-multi-speciality-hospital-ballari",
+    "name": "NAVA KARNATAKA MULTI-SPECIALITY HOSPITAL",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Ballari, NAVA KARNATAKA MULTI-SPECIALITY HOSPITAL delivers integrated care across Spine Surgery In Bellary and Speciality Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ballari.",
+    "email": "",
+    "phone": "083923 58571",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/nava-karnataka-multi-speciality-hospital-ballari/",
+    "address": "Anantapur Rd, opposite RR MULTIPLEX, Vishal nagar, Venkateswara Nagar, Bandimot, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "Bandimot",
+    "landmark": "opposite RR MULTIPLEX, Vishal nagar, Venkateswara Nagar, Bandimot, Ballari, Karnataka 583101",
+    "emergencyContact": "083923 58571",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Bellary",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGufpzC7iKZgbCiGEMeOkD0Q078i3AN6fjaBg08GihVvwQn9pg1B01BkDtcy_pLfjF_4a1MigfUxNkXPv4AAndk89EVtI7Ird8bOXWw22WPzgLg72o3DS5Ji-T81N3dglnTxV237tpugkIA=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGufpzC7iKZgbCiGEMeOkD0Q078i3AN6fjaBg08GihVvwQn9pg1B01BkDtcy_pLfjF_4a1MigfUxNkXPv4AAndk89EVtI7Ird8bOXWw22WPzgLg72o3DS5Ji-T81N3dglnTxV237tpugkIA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1Qi=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPa4ABLgghyDKzTNKjF1TKpcczmUZdecGsv2znB=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOkfcGdpTdSlYqQlmmfdE2Jf-w2ka0zGaOSeQ09=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1421211,
+      "lng": 76.9433927,
+      "label": "NAVA KARNATAKA MULTI-SPECIALITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nisarga-general-surgery-clinic-ballari",
+    "name": "Nisarga General Surgery Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ballari, Nisarga General Surgery Clinic delivers integrated care across Laparoscopic Surgery In Bellary. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ballari.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "4WWH+HP3, H.Linga Reddy Plaza, First Floor, Kolachalam Compound, Opp. Old Bus Stand, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "Opp. Old Bus Stand",
+    "landmark": "First Floor",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFd4XbUbbhOcA2GquTht3oNGcekIQIApX7TwH07m3mrZnEi-CZl-dYpvvZm1dHNOB48hXaCsuXndfaO5JqOpu-bdTu-kBD87yiaX9KLRC4crLbcgGAzzDfew5JGnLNY1nBKQIKtsQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFd4XbUbbhOcA2GquTht3oNGcekIQIApX7TwH07m3mrZnEi-CZl-dYpvvZm1dHNOB48hXaCsuXndfaO5JqOpu-bdTu-kBD87yiaX9KLRC4crLbcgGAzzDfew5JGnLNY1nBKQIKtsQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1463916,
+      "lng": 76.9292947,
+      "label": "Nisarga General Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pulse-health-care-ballari",
+    "name": "PULSE HEALTH CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ballari, PULSE HEALTH CARE offers coordinated hospital care with major focus on Heart Surgery In Bellary. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ballari.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "tirumala apartment, Near, belagal cross, Vijayanagar Colony, Cantonment, Ballari, Karnataka 583102",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583102",
+    "locality": "Cantonment",
+    "landmark": "belagal cross",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGf6GMtRNgD-2jnKULLdxjqIg9tusAfAnm2PUznbYhOaqkE_ECXmu1XD1CZSgp2pXE3DoGzSS-zh4A4j3y4qQ4i4YDh41VEQf5HRHC1uUHf9JyO3uWbu9GAmNZUCdGunLfANLTjG7nBNJh-=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGf6GMtRNgD-2jnKULLdxjqIg9tusAfAnm2PUznbYhOaqkE_ECXmu1XD1CZSgp2pXE3DoGzSS-zh4A4j3y4qQ4i4YDh41VEQf5HRHC1uUHf9JyO3uWbu9GAmNZUCdGunLfANLTjG7nBNJh-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1410994,
+      "lng": 76.8951258,
+      "label": "PULSE HEALTH CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rays-hospital-ballari",
+    "name": "Rays Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ballari, Rays Hospital brings together specialists for Orthopedic Surgery In Bellary. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "095902 77731",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Main Rd, opp. OLD POST OFFICE, Radio Park Cowl Bazar, Cowl Bazaar, Ballari, Karnataka 583102",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583102",
+    "locality": "Cowl Bazaar",
+    "landmark": "Radio Park Cowl Bazar",
+    "emergencyContact": "095902 77731",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG36BweRmDmS33GXPpTa_boGzq7k_lO8HH2nae3fzRV1KYlWrEYsTapQpVZi0JLdqyMNzlImrQ4772dKNmCeBpyho7qQ6_NI0inmJOeGeVIxuerdUxqCHV9pJy2qAK86fs6F-2i=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG36BweRmDmS33GXPpTa_boGzq7k_lO8HH2nae3fzRV1KYlWrEYsTapQpVZi0JLdqyMNzlImrQ4772dKNmCeBpyho7qQ6_NI0inmJOeGeVIxuerdUxqCHV9pJy2qAK86fs6F-2i=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1383576,
+      "lng": 76.9043401,
+      "label": "Rays Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "relief-poly-clinic-ballari",
+    "name": "RELIEF POLY CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ballari often choose RELIEF POLY CLINIC for its strength in Cosmetic Surgery In Bellary. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NEAR, DOOR NO 10 EX-SERVICEMEN COLONY, Bangalore Rd, Cowl Bazaar, Ballari, Karnataka 583102",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583102",
+    "locality": "Cowl Bazaar",
+    "landmark": "Bangalore Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=15.1379902%2C76.8975517&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=15.1379902%2C76.8975517&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=15.1379902%2C76.8975517&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=15.1379902%2C76.8975517&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1379902,
+      "lng": 76.8975517,
+      "label": "RELIEF POLY CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "royal-city-hospital-ballari",
+    "name": "Royal City Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ballari, Royal City Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Bellary. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "083922 75199",
+    "alternatePhone": "",
+    "website": "",
+    "address": "98/1, Sura Complex, Dr RajKumar Rd, Beside Hoysala Hotel, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "Beside Hoysala Hotel",
+    "landmark": "Beside Hoysala Hotel, Ballari, Karnataka 583101",
+    "emergencyContact": "083922 75199",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=15.145066%2C76.929584&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=15.145066%2C76.929584&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=15.145066%2C76.929584&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=15.145066%2C76.929584&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.145066,
+      "lng": 76.929584,
+      "label": "Royal City Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rr-children-s-clinic-ballari",
+    "name": "RR CHILDREN'S CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ballari, RR CHILDREN'S CLINIC brings together specialists for Cosmetic Surgery In Bellary and Women and Child Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081473 41528",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ballari medical college and research centre, VIJAY TOWER ,VIDYA NAGAR ,1ST CROSS, Kolagallu Rd, near OPD Road, Ballari, Karnataka 583104",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583104",
+    "locality": "near OPD Road",
+    "landmark": "near OPD Road, Ballari, Karnataka 583104",
+    "emergencyContact": "081473 41528",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Bellary",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5fZ_Jfy6o36gRHqaYefxt-4Py7O3gYt6Hu19-6Y2BjKbritkLTMZbG6G5f3gsFZsEp5KilNxl_0MweSLgIg0a32ob3v41zbgbbgiNmgQELM3jstWt3bPXhzT4SwjWgDxb4aPe=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5fZ_Jfy6o36gRHqaYefxt-4Py7O3gYt6Hu19-6Y2BjKbritkLTMZbG6G5f3gsFZsEp5KilNxl_0MweSLgIg0a32ob3v41zbgbbgiNmgQELM3jstWt3bPXhzT4SwjWgDxb4aPe=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1586838,
+      "lng": 76.8982447,
+      "label": "RR CHILDREN'S CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "s-r-multi-speciality-hospital-subba-rao-hospital-ballari",
+    "name": "S. R. Multi Speciality Hospital (Subba Rao Hospital)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ballari, S. R. Multi Speciality Hospital (Subba Rao Hospital) brings together specialists for IVF In Bellary and Speciality Care. Operational strengths including Google rating 4.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096632 43650",
+    "alternatePhone": "",
+    "website": "https://srhospital.in/",
+    "address": "NH 67, Hospet Rd, near 2nd Railway Gate, Siddartha Nagar, Cantonment, Ballari, Karnataka 583104",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583104",
+    "locality": "Cantonment",
+    "landmark": "near 2nd Railway Gate, Siddartha Nagar, Cantonment, Ballari, Karnataka 583104",
+    "emergencyContact": "096632 43650",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Bellary",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIJxyO5pHumQZdaDidt-16eF0_dAszjuXgjlgwGL2KfsNx1OYl7v9MgtDZpEPGNAJ5IrkvWMLxpRG5v0dGbHRgt4ieGWHOus2kWHB0_puIpUgy-tQCjZt2LldPo1cTtQObkDyIhv4kvlBC=w1200-h900-p-k-no",
+    "logo": "https://srhospital.in/wp-content/uploads/2024/03/SRH.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIJxyO5pHumQZdaDidt-16eF0_dAszjuXgjlgwGL2KfsNx1OYl7v9MgtDZpEPGNAJ5IrkvWMLxpRG5v0dGbHRgt4ieGWHOus2kWHB0_puIpUgy-tQCjZt2LldPo1cTtQObkDyIhv4kvlBC=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1465672,
+      "lng": 76.9041959,
+      "label": "S. R. Multi Speciality Hospital (Subba Rao Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sai-health-care-multi-speciality-hospital-ballari",
+    "name": "Sai Health Care Multi Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sai Health Care Multi Speciality Hospital has built a strong reputation in Ballari for multidisciplinary treatment pathways covering Urologist Surgery In Bellary and Speciality Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098862 95403",
+    "alternatePhone": "",
+    "website": "https://sai-health-care.lovable.app/",
+    "address": "Jawans Rd, Radio Park Cowl Bazar, Cowl Bazaar, Ballari, Karnataka 583102",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583102",
+    "locality": "Cowl Bazaar",
+    "landmark": "Cowl Bazaar",
+    "emergencyContact": "098862 95403",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Bellary",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFH72uWwuBLs3hEAGufvud-A04Yb8mbnN9jQ1o7HsW8P2kcnTBCar69Mw3NCkFvBoSmmspwvNMuSY6I2COfjI_yPlSXfKU70pxOFMs-ovWbcWO_myyy_2MFOd3KdMF-YyNNd7E=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFH72uWwuBLs3hEAGufvud-A04Yb8mbnN9jQ1o7HsW8P2kcnTBCar69Mw3NCkFvBoSmmspwvNMuSY6I2COfjI_yPlSXfKU70pxOFMs-ovWbcWO_myyy_2MFOd3KdMF-YyNNd7E=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.138214,
+      "lng": 76.8973751,
+      "label": "Sai Health Care Multi Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sandhya-polyclinic-ballari",
+    "name": "Sandhya polyclinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ballari, Sandhya polyclinic offers coordinated hospital care with major focus on Liver Transplant Surgery In Bellary. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "088842 50666",
+    "alternatePhone": "",
+    "website": "https://www.seeglobal.in/listing/sandhya-poly-clinic-ballari-bellary",
+    "address": "Parvathi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Parvathi Nagar",
+    "landmark": "Karnataka 583103",
+    "emergencyContact": "088842 50666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHx-EiqBsefh7VsLPH7-6nqafqHt_y0MaprZUPDkNZUWZh0TrCINZaoEhFF6jAMN4xts__s8Pvnp0Ta18MctIQ5LPzSaCWmvxtoMAuJiuAeK4_DRMXL56jg3xJM_f8pKdChC_E=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHx-EiqBsefh7VsLPH7-6nqafqHt_y0MaprZUPDkNZUWZh0TrCINZaoEhFF6jAMN4xts__s8Pvnp0Ta18MctIQ5LPzSaCWmvxtoMAuJiuAeK4_DRMXL56jg3xJM_f8pKdChC_E=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1523538,
+      "lng": 76.9244095,
+      "label": "Sandhya polyclinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sanjeevini-hospital-ballari",
+    "name": "Sanjeevini Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ballari, Sanjeevini Hospital delivers integrated care across Spine Surgery In Bellary. Operational strengths including Google rating 2.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "094490 54636",
+    "alternatePhone": "",
+    "website": "http://sanjeevinihospitals.com/",
+    "address": "Sanjeevini Hospital, Kappagal Road, Near Durgamma Temple, Opp Krishna Temple, KHB Colony, Bhagath Singh Nagar, Parvathi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Parvathi Nagar",
+    "landmark": "Near Durgamma Temple, Opp Krishna Temple, KHB Colony, Bhagath Singh Nagar, Parvathi Nagar, Ballari, Karnataka 583103",
+    "emergencyContact": "094490 54636",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-rhHX3kMVSL118dUXXlPjJDkzSSbBZg0ygIO2ZlFTZb0AKeJWrPewisyyxZW7TtEpx5fpAdJ0i7RnmucNgozK2qf-YlWMTjtlffiJKxB49AZrLKmyUZJhZHnDGWAIUbm8HJuE=w1200-h900-p-k-no",
+    "logo": "https://sanjeevinihospitals.com/wp-content/themes/Divi-3/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-rhHX3kMVSL118dUXXlPjJDkzSSbBZg0ygIO2ZlFTZb0AKeJWrPewisyyxZW7TtEpx5fpAdJ0i7RnmucNgozK2qf-YlWMTjtlffiJKxB49AZrLKmyUZJhZHnDGWAIUbm8HJuE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1541398,
+      "lng": 76.9308785,
+      "label": "Sanjeevini Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "saroja-hanumaiah-speciality-hospital-ballari",
+    "name": "Saroja Hanumaiah Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ballari, Saroja Hanumaiah Speciality Hospital delivers integrated care across Spine Surgery In Bellary and Speciality Care. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ballari.",
+    "email": "",
+    "phone": "088725 23222",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/saroja-hanumaiah-speciality-hospital-ballari/",
+    "address": "Siruguppa Rd, Ashok Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Ashok Nagar",
+    "landmark": "Ballari",
+    "emergencyContact": "088725 23222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Bellary",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFSIgW5aVHquXh1tqNoXQJtkB9LKBG7lyou0C5yxOk8knz7L4qcpqWdrRzy3ebkjj35bDDuYgXL_wq_MrH_TUVeylFlMRHAFdX7fn-hoGURPW9CgWeNAV2kdEvygMQM2Ilej05GA=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFSIgW5aVHquXh1tqNoXQJtkB9LKBG7lyou0C5yxOk8knz7L4qcpqWdrRzy3ebkjj35bDDuYgXL_wq_MrH_TUVeylFlMRHAFdX7fn-hoGURPW9CgWeNAV2kdEvygMQM2Ilej05GA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1615255,
+      "lng": 76.9142951,
+      "label": "Saroja Hanumaiah Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sarvodaya-super-speciality-hospital-ballari",
+    "name": "Sarvodaya Super speciality hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sarvodaya Super speciality hospital has built a strong reputation in Ballari for multidisciplinary treatment pathways covering Urologist Surgery In Bellary and Speciality Care. Hospital capacity markers such as Google rating 3.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089711 00561",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1 st cross, Kappagal Rd, Beechi Nagar, Gandhi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Gandhi Nagar",
+    "landmark": "Beechi Nagar",
+    "emergencyContact": "089711 00561",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Bellary",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbDfroF56TQ_cOxTNuGs5u7aEtuXA7q9O65K_p69qJCdZ0DP8_-xKYWsvWtMNMScZQE6FbI6eAWrf0XpJGbLNglesIIUjN5ierGsesZxzq1VhDEhNvP9pCKmVMZvhOwDaAQkrjMQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbDfroF56TQ_cOxTNuGs5u7aEtuXA7q9O65K_p69qJCdZ0DP8_-xKYWsvWtMNMScZQE6FbI6eAWrf0XpJGbLNglesIIUjN5ierGsesZxzq1VhDEhNvP9pCKmVMZvhOwDaAQkrjMQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1586019,
+      "lng": 76.9336949,
+      "label": "Sarvodaya Super speciality hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sharada-gastro-and-liver-care-centre-ballari",
+    "name": "SHARADA GASTRO & LIVER CARE CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ballari, SHARADA GASTRO & LIVER CARE CENTRE brings together specialists for Liver Transplant Surgery In Bellary, Liver Care, and Gastroenterology. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "076762 74572",
+    "alternatePhone": "",
+    "website": "",
+    "address": "BHC Hospital Havambhavi, Siruguppa Rd, Ashok Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Ashok Nagar",
+    "landmark": "Ashok Nagar",
+    "emergencyContact": "076762 74572",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bellary",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=15.1629752%2C76.9143449&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=15.1629752%2C76.9143449&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=15.1629752%2C76.9143449&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=15.1629752%2C76.9143449&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1629752,
+      "lng": 76.9143449,
+      "label": "SHARADA GASTRO & LIVER CARE CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-navodaya-multi-speciality-hospital-ballari",
+    "name": "Shree Navodaya Multi Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Navodaya Multi Speciality Hospital is a prominent hospital in Ballari, known for structured tertiary care across Gynecologist Surgery In Bellary and Speciality Care. Hospital capacity markers such as Google rating 3.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "094808 74519",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/shree-navodaya-multi-speciality-ballari/",
+    "address": "Adjacent to Railway underpass, Nallacheruvu, Cowl Bazaar, Ballari, Karnataka 583102",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583102",
+    "locality": "Cowl Bazaar",
+    "landmark": "Cowl Bazaar",
+    "emergencyContact": "094808 74519",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bellary",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfyanUPUyi1tlydXER2zKYxrUf3ba1YLSgwQKbR3LpRGRGjkxvgwOFF08E20o9UMCPMFfhyZ48lQ7Yy2GQZQgheSXIY0nITmlUPPZVtMmH6bWxNLeVzcE74ZGSBYofANv_Fu9wl-lXa_5U=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/shreenavodayamultispecialityhospitalballari/wp-content/uploads/sites/69/2023/11/Shree-Navodaya-Multispeciality-Hospital-Logos.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfyanUPUyi1tlydXER2zKYxrUf3ba1YLSgwQKbR3LpRGRGjkxvgwOFF08E20o9UMCPMFfhyZ48lQ7Yy2GQZQgheSXIY0nITmlUPPZVtMmH6bWxNLeVzcE74ZGSBYofANv_Fu9wl-lXa_5U=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1398163,
+      "lng": 76.917722,
+      "label": "Shree Navodaya Multi Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shruti-super-speciality-hospital-ballari",
+    "name": "Shruti Super Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shruti Super Speciality Hospital is a prominent hospital in Ballari, known for structured tertiary care across Laparoscopic Surgery In Bellary and Speciality Care. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "094803 83671",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/shruti-superspeciality-hospital-ballari/",
+    "address": "Sudha Cross, opp. SBI Bank, Tilak Nagar, Cantonment, Ballari, Karnataka 583104",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583104",
+    "locality": "Cantonment",
+    "landmark": "Tilak Nagar",
+    "emergencyContact": "094803 83671",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Bellary",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEH_hIlufMwt1rhj-bQQX5w1NnEc_HELA5GG2pDkUeJNgPuPHngt1wnfommMdo8rjktKsgApD0FGOLMmsjJMgwL-WWb0L3RZQq8cxGPSr4-HBXPC005GymL4R3KB0NjezA9ENOO=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEH_hIlufMwt1rhj-bQQX5w1NnEc_HELA5GG2pDkUeJNgPuPHngt1wnfommMdo8rjktKsgApD0FGOLMmsjJMgwL-WWb0L3RZQq8cxGPSr4-HBXPC005GymL4R3KB0NjezA9ENOO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1486188,
+      "lng": 76.896443,
+      "label": "Shruti Super Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sk-panduranga-rao-hospital-ballari",
+    "name": "SK Panduranga Rao Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SK Panduranga Rao Hospital has built a strong reputation in Ballari for multidisciplinary treatment pathways covering Gynecologist Surgery In Bellary. Its infrastructure includes Google rating 3.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083922 75224",
+    "alternatePhone": "",
+    "website": "http://www.seeglobal.in/index.php/en/ads/5b262a10ac704/Hospitals/S%2CK%2C+Panduranga+Rao+Hospital",
+    "address": "4WXP+H9C, ಸತ್ಯನಾರಾಯಣ ಪೇಟೆ, Ballari, Karnataka 583101",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583101",
+    "locality": "ಸತ್ಯನಾರಾಯಣ ಪೇಟೆ",
+    "landmark": "Ballari",
+    "emergencyContact": "083922 75224",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgC6HUwbMJrCDdq9DpCxH4NQk2pchDfWrhROG6eEccA1mA3FlkQGXvAtqpxC3cOwGH6D6QJncXTNhL3MiIC4FNgyaMp2p3bShING_IMjAJFPXBiFcdNeIKFsIKCxlpBCXU4Fz0RjtZTz1s=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgC6HUwbMJrCDdq9DpCxH4NQk2pchDfWrhROG6eEccA1mA3FlkQGXvAtqpxC3cOwGH6D6QJncXTNhL3MiIC4FNgyaMp2p3bShING_IMjAJFPXBiFcdNeIKFsIKCxlpBCXU4Fz0RjtZTz1s=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDH3GYeKvcD82_Yr3IxRAeCA32Xbci-se2RW_DC5rxWXEu9aDEwnX0XiYmFfI8kCmaDgJXBcPOyu7oa4pZQn6pKyHpisNgMAgImcBoD0p-GvfWEnIRn3DWtZZG4JbSS33cZqhbhtmsRWpU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1489402,
+      "lng": 76.935904,
+      "label": "SK Panduranga Rao Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-sai-hospital-ballari",
+    "name": "Sri Sai Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ballari, Sri Sai Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Bellary. Operational strengths including Google rating 3.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ballari.",
+    "email": "",
+    "phone": "083922 55892",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/sri-sai-hospital-ballari/",
+    "address": "near Durgamma Temple, KHB Colony, Bhagath Singh Nagar, Gandhi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Gandhi Nagar",
+    "landmark": "Bhagath Singh Nagar",
+    "emergencyContact": "083922 55892",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdv1PlFxyipQYwbYN_13H2mp_--JFqlDZvvlpNMuNaulELy1ATfZgyGQriiqB7dLe0Q7PPaDSKokm7Zv2lhMaWSqIghxS8iVM-VFymoOjbnPTNSqCY4mLhOa6kiAXWx3MAfH6A0Q=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdv1PlFxyipQYwbYN_13H2mp_--JFqlDZvvlpNMuNaulELy1ATfZgyGQriiqB7dLe0Q7PPaDSKokm7Zv2lhMaWSqIghxS8iVM-VFymoOjbnPTNSqCY4mLhOa6kiAXWx3MAfH6A0Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1532579,
+      "lng": 76.9296151,
+      "label": "Sri Sai Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sridurga-ent-and-cancer-hospital-ballari",
+    "name": "Sridurga ENT And Cancer Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ballari, Sridurga ENT And Cancer Hospital delivers integrated care across Oncologist Surgery In Bellary. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "080889 96688",
+    "alternatePhone": "",
+    "website": "",
+    "address": "srihari plaza , Akula Challamma street, opposite Max showroom, Kappagal Rd, near, Durgammagudi circle, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Durgammagudi circle",
+    "landmark": "opposite Max showroom, Kappagal Rd, near, Durgammagudi circle, Ballari, Karnataka 583103",
+    "emergencyContact": "080889 96688",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFtLL5gbtvpyRbPw8YoxvtpyOV3jgPqBxzBW2hyVhbaf11kVuWMbDb2-AGd3x3-0kSdKip-OI5LKdy9_al4hmxO4bzgat2uJIUrC2QMTegsa4mq6luzRfKX4yWsgQFP_Q1D34phq9MzctNc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFtLL5gbtvpyRbPw8YoxvtpyOV3jgPqBxzBW2hyVhbaf11kVuWMbDb2-AGd3x3-0kSdKip-OI5LKdy9_al4hmxO4bzgat2uJIUrC2QMTegsa4mq6luzRfKX4yWsgQFP_Q1D34phq9MzctNc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1528172,
+      "lng": 76.9307083,
+      "label": "Sridurga ENT And Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "st-mary-s-hospital-ballari",
+    "name": "St. Mary's Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "St. Mary's Hospital has built a strong reputation in Ballari for multidisciplinary treatment pathways covering Orthopedic Surgery In Bellary. Operational strengths including Google rating 3.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ballari can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/st-marys-hospital-ballari/",
+    "address": "OPD Road, near VIMS Hospital, Housing Board Colony, Cantonment, Ballari, Karnataka 583104",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583104",
+    "locality": "Cantonment",
+    "landmark": "near VIMS Hospital, Housing Board Colony, Cantonment, Ballari, Karnataka 583104",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCIVn1uVmFAIWtNGdeDQhAtdcL4eE451p22DNqIFk0aV_R6g4CHYHW8QU1TgaMTB8rJ64A--66_eRG8rWdQTZ2ZtAirM3HJFNohPyneYaS5rSb0Jc985mPSapWJyfLPKzl_m8=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCIVn1uVmFAIWtNGdeDQhAtdcL4eE451p22DNqIFk0aV_R6g4CHYHW8QU1TgaMTB8rJ64A--66_eRG8rWdQTZ2ZtAirM3HJFNohPyneYaS5rSb0Jc985mPSapWJyfLPKzl_m8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1542333,
+      "lng": 76.9008556,
+      "label": "St. Mary's Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "thippareddy-hospital-ballari",
+    "name": "Thippareddy hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ballari, Thippareddy hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Bellary. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "P6, Kappagal Rd, KHB Colony, Bhagath Singh Nagar, Gandhi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Gandhi Nagar",
+    "landmark": "KHB Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmA22FGlvhdc9CWCPIC3F9Kd2g53PN0XClVdZGxAsHmHJqdCFhjC4zeCXBJrDRfxGKvy_iMVoRcU2v2k6busc4DwiVKg-TA4GaSpF7gVrP9fYn-o5V9zRBm2aboJgfEvQOQc-7tA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmA22FGlvhdc9CWCPIC3F9Kd2g53PN0XClVdZGxAsHmHJqdCFhjC4zeCXBJrDRfxGKvy_iMVoRcU2v2k6busc4DwiVKg-TA4GaSpF7gVrP9fYn-o5V9zRBm2aboJgfEvQOQc-7tA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1543272,
+      "lng": 76.9309554,
+      "label": "Thippareddy hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "venkat-kamineni-hospital-ballari",
+    "name": "Venkat Kamineni Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ballari often choose Venkat Kamineni Hospital for its strength in Spine Surgery In Bellary. Hospital capacity markers such as Google rating 3.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "094483 36524",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/venkat-kamineni-hospital-ballari/",
+    "address": "ward no 22 D, 129c, Hospet Rd, 1st gate, Devi Nagar, Ballari, Karnataka 583104",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583104",
+    "locality": "Devi Nagar",
+    "landmark": "Hospet Rd",
+    "emergencyContact": "094483 36524",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2jA_ZbeKE_kKUlt8_mTXYNSA2kHwli0neM7TX_GopAdEhdVIo_1DekgzyBlycO5oaALya_Q5GRNYqaOB_I6SxM4nJRHlmYcFqKKFMqHp4eWafI4SAi5_l-sVwGJD_fxVsZJdH=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2jA_ZbeKE_kKUlt8_mTXYNSA2kHwli0neM7TX_GopAdEhdVIo_1DekgzyBlycO5oaALya_Q5GRNYqaOB_I6SxM4nJRHlmYcFqKKFMqHp4eWafI4SAi5_l-sVwGJD_fxVsZJdH=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1442589,
+      "lng": 76.9066957,
+      "label": "Venkat Kamineni Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vishwa-health-care-ballari",
+    "name": "VISHWA HEALTH CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ballari, VISHWA HEALTH CARE brings together specialists for General Surgery In Bellary. With public-facing highlights like Google rating 4.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "088611 80345",
+    "alternatePhone": "",
+    "website": "",
+    "address": "5W52+2PQ, Ashok Nagar, Indira Nagar, Ballari, Karnataka 583104",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583104",
+    "locality": "Indira Nagar",
+    "landmark": "Indira Nagar",
+    "emergencyContact": "088611 80345",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeb31DepeGFvAMkCI0XPGkq863ZhZl9hyQ9CpDdUNuWxv0pPG3uaR5CvSIXV3XtuwalHeaTE5lGCpKfT0mAeBLf68xI3_9qGvaGT1he_BcD1m6IyQCctx4weKC_mYd3Uo17ss=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeb31DepeGFvAMkCI0XPGkq863ZhZl9hyQ9CpDdUNuWxv0pPG3uaR5CvSIXV3XtuwalHeaTE5lGCpKfT0mAeBLf68xI3_9qGvaGT1he_BcD1m6IyQCctx4weKC_mYd3Uo17ss=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.157596,
+      "lng": 76.9018748,
+      "label": "VISHWA HEALTH CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "voise-multi-speciality-hospital-and-research-center-ballari",
+    "name": "VOISE Multi-Speciality Hospital and Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ballari, VOISE Multi-Speciality Hospital and Research Center offers coordinated hospital care with major focus on Spine Surgery In Bellary and Speciality Care. Operational strengths including Google rating 3.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ballari.",
+    "email": "",
+    "phone": "083922 56444",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Moka Rd, KHB Colony, Tekur Compound, Gandhi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Gandhi Nagar",
+    "landmark": "Tekur Compound",
+    "emergencyContact": "083922 56444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Bellary",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwhJ0g8910jG5RUyD31b9oLSftPPPRgaio8uZZxD1dcrhEsw9iH8xIhJxtJDZxMm6W1QrvAHy_PUO_5J5Al9wqBuHfMAnzb7isCS0ySntJgDdgUFl-jQVL78AFyAQMSVk9Rm0i=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwhJ0g8910jG5RUyD31b9oLSftPPPRgaio8uZZxD1dcrhEsw9iH8xIhJxtJDZxMm6W1QrvAHy_PUO_5J5Al9wqBuHfMAnzb7isCS0ySntJgDdgUFl-jQVL78AFyAQMSVk9Rm0i=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1556365,
+      "lng": 76.9367538,
+      "label": "VOISE Multi-Speciality Hospital and Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ballari",
+    "name": "ದೇಸಾಯಿ ಆಸ್ಪತ್ರೆ",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ದೇಸಾಯಿ ಆಸ್ಪತ್ರೆ has built a strong reputation in Ballari for multidisciplinary treatment pathways covering Gynecologist Surgery In Bellary. Hospital capacity markers such as Google rating 3.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ballari.",
+    "email": "",
+    "phone": "080887 20487",
+    "alternatePhone": "",
+    "website": "https://www.healraton.com/listing/desai-hospital-ballari/",
+    "address": "Moka Rd, KHB Colony, KEB Quarters, Gandhi Nagar, Ballari, Karnataka 583103",
+    "city": "Ballari",
+    "state": "Karnataka",
+    "pincode": "583103",
+    "locality": "Gandhi Nagar",
+    "landmark": "KEB Quarters",
+    "emergencyContact": "080887 20487",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bellary"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4Asfwl0CZ2JTua2_UVy4TM9OIEWwaSY5Acsr1Gnn9uBPyTSjJgPXXRuvDFeu5c5C8Khb8bI2R68K2KXE2KUwwE4JoNlrULiPUJTjUulIpSvqqui51gnA4kvcDk8MVzwB4y8zF5A=w1200-h900-p-k-no",
+    "logo": "http://www.healraton.com/wp-content/uploads/2025/06/Healraton-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4Asfwl0CZ2JTua2_UVy4TM9OIEWwaSY5Acsr1Gnn9uBPyTSjJgPXXRuvDFeu5c5C8Khb8bI2R68K2KXE2KUwwE4JoNlrULiPUJTjUulIpSvqqui51gnA4kvcDk8MVzwB4y8zF5A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 15.1574521,
+      "lng": 76.9438371,
+      "label": "ದೇಸಾಯಿ ಆಸ್ಪತ್ರೆ",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

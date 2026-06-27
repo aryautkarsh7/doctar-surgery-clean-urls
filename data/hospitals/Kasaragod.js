@@ -1,0 +1,3465 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "apis-kidney-stone-institute-kasaragod",
+    "name": "Apis Kidney Stone Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kasaragod, Apis Kidney Stone Institute offers coordinated hospital care with major focus on Urologist Surgery In Kasaragod and Kidney Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kasaragod.",
+    "email": "",
+    "phone": "080508 88342",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Wintouch Multi Speciality Hospital, Bank Rd, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Bank Rd",
+    "landmark": "Kasaragod",
+    "emergencyContact": "080508 88342",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=12.5052803%2C74.9878738&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=12.5052803%2C74.9878738&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=12.5052803%2C74.9878738&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=12.5052803%2C74.9878738&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5052803,
+      "lng": 74.9878738,
+      "label": "Apis Kidney Stone Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aramana-hospital-and-heart-centre-kasaragod",
+    "name": "Aramana Hospital & Heart Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kasaragod, Aramana Hospital & Heart Centre delivers integrated care across Urologist Surgery In Kasaragod and Cardiac Care. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kasaragod.",
+    "email": "",
+    "phone": "04994 230 524",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH 66, Ashwini Nagar, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Ashwini Nagar",
+    "landmark": "Kasaragod",
+    "emergencyContact": "04994 230 524",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9C6I4XxBEK6kR7RJvXZ10BRpNvyY3qllKkTP_KyroK8biPoae0dDOjpt6GX5FxZNUA_I5T97NASJeHhnRGKXl64sGCxLJv7QX_Srwx2jn_wgPwJeKCUJdsZL8cfhlXYCJNAcaAk1-mfBI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9C6I4XxBEK6kR7RJvXZ10BRpNvyY3qllKkTP_KyroK8biPoae0dDOjpt6GX5FxZNUA_I5T97NASJeHhnRGKXl64sGCxLJv7QX_Srwx2jn_wgPwJeKCUJdsZL8cfhlXYCJNAcaAk1-mfBI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXtAXvrjMkPmwnRu6xELW0l0_9bfBVrlxMmzmY2oBFM24rti0bsMvxEhL7GepBku0oDkPmBiOZvRyTj_EUOnhIeNtCVfoK6EvTIj-WV6wnMfirhhxbR4X3FhHii7YBftyFKSUs=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7FQKu3i7iHzhY9q1jltHS1SfcWjhpydKE8IXgcYMmw-uRbb1B7iWae35RZJtEFeOII_BbaZ_fPEvMeVuMx-cga0piXNW5lkW1pvurYfowkD3RDtAz9H94AdnyJreRdOM6bhN1=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5073453,
+      "lng": 74.9905227,
+      "label": "Aramana Hospital & Heart Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aryasamagrachikitsalaya-kasaragod",
+    "name": "Aryasamagrachikitsalaya",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kasaragod, Aryasamagrachikitsalaya offers coordinated hospital care with major focus on Kidney Transplant Surgery In Kasaragod. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kasaragod.",
+    "email": "",
+    "phone": "090488 69176",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GX3Q+FQV, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "",
+    "landmark": "Kerala 671121",
+    "emergencyContact": "090488 69176",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFuaGDN7aVlg6bIwVi03Q3rOBQ8VBo03-91sT-C-nbs-y8n7g6B133bHE8Ho_llQphyR7aHuWJKbtqWXeqTbfIY-JHrK30ZkNm8aSHf4pWht7SChqVNs1_rxuaqWQ7S1w3DujnUA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFuaGDN7aVlg6bIwVi03Q3rOBQ8VBo03-91sT-C-nbs-y8n7g6B133bHE8Ho_llQphyR7aHuWJKbtqWXeqTbfIY-JHrK30ZkNm8aSHf4pWht7SChqVNs1_rxuaqWQ7S1w3DujnUA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5037476,
+      "lng": 74.9894164,
+      "label": "Aryasamagrachikitsalaya",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aster-mims-hospital-best-multispeciality-hospital-in-kasaragod-chengala-rahmath-nagar",
+    "name": "Aster MIMS Hospital - Best Multispeciality Hospital in Kasaragod, Chengala",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Rahmath Nagar often choose Aster MIMS Hospital - Best Multispeciality Hospital in Kasaragod, Chengala for its strength in Urologist Surgery In Kasaragod and Speciality Care. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Rahmath Nagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "04994 351 111",
+    "alternatePhone": "",
+    "website": "https://www.asterhospitals.in/hospitals/aster-mims-kasaragod",
+    "address": "Indira Nagar, Vadhi Thoybha, Chengala, Rahmath Nagar, Kerala 671541",
+    "city": "Rahmath Nagar",
+    "state": "Kerala",
+    "pincode": "671541",
+    "locality": "Chengala",
+    "landmark": "Chengala",
+    "emergencyContact": "04994 351 111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHu8Qea8mtnWGyP5LIS_wju9RYZfCg5vVdW8M_0UFNM6c47LeRbm-O6eimpYAqkXc56LPqaEVw-KCYVWoIfTNWIhDAhnV3iT7HK_2wMF0G1u5eUdJASKZIHnL988y8M8YgLVeWBYJq860P9=w1200-h900-p-k-no",
+    "logo": "https://www.asterhospitals.in/sites/default/files/2022-03/aster-cmi-bangalore-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHu8Qea8mtnWGyP5LIS_wju9RYZfCg5vVdW8M_0UFNM6c47LeRbm-O6eimpYAqkXc56LPqaEVw-KCYVWoIfTNWIhDAhnV3iT7HK_2wMF0G1u5eUdJASKZIHnL988y8M8YgLVeWBYJq860P9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5p1RhFBZjEsE6Q5QcWElqckd7MR1k6sXWbJpCANSXDHqREY1bJDCZ9pwSNk-gfh25Sbvxrq37HdQZHfMIZ4p8IHwnMVpnbgXujv02zsV1G48T5wSi0_D5H654avswut2wtIHr4j3Qh9Mf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEu3hfhFCktPE61n1iH7kGbOzkPw6rd6u0Z51iVmcpuOC1UdkH57PTGVCEJxtp9xj4ucr9oMEqQQnjGrLk9Byr-g_OJulkiyzGgAkz-Dt-cCFlI16pwe6k-C5eMR8Myo3BkLfgZalmJ2sA5=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5094534,
+      "lng": 75.0443624,
+      "label": "Aster MIMS Hospital - Best Multispeciality Hospital in Kasaragod, Chengala",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ayurmudhra-hospital-kasaragod",
+    "name": "Ayurmudhra Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ayurmudhra Hospital has built a strong reputation in Kasaragod for multidisciplinary treatment pathways covering Cosmetic Surgery In Kasaragod. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kasaragod can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor,Shoukath Building,opp:Railway station, Railway Station Road, Kasaragod, Kerala 671122",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671122",
+    "locality": "Railway Station Road",
+    "landmark": "opp:Railway station",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0NfG7KofGZcQ1Ro6-j-UFv-HhbwEBkacQgnoNm0FDJu1rFCOVWSciYJNPIJM-U0FebVeBBoWYakpGbzQAQ-bk5v0zg5NxqVtGzv6xe54J8HDcpOV6gBkfxh3C3wqEjXyHLAMUcA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0NfG7KofGZcQ1Ro6-j-UFv-HhbwEBkacQgnoNm0FDJu1rFCOVWSciYJNPIJM-U0FebVeBBoWYakpGbzQAQ-bk5v0zg5NxqVtGzv6xe54J8HDcpOV6gBkfxh3C3wqEjXyHLAMUcA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.4870117,
+      "lng": 74.9900578,
+      "label": "Ayurmudhra Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "carewell-hospital-and-research-centre-pvt-ltd-nullipady",
+    "name": "Carewell Hospital & Research Centre Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Nullipady, Carewell Hospital & Research Centre Pvt Ltd delivers integrated care across Urologist Surgery In Kasaragod. Hospital capacity markers such as Google rating 3.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Nullipady.",
+    "email": "",
+    "phone": "04994 222 324",
+    "alternatePhone": "",
+    "website": "http://www.thecarewellhospital.com/",
+    "address": "Nullipady, Kerala 671121",
+    "city": "Nullipady",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "04994 222 324",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHywm4caVDu8uXFLJrIYWncl43-DgriTIm0llaydA0Q79v9FQqCrRygg0kxO_ZSJDfHG-ApA0Z_n4IPB9iUfMoTsHqW-BV9pxAk7oVAi97uIjJnvQi1OqkY4o3jfAusSmz6Wfc=w1200-h900-p-k-no",
+    "logo": "https://www.thecarewellhospital.com/img/logoB.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHywm4caVDu8uXFLJrIYWncl43-DgriTIm0llaydA0Q79v9FQqCrRygg0kxO_ZSJDfHG-ApA0Z_n4IPB9iUfMoTsHqW-BV9pxAk7oVAi97uIjJnvQi1OqkY4o3jfAusSmz6Wfc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNv5bV6opPwaqjBczb7MpcpM7QyXxtZ379P8CRC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMTJpLk0nufaR9oMYVFfrC5xOHzhUiv7fD63g8o=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNx9o-CFTxdg5TlxXH0yAV3CxksupJqD5atXWIf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNgDMyx1avkpnt1RI2aLux-ofb85gPfOrM98Lm4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5114363,
+      "lng": 74.9982746,
+      "label": "Carewell Hospital & Research Centre Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "chaitra-medical-centre-vidya-nagar",
+    "name": "Chaitra Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vidya Nagar, Chaitra Medical Centre delivers integrated care across Urologist Surgery In Kasaragod. With public-facing highlights like Google rating 3.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vidya Nagar.",
+    "email": "",
+    "phone": "04994 256 878",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH 66, opposite of Govt. college, Vidya Nagar, Kerala 671123",
+    "city": "Vidya Nagar",
+    "state": "Kerala",
+    "pincode": "671123",
+    "locality": "opposite of Govt. college",
+    "landmark": "opposite of Govt. college, Vidya Nagar, Kerala 671123",
+    "emergencyContact": "04994 256 878",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSkvenWAqWI7Jn0ub7pFhZQ0oZxP0QX7Ss48ZeZ2zEmx535kXWBg07b9N0FEdjgfVFw9MICyx8hyMeeGwGaS-sqrBI86TKLSKsxGx4xfSMJCqp3RGJBmS4YbTx79Vs6x4g8ys0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSkvenWAqWI7Jn0ub7pFhZQ0oZxP0QX7Ss48ZeZ2zEmx535kXWBg07b9N0FEdjgfVFw9MICyx8hyMeeGwGaS-sqrBI86TKLSKsxGx4xfSMJCqp3RGJBmS4YbTx79Vs6x4g8ys0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5169517,
+      "lng": 75.0119706,
+      "label": "Chaitra Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cm-multi-speciality-hospital-cherkala-chengala",
+    "name": "CM Multi Speciality Hospital, Cherkala",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Chengala, CM Multi Speciality Hospital, Cherkala brings together specialists for Gynecologist Surgery In Kasaragod and Speciality Care. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Chengala.",
+    "email": "",
+    "phone": "098463 80744",
+    "alternatePhone": "",
+    "website": "https://cmmultispeciality.com/",
+    "address": "Masthikund, Cherkala, Chengala, Kerala 671541",
+    "city": "Chengala",
+    "state": "Kerala",
+    "pincode": "671541",
+    "locality": "Cherkala",
+    "landmark": "Chengala",
+    "emergencyContact": "098463 80744",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kasaragod",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUwcacE1Q5OyFAWZk5wzFvRDVQIdAz01X-plmw8QEu2bJbjCkthwl5iJb8IzCRjyHFGd0FcQsnPXRjPdRrANC-XjM6qFT-pu4ycMRapvPa9hLndSAKJP-N_pw4ecO-Yc4Guz4=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUwcacE1Q5OyFAWZk5wzFvRDVQIdAz01X-plmw8QEu2bJbjCkthwl5iJb8IzCRjyHFGd0FcQsnPXRjPdRrANC-XjM6qFT-pu4ycMRapvPa9hLndSAKJP-N_pw4ecO-Yc4Guz4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOW9vddoO7dcVW5TjdHFekfnvgYkNj1n_9hehTk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPDlqhNQ1oeeiCvD_Ml5r2y92Q2-fdIddNY7PYg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNAkJSNjFA4ay3Tt1R2b51iRQ8OzhduMM9dWhx2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM2kXk7mb3b56yqKsDPx2fnFvCOFm5W7THyb_PJ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5104979,
+      "lng": 75.0691529,
+      "label": "CM Multi Speciality Hospital, Cherkala",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dental-speciality-clinic-kasaragod",
+    "name": "Dental speciality clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental speciality clinic is a prominent hospital in Kasaragod, known for structured tertiary care across Oral Surgery In Kasaragod and Speciality Care. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kasaragod.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GX4Q+MW4, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "",
+    "landmark": "Kerala 671121",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kasaragod",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=12.5066287%2C74.9898269&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=12.5066287%2C74.9898269&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=12.5066287%2C74.9898269&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=12.5066287%2C74.9898269&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5066287,
+      "lng": 74.9898269,
+      "label": "Dental speciality clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ek-nayanar-memorial-co-operative-hospital-chengala",
+    "name": "EK Nayanar Memorial Co-Operative Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Chengala often choose EK Nayanar Memorial Co-Operative Hospital for its strength in Urologist Surgery In Kasaragod. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Chengala can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090723 84050",
+    "alternatePhone": "",
+    "website": "http://eknayanarhospital.com/",
+    "address": "Chengala Rd, Nalamile, Chengala, Kerala 671541",
+    "city": "Chengala",
+    "state": "Kerala",
+    "pincode": "671541",
+    "locality": "Nalamile",
+    "landmark": "Chengala",
+    "emergencyContact": "090723 84050",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLehvI-Mp_psw0SPAQHQGa8rsHkuz4sNrwNhOS_Jf6P5oojj8m1kmW2WKc89PcYCEprjZfLzAVAnNqep_0C_EW7L_V0hCsq2HPszCGeOQ5muIVlpe6UZv8JwK_yTLN_5FjvCOWEA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLehvI-Mp_psw0SPAQHQGa8rsHkuz4sNrwNhOS_Jf6P5oojj8m1kmW2WKc89PcYCEprjZfLzAVAnNqep_0C_EW7L_V0hCsq2HPszCGeOQ5muIVlpe6UZv8JwK_yTLN_5FjvCOWEA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5102391,
+      "lng": 75.0352363,
+      "label": "EK Nayanar Memorial Co-Operative Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "first-neuro-comprehensive-neuro-sciences-centre-kasaragod",
+    "name": "First Neuro Comprehensive Neuro Sciences Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kasaragod often choose First Neuro Comprehensive Neuro Sciences Centre for its strength in Spine Neurosurgeon In Kasaragod and Neurosciences. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kasaragod.",
+    "email": "",
+    "phone": "082818 71055",
+    "alternatePhone": "",
+    "website": "http://www.firstneuro.in/",
+    "address": "Anagoor Kasaragod National Highway, 66, Kasaragod, Kerala 671123",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671123",
+    "locality": "66",
+    "landmark": "Kasaragod",
+    "emergencyContact": "082818 71055",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Kasaragod",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6V8YEpz42xM7uhJs3iUg4ecsiuZ455_USrxuG8PM8tQPa_AUE38kfDQ9RsJO2egCsZGPf3AaeZNKpIevf1xRQ3G9F5mEeXxSmA81F7iuvLraGBA9cDB2PFIGIC9GtZgY-KO0EZA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6V8YEpz42xM7uhJs3iUg4ecsiuZ455_USrxuG8PM8tQPa_AUE38kfDQ9RsJO2egCsZGPf3AaeZNKpIevf1xRQ3G9F5mEeXxSmA81F7iuvLraGBA9cDB2PFIGIC9GtZgY-KO0EZA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5135727,
+      "lng": 75.0056592,
+      "label": "First Neuro Comprehensive Neuro Sciences Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "firstneuro-brain-and-spine-super-specialty-hospital-mangaluru",
+    "name": "FirstNeuro Brain and Spine Super specialty Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "FirstNeuro Brain and Spine Super specialty Hospital is a prominent hospital in Mangaluru, known for structured tertiary care across Spine Neurosurgeon In Kasaragod, Neurosciences, Spine Care, and Speciality Care. The facility stands out for Google rating 4.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Mangaluru.",
+    "email": "",
+    "phone": "093434 42488",
+    "alternatePhone": "",
+    "website": "http://www.firstneurohospitals.com/",
+    "address": "Mangalore - Bangalore Hwy, Padil, Mangaluru, Karnataka 575007",
+    "city": "Mangaluru",
+    "state": "Karnataka",
+    "pincode": "575007",
+    "locality": "Padil",
+    "landmark": "Mangaluru",
+    "emergencyContact": "093434 42488",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Kasaragod",
+      "Neurosciences",
+      "Spine Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFl-YElg-2gtwVzsZ9e3QpfRlwOAU2TK9-pXdwhgu5AiBNVV-Fgtkh4BAAPb9droRzrmitS19wUJHzMWfJymcV_ZsyuDAqfn4jpZLJOia6AEnARv6an_Ex9Q_RLOw_tD5p4Paftdw=w1200-h900-p-k-no",
+    "logo": "https://firstneurohospitals.com/wp-content/uploads/2026/03/Sitelogo_FN.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFl-YElg-2gtwVzsZ9e3QpfRlwOAU2TK9-pXdwhgu5AiBNVV-Fgtkh4BAAPb9droRzrmitS19wUJHzMWfJymcV_ZsyuDAqfn4jpZLJOia6AEnARv6an_Ex9Q_RLOw_tD5p4Paftdw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOX8HNkkRGhtBTIclbLTD_cSvaeG_TQ1ImC8tPD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.8703897,
+      "lng": 74.8956488,
+      "label": "FirstNeuro Brain and Spine Super specialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "govt-general-hospital-kasaragod-kasaragod",
+    "name": "Govt General Hospital Kasaragod",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Govt General Hospital Kasaragod has built a strong reputation in Kasaragod for multidisciplinary treatment pathways covering Urologist Surgery In Kasaragod. The facility stands out for Google rating 3.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kasaragod.",
+    "email": "",
+    "phone": "04994 222 999",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Municipal Shopping Complex, Old Bus Stand, MG Rd, near LIC office, Thayalangadi, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Thayalangadi",
+    "landmark": "near LIC office, Thayalangadi, Kasaragod, Kerala 671121",
+    "emergencyContact": "04994 222 999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsM_IWbkwyDuDe8DiV2R2aN6-w3w8B6O1jGemzkvvl1rip94zkq6w7ykbR0qP47KecHZDR-UdbXtE_pozC9UoutVPn3beEEIfLyIdisTxhA28lRCU2fBHy8XVP-BzQMkZR6oeF=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsM_IWbkwyDuDe8DiV2R2aN6-w3w8B6O1jGemzkvvl1rip94zkq6w7ykbR0qP47KecHZDR-UdbXtE_pozC9UoutVPn3beEEIfLyIdisTxhA28lRCU2fBHy8XVP-BzQMkZR6oeF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG91amF1zfpOrezApTLw84-NLrORMqwDbalT8TURUi7BiV4AmpivKmxcFbhX4JSzbZxqspdmm019VQHO-UqGNktFoY080DAl00yI28qhIhYxWagZKsdGccbsoopECCnCniAMCnvnw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERHvXnOl2yoLaS2ULDvPRQKbxg6iTlCKHvx_FSh2Ryz-fbg7AnYere2pxOv0BHQBui9dOVukxag2pqwtfuQRQ_yDcRVkG3e2rGgoUnQNoMpJwmSEUINwjuLDs83JhkGlryGLk-heXAylYY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOvJcPkNiwkNLAvKgtl8iC4EZ2deP9huBPpE6INa5miuASpPMp4nkAll1LWaEQAyhgrEX_nIyoxmIqOO5KxEgTp0oO1eW1BSuLxESRP4hPatGTYZ_qRx05F_o7xhR3LOKy7yNO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5034125,
+      "lng": 74.9914531,
+      "label": "Govt General Hospital Kasaragod",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hnc-hospital-deli-kalnad",
+    "name": "hnc Hospital Deli",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kalnad often choose hnc Hospital Deli for its strength in Liver Transplant Surgery In Kasaragod. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kalnad.",
+    "email": "",
+    "phone": "04994 238 569",
+    "alternatePhone": "",
+    "website": "http://www.hnchospitals.com/",
+    "address": "Deli, po, Kalnad, Kerala 671317",
+    "city": "Kalnad",
+    "state": "Kerala",
+    "pincode": "671317",
+    "locality": "po",
+    "landmark": "Kalnad",
+    "emergencyContact": "04994 238 569",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwXKxUI29OAVsaSJP4X6GgC2XmJaqeX8EArgKHvswq4PYfenN6ZdeIQDbfRYpZujyAJlkuxN1l-c_W98mQ9tctq_9rA3tu_AmAL-LlF4jTRx5dZWkUVQuDTjBgCHa_PfEE-QpZKA=w1200-h900-p-k-no",
+    "logo": "https://hnchospitals.com/assets/images/new/logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwXKxUI29OAVsaSJP4X6GgC2XmJaqeX8EArgKHvswq4PYfenN6ZdeIQDbfRYpZujyAJlkuxN1l-c_W98mQ9tctq_9rA3tu_AmAL-LlF4jTRx5dZWkUVQuDTjBgCHa_PfEE-QpZKA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEWjLvU951Kl-vJgRE8akpfWDeJ9rpmLsvKkBjzmM-Mfd9FdKtP6VRUHv9mVtEebUDKDvJayuqwOzroV8Ny0I5C4D3KrIyk11X_k4paPwxpA5hZVz2VRx7ij_cMXaLBA9Kjqm7u=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.4751587,
+      "lng": 75.018155,
+      "label": "hnc Hospital Deli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "janardan-hospital-kasaragod",
+    "name": "Janardan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kasaragod, Janardan Hospital brings together specialists for Urologist Surgery In Kasaragod. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kasaragod.",
+    "email": "",
+    "phone": "04994 230 243",
+    "alternatePhone": "",
+    "website": "https://www.janardanhospital.com/",
+    "address": "Bank Rd, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Bank Rd",
+    "landmark": "Kerala 671121",
+    "emergencyContact": "04994 230 243",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCxljIBFXbPuFovhziW_QPmRufc_GDvq4boGitvVDeR4OjwhaIIeKHGw6SI94LcSnwIioFxWUrHufO-JgzKx0ZA8W2m27h-qxJzrrSlH4sccT1tPh86hjSzAB1bzk78tE0OLkW=w1200-h900-p-k-no",
+    "logo": "https://www.janardanhospital.com/wp-content/uploads/2025/08/jh-logo-white-scaled-e1755681276439.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCxljIBFXbPuFovhziW_QPmRufc_GDvq4boGitvVDeR4OjwhaIIeKHGw6SI94LcSnwIioFxWUrHufO-JgzKx0ZA8W2m27h-qxJzrrSlH4sccT1tPh86hjSzAB1bzk78tE0OLkW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNEtKqedUSU0yRFGKGKZO619l5Yf_YiVDeelegw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO5tlmj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO5tlmjQ3cMpWWZx7tkX36ngNzLPHU6wpE7MUym=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5033529,
+      "lng": 74.9879201,
+      "label": "Janardan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "k-s-abdulla-hospital-kasaragod",
+    "name": "K S Abdulla Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kasaragod, K S Abdulla Hospital brings together specialists for Liver Transplant Surgery In Kasaragod. Hospital capacity markers such as Google rating 3.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kasaragod.",
+    "email": "",
+    "phone": "099950 07777",
+    "alternatePhone": "",
+    "website": "http://malikdeenarhospital.com/",
+    "address": "Malik Deenar Hospital, Malik Deenar Nagar, Thalangara, Kasaragod, Kerala 671122",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671122",
+    "locality": "Thalangara",
+    "landmark": "Thalangara",
+    "emergencyContact": "099950 07777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuj1RkTzDRALLKv6V9j_uUkl_iWfskV8TTCrJzweK-7aD_t4eWbrvULVHEGUAfueQIqJJrJ-blHY5JaT4G1ysKUrZj2aa_Sd6u8lmpZGq6y6J-Ow6rAgZMpvrGMkccb_PWkMim=w1200-h900-p-k-no",
+    "logo": "https://malikdeenarhospital.com/wp-content/uploads/2020/07/Malik-Deenar-Hospital.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuj1RkTzDRALLKv6V9j_uUkl_iWfskV8TTCrJzweK-7aD_t4eWbrvULVHEGUAfueQIqJJrJ-blHY5JaT4G1ysKUrZj2aa_Sd6u8lmpZGq6y6J-Ow6rAgZMpvrGMkccb_PWkMim=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.4849281,
+      "lng": 74.9914788,
+      "label": "K S Abdulla Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kamath-dialysis-centres-kasaragod",
+    "name": "Kamath Dialysis Centres",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kasaragod, Kamath Dialysis Centres delivers integrated care across Kidney Transplant Surgery In Kasaragod. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kasaragod.",
+    "email": "",
+    "phone": "094951 03406",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GX4R+FG4, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "",
+    "landmark": "Kerala 671121",
+    "emergencyContact": "094951 03406",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7ClYJTD7_U_QlRNCT52FEyyjVoAFzbUv34HCHroNC2TKlUs7QzmR5NaTVA3VWD4Gk6mQtLWVMqA-QQlrznUMfmuVtJ711QqGC2HC0vSS8J_JYGa9PJ9xBXRmErEVddovH9uBeIQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7ClYJTD7_U_QlRNCT52FEyyjVoAFzbUv34HCHroNC2TKlUs7QzmR5NaTVA3VWD4Gk6mQtLWVMqA-QQlrznUMfmuVtJ711QqGC2HC0vSS8J_JYGa9PJ9xBXRmErEVddovH9uBeIQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5061265,
+      "lng": 74.9913193,
+      "label": "Kamath Dialysis Centres",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kamath-medical-centre-kasaragod",
+    "name": "Kamath Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kasaragod, Kamath Medical Centre brings together specialists for Urologist Surgery In Kasaragod. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kasaragod.",
+    "email": "",
+    "phone": "04994 230 004",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH 66, Dwaraka Nagar, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Dwaraka Nagar",
+    "landmark": "Kasaragod",
+    "emergencyContact": "04994 230 004",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLGNeEzwVpLaXoQgr5Cf_kLC8LSxo_Lz2gtyPrSfvwqAUj1JGFkzCEJVLRbLrplhGjGd87JX7zUdQcb1EBrWwQNOKmF7wGz4mw4t9Cvcg4OdQT3W8P_1HZkAmbZ92cDT88lTafnw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLGNeEzwVpLaXoQgr5Cf_kLC8LSxo_Lz2gtyPrSfvwqAUj1JGFkzCEJVLRbLrplhGjGd87JX7zUdQcb1EBrWwQNOKmF7wGz4mw4t9Cvcg4OdQT3W8P_1HZkAmbZ92cDT88lTafnw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5060225,
+      "lng": 74.991239,
+      "label": "Kamath Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kims-hospital-kasaragod-kasaragod",
+    "name": "KIMS Hospital , Kasaragod",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kasaragod, KIMS Hospital , Kasaragod brings together specialists for Urologist Surgery In Kasaragod. Its infrastructure includes Google rating 3.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kasaragod can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "04994 219 400",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ashwini Nagar, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Ashwini Nagar",
+    "landmark": "Kerala 671121",
+    "emergencyContact": "04994 219 400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsx_S56XlqSmBeBgqBkwzqTbEVLySi4nVAoVBrrhp3JSJyxy8B6mP1qqMZQ2oA0erQpzNiW9lKE8APN-zvXJfD2cG008CIOj3mrQbrKpgW4GHIPUjbe7Us0U3DymqTOfDpjK5l_z2kJYim=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsx_S56XlqSmBeBgqBkwzqTbEVLySi4nVAoVBrrhp3JSJyxy8B6mP1qqMZQ2oA0erQpzNiW9lKE8APN-zvXJfD2cG008CIOj3mrQbrKpgW4GHIPUjbe7Us0U3DymqTOfDpjK5l_z2kJYim=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPMbwghx11sLe9TJQ9DeujIMEH49ACZPaOHmAin=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP2AL1r_0HubL-39iYhMv97kswcVvf1EJ4MM7hh=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOoL13gxthYaY70KH2HiZxZCNjuywR72jfDG5DN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM2Ycear4KcozLe5X1DJKkiAuh0bCmiHEAp4GYR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5072987,
+      "lng": 74.9907604,
+      "label": "KIMS Hospital , Kasaragod",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "krishna-hospital-kasaragod",
+    "name": "Krishna Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kasaragod, Krishna Hospital delivers integrated care across Urologist Surgery In Kasaragod. Hospital capacity markers such as Google rating 3.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kasaragod.",
+    "email": "",
+    "phone": "094460 11999",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vidyanagar - Uliyathadka Rd, opposite Govt. College, Chinmaya Colony, Kasaragod, Kerala 671123",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671123",
+    "locality": "Chinmaya Colony",
+    "landmark": "opposite Govt. College, Chinmaya Colony, Kasaragod, Kerala 671123",
+    "emergencyContact": "094460 11999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHvh_gHplSeXZqG5Iy7iODXkCCN6EBb_dtqx5KWMKpkUMIR3CBhqliAM-U96hQUx0jOBLTeGlMmfpX6bz0QI-UNy6gJ9TZunbleDYl4IdYrQy4HW7YNkMmz70YbKHPVeRTVOLe5rnC8l4rX=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHvh_gHplSeXZqG5Iy7iODXkCCN6EBb_dtqx5KWMKpkUMIR3CBhqliAM-U96hQUx0jOBLTeGlMmfpX6bz0QI-UNy6gJ9TZunbleDYl4IdYrQy4HW7YNkMmz70YbKHPVeRTVOLe5rnC8l4rX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMNr74oa50tNCbLiP8rEdoMof53GrR72bcH9vd7=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMQT8UhN9bbnMhJ4TWJdpM7_Adw0AEU-fpsRfmc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNl0Xmzf4CvRNhNP_RkakwznfOiOZsj0O7Jkran=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNz06jXKvoazkHtcB3Jb4UGkNL6SIJ__qmCig2E=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.517049,
+      "lng": 75.0130874,
+      "label": "Krishna Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mallya-city-hospital-kasaragod",
+    "name": "Mallya City Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kasaragod, Mallya City Hospital delivers integrated care across Gynecologist Surgery In Kasaragod. The facility stands out for Google rating 3.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kasaragod.",
+    "email": "",
+    "phone": "04994 226 818",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GX4Q+MPP, Dwaraka Road, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Dwaraka Road",
+    "landmark": "Kasaragod",
+    "emergencyContact": "04994 226 818",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqOLePvvpjWRmAkE9wQJZG1voRudE4yjGmPKO3mE09lebdkC46fI4n0mrqOvE2GSG0tyZ0sLPvKVXepu5Fh1XJC3EZ06KLExdJPW8LjTZLaLbjgbuiPg_RKDAeCAq04x3gS8k=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqOLePvvpjWRmAkE9wQJZG1voRudE4yjGmPKO3mE09lebdkC46fI4n0mrqOvE2GSG0tyZ0sLPvKVXepu5Fh1XJC3EZ06KLExdJPW8LjTZLaLbjgbuiPg_RKDAeCAq04x3gS8k=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQdqRvWhscRBu_PWc374mvl-Xi3fXO9G8zEg_ZWmJFQJ2ZCgyyIDmDDK1SixTy4--Fg-4OydW-dNh35WWE6QhJHKRxQG29fHa5gmgU4hZv3AsNRCsjDfwOOC8b6E19ZESXsdn0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5067219,
+      "lng": 74.9893233,
+      "label": "Mallya City Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "meitra-united-heart-centre-kasaragod",
+    "name": "Meitra United Heart Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kasaragod, Meitra United Heart Centre brings together specialists for Urologist Surgery In Kasaragod and Cardiac Care. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kasaragod can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081390 00188",
+    "alternatePhone": "",
+    "website": "https://meitra.com/meitra-united-heart-centre/",
+    "address": "3rd Floor, United Medical Center, Madhur-Kotekani-Manya Road, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Madhur-Kotekani-Manya Road",
+    "landmark": "Madhur-Kotekani-Manya Road",
+    "emergencyContact": "081390 00188",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSSka6JkwlBT5rqCdbNRv2C4MH2AW2CEIbaH5hCrNE_nF4IP3-oDO16BTBl8-JB_m1yzciq3psy3zcTpnWBU2plornzkyHlq2x50iInc9QIbBMJcWgfAM70FSnHhG6oBZG_6Vb=w1200-h900-p-k-no",
+    "logo": "https://www.meitra.com/public/assets/website/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSSka6JkwlBT5rqCdbNRv2C4MH2AW2CEIbaH5hCrNE_nF4IP3-oDO16BTBl8-JB_m1yzciq3psy3zcTpnWBU2plornzkyHlq2x50iInc9QIbBMJcWgfAM70FSnHhG6oBZG_6Vb=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5095261,
+      "lng": 74.9945537,
+      "label": "Meitra United Heart Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nephrology-dr-rahul-sai-g-kasaragod",
+    "name": "Nephrology-Dr Rahul Sai G",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nephrology-Dr Rahul Sai G is a prominent private hospital in Kasaragod, known for structured tertiary care across Liver Transplant Surgery In Kasaragod. Operational strengths including Google rating 1.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kasaragod.",
+    "email": "",
+    "phone": "04994 219 400",
+    "alternatePhone": "",
+    "website": "http://kimssunrisehospital.com/",
+    "address": "KIMS Sunrise Hospital, Ashwini Nagar, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Ashwini Nagar",
+    "landmark": "Kasaragod",
+    "emergencyContact": "04994 219 400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.0",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=12.5076679%2C74.9910586&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=12.5076679%2C74.9910586&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=12.5076679%2C74.9910586&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=12.5076679%2C74.9910586&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5076679,
+      "lng": 74.9910586,
+      "label": "Nephrology-Dr Rahul Sai G",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "seeds-of-innocens-ivf-centre-best-ivf-centre-in-kasaragod-kerala-kasaragod",
+    "name": "Seeds of Innocens IVF Centre - Best IVF Centre in Kasaragod, Kerala",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kasaragod, Seeds of Innocens IVF Centre - Best IVF Centre in Kasaragod, Kerala delivers integrated care across IVF In Kasaragod and Fertility Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kasaragod.",
+    "email": "",
+    "phone": "098103 50512",
+    "alternatePhone": "",
+    "website": "https://www.seedsofinnocens.com/kerala/best-ivf-centre-in-kasaragod/",
+    "address": "GX4Q+44 Wintouch Multi Speciality Hospital, Bank Rd, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Bank Rd",
+    "landmark": "Kasaragod",
+    "emergencyContact": "098103 50512",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Kasaragod",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF71PKScOVIcZa-hoBF3ftdZamD6Rd5LTThQ990fKNudr5MZ_14bf3DOUQU1lV2aq9lwQLkZ6FNeTe4Ika-fwEt_nscXawuWJoDLJ3UV6XwLz0HVSahgx0KyuP4IASSxYlWqILIwtqPU-Q=w1200-h900-p-k-no",
+    "logo": "https://www.seedsofinnocens.com/assets/img/Header Logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF71PKScOVIcZa-hoBF3ftdZamD6Rd5LTThQ990fKNudr5MZ_14bf3DOUQU1lV2aq9lwQLkZ6FNeTe4Ika-fwEt_nscXawuWJoDLJ3UV6XwLz0HVSahgx0KyuP4IASSxYlWqILIwtqPU-Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNVqVZKY75jWJw4-oynwY_QWVSgT31yyl2K52s4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP-c0lNVfbnzlIQwFMvfU6bKz4DvHDGINkhzsyY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMkSYbehjEtB-srkFrF8k0npqqLcwIq1gFvZqNw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPGWq9z3d2Qqe22cO4I0gaa84rCVA_Vtgc1mxdi=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5062205,
+      "lng": 74.9942645,
+      "label": "Seeds of Innocens IVF Centre - Best IVF Centre in Kasaragod, Kerala",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shashirekha-multispeciality-hospital-kanhangad",
+    "name": "Shashirekha MultiSpeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kanhangad, Shashirekha MultiSpeciality Hospital delivers integrated care across Plastic Surgery In Kasaragod and Speciality Care. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanhangad.",
+    "email": "",
+    "phone": "062820 70003",
+    "alternatePhone": "",
+    "website": "http://www.shashirekhahospital.com/",
+    "address": "Kushavana kunnu, Kanhangad-Panathur-Coorg Interstate Road, Ajanur, Post, Kanhangad, Kerala 671531",
+    "city": "Kanhangad",
+    "state": "Kerala",
+    "pincode": "671531",
+    "locality": "Post",
+    "landmark": "Ajanur",
+    "emergencyContact": "062820 70003",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Kasaragod",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAELCdGw-9d5IdxmPEY_MuwpO9hDUZaI_5ESkajugfzSxnfM8x_EzfvEnOdkuonyiE8hxIbVjTZghfw4b30KPQOFRT8_qieuAIex4MbBaHWFvkQrloZEfZ5DdD-8JlYh3OFQbcffWw=w1200-h900-p-k-no",
+    "logo": "https://www.shashirekhahospital.com/wp-content/uploads/2024/04/smh-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAELCdGw-9d5IdxmPEY_MuwpO9hDUZaI_5ESkajugfzSxnfM8x_EzfvEnOdkuonyiE8hxIbVjTZghfw4b30KPQOFRT8_qieuAIex4MbBaHWFvkQrloZEfZ5DdD-8JlYh3OFQbcffWw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.3328527,
+      "lng": 75.0954305,
+      "label": "Shashirekha MultiSpeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sparsha-skin-and-kid-care-kasaragod",
+    "name": "Sparsha Skin & Kid Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kasaragod often choose Sparsha Skin & Kid Care for its strength in Cosmetic Surgery In Kasaragod. Operational strengths including Google rating 3.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kasaragod can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "04994 225 688",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GX4Q+XXC, Edappally - Panvel Hwy, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Edappally - Panvel Hwy",
+    "landmark": "Kasaragod",
+    "emergencyContact": "04994 225 688",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEePoH4XAvQpd4rcliS-7EFf8YIaOMQd6j_LGB1Ak3kpdl_-LsXijrlDCoiK6cdkUicy0VDkVpMY_Qawph2AITPHIRksvrjQ6KfLkQtgP7BklzPUwru_GHCvB46N9QJ6yiNvKz_fA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEePoH4XAvQpd4rcliS-7EFf8YIaOMQd6j_LGB1Ak3kpdl_-LsXijrlDCoiK6cdkUicy0VDkVpMY_Qawph2AITPHIRksvrjQ6KfLkQtgP7BklzPUwru_GHCvB46N9QJ6yiNvKz_fA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5074288,
+      "lng": 74.9898916,
+      "label": "Sparsha Skin & Kid Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sunrise-hospital-kanhangad-kanhangad",
+    "name": "Sunrise Hospital, Kanhangad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kanhangad often choose Sunrise Hospital, Kanhangad for its strength in Oncologist Surgery In Kasaragod. Its infrastructure includes Google rating 3.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kanhangad.",
+    "email": "",
+    "phone": "0467 220 8180",
+    "alternatePhone": "",
+    "website": "https://www.sunrisehospitalkanhangad.com/departments/pulmonology",
+    "address": "Ramnagar Rd, kushavankunnu, Puthiyakandam Village, Kanhangad, Kerala 671531",
+    "city": "Kanhangad",
+    "state": "Kerala",
+    "pincode": "671531",
+    "locality": "Puthiyakandam Village",
+    "landmark": "Puthiyakandam Village",
+    "emergencyContact": "0467 220 8180",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEIh0kyM7AfOdTNX1ncZUdcVQ_GRAf_1cyJUyzr165Un3anSGaQWPCZ4blHxPb044Ft07eKJ9OI4ATyMuBIjmtxZajQpkZbPDgGcrEfAu2LQwzRtPEaZpLBuqPXn8B5z5j1O_Y=w1200-h900-p-k-no",
+    "logo": "https://www.sunrisehospitalkanhangad.com/images/web/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEIh0kyM7AfOdTNX1ncZUdcVQ_GRAf_1cyJUyzr165Un3anSGaQWPCZ4blHxPb044Ft07eKJ9OI4ATyMuBIjmtxZajQpkZbPDgGcrEfAu2LQwzRtPEaZpLBuqPXn8B5z5j1O_Y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP_nBuCM0fVra_xNRlVKHvUYEdBxqYMDGVlrPy2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOXmXcgZn2WpDHhHSULR631NWMN1V_8mK4HIQcE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPdPs0c314s-GgOEXJrvd8NIOPOJOx7mf75sSfL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPstNZnNuREyXrfrph7yGhLGmmss3MpS6u09u7W=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.332346,
+      "lng": 75.0953618,
+      "label": "Sunrise Hospital, Kanhangad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "swasthi-clinic-kasaragod",
+    "name": "Swasthi Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kasaragod, Swasthi Clinic delivers integrated care across Urologist Surgery In Kasaragod. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kasaragod.",
+    "email": "",
+    "phone": "04994 231 885",
+    "alternatePhone": "",
+    "website": "",
+    "address": "A T Rd, Anebagilu, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Anebagilu",
+    "landmark": "Kasaragod",
+    "emergencyContact": "04994 231 885",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Kasaragod"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGC4rNcjcXDWmzB5Vi5CjHhsYo7fWLIsH8u_Kx3lyOd6sZ6UQ31qdL98q253IQkbTXJqHeO46Iww4J-rRWMiLtdXofVptV4v0y3s6ug4PPoBHesXI-GzD9DvFC2WEmhrbUhoarP0Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGC4rNcjcXDWmzB5Vi5CjHhsYo7fWLIsH8u_Kx3lyOd6sZ6UQ31qdL98q253IQkbTXJqHeO46Iww4J-rRWMiLtdXofVptV4v0y3s6ug4PPoBHesXI-GzD9DvFC2WEmhrbUhoarP0Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5053318,
+      "lng": 74.98995,
+      "label": "Swasthi Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "wintouch-multi-speciality-hospital-kasaragod",
+    "name": "Wintouch Multi Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Wintouch Multi Speciality Hospital is a prominent hospital in Kasaragod, known for structured tertiary care across Kidney Transplant Surgery In Kasaragod and Speciality Care. The facility stands out for Google rating 4.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kasaragod.",
+    "email": "",
+    "phone": "04994 231 555",
+    "alternatePhone": "",
+    "website": "https://wintouchhospital.com/",
+    "address": "Bank Rd, Kasaragod, Kerala 671121",
+    "city": "Kasaragod",
+    "state": "Kerala",
+    "pincode": "671121",
+    "locality": "Bank Rd",
+    "landmark": "Kerala 671121",
+    "emergencyContact": "04994 231 555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Kasaragod",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEY2LTFJDvL4IsOys4BAl77Lgs372vv8sN0XkT_yCpgcHMUkT9O8qdMLBaH8cx3PydkIKOSqtgmsjVxON0gStPirDyRgmrFY7iHO1stcP5hbhVxx7GujU4FF866t9bJfW4BmOq1Ag=w1200-h900-p-k-no",
+    "logo": "https://wintouchhospital.com/wp-content/uploads/2024/01/Wintouch-Hospital-Logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEY2LTFJDvL4IsOys4BAl77Lgs372vv8sN0XkT_yCpgcHMUkT9O8qdMLBaH8cx3PydkIKOSqtgmsjVxON0gStPirDyRgmrFY7iHO1stcP5hbhVxx7GujU4FF866t9bJfW4BmOq1Ag=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 12.5052791,
+      "lng": 74.9878609,
+      "label": "Wintouch Multi Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

@@ -1,0 +1,6457 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "a-n-beach-hospital-multi-speciality-hospital-in-vizag-visakhapatnam",
+    "name": "A N Beach Hospital - Multi Speciality Hospital in Vizag",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "A N Beach Hospital - Multi Speciality Hospital in Vizag is a prominent hospital in Visakhapatnam, known for structured tertiary care across Laparoscopic Surgery In Visakhapatnam and Speciality Care. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "0891 480 7502",
+    "alternatePhone": "",
+    "website": "http://www.sisyp.com/dir/vizag/hospitals-nursing-homes/a-n-beach-hospital/",
+    "address": "No. 15-9-13/24, Door, Beach Rd, Srirangapuram, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Maharani Peta",
+    "landmark": "Beach Rd",
+    "emergencyContact": "0891 480 7502",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzzf5ksoHI_hkK72DwZl3JviHnQ7sDZjMQYNlkVOMv3NyN901vijX4VbjT6ortVRbuHk_QKgEavq40foh_0rvvhdRCpScYSGmjI9Ii8HvDfKw2APovZzDNiLTCl98ex3PeD7Dl=w1200-h900-p-k-no",
+    "logo": "https://www.sisyp.com/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzzf5ksoHI_hkK72DwZl3JviHnQ7sDZjMQYNlkVOMv3NyN901vijX4VbjT6ortVRbuHk_QKgEavq40foh_0rvvhdRCpScYSGmjI9Ii8HvDfKw2APovZzDNiLTCl98ex3PeD7Dl=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7078722,
+      "lng": 83.3123053,
+      "label": "A N Beach Hospital - Multi Speciality Hospital in Vizag",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "a-plus-hospitals-gajuwaka",
+    "name": "A Plus Hospitals",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Gajuwaka, A Plus Hospitals delivers integrated care across Laparoscopic Surgery In Visakhapatnam. With public-facing highlights like Google rating 4.4 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gajuwaka.",
+    "email": "",
+    "phone": "079013 98314",
+    "alternatePhone": "",
+    "website": "https://www.aplusshospitals.com/",
+    "address": "D.NO:31-12-8 530 046, Kurmannapalem, Gajuwaka, Andhra Pradesh 530046",
+    "city": "Gajuwaka",
+    "state": "Andhra Pradesh",
+    "pincode": "530046",
+    "locality": "Kurmannapalem",
+    "landmark": "Gajuwaka",
+    "emergencyContact": "079013 98314",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEq-LHDKx1Yw4FWSMA6oyKU-fYLP-_qslpjNyfPlhewbLw1UkDeJ8nUQeNUpgwOmSXIJWssWZJvkrCzgkeGIm5CDmCt8La7xqKCfIECEZVSrJbz1H2qgbdcdx4XGO_U2fxX6AwfnqA8Rz4=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEq-LHDKx1Yw4FWSMA6oyKU-fYLP-_qslpjNyfPlhewbLw1UkDeJ8nUQeNUpgwOmSXIJWssWZJvkrCzgkeGIm5CDmCt8La7xqKCfIECEZVSrJbz1H2qgbdcdx4XGO_U2fxX6AwfnqA8Rz4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.6882014,
+      "lng": 83.1664011,
+      "label": "A Plus Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "abc-hospitals-visakhapatnam",
+    "name": "ABC Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Visakhapatnam, ABC Hospitals brings together specialists for Laparoscopic Surgery In Visakhapatnam. Hospital capacity markers such as Google rating 3.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Visakhapatnam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089125 00079",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Door No.16, 1-13, Coastal Battery Rd, opposite Naval, Srirangapuram, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Maharani Peta",
+    "landmark": "opposite Naval, Srirangapuram, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "emergencyContact": "089125 00079",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFy8NoXmQB0eFvh_6g1kILj8gmWLI98WNpHKmJ6WJmZNboOc4YiIwwxwrGYtncJulXu95oX70c6jFAikZkSCDfblyJg8Tt96n2tjoxE48EeqFoTiJ_B5sSFD0oQ-y25KzGhFHYn=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFy8NoXmQB0eFvh_6g1kILj8gmWLI98WNpHKmJ6WJmZNboOc4YiIwwxwrGYtncJulXu95oX70c6jFAikZkSCDfblyJg8Tt96n2tjoxE48EeqFoTiJ_B5sSFD0oQ-y25KzGhFHYn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.706194,
+      "lng": 83.309213,
+      "label": "ABC Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amma-hospital-visakhapatnam",
+    "name": "Amma Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Visakhapatnam often choose Amma Hospital for its strength in IVF In Visakhapatnam. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Visakhapatnam.",
+    "email": "",
+    "phone": "097012 18666",
+    "alternatePhone": "",
+    "website": "https://ammahospitalvizag.com/",
+    "address": "Main Road, beside Petrol Pump New, Isukathota, Venkojipalem, Visakhapatnam, Andhra Pradesh 530017",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530017",
+    "locality": "Venkojipalem",
+    "landmark": "beside Petrol Pump New, Isukathota, Venkojipalem, Visakhapatnam, Andhra Pradesh 530017",
+    "emergencyContact": "097012 18666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzvm5wP8jauRfCtek9rQ7lj43WnwsGEPC-ei21L1Icdy1TE2jHh2pruGyJavyKJW-9S8EvOtrAz_M-M00gr1dAxMtXXd2HDwe_5aRs-BQTlNhNBVIThmgQlUCj81y8P0mBBKYvng=w1200-h900-p-k-no",
+    "logo": "https://ammahospitalvizag.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-06-at-7.28.35-PM.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzvm5wP8jauRfCtek9rQ7lj43WnwsGEPC-ei21L1Icdy1TE2jHh2pruGyJavyKJW-9S8EvOtrAz_M-M00gr1dAxMtXXd2HDwe_5aRs-BQTlNhNBVIThmgQlUCj81y8P0mBBKYvng=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNS1S6zQvkyYZnmDXz595ZQYjMkPXikxS6gmSFb=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMZopgM0X6TDtEqieu8FqVTE4-FYCvrliO0P59W=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPdPMcUEjMDcMlli09H32_3nT_JV8siNmV0mZ_b=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPQN5onCVvdVh2BAlsdQrRsTOsTtB53f3t9O4X1=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7468649,
+      "lng": 83.3307798,
+      "label": "Amma Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amrutha-fertility-and-ivf-visakhapatnam",
+    "name": "Amrutha Fertility & IVF",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Visakhapatnam, Amrutha Fertility & IVF delivers integrated care across IVF In Visakhapatnam and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.amruthaivf.com/",
+    "address": "near Bashaym School, Sector 10, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530017",
+    "locality": "MVP Colony",
+    "landmark": "MVP Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFV5P-RXVr_oIIaYQLTE2ksHaL0UWZrZXamVvB_ManKhM2hqxpJsRW4wdrVHiQykLcCPP8OkhJgBOgCGUJmRwt-Wr1Ah2VHeZRMRPLWNqrlRWQC8_tF9CbAhlk_-Vj7q_0sIT7CfKWHIWSn=w1200-h900-p-k-no",
+    "logo": "https://amruthaivf.com/wp-content/uploads/2024/10/1d0bd3cb-3066-4a25-be59-3eb825765bcc.jpeg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFV5P-RXVr_oIIaYQLTE2ksHaL0UWZrZXamVvB_ManKhM2hqxpJsRW4wdrVHiQykLcCPP8OkhJgBOgCGUJmRwt-Wr1Ah2VHeZRMRPLWNqrlRWQC8_tF9CbAhlk_-Vj7q_0sIT7CfKWHIWSn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7419117,
+      "lng": 83.3400451,
+      "label": "Amrutha Fertility & IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amulya-hospital-visakhapatnam",
+    "name": "Amulya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Visakhapatnam, Amulya Hospital offers coordinated hospital care with major focus on IVF In Visakhapatnam. Hospital capacity markers such as Google rating 3.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "089125 43431",
+    "alternatePhone": "",
+    "website": "",
+    "address": "14-1-3/1, Nowroji Rd, opp. More Supermarket, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Ram Nagar",
+    "landmark": "opp. More Supermarket",
+    "emergencyContact": "089125 43431",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzcoMHgGJefVV8w7S4bXMTGrqck7W6mNrv6M4BYlDGNPLHMm5jI4YLjIGaFzH24UYtM9ONjRPrXFDQySoqgzbMDMlxW7qIeVA0JQa0yRFHRi-mU35PXBGZPBdGra1JGYK42gH6=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzcoMHgGJefVV8w7S4bXMTGrqck7W6mNrv6M4BYlDGNPLHMm5jI4YLjIGaFzH24UYtM9ONjRPrXFDQySoqgzbMDMlxW7qIeVA0JQa0yRFHRi-mU35PXBGZPBdGra1JGYK42gH6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7155368,
+      "lng": 83.308715,
+      "label": "Amulya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "andhra-hospitals-visakhapatnam-visakhapatnam",
+    "name": "ANDHRA HOSPITALS - VISAKHAPATNAM",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Visakhapatnam often choose ANDHRA HOSPITALS - VISAKHAPATNAM for its strength in Laparoscopic Surgery In Visakhapatnam. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Visakhapatnam.",
+    "email": "",
+    "phone": "089127 24777",
+    "alternatePhone": "",
+    "website": "http://www.andhrahospitals.org/",
+    "address": "15-14-1/1, near Collector Office, Srirangapuram, Junction, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Maharani Peta",
+    "landmark": "near Collector Office, Srirangapuram, Junction, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "emergencyContact": "089127 24777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_wJpbCmPxp9KdEkPLNYFBcfLi5mDMDm2RMoD9A00z4QpQfgNjAM3CSeS4O1RjTNpqClkfqKhohXpVPTRvd-R5gKeo6UB57FCtyDnfQTuyqydjHKMQpuvSUUNXwFOZCwNHU7KzsA=w1200-h900-p-k-no",
+    "logo": "http://www.andhrahospitals.org/assets/uploads/logos/logo_new_(2)1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_wJpbCmPxp9KdEkPLNYFBcfLi5mDMDm2RMoD9A00z4QpQfgNjAM3CSeS4O1RjTNpqClkfqKhohXpVPTRvd-R5gKeo6UB57FCtyDnfQTuyqydjHKMQpuvSUUNXwFOZCwNHU7KzsA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7084273,
+      "lng": 83.3086184,
+      "label": "ANDHRA HOSPITALS - VISAKHAPATNAM",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apex-ions-hospital-visakhapatnam",
+    "name": "Apex IONS Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apex IONS Hospital is a prominent hospital in Visakhapatnam, known for structured tertiary care across Neurosurgeon In Visakhapatnam. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "0891 488 6655",
+    "alternatePhone": "",
+    "website": "https://apexions.com/",
+    "address": "Phoenix Healthcare, 16-1-6, Coastal Battery Rd, Srirangapuram, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Maharani Peta",
+    "landmark": "Coastal Battery Rd",
+    "emergencyContact": "0891 488 6655",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHBXqxdx2YpmglNS4CF2K1s3Sb_y2EWRyJvRBFeaxfZt8mpWJCJYZuMDTvwN3aKr1gV8N405VciJfXF_LfVWlrNGQdGC3_ExyGLerxEDam0traFrbofITsWOzXMWCejXB5bn2X1FA=w1200-h900-p-k-no",
+    "logo": "https://www.apexions.com/wp-content/uploads/2023/08/LOGO-pdf-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHBXqxdx2YpmglNS4CF2K1s3Sb_y2EWRyJvRBFeaxfZt8mpWJCJYZuMDTvwN3aKr1gV8N405VciJfXF_LfVWlrNGQdGC3_ExyGLerxEDam0traFrbofITsWOzXMWCejXB5bn2X1FA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.706899,
+      "lng": 83.3089402,
+      "label": "Apex IONS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apollo-hospitals-best-hospital-in-ramnagar-vizag-visakhapatnam",
+    "name": "Apollo Hospitals | Best Hospital in Ramnagar Vizag",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Visakhapatnam, Apollo Hospitals | Best Hospital in Ramnagar Vizag delivers integrated care across Laparoscopic Surgery In Visakhapatnam. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "1860 500 1066",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/vizag/apollo-hospitals-vizag/",
+    "address": "Door No 10, Executive Court, 50-80, Waltair Main Rd, opp. Daspalla, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Ram Nagar",
+    "landmark": "50-80",
+    "emergencyContact": "1860 500 1066",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPjS5VtXEzlHY0-AEZFEgakTqopYDs_gJPdRWBQQnGMh9A6_BK-MUc8wjJQil3wItNQSMf3CEaiZd8Qmy7A-mzbaFQRT2dMM9yG-oIGq-6r3aMJ-oeBZVUg6qt7arpw5kD0Kr6=w1200-h900-p-k-no",
+    "logo": "https://www.apollohospitals.com/themes/custom/apollo/assets/svg/apollo-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPjS5VtXEzlHY0-AEZFEgakTqopYDs_gJPdRWBQQnGMh9A6_BK-MUc8wjJQil3wItNQSMf3CEaiZd8Qmy7A-mzbaFQRT2dMM9yG-oIGq-6r3aMJ-oeBZVUg6qt7arpw5kD0Kr6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMDylXspIY5nKaQFAltWuRoUEGiKz9W4VXq05o6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOwONy0XUjcMzGGFOBdCp2wX8YQe0MzmWOYLPAx=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7172512,
+      "lng": 83.3091802,
+      "label": "Apollo Hospitals | Best Hospital in Ramnagar Vizag",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apollo-hospitals-best-hospital-in-visakhapatnam-visakhapatnam",
+    "name": "Apollo Hospitals | Best Hospital in Visakhapatnam",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Visakhapatnam, Apollo Hospitals | Best Hospital in Visakhapatnam delivers integrated care across Cancer Surgery In Visakhapatnam. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "080 6904 9772",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/hospitals/apollo-hospitals-health-city-arilova-vizag",
+    "address": "Health City, Arilova, Chinagadila, Visakhapatnam, Andhra Pradesh 530040",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530040",
+    "locality": "Chinagadila",
+    "landmark": "Chinagadila",
+    "emergencyContact": "080 6904 9772",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjp1Gcxo1ihHwB3DrZW1C2gz0NyvKY1El0OnlPSKQ2B_Yzo9oJ7_jki3U-PMZSgGf52v9jbjS4LkHzbyYMklndHOLf8Wk7M5lX1pOgjxbyuCbiG0LPWi-boblSkyEpauKENSXGSw=w1200-h900-p-k-no",
+    "logo": "https://www.apollohospitals.com/themes/custom/apollo/assets/svg/apollo-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjp1Gcxo1ihHwB3DrZW1C2gz0NyvKY1El0OnlPSKQ2B_Yzo9oJ7_jki3U-PMZSgGf52v9jbjS4LkHzbyYMklndHOLf8Wk7M5lX1pOgjxbyuCbiG0LPWi-boblSkyEpauKENSXGSw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMoc_m-YsAYI2MjQZXOe1tKjcYE0-dMgNSRpBMJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOGdpSF71eXBeRnDbW62Pkc54XrD3iiL4gl9hqP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-leJ5kavpFG1jvqYGl6UGHab8gXUn3M6sVWV0n2vpI8Gumd9sWIZ6gGrO9RnnId3jXYpc1u7sf6zF_UHvPfw7FnRkPWGUeVi2i9x-S2xmqLbgcmzqhubCBldNQteOGXdEZpq5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKF9cBDzekkTrQQ7yUx-C6Ib0dwqnjajBfbgKGr5Xre8lMOV6ytMWVvg0tbmNw9LogJSaQFoNckopV3rTWYxlp9cgBpnf2_xCgzEFegU8_hLkkmrUYKC4DwPOrzusOrPivyfwfZ0J2Lxmj=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7613168,
+      "lng": 83.3170849,
+      "label": "Apollo Hospitals | Best Hospital in Visakhapatnam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "asian-institute-of-nephrology-and-urology-in-vizag-ainu-hospitals-visakhapatnam-visakhapatnam",
+    "name": "Asian Institute of Nephrology and Urology in Vizag | AINU Hospitals Visakhapatnam",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Asian Institute of Nephrology and Urology in Vizag | AINU Hospitals Visakhapatnam has built a strong reputation in Visakhapatnam for multidisciplinary treatment pathways covering Urologist Surgery In Visakhapatnam. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Visakhapatnam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0891 676 3333",
+    "alternatePhone": "",
+    "website": "https://www.ainuindia.org/visakhapatnam/",
+    "address": "47-11-12, 1st Ln, near Diamond Park Road, Sagar Nagar, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530016",
+    "locality": "Dwaraka Nagar",
+    "landmark": "near Diamond Park Road, Sagar Nagar, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "emergencyContact": "0891 676 3333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhdCJmgWU9mlf_mdlxrgXWguO-_EPA4aBjVoqC6ZcYhfvquxhCrXs04RShViaui5nQfd3HGppXA0F3rEyoCe9Bjg8pfcJJHVEqhdy_t13GAda9H4k1oJSwyp59HnQ1-5GhcRKN7sl4dg=w1200-h900-p-k-no",
+    "logo": "https://ainu-prod-cdn.s3.ap-south-2.amazonaws.com/2025/11/08094253/ainu-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhdCJmgWU9mlf_mdlxrgXWguO-_EPA4aBjVoqC6ZcYhfvquxhCrXs04RShViaui5nQfd3HGppXA0F3rEyoCe9Bjg8pfcJJHVEqhdy_t13GAda9H4k1oJSwyp59HnQ1-5GhcRKN7sl4dg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPUXOve3J_-tmzc6uFQz1e8fXucACCnY62qMtu3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPpr2VyMgyLFWY9lHMu7nzvOLtToD4VpuHF9kcF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMQXtQ4DYacj32OdVngCqrAFfABGO0V_s2QdGLL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN-lAiKpSKfWySxGINIFObTpsBYwwOAnoFSwi04=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.726129,
+      "lng": 83.304272,
+      "label": "Asian Institute of Nephrology and Urology in Vizag | AINU Hospitals Visakhapatnam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "best-multispeciality-hospital-in-visakhapatnam-visakhapatnam",
+    "name": "Best Multispeciality Hospital in Visakhapatnam",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Visakhapatnam, Best Multispeciality Hospital in Visakhapatnam offers coordinated hospital care with major focus on Laparoscopic Surgery In Visakhapatnam and Speciality Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "080 6510 5087",
+    "alternatePhone": "",
+    "website": "https://www.pristyncare.com/visakhapatnam/c/proctology/?utm_source",
+    "address": "Collectorate Junction, 15-13-12, Srirangapuram, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Maharani Peta",
+    "landmark": "Srirangapuram",
+    "emergencyContact": "080 6510 5087",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPSdQdCnaZhzGsPw2j8aV2VRHyg2RjdDMkDeK8cHDHNgtpKo6qZylRJiLFbHRylgMLQlqyD8XXLCyKP3xaSB7x-xWNy9YQoNHJJwaZw64rwxXDOgMV_pY-Xeq3HHcBx-MPiphcyscvAhE3=w1200-h900-p-k-no",
+    "logo": "https://www.pristyncare.com/blog/wp-content/uploads/2021/01/pristyn-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPSdQdCnaZhzGsPw2j8aV2VRHyg2RjdDMkDeK8cHDHNgtpKo6qZylRJiLFbHRylgMLQlqyD8XXLCyKP3xaSB7x-xWNy9YQoNHJJwaZw64rwxXDOgMV_pY-Xeq3HHcBx-MPiphcyscvAhE3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOd6BMzYXZwmyeWXwmEXcxuGdndcOP_MV7KIcCz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPipxGneuqsZsxw_p9PqRDjAgDv-MifePynFArx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOG7yT88Gnxob0F22kF12Fl5KmK87G77LrSEb7-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMyE72dBrXy3nmNL0fkka7wxSHGujzRw4sNAl60=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.708325,
+      "lng": 83.3105191,
+      "label": "Best Multispeciality Hospital in Visakhapatnam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "care-hospitals-ram-nagar-vizag-best-hospital-in-vizag-visakhapatnam",
+    "name": "CARE Hospitals, Ram Nagar, Vizag | Best Hospital in Vizag",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Visakhapatnam, CARE Hospitals, Ram Nagar, Vizag | Best Hospital in Vizag offers coordinated hospital care with major focus on Laparoscopic Surgery In Visakhapatnam. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "040 6810 6589",
+    "alternatePhone": "",
+    "website": "https://www.carehospitals.com/hospital-detail/care-super-specialty-hospital-ramnagar",
+    "address": "AS Raja Complex, 10-50-11/5, Waltair Main Rd, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Ram Nagar",
+    "landmark": "Waltair Main Rd",
+    "emergencyContact": "040 6810 6589",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHn57FPBJZRqI6kIBeLhEtK7GjiHUjJH1_r1_LQaSmDLCfqO40DHOx_xn9Q6CCJEtiMs8Ya90MOmsWkaDQ_T_PXt-dVHzmslLVVmk7kaB81fWoZXJr0cofI3Kb-zpVx99TF56jK9Q=w1200-h900-p-k-no",
+    "logo": "https://www.carehospitals.com/assets/images/care-hospital-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHn57FPBJZRqI6kIBeLhEtK7GjiHUjJH1_r1_LQaSmDLCfqO40DHOx_xn9Q6CCJEtiMs8Ya90MOmsWkaDQ_T_PXt-dVHzmslLVVmk7kaB81fWoZXJr0cofI3Kb-zpVx99TF56jK9Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOlKVASiOGwMsIDWTKmgG968xlrFaV5F46C9snT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMuA55x2AEM_L2miRfa9HvVciW1Evdig=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMuA55x2AEM_L2miRfa9HvVciW1Evdigz8d40z4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN3jxeTelRNhvGLFNs91KahkExAw95O4nSDd954=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7203211,
+      "lng": 83.3128178,
+      "label": "CARE Hospitals, Ram Nagar, Vizag | Best Hospital in Vizag",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "drcure-surgeries-visakhapatnam",
+    "name": "DrCure Surgeries",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Visakhapatnam, DrCure Surgeries brings together specialists for Laparoscopic Surgery In Visakhapatnam. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Visakhapatnam.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.drcuresurgeries.com/",
+    "address": "Krishnagar, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Maharani Peta",
+    "landmark": "Maharani Peta",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=17.710908%2C83.3133004&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://www.drcuresurgeries.com/logo.jpg",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=17.710908%2C83.3133004&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=17.710908%2C83.3133004&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=17.710908%2C83.3133004&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.710908,
+      "lng": 83.3133004,
+      "label": "DrCure Surgeries",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "elite-e-n-t-hospitals-formerly-susruta-ent-hospital-visakhapatnam",
+    "name": "Elite E.N.T Hospitals (Formerly Susruta ENT Hospital)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Elite E.N.T Hospitals (Formerly Susruta ENT Hospital) is a prominent hospital in Visakhapatnam, known for structured tertiary care across IVF In Visakhapatnam. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "089125 54040",
+    "alternatePhone": "",
+    "website": "https://www.eliteenthospitals.com/",
+    "address": "Health City, Elite E.N.T Hospitals (Formerly Susruta E.N.T Hospital, Plot 14A, Chinna Gadhili, Visakhapatnam, Andhra Pradesh 530040",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530040",
+    "locality": "Chinna Gadhili",
+    "landmark": "Plot 14A",
+    "emergencyContact": "089125 54040",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGBBZenafQ6_cnUXawqqyVODyX5GIM-fyAhdbJ5gZNHnQBiBdZgJyX1uFgpHIS4hgP7sQYFVY22EpTiuIWwe_ThLdpFAy5QzkIYFSBIaansvYpvU3dPThu3mMoDzCok0BfI_3VG=w1200-h900-p-k-no",
+    "logo": "https://www.eliteenthospitals.com/images/Hospital/Transparent_Font_black.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGBBZenafQ6_cnUXawqqyVODyX5GIM-fyAhdbJ5gZNHnQBiBdZgJyX1uFgpHIS4hgP7sQYFVY22EpTiuIWwe_ThLdpFAy5QzkIYFSBIaansvYpvU3dPThu3mMoDzCok0BfI_3VG=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7639716,
+      "lng": 83.3091148,
+      "label": "Elite E.N.T Hospitals (Formerly Susruta ENT Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "health-city-vizag-apiic-visakhapatnam",
+    "name": "HEALTH CITY - VIZAG (APIIC)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Visakhapatnam often choose HEALTH CITY - VIZAG (APIIC) for its strength in IVF In Visakhapatnam. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Visakhapatnam.",
+    "email": "",
+    "phone": "089125 58036",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q876+CJG, Chinna Gadhili, Hanumanthavaka, Visakhapatnam, Andhra Pradesh 530040",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530040",
+    "locality": "Hanumanthavaka",
+    "landmark": "Hanumanthavaka",
+    "emergencyContact": "089125 58036",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFqZas6EzP3z9dz6-HvzXpGBl_7Gxj0FaV12Ac_9z_iDHrrgw13Odv_kEfEaUDVQaRrATza-00kjV-cPrcv8Qpiso9ffR9gT4gipKtopjL1WzOEOjhfTyH9FXJzY2pIsn3MfQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFqZas6EzP3z9dz6-HvzXpGBl_7Gxj0FaV12Ac_9z_iDHrrgw13Odv_kEfEaUDVQaRrATza-00kjV-cPrcv8Qpiso9ffR9gT4gipKtopjL1WzOEOjhfTyH9FXJzY2pIsn3MfQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZ_h5vxiaopJ5Ev6Vkst2c9DBa3sjT5UvRMRNLHnzQ6slmLj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZ_h5vxiaopJ5Ev6Vkst2c9DBa3sjT5UvRMRNLHnzQ6slmLj2vjLiiqMiWKxYPXSxWx4SsWkHyWBC1LIPHKAxdeLkJ018ftAD_7fe9Qz45mW8ngOYc27q83ZEUWs03t7T6Dwrp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkkqZYoanHXqrysT16rbEi4PLFalzZKuGsFMdRzyGhL3A-8hS9ihg8L0q7xUFE0vDCQzST68phuLiQjdDhL-dlX5Wi4pKcGU3Kwhr4Fw7Q3GCqTAvxO6UMqI4_qwHqNrg_hoxX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPmJnfj7U10xuZ99yJhUllC_-UfuZVX25rTb_zL1BgrUVvW94vsuFwyjtDHREh46ceidVsmd1QHDby3gs-ij7hbeiieyqc1qTXveaw_adEiZjuAV3c6WKydMzr6SfhCogcYoN9qdmEqeO9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7635615,
+      "lng": 83.3115799,
+      "label": "HEALTH CITY - VIZAG (APIIC)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kala-hospital-vizag-visakhapatnam",
+    "name": "KALA HOSPITAL VIZAG",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Visakhapatnam, KALA HOSPITAL VIZAG delivers integrated care across IVF In Visakhapatnam. With public-facing highlights like Google rating 3.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.kalahospitals.com/",
+    "address": "47-1-104, 6th Ln, beside BVK College, Madhuranagar, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530016",
+    "locality": "Dwaraka Nagar",
+    "landmark": "beside BVK College, Madhuranagar, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEen74yx9TsomROhVoZAZfKiVkmOSCkm4eOwwdzaZIhd2g3lBVTMX6MqhriPvcVCt8isXcrBdnI7ugA3Vn3a3TNdc6AX68nvKvhm9BgVnzZHMdgFych-nJjro7DMFevLgeJdiwX_w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEen74yx9TsomROhVoZAZfKiVkmOSCkm4eOwwdzaZIhd2g3lBVTMX6MqhriPvcVCt8isXcrBdnI7ugA3Vn3a3TNdc6AX68nvKvhm9BgVnzZHMdgFych-nJjro7DMFevLgeJdiwX_w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7292483,
+      "lng": 83.3057948,
+      "label": "KALA HOSPITAL VIZAG",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kalavathi-surgical-hospital-and-laproscopic-centre-visakhapatnam",
+    "name": "Kalavathi Surgical Hospital & Laproscopic Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Visakhapatnam, Kalavathi Surgical Hospital & Laproscopic Centre delivers integrated care across Laparoscopic Surgery In Visakhapatnam. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "089127 10945",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sri Kanya Theatre, 43-9-201, Railway New Colony, Opposite, D Nagar, Visakhapatnam, Andhra Pradesh 530026",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530026",
+    "locality": "D Nagar",
+    "landmark": "Railway New Colony",
+    "emergencyContact": "089127 10945",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=17.6868481%2C83.2184972&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=17.6868481%2C83.2184972&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=17.6868481%2C83.2184972&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=17.6868481%2C83.2184972&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.6868481,
+      "lng": 83.2184972,
+      "label": "Kalavathi Surgical Hospital & Laproscopic Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kims-hospitals-seethammadhara-best-multi-speciality-hospital-in-vizag-visakhapatnam",
+    "name": "KIMS Hospitals, Seethammadhara | Best Multi-Speciality Hospital in Vizag",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KIMS Hospitals, Seethammadhara | Best Multi-Speciality Hospital in Vizag has built a strong reputation in Visakhapatnam for multidisciplinary treatment pathways covering Laparoscopic Surgery In Visakhapatnam and Speciality Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Visakhapatnam.",
+    "email": "",
+    "phone": "099490 98345",
+    "alternatePhone": "",
+    "website": "https://www.kimshospitals.com/seethammadhara/",
+    "address": "50-53-14, Gurudwara Rd, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530013",
+    "locality": "Seethammadara",
+    "landmark": "Balayya Sastri Layout",
+    "emergencyContact": "099490 98345",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGagtlWyPKzHqgjzyDIwQoeEP_fI5odcSsYi8XgPYRlFgYq-0xHTyRTTj_3NdViHBMNABwk7lHuWCYOa52EE69bPU54QTCccwThvoGRo-ie_00r4bzp12xfa-j327c3XdPYHEiQ2OAO5qKx=w1200-h900-p-k-no",
+    "logo": "https://www.kimshospitals.com/_nuxt/img/kims_logo.dd3a9a1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGagtlWyPKzHqgjzyDIwQoeEP_fI5odcSsYi8XgPYRlFgYq-0xHTyRTTj_3NdViHBMNABwk7lHuWCYOa52EE69bPU54QTCccwThvoGRo-ie_00r4bzp12xfa-j327c3XdPYHEiQ2OAO5qKx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNGSLYtT4MS8ZvK5u5XIgXhhmnYoIMjbcwx9w2M=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOlRdO1JMBSFQE3VqUWgJY2T4qgWN4P7vLMug0P=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNhwUxh4aLNG_DC33J2qQ7psqOLznNzUCI5yKER=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPCOFnx01gOqnXeon3GjBBYB0qn-u23OiEkAq9u=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7405656,
+      "lng": 83.3080769,
+      "label": "KIMS Hospitals, Seethammadhara | Best Multi-Speciality Hospital in Vizag",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kims-icon-institute-of-gastroenterology-visakhapatnam",
+    "name": "KIMS ICON Institute of Gastroenterology",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Visakhapatnam, KIMS ICON Institute of Gastroenterology delivers integrated care across Liver Transplant Surgery In Visakhapatnam and Gastroenterology. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "0891 353 6379",
+    "alternatePhone": "",
+    "website": "https://www.kimshospitals.com/vizag-mvp-colony/",
+    "address": "1-113-20/1, Ushodaya Junction, Sector 8, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530017",
+    "locality": "MVP Colony",
+    "landmark": "Sector 8",
+    "emergencyContact": "0891 353 6379",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Visakhapatnam",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFVGhvpPVYFz3j_nf4YrdY7udOy4UqJFOFWqlDSTYhW0ehxdXSjPrDO0TVlaAC8cy-whVhYVCTLY4Ks-8_o3YHmn9gPHizBrl8MgO1kkTC45Ye48GdsFyaZy-6eN2Xe_vd-qg=w1200-h900-p-k-no",
+    "logo": "https://www.kimshospitals.com/_nuxt/img/kims_logo.dd3a9a1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFVGhvpPVYFz3j_nf4YrdY7udOy4UqJFOFWqlDSTYhW0ehxdXSjPrDO0TVlaAC8cy-whVhYVCTLY4Ks-8_o3YHmn9gPHizBrl8MgO1kkTC45Ye48GdsFyaZy-6eN2Xe_vd-qg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7375351,
+      "lng": 83.3355367,
+      "label": "KIMS ICON Institute of Gastroenterology",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kims-icon-hospital-vizag-visakhapatnam",
+    "name": "KIMS-ICON Hospital, Vizag",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Visakhapatnam often choose KIMS-ICON Hospital, Vizag for its strength in Laparoscopic Surgery In Visakhapatnam. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Visakhapatnam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0891 353 6379",
+    "alternatePhone": "",
+    "website": "https://www.kimshospitals.com/vizag/",
+    "address": "Sheela Nagar, Post, BHPV Twp, Visakhapatnam, Andhra Pradesh 530012",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530012",
+    "locality": "BHPV Twp",
+    "landmark": "BHPV Twp",
+    "emergencyContact": "0891 353 6379",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuI46eZnFgXguQA4_PpfYscEXv4IB-QzE91TMy5rgRqRUscovxEBEAzfKi9anDO2lahij7E1Y7bVzg1SyueDXCsAC8ZEMJUtIsU1QzzOxfmJKRHWT6HxhVgOcCc2Ew8ggJxlqvQSONf-TY=w1200-h900-p-k-no",
+    "logo": "https://www.kimshospitals.com/_nuxt/img/kims_logo.dd3a9a1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuI46eZnFgXguQA4_PpfYscEXv4IB-QzE91TMy5rgRqRUscovxEBEAzfKi9anDO2lahij7E1Y7bVzg1SyueDXCsAC8ZEMJUtIsU1QzzOxfmJKRHWT6HxhVgOcCc2Ew8ggJxlqvQSONf-TY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNYs2YMZRPqKs-pcs01qI2ReNkueiWiCV-PWIwA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNSDMpz5Mm4P51yQPPXw0EDvqulSkQ0b5dDcY1C=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNPKoPM_tR2k4VTE0yaRLNZxDcN9DG_QfFmQwmy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPV_SjBdf31WnnMuvmB-AuAqxpBabHJH5WQoaWU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7145898,
+      "lng": 83.1962434,
+      "label": "KIMS-ICON Hospital, Vizag",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "krishna-ivf-clinic-parking-area-visakhapatnam",
+    "name": "KRISHNA IVF CLINIC ,PARKING AREA",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Visakhapatnam often choose KRISHNA IVF CLINIC ,PARKING AREA for its strength in IVF In Visakhapatnam and Fertility Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Visakhapatnam.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "14-25-11,RAMAJOGI PETA, near FIRE STATION, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Maharani Peta",
+    "landmark": "near FIRE STATION, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=17.710652%2C83.307948&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=17.710652%2C83.307948&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=17.710652%2C83.307948&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=17.710652%2C83.307948&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.710652,
+      "lng": 83.307948,
+      "label": "KRISHNA IVF CLINIC ,PARKING AREA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lancet-laparoscopy-center-visakhapatnam",
+    "name": "LANCET LAPAROSCOPY CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Visakhapatnam, LANCET LAPAROSCOPY CENTER offers coordinated hospital care with major focus on Liver Transplant Surgery In Visakhapatnam. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "089777 24584",
+    "alternatePhone": "",
+    "website": "https://lancethospital.in/",
+    "address": "Plot no100, road, no.1, Oota Gadda Rd, Daspalla Hills, Visakhapatnam, Andhra Pradesh 530003",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530003",
+    "locality": "Daspalla Hills",
+    "landmark": "no.1",
+    "emergencyContact": "089777 24584",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuOPZVNzG_7sVKMCS0qystTWlXTPwZM9u0_QViyJN7-a0tneUjMM42feWuKcEL80LFxn9qMkHxfOzuu6lakW_WdGrU-Y2L8hPaxP0mQuV5SnPuAK1GRUm7dUuT_hFemHg4PIDalA=w1200-h900-p-k-no",
+    "logo": "https://lancethospital.in/wp-content/uploads/2025/04/lancet-logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuOPZVNzG_7sVKMCS0qystTWlXTPwZM9u0_QViyJN7-a0tneUjMM42feWuKcEL80LFxn9qMkHxfOzuu6lakW_WdGrU-Y2L8hPaxP0mQuV5SnPuAK1GRUm7dUuT_hFemHg4PIDalA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7149452,
+      "lng": 83.3137219,
+      "label": "LANCET LAPAROSCOPY CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lg-hospitals-visakhapatnam",
+    "name": "LG Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Visakhapatnam, LG Hospitals brings together specialists for Laparoscopic Surgery In Visakhapatnam. The facility stands out for Google rating 4.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Visakhapatnam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098660 71213",
+    "alternatePhone": "",
+    "website": "http://www.lghospitals.com/",
+    "address": "Dr.Mangamm Hospital Building, 17-1-17, KGH Down Rd, opp. KGH Outgate, Opp KGH OP Gate, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Maharani Peta",
+    "landmark": "KGH Down Rd",
+    "emergencyContact": "098660 71213",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9AxIeUDjRygld1HjKw-XGlgAbzZtKP1bM3IJya0rPbOsRLWWB9djQbUxCCgp1EpsOp0TOrSef-hFea30KUSrMmdTl3f5L2epHwnyBn_RweMj0SpU9BiXAr6Tplq-wKqAUXckV=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9AxIeUDjRygld1HjKw-XGlgAbzZtKP1bM3IJya0rPbOsRLWWB9djQbUxCCgp1EpsOp0TOrSef-hFea30KUSrMmdTl3f5L2epHwnyBn_RweMj0SpU9BiXAr6Tplq-wKqAUXckV=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7095117,
+      "lng": 83.3058614,
+      "label": "LG Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "london-ivf-centre-visakhapatnam",
+    "name": "London IVF Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Visakhapatnam often choose London IVF Centre for its strength in IVF In Visakhapatnam and Fertility Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Visakhapatnam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080080 80197",
+    "alternatePhone": "",
+    "website": "https://www.londonivfcentre.com/",
+    "address": "KGH Down Rd, beside indus hospital, Besides Lepakshi Handicrafts, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Maharani Peta",
+    "landmark": "beside indus hospital, Besides Lepakshi Handicrafts, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "emergencyContact": "080080 80197",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoewrtrSEAxwW8VFsV-eF5YGKosyKuG80hjF-9P9kbFK0ZTqQCjY2xxMAb-aKRkICNojSnMEQ3d-j42uaAP89De0dNFFOj7Gpb19UJTMPf4JLCy4jgsh6ffwQR1Qf-N39g_fyT=w1200-h900-p-k-no",
+    "logo": "https://londonivfcentre.com/wp-content/uploads/2024/11/London-IVF-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoewrtrSEAxwW8VFsV-eF5YGKosyKuG80hjF-9P9kbFK0ZTqQCjY2xxMAb-aKRkICNojSnMEQ3d-j42uaAP89De0dNFFOj7Gpb19UJTMPf4JLCy4jgsh6ffwQR1Qf-N39g_fyT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7107012,
+      "lng": 83.3028244,
+      "label": "London IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mahanthi-hospital-gajuwaka",
+    "name": "Mahanthi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mahanthi Hospital has built a strong reputation in Gajuwaka for multidisciplinary treatment pathways covering Laparoscopic Surgery In Visakhapatnam. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gajuwaka.",
+    "email": "",
+    "phone": "078420 39482",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6-1-8 Drivers Colony Road, LBS Nagar, Old Gajuwaka, Gajuwaka, Andhra Pradesh 530026",
+    "city": "Gajuwaka",
+    "state": "Andhra Pradesh",
+    "pincode": "530026",
+    "locality": "Old Gajuwaka",
+    "landmark": "Old Gajuwaka",
+    "emergencyContact": "078420 39482",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGttcTzNLFy35RRtjPkCdV0PVDGFJTo8Hfih5sRm34BUsxjsJOTLeaZfx-cDS5mylrcfb2lkKuyuP3nWALk5xhiYGrRIHMeqymejbm1Xo6FoaGzdw0p9PsFJfZn3ylOhnedokPP=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGttcTzNLFy35RRtjPkCdV0PVDGFJTo8Hfih5sRm34BUsxjsJOTLeaZfx-cDS5mylrcfb2lkKuyuP3nWALk5xhiYGrRIHMeqymejbm1Xo6FoaGzdw0p9PsFJfZn3ylOhnedokPP=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.6841689,
+      "lng": 83.2014607,
+      "label": "Mahanthi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mahatma-gandhi-cancer-hospital-and-research-institute-visakhapatnam",
+    "name": "Mahatma Gandhi Cancer Hospital & Research Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Visakhapatnam, Mahatma Gandhi Cancer Hospital & Research Institute offers coordinated hospital care with major focus on Oncologist Surgery In Visakhapatnam. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "083410 33744",
+    "alternatePhone": "",
+    "website": "http://www.mgcancerhospital.com",
+    "address": "Plot No:1, Sector:7, Sector- 6, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530017",
+    "locality": "MVP Colony",
+    "landmark": "Sector- 6",
+    "emergencyContact": "083410 33744",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvVz4SXuz_euPqlS0WsclIojUiM1ni_ZBWyOXMJOvBW3eztuY5TQENmi_FoxjLMQFj-UD3lc5lL_3YyByQ1ej-cLQlDhCPV7xBEi-JG7ea6wSX5E-VLYzsBd-8fw30ESvMc5rskg=w1200-h900-p-k-no",
+    "logo": "https://mgcancerhospital.com/wp-content/uploads/2022/11/cropped-MGCH-Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvVz4SXuz_euPqlS0WsclIojUiM1ni_ZBWyOXMJOvBW3eztuY5TQENmi_FoxjLMQFj-UD3lc5lL_3YyByQ1ej-cLQlDhCPV7xBEi-JG7ea6wSX5E-VLYzsBd-8fw30ESvMc5rskg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOJOJeqVMEi4kLNeZMAaTqRX8hPz0lEtodODYk3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOhbCc68KWWJ7qeG3oiTtrcIP1D2W-avBnGeWNL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM6A70RhR323YQVQ40aPMT8VoA0JE7dJ4ok55ij=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMgwvvBJ4rl5_pAEoZmOHRHeplw1QkD-3Zfj-ot=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.743657,
+      "lng": 83.335814,
+      "label": "Mahatma Gandhi Cancer Hospital & Research Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medcy-multi-specialty-hospital-health-city-arilova-visakhapatnam",
+    "name": "Medcy Multi-Specialty Hospital | Health City, Arilova",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medcy Multi-Specialty Hospital | Health City, Arilova has built a strong reputation in Visakhapatnam for multidisciplinary treatment pathways covering IVF In Visakhapatnam and Speciality Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Visakhapatnam.",
+    "email": "",
+    "phone": "095025 34222",
+    "alternatePhone": "",
+    "website": "https://www.medcyhospitals.com/",
+    "address": "Q887+M98 Health City Chinnagadili, Plot 9A, Chinna Gadhili, Arilova, Visakhapatnam, Andhra Pradesh 530040",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530040",
+    "locality": "Arilova",
+    "landmark": "Chinna Gadhili",
+    "emergencyContact": "095025 34222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnKPnQ21uWdmpboNcKYjNFnvPz4QkejoIpbY3mXQwZ7gW0esPeh_vBjPW0U-Uoq5W6sQxtjtLJ-Lf5Vh8FqD9LKbWaVU-vLphtqLDko1XhZGD3IR1mSYnMvpd63koqAr1cD02IQOKFcxU=w1200-h900-p-k-no",
+    "logo": "https://medcyhospitals.com/wp-content/uploads/2026/02/medcy-logos-e1774358100228.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnKPnQ21uWdmpboNcKYjNFnvPz4QkejoIpbY3mXQwZ7gW0esPeh_vBjPW0U-Uoq5W6sQxtjtLJ-Lf5Vh8FqD9LKbWaVU-vLphtqLDko1XhZGD3IR1mSYnMvpd63koqAr1cD02IQOKFcxU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7646477,
+      "lng": 83.3076097,
+      "label": "Medcy Multi-Specialty Hospital | Health City, Arilova",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medicover-best-cancer-hospital-in-vizag-visakhapatnam",
+    "name": "Medicover - Best Cancer Hospital in Vizag",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Visakhapatnam, Medicover - Best Cancer Hospital in Vizag delivers integrated care across Oncologist Surgery In Visakhapatnam. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "040 6833 4455",
+    "alternatePhone": "",
+    "website": "https://www.medicoverhospitals.in/hospitals/andhra-pradesh/visakhapatnam-mci/?utm_source",
+    "address": "Plot No, 5, BRTS Rd, Chinna Gadhili, Arilova, Visakhapatnam, Andhra Pradesh 530040",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530040",
+    "locality": "Arilova",
+    "landmark": "BRTS Rd",
+    "emergencyContact": "040 6833 4455",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPngufekkwQuVuJjPODHWli_NbKiFwYrucQiHpyQoupcGLRf4qZd6AZ9WSB0XZbla7Pia1NtHEsHtKugCN3fCqwgiGu8fHtxAQegrBZEMPiNY1Tdry-p1GZ5FJrGDQZ7cG_mYQ=w1200-h900-p-k-no",
+    "logo": "https://www.medicoverhospitals.in/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPngufekkwQuVuJjPODHWli_NbKiFwYrucQiHpyQoupcGLRf4qZd6AZ9WSB0XZbla7Pia1NtHEsHtKugCN3fCqwgiGu8fHtxAQegrBZEMPiNY1Tdry-p1GZ5FJrGDQZ7cG_mYQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPWVIb_C9QfK5NTmlP9gxgdnImuqo7dX3vT2fnW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNHGR3zBZbOfjtoEXjTnc0UZkkgqvPEafN1ZPji=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP0MpEE-AFS2NC24sypOMPqTAKpT07NqXDpZMpy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPGetCPP14ghEpzRLd7r_jjgzE_fJyPDvLtBnbh=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7636672,
+      "lng": 83.3121197,
+      "label": "Medicover - Best Cancer Hospital in Vizag",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medicover-hospitals-best-hospital-in-vizag-visakhapatnam",
+    "name": "Medicover Hospitals - Best Hospital in Vizag",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Visakhapatnam, Medicover Hospitals - Best Hospital in Vizag brings together specialists for General Surgery In Visakhapatnam. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Visakhapatnam.",
+    "email": "",
+    "phone": "040 6833 4455",
+    "alternatePhone": "",
+    "website": "https://www.medicoverhospitals.in/hospitals/andhra-pradesh/visakhapatnam-mvp/?utm_source",
+    "address": "NH -16, Door No- 1-1-83, New Venkojipalem MVP, near Hp Petrol Bunk, Sector- 6, MVP Colony, Visakhapatnam, Andhra Pradesh 530022",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530022",
+    "locality": "MVP Colony",
+    "landmark": "near Hp Petrol Bunk, Sector- 6, MVP Colony, Visakhapatnam, Andhra Pradesh 530022",
+    "emergencyContact": "040 6833 4455",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0caBXIEi3yVQnpu4EWD_G6ky_PcCHzjzC-AAOfC2MDWqfXRn5TVfSreXaSg_Q3XJQPkZiWIENHU7jovuTX2foT0pQ7lRfQuCmdm6tNfOSC9CtmfhuoxRP6NYTAs7gfjECppW0=w1200-h900-p-k-no",
+    "logo": "https://www.medicoverhospitals.in/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0caBXIEi3yVQnpu4EWD_G6ky_PcCHzjzC-AAOfC2MDWqfXRn5TVfSreXaSg_Q3XJQPkZiWIENHU7jovuTX2foT0pQ7lRfQuCmdm6tNfOSC9CtmfhuoxRP6NYTAs7gfjECppW0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMOq6yp1c2B4c8bQCW4Hr8nYpFJn305ALcvYxob=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM4vtgasIofTWBfYIHZ1coJuBZDqZpwfUKB4IAd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO5CcJ_hvIIqalR31x4CJRKiCk8pWWM2M0fIa09=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOdro_4-EJEwgA5OSB3P7kopfwCt-31oNT_vV3M=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7479377,
+      "lng": 83.3319974,
+      "label": "Medicover Hospitals - Best Hospital in Vizag",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mgr-hospital-visakhapatnam",
+    "name": "MGR Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MGR Hospital has built a strong reputation in Visakhapatnam for multidisciplinary treatment pathways covering General Surgery In Visakhapatnam. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Visakhapatnam.",
+    "email": "",
+    "phone": "089127 55908",
+    "alternatePhone": "",
+    "website": "http://www.mgrhospital.com/",
+    "address": "8-4-32, Doctors Colony, Near Visakha Eye Hospital, Pedawaltair, Visakhapatnam, Andhra Pradesh 530017",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530017",
+    "locality": "Pedawaltair",
+    "landmark": "Near Visakha Eye Hospital, Pedawaltair, Visakhapatnam, Andhra Pradesh 530017",
+    "emergencyContact": "089127 55908",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbl87d4McE9ShAVyJpSWSv7_4IyT-BskwPIzrHJj3rS3lI9eNcoyf8y-yWVpJmMp7-4AuTcO9j8VXewGCzC8urG624K6Ev_beZ9xduiq_Vqq01Q97rM1IgI_Fqc-20kig5kgY=w1200-h900-p-k-no",
+    "logo": "http://www.mgrhospital.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbl87d4McE9ShAVyJpSWSv7_4IyT-BskwPIzrHJj3rS3lI9eNcoyf8y-yWVpJmMp7-4AuTcO9j8VXewGCzC8urG624K6Ev_beZ9xduiq_Vqq01Q97rM1IgI_Fqc-20kig5kgY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7324023,
+      "lng": 83.3310336,
+      "label": "MGR Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "msr-hospital-satyarao-mbbs-m-d-visakhapatnam",
+    "name": "Msr hospital (satyarao MBBS;M.D)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Msr hospital (satyarao MBBS;M.D) is a prominent hospital in Visakhapatnam, known for structured tertiary care across IVF In Visakhapatnam. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "M6QP+X99, Jawahar Nagar, Sriharipuram, Visakhapatnam, Andhra Pradesh 530011",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530011",
+    "locality": "Sriharipuram",
+    "landmark": "Sriharipuram",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAESMlQ-bv07eJxQrz0QH8GhulkPOdbChnShaj1WgRAqfofZTNHKkwr7B9_Yfi0bBhWyuXP7sS_XloHjuOdcrQjXUL3PkyTSqbmZxK8sbHHaT5odwjAYaZaov6M8G7_BADDnBMZG=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAESMlQ-bv07eJxQrz0QH8GhulkPOdbChnShaj1WgRAqfofZTNHKkwr7B9_Yfi0bBhWyuXP7sS_XloHjuOdcrQjXUL3PkyTSqbmZxK8sbHHaT5odwjAYaZaov6M8G7_BADDnBMZG=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.6899123,
+      "lng": 83.2359979,
+      "label": "Msr hospital (satyarao MBBS;M.D)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "narayana-medciti-multispecialty-hospital-best-multispeciality-hospital-in-visakhapatnam-visakhapatnam",
+    "name": "Narayana Medciti Multispecialty Hospital | BEST MULTISPECIALITY HOSPITAL IN VISAKHAPATNAM",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Narayana Medciti Multispecialty Hospital | BEST MULTISPECIALITY HOSPITAL IN VISAKHAPATNAM has built a strong reputation in Visakhapatnam for multidisciplinary treatment pathways covering Laparoscopic Surgery In Visakhapatnam and Speciality Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Visakhapatnam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091828 48090",
+    "alternatePhone": "",
+    "website": "https://www.narayanamedciti.com/",
+    "address": "Chinagadila, Healthcity, Arilova, Visakhapatnam, Andhra Pradesh 530040",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530040",
+    "locality": "Arilova",
+    "landmark": "Arilova",
+    "emergencyContact": "091828 48090",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPCc5Rebi8GRTRIUAYC_cFGoQBdhSEdQ-notPF5csPCHH-hlxRJErdDX_hPV38RLKHhwHOZPfXC5p6wig2qOPnhIDAjozo-whFGjAXf37opKtD4Y1tumJKidPTML8v3vSmWmZXAAkc2qDY=w1200-h900-p-k-no",
+    "logo": "https://narayanamedciti.com/assests/images/logo/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPCc5Rebi8GRTRIUAYC_cFGoQBdhSEdQ-notPF5csPCHH-hlxRJErdDX_hPV38RLKHhwHOZPfXC5p6wig2qOPnhIDAjozo-whFGjAXf37opKtD4Y1tumJKidPTML8v3vSmWmZXAAkc2qDY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7616848,
+      "lng": 83.3120723,
+      "label": "Narayana Medciti Multispecialty Hospital | BEST MULTISPECIALITY HOSPITAL IN VISAKHAPATNAM",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "navaratnam-kesava-rao-charitable-health-centre-gajuwaka",
+    "name": "Navaratnam - Kesava Rao Charitable Health Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Navaratnam - Kesava Rao Charitable Health Centre has built a strong reputation in Gajuwaka for multidisciplinary treatment pathways covering IVF In Visakhapatnam. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gajuwaka.",
+    "email": "",
+    "phone": "079016 43913",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No.1, D.No.8-11-27, National Highway-5 Road, Varun Motors, Bajaj Showroom,Old Gajuwaka, Indira Colony, Gajuwaka, Andhra Pradesh 530026",
+    "city": "Gajuwaka",
+    "state": "Andhra Pradesh",
+    "pincode": "530026",
+    "locality": "Indira Colony",
+    "landmark": "National Highway-5 Road",
+    "emergencyContact": "079016 43913",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4Ppqv-V4zsintOGxO24USlbSlcAYoarjiy7d7bd9qEzTJ0S4BdavH2ck1wmaOdYl2Vc0mBYQlV2nJZ4AYuFE8mozIIZWYpYNyN2-k9HQ5jSHV98t6ogu0T2C5DzvTQa1WzsFn=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4Ppqv-V4zsintOGxO24USlbSlcAYoarjiy7d7bd9qEzTJ0S4BdavH2ck1wmaOdYl2Vc0mBYQlV2nJZ4AYuFE8mozIIZWYpYNyN2-k9HQ5jSHV98t6ogu0T2C5DzvTQa1WzsFn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.6872318,
+      "lng": 83.2050892,
+      "label": "Navaratnam - Kesava Rao Charitable Health Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nikitha-hospital-visakhapatnam",
+    "name": "Nikitha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Visakhapatnam often choose Nikitha Hospital for its strength in Laparoscopic Surgery In Visakhapatnam. With public-facing highlights like Google rating 4.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Visakhapatnam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089125 01501",
+    "alternatePhone": "",
+    "website": "http://www.nikithahospitals.com/",
+    "address": "S.B.I, 54-13-6, Seethammadhara Junction, KRM Colony, Maddilapalem, Visakhapatnam, Andhra Pradesh 530013",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530013",
+    "locality": "Maddilapalem",
+    "landmark": "Seethammadhara Junction",
+    "emergencyContact": "089125 01501",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpmSji7i_fEBZhnhdNX8HCRdSJXBzyylRHd_M5dyTSYSfk-z6FBb7kFYOTP6kKIT6YVWAwXPRNs0OZaJxsivdxi2835JWZDv2TW-u735pSeeGDSIEdUF7X0ziutM3hgyWRDTIX=w1200-h900-p-k-no",
+    "logo": "http://www.nikithahospitals.com/~media/elements/Google/logo.gif",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpmSji7i_fEBZhnhdNX8HCRdSJXBzyylRHd_M5dyTSYSfk-z6FBb7kFYOTP6kKIT6YVWAwXPRNs0OZaJxsivdxi2835JWZDv2TW-u735pSeeGDSIEdUF7X0ziutM3hgyWRDTIX=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7426366,
+      "lng": 83.3144657,
+      "label": "Nikitha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "omni-hospitals-best-multispeciality-hospital-in-visakhapatnam-visakhapatnam",
+    "name": "OMNI Hospitals | Best Multispeciality Hospital in Visakhapatnam",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Visakhapatnam, OMNI Hospitals | Best Multispeciality Hospital in Visakhapatnam delivers integrated care across IVF In Visakhapatnam and Speciality Care. With public-facing highlights like Google rating 4.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "088801 01000",
+    "alternatePhone": "",
+    "website": "https://omnihospitals.in/locations/orthopedic/best-orthopedic-doctor-in-vizag",
+    "address": "Waltair Main Rd, opp. Lions Club, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Ram Nagar",
+    "landmark": "Ram Nagar",
+    "emergencyContact": "088801 01000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHmfPjCXtuav8FK5XRqLHIaW5daLAjURXznW-j91aLTe9HW0Lz4GtNlcU-UT-zHcNUlT6DcTmeBHs4JLqTY6JmZ8UEKnQNOiAai69GTZEXkWFmj5t4Gk_tYcLYnCK_ckbg-UdF1J-tot34=w1200-h900-p-k-no",
+    "logo": "https://omnihospitals.in/assets/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHmfPjCXtuav8FK5XRqLHIaW5daLAjURXznW-j91aLTe9HW0Lz4GtNlcU-UT-zHcNUlT6DcTmeBHs4JLqTY6JmZ8UEKnQNOiAai69GTZEXkWFmj5t4Gk_tYcLYnCK_ckbg-UdF1J-tot34=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPYIIvp0QaV6fERyW9Jla5JFq7ORnmOSh9xqTqX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOFl75yhV5Mq5CfdOjbZq-oNSNQwYu9f8DMeLvo=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOmqlnLNuXXt3iDYNV7Zjrmd6I3xuoq50XPwvSn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAELdkKAMAO2h0DOwmMDAEfUPGNOu5LnuMDrgc9awsVZaCx0w4hWYuYXBJP8KZUnIHUOc-AYn23p5H8RP-ySKjGqREXNEEXSWiwUhnVVchQ9TpCG25qTCLJia5tqfdg2fIvXkthdqzLk5sbU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7183897,
+      "lng": 83.3111542,
+      "label": "OMNI Hospitals | Best Multispeciality Hospital in Visakhapatnam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "padmasri-hospital-visakhapatnam",
+    "name": "Padmasri Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Visakhapatnam, Padmasri Hospital offers coordinated hospital care with major focus on IVF In Visakhapatnam. With public-facing highlights like Google rating 3.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "092466 34747",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49-48-16/5, NH16, NGGOS Colony, Akkayyapalem, Visakhapatnam, Andhra Pradesh 530016",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530016",
+    "locality": "Akkayyapalem",
+    "landmark": "NGGOS Colony",
+    "emergencyContact": "092466 34747",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0SrP_3AVdosIA1kJDsr6gJDMGZ46uRye2qq1kla5NoDnCJTaBxR_XB6bPcr6KX9XkZkEH_VjXr-oHtcKI_9Z9EjiKwvHE2xwh7MEvY83PUgBjsUytmrnygW8OIjLvsw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0SrP_3AVdosIA1kJDsr6gJDMGZ46uRye2qq1kla5NoDnCJTaBxR_XB6bPcr6KX9XkZkEH_VjXr-oHtcKI_9Z9EjiKwvHE2xwh7MEvY83PUgBjsUytmrnygW8OIjLvsw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7382367,
+      "lng": 83.303662,
+      "label": "Padmasri Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pinnacle-hospitals-visakhapatnam-visakhapatnam",
+    "name": "Pinnacle Hospitals, Visakhapatnam.",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Visakhapatnam, Pinnacle Hospitals, Visakhapatnam. delivers integrated care across Laparoscopic Surgery In Visakhapatnam. The facility stands out for Google rating 3.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "089788 89738",
+    "alternatePhone": "",
+    "website": "https://www.pinnaclehospitals.com/",
+    "address": "Plot No. 17A, Health City, Chinna Gadhili, Hanumanthavaka, Visakhapatnam, Andhra Pradesh 530040",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530040",
+    "locality": "Hanumanthavaka",
+    "landmark": "Chinna Gadhili",
+    "emergencyContact": "089788 89738",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-01drqZBJfcWmJ8jNsMeDVWa2ZUujfzyfcmxyz2rKzCnObOVXFzAUKhGCHQD6dsi8OD2nMZ9n6ujb81W_0qtkx61AnzJj_z4ZJjnGlrMK5opa3qMwCxPncA17wpkN043yodD2uQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-01drqZBJfcWmJ8jNsMeDVWa2ZUujfzyfcmxyz2rKzCnObOVXFzAUKhGCHQD6dsi8OD2nMZ9n6ujb81W_0qtkx61AnzJj_z4ZJjnGlrMK5opa3qMwCxPncA17wpkN043yodD2uQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgwELoN1g-D4pcYsFD6JOKnyRGqWM82R_rwM_ufT-B1jU5zQcgud_3LXMjETvVEAGygukZ6w5IRzolcQVv--4cWHq4z42DnLgcvYtMsZPVrVcYX-rwS5YUtrFJsFnyCMr1N8C3iw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdagJd82EfolFDsd8lvBAtvEawUeD3dg-T0SuNwresHn3mhPZ2uQtj9ztZy34FeGpP2iJGegbdbE8v7cSiY3qgCFVvc5oKp6njvoS6qRcLDFEW4heN-Bgx-r3hYWLuIy4wQXs5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7P0joMnNB8m6c6uGmREojZvrLkGAt0akZHa3y1TaV7ndy-rcPWRLN8o-TkAAZPVx5IjSLLBNvXsVSv-ara4UL1Q2QiPy9xzDXOmjGFhdMmYpQgTmJnPYUdAvVx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7P0joMnNB8m6c6uGmREojZvrLkGAt0akZHa3y1TaV7ndy-rcPWRLN8o-TkAAZPVx5IjSLLBNvXsVSv-ara4UL1Q2QiPy9xzDXOmjGFhdMmYpQgTmJnPYUdAvVxwVhEeuaXaG_HIWxV34=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.763273,
+      "lng": 83.307881,
+      "label": "Pinnacle Hospitals, Visakhapatnam.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "q1-hospitals-visakhapatnam",
+    "name": "Q1 Hospitals",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Visakhapatnam, Q1 Hospitals delivers integrated care across Knee Replacement Surgery In Visakhapatnam. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "089128 68686",
+    "alternatePhone": "",
+    "website": "http://www.q1hospitals.com/",
+    "address": "13A-13B, HealthCity, Arilova, Visakhapatnam, Andhra Pradesh 530040",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530040",
+    "locality": "Arilova",
+    "landmark": "Arilova",
+    "emergencyContact": "089128 68686",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtVfZ_idH-sodcC2jKzETn_mRG7aAHBlUW2i0yJr5OTANUUa1ErJtVWRN9JNNrweJYIV4TD8v7ExTDH9utuXISzTzrwfzUvr84qkSlWi9Smsggkg20Umj2dPxp5wGln5qm3RX4Ww=w1200-h900-p-k-no",
+    "logo": "https://www.q1hospitals.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtVfZ_idH-sodcC2jKzETn_mRG7aAHBlUW2i0yJr5OTANUUa1ErJtVWRN9JNNrweJYIV4TD8v7ExTDH9utuXISzTzrwfzUvr84qkSlWi9Smsggkg20Umj2dPxp5wGln5qm3RX4Ww=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7624315,
+      "lng": 83.3083374,
+      "label": "Q1 Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "queen-s-nri-hospital-visakhapatnam",
+    "name": "Queen's NRI Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Visakhapatnam, Queen's NRI Hospital offers coordinated hospital care with major focus on Laparoscopic Surgery In Visakhapatnam. Hospital capacity markers such as Google rating 4.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "089128 27777",
+    "alternatePhone": "",
+    "website": "",
+    "address": "d.no, KIMS Hospital, 50-53-14, Gurudwara Rd, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530013",
+    "locality": "Seethammadara",
+    "landmark": "50-53-14",
+    "emergencyContact": "089128 27777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHu_83BYskAAqG7g4uafWTwvC489TGaf4bJtKqSJuX-bePJ9G2SQsfSIoQX74bFJdvXfcG14xiQ6ETWVky6BV_CEuxLhwrK-ozZdLkyXIqnCIe4fKoFHbEpOQslY3Si5CPAOfdVUA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHu_83BYskAAqG7g4uafWTwvC489TGaf4bJtKqSJuX-bePJ9G2SQsfSIoQX74bFJdvXfcG14xiQ6ETWVky6BV_CEuxLhwrK-ozZdLkyXIqnCIe4fKoFHbEpOQslY3Si5CPAOfdVUA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7406782,
+      "lng": 83.307974,
+      "label": "Queen's NRI Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rainbow-children-s-clinic-and-birthright-clinic-kailash-metta-visakhapatnam-visakhapatnam",
+    "name": "Rainbow Children's Clinic & BirthRight Clinic - Kailash metta, Visakhapatnam",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rainbow Children's Clinic & BirthRight Clinic - Kailash metta, Visakhapatnam has built a strong reputation in Visakhapatnam for multidisciplinary treatment pathways covering IVF In Visakhapatnam and Women and Child Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Visakhapatnam.",
+    "email": "",
+    "phone": "080 3783 6553",
+    "alternatePhone": "",
+    "website": "https://www.rainbowhospitals.in/blog/child-need-pediatric-surgery",
+    "address": "Besides Fourpoints Hotel, 10-28-2/2/1, Block 45, Kailash metta, Waltair Uplands, Visakhapatnam, Andhra Pradesh 530003",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530003",
+    "locality": "Waltair Uplands",
+    "landmark": "Block 45",
+    "emergencyContact": "080 3783 6553",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnQ7yvhU7JJJxnZilckAiP2FCLJ1bpCM9bJClxwd-f0JiuP0lVyD9a1Ap_qJ4bg2shq3d2ozZ2R8y2my2f3clEBebeeeNU6spmo2EC-U5fxnvPbFvbldAYy8SeiiuI1o1Dlgo28qBeLush=w1200-h900-p-k-no",
+    "logo": "https://www.rainbowhospitals.in/assets/images/header/Rainbow%20Logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnQ7yvhU7JJJxnZilckAiP2FCLJ1bpCM9bJClxwd-f0JiuP0lVyD9a1Ap_qJ4bg2shq3d2ozZ2R8y2my2f3clEBebeeeNU6spmo2EC-U5fxnvPbFvbldAYy8SeiiuI1o1Dlgo28qBeLush=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPqk3vyaYrnN-Fq2mSCT4SIosFyE0cNEhUrMedg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN2XdiLBTXqof5dOt678VqKdyLm-52s2umGbKjL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM7WNXhhKp_Ri-Y4d7vkg9yxxKZzJgjRi6u2xR6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPejaETGJCAWAX-fj9O3n1jn6miFYbK1uLUoiTF=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7210136,
+      "lng": 83.3137084,
+      "label": "Rainbow Children's Clinic & BirthRight Clinic - Kailash metta, Visakhapatnam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rainbow-children-s-hospital-best-pediatric-hospital-in-health-city-vizag-chinnagadili",
+    "name": "Rainbow Children's Hospital - Best Pediatric Hospital in Health City, Vizag",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Chinnagadili, Rainbow Children's Hospital - Best Pediatric Hospital in Health City, Vizag offers coordinated hospital care with major focus on IVF In Visakhapatnam and Women and Child Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Chinnagadili.",
+    "email": "",
+    "phone": "080 3783 6553",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot No.15A, Survey No.21 & 27 Health City, Chinnagadili, Andhra Pradesh 530040",
+    "city": "Chinnagadili",
+    "state": "Andhra Pradesh",
+    "pincode": "530040",
+    "locality": "Survey No.21 & 27 Health City",
+    "landmark": "Chinnagadili",
+    "emergencyContact": "080 3783 6553",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFb3DV4nDj2KisvxBQntsNUXvy3vIqaDeAoI8i4FRl6octDgg5xZnEjuZl_oYpcLf0OJTDqTfAl1Jxa-U8BxNRkrY0Z3fsZbr64iXcnCSuZoHwIiW6d9f2_5e8FAE2WC_7mrGySm6b6pWBh=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFb3DV4nDj2KisvxBQntsNUXvy3vIqaDeAoI8i4FRl6octDgg5xZnEjuZl_oYpcLf0OJTDqTfAl1Jxa-U8BxNRkrY0Z3fsZbr64iXcnCSuZoHwIiW6d9f2_5e8FAE2WC_7mrGySm6b6pWBh=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7634293,
+      "lng": 83.3111041,
+      "label": "Rainbow Children's Hospital - Best Pediatric Hospital in Health City, Vizag",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ravi-heart-centre-visakhapatnam",
+    "name": "Ravi Heart Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Visakhapatnam, Ravi Heart Centre brings together specialists for Heart Surgery In Visakhapatnam and Cardiac Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Visakhapatnam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073309 98421",
+    "alternatePhone": "",
+    "website": "http://www.raviheartcentre.in/",
+    "address": "P885+472, Nowroji Rd, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Ram Nagar",
+    "landmark": "Ram Nagar",
+    "emergencyContact": "073309 98421",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Visakhapatnam",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFI7rFtYOnescj0pLHumb84Mciz73_7eTa47wldwCLveUFhdELnUh68FwqIuTzxn3Or2Uecfj0_akP-W6WSpUZuiNWwtiwaO1Q3zG9gIPA9RtNPFm890pr2t2rBNV-hCMKlvbQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFI7rFtYOnescj0pLHumb84Mciz73_7eTa47wldwCLveUFhdELnUh68FwqIuTzxn3Or2Uecfj0_akP-W6WSpUZuiNWwtiwaO1Q3zG9gIPA9RtNPFm890pr2t2rBNV-hCMKlvbQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH26UhBGTyDgubHnbzLRuqjr803wspy7p2j_1uDwx_9MRAdtgozRqv0mHRJFYDVDt-C29aVtkKT72stz_6m3vwYnlZlLr33EOn3GIw-NOvmh3NRX7s_WJAMfd-Ghran0J6u6vH4ACAmxJA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7152621,
+      "lng": 83.3081691,
+      "label": "Ravi Heart Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rk-hospital-gajuwaka",
+    "name": "RK Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Gajuwaka, RK Hospital delivers integrated care across Laparoscopic Surgery In Visakhapatnam. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gajuwaka.",
+    "email": "",
+    "phone": "089125 17599",
+    "alternatePhone": "",
+    "website": "http://rkhospital.co.in/",
+    "address": "Chinagantyada, Chaitanya Nagar, Gajuwaka, Andhra Pradesh 530026",
+    "city": "Gajuwaka",
+    "state": "Andhra Pradesh",
+    "pincode": "530026",
+    "locality": "Chaitanya Nagar",
+    "landmark": "Gajuwaka",
+    "emergencyContact": "089125 17599",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwdSMlEqYv8YVi6b13eMaVdftn5EA6u-U2_j70ow-AfBPMnUDIEbCkUu-vVCApQ-45M6JmEdXn5OUasLDHd6-Vn7_M4JEeoPFf62lj1wHdLHqHa8xe4MovLzY6li3IsmVNHRV5=w1200-h900-p-k-no",
+    "logo": "https://static.wixstatic.com/media/d988c7_369248eee27b4901ab66897b4a99a850~mv2.png/v1/fill/w_244,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo-Rk.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwdSMlEqYv8YVi6b13eMaVdftn5EA6u-U2_j70ow-AfBPMnUDIEbCkUu-vVCApQ-45M6JmEdXn5OUasLDHd6-Vn7_M4JEeoPFf62lj1wHdLHqHa8xe4MovLzY6li3IsmVNHRV5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUmXIPXHX6UuO-thwM0wNPN-AUonuaG3FCjPjNN6flz18Qoj5blR8pbFM66yCrnI_dIF-GwR5N8So0rdRXbErn_f3c4fLE2Kq0OtUXLV30p5SII_2e6eeqnsajzrdmhOGMTQbZ2MyxoWVr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGctfkz1mxhRLTkFy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGctfkz1mxhRLTkFymCESXbXDVFTSyj4mXDqZSgkQAUBLBtcM9BNXXsrPg96MTjUNR4vFK2QlQEI_RwwJ4dppTV-6hNeVdIzzTV7egTaTRa2lVON0pWw8j-B0lxXg_1d0MsoMO_E-_03xkv=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4O1M2XDKwyUV8Epa828-eZ0S6UeC-z7GXVG3K5Ys28wmkYPLKqd-eVR01BBgtAZEYBRQiT2yUqJrYc6YVLJlyg8z3E7qRIKezqWVss7ZE2aTGcJMmcAu3sD6WKKmzAUKUW3McLQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.6825341,
+      "lng": 83.1969804,
+      "label": "RK Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sai-spoorthy-hospital-multi-speciality-and-trauma-centre-visakhapatnam",
+    "name": "Sai Spoorthy Hospital - Multi Speciality And Trauma Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Visakhapatnam, Sai Spoorthy Hospital - Multi Speciality And Trauma Centre delivers integrated care across Spine Surgery In Visakhapatnam and Speciality Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "089127 81108",
+    "alternatePhone": "",
+    "website": "https://www.saispoorthyhospital.com/",
+    "address": "Door. No, 47-935, 3rd Ln, Sagar Nagar, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530016",
+    "locality": "Dwaraka Nagar",
+    "landmark": "3rd Ln",
+    "emergencyContact": "089127 81108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Visakhapatnam",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGTluh1ftjB5F05-8VXG8BUpWjvVxPq7S137KgIN_OOhdgxds8-AhNAvMHpaRJDPdoTCE7PPnv_nJQSEK_UcSghIydDpRSsRAINwfSHxKuyPQkYSlrJVhQw5NyEo7ufpWw8yFxm=w1200-h900-p-k-no",
+    "logo": "https://www.saispoorthyhospital.com/img\\logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGTluh1ftjB5F05-8VXG8BUpWjvVxPq7S137KgIN_OOhdgxds8-AhNAvMHpaRJDPdoTCE7PPnv_nJQSEK_UcSghIydDpRSsRAINwfSHxKuyPQkYSlrJVhQw5NyEo7ufpWw8yFxm=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.727454,
+      "lng": 83.304209,
+      "label": "Sai Spoorthy Hospital - Multi Speciality And Trauma Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-satya-ivf-clinic-visakhapatnam",
+    "name": "Shree Satya IVF Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Satya IVF Clinic is a prominent hospital in Visakhapatnam, known for structured tertiary care across IVF In Visakhapatnam and Fertility Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "089125 36787",
+    "alternatePhone": "",
+    "website": "http://shreesatyahealth.com/",
+    "address": "Krishna Nagar Rd, near Collector Office, Krishnagar, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Maharani Peta",
+    "landmark": "near Collector Office, Krishnagar, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "emergencyContact": "089125 36787",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4QLjKRRD-CdLzoN79VC66MZOTwOFEWPstxw7Cg9m8iH2qmEMPkdYGxArCBsompkiZr8X9dlU2z8TtJ9q2ngfJpGj4v934aSn7JHK4CPE1YmZ78u4B_SA5-CY_0oqDiWmpU_Mpqnza15An=w1200-h900-p-k-no",
+    "logo": "https://shreesatyahealth.com/wp-content/uploads/2023/04/Shree-Satya-Helth-Center-Logo-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4QLjKRRD-CdLzoN79VC66MZOTwOFEWPstxw7Cg9m8iH2qmEMPkdYGxArCBsompkiZr8X9dlU2z8TtJ9q2ngfJpGj4v934aSn7JHK4CPE1YmZ78u4B_SA5-CY_0oqDiWmpU_Mpqnza15An=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7087941,
+      "lng": 83.3089983,
+      "label": "Shree Satya IVF Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "simhagiri-hospital-gajuwaka",
+    "name": "Simhagiri Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gajuwaka often choose Simhagiri Hospital for its strength in Laparoscopic Surgery In Visakhapatnam. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Gajuwaka can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095051 15115",
+    "alternatePhone": "",
+    "website": "http://simhagirihospitals.com/",
+    "address": "Dr K.V Raman Road Simhagiri Hospital, 5-3-323 High School Rd, Main Rd, opposite GBR Complex, New Gajuwaka, Gajuwaka, Andhra Pradesh 530026",
+    "city": "Gajuwaka",
+    "state": "Andhra Pradesh",
+    "pincode": "530026",
+    "locality": "New Gajuwaka",
+    "landmark": "opposite GBR Complex, New Gajuwaka, Gajuwaka, Andhra Pradesh 530026",
+    "emergencyContact": "095051 15115",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGb2C4cHw6x1MIGkPgttvdc8QTe1dkTbj-yO-9eq6hTyI4jn3NAWH_w1rYbIdztWmh8zqdIiizXkChdPhhcIxml9g64PT2FWB1ZyNWgmn5H067GCNlRYnC_FuzBX7ytLdWoFvLS7A=w1200-h900-p-k-no",
+    "logo": "http://simhagirihospitals.com/images/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGb2C4cHw6x1MIGkPgttvdc8QTe1dkTbj-yO-9eq6hTyI4jn3NAWH_w1rYbIdztWmh8zqdIiizXkChdPhhcIxml9g64PT2FWB1ZyNWgmn5H067GCNlRYnC_FuzBX7ytLdWoFvLS7A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.6862396,
+      "lng": 83.2128577,
+      "label": "Simhagiri Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-krishna-surgical-hospital-adavivaram",
+    "name": "Sri Krishna Surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Adavivaram, Sri Krishna Surgical Hospital brings together specialists for Laparoscopic Surgery In Visakhapatnam. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Adavivaram.",
+    "email": "",
+    "phone": "089127 68585",
+    "alternatePhone": "",
+    "website": "http://www.sisyp.com/dir/vizag/hospital/sri-krishna-surgicals/",
+    "address": "19-278/1, near CID Office, Pineapple Colony, Adavivaram, Andhra Pradesh 530040",
+    "city": "Adavivaram",
+    "state": "Andhra Pradesh",
+    "pincode": "530040",
+    "locality": "Pineapple Colony",
+    "landmark": "near CID Office, Pineapple Colony, Adavivaram, Andhra Pradesh 530040",
+    "emergencyContact": "089127 68585",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQj6SuUnLgr-wQsx_e-CB4okR17tLE6aDZwOCwehv7Z_ApfQmnhSKVsZN7Je19rIBmpUO_634FdhP0zZXV3Ip8o5E2dkLRv-cHCbA4NzHVsyT0WNTc6Y5uNwW-PZJhP1IMxL9J=w1200-h900-p-k-no",
+    "logo": "https://www.sisyp.com/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQj6SuUnLgr-wQsx_e-CB4okR17tLE6aDZwOCwehv7Z_ApfQmnhSKVsZN7Je19rIBmpUO_634FdhP0zZXV3Ip8o5E2dkLRv-cHCbA4NzHVsyT0WNTc6Y5uNwW-PZJhP1IMxL9J=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7822476,
+      "lng": 83.2707523,
+      "label": "Sri Krishna Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-surya-hospital-visakhapatnam",
+    "name": "Sri Surya Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Surya Hospital is a prominent general hospital in Visakhapatnam, known for structured tertiary care across Laparoscopic Surgery In Visakhapatnam. Its infrastructure includes Google rating 3.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "089125 52233",
+    "alternatePhone": "",
+    "website": "",
+    "address": "15-14 9/1, Krishna Nagar Rd, Srirangapuram, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Maharani Peta",
+    "landmark": "Srirangapuram",
+    "emergencyContact": "089125 52233",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsfWKPdnh0AK56RWPBjpiPiJvjFPLq5Dgz8_3xkfCnZ_lNjQ1EBkXp7L-pGfF7XpUkQLBZuqeWMZ4WboEPFENoaOBQz0ySh1LiWityiDpyn_ljnKBXuGj7dL7eX8-4qMHLDkdMsw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsfWKPdnh0AK56RWPBjpiPiJvjFPLq5Dgz8_3xkfCnZ_lNjQ1EBkXp7L-pGfF7XpUkQLBZuqeWMZ4WboEPFENoaOBQz0ySh1LiWityiDpyn_ljnKBXuGj7dL7eX8-4qMHLDkdMsw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGNVUb_G90GfMZkQ6NBtWVUsQG7mCXfk-2jl5KLYRU_cSv5IYr_dLHtYYdiwFsrM9w2i1ZrFCP3NpOh1yVCGNOklhO4JmFboSVqzXpXyiMvIdsvC2RwKXnkfMc8q2Y17lsKcosb-g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE07sruK-nZVIXvssLdPgfF6S77zhC5Un0fW2-mggJvpki3Y2khyitpjwK9T2hxM9JiyxJRkfTRYH2VwEa2JU7RetjzDIZ6_nwGy-c7GuPiN2GUeM1tTLM4_1JSBBK13qc27AIhFPq4p9At=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFItNj_aoQWDql_AUptfVJjnqTQJyV8LyWMZagY66KLEy8F4ByhVpUTvgxIauqcb7GKqiAeygCD58Ni_aOAHFqG7F5p3B0_J8f8YWZMzi1aAPr7GuMIYuqnj5aLh1VHpjlSp1K7MkElQxGY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7082874,
+      "lng": 83.3097898,
+      "label": "Sri Surya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "st-joseph-s-hospital-visakhapatnam",
+    "name": "St.Joseph's Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Visakhapatnam, St.Joseph's Hospital delivers integrated care across Laparoscopic Surgery In Visakhapatnam. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "089127 06974",
+    "alternatePhone": "",
+    "website": "http://www.sjhvsp.org/",
+    "address": "38-14-1, near Zilla Parishad, Krishnagar, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "locality": "Maharani Peta",
+    "landmark": "near Zilla Parishad, Krishnagar, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "emergencyContact": "089127 06974",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAETwGO5LMb_j9vg_9Y4RWgQrVUy-HcKrc4fB-dS3WTiQEvxKPqdvQ4dboO7yegyBaWdeEK4artnxzuzyNk3n5rIiXHm_mJnSFuxw5No7DOdoUgPF3ftlzD4D1bjI4wy_Sps8c-d=w1200-h900-p-k-no",
+    "logo": "https://www.sjhvsp.org/footerlogo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAETwGO5LMb_j9vg_9Y4RWgQrVUy-HcKrc4fB-dS3WTiQEvxKPqdvQ4dboO7yegyBaWdeEK4artnxzuzyNk3n5rIiXHm_mJnSFuxw5No7DOdoUgPF3ftlzD4D1bjI4wy_Sps8c-d=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOscx6QS1zH4Jt8166tVX3GPaZSvBsOsA52yXim=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMgvtb_hfABSStBvKP7stkQipnYBaR2w_QPXRHH=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNTAt_LJ8mFdVJD0D4BoVmoNPTEfs6K7alDX1Z9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMIz6nO5nwByDvn0OTqsHs35fbK7Lm7MA0TsW98=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7111749,
+      "lng": 83.3120249,
+      "label": "St.Joseph's Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "synergy-institute-of-gastroenterology-sig-visakhapatnam",
+    "name": "Synergy Institute of Gastroenterology (SIG)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Visakhapatnam, Synergy Institute of Gastroenterology (SIG) delivers integrated care across Liver Transplant Surgery In Visakhapatnam and Gastroenterology. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "063034 32434",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot 5A1 Healthcity, Chinagadhali, Arilova, Visakhapatnam, Andhra Pradesh 530040",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530040",
+    "locality": "Arilova",
+    "landmark": "Arilova",
+    "emergencyContact": "063034 32434",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Visakhapatnam",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4h3W_3dLrAlRYLyGv1CJjiTM3By-W8br5_lD4Gb8Fv8SgJ014xRetFoJsnpnDK85w9aEbTS2xNvEa8xTvnh3M6cvmr6hp_fKlrW1rum_tZYTpyDTWV2lKfvtAVNLLqOQSLJbgLw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4h3W_3dLrAlRYLyGv1CJjiTM3By-W8br5_lD4Gb8Fv8SgJ014xRetFoJsnpnDK85w9aEbTS2xNvEa8xTvnh3M6cvmr6hp_fKlrW1rum_tZYTpyDTWV2lKfvtAVNLLqOQSLJbgLw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7639091,
+      "lng": 83.3117803,
+      "label": "Synergy Institute of Gastroenterology (SIG)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tirumala-vijaya-hospital-visakhapatnam",
+    "name": "Tirumala Vijaya Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Visakhapatnam, Tirumala Vijaya Hospital delivers integrated care across IVF In Visakhapatnam. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "089125 78887",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MVP Main Rd, Sector 2, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530017",
+    "locality": "MVP Colony",
+    "landmark": "MVP Colony",
+    "emergencyContact": "089125 78887",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHJKZ_XjBnwENOrINO_60dCeq-6LzfiOnivQgwAEGBe5KE7k7D5mYQ38kueJDB7uDlfM6HR8ei2qS9-tHYm5rVasWGWzdWXvbtBMTFVU53u2z2kOomL4y4ap5SCDkDpWuEo_wY5rw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHJKZ_XjBnwENOrINO_60dCeq-6LzfiOnivQgwAEGBe5KE7k7D5mYQ38kueJDB7uDlfM6HR8ei2qS9-tHYm5rVasWGWzdWXvbtBMTFVU53u2z2kOomL4y4ap5SCDkDpWuEo_wY5rw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7440365,
+      "lng": 83.3351936,
+      "label": "Tirumala Vijaya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vrindaa-cancer-hospitals-best-cancer-treatment-in-vizag-visakhapatnam",
+    "name": "Vrindaa Cancer Hospitals | Best Cancer treatment in Vizag",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vrindaa Cancer Hospitals | Best Cancer treatment in Vizag is a prominent hospital in Visakhapatnam, known for structured tertiary care across Oncologist Surgery In Visakhapatnam. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Visakhapatnam.",
+    "email": "",
+    "phone": "096183 80099",
+    "alternatePhone": "",
+    "website": "https://www.vrindaahospitals.com/",
+    "address": "Health City, Plot No.14E, Chinna Gadhili, Arilova, Visakhapatnam, Andhra Pradesh 530040",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530040",
+    "locality": "Arilova",
+    "landmark": "Chinna Gadhili",
+    "emergencyContact": "096183 80099",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3EVzQFSUmSc8tNmV3sEzP33OZX-PY_iTjtI83UFnnQeWqG-lP2BNvxSFBTgltWyD_JoOwuGRLhEyJB-J9jp7dj6Bb4ivoyHJPyEMZNDDfgivI5bRJfY4-M-ALVq-o_rxyLxVJ=w1200-h900-p-k-no",
+    "logo": "https://vrindaahospitals.com/wp-content/uploads/2026/03/Vrindaa-nrml-logo-png-scaled.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3EVzQFSUmSc8tNmV3sEzP33OZX-PY_iTjtI83UFnnQeWqG-lP2BNvxSFBTgltWyD_JoOwuGRLhEyJB-J9jp7dj6Bb4ivoyHJPyEMZNDDfgivI5bRJfY4-M-ALVq-o_rxyLxVJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMYcehcpOGig9VkBfZuCrRO0SKa__014eunXUJp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPkB4cmeBVpoJCxFV-e6E-pJhMQr2XjV31Un-vj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPpyCYZN9KQQf2URh90NvyWat3I_od0w0jptKZc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPq-1POhDZhSZO55q2wmERUA-3h2pqiL66gcOwM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7630884,
+      "lng": 83.3087259,
+      "label": "Vrindaa Cancer Hospitals | Best Cancer treatment in Vizag",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "waltair-multicare-hospital-visakhapatnam",
+    "name": "Waltair Multicare Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Visakhapatnam, Waltair Multicare Hospital delivers integrated care across IVF In Visakhapatnam. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Visakhapatnam.",
+    "email": "",
+    "phone": "096184 30445",
+    "alternatePhone": "",
+    "website": "https://www.waltairmulticarehospital.com/",
+    "address": "D.no: 8, 1 97/2, Sivaji Palem Rd, Near Visakha Eye Hospital, Pedda Waltair, Visakhapatnam, Andhra Pradesh 530017",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530017",
+    "locality": "Pedda Waltair",
+    "landmark": "Near Visakha Eye Hospital, Pedda Waltair, Visakhapatnam, Andhra Pradesh 530017",
+    "emergencyContact": "096184 30445",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Visakhapatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvdJSxdaEYcVMc2ZYa8KZ8ANXSh3YYXoacJT9_g9VIWQOnUtQn81rR3lwfvxkoq5LuNTKNx8C5MqQ11_Iadz5ovZJ_o-_4A7ge0Vc7Z2CcNZfnGdFWkQkG6aptWzuZJXqtpYf5=w1200-h900-p-k-no",
+    "logo": "https://www.waltairmulticarehospital.com/assets/images/walti.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvdJSxdaEYcVMc2ZYa8KZ8ANXSh3YYXoacJT9_g9VIWQOnUtQn81rR3lwfvxkoq5LuNTKNx8C5MqQ11_Iadz5ovZJ_o-_4A7ge0Vc7Z2CcNZfnGdFWkQkG6aptWzuZJXqtpYf5=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.7319454,
+      "lng": 83.3336159,
+      "label": "Waltair Multicare Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

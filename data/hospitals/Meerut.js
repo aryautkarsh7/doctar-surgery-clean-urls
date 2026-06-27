@@ -1,0 +1,7992 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "a-v-medical-and-ultrasound-centre-meerut",
+    "name": "A V Medical & Ultrasound Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, A V Medical & Ultrasound Centre offers coordinated hospital care with major focus on Gynecologist Surgery In Meerut. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "079838 68831",
+    "alternatePhone": "",
+    "website": "",
+    "address": "R 92, opposite Water Tank, Pallavpuram Phase 2, Modipuram, Meerut, Uttar Pradesh 250110",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250110",
+    "locality": "Modipuram",
+    "landmark": "opposite Water Tank, Pallavpuram Phase 2, Modipuram, Meerut, Uttar Pradesh 250110",
+    "emergencyContact": "079838 68831",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=29.0624333%2C77.7140092&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=29.0624333%2C77.7140092&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.0624333%2C77.7140092&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.0624333%2C77.7140092&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.0624333,
+      "lng": 77.7140092,
+      "label": "A V Medical & Ultrasound Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "adiyogi-hospital-meerut",
+    "name": "ADIYOGI HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ADIYOGI HOSPITAL has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Cancer Surgery In Meerut. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092581 21411",
+    "alternatePhone": "",
+    "website": "http://www.adiyogihospital.in/",
+    "address": "CCS University Rd, near RAMGARHI, Mangal Pandey Nagar, Ramgarhi, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Ramgarhi",
+    "landmark": "near RAMGARHI, Mangal Pandey Nagar, Ramgarhi, Meerut, Uttar Pradesh 250004",
+    "emergencyContact": "092581 21411",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHy0jcLUF-KhfUC7DM0ZwLAjF5KpKS6A1Asdt6I0GtYF24ek6tSQMff9QlK2GhPefgOWMZvnhdEXN1eJOlx5ffUxCrmEKf0TiuR2VnCBwoeFtw3y3PQvttHLeweywNLcbG1O-vt=w1200-h900-p-k-no",
+    "logo": "http://adiyogihospital.in/assets/logo/095832.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHy0jcLUF-KhfUC7DM0ZwLAjF5KpKS6A1Asdt6I0GtYF24ek6tSQMff9QlK2GhPefgOWMZvnhdEXN1eJOlx5ffUxCrmEKf0TiuR2VnCBwoeFtw3y3PQvttHLeweywNLcbG1O-vt=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM6yQ0by6UZtSEh8lLpGXDLRpWaI7dNKjNOLcDC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOfo1cZVqbOZew-CcWzq7PAGbrewb8W3mopaTnJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMW87YE4h7gSWRzEKXPPYdJFRGgN2TVGCXRGUd4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP35MzQTVLCQOruDg6SG2Wj-Gb-W76gJ3-h-8u7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9698556,
+      "lng": 77.7352673,
+      "label": "ADIYOGI HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amrit-hospital-meerut",
+    "name": "Amrit Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Amrit Hospital is a prominent hospital in Meerut, known for structured tertiary care across Gynecologist Surgery In Meerut. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "098375 37847",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NP 3/1, Ganga Dham Road, NP Pocket, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Ganga Nagar",
+    "landmark": "NP Pocket",
+    "emergencyContact": "098375 37847",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxd4qoPe5ylIFaDh3p49YlvROeTB_wDoa6ySoxaJnLsj6Yo9dJJk-7tlhRKac74gHRUUeDNt1LNSQ7o58tkI2_yviFQT1yMPE4caXG575VVmuVQaOqWIUPh5Ok04XPJaM5oC0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxd4qoPe5ylIFaDh3p49YlvROeTB_wDoa6ySoxaJnLsj6Yo9dJJk-7tlhRKac74gHRUUeDNt1LNSQ7o58tkI2_yviFQT1yMPE4caXG575VVmuVQaOqWIUPh5Ok04XPJaM5oC0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNjuFcjrgqSfhLgRz63DK_KDNeuD0xLW3WIIpM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOGhDzqfXT7euyXC7ApGtF6pxJUYryjqT2mtcA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOzyh_b2W9M6uLPDNupLWEavcRWd92AXcj9R34=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPJtFbh-WbuT6FiT-x1cONtU4N-Qt130KTLuGo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.0035283,
+      "lng": 77.7629778,
+      "label": "Amrit Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "anand-hospital-meerut",
+    "name": "Anand Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Meerut often choose Anand Hospital for its strength in Liver Transplant Surgery In Meerut. The facility stands out for Google rating 3.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075057 84498",
+    "alternatePhone": "",
+    "website": "http://www.anandhospital.com/",
+    "address": "A-1, Garh Rd, near Medical College, Damoder Colony, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Damoder Colony",
+    "landmark": "near Medical College, Damoder Colony, Meerut, Uttar Pradesh 250004",
+    "emergencyContact": "075057 84498",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQ8DXrBfm-fJrjQhwYXaXETcylfK8z8kTEk5IsxIp1U5iDNhucdZUdPeH92QlDPqBwRm45VoYo8y3C8Cehetncn6KS8KYmkSphwRGFYqEBTtKjm7bAy8xDnmvX9awVXgwfFGlx-g=w1200-h900-p-k-no",
+    "logo": "https://www.anandhospital.com/wp-content/uploads/2022/03/Anand-Hospital-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQ8DXrBfm-fJrjQhwYXaXETcylfK8z8kTEk5IsxIp1U5iDNhucdZUdPeH92QlDPqBwRm45VoYo8y3C8Cehetncn6KS8KYmkSphwRGFYqEBTtKjm7bAy8xDnmvX9awVXgwfFGlx-g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNZxajCF2boLmXLQkROUMkjsSrLreLiE-uBKakP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOi92QdGTnnKLsQUQ569IkOMvOa3baMjSBOLbAj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO-fhzv5ZnjafxRGy3UJLtEFUE0e0Rt5ImVAPfr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOgdlMPv5S85QpPc4vUkNdFTj6kwmqwCRRjfzx4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9616986,
+      "lng": 77.7463143,
+      "label": "Anand Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "anjaneya-super-speciality-hospital-and-neuro-centre-meerut",
+    "name": "Anjaneya Super Speciality Hospital & Neuro Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, Anjaneya Super Speciality Hospital & Neuro Centre offers coordinated hospital care with major focus on Brain Surgery In Meerut, Neurosciences, and Speciality Care. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "073027 97772",
+    "alternatePhone": "",
+    "website": "https://www.anjaneyahospital.com/",
+    "address": "2, 3 A-1, Meerut Bypass, Kankar Khera Rd, Shardha Puri Phase 2, Shradhapuri Phase 2, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Shradhapuri Phase 2",
+    "landmark": "Meerut Bypass",
+    "emergencyContact": "073027 97772",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Meerut",
+      "Neurosciences",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC17HlOj2NUxHJtB61JpmiK_zJYLGnqWkdlm2o2NdpkB-G_9oH1t69TiB4iwUfULweUdRE2A9Ydzg19qJVYeeEixVKUR2aGEX4aW_JqDK6kwThKhqrFfJUKb4JOxUnmKFa0w61XJKIaw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC17HlOj2NUxHJtB61JpmiK_zJYLGnqWkdlm2o2NdpkB-G_9oH1t69TiB4iwUfULweUdRE2A9Ydzg19qJVYeeEixVKUR2aGEX4aW_JqDK6kwThKhqrFfJUKb4JOxUnmKFa0w61XJKIaw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGK4pIX9uS_hyh-61HBuMLIBVfezpUbmLY3WaNAzzP0bFEkE40UROlzX9zuPwQy6a2zVHUM49AJ5XifecAoRIKFYcVm2wvkNLNUIYnPAglOMmjvYA9PUIZPqw7oavXXMUA8p0VVdob-gVbn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.0310823,
+      "lng": 77.6707996,
+      "label": "Anjaneya Super Speciality Hospital & Neuro Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apusnova-multispeciality-hospital-and-trauma-center-meerut",
+    "name": "Apusnova Multispeciality Hospital & Trauma Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, Apusnova Multispeciality Hospital & Trauma Center offers coordinated hospital care with major focus on Neurosurgeon In Meerut and Speciality Care. The facility stands out for Google rating 2.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "091526 17880",
+    "alternatePhone": "",
+    "website": "https://apusnovahospital.org/",
+    "address": "c 6, Mawana Rd, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Mawana Rd",
+    "landmark": "Meerut",
+    "emergencyContact": "091526 17880",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Meerut",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE98EsB8QJfxgIBXBY9u2da_75_F_LReJENh-FXTypqv5xYKB3d7bIpZKeFRAeoybD6LaGnHmvRSiv6zx9azLAN0SF49xC4MA0pyZKZCj8c3yBugmrwQb4wB4gyJdjMJFqDcbZD=w1200-h900-p-k-no",
+    "logo": "https://apusnovahospital.org/wp-content/uploads/2021/07/apusnova-hospital-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE98EsB8QJfxgIBXBY9u2da_75_F_LReJENh-FXTypqv5xYKB3d7bIpZKeFRAeoybD6LaGnHmvRSiv6zx9azLAN0SF49xC4MA0pyZKZCj8c3yBugmrwQb4wB4gyJdjMJFqDcbZD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.0111687,
+      "lng": 77.7482298,
+      "label": "Apusnova Multispeciality Hospital & Trauma Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aryavart-hospital-meerut",
+    "name": "Aryavart Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, Aryavart Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Meerut. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "070552 18361",
+    "alternatePhone": "",
+    "website": "https://aryavarthospital.in/",
+    "address": "Daurala Sugar Mill, 58, National Highway, near Toll Plaza, Meerut, Daurala Sugar Mills, Uttar Pradesh 250221",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250221",
+    "locality": "near Toll Plaza",
+    "landmark": "near Toll Plaza, Meerut, Daurala Sugar Mills, Uttar Pradesh 250221",
+    "emergencyContact": "070552 18361",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiFbNg8KhKhQhdpV6aGdKKTUUC_SRauNcefU2RROFNSELIYpGN2KIP7iY5e7KKxvHqfEsmx9F5RF_8jUKgXqQQg_IPMM37FFpPygN2YpaaxK_qqw4JotX33qUSyaJUiCleY8HJ8zK2FFs=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiFbNg8KhKhQhdpV6aGdKKTUUC_SRauNcefU2RROFNSELIYpGN2KIP7iY5e7KKxvHqfEsmx9F5RF_8jUKgXqQQg_IPMM37FFpPygN2YpaaxK_qqw4JotX33qUSyaJUiCleY8HJ8zK2FFs=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOb2YHJ1zBm_Ehv3_E1sskcNcq4y87h7NnFhBj0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOb2YHJ1zBm_Ehv=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO9cKAQLE1aXP0BcDTVKmFSSFFnypVOA-M7O5_u=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFN8_RQZ74FKu7edKWCCFqty3edjDMyK1zsF_pYeL3akA-KDvLG4IrzphbuEhXDk3QHFaz0xa2-UhWT1syqxBHWGlRWhLFo3cLR1-mcXa965fekIxgE5PiaiZIUn6OAfb4ZSQXT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.1036588,
+      "lng": 77.7103238,
+      "label": "Aryavart Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "asha-kiran-ent-and-maternity-centre-meerut",
+    "name": "Asha kiran ENT and maternity centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Asha kiran ENT and maternity centre has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Gynecologist Surgery In Meerut. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089794 23334",
+    "alternatePhone": "",
+    "website": "https://ashakiranentandmaternity.in/",
+    "address": "93/1 B, Baghpat Rd, opposite Delhi Public School, Malyana, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Malyana",
+    "landmark": "opposite Delhi Public School, Malyana, Meerut, Uttar Pradesh 250002",
+    "emergencyContact": "089794 23334",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFPzoOpmIsTiz4aUaqERYrDcoxytPsflKpZ7xWIq1wU-_M0HFiDHYCsV5276DVi7VJ3pxCr_jWHWNVhyUWBsX92NFlP8xcgBuP0QgWtwyxws3ld0IjQzf2RsZvYiK_LzNt2jLvJrQ=w1200-h900-p-k-no",
+    "logo": "https://ashakiranentandmaternity.in/public/storage/logo/VYUcdFnj7P2V2ZOqXAM61FxtyVRtOZbziqWQNdCP.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFPzoOpmIsTiz4aUaqERYrDcoxytPsflKpZ7xWIq1wU-_M0HFiDHYCsV5276DVi7VJ3pxCr_jWHWNVhyUWBsX92NFlP8xcgBuP0QgWtwyxws3ld0IjQzf2RsZvYiK_LzNt2jLvJrQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPmENGzM7uKY6xJm2Ug2ayJCI52a9V=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPmENGzM7uKY6xJm2Ug2ayJCI52a9VupIvl0M7m=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMYNk_C-FH9syAqheFDOP_ju1TwmBNjdVS8Cb4F=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOLqqKNYzDdTajc_yKqYBSx556pw2ePsDRTz9Mc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.968872,
+      "lng": 77.6463523,
+      "label": "Asha kiran ENT and maternity centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bhagya-shree-hospital-and-trauma-centre-meerut",
+    "name": "Bhagya Shree Hospital and Trauma Centre",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bhagya Shree Hospital and Trauma Centre has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Spine Surgery In Meerut. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near Bharat Petrol Pump, Opp Rangoli Road, Garh Rd, Mangal Pandey Nagar, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Mangal Pandey Nagar",
+    "landmark": "Garh Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdtxfJ5AokDaY7crY9dMs8QJYZ3l3cYqx9fPDx3CErfHiRhi4-Di09FB-9XOdv9YA4CwwEVwCW-pvLsKkot29pAus2nv__MFxS7SefcVQwWA20JFSJJMP79f7cvGzudgJ75wc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdtxfJ5AokDaY7crY9dMs8QJYZ3l3cYqx9fPDx3CErfHiRhi4-Di09FB-9XOdv9YA4CwwEVwCW-pvLsKkot29pAus2nv__MFxS7SefcVQwWA20JFSJJMP79f7cvGzudgJ75wc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9659986,
+      "lng": 77.7358438,
+      "label": "Bhagya Shree Hospital and Trauma Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "blossom-hospital-meerut",
+    "name": "Blossom Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, Blossom Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Meerut. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "080772 84212",
+    "alternatePhone": "",
+    "website": "",
+    "address": "L 1515, Hapur Chungi, Sector 12, Shastri Nagar, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Shastri Nagar",
+    "landmark": "Sector 12",
+    "emergencyContact": "080772 84212",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJ4Ohfc6UsUyqWV8mV1DPecfHWIywqubDB-QnZ1evD9yz6NKWz42RqtMLmEaE0A4Ly0QS3MI3oPqPXG3I8EqStnAq39-Zjsw5szGAYC94Tz0yixS26vg0i27h-_ab9r5eGfeMj1gaC5fYp=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJ4Ohfc6UsUyqWV8mV1DPecfHWIywqubDB-QnZ1evD9yz6NKWz42RqtMLmEaE0A4Ly0QS3MI3oPqPXG3I8EqStnAq39-Zjsw5szGAYC94Tz0yixS26vg0i27h-_ab9r5eGfeMj1gaC5fYp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMVYLWVsycVysfcqZDr5mD_QVdULH-UlBkdITvX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMXIsq2e4mBrMq-vdwyE_XKzjUc0grt2j7KAh_I=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNrSnHOxlBg1EtxMAxdZxfEId9CsnEWbKjhoxAh=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPZdn3T72WvrKYdb-VNXauW3xkLvYnkAjRXdyQ8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9491427,
+      "lng": 77.7233821,
+      "label": "Blossom Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "brain-waves-ortho-neuro-rehab-hospital-meerut",
+    "name": "BRAIN WAVES ORTHO NEURO REHAB HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BRAIN WAVES ORTHO NEURO REHAB HOSPITAL is a prominent hospital in Meerut, known for structured tertiary care across Spine Surgery In Meerut, Neurosciences, and Orthopaedics. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "0121 359 4409",
+    "alternatePhone": "",
+    "website": "",
+    "address": "201/1, University Main Rd, Mangal Pandey Nagar, Ramgarhi, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Ramgarhi",
+    "landmark": "Mangal Pandey Nagar",
+    "emergencyContact": "0121 359 4409",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Meerut",
+      "Neurosciences",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGR_E6tBL3ZiNP7sS7-sIAfhDeGdSr8mh6SEh-Yvbz1pveQ-eN1mkcqoUXEHFIxZWIntdz-tLiNMfqILR39fT79OGTlR1l1DRLpZl8DZGfS-2wNjkOO8UlUQvHN-0kz7qEqIvtIuA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGR_E6tBL3ZiNP7sS7-sIAfhDeGdSr8mh6SEh-Yvbz1pveQ-eN1mkcqoUXEHFIxZWIntdz-tLiNMfqILR39fT79OGTlR1l1DRLpZl8DZGfS-2wNjkOO8UlUQvHN-0kz7qEqIvtIuA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9673233,
+      "lng": 77.7369611,
+      "label": "BRAIN WAVES ORTHO NEURO REHAB HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "chhatrapati-shivaji-subharti-hospital-meerut",
+    "name": "Chhatrapati Shivaji Subharti Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Chhatrapati Shivaji Subharti Hospital has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Spine Surgery In Meerut. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096390 10313",
+    "alternatePhone": "",
+    "website": "https://hospital.subharti.org/",
+    "address": "Swami Vivekanand Subharti University, NH58, Meerut, Uttar Pradesh 250005",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250005",
+    "locality": "NH58",
+    "landmark": "Meerut",
+    "emergencyContact": "096390 10313",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzgwxe7f4cV6L3AkK0zcJgSB0MzYWHxJ6DdsEDuCWa_P7kfjkMS3SHMCRdOaZTkF6jJynARiNhDOBDVU7M2vQ-pkTrsB0Wkd5N5wumQnaThKKoyKjt47gMEm3i3ELFEDBaK1QLpESnIvs=w1200-h900-p-k-no",
+    "logo": "https://hospital.subharti.org/images/subharti-Hospital-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzgwxe7f4cV6L3AkK0zcJgSB0MzYWHxJ6DdsEDuCWa_P7kfjkMS3SHMCRdOaZTkF6jJynARiNhDOBDVU7M2vQ-pkTrsB0Wkd5N5wumQnaThKKoyKjt47gMEm3i3ELFEDBaK1QLpESnIvs=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmznuuqIR1l98ubafBvpUA1JFdfFFRMLyrEo4SJgKP8lgtrYcayxpfEOIfXKVXv7HyrUcS60taL0BffUBPn-W4AfTzqe-gvw5J5bJFDPlAbiU3MkFyBJ_AHHiiuCraqqR6W4z-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9607524,
+      "lng": 77.6386153,
+      "label": "Chhatrapati Shivaji Subharti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "devlok-hospital-meerut",
+    "name": "Devlok Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Meerut often choose Devlok Hospital for its strength in Liver Transplant Surgery In Meerut. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "094122 00001",
+    "alternatePhone": "",
+    "website": "http://www.d2dnews.com/business-detail.aspx?i",
+    "address": "4, Suraj Kund Rd, Phool Bagh Colony, Panchsheel Colony, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Panchsheel Colony",
+    "landmark": "Phool Bagh Colony",
+    "emergencyContact": "094122 00001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.9724953%2C77.7202645&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://d2dnews.com/wp-content/uploads/2026/05/cropped-cropped-d2d-news.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.9724953%2C77.7202645&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9724953%2C77.7202645&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9724953%2C77.7202645&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9724953,
+      "lng": 77.7202645,
+      "label": "Devlok Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dhanvantri-jeevan-rekha-hospital-meerut",
+    "name": "Dhanvantri Jeevan Rekha hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Meerut, Dhanvantri Jeevan Rekha hospital brings together specialists for Brain Surgery In Meerut. Its infrastructure includes Google rating 3.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "011 2996 1284",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, Saket, Meerut, Uttar Pradesh 250003",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250003",
+    "locality": "Saket",
+    "landmark": "Meerut",
+    "emergencyContact": "011 2996 1284",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8bAitWpFJfharxXfsWBTxY0Um4BrW3ZkdN1KpSwaj2eAtYJVyv_yvddbakVNrVVmJdcFfrA9rU-21eI5aD1uAI3ewLAOcChnpyUmAgSZ4eZgrmoBDYguxfcWvbQIb4SmdKMdBAQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8bAitWpFJfharxXfsWBTxY0Um4BrW3ZkdN1KpSwaj2eAtYJVyv_yvddbakVNrVVmJdcFfrA9rU-21eI5aD1uAI3ewLAOcChnpyUmAgSZ4eZgrmoBDYguxfcWvbQIb4SmdKMdBAQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9891351,
+      "lng": 77.7248275,
+      "label": "Dhanvantri Jeevan Rekha hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "eves-hospital-meerut-best-hospital-emergency-care-child-specialist-in-meerut-meerut",
+    "name": "EVES Hospital Meerut | Best Hospital | Emergency Care | Child specialist in Meerut",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, EVES Hospital Meerut | Best Hospital | Emergency Care | Child specialist in Meerut offers coordinated hospital care with major focus on Orthopedic Surgery In Meerut and Women and Child Care. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "074550 21016",
+    "alternatePhone": "",
+    "website": "https://eveshospitalmeerut.com/",
+    "address": "Eves Crossing, Jattiwara, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Jattiwara",
+    "landmark": "Meerut",
+    "emergencyContact": "074550 21016",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Meerut",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRxWbQ7ExShcLgVX_d_gxTNAfj1Mu9sZ-zAX667r9cHncAkUoytHPonAgQuTu7L5orqgjNoywcQSDkdztjl-bGpf2maBwTwOsC7cpHWIttpd_aN8JnGAZYtxhq-rFioAIYs38TuXPgbPas=w1200-h900-p-k-no",
+    "logo": "https://eveshospitalmeerut.com/branch/assets/logo/logoImg1754975663.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRxWbQ7ExShcLgVX_d_gxTNAfj1Mu9sZ-zAX667r9cHncAkUoytHPonAgQuTu7L5orqgjNoywcQSDkdztjl-bGpf2maBwTwOsC7cpHWIttpd_aN8JnGAZYtxhq-rFioAIYs38TuXPgbPas=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNnV0kSRbP1F4xlIBLBdSFaQH_KHaJiSxci831-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPpcFMbVuBV3_RUyW-FLiQ9ob3XChMNEzJWUHB1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO9cjC2bXm1bM9XYR00QZPqesyUJKmdNfUIYAJt=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9815648,
+      "lng": 77.7087907,
+      "label": "EVES Hospital Meerut | Best Hospital | Emergency Care | Child specialist in Meerut",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "goyal-surgical-clinic-meerut-delhi",
+    "name": "Goyal Surgical Clinic",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut Delhi, Goyal Surgical Clinic offers coordinated hospital care with major focus on Liver Transplant Surgery In Meerut. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut Delhi.",
+    "email": "",
+    "phone": "094128 30880",
+    "alternatePhone": "",
+    "website": "",
+    "address": "242, Shivaji Road, Subhash Nagar, Meerut Delhi, Uttar Pradesh 250001",
+    "city": "Meerut Delhi",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Subhash Nagar",
+    "landmark": "Subhash Nagar",
+    "emergencyContact": "094128 30880",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.983252%2C77.7095297&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.983252%2C77.7095297&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.983252%2C77.7095297&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.983252%2C77.7095297&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.983252,
+      "lng": 77.7095297,
+      "label": "Goyal Surgical Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "haripriya-heart-and-eye-care-centre-meerut",
+    "name": "Haripriya Heart And Eye Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, Haripriya Heart And Eye Care Centre offers coordinated hospital care with major focus on Cardiac Surgery In Meerut and Cardiac Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "072173 27979",
+    "alternatePhone": "",
+    "website": "https://haripriyacare.in/",
+    "address": "1st Floor, Harsh Commercial Park, Plot No. 67, Damoder Colony, Ajanta Colony, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Ajanta Colony",
+    "landmark": "Plot No. 67",
+    "emergencyContact": "072173 27979",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Meerut",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYwp3WtpN7tMISe0LoFr1K30G2b66Q1EHnrxKHlslvPYCDGXsXp7ZDNTvnPV3YXbmmoErstnUFHGkTjeQ-87kNNWOUQWG1AwUlM_x618IQkFMseeTDP_Q1o_0RaeekMD2D78BRQDrmx7I=w1200-h900-p-k-no",
+    "logo": "https://haripriyacare.in/assets/images/haripriya-logo-sm.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYwp3WtpN7tMISe0LoFr1K30G2b66Q1EHnrxKHlslvPYCDGXsXp7ZDNTvnPV3YXbmmoErstnUFHGkTjeQ-87kNNWOUQWG1AwUlM_x618IQkFMseeTDP_Q1o_0RaeekMD2D78BRQDrmx7I=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPHD2Wq1-QOaAGleHz7gIM4Wx397kvs9b_dpwTq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMo2i3V__HXej-dcZBcJ281KW19cOX1X0qWHa_B=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9621883,
+      "lng": 77.7449855,
+      "label": "Haripriya Heart And Eye Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hope-hospital-meerut",
+    "name": "Hope Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hope Hospital has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Gynecologist Surgery In Meerut. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "200, Western Kutchery Rd, Nandan Garden 2, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Nandan Garden 2",
+    "landmark": "Nandan Garden 2",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsTRR3l7wVutd9FD_D0LUNasczE_6QuFFxMdRSZEbhlpH2lfWiGelu3LgwU2lE-FX_lx8Rfq2jbbme4npjK2WTOVp8Ilv2tuvFxmbUf2t3YVH32S1UfdhDseObEGzQ382sMFGe=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsTRR3l7wVutd9FD_D0LUNasczE_6QuFFxMdRSZEbhlpH2lfWiGelu3LgwU2lE-FX_lx8Rfq2jbbme4npjK2WTOVp8Ilv2tuvFxmbUf2t3YVH32S1UfdhDseObEGzQ382sMFGe=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9881892,
+      "lng": 77.7119765,
+      "label": "Hope Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "iimt-life-line-hospital-meerut",
+    "name": "IIMT Life Line Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "IIMT Life Line Hospital is a prominent hospital in Meerut, known for structured tertiary care across Liver Transplant Surgery In Meerut. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "0121 279 3610",
+    "alternatePhone": "",
+    "website": "http://iimtlifeline.com/contact.html",
+    "address": "Mawana Road, Next to Shirdi Sai Temple, O Pocket, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Ganga Nagar",
+    "landmark": "O Pocket",
+    "emergencyContact": "0121 279 3610",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdpUkO9lvbG1G8kNL8E005bQHUBNp5Kyn7L4OhxUhJKrKFhk9K1nGFDaUAg-KudLXJTGH_YZiucL35hM6_jtKjXrURGgL0nBYrPiwvCOBH_cQ3CmgSgSW1YjrTtxmFuBJqeApQ=w1200-h900-p-k-no",
+    "logo": "http://iimtlifeline.com/images/llhlogo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdpUkO9lvbG1G8kNL8E005bQHUBNp5Kyn7L4OhxUhJKrKFhk9K1nGFDaUAg-KudLXJTGH_YZiucL35hM6_jtKjXrURGgL0nBYrPiwvCOBH_cQ3CmgSgSW1YjrTtxmFuBJqeApQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPclHJ0mMaPO385W0Zt7-AW1iA0_TG0ju9Ub3CN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOIRLL15IGOWHJAbDzeV6h4c0GYEkMgCmp0q4pF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP3a7c1HBy-l25qwRPxdNS_dwupsSv8i_-TkjE1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNE2TdJvwpRhpniKRsa9bu_nzHoRGlh5sW-7-0c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9993578,
+      "lng": 77.7623694,
+      "label": "IIMT Life Line Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jagat-hospital-and-research-centre-meerut",
+    "name": "Jagat Hospital and Research Centre.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jagat Hospital and Research Centre. is a prominent hospital in Meerut, known for structured tertiary care across Kidney Transplant Surgery In Meerut. With public-facing highlights like Google rating 3.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "097191 22280",
+    "alternatePhone": "",
+    "website": "",
+    "address": "326, Garh Rd, Panchsheel Colony, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Panchsheel Colony",
+    "landmark": "Panchsheel Colony",
+    "emergencyContact": "097191 22280",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcFtQzE4Plj6yFQPf6-uet3tagcn_NZcBjFPnNFrW2UfVRpdF2rrxl1AT55hfy5gt8etDRFnGBbKcGjYRNRMLJDOztACDmfGbxQcX31rnzGu6YiyL8IvUDrEX7Xuat-Tg-6ygc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcFtQzE4Plj6yFQPf6-uet3tagcn_NZcBjFPnNFrW2UfVRpdF2rrxl1AT55hfy5gt8etDRFnGBbKcGjYRNRMLJDOztACDmfGbxQcX31rnzGu6YiyL8IvUDrEX7Xuat-Tg-6ygc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.969829,
+      "lng": 77.7234403,
+      "label": "Jagat Hospital and Research Centre.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jaswant-rai-speciality-hospital-meerut",
+    "name": "Jaswant Rai Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, Jaswant Rai Speciality Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Meerut and Speciality Care. Its infrastructure includes Google rating 2.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://jaswantraihospital.in/",
+    "address": "196/1, Mansarovar Colony, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Mansarovar Colony",
+    "landmark": "Meerut",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFk4L7XlwVB511jj6zYXHAc1UCxVYOO-aht088FnG_uz8Htpc3QXxeu5dfoRIu9xUA6C-RVfN697gdhAKeWL6H-9VoQKbRJ9tow3aCaV_5ZOPgFIv0PrB6ecPwFTFEH9bDX7i2S=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFk4L7XlwVB511jj6zYXHAc1UCxVYOO-aht088FnG_uz8Htpc3QXxeu5dfoRIu9xUA6C-RVfN697gdhAKeWL6H-9VoQKbRJ9tow3aCaV_5ZOPgFIv0PrB6ecPwFTFEH9bDX7i2S=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFmJkAoytUqyUfBa2asBSOARUK4WxMWEL0Za60bv9S_4WyAMhHFJz3IYOgt056zWJXDInFE7EixC_fJc77LRpW4Puva6NyaBXBV9YoUbe9UNDn_k-4vjjXGW_hn35xCrrVdsg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9919086,
+      "lng": 77.7228958,
+      "label": "Jaswant Rai Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jeevan-hospital-meerut",
+    "name": "Jeevan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jeevan Hospital has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Gynecologist Surgery In Meerut. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089587 24418",
+    "alternatePhone": "",
+    "website": "",
+    "address": "129/1, Garh Rd, near Bharat Petrol Pump, Mangal Pandey Nagar, Ramgarhi, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Ramgarhi",
+    "landmark": "near Bharat Petrol Pump, Mangal Pandey Nagar, Ramgarhi, Meerut, Uttar Pradesh 250004",
+    "emergencyContact": "089587 24418",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdD5p3lMndcsNSFB-Bp1cBlHf8Tg2esi8dSWYODEUtNbzws0d7SVDnlXfkB7ZWEnoY0PKKd-W50Wik_PVFuw7FHEA4t1RvwEYr5hTEJN5S2G1MTmN_xu6iPTwp_APhZL5SjpcR=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdD5p3lMndcsNSFB-Bp1cBlHf8Tg2esi8dSWYODEUtNbzws0d7SVDnlXfkB7ZWEnoY0PKKd-W50Wik_PVFuw7FHEA4t1RvwEYr5hTEJN5S2G1MTmN_xu6iPTwp_APhZL5SjpcR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9661129,
+      "lng": 77.7369595,
+      "label": "Jeevan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jindal-hospital-ivf-icsi-and-andrology-centre-in-meerut-meerut",
+    "name": "Jindal Hospital - IVF, ICSI & Andrology Centre in Meerut",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jindal Hospital - IVF, ICSI & Andrology Centre in Meerut is a prominent hospital in Meerut, known for structured tertiary care across IVF In Meerut and Fertility Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "0121 400 0444",
+    "alternatePhone": "",
+    "website": "http://www.jindalhospital.org/",
+    "address": "Eves Crossing, Hapur Rd, Mohanpuri, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Mohanpuri",
+    "landmark": "Mohanpuri",
+    "emergencyContact": "0121 400 0444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Meerut",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXUbivOWWzB9PBWgs4cEd00Q6pIJ4fwouaGuRyYhzZ1lx4RH5IYLLDh1OObqztpK75Vko0TD7vr5TM5m2Tx0AqJwmirX8ureqkKNN28ny6HkTY9rNuD9W9FnUNH8HgeiR_ovoqEA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXUbivOWWzB9PBWgs4cEd00Q6pIJ4fwouaGuRyYhzZ1lx4RH5IYLLDh1OObqztpK75Vko0TD7vr5TM5m2Tx0AqJwmirX8ureqkKNN28ny6HkTY9rNuD9W9FnUNH8HgeiR_ovoqEA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO8xI_OR5l1oQ5ki9X7G69dMhCG8mXUaNyZkZif=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPm-oFgk5N6Dx5HcC-3czI14avMV8Y5PPoh3rlC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNC-XhU2Vw4Su4bqkGFNz13Q8ZevmQVtn5QFuta=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMVdDJggGdEZ1U6Qi-XBI0_g7N61wxJWn-fqZvF=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9829159,
+      "lng": 77.7079076,
+      "label": "Jindal Hospital - IVF, ICSI & Andrology Centre in Meerut",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kailash-hospital-and-maternity-home-meerut",
+    "name": "Kailash Hospital & Maternity Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Meerut often choose Kailash Hospital & Maternity Home for its strength in Gynecologist Surgery In Meerut. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "098370 39620",
+    "alternatePhone": "",
+    "website": "http://www.d2dnews.com/business-detail.aspx?i",
+    "address": "Kailash Hospital & Maternity Home, Bus Stand, Baghpat Rd, near New Baghpat, Ananda Colony, Jwala Nagar, Naval Vihar, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Naval Vihar",
+    "landmark": "near New Baghpat, Ananda Colony, Jwala Nagar, Naval Vihar, Meerut, Uttar Pradesh 250002",
+    "emergencyContact": "098370 39620",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHN8O5og24gznAmIbg2apA5f12PkfjuRwKB_zut33TWOn-gxKsobbKinBBSXEaUGntJXArUexXY3WEFLll78z8bQnwYk2-ujiGFwcRFW2ow9PqEXOiwGSoRfQNi0IOb_JwSUPUB=w1200-h900-p-k-no",
+    "logo": "https://d2dnews.com/wp-content/uploads/2026/05/cropped-cropped-d2d-news.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHN8O5og24gznAmIbg2apA5f12PkfjuRwKB_zut33TWOn-gxKsobbKinBBSXEaUGntJXArUexXY3WEFLll78z8bQnwYk2-ujiGFwcRFW2ow9PqEXOiwGSoRfQNi0IOb_JwSUPUB=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9716832,
+      "lng": 77.6793447,
+      "label": "Kailash Hospital & Maternity Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kailashi-super-speciality-hospital-and-blood-bank-meerut-up",
+    "name": "Kailashi Super Speciality Hospital & Blood Bank",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Meerut (UP), Kailashi Super Speciality Hospital & Blood Bank brings together specialists for Liver Transplant Surgery In Meerut and Speciality Care. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut (UP) can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070551 15002",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C-2 Shardhapuri Phase 2 Kankerkheda, Meerut (UP), Uttar Pradesh 250341",
+    "city": "Meerut (UP)",
+    "state": "Uttar Pradesh",
+    "pincode": "250341",
+    "locality": "C-2 Shardhapuri Phase 2 Kankerkheda",
+    "landmark": "Uttar Pradesh 250341",
+    "emergencyContact": "070551 15002",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzVoCCYx9ah0rtyTXh8MRXgMSARzu6EtNTh-T7w7jWzCXhXZOftGFIy8ba53sq8tbRADC71MQPLMbVgkhZB8gNNto5YOmEPYN0rIAsKhnMRaAcsqadroa12ejQWLhyhmx123nA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzVoCCYx9ah0rtyTXh8MRXgMSARzu6EtNTh-T7w7jWzCXhXZOftGFIy8ba53sq8tbRADC71MQPLMbVgkhZB8gNNto5YOmEPYN0rIAsKhnMRaAcsqadroa12ejQWLhyhmx123nA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.0300187,
+      "lng": 77.6713232,
+      "label": "Kailashi Super Speciality Hospital & Blood Bank",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kidni-hospital-meerut",
+    "name": "Kidni Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, Kidni Hospital offers coordinated hospital care with major focus on Kidney Transplant Surgery In Meerut. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XPM4+RHF, Begambagh, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Begambagh",
+    "landmark": "Meerut",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.9845678%2C77.7064149&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.9845678%2C77.7064149&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9845678%2C77.7064149&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9845678%2C77.7064149&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9845678,
+      "lng": 77.7064149,
+      "label": "Kidni Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kmc-hospital-meerut",
+    "name": "KMC Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KMC Hospital has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Orthopedic Surgery In Meerut. With public-facing highlights like Google rating 3.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095573 16311",
+    "alternatePhone": "",
+    "website": "https://kmcmedicare.com/",
+    "address": "187, Baghpat Rd, near Anurag Cinema, Guru Nanak Nagar, Shambhu Nagar, Malyana, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Malyana",
+    "landmark": "near Anurag Cinema, Guru Nanak Nagar, Shambhu Nagar, Malyana, Meerut, Uttar Pradesh 250002",
+    "emergencyContact": "095573 16311",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCeDhpfpjm8-PdWvtsijwbhTD6hN9MIVRtHd9YS29jzXziYO_Rc7Zdv4Gtu0jNtkvu_9gD7_MY90-nGdWYB2dRBgRmDtsTW9ZLjj1x9t1O020csDEnk_hkmJYuQ-vijcF7fgNq=w1200-h900-p-k-no",
+    "logo": "https://kmcmedicare.com/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCeDhpfpjm8-PdWvtsijwbhTD6hN9MIVRtHd9YS29jzXziYO_Rc7Zdv4Gtu0jNtkvu_9gD7_MY90-nGdWYB2dRBgRmDtsTW9ZLjj1x9t1O020csDEnk_hkmJYuQ-vijcF7fgNq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGyQp3wg3oAeGdZ_4M-fYriyEeseiRXFiJ6vhZqBNNrz5nruu-8lAdkzGRyRBIIegru3b4TUvbB1mB5TAvICv0ucRpF39fci0RCETl_g0i93xmVqCqUhUNIbUkUQrG7F8BBAkG4PxtHnFYn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.972817,
+      "lng": 77.6889956,
+      "label": "KMC Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kotpal-hospital-best-gynecology-hospital-in-meerut-meerut",
+    "name": "Kotpal Hospital - Best Gynecology Hospital in Meerut",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, Kotpal Hospital - Best Gynecology Hospital in Meerut offers coordinated hospital care with major focus on Gynecologist Surgery In Meerut. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "099171 02222",
+    "alternatePhone": "",
+    "website": "https://www.kotpalhospital.in/",
+    "address": "CP4, Roorkee Road, Pallav Puram Phase II (NH-58), Meerut, Uttar Pradesh 250110",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250110",
+    "locality": "Pallav Puram Phase II (NH-58)",
+    "landmark": "Pallav Puram Phase II (NH-58)",
+    "emergencyContact": "099171 02222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMPP8FDcQ9VebAjEwJ2H_f2XRA-ni5D4qESP8FtHoTVj43WHr2HbB0l8958UvLtPH4Ka5uDBnBDUu8i3LJRY47PnZXbfrDEyy_99w9liISKnHWN02xOR_zhIWeBZ1wHVsZl6Wv=w1200-h900-p-k-no",
+    "logo": "https://www.kotpalhospital.in/assets/img/logo/kotpal-hospital-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMPP8FDcQ9VebAjEwJ2H_f2XRA-ni5D4qESP8FtHoTVj43WHr2HbB0l8958UvLtPH4Ka5uDBnBDUu8i3LJRY47PnZXbfrDEyy_99w9liISKnHWN02xOR_zhIWeBZ1wHVsZl6Wv=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGviP_8aEIUiWjbRaeWw-XAoxS8AZyv5gnIe-EIskNOhcrVJ-noFWUtNjOxWY2OnRDuRXHz8ZnkyCDHZK50RRQZOVFnuRShICTTLJYXFXdHQO4R=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGviP_8aEIUiWjbRaeWw-XAoxS8AZyv5gnIe-EIskNOhcrVJ-noFWUtNjOxWY2OnRDuRXHz8ZnkyCDHZK50RRQZOVFnuRShICTTLJYXFXdHQO4RVn8FNd2EinzY5Nevqs8AGXbT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHEXxCRu7Jbl-hpM2M6tTVM6Sfzz10cpUoOt3thRvGBUeOF-5baMEZQXWRO1vuNvmA1iv_W64kz4eHjOjZlQRUnU5ojOZH6ChjHtb9d2JgGeo1RfcuicWT941g_N98P50IeW6MT4OUQhFc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.0632516,
+      "lng": 77.7094876,
+      "label": "Kotpal Hospital - Best Gynecology Hospital in Meerut",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lokpriya-hospital-best-hospital-in-meerut-meerut",
+    "name": "Lokpriya Hospital Best Hospital in Meerut",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Meerut, Lokpriya Hospital Best Hospital in Meerut delivers integrated care across Urologist Surgery In Meerut. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "081940 07414",
+    "alternatePhone": "",
+    "website": "https://www.lokpriyahospital.com/",
+    "address": "XP9M+HJP, Near Samrat Heavens, Garh Rd, Mangal Pandey Nagar, Ramgarhi, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Ramgarhi",
+    "landmark": "Near Samrat Heavens, Garh Rd, Mangal Pandey Nagar, Ramgarhi, Meerut, Uttar Pradesh 250001",
+    "emergencyContact": "081940 07414",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnFjeeWXBqc7xETeCO_6oT6zhK7qspSxHmjKjhHQ-JqTwZL8Lwd8Ou8W69CoWXs8xcbx2tUjMJhD1FRw12-hznvRT1JzV2ktXHInMkrPN0t7R-l47DpDAdwhq5ILusyImnISVf=w1200-h900-p-k-no",
+    "logo": "https://www.lokpriyahospital.com/img/Lokpriya-Hospital.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnFjeeWXBqc7xETeCO_6oT6zhK7qspSxHmjKjhHQ-JqTwZL8Lwd8Ou8W69CoWXs8xcbx2tUjMJhD1FRw12-hznvRT1JzV2ktXHInMkrPN0t7R-l47DpDAdwhq5ILusyImnISVf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM2ev8dlmKnU2oUTHA-LKTyspEuf3lBc2jfyjov=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNTxzQMcgcNd91PLZiKfoVnmyaLDOKDihqieAuz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMpQG5MR3aH4V6G0GfFQE9T7E7qLuBO2Tx_401t=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPEYLLMVLv7BIXrgCOnc7o3zSSMLnhLrckMThtw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9687701,
+      "lng": 77.7305075,
+      "label": "Lokpriya Hospital Best Hospital in Meerut",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "m-c-saini-hospital-meerut",
+    "name": "M.C SAINI HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Meerut often choose M.C SAINI HOSPITAL for its strength in Orthopedic Surgery In Meerut. The facility stands out for Google rating 3.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XP5W+QVC, sector-5, jagriti vihar, Jagrati Vihar, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Jagrati Vihar",
+    "landmark": "jagriti vihar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.9594339%2C77.7471469&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.9594339%2C77.7471469&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9594339%2C77.7471469&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9594339%2C77.7471469&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9594339,
+      "lng": 77.7471469,
+      "label": "M.C SAINI HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mahi-mind-centre-meerut",
+    "name": "Mahi Mind Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Meerut, Mahi Mind Centre delivers integrated care across Brain Surgery In Meerut. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "093689 61390",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mahi mind centre, Garh Rd, opposite broadway Hotel, near Bhagyashri hospital, Ramgarhi, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Ramgarhi",
+    "landmark": "near Bhagyashri hospital, Ramgarhi, Meerut, Uttar Pradesh 250004",
+    "emergencyContact": "093689 61390",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmRJpdUKD48F-8KeH7Rn4yL4VBvPiKwxuAa_jUPfJ0nY1ai5vhdyFztDxm0JOGw9pV0HH9oMH-By9LRr15hMMczDOx9ct7USI_TAw9Bwj7AJp9P4hHNRqBGnTbxOH2jrVzFCGNGA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmRJpdUKD48F-8KeH7Rn4yL4VBvPiKwxuAa_jUPfJ0nY1ai5vhdyFztDxm0JOGw9pV0HH9oMH-By9LRr15hMMczDOx9ct7USI_TAw9Bwj7AJp9P4hHNRqBGnTbxOH2jrVzFCGNGA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPNAflJB9tle7sJrAJEFhCcDJT9NicFdBound22=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOqmAUMtUpMA-lI4ms0_4GTb6IQzutaWoJ8ByXr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNsK4s-uMoEIHiP52tVIzbxEn30J16XOjQpjIvz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNVGYzEkdUFdVASkkj5GCBZRpOs8mlVg_U0yqEt=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9668031,
+      "lng": 77.7362554,
+      "label": "Mahi Mind Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mangal-hospital-meerut",
+    "name": "MANGAL HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Meerut, MANGAL HOSPITAL delivers integrated care across Gynecologist Surgery In Meerut. Operational strengths including Google rating 3.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "094571 30279",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HCC-1, SECTOR-4, Khirwa Rd, Kanker Khera, Shradhapuri Phase 1, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Shradhapuri Phase 1",
+    "landmark": "Khirwa Rd",
+    "emergencyContact": "094571 30279",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQ19P545e1h9nrbt0jXWlhRMcqchmXQRhu0Boqo0tyX4zkJnISFjlWEd1t8mPaKV4-C-DeucP1BvrDbhjvTf2CnMqQC93PsByntaFKWc9sgnMK_NVgOZxrKcJnZQlNqyhhE1Hy=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQ19P545e1h9nrbt0jXWlhRMcqchmXQRhu0Boqo0tyX4zkJnISFjlWEd1t8mPaKV4-C-DeucP1BvrDbhjvTf2CnMqQC93PsByntaFKWc9sgnMK_NVgOZxrKcJnZQlNqyhhE1Hy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.0330833,
+      "lng": 77.6810312,
+      "label": "MANGAL HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mangalam-hospital-meerut",
+    "name": "Mangalam Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mangalam Hospital has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Gynecologist Surgery In Meerut. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "090273 40438",
+    "alternatePhone": "",
+    "website": "http://www.mangalamhospital.co.in/",
+    "address": "Baghpat Rd, Beripura, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Beripura",
+    "landmark": "Meerut",
+    "emergencyContact": "090273 40438",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEugLTU_qKTcV1S9bUGw0quu4Xoj972lZWcc_7pIM0gTC5TlZw0bmVgHMz5Bbg3wvoGpDSwST2ikaDR3VuWgl7iwDc86rrLputiOJ9OiliwrghXdSIsnfjydjiSqM8Qw5J5P4H-PQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEugLTU_qKTcV1S9bUGw0quu4Xoj972lZWcc_7pIM0gTC5TlZw0bmVgHMz5Bbg3wvoGpDSwST2ikaDR3VuWgl7iwDc86rrLputiOJ9OiliwrghXdSIsnfjydjiSqM8Qw5J5P4H-PQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGVBseD8KjBWyAim7JOA-Rh2Dub599c4tprhbC4QtQJZSIhefZa0nkoonPksWh_zJT8WoVExsswU31zhYREJOHrh9ee24CsFtia088mM6wonlx38fGWK7tK6q9fur7swQGtxH3QGLEBSk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9718558,
+      "lng": 77.6847911,
+      "label": "Mangalam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medwin-hospital-meerut",
+    "name": "MEDWIN HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Meerut often choose MEDWIN HOSPITAL for its strength in Laparoscopic Surgery In Meerut. With public-facing highlights like Google rating 3.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kalyan Nagar, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Kalyan Nagar",
+    "landmark": "Uttar Pradesh 250002",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEN_B0oGkev6rfAXNkz977Pj1MpFYDMfIaCcI4G0JZJmq9XQ99CMaR3opDK4Um_-VfH8UkBs5G3nYTF60_t174zXG-tkK0mAkE0QUUxAiGfiEtOthCJLamPoHNEw2N4z7JPLQ--1w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEN_B0oGkev6rfAXNkz977Pj1MpFYDMfIaCcI4G0JZJmq9XQ99CMaR3opDK4Um_-VfH8UkBs5G3nYTF60_t174zXG-tkK0mAkE0QUUxAiGfiEtOthCJLamPoHNEw2N4z7JPLQ--1w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9716928,
+      "lng": 77.7170763,
+      "label": "MEDWIN HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "meerut-kidney-hospital-meerut",
+    "name": "Meerut Kidney Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Meerut often choose Meerut Kidney Hospital for its strength in Liver Transplant Surgery In Meerut and Kidney Care. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0121 267 2022",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Surya Nagar, Prabhat Nagar, Meerut, Uttar Pradesh 250003",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250003",
+    "locality": "Prabhat Nagar",
+    "landmark": "Meerut",
+    "emergencyContact": "0121 267 2022",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbrvhUBZEq4MM_R4tZXjfOeEjSxIgNWTRJxVnc8FK611V7ye0Bx5lEbjwiP-8b8gAh234zc2FvxCAj7xSqpzgwJ1G-bv9aD8FG2PbwBb4qSLqI9-hlpl-SMi9KQXoHpq-BPWf9=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbrvhUBZEq4MM_R4tZXjfOeEjSxIgNWTRJxVnc8FK611V7ye0Bx5lEbjwiP-8b8gAh234zc2FvxCAj7xSqpzgwJ1G-bv9aD8FG2PbwBb4qSLqI9-hlpl-SMi9KQXoHpq-BPWf9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrcH_hG_q2hDJwEqm7kfcGshfJLCa1nVJIQaYK7U-8HDw7TEPY2afeDYHlBW7YUSytjPGYHuq7aq0xyBlwHpfisoAaWuqvsed0XrXjeLu67UO8zYiG-fZZw7jSmRrQSfrMO5gSnbHKv=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrcH_hG_q2hDJwEqm7kfcGshfJLCa1nVJIQaYK7U-8HDw7TEPY2afeDYHlBW7YUSytjPGYHuq7aq0xyBlwHpfisoAaWuqvsed0XrXjeLu67UO8zYiG-fZZw7jSmRrQSfrMO5gSnbHKv-M=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9830592,
+      "lng": 77.7309026,
+      "label": "Meerut Kidney Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "meerut-neurology-center-meerut",
+    "name": "Meerut neurology center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Meerut, Meerut neurology center delivers integrated care across Neurosurgeon In Meerut and Neurosciences. Hospital capacity markers such as Google rating 3.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "0121 266 2766",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XPM5+45H, Mohanpuri, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Mohanpuri",
+    "landmark": "Meerut",
+    "emergencyContact": "0121 266 2766",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Meerut",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3kVGmm3cUqlQH1HGqiHrGJGkMii01PgaSxX5w-iviYAvX66EdJAKZvEa5eMDox75JCjCsjA9bJIfaEHDu7f1EkaqDsP-eQbKVGk2RLdXZfkIx2nPVsnaMQDOZ3jdaAQivjsOwdA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3kVGmm3cUqlQH1HGqiHrGJGkMii01PgaSxX5w-iviYAvX66EdJAKZvEa5eMDox75JCjCsjA9bJIfaEHDu7f1EkaqDsP-eQbKVGk2RLdXZfkIx2nPVsnaMQDOZ3jdaAQivjsOwdA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9828228,
+      "lng": 77.7079985,
+      "label": "Meerut neurology center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "meerut-superspeciality-opd-meerut",
+    "name": "Meerut Superspeciality OPD",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Meerut Superspeciality OPD is a prominent hospital in Meerut, known for structured tertiary care across Spine Surgery In Meerut and Speciality Care. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "0121 276 0888",
+    "alternatePhone": "",
+    "website": "",
+    "address": "116/B, Garh Rd, Takshila Colony, Jagrati Vihar, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Jagrati Vihar",
+    "landmark": "Takshila Colony",
+    "emergencyContact": "0121 276 0888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Meerut",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDKdOGqXJq67f8bjdgiJ7T3W6v7bFhZaHHTE3TdCanwN3i96LLmqH5tt9fSEHyn4eeR9njAx-OJPhpR06HbFw4L0DrYA4rf0nN4476pMl2UlrYEUSrJvc708KR6BKPBToo1_0n=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDKdOGqXJq67f8bjdgiJ7T3W6v7bFhZaHHTE3TdCanwN3i96LLmqH5tt9fSEHyn4eeR9njAx-OJPhpR06HbFw4L0DrYA4rf0nN4476pMl2UlrYEUSrJvc708KR6BKPBToo1_0n=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9589343,
+      "lng": 77.7524026,
+      "label": "Meerut Superspeciality OPD",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "metro-hospital-and-heart-institute-meerut-up-best-heart-hospital-in-meerut-uttar-pradesh-meerut",
+    "name": "Metro Hospital & Heart Institute, Meerut UP | Best Heart Hospital in Meerut, Uttar Pradesh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Meerut often choose Metro Hospital & Heart Institute, Meerut UP | Best Heart Hospital in Meerut, Uttar Pradesh for its strength in Liver Transplant Surgery In Meerut and Cardiac Care. Its infrastructure includes Google rating 4.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0121 266 5041",
+    "alternatePhone": "",
+    "website": "https://www.metrohospitals.com/hospital/metro-hospital-and-heart-institute-meerut-up/",
+    "address": "No 47, XPW5+Q8G, G - 5, Boundary Rd, Lal Kurti, Medha Mohala, Jawahar Quarters, Jawahar Nagar, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Jawahar Nagar",
+    "landmark": "G - 5",
+    "emergencyContact": "0121 266 5041",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmhOH7JymxE0_oe8mP6fiDKY_5HBrhEgAOY0GNkN5ussGH5T34gS__SEldfbtS0nTJuT_8jK4BHMcK4FKCnyaBGy_KbMmtDwZGH7X1hpOPu9yMZ-KLwRh36R7TquZFG7Ml1cJgkg=w1200-h900-p-k-no",
+    "logo": "https://metrohospitals.com/wp-content/themes/metro-group-of-hospitals/assets/images/metro-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmhOH7JymxE0_oe8mP6fiDKY_5HBrhEgAOY0GNkN5ussGH5T34gS__SEldfbtS0nTJuT_8jK4BHMcK4FKCnyaBGy_KbMmtDwZGH7X1hpOPu9yMZ-KLwRh36R7TquZFG7Ml1cJgkg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN7qd_w8tQVkKyApQ4vMG7Le81YKFk-BZFxsl16=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcTv2UbBf4TQrxbwzkbn2W24UAB2oC_nPCGmqkMDvaDewnHEuhB8QzvLhEikPAAuC_Kbm1tWS6a6UGQvAQKt7MDcJMpqAYQaUde5gJ1uUk0kWokUKZHFDy-Fx61qEY3z8FKaBpsaWxiBiV=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9962847,
+      "lng": 77.7085658,
+      "label": "Metro Hospital & Heart Institute, Meerut UP | Best Heart Hospital in Meerut, Uttar Pradesh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mimhans-neuro-hospital-meerut",
+    "name": "Mimhans neuro Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mimhans neuro Hospital is a prominent hospital in Meerut, known for structured tertiary care across Spine Surgery In Meerut and Neurosciences. Its infrastructure includes Google rating 2.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "281-283, Mangal Pandey Nagar Rd, opp. CCS University, Sector 1, Ramgarhi, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Ramgarhi",
+    "landmark": "opp. CCS University",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Meerut",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGlxx5g8W7T4qxYLqZ06tUzyGxuvrwNl2sMF-PXepMC2Q-8XL4cdbeLUef4OEZiky0OUydXOpjRdwdgOIQl9K2jwcmHinAQKf4biMoS7GTKUMEufoRwUWyaCQSh96EfyMcLSx_b=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGlxx5g8W7T4qxYLqZ06tUzyGxuvrwNl2sMF-PXepMC2Q-8XL4cdbeLUef4OEZiky0OUydXOpjRdwdgOIQl9K2jwcmHinAQKf4biMoS7GTKUMEufoRwUWyaCQSh96EfyMcLSx_b=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9676695,
+      "lng": 77.7363369,
+      "label": "Mimhans neuro Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mrityunjay-hospital-meerut",
+    "name": "Mrityunjay Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Meerut, Mrityunjay Hospital delivers integrated care across Spine Surgery In Meerut. With public-facing highlights like Google rating 4.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "0121 266 6510",
+    "alternatePhone": "",
+    "website": "",
+    "address": "143, College Road, Chippi Tank Rd, near Loyal Book Depot, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "near Loyal Book Depot",
+    "landmark": "near Loyal Book Depot, Meerut, Uttar Pradesh 250001",
+    "emergencyContact": "0121 266 6510",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFylTr8pqXxpOJRQl-wGhDYZXljvp37n0KpulgNyYgpyY79y_aq9_B4ljybSLyutlXshaQdtvEIOHljL3tPQz4QBpVwkwQEKPWvoUj6tbEpD0zTTynAe-IxgEQuYE9-16TXMlaq=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFylTr8pqXxpOJRQl-wGhDYZXljvp37n0KpulgNyYgpyY79y_aq9_B4ljybSLyutlXshaQdtvEIOHljL3tPQz4QBpVwkwQEKPWvoUj6tbEpD0zTTynAe-IxgEQuYE9-16TXMlaq=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9875536,
+      "lng": 77.706705,
+      "label": "Mrityunjay Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "namah-neurocare-center-meerut",
+    "name": "Namah Neurocare Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Meerut often choose Namah Neurocare Center for its strength in Spine Surgery In Meerut and Neurosciences. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "0121 350 0472",
+    "alternatePhone": "",
+    "website": "http://www.namahneuro.com/",
+    "address": "387/1 Prabhat nagar, near LIC, Saket, Meerut, Uttar Pradesh 250003",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250003",
+    "locality": "Saket",
+    "landmark": "near LIC, Saket, Meerut, Uttar Pradesh 250003",
+    "emergencyContact": "0121 350 0472",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Meerut",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTxywCB7YZdvMVgGsB04I-wAgvHRAOPxSOUNE1apcHwrJQJXRbuQQuAojuxRuaWOvADROgzaeK_BiBudIs78-b9Sv0KMetIizP2xNprS28s95NV_XarisUH75U5K-N1ABWoOc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTxywCB7YZdvMVgGsB04I-wAgvHRAOPxSOUNE1apcHwrJQJXRbuQQuAojuxRuaWOvADROgzaeK_BiBudIs78-b9Sv0KMetIizP2xNprS28s95NV_XarisUH75U5K-N1ABWoOc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9893978,
+      "lng": 77.7288981,
+      "label": "Namah Neurocare Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nova-hospital-and-research-centre-multi-speciality-hospital-in-meerut-meerut",
+    "name": "Nova Hospital & Research Centre – Multi-speciality Hospital in Meerut",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nova Hospital & Research Centre – Multi-speciality Hospital in Meerut has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Neurosurgeon In Meerut and Speciality Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "070550 06662",
+    "alternatePhone": "",
+    "website": "https://www.novahospitalmeerut.com/",
+    "address": "C-12, C-4, Mawana Rd, Sec-1, Rakshapuram, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Rakshapuram",
+    "landmark": "Mawana Rd",
+    "emergencyContact": "070550 06662",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Meerut",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1KG1r3A3hM4hUMTn40wve1z4nEmER8ehFTGx7jK_E2qbSPBJ6Mo-jVW9QBzGNgpMdfoTzOo2BQMLBBio2eSayvxel4w8e_JhvUtGIHA6xW9dIDEcgMVLB-jWbZjy0fMgqcfwpK83HLhfb=w1200-h900-p-k-no",
+    "logo": "https://www.novahospitalmeerut.com/uploads/logos/Nova-Hospital-Meerut-Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1KG1r3A3hM4hUMTn40wve1z4nEmER8ehFTGx7jK_E2qbSPBJ6Mo-jVW9QBzGNgpMdfoTzOo2BQMLBBio2eSayvxel4w8e_JhvUtGIHA6xW9dIDEcgMVLB-jWbZjy0fMgqcfwpK83HLhfb=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMhlsqCXiLg-cmdpv1r4EapYJjzf5ZkbLMXV1Ko=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM8Hc4tPwYEeYZO0WnwMEWvPfLtnQ7i78NfCrWu=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.0108106,
+      "lng": 77.7486231,
+      "label": "Nova Hospital & Research Centre – Multi-speciality Hospital in Meerut",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nutema-hospital-meerut-meerut",
+    "name": "Nutema Hospital, Meerut",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nutema Hospital, Meerut is a prominent hospital in Meerut, known for structured tertiary care across Kidney Transplant Surgery In Meerut. With public-facing highlights like Google rating 3.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "096756 00666",
+    "alternatePhone": "",
+    "website": "https://www.nutemahospital.com/",
+    "address": "Garh Rd, opp. LLRM Medical College, near Mansa Devi Road, Sector 6, Jagrati Vihar, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Jagrati Vihar",
+    "landmark": "near Mansa Devi Road, Sector 6, Jagrati Vihar, Meerut, Uttar Pradesh 250002",
+    "emergencyContact": "096756 00666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpsYONrWhvrUly2-OZLDkkQp2Dfx8lM4eUG8ryRkxdAWrZQ4KViKl0zNhodGy2ZzXwVGpm5IxdylIwUTo0qgGDB9w4YOpKUHc8F39ULDq08yrouq1GNlluwFkFWr-_b8YgiIA=w1200-h900-p-k-no",
+    "logo": "https://www.nutemahospital.com/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpsYONrWhvrUly2-OZLDkkQp2Dfx8lM4eUG8ryRkxdAWrZQ4KViKl0zNhodGy2ZzXwVGpm5IxdylIwUTo0qgGDB9w4YOpKUHc8F39ULDq08yrouq1GNlluwFkFWr-_b8YgiIA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGA1hldHuDRxszeboveBtDGY8arT4V89FUFyooekLKX6SwA_WhW9NXAoDb-aF0DQaqbCGi4dWBYzcIeT9FPNDhbMpzgBoeJpDxRrfR_IfVEOWJTKLXm3DdNO6A9we663pmEI13G=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9576037,
+      "lng": 77.7517472,
+      "label": "Nutema Hospital, Meerut",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "om-trauma-and-neuro-hospital-meerut",
+    "name": "Om Trauma & Neuro Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, Om Trauma & Neuro Hospital offers coordinated hospital care with major focus on Neurosurgeon In Meerut and Neurosciences. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "0121 430 3836",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gate No.1, Opp Medical College, Garh Road, Garh Rd, opp. Medical College, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "opp. Medical College",
+    "landmark": "Garh Road",
+    "emergencyContact": "0121 430 3836",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Meerut",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHP-t5CAJfg-2IFyYr8PL8AIvQK61qDwZT24Rz5POUMldXSwWyXvOhQqehhLn1iTlnurRZb8qS352M0Yaf1W3-404-Vdlmld_6fdmeZOtFesaN2wzEKc6_7zdPz332PZEYbJI9TtA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHP-t5CAJfg-2IFyYr8PL8AIvQK61qDwZT24Rz5POUMldXSwWyXvOhQqehhLn1iTlnurRZb8qS352M0Yaf1W3-404-Vdlmld_6fdmeZOtFesaN2wzEKc6_7zdPz332PZEYbJI9TtA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9592649,
+      "lng": 77.7488423,
+      "label": "Om Trauma & Neuro Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "optima-hospital-and-research-institute-meerut",
+    "name": "Optima Hospital and Research Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Optima Hospital and Research Institute has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Orthopedic Surgery In Meerut. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://optimahospitalmeerut.com/",
+    "address": "optima Square, BC-09, Hapur Rd, near Bijli Bamba Bypass Road, B Block, Lohia Nagar, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Lohia Nagar",
+    "landmark": "near Bijli Bamba Bypass Road, B Block, Lohia Nagar, Meerut, Uttar Pradesh 250002",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVraktxo0KqGv9imQ1rf74wrrYwdToOOshno8HzipcduxWqesxs9Z8eqwWf1ZYXToRs_NCcWqdPZSicUw-16cw1XozYolZq0yF--rFFunCGzwT5yiSXb8qEQsHFKJ3PVOXvSH-5w=w1200-h900-p-k-no",
+    "logo": "https://optimahospitalmeerut.com/wp-content/uploads/2024/05/cropped-cropped-WhatsApp-Image-2023-05-04-at-10.56.16-PM-removebg-preview-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVraktxo0KqGv9imQ1rf74wrrYwdToOOshno8HzipcduxWqesxs9Z8eqwWf1ZYXToRs_NCcWqdPZSicUw-16cw1XozYolZq0yF--rFFunCGzwT5yiSXb8qEQsHFKJ3PVOXvSH-5w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9356071,
+      "lng": 77.7282498,
+      "label": "Optima Hospital and Research Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "piles-care-clinic-meerut",
+    "name": "Piles care clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Piles care clinic has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Liver Transplant Surgery In Meerut. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XPM4+RHF, Begambagh, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Begambagh",
+    "landmark": "Meerut",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.9845678%2C77.7064149&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.9845678%2C77.7064149&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9845678%2C77.7064149&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9845678%2C77.7064149&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9845678,
+      "lng": 77.7064149,
+      "label": "Piles care clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "prem-hospital-meerut",
+    "name": "Prem Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Prem Hospital has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Orthopedic Surgery In Meerut. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "070807 08010",
+    "alternatePhone": "",
+    "website": "http://www.premhospitals.com/",
+    "address": "Prem Hospital, Bijli Bamba Bypass Rd, near shopprix mall, next to Indian oil petrol pump, Surya Palace Colony, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Surya Palace Colony",
+    "landmark": "near shopprix mall, next to Indian oil petrol pump, Surya Palace Colony, Meerut, Uttar Pradesh 250002",
+    "emergencyContact": "070807 08010",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFI2I7xR_HAZArSrvy7C8_pE1Fw7ClYgSuJ_vqtik5n4XUFKdwHeRaEDHYyrpD00HnKg43St5u-M26Z5bSNiTw0kaTku4E-JeP1yO9k6JgP3N6x7YMHynVrr1CyKA_WYa9kVLqcLkFYwqMG=w1200-h900-p-k-no",
+    "logo": "https://premhospitals.com/wp-content/uploads/2024/11/Prem-Logo-Web.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFI2I7xR_HAZArSrvy7C8_pE1Fw7ClYgSuJ_vqtik5n4XUFKdwHeRaEDHYyrpD00HnKg43St5u-M26Z5bSNiTw0kaTku4E-JeP1yO9k6JgP3N6x7YMHynVrr1CyKA_WYa9kVLqcLkFYwqMG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJ494d7rnQkgXX2HIjQ4LiTfj2fcgt0U93JKc3sJraDTJwbnwDMcjGY4sha-2-QBX8EJicXcNDLfQf4eaQTdcDV5ouRRmg59q8Akqijn0uo7RbiXqrKaM8_1BN-OYWyRjbkex83fwRkNeX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1KnuM2ySI8KxgJD3AgNePhTC-HABqWDayjzjHwcw-GGCa7dTnMYk7w8xAva0dFGm6xQ_u8xS7NHeAfZX-UtMKhHeVypO0tuB0l6Vn7ttcRNaDjv8TofC1yUrOxTiDC1rzqEa2IMnbaQk7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9440393,
+      "lng": 77.6797801,
+      "label": "Prem Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pyare-lal-sharma-district-hospital-meerut",
+    "name": "Pyare Lal Sharma District Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pyare Lal Sharma District Hospital has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Orthopedic Surgery In Meerut. Its infrastructure includes Google rating 3.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "094106 09434",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pyre Lal Hospital, 136, Jali Kothi, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Jali Kothi",
+    "landmark": "Jali Kothi",
+    "emergencyContact": "094106 09434",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUUBkXtYrBaS71xfilLapgE9ft1GWCqbxPp5nAyaihl0bOyYgvBRGFJRKIdsoYNXvEAykeIJwmnrT2tNnEp4bUYiGI8W63x1oOXRM2-ejB-6bkr1X2WZ_WprhFZCOhtAXI8gP2yw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUUBkXtYrBaS71xfilLapgE9ft1GWCqbxPp5nAyaihl0bOyYgvBRGFJRKIdsoYNXvEAykeIJwmnrT2tNnEp4bUYiGI8W63x1oOXRM2-ejB-6bkr1X2WZ_WprhFZCOhtAXI8gP2yw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3uQYQMsIjqFGG68nYXT_IG0s8aoZ-USXj_5jZ-wT5QD9w_5DhNyEJeez5TtGX-LmHp2OvRow1eAfuFSl40PajfEZbig3SU2ThVxFu8-ysYPX2tZ3_H8MQXs_I9zg5FplWofCw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEYNOW8buTHY6GL543-r_NHOH5V5M1qHpvaI8lJClFLowK9o55mgBZ83QkvtF1dhxzYwXrtclEMu1XjvXdeLpmRcqF77sTxz8-HsWbxdX9hUL9OVUuZM8gSnrIpdAx-Be03r=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEYNOW8buTHY6GL543-r_NHOH5V5M1qHpvaI8lJClFLowK9o55mgBZ83QkvtF1dhxzYwXrtclEMu1XjvXdeLpmRcqF77sTxz8-HsWbxdX9hUL9OVUuZM8gSnrIpdAx-Be03rNj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFBVauuwc_5eHzvqNRkvNCIDscKYTLGk4zE-hQ3LBKHlLZRVfXvUe-4a2TduPpWCm04OoNexFK1oQKjgQ5ou8iVrD7WKfH2n6XXBnBVkujgNZNE0Ofqv59TfhEZuAGSOYlItJdxA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9816635,
+      "lng": 77.69984,
+      "label": "Pyare Lal Sharma District Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sangeeta-hospital-meerut",
+    "name": "Sangeeta Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Meerut often choose Sangeeta Hospital for its strength in Orthopedic Surgery In Meerut. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "011 6926 9888",
+    "alternatePhone": "",
+    "website": "https://sangeetamedicalcentre.com/",
+    "address": "A, 14, Mawana Rd, Radha Garden, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Ganga Nagar",
+    "landmark": "Mawana Rd",
+    "emergencyContact": "011 6926 9888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8kI0_IJJoluaLgysf29ZxAQoQuilcWL-SrFzzt1mVvwja1gK0_cMylQK_rnssM7-ePAZNGYM5hjZcUp1V5QIwPH8ce4jvKHN1ezGBzARlfv4GjHb8kjmf9NiPFPaOItFLqazlis-qEbCV=w1200-h900-p-k-no",
+    "logo": "https://www.sangeetamedicalcentre.com/white-stamp-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8kI0_IJJoluaLgysf29ZxAQoQuilcWL-SrFzzt1mVvwja1gK0_cMylQK_rnssM7-ePAZNGYM5hjZcUp1V5QIwPH8ce4jvKHN1ezGBzARlfv4GjHb8kjmf9NiPFPaOItFLqazlis-qEbCV=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.005381,
+      "lng": 77.7433971,
+      "label": "Sangeeta Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "santosh-hospital-heart-center-in-meerut-multi-superspeciality-in-meerut-meerut",
+    "name": "Santosh Hospital - Heart Center in Meerut | Multi Superspeciality in Meerut",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Santosh Hospital - Heart Center in Meerut | Multi Superspeciality in Meerut has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Cardiac Surgery In Meerut, Cardiac Care, and Speciality Care. Operational strengths including Google rating 4.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "0121 270 9002",
+    "alternatePhone": "",
+    "website": "",
+    "address": "L629, L630, Hapur Rd, L Block, Shastri Nagar, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Shastri Nagar",
+    "landmark": "Hapur Rd",
+    "emergencyContact": "0121 270 9002",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Meerut",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHF47J6rJMnsCjTvTbyDPgAIOeEJo-s2TrM0rFq0hVnDIa_Lh9a1xgaqc7xdLzIy21e_jcV83ppG2-tVRyuW0OxHU1bfFgUvsWZw-wZz_QMLQk4-SX12xPrlPv3K5VEmfwkpE_k=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHF47J6rJMnsCjTvTbyDPgAIOeEJo-s2TrM0rFq0hVnDIa_Lh9a1xgaqc7xdLzIy21e_jcV83ppG2-tVRyuW0OxHU1bfFgUvsWZw-wZz_QMLQk4-SX12xPrlPv3K5VEmfwkpE_k=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFt_EgyPRb_MCJzBTnbuBKJKQX_dbh5CbNkiv5JBEFWODFWvZNIXIxhFNt-50c_9HDEV1sJH9tEDEAWeLW4lEuoAEgKC5QAnl2bxEarM3EwXgpHAiQ3MxD7oCfgBVKlRECgmts9ow=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9464061,
+      "lng": 77.7237026,
+      "label": "Santosh Hospital - Heart Center in Meerut | Multi Superspeciality in Meerut",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "seeds-of-innocens-ivf-centre-best-ivf-centre-in-meerut-fertility-clinic-meerut",
+    "name": "Seeds of Innocens IVF Centre - Best IVF Centre in Meerut | Fertility Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Seeds of Innocens IVF Centre - Best IVF Centre in Meerut | Fertility Clinic is a prominent hospital in Meerut, known for structured tertiary care across IVF In Meerut and Fertility Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "098103 50512",
+    "alternatePhone": "",
+    "website": "https://www.seedsofinnocens.com/uttar-pradesh/best-ivf-centre-in-meerut/",
+    "address": "building 303/305, 2nd floor, Mangal Pandey Nagar, Ramgarhi, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Ramgarhi",
+    "landmark": "Mangal Pandey Nagar",
+    "emergencyContact": "098103 50512",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Meerut",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgXEksCncXNpNngM1G7EFP_QwTwc-ZQEtjCLgL8VAYD4m7wWJ3zUjbNbh86RcIM4s-k8kBolsoJHOkU19pJWP5ppbwRQYdUCaVvkRq_b7cYgoYTqXoDCg9Kprtr1hBXyPTKj2P_K2fJ1Qs=w1200-h900-p-k-no",
+    "logo": "https://www.seedsofinnocens.com/assets/img/Header Logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgXEksCncXNpNngM1G7EFP_QwTwc-ZQEtjCLgL8VAYD4m7wWJ3zUjbNbh86RcIM4s-k8kBolsoJHOkU19pJWP5ppbwRQYdUCaVvkRq_b7cYgoYTqXoDCg9Kprtr1hBXyPTKj2P_K2fJ1Qs=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNo5-uHV9OqXyHhbvCLzmrPxcoKzydgUIU3h-G5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPYuqFvk4nPlgYYbV0BjKV9oXGxyWjzDyZTfok7=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPUXyAf2EPQPkjl5VvItGMQia_pDU8LW3iDeH2t=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPFOPJQuN2hOuknvKhKsL3lErzfZQFK3HoBLrd8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9682864,
+      "lng": 77.7371245,
+      "label": "Seeds of Innocens IVF Centre - Best IVF Centre in Meerut | Fertility Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shoram-hospital-meerut",
+    "name": "Shoram Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Meerut, Shoram Hospital delivers integrated care across Gynecologist Surgery In Meerut. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "090121 54249",
+    "alternatePhone": "",
+    "website": "https://shoramhospital.com/",
+    "address": "HC-6, near Disha Public School, HP-Pocket, H-Block, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Ganga Nagar",
+    "landmark": "near Disha Public School, HP-Pocket, H-Block, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "emergencyContact": "090121 54249",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOS3D3Rvmh-XKnFhndcDYbdD1by55E50FRe97BXCN_I8GyNKsXTgIMIu4H-jibt67G-UOUvkwCZLAH3D2AZn5p0I3FBVknA-AyM1paCxAQZ8UsWVtbJ4NYNTHaWm34--sUnt_njw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOS3D3Rvmh-XKnFhndcDYbdD1by55E50FRe97BXCN_I8GyNKsXTgIMIu4H-jibt67G-UOUvkwCZLAH3D2AZn5p0I3FBVknA-AyM1paCxAQZ8UsWVtbJ4NYNTHaWm34--sUnt_njw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.004799,
+      "lng": 77.7551041,
+      "label": "Shoram Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-ji-hospital-meerut",
+    "name": "Shree Ji Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Ji Hospital has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Gynecologist Surgery In Meerut. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "090586 51117",
+    "alternatePhone": "",
+    "website": "",
+    "address": "K-6, near Royal Enfield Showroom, Pallavpuram Phase 2, Modipuram, Meerut, Uttar Pradesh 250110",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250110",
+    "locality": "Modipuram",
+    "landmark": "near Royal Enfield Showroom, Pallavpuram Phase 2, Modipuram, Meerut, Uttar Pradesh 250110",
+    "emergencyContact": "090586 51117",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEn5GXeXd0-fhzXeqiSihaZvInVO_x53GPjkoX2vvPwsZIEKe-ElZQ6n7LkLSp5-EToyBbCvy4rmL-Nk4CtM2ySmIbxFDfimXbBs8rQdMMmz9vpZNlFBB5_l2bmx4dD9u7xGeslyQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEn5GXeXd0-fhzXeqiSihaZvInVO_x53GPjkoX2vvPwsZIEKe-ElZQ6n7LkLSp5-EToyBbCvy4rmL-Nk4CtM2ySmIbxFDfimXbBs8rQdMMmz9vpZNlFBB5_l2bmx4dD9u7xGeslyQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNm2m_fZf3jamlko252FCfgf5SsfQe23ao4UZIw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.0602585,
+      "lng": 77.70884,
+      "label": "Shree Ji Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shubham-hospital-and-child-care-center-meerut",
+    "name": "SHUBHAM HOSPITAL AND CHILD CARE CENTER",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SHUBHAM HOSPITAL AND CHILD CARE CENTER has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Gynecologist Surgery In Meerut and Women and Child Care. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "092592 80612",
+    "alternatePhone": "",
+    "website": "http://www.shubhamhospitalmeerut.com/",
+    "address": "Hanuman Chowk, 305, Circular Rd, near Sadar, Bombay Bazar, Meerut Cantt, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Meerut Cantt",
+    "landmark": "near Sadar, Bombay Bazar, Meerut Cantt, Meerut, Uttar Pradesh 250001",
+    "emergencyContact": "092592 80612",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFETFcROMSH266IVOMK3TyQHMs42SHvspC3TXPhxYwzo6aj-e1Xm711Ep7moF-KhQkVQkAErg-p52WrlcqbISiT82r3o35c69j_NYlrHd06I_Jf6L9A6sUaAqoWZ2OV4dAhXAbd=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFETFcROMSH266IVOMK3TyQHMs42SHvspC3TXPhxYwzo6aj-e1Xm711Ep7moF-KhQkVQkAErg-p52WrlcqbISiT82r3o35c69j_NYlrHd06I_Jf6L9A6sUaAqoWZ2OV4dAhXAbd=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9988528,
+      "lng": 77.69613,
+      "label": "SHUBHAM HOSPITAL AND CHILD CARE CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "siddhi-vinayaka-medical-centre-meerut",
+    "name": "Siddhi Vinayaka Medical Centre",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Meerut, Siddhi Vinayaka Medical Centre delivers integrated care across Neurosurgeon In Meerut. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "092580 63686",
+    "alternatePhone": "",
+    "website": "https://www.siddhivinayaka.org/",
+    "address": "Gate No. 1, Opp. Medical College, Garh Rd, near H.P. Petrol Pump, Jagrati Vihar, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Jagrati Vihar",
+    "landmark": "near H.P. Petrol Pump, Jagrati Vihar, Meerut, Uttar Pradesh 250004",
+    "emergencyContact": "092580 63686",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2TwhP2hjhWVFXJdGHro9Ys-pY_WI2v4k8qTPrHT0I9tEBlAQKBYn_Wb_N0CtciVdRhj-sdejQeBcdz9qnrfXu6He1jU5Pkny-mYTHVG3xwbbEacuFLWzLUCj3_w3He5muqO4lfA=w1200-h900-p-k-no",
+    "logo": "https://www.siddhivinayaka.org/wp-content/uploads/2020/11/logo2.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2TwhP2hjhWVFXJdGHro9Ys-pY_WI2v4k8qTPrHT0I9tEBlAQKBYn_Wb_N0CtciVdRhj-sdejQeBcdz9qnrfXu6He1jU5Pkny-mYTHVG3xwbbEacuFLWzLUCj3_w3He5muqO4lfA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9592084,
+      "lng": 77.7484111,
+      "label": "Siddhi Vinayaka Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sirohi-hospital-best-maternity-hospital-in-meerut-trauma-center-in-meerut-meerut",
+    "name": "Sirohi Hospital-Best Maternity Hospital in Meerut/Trauma Center in Meerut",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sirohi Hospital-Best Maternity Hospital in Meerut/Trauma Center in Meerut has built a strong reputation in Meerut for multidisciplinary treatment pathways covering Orthopedic Surgery In Meerut. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "080579 07150",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XMC7+9F4, Baghpat Rd, Multan Nagar, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Multan Nagar",
+    "landmark": "Multan Nagar",
+    "emergencyContact": "080579 07150",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcLqRRqWwDnvqGpiUfKIYy_usr0xrojtUxVPbwJ7aAjg_quy_KyOHtQ6_4-tQWdkG_iKxh9UQX5LVR1Wn8AqlqNh0HkTTO3WpI3gMNr5evIAitp_WGSOBGTG5bDzHt2ZczE7a4wA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcLqRRqWwDnvqGpiUfKIYy_usr0xrojtUxVPbwJ7aAjg_quy_KyOHtQ6_4-tQWdkG_iKxh9UQX5LVR1Wn8AqlqNh0HkTTO3WpI3gMNr5evIAitp_WGSOBGTG5bDzHt2ZczE7a4wA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9711067,
+      "lng": 77.6633961,
+      "label": "Sirohi Hospital-Best Maternity Hospital in Meerut/Trauma Center in Meerut",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sm-hospital-meerut",
+    "name": "SM Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Meerut, SM Hospital delivers integrated care across Orthopedic Surgery In Meerut. With public-facing highlights like Google rating 4.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "086505 54433",
+    "alternatePhone": "",
+    "website": "http://www.smhospitalivf.com/",
+    "address": "B Block A, 15, Garh Rd, B Block, Sector 1, Shastri Nagar, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Shastri Nagar",
+    "landmark": "Garh Rd",
+    "emergencyContact": "086505 54433",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOOgfOA7h45lX3Plq2WdBLcNySGwp3gY1lxRsXWJXGu9BCotA1TILDHFqeplbZfBMoJWpOYqR00HinAFChJsOb-5ivSMSyUsQHoTqPHg5m94hdxoSr_EI9XQvy5RTgTR86AvyvpM23nGw=w1200-h900-p-k-no",
+    "logo": "http://www.smhospitalivf.com/image/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOOgfOA7h45lX3Plq2WdBLcNySGwp3gY1lxRsXWJXGu9BCotA1TILDHFqeplbZfBMoJWpOYqR00HinAFChJsOb-5ivSMSyUsQHoTqPHg5m94hdxoSr_EI9XQvy5RTgTR86AvyvpM23nGw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMbd1A8W8vNmwYpveVuB0oCoBFDsnNGtukKti8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOWwUg1s8ehnfVCK8xWvpj41UC0dF_Pi8ymT3Y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOJ0fcg78lJ9H_jnd_8YyJeY9bzQyJFXWPxCGs=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM9sVeU6kJ234ySynU2GnwCYi-gHF_4v7Biyg0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9621095,
+      "lng": 77.7438957,
+      "label": "SM Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "star-hospital-meerut",
+    "name": "Star Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Meerut often choose Star Hospital for its strength in Liver Transplant Surgery In Meerut. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098378 90905",
+    "alternatePhone": "",
+    "website": "http://laparoscopist.com/dr.medhavi_tomar_full_profile.html",
+    "address": "M-2, Jawahar Quarters, Begum Bridge, to, Kutchery Road, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Kutchery Road",
+    "landmark": "Begum Bridge",
+    "emergencyContact": "098378 90905",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGc6ZiUG2sKUUAfp70OCZhXfJq8zgb18EctKTLHhaOvnQtXu2nlMLq0Vpi6KdSHc8bhNLzyCGmoN3g57zi9kwmUNSgHq3KwZjCZW259pDve9AkB7OpvMq2mXN1-W8hkt1f75iYUTA=w1200-h900-p-k-no",
+    "logo": "https://laparoscopist.com/wp-content/uploads/2025/05/Laparoscopic-Surgeons-Logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGc6ZiUG2sKUUAfp70OCZhXfJq8zgb18EctKTLHhaOvnQtXu2nlMLq0Vpi6KdSHc8bhNLzyCGmoN3g57zi9kwmUNSgHq3KwZjCZW259pDve9AkB7OpvMq2mXN1-W8hkt1f75iYUTA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9950776,
+      "lng": 77.7081247,
+      "label": "Star Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "star-hospital-and-laproscopic-surgical-center-meerut",
+    "name": "STAR HOSPITAL & LAPROSCOPIC SURGICAL CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, STAR HOSPITAL & LAPROSCOPIC SURGICAL CENTER offers coordinated hospital care with major focus on Liver Transplant Surgery In Meerut. The facility stands out for Google rating 3.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Meerut.",
+    "email": "",
+    "phone": "075008 85500",
+    "alternatePhone": "",
+    "website": "http://laparoscopist.com/",
+    "address": "M, 2, Jawahar Quarters, Begum Bridge, to, Kutchery Road, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Kutchery Road",
+    "landmark": "Jawahar Quarters",
+    "emergencyContact": "075008 85500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.9951389%2C77.7083604&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://laparoscopist.com/wp-content/uploads/2025/05/Laparoscopic-Surgeons-Logo.webp",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.9951389%2C77.7083604&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9951389%2C77.7083604&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9951389%2C77.7083604&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9951389,
+      "lng": 77.7083604,
+      "label": "STAR HOSPITAL & LAPROSCOPIC SURGICAL CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tirupati-liver-and-gastro-center-meerut",
+    "name": "Tirupati Liver and Gastro center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Meerut often choose Tirupati Liver and Gastro center for its strength in Liver Transplant Surgery In Meerut, Liver Care, and Gastroenterology. Hospital capacity markers such as Google rating 3.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Block D, Garh Rd, near Ram Purna Gas, Panchsheel Colony, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Panchsheel Colony",
+    "landmark": "near Ram Purna Gas, Panchsheel Colony, Meerut, Uttar Pradesh 250001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG5bv8ENov7r8KXTo4GXZr2a45HMf10fNAyiHM52zt4un8qYyBTsN0Bf2m-GLF54CJ40P0oDPS5T2qIsFHJBmDC0eJLwGFQ7OUDccEqJiGuJfa-bLwA155Jm9bzLL6wXo7aZMtSvw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG5bv8ENov7r8KXTo4GXZr2a45HMf10fNAyiHM52zt4un8qYyBTsN0Bf2m-GLF54CJ40P0oDPS5T2qIsFHJBmDC0eJLwGFQ7OUDccEqJiGuJfa-bLwA155Jm9bzLL6wXo7aZMtSvw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9688478,
+      "lng": 77.7301865,
+      "label": "Tirupati Liver and Gastro center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "uphar-hospital-meerut",
+    "name": "Uphar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Meerut often choose Uphar Hospital for its strength in Orthopedic Surgery In Meerut. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081266 97665",
+    "alternatePhone": "",
+    "website": "http://www.upharhospitals.in/",
+    "address": "Uphar hospital, Meerut- Pauri Higway, Mawana Rd, near Panchwati Colony, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "near Panchwati Colony",
+    "landmark": "near Panchwati Colony, Meerut, Uttar Pradesh 250001",
+    "emergencyContact": "081266 97665",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEotlxSO-1L2qBguEZWGmDCjN8wRYP3HnojhtXjZHBI1pKU0bON6Jx_UUxh0plHiXP3yhHvJm5NiA--IYU0Vlh6wN0pwoLWbnzGzFRvC7w0U9gSXTP2TMEJhz25sWXnhSnSeT94msMl3IkV=w1200-h900-p-k-no",
+    "logo": "https://upharhospitals.in/wp-content/uploads/2026/02/2026-02-13.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEotlxSO-1L2qBguEZWGmDCjN8wRYP3HnojhtXjZHBI1pKU0bON6Jx_UUxh0plHiXP3yhHvJm5NiA--IYU0Vlh6wN0pwoLWbnzGzFRvC7w0U9gSXTP2TMEJhz25sWXnhSnSeT94msMl3IkV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOX2tS3SoFE7rqNeYNnqkgaO6jAzWonM5U9t2H9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN69NgnMkt7EhZNuyhbkhuS_ZIe-cq9L5v_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN69NgnMkt7EhZNuyhbkhuS_ZIe-cq9L5v_zRWu=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.0127483,
+      "lng": 77.7540087,
+      "label": "Uphar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "uro-and-gynae-clinic-meerut",
+    "name": "Uro & Gynae Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Meerut, Uro & Gynae Clinic brings together specialists for Gynecologist Surgery In Meerut. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Uro & Gynae Clinic, Garh Rd, near Om Trauma & Neuro Hospital, sector-5, jagriti vihar, Jagrati Vihar, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Jagrati Vihar",
+    "landmark": "near Om Trauma & Neuro Hospital, sector-5, jagriti vihar, Jagrati Vihar, Meerut, Uttar Pradesh 250004",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.9591543%2C77.7494683&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.9591543%2C77.7494683&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9591543%2C77.7494683&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9591543%2C77.7494683&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9591543,
+      "lng": 77.7494683,
+      "label": "Uro & Gynae Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vedant-hospital-meerut-meerut",
+    "name": "Vedant Hospital Meerut",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vedant Hospital Meerut is a prominent hospital in Meerut, known for structured tertiary care across Cancer Surgery In Meerut. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "090272 18113",
+    "alternatePhone": "",
+    "website": "http://www.d2dnews.com/business-detail.aspx?i",
+    "address": "Near Tejgarhi, B-11, Shastri Nagar, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Shastri Nagar",
+    "landmark": "Shastri Nagar",
+    "emergencyContact": "090272 18113",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHoi1G8Zgd95nBZwFDVop1uV2OXsr41veCbf59ekY1xoEgxkld9fK2P2p1dqbks52zdOjRkV-KYHx1t7YSusOBSAqeg93bk-yEgcS9xhiR-bsHzzlTV6KpTRmlmsngZx6QNvIdSDQ=w1200-h900-p-k-no",
+    "logo": "https://d2dnews.com/wp-content/uploads/2026/05/cropped-cropped-d2d-news.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHoi1G8Zgd95nBZwFDVop1uV2OXsr41veCbf59ekY1xoEgxkld9fK2P2p1dqbks52zdOjRkV-KYHx1t7YSusOBSAqeg93bk-yEgcS9xhiR-bsHzzlTV6KpTRmlmsngZx6QNvIdSDQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9619181,
+      "lng": 77.7406008,
+      "label": "Vedant Hospital Meerut",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vimal-shree-hospital-meerut",
+    "name": "Vimal Shree Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Meerut, Vimal Shree Hospital brings together specialists for Gynecologist Surgery In Meerut. Its infrastructure includes Google rating 3.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Meerut.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "11, Railway Road, Prempuri, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Prempuri",
+    "landmark": "Prempuri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrQctrMJhAEm-bNLZwwelvwSe3pNhX5zbikuybnsTegsLvqOGLRZTf4LBZoKG7HmxocsILB8GqrApDGyfsd6olmBvkWQJSg-jXgk6ynNF8nijzFf1eya_3MNsTrJZ-oriR4TbsydqHwhvs=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrQctrMJhAEm-bNLZwwelvwSe3pNhX5zbikuybnsTegsLvqOGLRZTf4LBZoKG7HmxocsILB8GqrApDGyfsd6olmBvkWQJSg-jXgk6ynNF8nijzFf1eya_3MNsTrJZ-oriR4TbsydqHwhvs=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9795257,
+      "lng": 77.6904086,
+      "label": "Vimal Shree Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "yashlok-hospital-yashlok-gynae-surgery-and-wellness-meerut",
+    "name": "Yashlok Hospital - Yashlok Gynae Surgery & Wellness",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Meerut, Yashlok Hospital - Yashlok Gynae Surgery & Wellness offers coordinated hospital care with major focus on Laparoscopic Surgery In Meerut. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Meerut.",
+    "email": "",
+    "phone": "063974 44742",
+    "alternatePhone": "",
+    "website": "https://www.yashlokhospitalmeerut.com/",
+    "address": "Eastern Kutchery Rd, near HP petrol pump, Mohanpuri, Meerut, Uttar Pradesh 250001",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250001",
+    "locality": "Mohanpuri",
+    "landmark": "near HP petrol pump, Mohanpuri, Meerut, Uttar Pradesh 250001",
+    "emergencyContact": "063974 44742",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.9866298%2C77.7144162&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://www.yashlokhospitalmeerut.com/images/logo.svg",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.9866298%2C77.7144162&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9866298%2C77.7144162&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.9866298%2C77.7144162&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9866298,
+      "lng": 77.7144162,
+      "label": "Yashlok Hospital - Yashlok Gynae Surgery & Wellness",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "yug-hospital-meerut",
+    "name": "Yug Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Meerut, Yug Hospital brings together specialists for Orthopedic Surgery In Meerut. Its infrastructure includes Google rating 3.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XPF7+5RW, Hapur Cir, Gandhi Nagar, Meerut, Uttar Pradesh 250002",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250002",
+    "locality": "Gandhi Nagar",
+    "landmark": "Gandhi Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmiZZWqy3DXeezOxcYPRTj5pb7KMIUqGrA-8HUySRvaCFO_aI3Q8AMVJ2Pen4N8zZiblz8EwrQNCWzaWyfjhDmYuWKj4XIs3qjihrFgNHnnGC-K8Ck6ClrH0CyX1L4Rz-Yerk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmiZZWqy3DXeezOxcYPRTj5pb7KMIUqGrA-8HUySRvaCFO_aI3Q8AMVJ2Pen4N8zZiblz8EwrQNCWzaWyfjhDmYuWKj4XIs3qjihrFgNHnnGC-K8Ck6ClrH0CyX1L4Rz-Yerk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmiZZWqy3DXeezOxcYPRTj5pb7KMIUqGrA-8HUySRvaCFO_aI3Q8AMVJ2Pen4N8zZiblz8EwrQNCWzaWyfjhDmYuWKj4XIs3qjihrFgNHnnGC-K8Ck6ClrH0CyX1L4Rz-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9729814,
+      "lng": 77.7145845,
+      "label": "Yug Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "meerut",
+    "name": "डायबिटीज थायराइड हारमन डॉ मनमोहन शर्मा",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Meerut, डायबिटीज थायराइड हारमन डॉ मनमोहन शर्मा brings together specialists for Liver Transplant Surgery In Meerut. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Meerut can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XP8P+HJQ, Garh Rd, near Bhagya Shree Hospital, Mangal Pandey Nagar, Ramgarhi, Meerut, Uttar Pradesh 250004",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "locality": "Ramgarhi",
+    "landmark": "near Bhagya Shree Hospital, Mangal Pandey Nagar, Ramgarhi, Meerut, Uttar Pradesh 250004",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Meerut"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHBHe1u7tUpzFhQT7JHhyvt6T1Mp6DdpYQn9vib9RL7EdTGGJB_cVFG3UFvRg4AQnjIZWFFvtm5AcIqgqpikvrcBE4KB0i81uspPQTVE6nuATJp7cbzbuTmr1s5Efwls-TRAxdv=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHBHe1u7tUpzFhQT7JHhyvt6T1Mp6DdpYQn9vib9RL7EdTGGJB_cVFG3UFvRg4AQnjIZWFFvtm5AcIqgqpikvrcBE4KB0i81uspPQTVE6nuATJp7cbzbuTmr1s5Efwls-TRAxdv=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.9664581,
+      "lng": 77.7365987,
+      "label": "डायबिटीज थायराइड हारमन डॉ मनमोहन शर्मा",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

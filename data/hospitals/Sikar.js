@@ -1,0 +1,3085 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "apple-hospital-and-test-tube-baby-centre-sikar",
+    "name": "Apple Hospital and Test Tube Baby Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apple Hospital and Test Tube Baby Centre is a prominent private hospital in Sikar, known for structured tertiary care across IVF In Sikar. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Sikar.",
+    "email": "",
+    "phone": "01572 255 051",
+    "alternatePhone": "",
+    "website": "",
+    "address": "J45W+V6W Laxmi Market, Behind, Sitaram Pareek Marg, Ward No 35, Sakpura Mohlla, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Sakpura Mohlla",
+    "landmark": "Sitaram Pareek Marg",
+    "emergencyContact": "01572 255 051",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPmkpbg7dL8Ggy3WLbRV7RSR5v_d2PTsq6PwrnIsZZj1JsbbmTm-fL95YbTC34TVSeNZeuKHDtdKRDXpKkI7QFpYABYIwHJjd3oNYnvpshlNLbMgxVku54EYpc6icRDiBiPyk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPmkpbg7dL8Ggy3WLbRV7RSR5v_d2PTsq6PwrnIsZZj1JsbbmTm-fL95YbTC34TVSeNZeuKHDtdKRDXpKkI7QFpYABYIwHJjd3oNYnvpshlNLbMgxVku54EYpc6icRDiBiPyk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6105025,
+      "lng": 75.1453681,
+      "label": "Apple Hospital and Test Tube Baby Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bagaria-urology-and-gynae-hospital-sikar",
+    "name": "Bagaria Urology And Gynae Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Sikar, Bagaria Urology And Gynae Hospital offers coordinated hospital care with major focus on Urologist Surgery In Sikar. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Sikar.",
+    "email": "",
+    "phone": "094601 03499",
+    "alternatePhone": "",
+    "website": "http://bagariahospital.com/",
+    "address": "Nehru Park Road, near GOPINATH GAUSHALA, Imam Ganj, Kalwaria Kunj, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Kalwaria Kunj",
+    "landmark": "near GOPINATH GAUSHALA, Imam Ganj, Kalwaria Kunj, Sikar, Rajasthan 332001",
+    "emergencyContact": "094601 03499",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1Ekx31J1j6XtwLcy0RPhhQogjf1XpjrjafJcptnNI2wmcgHf8jR9RQHHxY0naOC60DaK4T7WVIpxucw5bWtWTFlBMaLDPokciadmiUyp1S4tipdTkIpvalRop6DPmm_yzr6Fq=w1200-h900-p-k-no",
+    "logo": "https://www.bagariahospital.com/Uploads/org/441heading.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1Ekx31J1j6XtwLcy0RPhhQogjf1XpjrjafJcptnNI2wmcgHf8jR9RQHHxY0naOC60DaK4T7WVIpxucw5bWtWTFlBMaLDPokciadmiUyp1S4tipdTkIpvalRop6DPmm_yzr6Fq=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.616953,
+      "lng": 75.128368,
+      "label": "Bagaria Urology And Gynae Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bhumika-hospital-sikar",
+    "name": "Bhumika Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Sikar often choose Bhumika Hospital for its strength in Gynecologist Surgery In Sikar. The facility stands out for Google rating 3.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Sikar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "01572 259 222",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pink House Ki Gali, 11, Fatehpur Rd, near bhumika hospital, Mohalla Vapariyan, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Mohalla Vapariyan",
+    "landmark": "near bhumika hospital, Mohalla Vapariyan, Sikar, Rajasthan 332001",
+    "emergencyContact": "01572 259 222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1GnrKFysHTq6UBAcwyVQ0Wh26i-whv0qcsk-DXo48Abw2bZ_N6UTXBikkGgSLaprseCoxL4Jhj8o9Juu34YazJTLVpf6_SOToAq9BzgBAatR4FCZUG9O2RmgI3h9KOXnYWaE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1GnrKFysHTq6UBAcwyVQ0Wh26i-whv0qcsk-DXo48Abw2bZ_N6UTXBikkGgSLaprseCoxL4Jhj8o9Juu34YazJTLVpf6_SOToAq9BzgBAatR4FCZUG9O2RmgI3h9KOXnYWaE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8zyq3cWUbqzPoyj7u4f6LxrpW_e1C-T0v8EKZPvlgiyf74WmeBSkkVZrOh2sawo8EuiZs7x_yx5tQiZ5oxOnWbzkGdCQYyHTfzhZhLtL-0CS_N=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8zyq3cWUbqzPoyj7u4f6LxrpW_e1C-T0v8EKZPvlgiyf74WmeBSkkVZrOh2sawo8EuiZs7x_yx5tQiZ5oxOnWbzkGdCQYyHTfzhZhLtL-0CS_NCQ_OarIp60jsa2-HTnSacn6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.620281,
+      "lng": 75.1460696,
+      "label": "Bhumika Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bindal-hospital-sikar",
+    "name": "Bindal Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Sikar, Bindal Hospital offers coordinated hospital care with major focus on Laparoscopic Surgery In Sikar. Operational strengths including Google rating 3.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Sikar.",
+    "email": "",
+    "phone": "093528 21267",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bajaj Rd, nr. Samrat Cinema, Subhash Chowk, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Subhash Chowk",
+    "landmark": "Subhash Chowk",
+    "emergencyContact": "093528 21267",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQ4UtDJJniykqsDDAbDuD3dpogFMd8hWp1GwRI5V5jfp9zyKN4HDXcktDeGGy1n-5vmE-6F4hUFZGKogzjJGB3CrbbBNFGsqRYjYq1sdSsor0Cv-H-iaQbzUrMMBRborZce7s=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQ4UtDJJniykqsDDAbDuD3dpogFMd8hWp1GwRI5V5jfp9zyKN4HDXcktDeGGy1n-5vmE-6F4hUFZGKogzjJGB3CrbbBNFGsqRYjYq1sdSsor0Cv-H-iaQbzUrMMBRborZce7s=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6145569,
+      "lng": 75.145457,
+      "label": "Bindal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cardiac-incharge-of-shekhawati-sikar",
+    "name": "Cardiac incharge of shekhawati",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cardiac incharge of shekhawati is a prominent hospital in Sikar, known for structured tertiary care across Cardiac Surgery In Sikar and Cardiac Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Sikar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "J45Q+QWF, Subhash Chowk, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Subhash Chowk",
+    "landmark": "Sikar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Sikar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=27.6094371%2C75.1397875&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=27.6094371%2C75.1397875&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=27.6094371%2C75.1397875&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=27.6094371%2C75.1397875&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6094371,
+      "lng": 75.1397875,
+      "label": "Cardiac incharge of shekhawati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "derma-shine-skin-care-hair-transplant-and-laser-clinic-sikar",
+    "name": "DERMA SHINE SKIN CARE,HAIR TRANSPLANT & LASER CLINIC",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Sikar often choose DERMA SHINE SKIN CARE,HAIR TRANSPLANT & LASER CLINIC for its strength in Cosmetic Surgery In Sikar. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Sikar.",
+    "email": "",
+    "phone": "098870 62917",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First Floor,surbhi pluse complex, Railway Sta Rd, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Railway Sta Rd",
+    "landmark": "Railway Sta Rd",
+    "emergencyContact": "098870 62917",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBZiN0BoBKPwcShA6lAFUqdLvBu_bcZlbLYUQ2HOkYsQqfRBFos4rG1br9T-tyB1I19dvqx2mJBRu1E84vBrB0TV3mKZKNmDLag56QuAmN_OyPPdGivIwuxSj-MuSz0ImLLiRU=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBZiN0BoBKPwcShA6lAFUqdLvBu_bcZlbLYUQ2HOkYsQqfRBFos4rG1br9T-tyB1I19dvqx2mJBRu1E84vBrB0TV3mKZKNmDLag56QuAmN_OyPPdGivIwuxSj-MuSz0ImLLiRU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6131128,
+      "lng": 75.1479646,
+      "label": "DERMA SHINE SKIN CARE,HAIR TRANSPLANT & LASER CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dhaka-hospital-sikar",
+    "name": "Dhaka Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Sikar, Dhaka Hospital brings together specialists for Orthopedic Surgery In Sikar. Operational strengths including Google rating 2.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Sikar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "01572 271 015",
+    "alternatePhone": "",
+    "website": "",
+    "address": "J522+9HJ, Jaipur - Sikar Road, Tiraha, Devipura, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Devipura",
+    "landmark": "Tiraha",
+    "emergencyContact": "01572 271 015",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkRTPTkrK2Uj8Wwr8tnqtdLKy9_8PMBDMc15a7Xm-qNmJmUqhtq0zr5R51p19onVa-YymCEJ2hmF1eQ4DfzrYv8GCijVhPxRbc-4X114H4V7SX5Ix6zDYcHh2vxB36p4SNZ4oO=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkRTPTkrK2Uj8Wwr8tnqtdLKy9_8PMBDMc15a7Xm-qNmJmUqhtq0zr5R51p19onVa-YymCEJ2hmF1eQ4DfzrYv8GCijVhPxRbc-4X114H4V7SX5Ix6zDYcHh2vxB36p4SNZ4oO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6017038,
+      "lng": 75.1514478,
+      "label": "Dhaka Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dhayal-hospital-and-fertility-centre-sikar-sikar",
+    "name": "Dhayal Hospital and Fertility Centre,Sikar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Sikar, Dhayal Hospital and Fertility Centre,Sikar offers coordinated hospital care with major focus on IVF In Sikar and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Sikar.",
+    "email": "",
+    "phone": "01572 251 660",
+    "alternatePhone": "",
+    "website": "http://www.dhayalhospital.in/",
+    "address": "Dhayal Hospital and Fertility Centre, near Saini Mandir, opposite SK girls college, Ward No 35, Sakpura Mohlla, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Sakpura Mohlla",
+    "landmark": "near Saini Mandir, opposite SK girls college, Ward No 35, Sakpura Mohlla, Sikar, Rajasthan 332001",
+    "emergencyContact": "01572 251 660",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Sikar",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG10JYkrUvR_skH34DpRG32YDuT11XBdP90g0_d2YE4awiAQtCuC2-7WTb_YM3YZcR0pw6dMYCPcZV38D87xnAajAoIgYLv_VZHc3481t5FVfRw2VKqafQJ8uZdbgknRFFA2WXVhqaoXoM=w1200-h900-p-k-no",
+    "logo": "https://dhayalhospital.in/wp-content/uploads/2025/08/All-Logo-4-e1759730931311.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG10JYkrUvR_skH34DpRG32YDuT11XBdP90g0_d2YE4awiAQtCuC2-7WTb_YM3YZcR0pw6dMYCPcZV38D87xnAajAoIgYLv_VZHc3481t5FVfRw2VKqafQJ8uZdbgknRFFA2WXVhqaoXoM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6111635,
+      "lng": 75.1498506,
+      "label": "Dhayal Hospital and Fertility Centre,Sikar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gadwal-hospital-sikar-sikar",
+    "name": "Gadwal Hospital Sikar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gadwal Hospital Sikar has built a strong reputation in Sikar for multidisciplinary treatment pathways covering Orthopedic Surgery In Sikar. Operational strengths including Google rating 3.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Sikar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "01572 241 000",
+    "alternatePhone": "",
+    "website": "",
+    "address": "behind S.K hospital, Ward No 35, Sakpura Mohlla, Radha Kishanpura, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Radha Kishanpura",
+    "landmark": "Sakpura Mohlla",
+    "emergencyContact": "01572 241 000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZOijRKjW4vMeaDynpmbABHuAdKiEp3RyNtjNAvUTh6kRamhzw_52X56H2_IUvpuxkz5Nor5GC0nTSliBcqMohEpdcSjEGOViTa-52AjztZjv9rZyBmFPAiTK5Cof1emzq_YKLFg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZOijRKjW4vMeaDynpmbABHuAdKiEp3RyNtjNAvUTh6kRamhzw_52X56H2_IUvpuxkz5Nor5GC0nTSliBcqMohEpdcSjEGOViTa-52AjztZjv9rZyBmFPAiTK5Cof1emzq_YKLFg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHokkTnOmB-hP4FyCfNvfv3tzJ25zlQSXXz_vL0pTTApdrauAhLDcChjrzypaNlsTlyvJtMSbCQ8jX8EeQF4TDFxW7L9MDKL8XP9IVZ4-hBw1fWMzwL2tbCMzZBPC9-n3UIHA9yVl2t11Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6125476,
+      "lng": 75.149138,
+      "label": "Gadwal Hospital Sikar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "getwell-hospital-and-research-center-sikar",
+    "name": "Getwell Hospital & Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Getwell Hospital & Research Center has built a strong reputation in Sikar for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Sikar. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Sikar.",
+    "email": "",
+    "phone": "01572 271 101",
+    "alternatePhone": "",
+    "website": "http://www.getwellhospitalsikar.com/",
+    "address": "Opp.S.K. School,Near, Dr.B.L.Ranwa (Physician), Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Dr.B.L.Ranwa (Physician)",
+    "landmark": "Dr.B.L.Ranwa (Physician)",
+    "emergencyContact": "01572 271 101",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeEn2lBjwDhLgPmZG6k88J3XEgfWmiHRMBiKRfh6aLnS_SlWB-qFQgUg-PKNjf_AwWTRyW1BZrU4rzCHPSm946Ap8QQmVfCi-2um2MyvEpv8dEey4egkvyhtQzWEBpkrURkboOig=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeEn2lBjwDhLgPmZG6k88J3XEgfWmiHRMBiKRfh6aLnS_SlWB-qFQgUg-PKNjf_AwWTRyW1BZrU4rzCHPSm946Ap8QQmVfCi-2um2MyvEpv8dEey4egkvyhtQzWEBpkrURkboOig=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6102577,
+      "lng": 75.1501241,
+      "label": "Getwell Hospital & Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gora-urology-and-superspeciality-hospital-sikar",
+    "name": "Gora Urology And Superspeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gora Urology And Superspeciality Hospital is a prominent hospital in Sikar, known for structured tertiary care across Urologist Surgery In Sikar and Speciality Care. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Sikar.",
+    "email": "",
+    "phone": "01572 272 272",
+    "alternatePhone": "",
+    "website": "http://www.gorahospital.com/",
+    "address": "Silver Jubilee Rd, in front of S K School, Ward No 35, Sakpura Mohlla, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Sakpura Mohlla",
+    "landmark": "Ward No 35",
+    "emergencyContact": "01572 272 272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Sikar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKgBEbjDJHAt_VXKT-RlLdzwgES7zX29UI0_mpw_0pTbw3S74JeFaT2-RyQKBxgjlAXpDk9QAOQ1uduIbt4kXU4NsNTaNp3pJXzdnAzM08ajFvObBZNopAXAcAKDK4WCVEs4NM=w1200-h900-p-k-no",
+    "logo": "https://gorahospital.com/wp-content/uploads/2023/08/02.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKgBEbjDJHAt_VXKT-RlLdzwgES7zX29UI0_mpw_0pTbw3S74JeFaT2-RyQKBxgjlAXpDk9QAOQ1uduIbt4kXU4NsNTaNp3pJXzdnAzM08ajFvObBZNopAXAcAKDK4WCVEs4NM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPUfsZnb61rkL4Gu5xIfD7U0MudTPY75ULURAgu=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.610772,
+      "lng": 75.1499474,
+      "label": "Gora Urology And Superspeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "goyal-heart-super-speciality-center-sikar",
+    "name": "Goyal Heart Super Speciality Center",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Sikar often choose Goyal Heart Super Speciality Center for its strength in Cardiac Surgery In Sikar, Cardiac Care, and Speciality Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Sikar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096671 88686",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ward No 35, Sakpura Mohlla, Radha Kishanpura, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Radha Kishanpura",
+    "landmark": "Radha Kishanpura",
+    "emergencyContact": "096671 88686",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Sikar",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=27.6104498%2C75.1472672&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=27.6104498%2C75.1472672&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=27.6104498%2C75.1472672&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=27.6104498%2C75.1472672&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6104498,
+      "lng": 75.1472672,
+      "label": "Goyal Heart Super Speciality Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "life-line-hospital-and-research-center-sikar",
+    "name": "Life Line Hospital & Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Sikar, Life Line Hospital & Research Center delivers integrated care across Cardiac Surgery In Sikar. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Sikar.",
+    "email": "",
+    "phone": "087647 52992",
+    "alternatePhone": "",
+    "website": "https://lifelinehospitalresearchcenter.in/",
+    "address": "Satyanarayan mandir Marg, Bajaj Rd, Subhash Chowk, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Subhash Chowk",
+    "landmark": "Subhash Chowk",
+    "emergencyContact": "087647 52992",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdPDjgzANYnlGZOHUTEVlfH7Bm86dnlcglWNq2N7Yu47xD-F5A6MEYiiHC-cFC4Ca66AgDyrtmlFkIanyCFI14fZxUh5JYsd_mGRT395eu46wgalg7SlMFZsDe-TLFz4XTopKBZty9x8sp=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdPDjgzANYnlGZOHUTEVlfH7Bm86dnlcglWNq2N7Yu47xD-F5A6MEYiiHC-cFC4Ca66AgDyrtmlFkIanyCFI14fZxUh5JYsd_mGRT395eu46wgalg7SlMFZsDe-TLFz4XTopKBZty9x8sp=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6154504,
+      "lng": 75.1390725,
+      "label": "Life Line Hospital & Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manavata-hospital-and-research-centre-sikar",
+    "name": "Manavata Hospital and Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Sikar often choose Manavata Hospital and Research Centre for its strength in Laparoscopic Surgery In Sikar. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Sikar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073781 11444",
+    "alternatePhone": "",
+    "website": "https://mhrcsikar.com/",
+    "address": "C-3, Rd Number 3, Todinagar, Sikar, Rajasthan 332021",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332021",
+    "locality": "Todinagar",
+    "landmark": "Todinagar",
+    "emergencyContact": "073781 11444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmlXU6iRPRTTw67ItoFTs4mVmckF4azYjcFxiJjgTlcwPcAUVl5aZ7AkBzR-jZbgb-RyI7cujJPv9M3SUe3Q4yO3H79zbDZXqLhUJSmO_P3LHgHnwLoNX1zO9Bedq2fSX6fUGC=w1200-h900-p-k-no",
+    "logo": "https://mhrcsikar.com/_next/static/media/background-logo.b02b5a00.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmlXU6iRPRTTw67ItoFTs4mVmckF4azYjcFxiJjgTlcwPcAUVl5aZ7AkBzR-jZbgb-RyI7cujJPv9M3SUe3Q4yO3H79zbDZXqLhUJSmO_P3LHgHnwLoNX1zO9Bedq2fSX6fUGC=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.5800355,
+      "lng": 75.1473116,
+      "label": "Manavata Hospital and Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manu-ent-and-multispeciality-hospital-sikar-sikar",
+    "name": "MANU ENT & MULTISPECIALITY HOSPITAL SIKAR",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Sikar, MANU ENT & MULTISPECIALITY HOSPITAL SIKAR brings together specialists for Liver Transplant Surgery In Sikar and Speciality Care. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Sikar.",
+    "email": "",
+    "phone": "098297 99710",
+    "alternatePhone": "",
+    "website": "",
+    "address": "S.K.Govt. Hospital Sikar, Infront of S.K. College near saini Dharmsala Bhiend, Ward No 35, Sakpura Mohlla, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Sakpura Mohlla",
+    "landmark": "near saini Dharmsala Bhiend, Ward No 35, Sakpura Mohlla, Sikar, Rajasthan 332001",
+    "emergencyContact": "098297 99710",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Sikar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEbKYEx10GAiMOenrMAGvk2i6scajlmEZyo9hnlTptZAA7pfGmw3ze__rHkNIa09a5_0nmNt7S6m5IUvMw6pvc5uyiTWHk5arbHOETRFvbnfpSGSmxeArrgFP-PRE1Te0N7xRrjg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEbKYEx10GAiMOenrMAGvk2i6scajlmEZyo9hnlTptZAA7pfGmw3ze__rHkNIa09a5_0nmNt7S6m5IUvMw6pvc5uyiTWHk5arbHOETRFvbnfpSGSmxeArrgFP-PRE1Te0N7xRrjg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNrSTebt7K5MDB20ws6G0DW9vebQFqYsp9pQBZc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6121577,
+      "lng": 75.1486479,
+      "label": "MANU ENT & MULTISPECIALITY HOSPITAL SIKAR",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "neerja-hospital-sikar",
+    "name": "Neerja Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Neerja Hospital is a prominent hospital in Sikar, known for structured tertiary care across IVF In Sikar. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Sikar.",
+    "email": "",
+    "phone": "096106 62020",
+    "alternatePhone": "",
+    "website": "https://www.neerjahospital.com/",
+    "address": "E-2 Basant Vihar, Opp. Petrol Pump Sikar (Raj.) 332001, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Opp. Petrol Pump Sikar (Raj.) 332001",
+    "landmark": "Sikar",
+    "emergencyContact": "096106 62020",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGg9m1DYgquJTRztXM1NDY3NgMM67ZaU5O245aCcOd_63znJ8GRSa10AQ_cLiQS5IOkcMdmMbmTV8PxIVFq-tHJ0A87Vzl2rCs02xylChqrFeKzOl8M-cI2K_rEaUSYhD_KlKmuLffJx-x=w1200-h900-p-k-no",
+    "logo": "https://www.neerjahospital.com/wp-content/uploads/2026/04/HDFC_ERGO_Logo_2025.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGg9m1DYgquJTRztXM1NDY3NgMM67ZaU5O245aCcOd_63znJ8GRSa10AQ_cLiQS5IOkcMdmMbmTV8PxIVFq-tHJ0A87Vzl2rCs02xylChqrFeKzOl8M-cI2K_rEaUSYhD_KlKmuLffJx-x=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6040573,
+      "lng": 75.1517852,
+      "label": "Neerja Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "noble-care-hospital-sikar",
+    "name": "Noble Care Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Sikar often choose Noble Care Hospital for its strength in Kidney Transplant Surgery In Sikar. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Sikar.",
+    "email": "",
+    "phone": "01572 271 272",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sikar-Jaipur Road, Bus Depot Rd, near Gogamedi Mandir Tiraha, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "near Gogamedi Mandir Tiraha",
+    "landmark": "near Gogamedi Mandir Tiraha, Sikar, Rajasthan 332001",
+    "emergencyContact": "01572 271 272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0gJJkf_i0m3iHSuBzkc8qxKbXTZt4b12dcM2ubOMXdeOoCK-C9IpLBg2hNwg4blQlOflBIOFjPJF-wn-ukwMHIEUpbe88lwIdSn4G2udkQHrVg1ZUdqY_JjSf1i4TgAPJm-p4efxPFLZk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0gJJkf_i0m3iHSuBzkc8qxKbXTZt4b12dcM2ubOMXdeOoCK-C9IpLBg2hNwg4blQlOflBIOFjPJF-wn-ukwMHIEUpbe88lwIdSn4G2udkQHrVg1ZUdqY_JjSf1i4TgAPJm-p4efxPFLZk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6026026,
+      "lng": 75.152798,
+      "label": "Noble Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rathi-hospital-sikar-sikar",
+    "name": "RATHI HOSPITAL SIKAR",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Sikar, RATHI HOSPITAL SIKAR brings together specialists for Oncologist Surgery In Sikar. With public-facing highlights like Google rating 3.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Sikar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095872 36115",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rathi Hospital Pandit ji ki Kothi, Pandit ji ki kothi,Sarswati Nagar, Sanwali Rd, Saraswati Nagar, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Saraswati Nagar",
+    "landmark": "Sarswati Nagar",
+    "emergencyContact": "095872 36115",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1COCzKU4q5Kz14Th4fF9jgwF-5k6HtZEg1WskH-QvWh1SgdDl_cKsfsFigqO8Mk2eXG4Imn-POpEyz_U3EHx6bZrdSTWgT6M6l9QP7ICeUBtGHnckmDI8vSe1lJjDzK9bDVOC=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1COCzKU4q5Kz14Th4fF9jgwF-5k6HtZEg1WskH-QvWh1SgdDl_cKsfsFigqO8Mk2eXG4Imn-POpEyz_U3EHx6bZrdSTWgT6M6l9QP7ICeUBtGHnckmDI8vSe1lJjDzK9bDVOC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWG8o3y7PwHXJNL6uQE0dxuzW5tpjQNIenhB1Uq_UaHKgfD6l-zfbqNrFJOBbPGgINQ0p5BixsBVoV35MhtvyUfexXySLAmUyTHtLrl4zsx6HBKI-8XaO7SFVzwzuBcLLrZPmXa_umQg6C=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.5907883,
+      "lng": 75.1441212,
+      "label": "RATHI HOSPITAL SIKAR",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "s-b-mittal-memorial-heart-and-critical-care-hospital-sikar-sikar",
+    "name": "S.B. Mittal Memorial Heart & Critical Care Hospital, Sikar",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted heart hospital in Sikar, S.B. Mittal Memorial Heart & Critical Care Hospital, Sikar delivers integrated care across Liver Transplant Surgery In Sikar and Cardiac Care. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Sikar.",
+    "email": "",
+    "phone": "097845 93500",
+    "alternatePhone": "",
+    "website": "http://www.sbmittalhospital.com/",
+    "address": "Silver Jubilee Rd, opp. SK School, Ward No 35, Sakpura Mohlla, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Sakpura Mohlla",
+    "landmark": "Ward No 35",
+    "emergencyContact": "097845 93500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Sikar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFT1T-blqbQ7NlDnhTSaBdsKtaCU4-4KHBclMpLdL4Ujk0nDtFaKFgcBnsuMYvVDe0Bv0a_1ZIa5JQ6M5TTFdFczdvPZd-9-nnhWvJQwXBcJP1PegGaZs2ENuocp4lYHIfnMiqp1nYoWVLK=w1200-h900-p-k-no",
+    "logo": "https://www.sbmittalhospital.com/img/mittal-hospital-new-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFT1T-blqbQ7NlDnhTSaBdsKtaCU4-4KHBclMpLdL4Ujk0nDtFaKFgcBnsuMYvVDe0Bv0a_1ZIa5JQ6M5TTFdFczdvPZd-9-nnhWvJQwXBcJP1PegGaZs2ENuocp4lYHIfnMiqp1nYoWVLK=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6105367,
+      "lng": 75.151141,
+      "label": "S.B. Mittal Memorial Heart & Critical Care Hospital, Sikar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "s-k-hospital-sikar-sikar",
+    "name": "S.K. Hospital, Sikar",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "S.K. Hospital, Sikar has built a strong reputation in Sikar for multidisciplinary treatment pathways covering Liver Transplant Surgery In Sikar. Operational strengths including Google rating 3.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Sikar.",
+    "email": "",
+    "phone": "01572 270 499",
+    "alternatePhone": "",
+    "website": "",
+    "address": "S.K.Govt. Hospital Sikar, Silver Jubilee Rd, Sakpura Mohlla, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Sakpura Mohlla",
+    "landmark": "Sakpura Mohlla",
+    "emergencyContact": "01572 270 499",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKo48nsJwyxTweNqcbGCc2vVsMYk_X04GhSPuOWp_e9XmInlLZRYl3w7l2SYvlQwCSr36Gh6dq_o050i9xSAL33KKlEIqKzPFxnmWAf_WBwkG0rYarJy3twjG3E6rKX_Y-G-Lm=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKo48nsJwyxTweNqcbGCc2vVsMYk_X04GhSPuOWp_e9XmInlLZRYl3w7l2SYvlQwCSr36Gh6dq_o050i9xSAL33KKlEIqKzPFxnmWAf_WBwkG0rYarJy3twjG3E6rKX_Y-G-Lm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpz1i-c0_iEUngCOy7fPBa4myDB1BzewT_kLCRXz2FtG96J1BTKlAIIgPviE6Wp9D_jFtSXM2S5a0qepCG50aRDVLAkxmBy_CvfWPIikTBCVoeDMD7wj-JMH-pKmoqW54HJEha3C3tRGZj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErp1IWw3t8hyZfiXm4720XCPPiJccj_gy2F0UGVHDtb_7Nt14L-ssu1fomvz5yOP78S71R91yMRtLDzu5CLWTYgF8PJveL6T8-ctDxHBxRecphFWh7ZlCMwigUsAuPM7WZXYY0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXiO2lQ1zETkvXCyUSBRCVrNt43tCDxczQNZKnlczlkP2Dvo8KOY7E99C3QtUfSPIzuWvzTlhfFpotMw7CwZ9YrwzZ05AB3mh3DpbssQaeyfJqAqx30v5ZHW9eTkHBYWata_bb=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2l4KQO2EoXTr7VLusFuWllmyu_Y5LcmAZ4TVTP1JlmmDfSsBUiTQtHo77dvGZOLkRP_WdIfHu2Bq76jGKzUlHhtVrOL1Xlhk8q1FNGrCTc4OTEbtpolcG-7beQz29qFVLPxG_QMvHcNI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6126307,
+      "lng": 75.1505219,
+      "label": "S.K. Hospital, Sikar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shivalik-hospital-best-neuro-and-gynae-sikar",
+    "name": "Shivalik Hospital (Best NEURO & GYNAE)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shivalik Hospital (Best NEURO & GYNAE) is a prominent hospital in Sikar, known for structured tertiary care across Brain Surgery In Sikar and Neurosciences. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Sikar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://shivalikhospitalsikar.com/",
+    "address": "behind S.K. Hospital, near Saini Dharmshala, Ward No 35, Sakpura Mohlla, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Sakpura Mohlla",
+    "landmark": "near Saini Dharmshala, Ward No 35, Sakpura Mohlla, Sikar, Rajasthan 332001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Sikar",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqbgbgoGzFgJYD38-lCZFx408nitVryyccLLaWEdZLldWEvjcVYHN9dwxw85ZaF6wiO9DsDJvRFpq5bHOzwDGPCElA3mzLaUqxyb5BEFgwW1nkyOp74Y2160LdmaN23HdMS4NTXg=w1200-h900-p-k-no",
+    "logo": "https://shivalikhospitalsikar.com/wp-content/uploads/2023/12/Shivalik-Trans-Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqbgbgoGzFgJYD38-lCZFx408nitVryyccLLaWEdZLldWEvjcVYHN9dwxw85ZaF6wiO9DsDJvRFpq5bHOzwDGPCElA3mzLaUqxyb5BEFgwW1nkyOp74Y2160LdmaN23HdMS4NTXg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6124428,
+      "lng": 75.1494285,
+      "label": "Shivalik Hospital (Best NEURO & GYNAE)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sikar-hospital-and-research-institute-sikar",
+    "name": "SIKAR HOSPITAL & RESEARCH INSTITUTE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Sikar, SIKAR HOSPITAL & RESEARCH INSTITUTE brings together specialists for Liver Transplant Surgery In Sikar. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Sikar.",
+    "email": "",
+    "phone": "01572 270 579",
+    "alternatePhone": "",
+    "website": "http://sikarhospital.org/",
+    "address": "Tapariya Bagichi, Doliyon Ka Bass, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Doliyon Ka Bass",
+    "landmark": "Sikar",
+    "emergencyContact": "01572 270 579",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElneyKTkciT9_vDzvnfQ3-k47OYbuknz4G3tL4h4qZ4gXSM_51gl5i_M-SKvwFOpZfEXrfebw3FmP-W9cb79UdQ3VgfOT5i18nK2RDK4j0dJrlxRxJlcWe_aeOf23aGi2LLIHY=w1200-h900-p-k-no",
+    "logo": "https://sikarhospital.org/admin/org/359sikar%20hospital%20new%20logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElneyKTkciT9_vDzvnfQ3-k47OYbuknz4G3tL4h4qZ4gXSM_51gl5i_M-SKvwFOpZfEXrfebw3FmP-W9cb79UdQ3VgfOT5i18nK2RDK4j0dJrlxRxJlcWe_aeOf23aGi2LLIHY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6175197,
+      "lng": 75.1516285,
+      "label": "SIKAR HOSPITAL & RESEARCH INSTITUTE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sushrut-hospital-sikar",
+    "name": "SUSHRUT HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Sikar, SUSHRUT HOSPITAL offers coordinated hospital care with major focus on Kidney Transplant Surgery In Sikar. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Sikar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "behind S K Hospital, near Saini Dharamshala, Ward No 35, Sakpura Mohlla, Radha Kishanpura, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Radha Kishanpura",
+    "landmark": "near Saini Dharamshala, Ward No 35, Sakpura Mohlla, Radha Kishanpura, Sikar, Rajasthan 332001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjb4sSNtLrq7GhTU9HQzoZo5wp4NTL1jKyWXS4J-cMl7bwJXIwEyZvjncedLnRrdPj0EvJloRCGRfAZbhwq1XMlRUTqn7UW8cS9HJ-mC8OcZlVKOTKucLSRBlZySSNaYICdLuS=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjb4sSNtLrq7GhTU9HQzoZo5wp4NTL1jKyWXS4J-cMl7bwJXIwEyZvjncedLnRrdPj0EvJloRCGRfAZbhwq1XMlRUTqn7UW8cS9HJ-mC8OcZlVKOTKucLSRBlZySSNaYICdLuS=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6114365,
+      "lng": 75.1490343,
+      "label": "SUSHRUT HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vinayak-hospital-sikar",
+    "name": "Vinayak hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Sikar, Vinayak hospital offers coordinated hospital care with major focus on Laparoscopic Surgery In Sikar. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Sikar.",
+    "email": "",
+    "phone": "094133 44471",
+    "alternatePhone": "",
+    "website": "http://www.vinayakhospitalsikar.com/",
+    "address": "petrol pump, opposite to devipura, Vasant Vihar, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Vasant Vihar",
+    "landmark": "opposite to devipura, Vasant Vihar, Sikar, Rajasthan 332001",
+    "emergencyContact": "094133 44471",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzWav5S08ix8BModDUkPGp69ST6zVo_bEMWb1jRQts07ZoOtatpj_WVaElXgpKW3DrqbpcG1L4mwDGSpiJ4vpsePC6RY2gcCCox_bchZrbhce85MFQe3KIJqazeoOC-jl7xBusVA=w1200-h900-p-k-no",
+    "logo": "https://vinayakhospitalsikar.com/wp-content/uploads/2024/11/vinayak-hospital-sikar-logo-.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzWav5S08ix8BModDUkPGp69ST6zVo_bEMWb1jRQts07ZoOtatpj_WVaElXgpKW3DrqbpcG1L4mwDGSpiJ4vpsePC6RY2gcCCox_bchZrbhce85MFQe3KIJqazeoOC-jl7xBusVA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6044966,
+      "lng": 75.1527107,
+      "label": "Vinayak hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tibra-hospital-and-robotic-surgery-centre-sikar",
+    "name": "टीबड़ा अस्पताल(TIBRA HOSPITAL) & ROBOTIC SURGERY CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Sikar, टीबड़ा अस्पताल(TIBRA HOSPITAL) & ROBOTIC SURGERY CENTRE offers coordinated hospital care with major focus on Urologist Surgery In Sikar. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Sikar.",
+    "email": "",
+    "phone": "01572 243 691",
+    "alternatePhone": "",
+    "website": "http://www.tibrahospital.com/",
+    "address": "Vasant Vihar, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Vasant Vihar",
+    "landmark": "Rajasthan 332001",
+    "emergencyContact": "01572 243 691",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkvOa2LJw6jc3m5F81e80h62z7WfemPHnEQxmLOujuHdV5qOorSkwO-MmRhc28SiC_9K5tK43o3QuPmN8sihoOa7msQWMykCqyAJ2j_SlxYVLJQfMy9wKqcCbP0Jau0yu_bOJfn8mHhG20=w1200-h900-p-k-no",
+    "logo": "https://tibrahospital.com/wp-content/uploads/2025/09/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkvOa2LJw6jc3m5F81e80h62z7WfemPHnEQxmLOujuHdV5qOorSkwO-MmRhc28SiC_9K5tK43o3QuPmN8sihoOa7msQWMykCqyAJ2j_SlxYVLJQfMy9wKqcCbP0Jau0yu_bOJfn8mHhG20=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM1phtcZ5Bq_93sNle5sv1mjXQJoa6c8RVxJ44w=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN0gzoz4qsH7LRIHwK2CRNTGC6q5ArEz16lGk30=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPltIexowrf81IKAsKOB_q6eTD0WjCP5y8vdbWB=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOxlDZ6iiYH_qhzCtfDJU8d184yXKsz9-ml5ZY3=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6057777,
+      "lng": 75.1522968,
+      "label": "टीबड़ा अस्पताल(TIBRA HOSPITAL) & ROBOTIC SURGERY CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sikar",
+    "name": "𝗗𝗿. 𝗦.𝗠.𝗦𝗵𝗮𝗿𝗺𝗮 𝗢𝗿𝘁𝗵𝗼𝗽𝗲𝗱𝗶𝗰 𝗰𝗲𝗻𝘁𝗲𝗿 𝗮𝗻𝗱 𝗵𝗼𝘀𝗽𝗶𝘁𝗮𝗹",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "𝗗𝗿. 𝗦.𝗠.𝗦𝗵𝗮𝗿𝗺𝗮 𝗢𝗿𝘁𝗵𝗼𝗽𝗲𝗱𝗶𝗰 𝗰𝗲𝗻𝘁𝗲𝗿 𝗮𝗻𝗱 𝗵𝗼𝘀𝗽𝗶𝘁𝗮𝗹 has built a strong reputation in Sikar for multidisciplinary treatment pathways covering Orthopedic Surgery In Sikar. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Sikar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://sharmaortho.org/",
+    "address": "J43W+JV5, Kuchaman - Sikar - Didwana Rd, Tilak Nagar, Sikar, Rajasthan 332001",
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "pincode": "332001",
+    "locality": "Tilak Nagar",
+    "landmark": "Tilak Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Sikar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXT3d7bWx7dLMCP_l5Z3SsYwM6a9_F-EDHZt_i_vUHloCqQuUmQOi_y4mYPVCo9olSbuGN83BUaBDLJUqLTfkYA_hddvRTQpGpWRREuXJWCfqOeynoTGJHuFNa4Q7KzX_85Abd6P0M3TFW=w1200-h900-p-k-no",
+    "logo": "https://sharmaortho.org/assets/onedrive/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXT3d7bWx7dLMCP_l5Z3SsYwM6a9_F-EDHZt_i_vUHloCqQuUmQOi_y4mYPVCo9olSbuGN83BUaBDLJUqLTfkYA_hddvRTQpGpWRREuXJWCfqOeynoTGJHuFNa4Q7KzX_85Abd6P0M3TFW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 27.6040908,
+      "lng": 75.1471326,
+      "label": "𝗗𝗿. 𝗦.𝗠.𝗦𝗵𝗮𝗿𝗺𝗮 𝗢𝗿𝘁𝗵𝗼𝗽𝗲𝗱𝗶𝗰 𝗰𝗲𝗻𝘁𝗲𝗿 𝗮𝗻𝗱 𝗵𝗼𝘀𝗽𝗶𝘁𝗮𝗹",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

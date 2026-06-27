@@ -1,0 +1,6607 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aggarwal-hospital-hospital-in-yamuna-nagar-jagadhri",
+    "name": "Aggarwal Hospital (Hospital In Yamuna Nagar)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jagadhri, Aggarwal Hospital (Hospital In Yamuna Nagar) offers coordinated hospital care with major focus on Urologist Surgery In Yamunanagar. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jagadhri.",
+    "email": "",
+    "phone": "01732 231 600",
+    "alternatePhone": "",
+    "website": "http://aggarwalhospital.in/",
+    "address": "Main Road, near Sapphire hotel, Basant Nagar, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Basant Nagar",
+    "landmark": "near Sapphire hotel, Basant Nagar, Jagadhri, Haryana 135003",
+    "emergencyContact": "01732 231 600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJBfxHHMuq30Iz-YL8JuAHvb2w6Kshbu0_2ufK-4KG4kIn3gVYlMJWsraXT9XrN9_-MCdUqTszH9COinjajFCKZP6j9YtuSB-yNsbi1A7hBIstiRBsHDthdEkVbGfyYANKgGK93A=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJBfxHHMuq30Iz-YL8JuAHvb2w6Kshbu0_2ufK-4KG4kIn3gVYlMJWsraXT9XrN9_-MCdUqTszH9COinjajFCKZP6j9YtuSB-yNsbi1A7hBIstiRBsHDthdEkVbGfyYANKgGK93A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.147722,
+      "lng": 77.3054575,
+      "label": "Aggarwal Hospital (Hospital In Yamuna Nagar)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ankur-hospital-jagadhri",
+    "name": "Ankur hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ankur hospital is a prominent hospital in Jagadhri, known for structured tertiary care across Liver Transplant Surgery In Yamunanagar. Its infrastructure includes Google rating 3.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jagadhri.",
+    "email": "",
+    "phone": "01732 241 541",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1893, Civil Lines Rd, Sri Nagar Colony, Civil Lines, Gomti Mohalla, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Gomti Mohalla",
+    "landmark": "Sri Nagar Colony",
+    "emergencyContact": "01732 241 541",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-k3dqVlh2gU6UCz9MKfEwf7x4TEkxkPZ2VntmRiCxhrskvZlPiLHSBeqIrwslhll1HOzSbifp_4jhBaxPYN5jJyNdnA0lrMUx_hL2uoonhGTAz_DN9EZQpdVDbWzsJxOfWhED-A=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-k3dqVlh2gU6UCz9MKfEwf7x4TEkxkPZ2VntmRiCxhrskvZlPiLHSBeqIrwslhll1HOzSbifp_4jhBaxPYN5jJyNdnA0lrMUx_hL2uoonhGTAz_DN9EZQpdVDbWzsJxOfWhED-A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1693826,
+      "lng": 77.2971631,
+      "label": "Ankur hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "arun-gupta-hospital-yamuna-nagar",
+    "name": "arun gupta hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yamuna Nagar often choose arun gupta hospital for its strength in Liver Transplant Surgery In Yamunanagar. Hospital capacity markers such as Google rating 3.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Yamuna Nagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "515, National Highway 73, Harbanspura Colony, Vishnu Nagar, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Vishnu Nagar",
+    "landmark": "Harbanspura Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1290506%2C77.2673609&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1290506%2C77.2673609&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1290506%2C77.2673609&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1290506%2C77.2673609&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1290506,
+      "lng": 77.2673609,
+      "label": "arun gupta hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "capital-cancer-hospital-jagadhri",
+    "name": "Capital Cancer Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jagadhri, Capital Cancer Hospital delivers integrated care across Oncologist Surgery In Yamunanagar. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jagadhri.",
+    "email": "",
+    "phone": "081990 08804",
+    "alternatePhone": "",
+    "website": "https://www.capitalsuperspecialityhospital.com/",
+    "address": "Sri Nagar Colony, Civil Lines, Gomti Mohalla, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Gomti Mohalla",
+    "landmark": "Gomti Mohalla",
+    "emergencyContact": "081990 08804",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQNwqCTS6VqvLwfMFa0zRKnOEjfj3rw60-35v6mCy4GVi8Xo-o4m7jbSVDPYniRllJ78CYI3V72cyynbnCc-SPKrdrktzKRiosxitpzr89uA7Qs4_-yrivxTXOOrL4qPsbYQcz=w1200-h900-p-k-no",
+    "logo": "https://www.capitalsuperspecialityhospital.com/wp-content/themes/capital-hos/assets/images/capital_logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQNwqCTS6VqvLwfMFa0zRKnOEjfj3rw60-35v6mCy4GVi8Xo-o4m7jbSVDPYniRllJ78CYI3V72cyynbnCc-SPKrdrktzKRiosxitpzr89uA7Qs4_-yrivxTXOOrL4qPsbYQcz=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1707029,
+      "lng": 77.2982059,
+      "label": "Capital Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "capital-super-speciality-hospital-best-hospital-in-yamunanagar-jagadhri",
+    "name": "Capital Super Speciality Hospital | Best Hospital In Yamunanagar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jagadhri, Capital Super Speciality Hospital | Best Hospital In Yamunanagar brings together specialists for Liver Transplant Surgery In Yamunanagar and Speciality Care. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jagadhri.",
+    "email": "",
+    "phone": "081990 08805",
+    "alternatePhone": "",
+    "website": "https://www.capitalsuperspecialityhospital.com/",
+    "address": "Jagadhri Rd, near Bombay Furniture Showroom, Sector 21, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Sector 21",
+    "landmark": "near Bombay Furniture Showroom, Sector 21, Jagadhri, Haryana 135003",
+    "emergencyContact": "081990 08805",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCFd8L3v4-eop6DiNanIM5VO9NSMWf6Hd6nEGy2vRQzsuMD1iWjTargNdSqbNuw3fRibZL5qoTxQtQNiwPhsqt3z-eRuUvgI-fYIVCpnNKBYw_ghffFAPx5Nv32PT2WhKzf4f64A=w1200-h900-p-k-no",
+    "logo": "https://www.capitalsuperspecialityhospital.com/wp-content/themes/capital-hos/assets/images/capital_logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCFd8L3v4-eop6DiNanIM5VO9NSMWf6Hd6nEGy2vRQzsuMD1iWjTargNdSqbNuw3fRibZL5qoTxQtQNiwPhsqt3z-eRuUvgI-fYIVCpnNKBYw_ghffFAPx5Nv32PT2WhKzf4f64A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1708394,
+      "lng": 77.284438,
+      "label": "Capital Super Speciality Hospital | Best Hospital In Yamunanagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "choudhary-clinic-yamuna-nagar",
+    "name": "Choudhary Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Choudhary Clinic is a prominent hospital in Yamuna Nagar, known for structured tertiary care across Kidney Transplant Surgery In Yamunanagar. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Yamuna Nagar.",
+    "email": "",
+    "phone": "099911 00050",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Choudhary Clinic, Iti Road, Friends Colony, Harbanspura Colony, Vishnu Nagar, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Vishnu Nagar",
+    "landmark": "Friends Colony",
+    "emergencyContact": "099911 00050",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1354262%2C77.2710663&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1354262%2C77.2710663&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1354262%2C77.2710663&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1354262%2C77.2710663&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1354262,
+      "lng": 77.2710663,
+      "label": "Choudhary Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dental-comfort-jagadhri",
+    "name": "Dental Comfort",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jagadhri, Dental Comfort offers coordinated hospital care with major focus on Oral Surgery In Yamunanagar. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jagadhri.",
+    "email": "",
+    "phone": "090508 70334",
+    "alternatePhone": "",
+    "website": "",
+    "address": "536, Dental Comfort Rd, opposite civil dispensary, Sector 17, Huda, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Huda",
+    "landmark": "opposite civil dispensary, Sector 17, Huda, Jagadhri, Haryana 135003",
+    "emergencyContact": "090508 70334",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKzlbJ1EqJebAG-ktERPfxxwyrnfBDt6ZvgLC-E9Fv2O2BceOB9t7_2H1SStn0XlkpxOCdpQXPHSaPHplGzetXj8tS1yGRZugZLtjKYiRSX2u1WSGA3quHa7ADqJFpoFzOw3c6=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKzlbJ1EqJebAG-ktERPfxxwyrnfBDt6ZvgLC-E9Fv2O2BceOB9t7_2H1SStn0XlkpxOCdpQXPHSaPHplGzetXj8tS1yGRZugZLtjKYiRSX2u1WSGA3quHa7ADqJFpoFzOw3c6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1573879,
+      "lng": 77.2965818,
+      "label": "Dental Comfort",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "friends-hospital-yamuna-nagar",
+    "name": "Friends Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Yamuna Nagar, Friends Hospital brings together specialists for Kidney Transplant Surgery In Yamunanagar. Its infrastructure includes Google rating 3.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Yamuna Nagar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Unnamed Road, 135002, Bank Colony, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135002",
+    "locality": "Bank Colony",
+    "landmark": "Bank Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1357674%2C77.270061&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1357674%2C77.270061&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1357674%2C77.270061&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1357674%2C77.270061&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1357674,
+      "lng": 77.270061,
+      "label": "Friends Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gaba-hospital-jagadhri",
+    "name": "Gaba Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jagadhri often choose Gaba Hospital for its strength in Urologist Surgery In Yamunanagar. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jagadhri can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "01732 222 194",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bye pass road, Sanjay Vihar Colony, Prem Colony, Yamuna Nagar, Jagadhri, Haryana 135001",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Yamuna Nagar",
+    "landmark": "Prem Colony",
+    "emergencyContact": "01732 222 194",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMdeMn-6mzwnUBt8oNjIntwwPMBq1jK5NDLtzZYDXzWOXrCXH_0MV3da8oibDU8ZQ2d5KhoFHqRlUzkzFCtIRyJiofOKld7AbWeO6n-7v3ra7cjboClSax1ReoKzhWS0lYtCbKDxvz-98=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMdeMn-6mzwnUBt8oNjIntwwPMBq1jK5NDLtzZYDXzWOXrCXH_0MV3da8oibDU8ZQ2d5KhoFHqRlUzkzFCtIRyJiofOKld7AbWeO6n-7v3ra7cjboClSax1ReoKzhWS0lYtCbKDxvz-98=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHhs1A8dmWBG_MAfuEyBvkjX-30MnEOtPH1oBdGI98zKhhTi2--sBD9G0hyaVsrIMXk3WK1IMe5pShk6KHwltxrrvvZVmUwJa9pIqZBlK69XTmH05Ttb4VXSPTUniBRvCAOgO8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEfvoUAniG2k0qKtsDrEdaG6E8SukuBdSnk0ULnIomUr_pgmPvzDlYDSerUJhRfNzxMSe6haUkKvK5MqBIerHrQXwyh8y_qNURnalU9K42rwuHbJAm9akz_INCkRaH56g69SDl6g=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1464583,
+      "lng": 77.2899335,
+      "label": "Gaba Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gautam-hospital-model-colony-yamuna-nagar",
+    "name": "Gautam Hospital, Model Colony",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yamuna Nagar often choose Gautam Hospital, Model Colony for its strength in Gynecologist Surgery In Yamunanagar. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Yamuna Nagar.",
+    "email": "",
+    "phone": "093553 12511",
+    "alternatePhone": "",
+    "website": "",
+    "address": "388, Model Colony, East Bhatia Nagar, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "East Bhatia Nagar",
+    "landmark": "East Bhatia Nagar",
+    "emergencyContact": "093553 12511",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExJD2yVI5cbbOO18C2zOi8P4SwAjKPcxi9iN7VWJWmb8TS_DpvPA3Ft9YujUlaI0qnhoB3Sg8Sz4_LdajW7k9UCwMGEZumo8pzEWcKOK7FYu-oUu_t3bbMD5HRhL38Qtu4265t=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExJD2yVI5cbbOO18C2zOi8P4SwAjKPcxi9iN7VWJWmb8TS_DpvPA3Ft9YujUlaI0qnhoB3Sg8Sz4_LdajW7k9UCwMGEZumo8pzEWcKOK7FYu-oUu_t3bbMD5HRhL38Qtu4265t=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1316517,
+      "lng": 77.2973137,
+      "label": "Gautam Hospital, Model Colony",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "goel-hospital-jagadhri",
+    "name": "Goel Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Goel Hospital has built a strong reputation in Jagadhri for multidisciplinary treatment pathways covering Orthopedic Surgery In Yamunanagar. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jagadhri.",
+    "email": "",
+    "phone": "098127 44011",
+    "alternatePhone": "",
+    "website": "",
+    "address": "5894+RQG, near Krishna Bajaj Automobiles, Hari Pura Mohalla, Indira Colony, Sawan Puri, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Sawan Puri",
+    "landmark": "near Krishna Bajaj Automobiles, Hari Pura Mohalla, Indira Colony, Sawan Puri, Jagadhri, Haryana 135003",
+    "emergencyContact": "098127 44011",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1695687%2C77.3069472&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1695687%2C77.3069472&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1695687%2C77.3069472&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1695687%2C77.3069472&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1695687,
+      "lng": 77.3069472,
+      "label": "Goel Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gulati-hospital-yamuna-nagar",
+    "name": "Gulati Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yamuna Nagar often choose Gulati Hospital for its strength in Gynecologist Surgery In Yamunanagar. The facility stands out for Google rating 3.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Yamuna Nagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "01732 260 633",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near, 169, Bus Stand Rd, near Bus Stand, Sarojini Colony, Model Town, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Model Town",
+    "landmark": "near Bus Stand, Sarojini Colony, Model Town, Yamuna Nagar, Haryana 135001",
+    "emergencyContact": "01732 260 633",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFRY0UJ7N23gfrUgVqniin3pZrKmTBGrhfKgKXpjcwQvig8Rc7z_KYhUrS-N7zz6qAm8rcexyQb2xR8B9hS2iW0BL_jYtTWOTWZsBD8UeZPE4ElqpARqVjXmJOxXBv5WM1UMcp0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFRY0UJ7N23gfrUgVqniin3pZrKmTBGrhfKgKXpjcwQvig8Rc7z_KYhUrS-N7zz6qAm8rcexyQb2xR8B9hS2iW0BL_jYtTWOTWZsBD8UeZPE4ElqpARqVjXmJOxXBv5WM1UMcp0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1372598,
+      "lng": 77.2778194,
+      "label": "Gulati Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gursewak-medicose-jagadhri",
+    "name": "Gursewak medicose",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jagadhri, Gursewak medicose offers coordinated hospital care with major focus on Liver Transplant Surgery In Yamunanagar. Hospital capacity markers such as Google rating 1.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jagadhri.",
+    "email": "",
+    "phone": "099963 96994",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near mukand lal civil hospital, Model Colony, East Bhatia Nagar, Yamuna Nagar, Jagadhri, Haryana 135001",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Yamuna Nagar",
+    "landmark": "East Bhatia Nagar",
+    "emergencyContact": "099963 96994",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQjKfEf6xK1fNdxsjC7SAgulvPySpQyH9b_GmNFpLeBqVBuHvBq9l-zvrIWg1CVM7u-f6SkDsdvNJ0_bBFgw1I_qYmIMW868MyUN7lSFLFdAQZc8qEU5jTrbMGJ8zZELiPspm6QHLMJlkj=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQjKfEf6xK1fNdxsjC7SAgulvPySpQyH9b_GmNFpLeBqVBuHvBq9l-zvrIWg1CVM7u-f6SkDsdvNJ0_bBFgw1I_qYmIMW868MyUN7lSFLFdAQZc8qEU5jTrbMGJ8zZELiPspm6QHLMJlkj=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1402714,
+      "lng": 77.299902,
+      "label": "Gursewak medicose",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "healthcare-yamuna-nagar",
+    "name": "healthcare",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Yamuna Nagar, healthcare brings together specialists for Liver Transplant Surgery In Yamunanagar. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Yamuna Nagar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "47FQ+GCQ, Jagadhri Rd, Vishwakarma Mohalla, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Vishwakarma Mohalla",
+    "landmark": "Vishwakarma Mohalla",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1238322%2C77.2886095&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1238322%2C77.2886095&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1238322%2C77.2886095&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1238322%2C77.2886095&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1238322,
+      "lng": 77.2886095,
+      "label": "healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ishaan-hospital-jagadhri",
+    "name": "Ishaan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ishaan Hospital has built a strong reputation in Jagadhri for multidisciplinary treatment pathways covering Gynecologist Surgery In Yamunanagar. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jagadhri.",
+    "email": "",
+    "phone": "099960 83658",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gandhi Dham Colony, Sector 18, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Sector 18",
+    "landmark": "Jagadhri",
+    "emergencyContact": "099960 83658",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFWQ-4YwmEghj66aFl0tHL-z66wIf5xInv6pDydh_0fJilbw47A2SSBs28cg5zIh-n8wLrDtSmk7NibhnCZPn4fArDPJlddSpnvHJdyoYHD6tZLxUuIpMobktQmhb8eh_ptzrE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFWQ-4YwmEghj66aFl0tHL-z66wIf5xInv6pDydh_0fJilbw47A2SSBs28cg5zIh-n8wLrDtSmk7NibhnCZPn4fArDPJlddSpnvHJdyoYHD6tZLxUuIpMobktQmhb8eh_ptzrE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0WvczOjlL_0qDI_ZF8EmtDkmi8C7oi7QeBQyhjGeJJv1fgTarZD6NbmV1Ms6PMbJulNDgz0wclU7fvEfQxsQE5fW6qj5lhkSV3kdc2Tq4lI1nWMa9JqDylzXKuGszj0ozU3Pv13Obs8c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1597995,
+      "lng": 77.2940569,
+      "label": "Ishaan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kalyani-hospital-jagadhri",
+    "name": "Kalyani Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jagadhri often choose Kalyani Hospital for its strength in General Surgery In Yamunanagar. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jagadhri can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "kalyani hospital, Gobindpuri Rd, opposite ganga petrol pump, adjacent pnb, Sanjay Vihar Colony, Yamuna Nagar, Jagadhri, Haryana 135001",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Yamuna Nagar",
+    "landmark": "opposite ganga petrol pump, adjacent pnb, Sanjay Vihar Colony, Yamuna Nagar, Jagadhri, Haryana 135001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnTzT6gezVP5nEaZfCXZFF0FkuC9hY86i-9Pdl5eqU8I-PD_QSs7R6tl1XbTT--bBy_Zn4fYWFpihPZUj77MSy6xyNjLAvaSuebe_4zAx57RJkszPgWtBDvsEzPDC9MAg8GNKVwlSJ9sE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnTzT6gezVP5nEaZfCXZFF0FkuC9hY86i-9Pdl5eqU8I-PD_QSs7R6tl1XbTT--bBy_Zn4fYWFpihPZUj77MSy6xyNjLAvaSuebe_4zAx57RJkszPgWtBDvsEzPDC9MAg8GNKVwlSJ9sE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1452873,
+      "lng": 77.2885286,
+      "label": "Kalyani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kamal-hospital-jagadhri",
+    "name": "Kamal Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jagadhri, Kamal Hospital delivers integrated care across Gynecologist Surgery In Yamunanagar. Its infrastructure includes Google rating 4.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jagadhri.",
+    "email": "",
+    "phone": "083960 76969",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near, Buria Chowk, opposite Saraswati School, Bhagwangarh, Sector 35, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Sector 35",
+    "landmark": "opposite Saraswati School, Bhagwangarh, Sector 35, Jagadhri, Haryana 135003",
+    "emergencyContact": "083960 76969",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFV8fmHOyldNf7UKbn_IlEDceLrinU3T75jCoqDTLN3ygReD5Moa1SqkybO2hFjipeiZiUtdC8Om-YOBxGmUnwhT-3P0O_fBNvVdxdt4msBo2gVe6x7Ce-VEeEmwUcml890dQatIA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFV8fmHOyldNf7UKbn_IlEDceLrinU3T75jCoqDTLN3ygReD5Moa1SqkybO2hFjipeiZiUtdC8Om-YOBxGmUnwhT-3P0O_fBNvVdxdt4msBo2gVe6x7Ce-VEeEmwUcml890dQatIA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1600104,
+      "lng": 77.3146225,
+      "label": "Kamal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kapil-hospital-jagadhri",
+    "name": "Kapil Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jagadhri, Kapil Hospital delivers integrated care across Liver Transplant Surgery In Yamunanagar. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jagadhri.",
+    "email": "",
+    "phone": "094160 22114",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kapil Hospital, Yamunanagar Road, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Yamunanagar Road",
+    "landmark": "Jagadhri",
+    "emergencyContact": "094160 22114",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1647425%2C77.2979025&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1647425%2C77.2979025&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1647425%2C77.2979025&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1647425%2C77.2979025&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1647425,
+      "lng": 77.2979025,
+      "label": "Kapil Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kapil-hospital-yamunanagar-jagadhri",
+    "name": "Kapil Hospital, Yamunanagar",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jagadhri, Kapil Hospital, Yamunanagar offers coordinated hospital care with major focus on Liver Transplant Surgery In Yamunanagar. Its infrastructure includes Google rating 3.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jagadhri.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SH 6, Basant Nagar, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Basant Nagar",
+    "landmark": "Jagadhri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE13x92lGUkhJzwkYk2nFn3X2cEx8jkAnGuV3TRUm_qHd6IynMPZh8bGsrKah_vq1McMsAe_v6HYn5-1FTO7ba_vu9tnFp4T_km3qn-RekOg3AfTDH5LkS6798C8BsZQhTdIHhz=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE13x92lGUkhJzwkYk2nFn3X2cEx8jkAnGuV3TRUm_qHd6IynMPZh8bGsrKah_vq1McMsAe_v6HYn5-1FTO7ba_vu9tnFp4T_km3qn-RekOg3AfTDH5LkS6798C8BsZQhTdIHhz=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.147701,
+      "lng": 77.3055256,
+      "label": "Kapil Hospital, Yamunanagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kapoor-hospital-jagadhri",
+    "name": "Kapoor Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kapoor Hospital has built a strong reputation in Jagadhri for multidisciplinary treatment pathways covering Gynecologist Surgery In Yamunanagar. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jagadhri.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.kapoorhospitalyamunanagar.com/",
+    "address": "SH 6A, Indira Colony, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Indira Colony",
+    "landmark": "Jagadhri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTqx8AuO5yLyGp75C4r-ddfSJmCB7ZxG_HBncBVyXtmzT92P8z_HWZAkcCIo45NcUpVV0aqNG22w1k-tMNz8lYoO-XYTqcthoy64mj2z8dPBFhAax5xvuox0_deLwHfJysdEPP=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTqx8AuO5yLyGp75C4r-ddfSJmCB7ZxG_HBncBVyXtmzT92P8z_HWZAkcCIo45NcUpVV0aqNG22w1k-tMNz8lYoO-XYTqcthoy64mj2z8dPBFhAax5xvuox0_deLwHfJysdEPP=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1653389,
+      "lng": 77.3180473,
+      "label": "Kapoor Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kare-partners-heart-centre-yamuna-nagar-yamuna-nagar",
+    "name": "Kare Partners Heart Centre - Yamuna Nagar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yamuna Nagar often choose Kare Partners Heart Centre - Yamuna Nagar for its strength in Heart Surgery In Yamunanagar and Cardiac Care. Hospital capacity markers such as Google rating 2.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Yamuna Nagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082229 33423",
+    "alternatePhone": "",
+    "website": "",
+    "address": "48R6+RW8, Basant Nagar, Yamuna Nagar, Haryana 135003",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Basant Nagar",
+    "landmark": "Yamuna Nagar",
+    "emergencyContact": "082229 33423",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Yamunanagar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1420443%2C77.3123396&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1420443%2C77.3123396&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1420443%2C77.3123396&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1420443%2C77.3123396&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1420443,
+      "lng": 77.3123396,
+      "label": "Kare Partners Heart Centre - Yamuna Nagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kurban-hospital-yamuna-nagar",
+    "name": "KURBAN HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KURBAN HOSPITAL has built a strong reputation in Yamuna Nagar for multidisciplinary treatment pathways covering Gynecologist Surgery In Yamunanagar. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Yamuna Nagar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "47JC+43M, Rampura Industrial Area, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Rampura Industrial Area",
+    "landmark": "Yamuna Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFi54UoKS8fE97FaHVsheF-oIDh1kqhQHcO_NgbN6RHjWU5nH1KorRcx3On7oAP-SDHRTZrMWpKOuYnJ0zJFFkJnjBQSkRhAf9-SY4idgHzVS_fFA6DyGZrGOIyTWzgtA3IeW4qwg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFi54UoKS8fE97FaHVsheF-oIDh1kqhQHcO_NgbN6RHjWU5nH1KorRcx3On7oAP-SDHRTZrMWpKOuYnJ0zJFFkJnjBQSkRhAf9-SY4idgHzVS_fFA6DyGZrGOIyTWzgtA3IeW4qwg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1303314,
+      "lng": 77.2701811,
+      "label": "KURBAN HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "life-line-care-hospital-yamuna-nagar",
+    "name": "Life Line Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yamuna Nagar often choose Life Line Care Hospital for its strength in Liver Transplant Surgery In Yamunanagar. Its infrastructure includes Google rating 3.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Yamuna Nagar.",
+    "email": "",
+    "phone": "094160 22966",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near Kanhaiya Chowk, Adarsh Nagar, Bank Colony, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Bank Colony",
+    "landmark": "Bank Colony",
+    "emergencyContact": "094160 22966",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvVPYrJFlcYRk7nnge8QutJJ5Z1iVlEhHJEFTaxVimMwFVg9UTwOWS6sojC8Ajc95ofurGujufatEnQpmrlHHNVr4DQIHTK7CdSSEhSb1g_yBYrQZKjqzWkeTZGDm4F1K9GQjM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvVPYrJFlcYRk7nnge8QutJJ5Z1iVlEhHJEFTaxVimMwFVg9UTwOWS6sojC8Ajc95ofurGujufatEnQpmrlHHNVr4DQIHTK7CdSSEhSb1g_yBYrQZKjqzWkeTZGDm4F1K9GQjM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1420289,
+      "lng": 77.2846135,
+      "label": "Life Line Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mago-maternity-and-children-hospital-yamuna-nagar",
+    "name": "Mago Maternity & Children Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Yamuna Nagar, Mago Maternity & Children Hospital delivers integrated care across Gynecologist Surgery In Yamunanagar and Women and Child Care. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Yamuna Nagar.",
+    "email": "",
+    "phone": "01733 222 143",
+    "alternatePhone": "",
+    "website": "",
+    "address": "594, Santpura Gurudwara Rd, Model Town, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Model Town",
+    "landmark": "Model Town",
+    "emergencyContact": "01733 222 143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHh6X_CJhCZtaQlNN1Qc4LYJiSnNFtfavbIXNSiZ2ICG4zsBplYoMe9n9UT8bIFQpwBpX9NOy9HL3sD-Ia00MO9r4F8NUyhMhXLWDLj_Lj6FapP1CU5p_WcSlzQNB3n0oKIohUhiQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHh6X_CJhCZtaQlNN1Qc4LYJiSnNFtfavbIXNSiZ2ICG4zsBplYoMe9n9UT8bIFQpwBpX9NOy9HL3sD-Ia00MO9r4F8NUyhMhXLWDLj_Lj6FapP1CU5p_WcSlzQNB3n0oKIohUhiQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1324365,
+      "lng": 77.2914376,
+      "label": "Mago Maternity & Children Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mahendra-hospital-jagadhri",
+    "name": "Mahendra Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jagadhri often choose Mahendra Hospital for its strength in Liver Transplant Surgery In Yamunanagar. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jagadhri can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097318 22535",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Yamunanagar main road, opposite Hotel Sapphire, New Jain Nagar, Sector 17, Huda, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Huda",
+    "landmark": "opposite Hotel Sapphire, New Jain Nagar, Sector 17, Huda, Jagadhri, Haryana 135003",
+    "emergencyContact": "097318 22535",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxEuJ1JK6tLqjXSJjZoVeAiWhdbLWgD-_cQBL-RWDmvzlDcMnFaFKDpyu4cnepJPd4LtVPQ7zW-Wa-u0ircUnpD7z6auBRZVuyJZH7D1cDG4wG15ILJivkSu7BPi9hQj6QQwb2GA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxEuJ1JK6tLqjXSJjZoVeAiWhdbLWgD-_cQBL-RWDmvzlDcMnFaFKDpyu4cnepJPd4LtVPQ7zW-Wa-u0ircUnpD7z6auBRZVuyJZH7D1cDG4wG15ILJivkSu7BPi9hQj6QQwb2GA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1498085,
+      "lng": 77.3064386,
+      "label": "Mahendra Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manu-hospital-yamunanagr-yamuna-nagar",
+    "name": "Manu hospital yamunanagr",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yamuna Nagar often choose Manu hospital yamunanagr for its strength in Liver Transplant Surgery In Yamunanagar. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Yamuna Nagar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "47H8+JWH, Harbanspura Colony, Vishnu Nagar, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Vishnu Nagar",
+    "landmark": "Vishnu Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1290506%2C77.2673609&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1290506%2C77.2673609&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1290506%2C77.2673609&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1290506%2C77.2673609&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1290506,
+      "lng": 77.2673609,
+      "label": "Manu hospital yamunanagr",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "masih-hospital-yamuna-nagar",
+    "name": "Masih Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yamuna Nagar often choose Masih Hospital for its strength in Orthopedic Surgery In Yamunanagar. Operational strengths including Google rating 3.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Yamuna Nagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "01732 233 322",
+    "alternatePhone": "",
+    "website": "http://www.medindia.net/hospitals/reginaldmasih",
+    "address": "Phase -1, Masih Hospital, 1, opp. Traffic park, Sarojini Colony, Model Town, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Model Town",
+    "landmark": "1",
+    "emergencyContact": "01732 233 322",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHqvIWT9nEhZqAED86BMWhoflyMASyZx-Lt3kS9JQL6GKdfAFg-6Ygy-MCJvl-xwjSDSkCY4UyRH5cG0lvT71HAUagS2e23-HAiULIi3DxTcYT4MmcoI37HQDV2Yp4F8GkSfjgTg=w1200-h900-p-k-no",
+    "logo": "https://images.medindia.net/amp-images/banner/medindia-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHqvIWT9nEhZqAED86BMWhoflyMASyZx-Lt3kS9JQL6GKdfAFg-6Ygy-MCJvl-xwjSDSkCY4UyRH5cG0lvT71HAUagS2e23-HAiULIi3DxTcYT4MmcoI37HQDV2Yp4F8GkSfjgTg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1376492,
+      "lng": 77.2776042,
+      "label": "Masih Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "maxxwell-hospital-jagadhri",
+    "name": "Maxxwell Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Maxxwell Hospital is a prominent private hospital in Jagadhri, known for structured tertiary care across Heart Surgery In Yamunanagar. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jagadhri.",
+    "email": "",
+    "phone": "01732 231 001",
+    "alternatePhone": "",
+    "website": "https://nicelocal.in/yamunanagar/medical/maxxwell_hospital_top_best_private_hospitals_general_surgeons_cardiologist_in_yamunanagar/",
+    "address": "Matka Chowk, Near, opp. Gupta Palace, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "opp. Gupta Palace",
+    "landmark": "opp. Gupta Palace",
+    "emergencyContact": "01732 231 001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFC_C4ZpjnPpsC19GdFm9Ng0JBvsJtcqSiyPaDBa4sqr4S0G1FKjJ8caeDPJQIkE3uh5nS_HYwLQtA0p4Y37Ma6or3NEw-6pbQPLTyP1AEtPeOViMwQvblOTqsFdzwPDPerVaAiqg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFC_C4ZpjnPpsC19GdFm9Ng0JBvsJtcqSiyPaDBa4sqr4S0G1FKjJ8caeDPJQIkE3uh5nS_HYwLQtA0p4Y37Ma6or3NEw-6pbQPLTyP1AEtPeOViMwQvblOTqsFdzwPDPerVaAiqg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.158839,
+      "lng": 77.3070648,
+      "label": "Maxxwell Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medaura-hospital-yamuna-nagar",
+    "name": "MEDAURA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MEDAURA HOSPITAL has built a strong reputation in Yamuna Nagar for multidisciplinary treatment pathways covering General Surgery In Yamunanagar. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Yamuna Nagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089899 10004",
+    "alternatePhone": "",
+    "website": "https://medaurahospital.com/",
+    "address": "13,14, GUPTA COLONY, 12, KANHAIYA SAHIB CHOWK, Bank Colony, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Bank Colony",
+    "landmark": "GUPTA COLONY",
+    "emergencyContact": "089899 10004",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPcnzsitBRbJIoT7QLi5ev9ponV7-jH0D1NqnJMP6x3YqmfhcYisbypSLVf5jTLFVfnIq7-6Y8RRzB8Gu7cNSp5aEK9CLVghX_P5P6FyVqSW_B8MmwawPeClxa1q84emW_12Y=w1200-h900-p-k-no",
+    "logo": "https://medaurahospital.com/wp-content/uploads/2025/05/Med-Aura-Logo-2.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPcnzsitBRbJIoT7QLi5ev9ponV7-jH0D1NqnJMP6x3YqmfhcYisbypSLVf5jTLFVfnIq7-6Y8RRzB8Gu7cNSp5aEK9CLVghX_P5P6FyVqSW_B8MmwawPeClxa1q84emW_12Y=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1431784,
+      "lng": 77.2855571,
+      "label": "MEDAURA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mehta-clinic-kansapur-rd-yamunanagar-yamuna-nagar",
+    "name": "Mehta Clinic.Kansapur Rd Yamunanagar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Yamuna Nagar, Mehta Clinic.Kansapur Rd Yamunanagar offers coordinated hospital care with major focus on Liver Transplant Surgery In Yamunanagar. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Yamuna Nagar.",
+    "email": "",
+    "phone": "093553 10880",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1-a, Kansapur Rd, Bhagwati Colony, Bank Colony, Sasauli, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Sasauli",
+    "landmark": "Bhagwati Colony",
+    "emergencyContact": "093553 10880",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1427671%2C77.2708277&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1427671%2C77.2708277&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1427671%2C77.2708277&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1427671%2C77.2708277&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1427671,
+      "lng": 77.2708277,
+      "label": "Mehta Clinic.Kansapur Rd Yamunanagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mukand-lal-civil-hospital-and-trauma-centre-jagadhri",
+    "name": "Mukand Lal Civil Hospital And Trauma Centre",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jagadhri often choose Mukand Lal Civil Hospital And Trauma Centre for its strength in Gynecologist Surgery In Yamunanagar. Operational strengths including Google rating 3.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jagadhri can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "01732 231 608",
+    "alternatePhone": "",
+    "website": "",
+    "address": "opp. BSNL Office, Model Colony, East Bhatia Nagar, Yamuna Nagar, Jagadhri, Haryana 135001",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Yamuna Nagar",
+    "landmark": "East Bhatia Nagar",
+    "emergencyContact": "01732 231 608",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_Pv5JJa3A_qhaSegr3h3xOVXc-6FVOWtQcZMgUEHXoF567jIMgVM60rysy10KqW0pes7OE3tF2MLgUfLOfDOvybKB989y653cfmN_D5_uiw2DPDxpZMdpFC1O0f0MR97AJ2LQKQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_Pv5JJa3A_qhaSegr3h3xOVXc-6FVOWtQcZMgUEHXoF567jIMgVM60rysy10KqW0pes7OE3tF2MLgUfLOfDOvybKB989y653cfmN_D5_uiw2DPDxpZMdpFC1O0f0MR97AJ2LQKQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGT9Qhm3vIckr7UvOO9Ld3R_jQh5OGA7wW5eQ4vvYF8IYPHLiPLqIRwu94FpsAvLx724-Zdi0Pj_NQQKAxjYynDtb9MsURqIcihKXuK2PJloQQoGS33BNr_KybfP2HN3jSKgxdM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1400701,
+      "lng": 77.2999881,
+      "label": "Mukand Lal Civil Hospital And Trauma Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nephroplus-dialysis-and-kidney-care-centre-yamuna-nagar",
+    "name": "NephroPlus Dialysis & Kidney Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NephroPlus Dialysis & Kidney Care Centre is a prominent hospital in Yamuna Nagar, known for structured tertiary care across Kidney Transplant Surgery In Yamunanagar and Kidney Care. The facility stands out for Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Yamuna Nagar.",
+    "email": "",
+    "phone": "073373 20359",
+    "alternatePhone": "",
+    "website": "https://www.nephroplus.com/",
+    "address": "Thapar Colony Gate, Roadopposite Paper Mill, Workshop Rd, Yamuna Nagar, Haryana 134003",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "134003",
+    "locality": "Workshop Rd",
+    "landmark": "Workshop Rd",
+    "emergencyContact": "073373 20359",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yamunanagar",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXcAFYCzJaKZfhqoaD1jkvl2SbzxGS_BoTGX5Tox0Mf0ojVIH8EvCChxTFS8SI7bcq5dnytZEjuPLdrKquFHtkRpQ73URno3BV4Y8OMim9fqfanyCe_xfq3akuE83rrHYZ7XFQgp4GKGk=w1200-h900-p-k-no",
+    "logo": "https://nephroplus.com/assets/images/logo_nephro.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXcAFYCzJaKZfhqoaD1jkvl2SbzxGS_BoTGX5Tox0Mf0ojVIH8EvCChxTFS8SI7bcq5dnytZEjuPLdrKquFHtkRpQ73URno3BV4Y8OMim9fqfanyCe_xfq3akuE83rrHYZ7XFQgp4GKGk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.130167,
+      "lng": 77.29013,
+      "label": "NephroPlus Dialysis & Kidney Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nirmal-hospital-yamuna-nagar",
+    "name": "Nirmal Hospital",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Yamuna Nagar, Nirmal Hospital offers coordinated hospital care with major focus on Heart Surgery In Yamunanagar and Cardiac Care. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Yamuna Nagar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Nirmal Hospital opp Main Bazar, Vishkarma chowk, Radaur Rd, Camp, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Camp",
+    "landmark": "Radaur Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Yamunanagar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfqntCtPy46Fk3pnAmG0GP7LHqiRKXpFNJITREx0psh1G4uR6eFSxZSaf9l2P1MuoW0L9MLp_w_jKkUYZ6oyUl2CkCJdQxJqbf4Ez5B6ic3BoBi4TxHacs8ITNZAk-_oSRHeK6WQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfqntCtPy46Fk3pnAmG0GP7LHqiRKXpFNJITREx0psh1G4uR6eFSxZSaf9l2P1MuoW0L9MLp_w_jKkUYZ6oyUl2CkCJdQxJqbf4Ez5B6ic3BoBi4TxHacs8ITNZAk-_oSRHeK6WQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuhhN1EZ7CJwaqDRydu8jZDzVZMB2rE4QmYax6ovGfl3nBxlt5katBDPkG_iIlvSokD38F3Ka_WHPrJMXVWEcnKRV_H2bmZNBAgnyl09MCfQPKXmLyn2tWXQq7eNPPnyx0vAoal2k4ePA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcYwPPsTrrtNfJpTEk2BC8yXTGNeD_yxHYCLLlD4onXpvHUDDBz5zm9RlmxAse2KVWExM_dhd0eDelRgLEZtgmybI5vJ3ErqQ0-pkAEtb-mxtiWFVHXjzuSRafZsvnQYYJwaVFnQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1189825,
+      "lng": 77.2637351,
+      "label": "Nirmal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nk-urology-center-yamuna-nagar",
+    "name": "NK Urology Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Yamuna Nagar, NK Urology Center brings together specialists for Urologist Surgery In Yamunanagar. Its infrastructure includes Google rating 2.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Yamuna Nagar.",
+    "email": "",
+    "phone": "098130 50090",
+    "alternatePhone": "",
+    "website": "",
+    "address": "National Highway 73, Sarojini Colony, Model Town, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Model Town",
+    "landmark": "Model Town",
+    "emergencyContact": "098130 50090",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGu4TWQqg_q69igTIaTYsxEcUHsnSWQCCVCrMcr2kKQzPyG8IlUXGooOdYtyDhIXZF_jK-iyDuNiNX39_GB4cLnQNYmI43n_WHYrMrFSyCuMUDV0i4ZGcpPs1g_jAAOfT7jGGD8Gw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGu4TWQqg_q69igTIaTYsxEcUHsnSWQCCVCrMcr2kKQzPyG8IlUXGooOdYtyDhIXZF_jK-iyDuNiNX39_GB4cLnQNYmI43n_WHYrMrFSyCuMUDV0i4ZGcpPs1g_jAAOfT7jGGD8Gw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1396929,
+      "lng": 77.2815136,
+      "label": "NK Urology Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "paras-hospital-yamuna-nagar",
+    "name": "Paras Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Yamuna Nagar, Paras Hospital brings together specialists for Liver Transplant Surgery In Yamunanagar. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Yamuna Nagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099963 35228",
+    "alternatePhone": "",
+    "website": "http://usaesthetics.org/",
+    "address": "Station Road, Jagadhri, Near Sapphire hotel, Yamuna Nagar, Haryana 135003",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Near Sapphire hotel",
+    "landmark": "Near Sapphire hotel, Yamuna Nagar, Haryana 135003",
+    "emergencyContact": "099963 35228",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXoZqRPAouR37SPab3ggnA2S6JtRPyexFPH1x9kz6I4Thc_CPtDLjT6bCMnrkoN25QVFJIBVDLPalM8ENslkwfvEN6Gzf9o-yY5IHPGVkUCwRJ8YLMkIxcXtiQ-84wXO426E-q=w1200-h900-p-k-no",
+    "logo": "https://usaesthetics.org/images/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXoZqRPAouR37SPab3ggnA2S6JtRPyexFPH1x9kz6I4Thc_CPtDLjT6bCMnrkoN25QVFJIBVDLPalM8ENslkwfvEN6Gzf9o-yY5IHPGVkUCwRJ8YLMkIxcXtiQ-84wXO426E-q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1490487,
+      "lng": 77.3058963,
+      "label": "Paras Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pardeep-hospital-yamuna-nagar",
+    "name": "Pardeep Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Yamuna Nagar, Pardeep Hospital brings together specialists for Urologist Surgery In Yamunanagar. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Yamuna Nagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097292 55778",
+    "alternatePhone": "",
+    "website": "",
+    "address": "167, Sarojini Colony, Model Town, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Model Town",
+    "landmark": "Model Town",
+    "emergencyContact": "097292 55778",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1370131%2C77.2779356&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1370131%2C77.2779356&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1370131%2C77.2779356&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1370131%2C77.2779356&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1370131,
+      "lng": 77.2779356,
+      "label": "Pardeep Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "r-k-gupta-hospital-and-heart-centre-jagadhri",
+    "name": "R.K. Gupta Hospital & Heart Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "R.K. Gupta Hospital & Heart Centre has built a strong reputation in Jagadhri for multidisciplinary treatment pathways covering Liver Transplant Surgery In Yamunanagar and Cardiac Care. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jagadhri.",
+    "email": "",
+    "phone": "080599 34311",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gobindpuri Rd, near Madhu Hotel, opposite to D.A.V. Sr Sec School, Professor Colony, Prem Colony, Yamuna Nagar, Jagadhri, Haryana 135001",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Yamuna Nagar",
+    "landmark": "near Madhu Hotel, opposite to D.A.V. Sr Sec School, Professor Colony, Prem Colony, Yamuna Nagar, Jagadhri, Haryana 135001",
+    "emergencyContact": "080599 34311",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGA4vxc6Y7q6H0sgXS-bMHZ7Af9Nl9mJk2CKt-kHp3AC2I0kQzHjrGZbwct6DF4xVr1bYKKXToGjOswvRfuEKcGSk2le2JSuSR6Y5M6nKhuhNEMRB1O5bJELOXCVO6zjFsvOyT9=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGA4vxc6Y7q6H0sgXS-bMHZ7Af9Nl9mJk2CKt-kHp3AC2I0kQzHjrGZbwct6DF4xVr1bYKKXToGjOswvRfuEKcGSk2le2JSuSR6Y5M6nKhuhNEMRB1O5bJELOXCVO6zjFsvOyT9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1372563,
+      "lng": 77.2957876,
+      "label": "R.K. Gupta Hospital & Heart Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "raj-hospital-yamuna-nagar",
+    "name": "Raj Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yamuna Nagar often choose Raj Hospital for its strength in Urologist Surgery In Yamunanagar. Its infrastructure includes Google rating 3.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Yamuna Nagar.",
+    "email": "",
+    "phone": "099921 68370",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kanhaiya Chowk, 4, Ram Nagar , Near, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Near",
+    "landmark": "Ram Nagar",
+    "emergencyContact": "099921 68370",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1422738%2C77.2857217&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1422738%2C77.2857217&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1422738%2C77.2857217&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1422738%2C77.2857217&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1422738,
+      "lng": 77.2857217,
+      "label": "Raj Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rajan-hospital-yamuna-nagar",
+    "name": "Rajan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Yamuna Nagar, Rajan Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Yamunanagar. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Yamuna Nagar.",
+    "email": "",
+    "phone": "093544 48880",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bank Colony, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Bank Colony",
+    "landmark": "Haryana 135001",
+    "emergencyContact": "093544 48880",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXd56YL9Tb2pvHQm8fN-b3U_ZEvZtX6kY9gBTNVu0X_5Q_gYTaP07vARQOZ5IT0qDmodszRh-77G1keNGhtAe2ZKc_h3AlPeyavPV34QAe7wAz7Jv9qa1fJjFlvhq1LXM1yZpFJQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXd56YL9Tb2pvHQm8fN-b3U_ZEvZtX6kY9gBTNVu0X_5Q_gYTaP07vARQOZ5IT0qDmodszRh-77G1keNGhtAe2ZKc_h3AlPeyavPV34QAe7wAz7Jv9qa1fJjFlvhq1LXM1yZpFJQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1356813,
+      "lng": 77.2658839,
+      "label": "Rajan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rana-hospital-jagadhri",
+    "name": "Rana Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rana Hospital is a prominent hospital in Jagadhri, known for structured tertiary care across Gynecologist Surgery In Yamunanagar. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jagadhri.",
+    "email": "",
+    "phone": "086077 82275",
+    "alternatePhone": "",
+    "website": "https://www.smilehospital.in/",
+    "address": "Rana Hospital, Gobindpuri Rd, Professor Colony, Prem Colony, Yamuna Nagar, Jagadhri, Haryana 135001",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Yamuna Nagar",
+    "landmark": "Professor Colony",
+    "emergencyContact": "086077 82275",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZc_2JNB0K6IrYMUMSeNN5ZsMSZwTM1WHHwheYbSoR8Atmo7rjGqJN-yEIirPj_kwVCJcNGfhW3a9awxI2C-s_OK5aggbkLtMw_icIFzcIXbLJbVcF2S6VkKdg38_5hKFOOcCrjQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZc_2JNB0K6IrYMUMSeNN5ZsMSZwTM1WHHwheYbSoR8Atmo7rjGqJN-yEIirPj_kwVCJcNGfhW3a9awxI2C-s_OK5aggbkLtMw_icIFzcIXbLJbVcF2S6VkKdg38_5hKFOOcCrjQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1412369,
+      "lng": 77.2868525,
+      "label": "Rana Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rishi-ram-hospital-yamuna-nagar",
+    "name": "Rishi Ram Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Yamuna Nagar, Rishi Ram Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Yamunanagar. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Yamuna Nagar.",
+    "email": "",
+    "phone": "01732 796 819",
+    "alternatePhone": "",
+    "website": "",
+    "address": "41, Bus Stand Rd, Sarojini Colony, Shyam Nagar, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Shyam Nagar",
+    "landmark": "Sarojini Colony",
+    "emergencyContact": "01732 796 819",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFTVFq35PuNbeWB-4faUSzNWEMlZAj_40S_ICuK634MlimVvgYGqX3I0e5s-wKPQakWH8vlTMkuPoUCcB2YUGNcdXgsQ9HFACmvgtJCUHLSkqbg8g1EJvhw1Zqw_6hhEXx4FAR=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFTVFq35PuNbeWB-4faUSzNWEMlZAj_40S_ICuK634MlimVvgYGqX3I0e5s-wKPQakWH8vlTMkuPoUCcB2YUGNcdXgsQ9HFACmvgtJCUHLSkqbg8g1EJvhw1Zqw_6hhEXx4FAR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1358944,
+      "lng": 77.2779296,
+      "label": "Rishi Ram Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rudraksh-multispeciality-hospital-jagadhri",
+    "name": "Rudraksh Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jagadhri often choose Rudraksh Multispeciality Hospital for its strength in Liver Transplant Surgery In Yamunanagar and Speciality Care. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jagadhri.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sector 17, Huda, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Huda",
+    "landmark": "Jagadhri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUiwfB6T1j0NduVgpE44PERU--ETSI0ehO5VFtTKwL26jGZtCA4gfUnFFLm9bCKAAGdCjW4pcLAvcTXl36TVY7FNNW44qHsrAEg1KI816KOeF6praweaJ1Q6WRQsiw3XNtbwqNGdL9fPyg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUiwfB6T1j0NduVgpE44PERU--ETSI0ehO5VFtTKwL26jGZtCA4gfUnFFLm9bCKAAGdCjW4pcLAvcTXl36TVY7FNNW44qHsrAEg1KI816KOeF6praweaJ1Q6WRQsiw3XNtbwqNGdL9fPyg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1536938,
+      "lng": 77.3092434,
+      "label": "Rudraksh Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "s-p-infertility-and-surgical-centre-jagadhri",
+    "name": "S P Infertility and Surgical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jagadhri, S P Infertility and Surgical Centre delivers integrated care across Gynecologist Surgery In Yamunanagar and Fertility Care. Hospital capacity markers such as Google rating 3.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jagadhri.",
+    "email": "",
+    "phone": "099966 88123",
+    "alternatePhone": "",
+    "website": "",
+    "address": "opposite Saraswati vidya mandir school, Shivpuri Society, Bhagwangarh, Sector 35, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Sector 35",
+    "landmark": "Bhagwangarh",
+    "emergencyContact": "099966 88123",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9ADKm9515vJ_8w12Hm-FQ2amDRccA4wny1GnS66zjshL0xMzqzQNvboJ6RLhzh3QUgGbuASKR7Su-3DE-kbBVwA77ccbYA2SpFtRDuH8AVT1Ouq3zwqmxwLDNlG18gymJ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9ADKm9515vJ_8w12Hm-FQ2amDRccA4wny1GnS66zjshL0xMzqzQNvboJ6RLhzh3QUgGbuASKR7Su-3DE-kbBVwA77ccbYA2SpFtRDuH8AVT1Ouq3zwqmxwLDNlG18gymJ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1594637,
+      "lng": 77.314676,
+      "label": "S P Infertility and Surgical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "saaol-heart-center-yamuna-nagar",
+    "name": "Saaol heart center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Yamuna Nagar, Saaol heart center delivers integrated care across Heart Surgery In Yamunanagar and Cardiac Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Yamuna Nagar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "47CM+5X3, Rampura Industrial Area, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Rampura Industrial Area",
+    "landmark": "Yamuna Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Yamunanagar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1203899%2C77.2849201&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1203899%2C77.2849201&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1203899%2C77.2849201&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1203899%2C77.2849201&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1203899,
+      "lng": 77.2849201,
+      "label": "Saaol heart center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sabbarwal-hospital-jagadhri",
+    "name": "Sabbarwal Hospital",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jagadhri, Sabbarwal Hospital brings together specialists for Heart Surgery In Yamunanagar and Cardiac Care. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jagadhri.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "57FQ+F7W, Gulab Nagar, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Gulab Nagar",
+    "landmark": "Jagadhri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Yamunanagar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhKptRLH9pyMruHfBgbJBcSBgcRu9AuNmVhgWLS13fc83Oa6JWvDQgYi3iuzBKrdML9DfZkQtC4aF74IW5zA5DiJ5yYSBDh6gHHfJRtFHBRcDPBM37sMAtMw1N2I1VwLKVq-966w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhKptRLH9pyMruHfBgbJBcSBgcRu9AuNmVhgWLS13fc83Oa6JWvDQgYi3iuzBKrdML9DfZkQtC4aF74IW5zA5DiJ5yYSBDh6gHHfJRtFHBRcDPBM37sMAtMw1N2I1VwLKVq-966w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1741331,
+      "lng": 77.2901461,
+      "label": "Sabbarwal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "saraswati-hospital-yamuna-nagar",
+    "name": "Saraswati Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yamuna Nagar often choose Saraswati Hospital for its strength in Liver Transplant Surgery In Yamunanagar. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Yamuna Nagar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kamani Chowk, Hari Nagar, Rampura Industrial Area, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Rampura Industrial Area",
+    "landmark": "Rampura Industrial Area",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGv83qBCsgkXericoI7_R7SHsMheCs_s6eDaWtbVk1CzK3c9DEQ82xtQiPKLmdFssDlfrB5k11BOzYGC0eRn7KGG6Ll965XkE1to-sE0vttBB3Y_jWjpGxW0H1NjXD-jtBXBMaE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGv83qBCsgkXericoI7_R7SHsMheCs_s6eDaWtbVk1CzK3c9DEQ82xtQiPKLmdFssDlfrB5k11BOzYGC0eRn7KGG6Ll965XkE1to-sE0vttBB3Y_jWjpGxW0H1NjXD-jtBXBMaE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1338813,
+      "lng": 77.2718831,
+      "label": "Saraswati Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shivani-hospital-jagadhri",
+    "name": "Shivani Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jagadhri often choose Shivani Hospital for its strength in Gynecologist Surgery In Yamunanagar. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jagadhri can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093553 28122",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shivani Hospital, Narayan Bagh Colony, 1632, Jaroda Gate, near St. Thomas School, Civil Lines, Gomti Mohalla, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Gomti Mohalla",
+    "landmark": "near St. Thomas School, Civil Lines, Gomti Mohalla, Jagadhri, Haryana 135003",
+    "emergencyContact": "093553 28122",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9RTTl5erSmiaT1AuSiUIzVkV8vtYbniYr8SYqep1_YZO24oTuvp-Yfb3hQRm6fQhPsQ6F2A0V8xFSf_N9Am2sTz5SxC96zgKhtxHG5Hb2tcqRLL5mpiWVdvNGguDQFsgUh7AyYA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9RTTl5erSmiaT1AuSiUIzVkV8vtYbniYr8SYqep1_YZO24oTuvp-Yfb3hQRm6fQhPsQ6F2A0V8xFSf_N9Am2sTz5SxC96zgKhtxHG5Hb2tcqRLL5mpiWVdvNGguDQFsgUh7AyYA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1716962,
+      "lng": 77.2987292,
+      "label": "Shivani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sindhu-hospital-near-sapphire-hotel-jagadhri",
+    "name": "Sindhu Hospital Near Sapphire Hotel",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jagadhri, Sindhu Hospital Near Sapphire Hotel offers coordinated hospital care with major focus on Orthopedic Surgery In Yamunanagar. Its infrastructure includes Google rating 3.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jagadhri.",
+    "email": "",
+    "phone": "082789 50108",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sindhu hospital, near Sapphire Hotel, Veer Nagar, Basant Nagar, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Basant Nagar",
+    "landmark": "near Sapphire Hotel, Veer Nagar, Basant Nagar, Jagadhri, Haryana 135003",
+    "emergencyContact": "082789 50108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-NUhbKwESP6oA9S-DRNiPmjOOC5DOKj0T5SaP8Pdinw8Fuf-0TkB1rPb07MDFyG-4qbBiu4I8gXC1Hynf9QQlsfX6II0V41I7C61WgGDYLtsEvEBRAGnIbJE4jDn42X5Ty0aI8g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-NUhbKwESP6oA9S-DRNiPmjOOC5DOKj0T5SaP8Pdinw8Fuf-0TkB1rPb07MDFyG-4qbBiu4I8gXC1Hynf9QQlsfX6II0V41I7C61WgGDYLtsEvEBRAGnIbJE4jDn42X5Ty0aI8g=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1492324,
+      "lng": 77.3065212,
+      "label": "Sindhu Hospital Near Sapphire Hotel",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "suresh-chandra-memorial-multispeciality-general-and-dental-hospital-jorian-yamuna-nagar-135001-republic-of",
+    "name": "Suresh Chandra Memorial multispeciality (General & Dental) Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jorian Yamuna Nagar हरियाणा 135001 Republic of, Suresh Chandra Memorial multispeciality (General & Dental) Hospital brings together specialists for Gynecologist Surgery In Yamunanagar and Speciality Care. Its infrastructure includes Google rating 3.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jorian Yamuna Nagar हरियाणा 135001 Republic of can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "01732 239 055",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jorian Yamuna Nagar हरियाणा 135001 Republic of, Haryana 135002",
+    "city": "Jorian Yamuna Nagar हरियाणा 135001 Republic of",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "01732 239 055",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGA-jXoBxiwnDIyy7BQLvxvPi7FANpJ0uhTIj0EiJPfpxBgUryoVZuzVMjYu5XbQWUeLu-YiorQ8QQI-UT_hS0B6P-r9etPce0WddPpQrxTAocdaSw2pEJo_7UvTtknz2JhI3KN=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGA-jXoBxiwnDIyy7BQLvxvPi7FANpJ0uhTIj0EiJPfpxBgUryoVZuzVMjYu5XbQWUeLu-YiorQ8QQI-UT_hS0B6P-r9etPce0WddPpQrxTAocdaSw2pEJo_7UvTtknz2JhI3KN=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1144357,
+      "lng": 77.2439034,
+      "label": "Suresh Chandra Memorial multispeciality (General & Dental) Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sushruta-hospital-chandpur",
+    "name": "Sushruta Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sushruta Hospital is a prominent hospital in Chandpur, known for structured tertiary care across Liver Transplant Surgery In Yamunanagar. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Chandpur.",
+    "email": "",
+    "phone": "094994 52400",
+    "alternatePhone": "",
+    "website": "http://sushrutahospital.in/",
+    "address": "B-9/514 A, Chandpur, Haryana 135001",
+    "city": "Chandpur",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "B-9/514 A",
+    "landmark": "Haryana 135001",
+    "emergencyContact": "094994 52400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG-b15ixU42AibQ3MZX-0C13pszeow2LYLhaRgu0UXbGQK4WfrQeOW_oPyBypmBTqTe8McqrzrVYd3o6yiCOBxFbuFIMY7qLmvspVl07zKqIb35VG9rdr-PnFsISYjxSswDdwyp=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG-b15ixU42AibQ3MZX-0C13pszeow2LYLhaRgu0UXbGQK4WfrQeOW_oPyBypmBTqTe8McqrzrVYd3o6yiCOBxFbuFIMY7qLmvspVl07zKqIb35VG9rdr-PnFsISYjxSswDdwyp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbqEyhU1D9LbOAnvX67fqlO7p_eCoPARcYKGAEX-p5mAAyRHgyRbdg9D-LS2d_7K8-0JKihe_URjhIDhMLbxLJ3b_QauWa_b-uKcVjQGf9wu6BOlth9E6T3aUZksM_JJlyjCPF=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1300672,
+      "lng": 77.2693582,
+      "label": "Sushruta Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "swastik-hospital-best-hospital-in-yamunanagar-jagadhri",
+    "name": "Swastik Hospital | Best Hospital in Yamunanagar",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Swastik Hospital | Best Hospital in Yamunanagar has built a strong reputation in Jagadhri for multidisciplinary treatment pathways covering Liver Transplant Surgery In Yamunanagar. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jagadhri.",
+    "email": "",
+    "phone": "080596 92431",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Puran Vihar, opposite PNB bank, Sector 17, Yamuna Nagar, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Yamuna Nagar",
+    "landmark": "opposite PNB bank, Sector 17, Yamuna Nagar, Jagadhri, Haryana 135003",
+    "emergencyContact": "080596 92431",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHddiK6pYoA7f--qznt4UL6lv5taGDN6gWj3FBnwafluLBrQoOv8R-SthgRRKO8Qenrar8dxv-bX2lqHdUUiwt3cICsXfSM6xAkhexsEXc6imNksYAFhHDN2vVlYD_mQzIPDen5_FmYkd9R=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHddiK6pYoA7f--qznt4UL6lv5taGDN6gWj3FBnwafluLBrQoOv8R-SthgRRKO8Qenrar8dxv-bX2lqHdUUiwt3cICsXfSM6xAkhexsEXc6imNksYAFhHDN2vVlYD_mQzIPDen5_FmYkd9R=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1545114,
+      "lng": 77.3099452,
+      "label": "Swastik Hospital | Best Hospital in Yamunanagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vaidya-charan-singh-jagadhri",
+    "name": "Vaidya Charan Singh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jagadhri, Vaidya Charan Singh delivers integrated care across Liver Transplant Surgery In Yamunanagar. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jagadhri.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "48R5+8VM, Basant Nagar, Yamuna Nagar, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Yamuna Nagar",
+    "landmark": "Yamuna Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1409115%2C77.3096688&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1409115%2C77.3096688&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1409115%2C77.3096688&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1409115%2C77.3096688&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1409115,
+      "lng": 77.3096688,
+      "label": "Vaidya Charan Singh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vardaan-hospital-jagadhri",
+    "name": "Vardaan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vardaan Hospital is a prominent hospital in Jagadhri, known for structured tertiary care across Kidney Transplant Surgery In Yamunanagar. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jagadhri.",
+    "email": "",
+    "phone": "085710 00359",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opp. Dimple Cinema,Puran Vihar,, 464A, near Kohli Hospital - Best Orthopedic Hospital | Spine & Joint Surgery | Arthroscopy Surgery, Sector 17, Huda, Jagadhri, Haryana 135003",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135003",
+    "locality": "Huda",
+    "landmark": "near Kohli Hospital - Best Orthopedic Hospital | Spine & Joint Surgery | Arthroscopy Surgery, Sector 17, Huda, Jagadhri, Haryana 135003",
+    "emergencyContact": "085710 00359",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkmKEycXzdIZsO_adhQ6CYyjM306i1fGY3S4cJLXwwZO0UXFhlF9-ZHL52GkiR-reZeYe0HRXV586ycC5LFTmIKlRN9kZar4oiFH1L1B-UmqaijHv7BjvM6fUfLNESQwt5Img=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkmKEycXzdIZsO_adhQ6CYyjM306i1fGY3S4cJLXwwZO0UXFhlF9-ZHL52GkiR-reZeYe0HRXV586ycC5LFTmIKlRN9kZar4oiFH1L1B-UmqaijHv7BjvM6fUfLNESQwt5Img=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1541592,
+      "lng": 77.3096194,
+      "label": "Vardaan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vikram-hospital-jagadhri",
+    "name": "Vikram Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vikram Hospital has built a strong reputation in Jagadhri for multidisciplinary treatment pathways covering Gynecologist Surgery In Yamunanagar. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jagadhri can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098121 86049",
+    "alternatePhone": "",
+    "website": "",
+    "address": "National Highway 73, near Kanhaiya Chowk, Ram Nagar, Jagadhri, Haryana 135001",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Ram Nagar",
+    "landmark": "near Kanhaiya Chowk, Ram Nagar, Jagadhri, Haryana 135001",
+    "emergencyContact": "098121 86049",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG249v1TbFrzsOwmM1XGziU9AAOlttVNB4yZqK_o42rxPI5ospgi1jJru65N3C0RviZ0tmGslYhgKEeVMLXtUHRRedf3FpKiLYA3-na3YTFNiiwqEVB_WsGrX7cI5iaqdKEyJI7=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG249v1TbFrzsOwmM1XGziU9AAOlttVNB4yZqK_o42rxPI5ospgi1jJru65N3C0RviZ0tmGslYhgKEeVMLXtUHRRedf3FpKiLYA3-na3YTFNiiwqEVB_WsGrX7cI5iaqdKEyJI7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1425789,
+      "lng": 77.285709,
+      "label": "Vikram Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vinayak-hospital-yamuna-nagar",
+    "name": "Vinayak Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Yamuna Nagar, Vinayak Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Yamunanagar. The facility stands out for Google rating 3.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Yamuna Nagar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "141, near Dushera Ground, Sarojini Colony, Phase 1, Model Town, Yamuna Nagar, Haryana 135001",
+    "city": "Yamuna Nagar",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "Model Town",
+    "landmark": "near Dushera Ground, Sarojini Colony, Phase 1, Model Town, Yamuna Nagar, Haryana 135001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=30.1382935%2C77.2790204&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=30.1382935%2C77.2790204&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1382935%2C77.2790204&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=30.1382935%2C77.2790204&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1382935,
+      "lng": 77.2790204,
+      "label": "Vinayak Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "waryam-singh-hospital-oppo-civil-hospital-mukanlal-jagadhri",
+    "name": "Waryam singh hospital oppo. Civil hospital mukanlal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jagadhri, Waryam singh hospital oppo. Civil hospital mukanlal brings together specialists for Oncologist Surgery In Yamunanagar. With public-facing highlights like Google rating 3.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jagadhri.",
+    "email": "",
+    "phone": "099910 10883",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Floor Ishar Complex Near Bsnl Telephone Exchange, Model Colony, East Bhatia Nagar, Jagadhri, Haryana 135001",
+    "city": "Jagadhri",
+    "state": "Haryana",
+    "pincode": "135001",
+    "locality": "East Bhatia Nagar",
+    "landmark": "Near Bsnl Telephone Exchange, Model Colony, East Bhatia Nagar, Jagadhri, Haryana 135001",
+    "emergencyContact": "099910 10883",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Yamunanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFyCY3685it4qN-MpJTvhxWBf4pwggLoDW0ck8bVHrbrXaUcYGAjUIx4vPSCfHa5a8XTpNMJEpuIEFhpjypv3K1t69rfVQDDlElTmSi_eBGppjVJebGr1So5TjuXI5d1drZekCdwA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFyCY3685it4qN-MpJTvhxWBf4pwggLoDW0ck8bVHrbrXaUcYGAjUIx4vPSCfHa5a8XTpNMJEpuIEFhpjypv3K1t69rfVQDDlElTmSi_eBGppjVJebGr1So5TjuXI5d1drZekCdwA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 30.1406101,
+      "lng": 77.3003955,
+      "label": "Waryam singh hospital oppo. Civil hospital mukanlal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

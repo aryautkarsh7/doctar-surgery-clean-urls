@@ -1,0 +1,4032 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aarohi-physiotherapy-clinic-nachane",
+    "name": "Aarohi physiotherapy clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Nachane, Aarohi physiotherapy clinic offers coordinated hospital care with major focus on Kidney Transplant Surgery In Ratnagiri. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Nachane.",
+    "email": "",
+    "phone": "070202 96079",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gala no 3 Vishnupant jogakekar sankul, Nachane Rd, Maruti Mandir, ratnagiriAli, Nachane, Maharashtra 415639",
+    "city": "Nachane",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "ratnagiriAli",
+    "landmark": "Maruti Mandir",
+    "emergencyContact": "070202 96079",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGY40D-JtXXoAX7WBHTj8PIvPW4goruuxKBet3byxUfIDSfilLVxV4KAP1j5_kd9j2wUdrEvK6eW7A6xAMkR2BEwF-sAOpoPuFNcR5iQmIk8qFB3VUV66O4DUtDWbnpo2TTeCsD=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGY40D-JtXXoAX7WBHTj8PIvPW4goruuxKBet3byxUfIDSfilLVxV4KAP1j5_kd9j2wUdrEvK6eW7A6xAMkR2BEwF-sAOpoPuFNcR5iQmIk8qFB3VUV66O4DUtDWbnpo2TTeCsD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9891185,
+      "lng": 73.3150226,
+      "label": "Aarohi physiotherapy clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aparant-hospital-chiplun",
+    "name": "Aparant Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Chiplun, Aparant Hospital brings together specialists for Liver Transplant Surgery In Ratnagiri. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Chiplun can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079988 98989",
+    "alternatePhone": "",
+    "website": "https://www.aparanthospital.com/",
+    "address": "Savitri Enclave, Bhogale Rd, above Kings Super Market, opp. LIC Office, Royal Nagar, Chiplun, Maharashtra 415605",
+    "city": "Chiplun",
+    "state": "Maharashtra",
+    "pincode": "415605",
+    "locality": "Royal Nagar",
+    "landmark": "above Kings Super Market",
+    "emergencyContact": "079988 98989",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHoBA-42z0jGfYzGsmFipbNBSYogf69N9tAb1XHrnu6PtdiBYUvjw0OPb-b6u2ZEi_N4nhjtz6SAB5v38shkhRr9IWvakt0uHJ3Iw8d9j5rYvSkModSKjO0Anrm2L9RWo53i8BH=w1200-h900-p-k-no",
+    "logo": "https://aparanthospital.com/images/aparant-hospital.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHoBA-42z0jGfYzGsmFipbNBSYogf69N9tAb1XHrnu6PtdiBYUvjw0OPb-b6u2ZEi_N4nhjtz6SAB5v38shkhRr9IWvakt0uHJ3Iw8d9j5rYvSkModSKjO0Anrm2L9RWo53i8BH=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.5278671,
+      "lng": 73.5149175,
+      "label": "Aparant Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aurangabadkar-hospital-ratnagiri",
+    "name": "Aurangabadkar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aurangabadkar Hospital is a prominent hospital in Ratnagiri, known for structured tertiary care across Gynecologist Surgery In Ratnagiri. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ratnagiri.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "X7XR+4FC, Tilak Ali, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Tilak Ali",
+    "landmark": "Ratnagiri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGo2UNpaIN6gGlGx9yhbtMKrVc3U__O1wALfkEUXiQjOAz7ClGUDXnevpX0OgnBvmq9T37fwnMegLhPWrtPwQ9zbEhn6G9nrRy-L0W_37YOf0ws3uBvgxmeUMiSBclbTryrnHk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGo2UNpaIN6gGlGx9yhbtMKrVc3U__O1wALfkEUXiQjOAz7ClGUDXnevpX0OgnBvmq9T37fwnMegLhPWrtPwQ9zbEhn6G9nrRy-L0W_37YOf0ws3uBvgxmeUMiSBclbTryrnHk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9978173,
+      "lng": 73.2911502,
+      "label": "Aurangabadkar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ayurzeal-spine-clinic-ratnagiri",
+    "name": "Ayurzeal Spine Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratnagiri often choose Ayurzeal Spine Clinic for its strength in Spine Surgery In Ratnagiri and Spine Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ratnagiri.",
+    "email": "",
+    "phone": "098194 24233",
+    "alternatePhone": "",
+    "website": "http://www.ayurzeal.com/",
+    "address": "KC Jain Nagar, opposite Naik Mahindra Showroom, Maruti Mandir, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Maruti Mandir",
+    "landmark": "opposite Naik Mahindra Showroom, Maruti Mandir, Ratnagiri, Maharashtra 415612",
+    "emergencyContact": "098194 24233",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Ratnagiri",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcmMiu1PRk0AXjh9SSTF9PKFmRUB-HB24ai0hmanuplmz4FJE2u5F-YulQlZsrI-yfenOLKiR9mnqw42cgWEuIjw4iMPRlCQdYB0KLlLw3Eta-yDGRS60WjVCeARzxNJHErDZA9C10ml8=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcmMiu1PRk0AXjh9SSTF9PKFmRUB-HB24ai0hmanuplmz4FJE2u5F-YulQlZsrI-yfenOLKiR9mnqw42cgWEuIjw4iMPRlCQdYB0KLlLw3Eta-yDGRS60WjVCeARzxNJHErDZA9C10ml8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipON8xu9kAZEJktS2y-_if4zS0lMpaokbjg4WYj-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNNDsXG9-5PM4bWorFywcedR1CHXoRvWElPFVDS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPr8npt7mTvShfLQQp6LBONMfEnNb4aRWTXiydM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNmQnb0EcjxM8Zzv0W_5pCsDpUlpcHXeeYk-Zlh=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9906353,
+      "lng": 73.3102729,
+      "label": "Ayurzeal Spine Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ayushyaman-clinic-ratnagiri-ratnagiri",
+    "name": "ayushyaman CLINIC. RATNAGIRI",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratnagiri often choose ayushyaman CLINIC. RATNAGIRI for its strength in Orthopedic Surgery In Ratnagiri. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ratnagiri.",
+    "email": "",
+    "phone": "098812 89988",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MH SH4, JAYASTAMBHA, Rajiwada, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Rajiwada",
+    "landmark": "Rajiwada",
+    "emergencyContact": "098812 89988",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=16.9897439%2C73.2973229&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=16.9897439%2C73.2973229&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.9897439%2C73.2973229&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.9897439%2C73.2973229&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9897439,
+      "lng": 73.2973229,
+      "label": "ayushyaman CLINIC. RATNAGIRI",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bhole-hospital-ortho-ratnagiri",
+    "name": "Bhole Hospital ortho",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratnagiri, Bhole Hospital ortho offers coordinated hospital care with major focus on Orthopedic Surgery In Ratnagiri and Orthopaedics. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ratnagiri.",
+    "email": "",
+    "phone": "073874 42737",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sadanand Wadi, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Sadanand Wadi",
+    "landmark": "Maharashtra 415612",
+    "emergencyContact": "073874 42737",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Ratnagiri",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRO7_SOrjjg1OTqahfFaSegby22kw-F8bNA85DLnLv8FynFkcktcrqKDsuPRC3dg33FE2NoxkyNC3rD2t50e-fX_EkSg-m-dRQYb7e9WAG7U6RdTwMz08sghxg-mdSGLlTAZPQpg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRO7_SOrjjg1OTqahfFaSegby22kw-F8bNA85DLnLv8FynFkcktcrqKDsuPRC3dg33FE2NoxkyNC3rD2t50e-fX_EkSg-m-dRQYb7e9WAG7U6RdTwMz08sghxg-mdSGLlTAZPQpg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9913859,
+      "lng": 73.2918079,
+      "label": "Bhole Hospital ortho",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "blood-bank-ratnagiri",
+    "name": "Blood Bank",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratnagiri often choose Blood Bank for its strength in Laparoscopic Surgery In Ratnagiri. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ratnagiri.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "X7QX+CF2, behind Civil Hospital, Rajiwada, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Rajiwada",
+    "landmark": "Rajiwada",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkv0FPYmqNHJp4IqwNsve4O8kJSHpWIAJitCC52pJyajQfZuzn02WxvIKFDEHYYgGbYE7-r_dqY5Bbp-RNMbGBUhnNGRLsaVwaA5zNlNfTNq4bwn1fT7cJX2GiK9fX3thoU2Q7=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkv0FPYmqNHJp4IqwNsve4O8kJSHpWIAJitCC52pJyajQfZuzn02WxvIKFDEHYYgGbYE7-r_dqY5Bbp-RNMbGBUhnNGRLsaVwaA5zNlNfTNq4bwn1fT7cJX2GiK9fX3thoU2Q7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9885231,
+      "lng": 73.2986261,
+      "label": "Blood Bank",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "chintamani-hospital-zadgaon",
+    "name": "Chintamani Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Zadgaon, Chintamani Hospital brings together specialists for Orthopedic Surgery In Ratnagiri. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Zadgaon.",
+    "email": "",
+    "phone": "088880 24617",
+    "alternatePhone": "",
+    "website": "http://chintamanihospital.co.in/",
+    "address": "X-50, MIDC, Udyamnagar, Gharkul Co-op. Housing Society, Zadgaon, Maharashtra 415639",
+    "city": "Zadgaon",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "Gharkul Co-op. Housing Society",
+    "landmark": "Udyamnagar",
+    "emergencyContact": "088880 24617",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmvhYMQdoEIckdVhVdTrG9kUk7G22LuIFD_-ToqXgI4PyJ7lQL-Z5SsLUV239pvrwiRrodO_ubV2mzP2xUFjQXFv10OjkpIalS3Wbv9A177jAjI-xjJo3OBe5QhecUTIQsg1BO=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmvhYMQdoEIckdVhVdTrG9kUk7G22LuIFD_-ToqXgI4PyJ7lQL-Z5SsLUV239pvrwiRrodO_ubV2mzP2xUFjQXFv10OjkpIalS3Wbv9A177jAjI-xjJo3OBe5QhecUTIQsg1BO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 17.0012779,
+      "lng": 73.3093041,
+      "label": "Chintamani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "chirayu-hospital-ratnagiri",
+    "name": "Chirayu Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratnagiri, Chirayu Hospital offers coordinated hospital care with major focus on Urologist Surgery In Ratnagiri. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ratnagiri.",
+    "email": "",
+    "phone": "094037 57472",
+    "alternatePhone": "",
+    "website": "http://www.chirayuhospital.org/",
+    "address": "Kolhapur - Ratnagiri Rd, Pushpendra Nagar, Ratnagiri, Nachane, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Pushpendra Nagar",
+    "landmark": "Ratnagiri",
+    "emergencyContact": "094037 57472",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnFB0cgOMnVaeT_IN9rFe_wLsHWAS3nXUUNiCde4ZTyleGZKOelJ-A-CP9t2oV4NVhq8gtm7RgAQK2HXOBJBoSK2FVMIDuc4nmrKTSkb0VLiRDlWfB09NZvy1ddkL73EggpgCiD8z1L3jL=w1200-h900-p-k-no",
+    "logo": "https://www.chirayuhospital.org/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnFB0cgOMnVaeT_IN9rFe_wLsHWAS3nXUUNiCde4ZTyleGZKOelJ-A-CP9t2oV4NVhq8gtm7RgAQK2HXOBJBoSK2FVMIDuc4nmrKTSkb0VLiRDlWfB09NZvy1ddkL73EggpgCiD8z1L3jL=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9938115,
+      "lng": 73.3276462,
+      "label": "Chirayu Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "chitle-hospital-ratnagiri",
+    "name": "Chitle Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Chitle Hospital has built a strong reputation in Ratnagiri for multidisciplinary treatment pathways covering Cosmetic Surgery In Ratnagiri. With public-facing highlights like Google rating 4.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ratnagiri.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "X7XR+46P, Tilak Ali, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Tilak Ali",
+    "landmark": "Ratnagiri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=16.9978338%2C73.2905714&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=16.9978338%2C73.2905714&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.9978338%2C73.2905714&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.9978338%2C73.2905714&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9978338,
+      "lng": 73.2905714,
+      "label": "Chitle Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "deshpande-hospital-ratnagiri-ratnagiri",
+    "name": "Deshpande Hospital Ratnagiri",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Ratnagiri, Deshpande Hospital Ratnagiri delivers integrated care across Gynecologist Surgery In Ratnagiri. With public-facing highlights like Google rating 3.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ratnagiri.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bandar Rd, Tilak Ali, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Tilak Ali",
+    "landmark": "Ratnagiri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=16.9945316%2C73.2910005&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=16.9945316%2C73.2910005&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.9945316%2C73.2910005&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.9945316%2C73.2910005&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9945316,
+      "lng": 73.2910005,
+      "label": "Deshpande Hospital Ratnagiri",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dhanvantari-hospital-nachane",
+    "name": "Dhanvantari Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dhanvantari Hospital is a prominent hospital in Nachane, known for structured tertiary care across IVF In Ratnagiri. Its infrastructure includes Google rating 4.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Nachane.",
+    "email": "",
+    "phone": "02352 221 282",
+    "alternatePhone": "",
+    "website": "http://ratnagiriivf.com/about-dhanvantari-hospital/",
+    "address": "Narhar Colony, Shivaji Nagar, Nachane, Maharashtra 415639",
+    "city": "Nachane",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "Shivaji Nagar",
+    "landmark": "Nachane",
+    "emergencyContact": "02352 221 282",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFaijzjZmx_fBZiOAeRgjb9ZW0MIuAU9bHEJCvOao1hQiL-YSsX4HIU8Vo9Hq_umlz6UMuYGNN1xeBqP8Dl42qHxyubL1hqsW24XxvsIJP7-wKFikJxx72Q0nP-c1yRkwMHbm9O=w1200-h900-p-k-no",
+    "logo": "http://ratnagiriivf.com/wp-content/uploads/2018/06/ratnagiri-ivf-logo-190x65.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFaijzjZmx_fBZiOAeRgjb9ZW0MIuAU9bHEJCvOao1hQiL-YSsX4HIU8Vo9Hq_umlz6UMuYGNN1xeBqP8Dl42qHxyubL1hqsW24XxvsIJP7-wKFikJxx72Q0nP-c1yRkwMHbm9O=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9896354,
+      "lng": 73.3223158,
+      "label": "Dhanvantari Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "district-hospital-ratnagiri-ratnagiri",
+    "name": "District Hospital, Ratnagiri",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratnagiri, District Hospital, Ratnagiri offers coordinated hospital care with major focus on Urologist Surgery In Ratnagiri. With public-facing highlights like Google rating 3.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ratnagiri.",
+    "email": "",
+    "phone": "02352 222 363",
+    "alternatePhone": "",
+    "website": "https://ratnagiri.gov.in/public-utility/civil-hospital-ratnagiri/",
+    "address": "X7QX+GRW, behind Civil Hospital, Rajiwada, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Rajiwada",
+    "landmark": "Rajiwada",
+    "emergencyContact": "02352 222 363",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENN8tFGRYtt29yXHC3YMFULF56-1ccyrTWqX7rCkfcskufSv4JeK4qw3vKYxPu2AX6X3T40Ool0JU-PRoNKz7Xzv9L9Xn5Frct5MjfnthYS_iNoyh1Ao3MmKVV4-uG_KCKBovHMQ=w1200-h900-p-k-no",
+    "logo": "https://ratnagiri.gov.in/wp-content/themes/district-theme-6/images/emblem-dark.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENN8tFGRYtt29yXHC3YMFULF56-1ccyrTWqX7rCkfcskufSv4JeK4qw3vKYxPu2AX6X3T40Ool0JU-PRoNKz7Xzv9L9Xn5Frct5MjfnthYS_iNoyh1Ao3MmKVV4-uG_KCKBovHMQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9888564,
+      "lng": 73.2995763,
+      "label": "District Hospital, Ratnagiri",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "government-district-women-s-hospital-zadgaon",
+    "name": "Government District Women's Hospital",
+    "type": "Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Zadgaon, Government District Women's Hospital delivers integrated care across Gynecologist Surgery In Ratnagiri and Women and Child Care. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Zadgaon.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "X8W8+H85, Hodekar Rd, Udyamnagar, Patwardhan Wadi, Zadgaon, Maharashtra 415639",
+    "city": "Zadgaon",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "Patwardhan Wadi",
+    "landmark": "Udyamnagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratnagiri",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCR4Hu_TYinuozMUZsyVIvy3qvsH6ozgridpP4Ij5BcZwlXLWVDklYkGI42IkKvUG_6I9r6lHcU55Q5kyxyRSDyn4ip3V8fZ9Lba4hly6raWEy6SxDuP_Y8so81HoNFgp012yH=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCR4Hu_TYinuozMUZsyVIvy3qvsH6ozgridpP4Ij5BcZwlXLWVDklYkGI42IkKvUG_6I9r6lHcU55Q5kyxyRSDyn4ip3V8fZ9Lba4hly6raWEy6SxDuP_Y8so81HoNFgp012yH=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9963907,
+      "lng": 73.3158455,
+      "label": "Government District Women's Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "infigo-eye-care-hospital-ratnagiri-nachane",
+    "name": "INFIGO EYE CARE HOSPITAL, RATNAGIRI",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "INFIGO EYE CARE HOSPITAL, RATNAGIRI is a prominent hospital in Nachane, known for structured tertiary care across Brain Surgery In Ratnagiri. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Nachane.",
+    "email": "",
+    "phone": "093727 66491",
+    "alternatePhone": "",
+    "website": "https://infigoeyehospitals.com/centers/ratnagiri/?utm_source",
+    "address": "Shop No. 3/4/5 Shantadurga Sankul Main Road, Salvi Stop, Nachane, Maharashtra 415639",
+    "city": "Nachane",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "Salvi Stop",
+    "landmark": "Nachane",
+    "emergencyContact": "093727 66491",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9S9AAmqU6yxPPYg0f-pdpU9Ypnjil4nt6T7dBpqvFz1_dRRbIi_fD2x2qOMZCdOgsGFfiLVeaSg86FwsTAiKUfNedsLWE2yJcnH8--fdJX3ZpKQsSGSPd5M8F1Ux0DePUf5Iw=w1200-h900-p-k-no",
+    "logo": "https://www.infigoeyehospitals.com/wp-content/uploads/2024/04/main-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9S9AAmqU6yxPPYg0f-pdpU9Ypnjil4nt6T7dBpqvFz1_dRRbIi_fD2x2qOMZCdOgsGFfiLVeaSg86FwsTAiKUfNedsLWE2yJcnH8--fdJX3ZpKQsSGSPd5M8F1Ux0DePUf5Iw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMBA04HsX9muSDdgs0aCaolSKe9d2UhgiL911BR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOxcYMMWr5IrdsMuNx3bHayzsGnzasmftxIgnGT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMnLXRxl7RgF83YpRRYOwiw7rAphvmZDDEB_W2d=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOYaBqRk8QwzZmJYr8vuURqZnOV5VY5XyOYTjpn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9930972,
+      "lng": 73.3255977,
+      "label": "INFIGO EYE CARE HOSPITAL, RATNAGIRI",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kolkata-kidney-institute-kolkata",
+    "name": "KOLKATA KIDNEY INSTITUTE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KOLKATA KIDNEY INSTITUTE has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Ratnagiri and Kidney Care. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "033 2484 0009",
+    "alternatePhone": "",
+    "website": "https://kolkatakidneyinstitute.com/",
+    "address": "823, Kalikapur Rd, Purbachal Kalitala, Kalikapur, Haltu, Kolkata, West Bengal 700078",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700078",
+    "locality": "Haltu",
+    "landmark": "Purbachal Kalitala",
+    "emergencyContact": "033 2484 0009",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Ratnagiri",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZlvo8Ep-uSjgXZkFqWzqJ4uwQmCn1Zl7oNt276QAMO8hcp37TWf_6zYgInMQwAYnvEwtkfk1MzVq6Uy2ICt8eoaaa7Y1-oAyHJlJ9ZJWCDqvok11A_B5hglr3GiIV1cVkpPrWSXulUAJe=w1200-h900-p-k-no",
+    "logo": "https://kolkatakidneyinstitute.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZlvo8Ep-uSjgXZkFqWzqJ4uwQmCn1Zl7oNt276QAMO8hcp37TWf_6zYgInMQwAYnvEwtkfk1MzVq6Uy2ICt8eoaaa7Y1-oAyHJlJ9ZJWCDqvok11A_B5hglr3GiIV1cVkpPrWSXulUAJe=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.503913,
+      "lng": 88.3979072,
+      "label": "KOLKATA KIDNEY INSTITUTE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "konkan-cardiac-centre-shivajinagar",
+    "name": "Konkan Cardiac Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted heart hospital in Shivajinagar, Konkan Cardiac Centre delivers integrated care across Heart Surgery In Ratnagiri and Cardiac Care. The facility stands out for Google rating 3.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Shivajinagar.",
+    "email": "",
+    "phone": "02352 221 196",
+    "alternatePhone": "",
+    "website": "http://www.konkancardiaccentre.com/",
+    "address": "2nd floor, Lotlikar hospital, Lotlikar Plaza Road, near Maruti mandir, Shivajinagar, Maharashtra 415639",
+    "city": "Shivajinagar",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "near Maruti mandir",
+    "landmark": "near Maruti mandir, Shivajinagar, Maharashtra 415639",
+    "emergencyContact": "02352 221 196",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Ratnagiri",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGu-5q47Ycy1WggaW9ObjeiXdy88zftpXoTTDkYKZ2zbsQX1wcIOhRvO8sLf7j0njKHgQqow6HTB8YIS0UlKbA6CfgnuHZP_iclKVAkQtZKMi_aTZdcNVNDRaG5ZIIDQ49bd-Xx5w=w1200-h900-p-k-no",
+    "logo": "http://www.konkancardiaccentre.com/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGu-5q47Ycy1WggaW9ObjeiXdy88zftpXoTTDkYKZ2zbsQX1wcIOhRvO8sLf7j0njKHgQqow6HTB8YIS0UlKbA6CfgnuHZP_iclKVAkQtZKMi_aTZdcNVNDRaG5ZIIDQ49bd-Xx5w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9909885,
+      "lng": 73.3144345,
+      "label": "Konkan Cardiac Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lotalikar-hospital-shree-ramnath-hospital-nachane",
+    "name": "Lotalikar Hospital (Shree Ramnath Hospital)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lotalikar Hospital (Shree Ramnath Hospital) is a prominent hospital in Nachane, known for structured tertiary care across Plastic Surgery In Ratnagiri. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Nachane.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "799, Mazgaon Road, State Bank Colony, Nachane, Maharashtra 415639",
+    "city": "Nachane",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "State Bank Colony",
+    "landmark": "State Bank Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgP4u5f4WElaw5pIAH-fvAlPtkJhktLzezBkAc5VNZt16bWPpwnK91DAqUfyI6ZepqlTbfFx4OYuy36XltHBbuXGAkLoT1sRLW6vkyiIuPUVbSPmqWXT_SUd4TZOqjrgoG7e3Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgP4u5f4WElaw5pIAH-fvAlPtkJhktLzezBkAc5VNZt16bWPpwnK91DAqUfyI6ZepqlTbfFx4OYuy36XltHBbuXGAkLoT1sRLW6vkyiIuPUVbSPmqWXT_SUd4TZOqjrgoG7e3Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtxXI9y9bWMKUehYdWJRPNmXIUNQU8yRGb--hBttrcfS0IaYZaV9POAMVIPIXWLnJi9fvr620KZOLC7o0PLlN9cVWS_mM-q8OObFnnrTjSaR-O2a-syzmvrv02sRXgtdR1nXipNd64PZzg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9908739,
+      "lng": 73.3144032,
+      "label": "Lotalikar Hospital (Shree Ramnath Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-and-panchakarma-center-shivajinagar-ratnagiri-nachane",
+    "name": "Madhavbaug – Ayurvedic Cardiac Care Clinic & Panchakarma Center (Shivajinagar, Ratnagiri)",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Madhavbaug – Ayurvedic Cardiac Care Clinic & Panchakarma Center (Shivajinagar, Ratnagiri) has built a strong reputation in Nachane for multidisciplinary treatment pathways covering Knee Replacement Surgery In Ratnagiri and Cardiac Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Nachane.",
+    "email": "",
+    "phone": "093229 88288",
+    "alternatePhone": "",
+    "website": "https://madhavbaug.org/clinic/shivajinagar-ratnagiri/?utm_source",
+    "address": "bus stop, Old RDCC Bank Building, Near Shivajinagar, Shivajinagar, Nachane, Maharashtra 415639",
+    "city": "Nachane",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "Shivajinagar",
+    "landmark": "Near Shivajinagar, Shivajinagar, Nachane, Maharashtra 415639",
+    "emergencyContact": "093229 88288",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Ratnagiri",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEovfD1wfsuyGiabFpGT8WQBr24bjDegpdoDedSTKdYUfNaJlHqeBpYicYY7iFKY02LWjHLBsXGoto5Y233y8YP1sqRf0s4LsRmw1mGvJHSMnwdwPvxWO5nQVvODVACcjwQ5qqi=w1200-h900-p-k-no",
+    "logo": "https://madhavbaug.org/wp-content/uploads/2025/01/madhavbaug-logo-new-750.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEovfD1wfsuyGiabFpGT8WQBr24bjDegpdoDedSTKdYUfNaJlHqeBpYicYY7iFKY02LWjHLBsXGoto5Y233y8YP1sqRf0s4LsRmw1mGvJHSMnwdwPvxWO5nQVvODVACcjwQ5qqi=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN5cOgdK0z42EV2-yANA6Erf0ba5CsiiYyTfEsD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9908101,
+      "lng": 73.3208421,
+      "label": "Madhavbaug – Ayurvedic Cardiac Care Clinic & Panchakarma Center (Shivajinagar, Ratnagiri)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mangal-hospital-nachane",
+    "name": "Mangal Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Nachane often choose Mangal Hospital for its strength in Gynecologist Surgery In Ratnagiri. The facility stands out for Google rating 3.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Nachane.",
+    "email": "",
+    "phone": "085510 81888",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Salvi Stop, Pushpendra Nagar, Nachane, Maharashtra 415639",
+    "city": "Nachane",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "Pushpendra Nagar",
+    "landmark": "Nachane",
+    "emergencyContact": "085510 81888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAESXy30ygJwzMkvs83qnMyc7wx7oJbYjDFnmO2n_K4PPlLOBp7YItuzhHglK--oHFDK6Ee0nDU7vM5aDhUX-DQVDIgqq1cBb_dOj8bWV7JT1Z1xAT3Gw_vHY86qShW5tS3_0DbW5A=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAESXy30ygJwzMkvs83qnMyc7wx7oJbYjDFnmO2n_K4PPlLOBp7YItuzhHglK--oHFDK6Ee0nDU7vM5aDhUX-DQVDIgqq1cBb_dOj8bWV7JT1Z1xAT3Gw_vHY86qShW5tS3_0DbW5A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9919814,
+      "lng": 73.3269908,
+      "label": "Mangal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mano-rugnalay-hospital-ratnagiri-maharashtra-ratnagiri",
+    "name": "Mano Rugnalay Hospital Ratnagiri, Maharashtra",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ratnagiri, Mano Rugnalay Hospital Ratnagiri, Maharashtra delivers integrated care across General Surgery In Ratnagiri. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ratnagiri.",
+    "email": "",
+    "phone": "02352 222 345",
+    "alternatePhone": "",
+    "website": "https://ratnagiri.gov.in/directory/superintendent-regional-mental-hospital/",
+    "address": "X8Q2+VM4, NH 166, near zilla parishad, Rajiwada, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Rajiwada",
+    "landmark": "near zilla parishad, Rajiwada, Ratnagiri, Maharashtra 415612",
+    "emergencyContact": "02352 222 345",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbVd6yDcakPMSz5n00Gs1KgpsTu5QAYVshqXeXNkyIyjGdsvUbusmhVvFK_O6tVs15rZE7AbbOsRh6ZQylrPxzF0f1439qrXk7rh2MM-QMwKwx4CV3hPkJBoxqr_d310r6pPg0fg=w1200-h900-p-k-no",
+    "logo": "https://ratnagiri.gov.in/wp-content/themes/district-theme-6/images/emblem-dark.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbVd6yDcakPMSz5n00Gs1KgpsTu5QAYVshqXeXNkyIyjGdsvUbusmhVvFK_O6tVs15rZE7AbbOsRh6ZQylrPxzF0f1439qrXk7rh2MM-QMwKwx4CV3hPkJBoxqr_d310r6pPg0fg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbVd6yDcakPMSz5n00Gs1KgpsTu5QAYVshqXeXNkyIyjGdsvUbusmhVvFK_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9896481,
+      "lng": 73.301706,
+      "label": "Mano Rugnalay Hospital Ratnagiri, Maharashtra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mhaskar-hospital-and-maternity-home-ratnagiri",
+    "name": "Mhaskar Hospital and Maternity Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratnagiri, Mhaskar Hospital and Maternity Home offers coordinated hospital care with major focus on Urologist Surgery In Ratnagiri. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ratnagiri.",
+    "email": "",
+    "phone": "080803 23995",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near Sacred Heart Convent School, Azad Colony, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Azad Colony",
+    "landmark": "Ratnagiri",
+    "emergencyContact": "080803 23995",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRNZkjKemQbl2MiifQCfe_i7-IH3mxdMKm-wsTClP49R9yZmmukRUNBmeymKP10qNNvixLndQOxU6yqiUyuj_t-sa4ZWLh0mKRm_6tZjZKMekXtAc9rE_T6tf4kOxo5O-WeSXDZg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRNZkjKemQbl2MiifQCfe_i7-IH3mxdMKm-wsTClP49R9yZmmukRUNBmeymKP10qNNvixLndQOxU6yqiUyuj_t-sa4ZWLh0mKRm_6tZjZKMekXtAc9rE_T6tf4kOxo5O-WeSXDZg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMVHr0squldUn7Y6k3UpWQLlz0ud=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMVHr0squldUn7Y6k3UpWQLlz0udbWFMWPwVaAP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNTo1AdT-m9Lq3QdFVCA7UgSAZe9_N_oq-ut9mF=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9970097,
+      "lng": 73.2958386,
+      "label": "Mhaskar Hospital and Maternity Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nirmal-balrugnalaya-hospital-nachane",
+    "name": "Nirmal Balrugnalaya Hospital",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nirmal Balrugnalaya Hospital is a prominent children's hospital in Nachane, known for structured tertiary care across Spine Neurosurgeon In Ratnagiri and Women and Child Care. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Nachane.",
+    "email": "",
+    "phone": "092724 39974",
+    "alternatePhone": "",
+    "website": "",
+    "address": "राज्य महामार्ग क्र. २०४, Salvistop, Nachane, Maharashtra 415639",
+    "city": "Nachane",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "Salvistop",
+    "landmark": "Nachane",
+    "emergencyContact": "092724 39974",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Ratnagiri",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjsp8WDui0nJXKxQ7Z5xj40bSMV18DaqLcJ72ziCg1_k-wW7YZACDLytGYtufPq8WBwBrfj_xpqSEpfr3BI3oIUCr8dAFxzw1v4dmtdGB66EH6LOLwBZ804939vYVjJRw43HY=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjsp8WDui0nJXKxQ7Z5xj40bSMV18DaqLcJ72ziCg1_k-wW7YZACDLytGYtufPq8WBwBrfj_xpqSEpfr3BI3oIUCr8dAFxzw1v4dmtdGB66EH6LOLwBZ804939vYVjJRw43HY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9931507,
+      "lng": 73.3261371,
+      "label": "Nirmal Balrugnalaya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nkpc-kidney-clinic-kolkata",
+    "name": "NKPC Kidney Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose NKPC Kidney Clinic for its strength in Kidney Transplant Surgery In Ratnagiri and Kidney Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "084200 17061",
+    "alternatePhone": "",
+    "website": "https://nkpc.in/",
+    "address": "1212, 2nd St, Purbalok, Santoshpur, Kolkata, West Bengal 700099",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Santoshpur",
+    "landmark": "Purbalok",
+    "emergencyContact": "084200 17061",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Ratnagiri",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCmv94IaoSzM0m0PhygJ7-WaRORhtrpsezJnwKPUx-MvAC5Qy7rnH3ughLrbhQscc4M7KxrRt2E4bnMc35nmNSsakatUx4PdBtQGplQlmUti9_inK38TzfAhC42Tf36OqW0pKHmhqDEvU=w1200-h900-p-k-no",
+    "logo": "https://nkpc.in/images/nkpc_kidney_clinic_logo22-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCmv94IaoSzM0m0PhygJ7-WaRORhtrpsezJnwKPUx-MvAC5Qy7rnH3ughLrbhQscc4M7KxrRt2E4bnMc35nmNSsakatUx4PdBtQGplQlmUti9_inK38TzfAhC42Tf36OqW0pKHmhqDEvU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.498556,
+      "lng": 88.4002065,
+      "label": "NKPC Kidney Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "parkar-hospital-nachane",
+    "name": "Parkar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Nachane often choose Parkar Hospital for its strength in Urologist Surgery In Ratnagiri. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Nachane.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.parkarhospital.org/",
+    "address": "828, Shivaji Nagar, 828, Shivaji Nagar, Nachane, Maharashtra 415639",
+    "city": "Nachane",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "Shivaji Nagar",
+    "landmark": "828",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFvBeIPuHz2kdEEh06Riw6ZtXyPhkXFwqzjnUbVkFyhFzaTDaxrxDTmezwsTpOHvRrc2lET2Bpuzpo8WhyOyNe_KQo02w1WQYvCz117aOvAXZY2tj9nUJ8FRsqK3pOeOI7I7l4n=w1200-h900-p-k-no",
+    "logo": "https://www.parkarhospital.org/wp-content/uploads/sites/7/2018/10/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFvBeIPuHz2kdEEh06Riw6ZtXyPhkXFwqzjnUbVkFyhFzaTDaxrxDTmezwsTpOHvRrc2lET2Bpuzpo8WhyOyNe_KQo02w1WQYvCz117aOvAXZY2tj9nUJ8FRsqK3pOeOI7I7l4n=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEIWZyB7_XnraCsu_KZ2C2Fzc5h7LkWKQYU8FmOXbDWIgx22K4zBB9yUTCEJHEXcgUN1cxX1imrWpvVLIXrQwu_aU4P7cTdQUeZZSZTy8NOXO-qlVXsS6OYhuRqBaMFDTqVZpSw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9910505,
+      "lng": 73.3160296,
+      "label": "Parkar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pro-ortho-ortho-perfect-india-pvt-ltd-lokmanya-bal-gangadhar-tilak-multispeciality-hospital-ratnagiri-ratnagiri",
+    "name": "Pro-Ortho Ortho Perfect India Pvt. Ltd. - Lokmanya Bal Gangadhar Tilak Multispeciality Hospital, Ratnagiri",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pro-Ortho Ortho Perfect India Pvt. Ltd. - Lokmanya Bal Gangadhar Tilak Multispeciality Hospital, Ratnagiri is a prominent hospital in Ratnagiri, known for structured tertiary care across Hip Replacement Surgery In Ratnagiri, Orthopaedics, and Speciality Care. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ratnagiri.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.pro-orthoindia.com/",
+    "address": "Mazgaon Road, State Bank Colony, Ratnagiri, Maharashtra 415639",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "State Bank Colony",
+    "landmark": "Ratnagiri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Ratnagiri",
+      "Orthopaedics",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=16.9955866%2C73.3204661&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://www.pro-orthoindia.com/images/logo.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=16.9955866%2C73.3204661&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.9955866%2C73.3204661&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.9955866%2C73.3204661&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9955866,
+      "lng": 73.3204661,
+      "label": "Pro-Ortho Ortho Perfect India Pvt. Ltd. - Lokmanya Bal Gangadhar Tilak Multispeciality Hospital, Ratnagiri",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ramnath-hospital-ratnagiri",
+    "name": "Ramnath Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratnagiri, Ramnath Hospital offers coordinated hospital care with major focus on Urologist Surgery In Ratnagiri. Operational strengths including Google rating 3.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ratnagiri.",
+    "email": "",
+    "phone": "02352 221 195",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ratanagiri, Maruti Mandir, Ratnagiri, NH-204, Hatkhamba Ratnagiri Road, Ratnagiri, Nachane, Maharashtra 415639",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "Maruti Mandir",
+    "landmark": "Ratnagiri",
+    "emergencyContact": "02352 221 195",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0fWsB5YIbB0Y_q8v2cq3CBeB-UvSo4K8ciqtUx1HkY5NzrXTW1u_q2bALqIZsys25cLcwVvZY7Rvn4fw8v_2HUSQxaANfpdloVrloGELtZHmjdsLunZxeCA8un_uUFbRVtWLU62ynuysp=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0fWsB5YIbB0Y_q8v2cq3CBeB-UvSo4K8ciqtUx1HkY5NzrXTW1u_q2bALqIZsys25cLcwVvZY7Rvn4fw8v_2HUSQxaANfpdloVrloGELtZHmjdsLunZxeCA8un_uUFbRVtWLU62ynuysp=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9905675,
+      "lng": 73.3142345,
+      "label": "Ramnath Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ratnam-ayurved-hospital-ratnagiri-415612",
+    "name": "Ratnam Ayurved Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ratnam Ayurved Hospital is a prominent hospital in RATNAGIRI 415612, known for structured tertiary care across Cosmetic Surgery In Ratnagiri. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in RATNAGIRI 415612.",
+    "email": "",
+    "phone": "098902 35354",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2384,Balvant press Building,opp.Dapoli Bank,Sawarkar Chowk,Gadital,RATNAGIRI 415612, Maharashtra 415612",
+    "city": "RATNAGIRI 415612",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Gadital",
+    "landmark": "opp.Dapoli Bank",
+    "emergencyContact": "098902 35354",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGaqk8LRDcXfygkyFf6Fr1HmJVNSObMbysyjsqVnhZN-M6sSakHaH7EURkDqozR_vaAys1NU6Iw3cMy3cqwHcyeHEyQ2vDb4S5eqyHYTVYvvZJ5pQo51pV2Z7TwIfP3ahZCwCT=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGaqk8LRDcXfygkyFf6Fr1HmJVNSObMbysyjsqVnhZN-M6sSakHaH7EURkDqozR_vaAys1NU6Iw3cMy3cqwHcyeHEyQ2vDb4S5eqyHYTVYvvZJ5pQo51pV2Z7TwIfP3ahZCwCT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9967637,
+      "lng": 73.2944241,
+      "label": "Ratnam Ayurved Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-bhagwan-mahadev-sambare-mofat-rugnalay-ratnagiri",
+    "name": "Shree Bhagwan Mahadev Sambare Mofat Rugnalay",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ratnagiri, Shree Bhagwan Mahadev Sambare Mofat Rugnalay delivers integrated care across Oncologist Surgery In Ratnagiri. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Ratnagiri.",
+    "email": "",
+    "phone": "073856 43030",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shree Bhagavan Mahadev Sambare, Mofat Rugnalay, Nachane Rd, near ITI College, Abhyudhya Nagar, Ratnagiri, Nachane, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Abhyudhya Nagar",
+    "landmark": "near ITI College, Abhyudhya Nagar, Ratnagiri, Nachane, Maharashtra 415612",
+    "emergencyContact": "073856 43030",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9CO9U3w_5zgJcx8c8z19dRBk_xYdmnDQP1unUqqSec14OCVP0UQR7LCa1JmbaVkIap1y-IA7p7unWLxnpjNM1DxhFQEwStvzV4R85zHmSbyQGOMkZM6wTdNQuCh2pTn4Nhd-S63PGEFfv=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9CO9U3w_5zgJcx8c8z19dRBk_xYdmnDQP1unUqqSec14OCVP0UQR7LCa1JmbaVkIap1y-IA7p7unWLxnpjNM1DxhFQEwStvzV4R85zHmSbyQGOMkZM6wTdNQuCh2pTn4Nhd-S63PGEFfv=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9859498,
+      "lng": 73.3238498,
+      "label": "Shree Bhagwan Mahadev Sambare Mofat Rugnalay",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-hospital-ratnagiri",
+    "name": "SHREE HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SHREE HOSPITAL has built a strong reputation in Ratnagiri for multidisciplinary treatment pathways covering Gynecologist Surgery In Ratnagiri. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ratnagiri can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "02352 270 272",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Benjamin Enclave, opp. s t stand, near solkar cyber cafe, Police Head Quarters, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Police Head Quarters",
+    "landmark": "near solkar cyber cafe, Police Head Quarters, Ratnagiri, Maharashtra 415612",
+    "emergencyContact": "02352 270 272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDZGdyap_8qkQ9A3jSti2iyKUR0SANwKj1nsGjwO49QVlfo9Mje8f24QOWabJeQuZcZYCjVFxByEmESEyipruwYaIHhP5r3TM8hkO0mSc8Y2fqRLT0aCiVEe5K_2tXpIvBJJpT=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDZGdyap_8qkQ9A3jSti2iyKUR0SANwKj1nsGjwO49QVlfo9Mje8f24QOWabJeQuZcZYCjVFxByEmESEyipruwYaIHhP5r3TM8hkO0mSc8Y2fqRLT0aCiVEe5K_2tXpIvBJJpT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9920042,
+      "lng": 73.2957816,
+      "label": "SHREE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "soham-hospital-nachane",
+    "name": "Soham Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Soham Hospital is a prominent hospital in Nachane, known for structured tertiary care across Orthopedic Surgery In Ratnagiri. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Nachane.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "X8QF+R3X, Pushpendra Nagar, Nachane, Maharashtra 415639",
+    "city": "Nachane",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "Pushpendra Nagar",
+    "landmark": "Nachane",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=16.9896218%2C73.3227214&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=16.9896218%2C73.3227214&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.9896218%2C73.3227214&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.9896218%2C73.3227214&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9896218,
+      "lng": 73.3227214,
+      "label": "Soham Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sushrut-surgical-and-maternity-hospital-ratnagiri",
+    "name": "Sushrut Surgical and Maternity Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sushrut Surgical and Maternity Hospital has built a strong reputation in Ratnagiri for multidisciplinary treatment pathways covering Gynecologist Surgery In Ratnagiri. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ratnagiri.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "X8R7+HGW, Mazgaon Road, State Bank Colony, Ratnagiri, Maharashtra 415639",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415639",
+    "locality": "State Bank Colony",
+    "landmark": "State Bank Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=16.9914759%2C73.3138135&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=16.9914759%2C73.3138135&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.9914759%2C73.3138135&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.9914759%2C73.3138135&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9914759,
+      "lng": 73.3138135,
+      "label": "Sushrut Surgical and Maternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vision-eye-care-center-ratnagiri-ratnagiri",
+    "name": "Vision Eye Care Center,Ratnagiri",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vision Eye Care Center,Ratnagiri is a prominent hospital in Ratnagiri, known for structured tertiary care across Cosmetic Surgery In Ratnagiri. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ratnagiri.",
+    "email": "",
+    "phone": "077440 59559",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Subhash Rd, opposite to patit pavan mandir, Gadital, Zadgaon, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "Zadgaon",
+    "landmark": "opposite to patit pavan mandir, Gadital, Zadgaon, Ratnagiri, Maharashtra 415612",
+    "emergencyContact": "077440 59559",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwcAsUzAe2ZSdi8Sn3fxRSylTCoPdtBuREJPsYsJoEcx4yVh1IMApaXPD9200GST7vUKzBsT-j7WIVUQj8JS9JW2lkArNzWzk56YlljoAPq_G4v4JoodKfAi02uZQRpgpjBrbdXA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwcAsUzAe2ZSdi8Sn3fxRSylTCoPdtBuREJPsYsJoEcx4yVh1IMApaXPD9200GST7vUKzBsT-j7WIVUQj8JS9JW2lkArNzWzk56YlljoAPq_G4v4JoodKfAi02uZQRpgpjBrbdXA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9975601,
+      "lng": 73.2938012,
+      "label": "Vision Eye Care Center,Ratnagiri",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "wagbhat-chikitsalaya-panchkarma-center-ratnagiri",
+    "name": "Wagbhat chikitsalaya Panchkarma Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Wagbhat chikitsalaya Panchkarma Center has built a strong reputation in Ratnagiri for multidisciplinary treatment pathways covering Cosmetic Surgery In Ratnagiri. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ratnagiri.",
+    "email": "",
+    "phone": "075072 75282",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop.no-1, Suyog Height, Tilak Ln, opp. Satya Shodhak Press, Ratnagiri, Maharashtra 415612",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": "415612",
+    "locality": "opp. Satya Shodhak Press",
+    "landmark": "Tilak Ln",
+    "emergencyContact": "075072 75282",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratnagiri"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcREO4JCx6cpQC0VzNv5jDMUoBdbbbIpIfB36iDCCM_2OVqRLJ9nw_H9NDYzdQsc-BnNzqXv-FrV6ohuvTeycf8IRNlbOqo677IdiZi2ohRys22Eyq2MS1T5TgPveAtXpOb9ir=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcREO4JCx6cpQC0VzNv5jDMUoBdbbbIpIfB36iDCCM_2OVqRLJ9nw_H9NDYzdQsc-BnNzqXv-FrV6ohuvTeycf8IRNlbOqo677IdiZi2ohRys22Eyq2MS1T5TgPveAtXpOb9ir=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.9951569,
+      "lng": 73.2910027,
+      "label": "Wagbhat chikitsalaya Panchkarma Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

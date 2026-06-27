@@ -1,0 +1,3208 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "apex-ranthambore-sevika-hospital-alanpur-rural",
+    "name": "Apex Ranthambore Sevika Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Alanpur Rural often choose Apex Ranthambore Sevika Hospital for its strength in Liver Transplant Surgery In Bundi. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Alanpur Rural can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073579 22498",
+    "alternatePhone": "",
+    "website": "https://www.apexhospitals.com/hospitals/sawai-madhopur?utm_source",
+    "address": "X9X6+759, Vinayak Nagar, Housing Board, Sawai Madhopur, Alanpur Rural, Rajasthan 322001",
+    "city": "Alanpur Rural",
+    "state": "Rajasthan",
+    "pincode": "322001",
+    "locality": "Sawai Madhopur",
+    "landmark": "Housing Board",
+    "emergencyContact": "073579 22498",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDk_gumb0BmjxHwfnwzo8gtI1oOn928H8bhh6knIAujzPUSFUP_H_RYflk9lShPD0BUmqn_XKmNkZVEwdVZ9DSpGfDD5VWMEZGdvXAUXXeFfhQe3LVzzTbt1Z6OEZe__bG44IG=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDk_gumb0BmjxHwfnwzo8gtI1oOn928H8bhh6knIAujzPUSFUP_H_RYflk9lShPD0BUmqn_XKmNkZVEwdVZ9DSpGfDD5VWMEZGdvXAUXXeFfhQe3LVzzTbt1Z6OEZe__bG44IG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE98uTY_s9JTepdy5moDmw8PMv56YYwqbl2PrwKy1ayH5CdOFAC9yUis1H35Vsm-j3CkmqCrWBOxjlgYzOMHl6hkJfGum5ZgRR29Nt-LEdLt2C61Nuc76VExBsIfonqdErKTSEJYB-RY_8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIgLyZoP5dyurdcNTvCYlGIjb3qujQ0UMfsh9w00wsqmZZhXveYv3ig-i09jFQm-OBrRonQSxSW6Hm5tKwDZf8DrInyitiI1wPfdpM9UWm-0VYkuzxLDxUNczD7EYoUNGWJ3w=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEziD-fIHkm18AXv5Hbc2JNh4IzGjyWByEalGk2tT-iR-DT2KJbaqU6OK0-mXvjADzNmPse0PBUssAER9lZkwzfG0J7gFMZS5N6wJHmM7avP2LfluuTQwBdR5DC_pAcU29rOr3XWg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE98uTY_s9JTepdy5moDmw8PMv56YYwqbl2PrwKy1ayH5CdOFAC9yUis1H35Vsm-j3CkmqCrWBOx=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.9981324,
+      "lng": 76.3603147,
+      "label": "Apex Ranthambore Sevika Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "brain-and-spine-physiotherapy-bundi-bundi",
+    "name": "Brain and spine physiotherapy, bundi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Brain and spine physiotherapy, bundi is a prominent hospital in Bundi, known for structured tertiary care across Spine Surgery In Bundi, Neurosciences, and Spine Care. Its infrastructure includes Google rating 3.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bundi.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJJV+FRP, Shivam colony link road, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Shivam colony link road",
+    "landmark": "Bundi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Bundi",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.4312043%2C75.644587&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.4312043%2C75.644587&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.4312043%2C75.644587&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.4312043%2C75.644587&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4312043,
+      "lng": 75.644587,
+      "label": "Brain and spine physiotherapy, bundi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bundi-hospital-and-research-centre-bundi",
+    "name": "Bundi hospital And Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bundi, Bundi hospital And Research Centre brings together specialists for Liver Transplant Surgery In Bundi. Hospital capacity markers such as Google rating 4.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Bundi.",
+    "email": "",
+    "phone": "0747 244 2230",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gayatri Nagar, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Gayatri Nagar",
+    "landmark": "Rajasthan 323001",
+    "emergencyContact": "0747 244 2230",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHoboQACDrt97cLVmHqUjsBeRUT2aLYmSQSj1VhqoSOmTJ-5b1vdEtk6rrh-T1iSTVsWOos_-5lKAu9xAJkOhslViL6lFYAs3l8JGwqgJyqoF-VaWJPskTqihPMTFZ2gU3yWTTiLw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHoboQACDrt97cLVmHqUjsBeRUT2aLYmSQSj1VhqoSOmTJ-5b1vdEtk6rrh-T1iSTVsWOos_-5lKAu9xAJkOhslViL6lFYAs3l8JGwqgJyqoF-VaWJPskTqihPMTFZ2gU3yWTTiLw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.434911,
+      "lng": 75.6408519,
+      "label": "Bundi hospital And Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "government-ayurvedic-hospital-bundi",
+    "name": "Government ayurvedic hospital",
+    "type": "Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bundi, Government ayurvedic hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Bundi. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bundi.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opposit, Haveli Braj Bhushan Ji, Teerath, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Teerath",
+    "landmark": "Teerath",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.4472976%2C75.6353817&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.4472976%2C75.6353817&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.4472976%2C75.6353817&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.4472976%2C75.6353817&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4472976,
+      "lng": 75.6353817,
+      "label": "Government ayurvedic hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "government-hospital-bundi",
+    "name": "Government Hospital",
+    "type": "Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bundi, Government Hospital delivers integrated care across Kidney Transplant Surgery In Bundi. Operational strengths including Google rating 3.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bundi.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CMR6+VJP, Rajat Colony, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Rajat Colony",
+    "landmark": "Bundi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHialUHADWYtSLwwBgDt1eDfK6e1b8vAN2RpAUxvDH0kZ_e-NBbwbRzNrQXyJiO-xf_Iak_D9LjJHSiQH1Kc_UB8N6gddhzx-9l7QJVBip_J3Lr4_mKyensoqRWKqPHvXcxgFQMVA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHialUHADWYtSLwwBgDt1eDfK6e1b8vAN2RpAUxvDH0kZ_e-NBbwbRzNrQXyJiO-xf_Iak_D9LjJHSiQH1Kc_UB8N6gddhzx-9l7QJVBip_J3Lr4_mKyensoqRWKqPHvXcxgFQMVA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCX1ODM-xc1816zGLBy3MbLLiM7HfiDFzI8E5lyHXeKU22j4iqt35hN7Pc7Uh_8tgceFus7h68OaSbo2qRcYiM2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCX1ODM-xc1816zGLBy3MbLLiM7HfiDFzI8E5lyHXeKU22j4iqt35hN7Pc7Uh_8tgceFus7h68OaSbo2qRcYiM2YiaS7KVUFLWdGmnd1tTercAYzyn5FA2MboVsYN1PDKIcVdA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4422214,
+      "lng": 75.6615857,
+      "label": "Government Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "govt-homoeopathic-hospital-rajasthan-sarkarbundi-bundi",
+    "name": "Govt. Homoeopathic hospital Rajasthan sarkarBundi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Govt. Homoeopathic hospital Rajasthan sarkarBundi is a prominent hospital in Bundi, known for structured tertiary care across Liver Transplant Surgery In Bundi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bundi.",
+    "email": "",
+    "phone": "094130 08296",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJQW+PGC, Hospital Area, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Hospital Area",
+    "landmark": "Bundi",
+    "emergencyContact": "094130 08296",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4DqWEO59aaf3loLsleITn9sLXntIG4i22Rwf_xbCT8XbdhT9BBdC3AI214foOlklpw-9ZDIcE827IIgfH7MqPMYsxLVJaNl27ZgEbvR9n9nYHjpK7DPkRTjQq_ldIO8e-PhafDqJ91dc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4DqWEO59aaf3loLsleITn9sLXntIG4i22Rwf_xbCT8XbdhT9BBdC3AI214foOlklpw-9ZDIcE827IIgfH7MqPMYsxLVJaNl27ZgEbvR9n9nYHjpK7DPkRTjQq_ldIO8e-PhafDqJ91dc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4391616,
+      "lng": 75.6462484,
+      "label": "Govt. Homoeopathic hospital Rajasthan sarkarBundi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "govt-hospital-bundi",
+    "name": "Govt. Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bundi, Govt. Hospital delivers integrated care across Liver Transplant Surgery In Bundi. Its infrastructure includes Google rating 3.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bundi.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJQW+W4G, Hospital Area, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Hospital Area",
+    "landmark": "Bundi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFuqemIgTCXWOOaCsHZ7D57P2QT051t6-7qDIXbIvWh7gkIf7HhFAy0oBVAf2pMcnpHP3baaOMKR4U4po8QqeVPjWD_OnUmV7zdT5qP9FwMWYwDGTfatteKfr0U2utuFgDy13_8=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFuqemIgTCXWOOaCsHZ7D57P2QT051t6-7qDIXbIvWh7gkIf7HhFAy0oBVAf2pMcnpHP3baaOMKR4U4po8QqeVPjWD_OnUmV7zdT5qP9FwMWYwDGTfatteKfr0U2utuFgDy13_8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4DqWEO59aaf3loLsleITn9sLXntIG4i22Rwf_xbCT8XbdhT9BBdC3AI214foOlklpw-9ZDIcE827IIgfH7MqPMYsxLVJaNl27ZgEbvR9n9nYHjpK7DPkRTjQq_ldIO8e-PhafDqJ91dc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4398141,
+      "lng": 75.6453343,
+      "label": "Govt. Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "goyal-hospital-endo-laproscopy-center-surgery-center-in-kota-kota",
+    "name": "GOYAL HOSPITAL ENDO-LAPROSCOPY CENTER | Surgery center in Kota",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kota often choose GOYAL HOSPITAL ENDO-LAPROSCOPY CENTER | Surgery center in Kota for its strength in General Surgery In Bundi. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kota can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.goyalhospitalkota.com/",
+    "address": "5-B-14 Subhash Circle, Teen Batti Cir Rd, Chouraha, Mahaveer Nagar Extension, Kota, Rajasthan 324005",
+    "city": "Kota",
+    "state": "Rajasthan",
+    "pincode": "324005",
+    "locality": "Mahaveer Nagar Extension",
+    "landmark": "Chouraha",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1isu0zSf30KRqrX17qetFp-dEDF2Qh5T3e58GwHBGX5JvfIe0zQp3xpI_7PemaJhpJ3Sdw4PwEDH089wdrJiV4jV32X_NzSSrlx_LaA46mCKQgCPFAYDMetcNMu4R5aaRZWph=w1200-h900-p-k-no",
+    "logo": "https://www.goyalhospitalkota.com/goyal/images/logo-goyalhospital-kota.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1isu0zSf30KRqrX17qetFp-dEDF2Qh5T3e58GwHBGX5JvfIe0zQp3xpI_7PemaJhpJ3Sdw4PwEDH089wdrJiV4jV32X_NzSSrlx_LaA46mCKQgCPFAYDMetcNMu4R5aaRZWph=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOlDakw7qJ96irt_pv3LUkOdXb7nzVxXMde3a-c=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPpZ119-7mbD0SgZgjA8FzX1hjllhE6XrUj2wTe=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMmHL_LeYzC5miDlXhyGrtZ1lBXZmFnWEmgzyzL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMYDJj8KdJaTEisW6jhKRYdGoFMDupDf92AGtCf=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.1454242,
+      "lng": 75.8264914,
+      "label": "GOYAL HOSPITAL ENDO-LAPROSCOPY CENTER | Surgery center in Kota",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gupta-mother-and-child-health-care-bundi",
+    "name": "Gupta Mother And Child Health Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bundi often choose Gupta Mother And Child Health Care for its strength in Gynecologist Surgery In Bundi and Women and Child Care. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Bundi can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJGR+RP6, Devpura, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Devpura",
+    "landmark": "Bundi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bundi",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.4270282%2C75.6417596&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.4270282%2C75.6417596&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.4270282%2C75.6417596&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.4270282%2C75.6417596&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4270282,
+      "lng": 75.6417596,
+      "label": "Gupta Mother And Child Health Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jain-surgical-hospital-kota",
+    "name": "Jain Surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kota, Jain Surgical Hospital offers coordinated hospital care with major focus on Hip Replacement Surgery In Bundi. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kota.",
+    "email": "",
+    "phone": "097996 17999",
+    "alternatePhone": "",
+    "website": "https://jainsurgicalhospital.in/",
+    "address": "559 A, opposite Bank Of Baroda, Sector - A, Shrinath Puram, Kota, Rajasthan 324005",
+    "city": "Kota",
+    "state": "Rajasthan",
+    "pincode": "324005",
+    "locality": "Shrinath Puram",
+    "landmark": "opposite Bank Of Baroda, Sector - A, Shrinath Puram, Kota, Rajasthan 324005",
+    "emergencyContact": "097996 17999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHx7dYqyFeBFbPWyWeRrTpNjhk78Ea3FEYVhv3BHnJjsekNj8JLOEqxyE5WUYSUI_WWNknxCXh1D1ryAVbBSi95H5qAKC5iIYx_imYzAMGU0OZoMI1ItEhzPSX6N2LNheXjgyPN-jreF1DI=w1200-h900-p-k-no",
+    "logo": "https://jainsurgicalhospital.in/wp-content/uploads/2024/05/jsh-logo-1-e1651045856592.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHx7dYqyFeBFbPWyWeRrTpNjhk78Ea3FEYVhv3BHnJjsekNj8JLOEqxyE5WUYSUI_WWNknxCXh1D1ryAVbBSi95H5qAKC5iIYx_imYzAMGU0OZoMI1ItEhzPSX6N2LNheXjgyPN-jreF1DI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFf2kSxSKdlHErh_ePOI79rEjeRLgRUZ-AGhzCXDXJMvKwXz41Z3tS-VT1_NDyZssaNj0N92EWWDXVBAdGwepzu0oGCUFDb32N7adHwPxg38Rt48DUdmlbIbzgYtWUNEcLod2uo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.1343165,
+      "lng": 75.8238891,
+      "label": "Jain Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "k-k-hospital-bundi-bundi",
+    "name": "K. K. Hospital Bundi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "K. K. Hospital Bundi is a prominent hospital in Bundi, known for structured tertiary care across Liver Transplant Surgery In Bundi. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bundi.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJQJ+7HX, Vikasnagar, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Vikasnagar",
+    "landmark": "Bundi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.4382296%2C75.6314814&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.4382296%2C75.6314814&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.4382296%2C75.6314814&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.4382296%2C75.6314814&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4382296,
+      "lng": 75.6314814,
+      "label": "K. K. Hospital Bundi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "maheshwari-children-hospital-and-research-center-best-pathology-lab-nicu-and-picu-services-malnutrition-dietician-bundi",
+    "name": "Maheshwari Children Hospital and Research Center - Best Pathology Lab, NICU & PICU Services, Malnutrition Dietician",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bundi, Maheshwari Children Hospital and Research Center - Best Pathology Lab, NICU & PICU Services, Malnutrition Dietician offers coordinated hospital care with major focus on Liver Transplant Surgery In Bundi and Women and Child Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bundi.",
+    "email": "",
+    "phone": "0747 244 4666",
+    "alternatePhone": "",
+    "website": "https://maheshwarichildrenhospital.organojii.com/",
+    "address": "SH-29, Bundi Rd, Gayatri Nagar, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Gayatri Nagar",
+    "landmark": "Gayatri Nagar",
+    "emergencyContact": "0747 244 4666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHU8sO0aTEKUqK2OlXhnWHJzeU3iauWzs2rEnCsnSE_JY6ArOvOneuk6Mah_LCMIxpNECBmnL2f2U-RxPJxvNKsyQOYTGcoK7DThXvkSPHhEi7l8y_g8iO14Bq0ex4ddnC26cueQA=w1200-h900-p-k-no",
+    "logo": "https://maheshwarichildrenhospital.organojii.com/wp-content/uploads/2024/02/cropped-LOGO-removebg-preview-87x89.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHU8sO0aTEKUqK2OlXhnWHJzeU3iauWzs2rEnCsnSE_JY6ArOvOneuk6Mah_LCMIxpNECBmnL2f2U-RxPJxvNKsyQOYTGcoK7DThXvkSPHhEi7l8y_g8iO14Bq0ex4ddnC26cueQA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXlLSEMr8wvJk3a8Yuob1NdNg_dYr7314_IVWU8fGUlzxKtad1ZBL1vAtPBxDEHUplLjNGQXM2vzjnm9D6Nr66MP48s6UQFp8ho95Pl_lOi5y9ivIA_qjgoj-YMN7U1NkUsOkJRg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4347997,
+      "lng": 75.6414219,
+      "label": "Maheshwari Children Hospital and Research Center - Best Pathology Lab, NICU & PICU Services, Malnutrition Dietician",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mateshwari-hospital-bundi",
+    "name": "Mateshwari Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bundi, Mateshwari Hospital delivers integrated care across Liver Transplant Surgery In Bundi. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bundi.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gate No.1, Plot No.2, Nainwa Rd, Rajat Grah Colony, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Rajat Grah Colony",
+    "landmark": "Nainwa Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1PNxVYqsP4Rxz6pbhYSeQyV8Rl68UN-9wOwfJlxxW3LY1N-Dq8_xJfpGWYyyFu8t5wX6_0iJMSf3ABjyD938ucJt4oje9JEY_2K-hWb1EKXgTJ3fAUiaQS2NHMdUFVUbWBdUejQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1PNxVYqsP4Rxz6pbhYSeQyV8Rl68UN-9wOwfJlxxW3LY1N-Dq8_xJfpGWYyyFu8t5wX6_0iJMSf3ABjyD938ucJt4oje9JEY_2K-hWb1EKXgTJ3fAUiaQS2NHMdUFVUbWBdUejQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4388149,
+      "lng": 75.657181,
+      "label": "Mateshwari Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "maya-hospital-bundi",
+    "name": "Maya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bundi, Maya Hospital brings together specialists for Liver Transplant Surgery In Bundi. With public-facing highlights like Google rating 3.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Bundi.",
+    "email": "",
+    "phone": "0747 244 4884",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJHR+GM4, Devpura, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Devpura",
+    "landmark": "Bundi",
+    "emergencyContact": "0747 244 4884",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHWqU_iDJ2AIN7zCel0TaaDnH-eA4dO3A3We9hvizbmxPCde5NGODwORZIzMgGE5Tc48NKs3KAubYX81LJv6AG-07Ks509mW75vTInMAsIse1euyDyyG_iPgZoqlxFqiFj3bEG=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHWqU_iDJ2AIN7zCel0TaaDnH-eA4dO3A3We9hvizbmxPCde5NGODwORZIzMgGE5Tc48NKs3KAubYX81LJv6AG-07Ks509mW75vTInMAsIse1euyDyyG_iPgZoqlxFqiFj3bEG=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4287582,
+      "lng": 75.6416931,
+      "label": "Maya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nangal-cancer-hospital-and-research-institute-bikaner",
+    "name": "Nangal Cancer Hospital and Research Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bikaner, Nangal Cancer Hospital and Research Institute brings together specialists for Cancer Surgery In Bundi. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Bikaner.",
+    "email": "",
+    "phone": "0151 220 4443",
+    "alternatePhone": "",
+    "website": "http://www.nchribkn.com/",
+    "address": "Medical College Rd, near traffic Police Thana, Adarsh Colony, Bikaner, Rajasthan 334003",
+    "city": "Bikaner",
+    "state": "Rajasthan",
+    "pincode": "334003",
+    "locality": "Adarsh Colony",
+    "landmark": "near traffic Police Thana, Adarsh Colony, Bikaner, Rajasthan 334003",
+    "emergencyContact": "0151 220 4443",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFeQPoNnlh3doiCR8SdGGu01HP5B3sVP2CyRSk0Vcx_UgYykzIDf5JpvZs946KKyquFEjfYxhBmF6ODmC6XNZfIyEcfuBxt-aLs7lJCAVlE3o0b642ejbeZ9CHtiw9568SDFfIX7A=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFeQPoNnlh3doiCR8SdGGu01HP5B3sVP2CyRSk0Vcx_UgYykzIDf5JpvZs946KKyquFEjfYxhBmF6ODmC6XNZfIyEcfuBxt-aLs7lJCAVlE3o0b642ejbeZ9CHtiw9568SDFfIX7A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.0101404,
+      "lng": 73.324241,
+      "label": "Nangal Cancer Hospital and Research Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "navkar-hospital-kota-kota",
+    "name": "Navkar hospital kota",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Navkar hospital kota has built a strong reputation in Kota for multidisciplinary treatment pathways covering General Surgery In Bundi. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kota can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0744 277 3300",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot number 8, UIT Scheme,Ambedker Nagar, Kunadi, Kota, Rajasthan 324008",
+    "city": "Kota",
+    "state": "Rajasthan",
+    "pincode": "324008",
+    "locality": "Kunadi",
+    "landmark": "Ambedker Nagar",
+    "emergencyContact": "0744 277 3300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElH-K8S9DbcM7fnLeDUg93QA6QeY-22s5dculic9V0tRpxNnLAMX-96DuT0gsv_PIuvKRnWeFyvvvpJudTStLDyvidSfcS5BdD5shHYndqoUfnHpzlmaR9NfPaHS1QTF4_1_sB=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElH-K8S9DbcM7fnLeDUg93QA6QeY-22s5dculic9V0tRpxNnLAMX-96DuT0gsv_PIuvKRnWeFyvvvpJudTStLDyvidSfcS5BdD5shHYndqoUfnHpzlmaR9NfPaHS1QTF4_1_sB=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.1926137,
+      "lng": 75.8310057,
+      "label": "Navkar hospital kota",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pandit-brij-sundar-sharma-general-hospital-bundi",
+    "name": "Pandit Brij Sundar Sharma General Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bundi, Pandit Brij Sundar Sharma General Hospital brings together specialists for Liver Transplant Surgery In Bundi. Hospital capacity markers such as Google rating 3.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Bundi.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJQW+R73, Hospital Area, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Hospital Area",
+    "landmark": "Bundi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGTO8lh4w04_q6V95jK7LkjBMvAQascl5OIZ-ic6lh0mU1eo_xQ_dDDSERZA9fXl5-JsYOSRTG0Zl4Pk03hvRFnxy8mHhei8Zm3glo5MAt3dF1rA7-4wAQX13BCRo45uJAkF1JY=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGTO8lh4w04_q6V95jK7LkjBMvAQascl5OIZ-ic6lh0mU1eo_xQ_dDDSERZA9fXl5-JsYOSRTG0Zl4Pk03hvRFnxy8mHhei8Zm3glo5MAt3dF1rA7-4wAQX13BCRo45uJAkF1JY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4395213,
+      "lng": 75.6456787,
+      "label": "Pandit Brij Sundar Sharma General Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "primary-health-center-bundi",
+    "name": "Primary health center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bundi, Primary health center delivers integrated care across Kidney Transplant Surgery In Bundi. With public-facing highlights like Google rating 3.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bundi.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJWJ+GP8, Unnamed Road, Balchand Para, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Balchand Para",
+    "landmark": "Balchand Para",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFg12dgLY1ETeAt2GndIg8Z8cfOaJ7hIu2B3nyrGlgfaVoRINmwKmSXjwSklD8H6wsoevIRT4weCPUB3FqDxClxMMZVKXU8O0uC3IV9nE4z5k8PjEJtRRr0KoALk_qWorRukF2ruA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFg12dgLY1ETeAt2GndIg8Z8cfOaJ7hIu2B3nyrGlgfaVoRINmwKmSXjwSklD8H6wsoevIRT4weCPUB3FqDxClxMMZVKXU8O0uC3IV9nE4z5k8PjEJtRRr0KoALk_qWorRukF2ruA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4462834,
+      "lng": 75.6318234,
+      "label": "Primary health center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "raghuvar-fracture-and-general-hospital-bundi",
+    "name": "Raghuvar Fracture And General Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bundi, Raghuvar Fracture And General Hospital delivers integrated care across Kidney Transplant Surgery In Bundi. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bundi.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJJM+RRR, Madhuban Colony, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Madhuban Colony",
+    "landmark": "Bundi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzQgC5Idz74GAUqsY21GFxilHHA7YzTDt-mtFIpCUArW76bw1xBnnXfLcWXp0Ebt9cyh9ZfTnMb6RongIevqImHauvt6pNyTZXfyFY4F3tEVkgDKwfEjWpJPnh1BDwwriR6P_D=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzQgC5Idz74GAUqsY21GFxilHHA7YzTDt-mtFIpCUArW76bw1xBnnXfLcWXp0Ebt9cyh9ZfTnMb6RongIevqImHauvt6pNyTZXfyFY4F3tEVkgDKwfEjWpJPnh1BDwwriR6P_D=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4321132,
+      "lng": 75.634524,
+      "label": "Raghuvar Fracture And General Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "raghuvar-multi-and-super-speciality-hospital-bundi",
+    "name": "Raghuvar multi and super speciality hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Raghuvar multi and super speciality hospital is a prominent hospital in Bundi, known for structured tertiary care across Liver Transplant Surgery In Bundi and Speciality Care. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bundi.",
+    "email": "",
+    "phone": "063783 50331",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJJM+RRJ, Madhuban Colony, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Madhuban Colony",
+    "landmark": "Bundi",
+    "emergencyContact": "063783 50331",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjbH7-Twn4qDGLK8RZGgFMi6-vh4kfpD9edVGhLPuUht3W10fs0uEhG5DOOkKnQFaxEw3klpcYswPPUNTFtlzPXHGVSCkad3LFCUJlZr4946W7dWYT2Lcf6NAfx4nrwcdxVJA9=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjbH7-Twn4qDGLK8RZGgFMi6-vh4kfpD9edVGhLPuUht3W10fs0uEhG5DOOkKnQFaxEw3klpcYswPPUNTFtlzPXHGVSCkad3LFCUJlZr4946W7dWYT2Lcf6NAfx4nrwcdxVJA9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4320999,
+      "lng": 75.6345224,
+      "label": "Raghuvar multi and super speciality hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "s-n-pareek-memorial-hospital-best-multispeciality-in-kota-rajasthan-ortho-obg-and-gync-urology-kota",
+    "name": "S N Pareek Memorial Hospital | Best Multispeciality in Kota, Rajasthan | Ortho, OBG & Gync, Urology",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "S N Pareek Memorial Hospital | Best Multispeciality in Kota, Rajasthan | Ortho, OBG & Gync, Urology has built a strong reputation in Kota for multidisciplinary treatment pathways covering General Surgery In Bundi, Orthopaedics, and Speciality Care. The facility stands out for Google rating 3.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kota.",
+    "email": "",
+    "phone": "0744 240 2770",
+    "alternatePhone": "",
+    "website": "https://snpareekhospital.com/",
+    "address": "3, Basant Vihar, Dadabari, Kota, Rajasthan 324007",
+    "city": "Kota",
+    "state": "Rajasthan",
+    "pincode": "324007",
+    "locality": "Dadabari",
+    "landmark": "Dadabari",
+    "emergencyContact": "0744 240 2770",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Bundi",
+      "Orthopaedics",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_Sg0HoWvBNAFVdGNDfa_BslTaQRpLXOC0NZ7bJHvrR-9DgTUZzwuDfcz3xsZzrWFNDfNurLppNk_E5x-_o7JdeZs0UC-s1Lc-ukK3BpISLXarCkidwXHEjqbTYaqiWz6nbfw=w1200-h900-p-k-no",
+    "logo": "https://snpareekhospital.com/wp-content/uploads/2024/12/Logo-removebg-preview.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_Sg0HoWvBNAFVdGNDfa_BslTaQRpLXOC0NZ7bJHvrR-9DgTUZzwuDfcz3xsZzrWFNDfNurLppNk_E5x-_o7JdeZs0UC-s1Lc-ukK3BpISLXarCkidwXHEjqbTYaqiWz6nbfw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwGeRtEG6QxDfmSaPLH29IMUf2f_GbZsBIBpob-Wd6q8lE879T2kDNKNKaWGYlMeh5xEmxhY4bupxQ02GwXt3v4HO36m0GTX9LGrRDly42ScAUytcs38xyBrgWBhr2rOkjqgcvOA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.1518657,
+      "lng": 75.8348019,
+      "label": "S N Pareek Memorial Hospital | Best Multispeciality in Kota, Rajasthan | Ortho, OBG & Gync, Urology",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shiv-shakti-hospital-multispeciality-hospital-in-kota-kota",
+    "name": "Shiv Shakti Hospital - Multispeciality Hospital in Kota",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kota often choose Shiv Shakti Hospital - Multispeciality Hospital in Kota for its strength in General Surgery In Bundi and Speciality Care. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kota can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "063505 68713",
+    "alternatePhone": "",
+    "website": "https://www.shivshaktihospital.co.in/",
+    "address": "Baran Road, 80 Feet Link Road, New, Bus Stand Road, Jai Hind Nagar - I, Police Line, Kota, Rajasthan 324001",
+    "city": "Kota",
+    "state": "Rajasthan",
+    "pincode": "324001",
+    "locality": "Police Line",
+    "landmark": "New",
+    "emergencyContact": "063505 68713",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Bundi",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHz4aix33cQgPiK5D_rI-PiJh1YELjOD94-RRninxXCzuIZ0pPSLFDedZm0P8nYucNSWd3bzrEz5X3rbn5dR81fdBdx9BOUFIdP3cLZCB2scGygLZfxwqEyVimAr-VSgNfbO6BWig=w1200-h900-p-k-no",
+    "logo": "https://shivshaktihospital.co.in/wp-content/uploads/2024/02/logo-dark.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHz4aix33cQgPiK5D_rI-PiJh1YELjOD94-RRninxXCzuIZ0pPSLFDedZm0P8nYucNSWd3bzrEz5X3rbn5dR81fdBdx9BOUFIdP3cLZCB2scGygLZfxwqEyVimAr-VSgNfbO6BWig=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOR2JayVMJYTbrizeQfG5sCN3aVEzto4NgKKD15=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOtIVDAnbj-WWG_S_WEgCwwoJwbiUVmI_f_QXGR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOHbgATIHw4BDMNsz_Rrjf0rk6VOuQ0ZDkwB7ZB=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO98e9ofY_KklX_Jj4kYyXZEVvYnJ1yTTrGCOkl=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.1823283,
+      "lng": 75.8715047,
+      "label": "Shiv Shakti Hospital - Multispeciality Hospital in Kota",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-dhanvantri-ayurvedic-hospital-bundi",
+    "name": "Shree Dhanvantri Ayurvedic Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bundi, Shree Dhanvantri Ayurvedic Hospital brings together specialists for Hip Replacement Surgery In Bundi. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Bundi can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJPJ+H47, Vikasnagar, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Vikasnagar",
+    "landmark": "Bundi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.4364141%2C75.6302896&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.4364141%2C75.6302896&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.4364141%2C75.6302896&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.4364141%2C75.6302896&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4364141,
+      "lng": 75.6302896,
+      "label": "Shree Dhanvantri Ayurvedic Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shri-hari-hospital-kota",
+    "name": "Shri Hari hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Kota, Shri Hari hospital delivers integrated care across General Surgery In Bundi. The facility stands out for Google rating 3.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kota.",
+    "email": "",
+    "phone": "094625 80686",
+    "alternatePhone": "",
+    "website": "https://www.shriharihospitalkota.in/",
+    "address": "B 99-100, Riddhi siddhi nagar, Bundi Rd, Kunadi, Kota, Rajasthan 324008",
+    "city": "Kota",
+    "state": "Rajasthan",
+    "pincode": "324008",
+    "locality": "Kunadi",
+    "landmark": "Bundi Rd",
+    "emergencyContact": "094625 80686",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVAFZl0F9IN1FP7tC2Cafa1P4JG_8JOAQqUKf7dkTMDMOzMj7qdsHAP95keNQCS6rrz6OkJlnOH_njTtnES_ZqlJP2PVjyAQQ5PNQqOvyf_RNSsOqPw3cLTgUa0d3DPQOTzNal1OTfR13F=w1200-h900-p-k-no",
+    "logo": "https://www.shriharihospitalkota.in/images/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVAFZl0F9IN1FP7tC2Cafa1P4JG_8JOAQqUKf7dkTMDMOzMj7qdsHAP95keNQCS6rrz6OkJlnOH_njTtnES_ZqlJP2PVjyAQQ5PNQqOvyf_RNSsOqPw3cLTgUa0d3DPQOTzNal1OTfR13F=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.2020482,
+      "lng": 75.8354169,
+      "label": "Shri Hari hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "suresh-sharma-hospital-bundi",
+    "name": "Suresh Sharma hospital",
+    "type": "Hospital Equipment And Supplies",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bundi, Suresh Sharma hospital brings together specialists for Liver Transplant Surgery In Bundi. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Bundi can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJMX+28J, Police Lines, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Police Lines",
+    "landmark": "Bundi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.4325869%2C75.6482726&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.4325869%2C75.6482726&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.4325869%2C75.6482726&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.4325869%2C75.6482726&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4325869,
+      "lng": 75.6482726,
+      "label": "Suresh Sharma hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bundi",
+    "name": "मातृ एवं शिशु चिकित्सालय बूंदी",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted government hospital in Bundi, मातृ एवं शिशु चिकित्सालय बूंदी delivers integrated care across Liver Transplant Surgery In Bundi. The facility stands out for Google rating 3.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bundi.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CJRW+824, Hospital Area, Bundi, Rajasthan 323001",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323001",
+    "locality": "Hospital Area",
+    "landmark": "Bundi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtU8jhZQEqH_gt6HNDKcAd8mtLK8Qgrja9ldZo21ZrdjlyDx9_GuTQqAVxKg6ItW1cLdgx27yfXMwJXuHaOPCqo76OHx0BEcs6zXi18poG4rM9SLMU6Lw1seq0RD1Ajy8kKfA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtU8jhZQEqH_gt6HNDKcAd8mtLK8Qgrja9ldZo21ZrdjlyDx9_GuTQqAVxKg6ItW1cLdgx27yfXMwJXuHaOPCqo76OHx0BEcs6zXi18poG4rM9SLMU6Lw1seq0RD1Ajy8kKfA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.4407638,
+      "lng": 75.6450792,
+      "label": "मातृ एवं शिशु चिकित्सालय बूंदी",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "and-best-multispeciaity-hospital-in-kota-best-hospital-in-kota-kota",
+    "name": "𝗥𝗼𝘆𝗮𝗹 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 𝗘𝗻𝘁 & 𝗠𝘂𝗹𝘁𝗶𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘁𝘆 - Best Multispeciaity Hospital in Kota | Best Hospital in Kota",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "𝗥𝗼𝘆𝗮𝗹 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 𝗘𝗻𝘁 & 𝗠𝘂𝗹𝘁𝗶𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘁𝘆 - Best Multispeciaity Hospital in Kota | Best Hospital in Kota is a prominent hospital in Kota, known for structured tertiary care across Cancer Surgery In Bundi. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kota.",
+    "email": "",
+    "phone": "094610 19191",
+    "alternatePhone": "",
+    "website": "https://royalhospitalkota.com/contact-us.html",
+    "address": "near police station, Vigyan Nagar, Kota, Rajasthan 324005",
+    "city": "Kota",
+    "state": "Rajasthan",
+    "pincode": "324005",
+    "locality": "Vigyan Nagar",
+    "landmark": "Kota",
+    "emergencyContact": "094610 19191",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Bundi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFuPB3vLuV2jnY7XgKXNDZeR_O92oweckyk0HKV4Cvy0P9GZB7N1-aYs9tmILNqEdbyz9dZ5HLPlW_z037LuxMcaBv9vPEEi5CQ2tS8ESOG_R34zqWTJL-4M-ASSfrZXTbfbe2f5A=w1200-h900-p-k-no",
+    "logo": "https://royalhospitalkota.com/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFuPB3vLuV2jnY7XgKXNDZeR_O92oweckyk0HKV4Cvy0P9GZB7N1-aYs9tmILNqEdbyz9dZ5HLPlW_z037LuxMcaBv9vPEEi5CQ2tS8ESOG_R34zqWTJL-4M-ASSfrZXTbfbe2f5A=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP4d2JBA6Ll76-zeYuCBOuDQ5Jq6T4QjkO5BNha=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO4vaO-bGQMTDls7fFFFt_BXwTAxbLVX7U10_xg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPfYpUnCMsnNw9pS3a2hlo-zFMcyzTeziYsXbeU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPB6P4Yh-vn2UvtCbkqGOe80IC5euN1QgFTxbGU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.1499375,
+      "lng": 75.8594544,
+      "label": "𝗥𝗼𝘆𝗮𝗹 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 𝗘𝗻𝘁 & 𝗠𝘂𝗹𝘁𝗶𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘁𝘆 - Best Multispeciaity Hospital in Kota | Best Hospital in Kota",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

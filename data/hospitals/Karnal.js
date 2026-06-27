@@ -1,0 +1,6899 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aashirwad-advanced-heart-lung-and-critical-care-centre-karnal",
+    "name": "Aashirwad Advanced Heart Lung & Critical Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Karnal, Aashirwad Advanced Heart Lung & Critical Care Centre offers coordinated hospital care with major focus on Heart Surgery In Karnal and Cardiac Care. The facility stands out for Google rating 3.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Karnal.",
+    "email": "",
+    "phone": "074199 90435",
+    "alternatePhone": "",
+    "website": "",
+    "address": "356, Kunjpura Rd, opp. Snatan Dharm Mandir, Old Char Chaman, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "opp. Snatan Dharm Mandir",
+    "emergencyContact": "074199 90435",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Karnal",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeqFuXWBIp8mqHTgTY6bU1-WCoiV1Si7HHU8xi4pyWcOhqh6uJDwc998ASDZQYT-KYbUwu1yM5ElLmb_B14RCI9cQjvWQ785OH0sMbVAkiXBtsgW-H8GVwab9hWg1mF6OHDqLBfQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeqFuXWBIp8mqHTgTY6bU1-WCoiV1Si7HHU8xi4pyWcOhqh6uJDwc998ASDZQYT-KYbUwu1yM5ElLmb_B14RCI9cQjvWQ785OH0sMbVAkiXBtsgW-H8GVwab9hWg1mF6OHDqLBfQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6893472,
+      "lng": 76.9922055,
+      "label": "Aashirwad Advanced Heart Lung & Critical Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aashirwad-superspeciality-hospital-karnal",
+    "name": "Aashirwad Superspeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose Aashirwad Superspeciality Hospital for its strength in Gynecologist Surgery In Karnal and Speciality Care. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081999 89949",
+    "alternatePhone": "",
+    "website": "",
+    "address": "House no, 1466, Sector 7 Rd, Sector 7, Karnal, Phusgarh Part, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 7",
+    "landmark": "Sector 7 Rd",
+    "emergencyContact": "081999 89949",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=29.6864458%2C77.0085785&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=29.6864458%2C77.0085785&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6864458%2C77.0085785&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6864458%2C77.0085785&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6864458,
+      "lng": 77.0085785,
+      "label": "Aashirwad Superspeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ajmani-hospital-karnal",
+    "name": "Ajmani Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose Ajmani Hospital for its strength in Liver Transplant Surgery In Karnal. The facility stands out for Google rating 3.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0184 220 7582",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Haryana 132001",
+    "emergencyContact": "0184 220 7582",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzNcbtMf5oaJKEGhFu7EAFGbalB5Vg4ZThyR4arcigSZS8KZnJv79n4RKtTCGlqMZ3EpyoOmACMucLbp5Bz3ey8d8sgpklX4vhczE8FzQ4spvAksE3klMZX9WB-rxjOianeqDT=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzNcbtMf5oaJKEGhFu7EAFGbalB5Vg4ZThyR4arcigSZS8KZnJv79n4RKtTCGlqMZ3EpyoOmACMucLbp5Bz3ey8d8sgpklX4vhczE8FzQ4spvAksE3klMZX9WB-rxjOianeqDT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6955875,
+      "lng": 76.9932181,
+      "label": "Ajmani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "althea-karnal",
+    "name": "ALTHEA",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose ALTHEA for its strength in Gynecologist Surgery In Karnal. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "713, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Karnal",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=29.6954183%2C76.992529&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=29.6954183%2C76.992529&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6954183%2C76.992529&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6954183%2C76.992529&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6954183,
+      "lng": 76.992529,
+      "label": "ALTHEA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amar-hospital-karnal",
+    "name": "Amar Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, Amar Hospital brings together specialists for Gynecologist Surgery In Karnal. Operational strengths including Google rating 3.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0184 228 5556",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sector 6, Ahinsa Marg Main Road, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Ahinsa Marg Main Road",
+    "landmark": "Karnal",
+    "emergencyContact": "0184 228 5556",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCdTZoeUXds0SNnsrnCqxw0QWv45Digp1D6qclbXT4mXcPR-WZQ7YdjzyWV8NQolhnHdW-k65qPt5rBVWq-LdnYCxkWQIw-GQw25Hlg9-XXKEvkd3LYGqpmQ5JC5i6n0R3t5Bz=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCdTZoeUXds0SNnsrnCqxw0QWv45Digp1D6qclbXT4mXcPR-WZQ7YdjzyWV8NQolhnHdW-k65qPt5rBVWq-LdnYCxkWQIw-GQw25Hlg9-XXKEvkd3LYGqpmQ5JC5i6n0R3t5Bz=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6813352,
+      "lng": 77.0101208,
+      "label": "Amar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amritdhara-my-hospital-karnal",
+    "name": "AMRITDHARA, my Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Karnal, AMRITDHARA, my Hospital offers coordinated hospital care with major focus on Urologist Surgery In Karnal. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karnal.",
+    "email": "",
+    "phone": "0184 409 8100",
+    "alternatePhone": "",
+    "website": "https://hospitalamritdhara.com/",
+    "address": "Near ITI Chowk, Gahoon Vihar, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Gahoon Vihar",
+    "landmark": "Karnal",
+    "emergencyContact": "0184 409 8100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/geougc/AF1QipNJzgnvt21BGD6sVQIXoy9bC1GB9aC8FFP3mxjd=w1200-h900-p-k-no",
+    "logo": "https://hospitalamritdhara.com/wp-content/themes/amritv1/images/Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/geougc/AF1QipNJzgnvt21BGD6sVQIXoy9bC1GB9aC8FFP3mxjd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMFtznvZvcsIi1m15lML99LKJXirakOmi1d-wpy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5M6Mt5PG9fxD_iIGvd23NoCTaqU1FckqJgDLhVQMK_b395KJ9V17KqYEYFQp2wbtBCgsf33wfU9tggeivuQcmFzofXYkeGPzVTEPmQoQPYOZMci56C-ONYbG76_uFEtFddLgD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXXw5vxSUF-CcCRNeaP0yuy-C3fFAPVZgoJbat25e31GgvxeCBuWAsGfqmx7an5Ib881zIydgaDPiehA__T0HSCleQmZkr3nwBh-ztcgZ5DPZbxuguR5sklNZAH1IyeJZZ68fO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF90LNxnDssme2qrMV0bFGudiIe8mkttii8MHQ86cjSPcUS3fz2qsNWs6qY9NJuJgZhw7K6X4e_HXFfEcFxmHbFKmzrZhxtfYBQUjZMASxD20zehKqZZtki307anwaQ_wxDV7c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.7072091,
+      "lng": 77.003321,
+      "label": "AMRITDHARA, my Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "archana-hospital-karnal",
+    "name": "Archana Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Karnal, Archana Hospital delivers integrated care across Gynecologist Surgery In Karnal. With public-facing highlights like Google rating 3.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karnal.",
+    "email": "",
+    "phone": "094161 95671",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6, Duggal Colony, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Dyal Singh Colony",
+    "emergencyContact": "094161 95671",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8yQTz-EeHlPxN9ij9sGUAVyady-RYYd1u4twFUEUh9eXV2ED3N2EOAg4Pnq-WjGgqZKa1UkDYhub85WCVci6PqaEVRb5Clu3Au5iocsKNyD0A1J0H4coxjvm0T2l7e1SkAlgR=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8yQTz-EeHlPxN9ij9sGUAVyady-RYYd1u4twFUEUh9eXV2ED3N2EOAg4Pnq-WjGgqZKa1UkDYhub85WCVci6PqaEVRb5Clu3Au5iocsKNyD0A1J0H4coxjvm0T2l7e1SkAlgR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6955377,
+      "lng": 76.9914997,
+      "label": "Archana Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "arpana-hospital-karnal",
+    "name": "Arpana Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose Arpana Hospital for its strength in Cardiac Surgery In Karnal. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093506 63438",
+    "alternatePhone": "",
+    "website": "https://arpanahospital.in/",
+    "address": "Arpana Trust, Madhuban, Karnal, Haryana 132037",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132037",
+    "locality": "Madhuban",
+    "landmark": "Karnal",
+    "emergencyContact": "093506 63438",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHBXpAvxMIV9wMbEdyMiXpcxPW2sk6Ootj7Cc3gNDFG9lYpk7eX07IRI78SucF9coIPxbDXnRNUNF6MZHluAU_oWnvCUBRAioZswY9X2s3CcdeWA4XA7JVAmQt1KA5Nj4EbbEYUXRH-jA=w1200-h900-p-k-no",
+    "logo": "https://arpanahospital.in/wp-content/uploads/2025/07/Arpana_logo_00a.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHBXpAvxMIV9wMbEdyMiXpcxPW2sk6Ootj7Cc3gNDFG9lYpk7eX07IRI78SucF9coIPxbDXnRNUNF6MZHluAU_oWnvCUBRAioZswY9X2s3CcdeWA4XA7JVAmQt1KA5Nj4EbbEYUXRH-jA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-Dqh2UMgkKgqTV-b2SICoJzjGAkLnPaFmrStBElHFr82970Cvzk3o5Wafyv3SpnwK8ekvUuWZalSHaE2kBs2WMvmJc2pbKmxw3rKI9WfniI4DguiTbJfQljM9BMsuWS96Pi6SUg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6063938,
+      "lng": 76.9797712,
+      "label": "Arpana Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "arvind-hospital-karnal",
+    "name": "Arvind Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Karnal, Arvind Hospital delivers integrated care across Orthopedic Surgery In Karnal. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Karnal.",
+    "email": "",
+    "phone": "0184 220 5060",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MXVR+VM6, Duggal Colony, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Dyal Singh Colony",
+    "emergencyContact": "0184 220 5060",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEBG0D51ecQoGzRcl9OyF25R5fX1s3Jdk3djIg1BZ8rUI7e-_hXDbcL_ZKNsaqj_xMZ8NIv1QJVx3S4dHpSn7go4-aCNf6e5kFlheeioqW9-qp9cQdPzEikne0M6frfPuIXjgY=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEBG0D51ecQoGzRcl9OyF25R5fX1s3Jdk3djIg1BZ8rUI7e-_hXDbcL_ZKNsaqj_xMZ8NIv1QJVx3S4dHpSn7go4-aCNf6e5kFlheeioqW9-qp9cQdPzEikne0M6frfPuIXjgY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6946934,
+      "lng": 76.9916336,
+      "label": "Arvind Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bharti-hospital-karnal",
+    "name": "Bharti Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose Bharti Hospital for its strength in Gynecologist Surgery In Karnal. Its infrastructure includes Google rating 3.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "092158 48555",
+    "alternatePhone": "",
+    "website": "http://www.bhartihospital.com/",
+    "address": "Kunjpura Rd, Saini Colony, Wazir Chand Colony, Sector 12, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 12",
+    "landmark": "Wazir Chand Colony",
+    "emergencyContact": "092158 48555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHG8pZylRjO3PsUt_jQ5VwbYk36w9WKMgu-djizJ3Xvt0goqxf6EqtDpa8gptf3sURKggff92-xg8Qn5xzOx8iLyolEwASKhBk-2EaZMtrSGvP7DknEqan5Q13g8b39u8DWo4El=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHG8pZylRjO3PsUt_jQ5VwbYk36w9WKMgu-djizJ3Xvt0goqxf6EqtDpa8gptf3sURKggff92-xg8Qn5xzOx8iLyolEwASKhBk-2EaZMtrSGvP7DknEqan5Q13g8b39u8DWo4El=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6972905,
+      "lng": 76.9961506,
+      "label": "Bharti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bisla-veterinary-hospital-karnal",
+    "name": "Bisla Veterinary Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bisla Veterinary Hospital has built a strong reputation in Karnal for multidisciplinary treatment pathways covering Cardiac Surgery In Karnal. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "098960 89664",
+    "alternatePhone": "",
+    "website": "https://bislahospital.com/",
+    "address": "Site number 1133, main road, opposite shiv mandir and police post, Sector 9, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 9",
+    "landmark": "opposite shiv mandir and police post, Sector 9, Karnal, Haryana 132001",
+    "emergencyContact": "098960 89664",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7Gx1HOyWZgGjxEBlP7nPAYpflDj5F0y53q54Gkqz6uzyk4DyYpXWB6CxmJWVh-MzSC3m3pVbNFCvREN_ki8yLvutOg9PSl0-q_AyGQO74padSdsAGujzX3Zx9yW5_vE44MotnLFfZ3-u2=w1200-h900-p-k-no",
+    "logo": "https://bislahospital.com/wp-content/uploads/2024/11/Bisla-Veterinary-Hospital.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7Gx1HOyWZgGjxEBlP7nPAYpflDj5F0y53q54Gkqz6uzyk4DyYpXWB6CxmJWVh-MzSC3m3pVbNFCvREN_ki8yLvutOg9PSl0-q_AyGQO74padSdsAGujzX3Zx9yW5_vE44MotnLFfZ3-u2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNeYQe7-L8TRhFN8MC0XQWk7Pg_w3XmQLxJXwp5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPW_h0DZ6ZRu6NLtFMMpEZ5zD_xYbkxjd68Sd6z=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPF94CqByy6atnTvBXUpsZ8XfNfAYZ5lHnQDwRP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPiAOfGlGXmWb2NsctjFOwSXkaAQPYdFcAteU39=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.7084755,
+      "lng": 77.0116552,
+      "label": "Bisla Veterinary Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "choudhary-b-s-hospital-karnal",
+    "name": "Choudhary B.S. Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose Choudhary B.S. Hospital for its strength in Gynecologist Surgery In Karnal. Hospital capacity markers such as Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://choudharybshospital.co.in/",
+    "address": "Clinic Site, 3, Sector 7 Rd, Sector 7, Karnal, Phusgarh Part, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 7",
+    "landmark": "Sector 7 Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=29.6837829%2C77.0111636&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=29.6837829%2C77.0111636&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6837829%2C77.0111636&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6837829%2C77.0111636&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6837829,
+      "lng": 77.0111636,
+      "label": "Choudhary B.S. Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dushyant-healthcare-karnal",
+    "name": "Dushyant Healthcare",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, Dushyant Healthcare brings together specialists for Gynecologist Surgery In Karnal. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "main market, 17bp, near Nirmal Kutiya Chowk, Sector 8, Karnal, Phusgarh Part, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 8",
+    "landmark": "near Nirmal Kutiya Chowk, Sector 8, Karnal, Phusgarh Part, Haryana 132001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=29.6933129%2C77.0107993&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=29.6933129%2C77.0107993&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6933129%2C77.0107993&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6933129%2C77.0107993&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6933129,
+      "lng": 77.0107993,
+      "label": "Dushyant Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "eros-hospital-best-multispeciality-hospital-in-karnal-uchana",
+    "name": "EROS Hospital | Best Multispeciality Hospital in Karnal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Uchana, EROS Hospital | Best Multispeciality Hospital in Karnal offers coordinated hospital care with major focus on Orthopedic Surgery In Karnal and Speciality Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Uchana.",
+    "email": "",
+    "phone": "090506 02333",
+    "alternatePhone": "",
+    "website": "https://eroshealthcare.in/",
+    "address": "Next to Hotel Sagar Ratna National Highway, 44, Grand Trunk Rd, Uchana, Haryana 132116",
+    "city": "Uchana",
+    "state": "Haryana",
+    "pincode": "132116",
+    "locality": "Grand Trunk Rd",
+    "landmark": "Grand Trunk Rd",
+    "emergencyContact": "090506 02333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Karnal",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGa9LYB4pdAffTemU7Eu4SM_Qz1_Z8JVRiJ7cvwcVMa0sVd8W8_wDue-Q46SOP8KWamoP9Z2FXrU9mvfruKMP9JfGpu-MugTjEpCMFrdTELp0ozQmJWSNSkxqsa-Z52OA0_eyHKbM_akU=w1200-h900-p-k-no",
+    "logo": "https://eroshealthcare.in/wp-content/uploads/2025/06/cropped-Eros-png-4-scaled-1-32x32.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGa9LYB4pdAffTemU7Eu4SM_Qz1_Z8JVRiJ7cvwcVMa0sVd8W8_wDue-Q46SOP8KWamoP9Z2FXrU9mvfruKMP9JfGpu-MugTjEpCMFrdTELp0ozQmJWSNSkxqsa-Z52OA0_eyHKbM_akU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMHmK4RP1ZkJk3mkeuOo6NBI4jy8kVg78N0ajYT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNKGz9lEEfDmgCM55GVUQY4sky2GvCJfuaeYvhH=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOMUHXF8RhCfpe2KYXEyYV6SacoTN6Om4obvLUu=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMr-EIQ9y576xVsxJOsAahw4nalyO15_mAuIqC-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.7329763,
+      "lng": 76.9754807,
+      "label": "EROS Hospital | Best Multispeciality Hospital in Karnal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gajraj-hospital-karnal-karnal",
+    "name": "Gajraj Hospital Karnal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, Gajraj Hospital Karnal brings together specialists for Orthopedic Surgery In Karnal. Hospital capacity markers such as Google rating 3.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "099996 40644",
+    "alternatePhone": "",
+    "website": "",
+    "address": "75 jarnaily colony, Kunjpura Rd, near Hotel Leela Grand Hotel, near Randhir Cinema, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "near Randhir Cinema",
+    "landmark": "near Hotel Leela Grand Hotel, near Randhir Cinema, Karnal, Haryana 132001",
+    "emergencyContact": "099996 40644",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKPOzbmrvQMbhLf9NE6Xd7e60lRU38VO2B4B6BaNJIV8v_eMzyaE3aPmJtjmUBmlJpij-A7WPI17rKI5ZzW6AJlqlq7OqEArWLyMkOTY5wS0vi7q7umWyKiYqyUKBCrmldnxyq=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKPOzbmrvQMbhLf9NE6Xd7e60lRU38VO2B4B6BaNJIV8v_eMzyaE3aPmJtjmUBmlJpij-A7WPI17rKI5ZzW6AJlqlq7OqEArWLyMkOTY5wS0vi7q7umWyKiYqyUKBCrmldnxyq=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6941487,
+      "lng": 76.9937612,
+      "label": "Gajraj Hospital Karnal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "global-cradle-hospital-karnal",
+    "name": "Global Cradle Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, Global Cradle Hospital brings together specialists for Liver Transplant Surgery In Karnal. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "088477 70009",
+    "alternatePhone": "",
+    "website": "http://www.globalcradle.com/",
+    "address": "azad nagar, Hansi Rd, adjoining Sant Nirankari Bhawan, Sant Nagar, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sant Nagar",
+    "landmark": "adjoining Sant Nirankari Bhawan",
+    "emergencyContact": "088477 70009",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLElpAihkzQNt-CfVWTjI-ZkRVbpgT6Ie2qI_3xKRBT_mtvd87cNG-lioNtJWj9hnbYjIarDNEmg4Pyzd5XGCsDhkGhjIzQelFfdbIkW_ydXA_oQKKzCOpsumlncWeHcHgrWM=w1200-h900-p-k-no",
+    "logo": "https://www.globalcradle.com/images/logo-nabh.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLElpAihkzQNt-CfVWTjI-ZkRVbpgT6Ie2qI_3xKRBT_mtvd87cNG-lioNtJWj9hnbYjIarDNEmg4Pyzd5XGCsDhkGhjIzQelFfdbIkW_ydXA_oQKKzCOpsumlncWeHcHgrWM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM_aFqTgPMb1YVLpm5--fEEIy4voZSdzT1o7BL6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNu4jV3L5kNGuF0kI7Gj74UYp6f2HTchauIQeeD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPIW4hbBUxqImscxTudFzTEpBhskJIrbVwPP9qe=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMaoGFqef5u4XsfC-CV0D3sNR2-60IaD5ug7xC9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6928934,
+      "lng": 76.9749739,
+      "label": "Global Cradle Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gurunanak-hospital-karnal",
+    "name": "Gurunanak Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gurunanak Hospital is a prominent hospital in Karnal, known for structured tertiary care across IVF In Karnal. With public-facing highlights like Google rating 4.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karnal.",
+    "email": "",
+    "phone": "0184 225 1616",
+    "alternatePhone": "",
+    "website": "http://divineindiaivf.com/",
+    "address": "Randhir Ln, near Dyal Singh College, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "near Dyal Singh College, Dyal Singh Colony, Karnal, Haryana 132001",
+    "emergencyContact": "0184 225 1616",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhQGXTQmlej_1DkpCgULIHxFTm-vWqs_1TspFwCzEhH7-5Um6S1YcslOjiAiFY7UcQMIzJw55KidDy_B8s56FJvRuBjj0SxOgiQFw_C8J18MS8QpT5SvknsrVr_drdbKiF-lMIiQ=w1200-h900-p-k-no",
+    "logo": "http://divineindiaivf.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhQGXTQmlej_1DkpCgULIHxFTm-vWqs_1TspFwCzEhH7-5Um6S1YcslOjiAiFY7UcQMIzJw55KidDy_B8s56FJvRuBjj0SxOgiQFw_C8J18MS8QpT5SvknsrVr_drdbKiF-lMIiQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.694344,
+      "lng": 76.9894085,
+      "label": "Gurunanak Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "haryana-hospital-karnal",
+    "name": "Haryana Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Haryana Hospital has built a strong reputation in Karnal for multidisciplinary treatment pathways covering Orthopedic Surgery In Karnal. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0184 406 6067",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hospital Site, No. 5, Main Market Road, Sector 7, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 7",
+    "landmark": "Main Market Road",
+    "emergencyContact": "0184 406 6067",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkLgiyi4NN5rqiUGDvIdPr8apkSkaOBQOoipM_Il3-HeCAOyNm1ucKTvKOy0hH_e6eBSeBtpKA2ZD1jKR6T5Ps_GFcLrZNmWVRgf_quGNK4hj2pZRa-d7xYJeq344cAmhsSgWW=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkLgiyi4NN5rqiUGDvIdPr8apkSkaOBQOoipM_Il3-HeCAOyNm1ucKTvKOy0hH_e6eBSeBtpKA2ZD1jKR6T5Ps_GFcLrZNmWVRgf_quGNK4hj2pZRa-d7xYJeq344cAmhsSgWW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6874805,
+      "lng": 77.0104253,
+      "label": "Haryana Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hospital-karnal",
+    "name": "Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose Hospital for its strength in Cardiac Surgery In Karnal. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "New, Karnal Sabji Mandi, near water tank, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "near water tank, Dyal Singh Colony, Karnal, Haryana 132001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2VowfjiB3WlToFL8tcr0AsobLcjXP1qzBKLTiG5DTyWkO10kNgaw7QV02Y_r78so5X_KtY84rhpZ3_6MvZWgHdpsIJN30LpLSymwgPrvi9I4io1BBhhE5RcWRzK3p16ZT5uq2=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2VowfjiB3WlToFL8tcr0AsobLcjXP1qzBKLTiG5DTyWkO10kNgaw7QV02Y_r78so5X_KtY84rhpZ3_6MvZWgHdpsIJN30LpLSymwgPrvi9I4io1BBhhE5RcWRzK3p16ZT5uq2=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6860944,
+      "lng": 76.9913975,
+      "label": "Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ishwar-kripa-hospital-karnal",
+    "name": "Ishwar Kripa Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Karnal, Ishwar Kripa Hospital delivers integrated care across Gynecologist Surgery In Karnal. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karnal.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "House no, 20 & 21, Urban Estate, Sector 14, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 14",
+    "landmark": "Urban Estate",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9HHz3qlK7CHqyuEOeKVDd6R8xbbeNsLALyK4qbZGxI6sEGjLK9YjLMKuQ2K2ImEBxjYY7vb2vatJuqIWuYpbzQ6fDjs3yXlFTFhVhleo0ZLjfxf1PIcEX42KJIXHeJZDoYmD3D7w0VjCZ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9HHz3qlK7CHqyuEOeKVDd6R8xbbeNsLALyK4qbZGxI6sEGjLK9YjLMKuQ2K2ImEBxjYY7vb2vatJuqIWuYpbzQ6fDjs3yXlFTFhVhleo0ZLjfxf1PIcEX42KJIXHeJZDoYmD3D7w0VjCZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOOZMtOpttxfj-uts9RE1DuAmmbPJwwk7CQpgWu=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNNZqee17DmbD5VWFUN5u705NgYG8Q4fkmBJcFv=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOg7jJOZDeaOiyoMZ2iLPKv4gdC-JPnIO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOg7jJOZDeaOiyoMZ2iLPKv4gdC-JPnIOyLTKp5=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6824464,
+      "lng": 76.9983154,
+      "label": "Ishwar Kripa Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jagdamba-baby-care-centre-karnal",
+    "name": "Jagdamba Baby Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Karnal, Jagdamba Baby Care Centre offers coordinated hospital care with major focus on Cardiac Surgery In Karnal. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karnal.",
+    "email": "",
+    "phone": "0184 220 5550",
+    "alternatePhone": "",
+    "website": "https://drmanojmittal.com/",
+    "address": "1955, Urban Estate, Sector 13, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 13",
+    "landmark": "Sector 13",
+    "emergencyContact": "0184 220 5550",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEafSyvbIvfMic_heyti6z10vum9xGDqUuVwFXLzol0wCOk560_hwjd_iJn2hu3veTdIT70UNUXIknkwvDzo4pXNf9FI_ZlGiLOk-ygOuoIiNBjNZ3MouJlOtZmJIDEJQ0VcJKO=w1200-h900-p-k-no",
+    "logo": "https://drmanojmittal.com/wp-content/uploads/2022/01/LOGO-t-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEafSyvbIvfMic_heyti6z10vum9xGDqUuVwFXLzol0wCOk560_hwjd_iJn2hu3veTdIT70UNUXIknkwvDzo4pXNf9FI_ZlGiLOk-ygOuoIiNBjNZ3MouJlOtZmJIDEJQ0VcJKO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO_Wjk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO_WjkbyPK-ocdOlAw6SJKpFlIpwZlMZf855x_t=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOZ0ME1F9tE7ScihKHtsan40cePY5arSZrMIoIa=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOmLzuosgJs9rBKQWgyv37Mtwa91A0uGrQ2Xsbo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6825427,
+      "lng": 76.999702,
+      "label": "Jagdamba Baby Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jairaj-multispeciality-hospital-karnal",
+    "name": "Jairaj Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Karnal, Jairaj Multispeciality Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Karnal and Speciality Care. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Karnal.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "will decide, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Karnal",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=29.6856929%2C76.9904825&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=29.6856929%2C76.9904825&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6856929%2C76.9904825&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6856929%2C76.9904825&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6856929,
+      "lng": 76.9904825,
+      "label": "Jairaj Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jawa-dental-care-karnal",
+    "name": "JAWA DENTAL CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, JAWA DENTAL CARE brings together specialists for Oral Surgery In Karnal. Hospital capacity markers such as Google rating 1.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "094167 83888",
+    "alternatePhone": "",
+    "website": "https://www.karnalguide.com/Jawa-Dental-Clinic-Karnal-7220560.html",
+    "address": "Urban Estate, Sector 13, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 13",
+    "landmark": "Karnal",
+    "emergencyContact": "094167 83888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdG4EzoKxo3uSzpGwxmEqRByIJ6J4irH-8kKkJ4gMQnW6CKZQcnSzxOtmZAv9tMP4d68zl4yp-cL2NkEZVKvanINDvN8NUi9gDZQpeGgNNn7xPTBgA8D_DagRyxrCnZVZF5-UqTg=w1200-h900-p-k-no",
+    "logo": "https://www.karnalguide.com/dealer_images/722_1.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdG4EzoKxo3uSzpGwxmEqRByIJ6J4irH-8kKkJ4gMQnW6CKZQcnSzxOtmZAv9tMP4d68zl4yp-cL2NkEZVKvanINDvN8NUi9gDZQpeGgNNn7xPTBgA8D_DagRyxrCnZVZF5-UqTg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6918098,
+      "lng": 76.9978389,
+      "label": "JAWA DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "js-hospital-karnal",
+    "name": "JS Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, JS Hospital brings together specialists for Liver Transplant Surgery In Karnal. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SCO. 5/6, DANIYALPUR, CHOWK, Kunjpura Rd, Karnal, Mangalpur Part, Haryana 132023",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132023",
+    "locality": "Kunjpura Rd",
+    "landmark": "CHOWK",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=29.7150115%2C77.0260523&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=29.7150115%2C77.0260523&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.7150115%2C77.0260523&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.7150115%2C77.0260523&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.7150115,
+      "lng": 77.0260523,
+      "label": "JS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "karna-surgical-maternity-and-heart-center-karnal",
+    "name": "Karna Surgical Maternity & Heart center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Karnal, Karna Surgical Maternity & Heart center delivers integrated care across Liver Transplant Surgery In Karnal and Cardiac Care. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karnal.",
+    "email": "",
+    "phone": "098123 55333",
+    "alternatePhone": "",
+    "website": "",
+    "address": "87, Jarnailly Colony, opposite Government Hospital, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "opposite Government Hospital",
+    "landmark": "opposite Government Hospital, Karnal, Haryana 132001",
+    "emergencyContact": "098123 55333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGv7LAncBOwM_-rxxWqGx7j4c-7ftJj4trzMdr8doaEGvcK2-LH6B2DdMFFkCoyydH8wjmSBc_AQ9AGx3tKI8Mzut4YK9pKqTO4OeZHAFqOQij_XVWmTUKMem0nzN3f2WVdF0dS=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGv7LAncBOwM_-rxxWqGx7j4c-7ftJj4trzMdr8doaEGvcK2-LH6B2DdMFFkCoyydH8wjmSBc_AQ9AGx3tKI8Mzut4YK9pKqTO4OeZHAFqOQij_XVWmTUKMem0nzN3f2WVdF0dS=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6943945,
+      "lng": 76.9936747,
+      "label": "Karna Surgical Maternity & Heart center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "karnal-physiotherapy-centre-karnal",
+    "name": "Karnal Physiotherapy Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose Karnal Physiotherapy Centre for its strength in Knee Replacement Surgery In Karnal. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "092152 13444",
+    "alternatePhone": "",
+    "website": "",
+    "address": "99, Jarnailly colony, opp. Pratap Public School, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "opp. Pratap Public School",
+    "emergencyContact": "092152 13444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhA_lfhSDwF09a04m0LtQAJeNRHzdr2AIDrV1yU87wsqtgE7uVteLl0L0xl0iMs_6dEseT2Ip5n6YBIBmDbI93N_NRrKPfxcYo1FFj9YR580n4wRLF0_myMWB9yrRUyov-CVa-c2ysHMS4=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhA_lfhSDwF09a04m0LtQAJeNRHzdr2AIDrV1yU87wsqtgE7uVteLl0L0xl0iMs_6dEseT2Ip5n6YBIBmDbI93N_NRrKPfxcYo1FFj9YR580n4wRLF0_myMWB9yrRUyov-CVa-c2ysHMS4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOYkahIX34Kz13k-NN2mkEsOEFb_AgGo8200Dk0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN7Aop2UrbMcwHJrtxzLEsboskNjL8Q5RlY1vAs=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMESJxCeBd0rQAhkhyfJDCyiak-WbSjxzJ2AjfA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPQXLHcXvclOhCsCj6gQUXkM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6932101,
+      "lng": 76.9913527,
+      "label": "Karnal Physiotherapy Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kumar-hospital-karnal",
+    "name": "Kumar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose Kumar Hospital for its strength in Liver Transplant Surgery In Karnal. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "M2H7+C44, Housing Board Colony, Sector 6, Karnal, Phusgarh Part, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 6",
+    "landmark": "Sector 6",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=29.6785121%2C77.0128231&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=29.6785121%2C77.0128231&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6785121%2C77.0128231&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6785121%2C77.0128231&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6785121,
+      "lng": 77.0128231,
+      "label": "Kumar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "life-care-hospital-a-medical-and-maternity-centre-karnal",
+    "name": "Life Care Hospital - A Medical & Maternity Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Life Care Hospital - A Medical & Maternity Centre has built a strong reputation in Karnal for multidisciplinary treatment pathways covering Liver Transplant Surgery In Karnal. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "0184 228 2999",
+    "alternatePhone": "",
+    "website": "https://lifecarekarnal.com/",
+    "address": "Main Market, Sector 7, Karnal, Phusgarh Part, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 7",
+    "landmark": "Karnal",
+    "emergencyContact": "0184 228 2999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjkjDxAn1--HlLK7-a3c3GVPWxlKfhTE6IfM_kjhseDuuID9xX6XdNe9fSXrHa1fqz62n5zhIP35On9N4ds5ncIpE4YVR37ijWY2AP1WlCg40KjeMD_9kfYMhS_Rjd6Q7AV4Mm=w1200-h900-p-k-no",
+    "logo": "http://lifecarekarnal.com/wp-content/uploads/2021/05/LCH-Favicon.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjkjDxAn1--HlLK7-a3c3GVPWxlKfhTE6IfM_kjhseDuuID9xX6XdNe9fSXrHa1fqz62n5zhIP35On9N4ds5ncIpE4YVR37ijWY2AP1WlCg40KjeMD_9kfYMhS_Rjd6Q7AV4Mm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_Y3RkuRAuvCNVsmTIfVsLHKFYebEAlMCzBkIIfyfQxtPop291R-U1jf1wGVsGo_-S117sDW8sfvk6oMohPYezhYkIMWDP9OY3sqTe7akOBnKhm6DII7FtvS2PBchTHx2XdxYFmw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6875359,
+      "lng": 77.0105842,
+      "label": "Life Care Hospital - A Medical & Maternity Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mahabir-dal-hospital-karnal",
+    "name": "Mahabir Dal Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, Mahabir Dal Hospital brings together specialists for Orthopedic Surgery In Karnal. Operational strengths including Google rating 3.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092156 09092",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MXQR+CFC, Kunjpura Rd, Old Char Chaman, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Old Char Chaman",
+    "emergencyContact": "092156 09092",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcLYSXX2jFuvg-Lb0fhYh7S7Ml5wIkVooHLK0s2WAUSBrkHLOSHU0nBPdtnkXsc9w5xKclPOGyCj-ycOF2V5yew4oEolrwRICnFRmEb3jpQJ1WR1WxfVoEN1m5fOENmvdEOSX1=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcLYSXX2jFuvg-Lb0fhYh7S7Ml5wIkVooHLK0s2WAUSBrkHLOSHU0nBPdtnkXsc9w5xKclPOGyCj-ycOF2V5yew4oEolrwRICnFRmEb3jpQJ1WR1WxfVoEN1m5fOENmvdEOSX1=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6886187,
+      "lng": 76.9910872,
+      "label": "Mahabir Dal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medline-hospital-and-trauma-center-karnal",
+    "name": "MEDLINE HOSPITAL AND TRAUMA CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Karnal, MEDLINE HOSPITAL AND TRAUMA CENTER offers coordinated hospital care with major focus on Liver Transplant Surgery In Karnal. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karnal.",
+    "email": "",
+    "phone": "072060 11885",
+    "alternatePhone": "",
+    "website": "https://medlinehospital.in/",
+    "address": "505, Main Market Rd, opposite SBI BANK, Model Town, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Model Town",
+    "landmark": "opposite SBI BANK, Model Town, Karnal, Haryana 132001",
+    "emergencyContact": "072060 11885",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVxHsrS8CiOmyOzLazF7mrha61TIwNqTKAs500KPu8hlYjGp6JrKWKDFDW8DTHK0Lna1fOs8oZ62JgaCwP_cMN0zr_-NETpC0pteFGZ2l1252tfVxN0u-H2plkfU3CfWYuSoiYhCpG1jkD=w1200-h900-p-k-no",
+    "logo": "https://www.medlinehospital.in/_next/image?url=%2Flogo.png&w=384&q=75",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVxHsrS8CiOmyOzLazF7mrha61TIwNqTKAs500KPu8hlYjGp6JrKWKDFDW8DTHK0Lna1fOs8oZ62JgaCwP_cMN0zr_-NETpC0pteFGZ2l1252tfVxN0u-H2plkfU3CfWYuSoiYhCpG1jkD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEcdJ6HDTMjoBrWaBdd8tCYcuGeNxaOx8ycLXBfsC54wJf0q5E256FfpDCFDt1etQLHCTWeYsa8z7M1Z4r2sZIF0JjUSusOc_KljLwYqpZf0F_ocz3cdHHslJBshh7MQ6Od0l3bx8xb1au=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.7006906,
+      "lng": 77.0003932,
+      "label": "MEDLINE HOSPITAL AND TRAUMA CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "neera-garg-hospital-karnal",
+    "name": "Neera Garg Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose Neera Garg Hospital for its strength in Gynecologist Surgery In Karnal. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MXVV+M7P, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Karnal",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=29.6942086%2C76.9931984&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=29.6942086%2C76.9931984&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6942086%2C76.9931984&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6942086%2C76.9931984&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6942086,
+      "lng": 76.9931984,
+      "label": "Neera Garg Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "neuro-spine-centre-karnal",
+    "name": "Neuro Spine Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, Neuro Spine Centre brings together specialists for Spine Neurosurgeon In Karnal, Neurosciences, and Spine Care. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "#45. Randhir Lane, Nr. Dyal singh College, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Nr. Dyal singh College",
+    "landmark": "Karnal",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Karnal",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=29.693919%2C76.9894209&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=29.693919%2C76.9894209&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.693919%2C76.9894209&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.693919%2C76.9894209&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.693919,
+      "lng": 76.9894209,
+      "label": "Neuro Spine Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "noor-medical-centre-karnal",
+    "name": "Noor Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, Noor Medical Centre brings together specialists for Gynecologist Surgery In Karnal. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0184 228 5551",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Market Road, Sector 6, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 6",
+    "landmark": "Karnal",
+    "emergencyContact": "0184 228 5551",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGV6kGWxdHfbj0YX7U39yb_u_Z3QHRXjBODSdbh8bZQvBWqpFdKHeRIJOWzjovRl_tEAvBfsKHoeOho-U_IOfU8x4Ks0Ns_6KI_dweh8LXnbxMyXJJQAOSFlN_kBXOeQ6T14OMv_g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGV6kGWxdHfbj0YX7U39yb_u_Z3QHRXjBODSdbh8bZQvBWqpFdKHeRIJOWzjovRl_tEAvBfsKHoeOho-U_IOfU8x4Ks0Ns_6KI_dweh8LXnbxMyXJJQAOSFlN_kBXOeQ6T14OMv_g=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.678219,
+      "lng": 77.006315,
+      "label": "Noor Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pandit-ram-prakash-hospital-kidney-centre-and-blood-bank-karnal",
+    "name": "Pandit Ram Prakash Hospital Kidney Centre & Blood Bank",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pandit Ram Prakash Hospital Kidney Centre & Blood Bank is a prominent hospital in Karnal, known for structured tertiary care across Kidney Transplant Surgery In Karnal and Kidney Care. Its infrastructure includes Google rating 4.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karnal.",
+    "email": "",
+    "phone": "0184 406 4044",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MXWV+828, opp. Civil Hospital, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Dyal Singh Colony",
+    "emergencyContact": "0184 406 4044",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Karnal",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=29.6957972%2C76.9925908&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=29.6957972%2C76.9925908&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6957972%2C76.9925908&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.6957972%2C76.9925908&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6957972,
+      "lng": 76.9925908,
+      "label": "Pandit Ram Prakash Hospital Kidney Centre & Blood Bank",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "park-hospital-karnal-uchana",
+    "name": "Park Hospital Karnal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Uchana, Park Hospital Karnal delivers integrated care across Liver Transplant Surgery In Karnal. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Uchana.",
+    "email": "",
+    "phone": "096430 00000",
+    "alternatePhone": "",
+    "website": "https://www.parkhospital.in/hospital/super-multispeciality-hospital-in-karnal?utm_source",
+    "address": "CHD City, NH-1, Sector 45, Uchana, Haryana 132116",
+    "city": "Uchana",
+    "state": "Haryana",
+    "pincode": "132116",
+    "locality": "Sector 45",
+    "landmark": "Sector 45",
+    "emergencyContact": "096430 00000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpuhScmWw-qteF5qJqx-KKoCmeS9t8BUos1_wZZB_TCAxvL_Smo5JT4jcB9oB64Tk2b4yQ9TypWyndtMd2PDXzjB_o6g3b4mx7NPO5uNfzmcs7GuqEaKUeDzOhqY374-aLcZ_G=w1200-h900-p-k-no",
+    "logo": "https://www.parkhospital.in/public/frontend/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpuhScmWw-qteF5qJqx-KKoCmeS9t8BUos1_wZZB_TCAxvL_Smo5JT4jcB9oB64Tk2b4yQ9TypWyndtMd2PDXzjB_o6g3b4mx7NPO5uNfzmcs7GuqEaKUeDzOhqY374-aLcZ_G=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.7443116,
+      "lng": 76.9599435,
+      "label": "Park Hospital Karnal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rama-super-speciality-hospital-kidnecare-karnal",
+    "name": "Rama Super Speciality Hospital - Kidnecare",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rama Super Speciality Hospital - Kidnecare is a prominent hospital in Karnal, known for structured tertiary care across Liver Transplant Surgery In Karnal and Speciality Care. The facility stands out for Google rating 3.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Karnal.",
+    "email": "",
+    "phone": "098123 58257",
+    "alternatePhone": "",
+    "website": "http://kidnecare.com/",
+    "address": "Hospital Chowk, Towards Model Town,, Kunjpura Road, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Kunjpura Road",
+    "landmark": "Kunjpura Road",
+    "emergencyContact": "098123 58257",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFd3dsREi2zYpde94uY6yrh2WJsdBOjbfssSOb4unTmquyNo61FHondaKvCt1llu5a2q1njT7FptHJUt8Ciuiw8bfLXfxNQH7HN4tJcGTYJi3R4R-OeR3TBj50XC3qJoVLYnNnrGw=w1200-h900-p-k-no",
+    "logo": "https://kidnecare.com/wp-content/uploads/2016/10/logo-kidnecare-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFd3dsREi2zYpde94uY6yrh2WJsdBOjbfssSOb4unTmquyNo61FHondaKvCt1llu5a2q1njT7FptHJUt8Ciuiw8bfLXfxNQH7HN4tJcGTYJi3R4R-OeR3TBj50XC3qJoVLYnNnrGw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6954698,
+      "lng": 76.9951758,
+      "label": "Rama Super Speciality Hospital - Kidnecare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rama-superspeciality-and-critical-care-hospital-karnal",
+    "name": "Rama Superspeciality And Critical Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, Rama Superspeciality And Critical Care Hospital brings together specialists for Kidney Transplant Surgery In Karnal and Speciality Care. Its infrastructure includes Google rating 2.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MXWV+864, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Karnal",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Karnal",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=29.695773%2C76.9930633&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=29.695773%2C76.9930633&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.695773%2C76.9930633&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=29.695773%2C76.9930633&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.695773,
+      "lng": 76.9930633,
+      "label": "Rama Superspeciality And Critical Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ranjana-polyclinic-karnal",
+    "name": "Ranjana Polyclinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Karnal, Ranjana Polyclinic offers coordinated hospital care with major focus on Gynecologist Surgery In Karnal. With public-facing highlights like Google rating 2.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Karnal.",
+    "email": "",
+    "phone": "0184 228 4769",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1185, Sector 7 Rd, Sector 7, Karnal, Phusgarh Part, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 7",
+    "landmark": "Sector 7",
+    "emergencyContact": "0184 228 4769",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEzeaOzCtxJ4tYHkNeC54MGP19a6biN-HrlUjqmFGLtsAiea3MGQqIyffw3g9Rd4IFuW1Zo4ZlHRhbCLxJQKL7LfiTOCTq01bER08sBIhaRkHGp1P5TtrWTRj_W9VC_iY_W-QgrQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEzeaOzCtxJ4tYHkNeC54MGP19a6biN-HrlUjqmFGLtsAiea3MGQqIyffw3g9Rd4IFuW1Zo4ZlHRhbCLxJQKL7LfiTOCTq01bER08sBIhaRkHGp1P5TtrWTRj_W9VC_iY_W-QgrQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6827905,
+      "lng": 77.010169,
+      "label": "Ranjana Polyclinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rawal-hospital-karnal",
+    "name": "Rawal Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Karnal, Rawal Hospital delivers integrated care across Liver Transplant Surgery In Karnal. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karnal.",
+    "email": "",
+    "phone": "090532 11998",
+    "alternatePhone": "",
+    "website": "http://www.rawalhospital.com/",
+    "address": "786, Jernaily Colony, Dyal Singh College Road, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Dyal Singh College Road",
+    "emergencyContact": "090532 11998",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzUye0GhsEp_fOyUdHzRmzSAC5IWyBY4MYaBEk4rpIw7iEKifaPkKwPRjE-keq8sqdql5QJ4EO4tLoczEXQc9kDVxJ1wY8Kk41hW6l4guvuXV2Qc_Y8JOds3D4Y3WR9QXXQQNM=w1200-h900-p-k-no",
+    "logo": "https://rawalhospital.com/wp-content/uploads/2023/12/ayushman-bharat-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzUye0GhsEp_fOyUdHzRmzSAC5IWyBY4MYaBEk4rpIw7iEKifaPkKwPRjE-keq8sqdql5QJ4EO4tLoczEXQc9kDVxJ1wY8Kk41hW6l4guvuXV2Qc_Y8JOds3D4Y3WR9QXXQQNM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6930731,
+      "lng": 76.9930255,
+      "label": "Rawal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "s-s-hospital-karnal",
+    "name": "S.S. Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "S.S. Hospital has built a strong reputation in Karnal for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Karnal. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092545 77817",
+    "alternatePhone": "",
+    "website": "",
+    "address": "House no. 24, Sector 14, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 14",
+    "landmark": "Karnal",
+    "emergencyContact": "092545 77817",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeMzGIk70oURWDgBzpDioVehAl8GYHKDFgIaaZPtTMq-glf6UiU6FoWoa38TB_iAUISCC_FqxjKhqTQ7JsHQwogZkOVNUxpCcbikzSpSlKRdAU4wvrA2-ghZ_xgaEvukkrCQ8Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeMzGIk70oURWDgBzpDioVehAl8GYHKDFgIaaZPtTMq-glf6UiU6FoWoa38TB_iAUISCC_FqxjKhqTQ7JsHQwogZkOVNUxpCcbikzSpSlKRdAU4wvrA2-ghZ_xgaEvukkrCQ8Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.682397,
+      "lng": 76.998076,
+      "label": "S.S. Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sachdeva-hospital-karnal",
+    "name": "Sachdeva Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Karnal, Sachdeva Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Karnal. The facility stands out for Google rating 3.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karnal.",
+    "email": "",
+    "phone": "098120 51130",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near Red Light, Saini Colony, Slum Area, Sector 12, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 12",
+    "landmark": "Slum Area",
+    "emergencyContact": "098120 51130",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH78A3qnu_TOd2waXLc4EXEnVAfFnUi6w5Ki9PqkeV_uOuJxex64V5KaWpodmGGr2AbkGW1kLPNrV68fIGyE-o1cdt1Ws69D-Ec8dLARi2v10vgF8qTZQ5lgEnze11uaQ1UYsZ8=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH78A3qnu_TOd2waXLc4EXEnVAfFnUi6w5Ki9PqkeV_uOuJxex64V5KaWpodmGGr2AbkGW1kLPNrV68fIGyE-o1cdt1Ws69D-Ec8dLARi2v10vgF8qTZQ5lgEnze11uaQ1UYsZ8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGl2FsJnWgnIF28odkxqoTMwNaIfWKtAxk-2_x2rg4hIuoY7KOjcNZIIqrBgX5pX7ArWTfuh1RVw-7YTm9RqLddVDcmWfprPk3Pts64p4SCOcV2eLSWz1SfnradAvNR-E=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGl2FsJnWgnIF28odkxqoTMwNaIfWKtAxk-2_x2rg4hIuoY7KOjcNZIIqrBgX5pX7ArWTfuh1RVw-7YTm9RqLddVDcmWfprPk3Pts64p4SCOcV2eLSWz1SfnradAvNR-EE2uYOM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6944968,
+      "lng": 76.997348,
+      "label": "Sachdeva Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sarla-devi-multispeciality-hospital-karnal",
+    "name": "Sarla Devi Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sarla Devi Multispeciality Hospital is a prominent hospital in Karnal, known for structured tertiary care across Liver Transplant Surgery In Karnal and Speciality Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Karnal.",
+    "email": "",
+    "phone": "099968 88623",
+    "alternatePhone": "",
+    "website": "",
+    "address": "87, Jarnaily Colony, opp. Civil hospital, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "opp. Civil hospital",
+    "emergencyContact": "099968 88623",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEyKo0bteehVc4Ws5r6cX2P0BkYpG23_S9D7sc7hH0xs0aNrXRYZhKIIppJ5uxxPXaPGDAuXM3yxpLdZ7yhPyVJSM6OWkSqeGS-9Cvj-TOc3ZNHXjJmjkgaJTgaCxm2Duu1A624=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEyKo0bteehVc4Ws5r6cX2P0BkYpG23_S9D7sc7hH0xs0aNrXRYZhKIIppJ5uxxPXaPGDAuXM3yxpLdZ7yhPyVJSM6OWkSqeGS-9Cvj-TOc3ZNHXjJmjkgaJTgaCxm2Duu1A624=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6944916,
+      "lng": 76.9936831,
+      "label": "Sarla Devi Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "satvik-hospital-and-kshar-sutra-center-karnal-karnal",
+    "name": "Satvik Hospital and kshar sutra center karnal",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, Satvik Hospital and kshar sutra center karnal brings together specialists for Liver Transplant Surgery In Karnal. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near, Kaithal Rd, near Railway flyover, opp. petrol, Jyoti Nagar, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Jyoti Nagar",
+    "landmark": "near Railway flyover, opp. petrol, Jyoti Nagar, Karnal, Haryana 132001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF925HOzkDiykNCrOu4Osjnk9SHcPizmhZjfGJz7S_RZY5ChObTMNyyAvTi59w-auKpleBk8iNhUb3vls79Z7o63lwwFLIy7-1Ca6kASZMpxUyl37BG1hQYdmyu6KU9PvqU8JZhyWskVsQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF925HOzkDiykNCrOu4Osjnk9SHcPizmhZjfGJz7S_RZY5ChObTMNyyAvTi59w-auKpleBk8iNhUb3vls79Z7o63lwwFLIy7-1Ca6kASZMpxUyl37BG1hQYdmyu6KU9PvqU8JZhyWskVsQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF925HOzkDiykNCrOu4Osjnk9SHcPizmhZjfGJz7S_RZY5ChObTMN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNxhD4QrsE61tJZEhm-UlP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNxhD4QrsE61tJZEhm-UlPqZU7hz4A9PE8RoqGL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM8r6Q4j-X8ZTd3gXcrXPK0McVPHf59Hc8nnppe=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6883073,
+      "lng": 76.9639578,
+      "label": "Satvik Hospital and kshar sutra center karnal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sdr-memorial-hospital-neuropsychiatry-and-de-addiction-centre-karnal",
+    "name": "SDR Memorial Hospital,Neuropsychiatry and De-addiction Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, SDR Memorial Hospital,Neuropsychiatry and De-addiction Centre brings together specialists for Cardiac Surgery In Karnal and Neurosciences. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "099922 10484",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SCO-50,51, New Bahadur Chand Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "New Bahadur Chand Colony",
+    "landmark": "New Bahadur Chand Colony",
+    "emergencyContact": "099922 10484",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Karnal",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3qFwy9dyZxAveilVIJsD_tsXnY1QTe9BrwewUQrX-7EjwLW_DCOfQt5rKfDrc1gsUd8DBV_7oU0Ukp_6DotVl0a91_bifvi3BpxoKosiI3Fasa4V_fZWOy9yknpYzRztvKUmsrlpO0GSq=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3qFwy9dyZxAveilVIJsD_tsXnY1QTe9BrwewUQrX-7EjwLW_DCOfQt5rKfDrc1gsUd8DBV_7oU0Ukp_6DotVl0a91_bifvi3BpxoKosiI3Fasa4V_fZWOy9yknpYzRztvKUmsrlpO0GSq=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6770963,
+      "lng": 76.9725004,
+      "label": "SDR Memorial Hospital,Neuropsychiatry and De-addiction Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "seth-hospital-karnal-karnal",
+    "name": "SETH HOSPITAL KARNAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Karnal, SETH HOSPITAL KARNAL offers coordinated hospital care with major focus on Kidney Transplant Surgery In Karnal. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karnal.",
+    "email": "",
+    "phone": "0184 226 8808",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, NIRMAL COLONY, behind MELA RAM SCHOOL, Saini Colony, Slum Area, Sector 12, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 12",
+    "landmark": "behind MELA RAM SCHOOL",
+    "emergencyContact": "0184 226 8808",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMlEeiD9s-AFaE8uSm815cchzp1KbVewu30mo04Glqujl6Tc7nXppptKtaCwqPmI8cO-3Cy8HXwuzZaj6KdakW_CALKFYGvNXHznb2EGxMjsMimw2EVRbprG0q1U7jTapOCE6ROA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMlEeiD9s-AFaE8uSm815cchzp1KbVewu30mo04Glqujl6Tc7nXppptKtaCwqPmI8cO-3Cy8HXwuzZaj6KdakW_CALKFYGvNXHznb2EGxMjsMimw2EVRbprG0q1U7jTapOCE6ROA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.695096,
+      "lng": 76.9974991,
+      "label": "SETH HOSPITAL KARNAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sh-moolchand-kidney-hospital-and-urological-institute-karnal",
+    "name": "Sh Moolchand Kidney Hospital & Urological Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sh Moolchand Kidney Hospital & Urological Institute is a prominent hospital in Karnal, known for structured tertiary care across Urologist Surgery In Karnal and Kidney Care. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Karnal.",
+    "email": "",
+    "phone": "099960 56680",
+    "alternatePhone": "",
+    "website": "https://www.moolchandkidneyhospital.in/",
+    "address": "1075 1076, Urban Estate, Sector 13, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 13",
+    "landmark": "Sector 13",
+    "emergencyContact": "099960 56680",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Karnal",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYyl79jGr-lm9OQqZr0yPscPqBc1KqMPAvIQSOUSdIPDl-QVvHJkSo2aKF1Foim7eBaSywh6XDSyrLBUKwvVcEOQ36_aK9J9W2L_AVgLIjLzrHtazL-WyZFhG7yn5scRo77VfM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYyl79jGr-lm9OQqZr0yPscPqBc1KqMPAvIQSOUSdIPDl-QVvHJkSo2aKF1Foim7eBaSywh6XDSyrLBUKwvVcEOQ36_aK9J9W2L_AVgLIjLzrHtazL-WyZFhG7yn5scRo77VfM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6915994,
+      "lng": 77.001423,
+      "label": "Sh Moolchand Kidney Hospital & Urological Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shah-hospital-karnal-karnal",
+    "name": "Shah Hospital Karnal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Karnal, Shah Hospital Karnal offers coordinated hospital care with major focus on Kidney Transplant Surgery In Karnal. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Karnal.",
+    "email": "",
+    "phone": "098969 77707",
+    "alternatePhone": "",
+    "website": "http://www.shahhospitals.com/",
+    "address": "Alpha International City, Karnal, Tikri, Haryana 132116",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132116",
+    "locality": "Alpha International City",
+    "landmark": "Tikri",
+    "emergencyContact": "098969 77707",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbJQPo5fS2l-ttyq9ysMYEYKt-NrRSEP5sHQ06R-hxOHTLTFn6AydJgy-gN5cuprtmJL0qufQekpTKUEdUGxcbruVO6Kb6_pTM9KRoNCPGYDRrwLE7oW-wGrVNjnw3S29nxRuM6cJa4HJg=w1200-h900-p-k-no",
+    "logo": "https://shahhospitals.com/wp-content/uploads/2025/09/SH-Logo-footer.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbJQPo5fS2l-ttyq9ysMYEYKt-NrRSEP5sHQ06R-hxOHTLTFn6AydJgy-gN5cuprtmJL0qufQekpTKUEdUGxcbruVO6Kb6_pTM9KRoNCPGYDRrwLE7oW-wGrVNjnw3S29nxRuM6cJa4HJg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMW5tPyOg5Ywbr0UrukBYpiwR9lZMYuSnr-_F4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNb-fwjmoiYQjQCKLKqKQgSInYMXuGGy7p_Bl8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNMoyJgB1CJ91DHFBDlOlSmFDt4zvEpfCBaYtA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO9WX7wUof4WgAoGWjqrfqJ33h2GGsLhJ2iKh8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.7272168,
+      "lng": 76.9942476,
+      "label": "Shah Hospital Karnal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-hari-hospital-karnal",
+    "name": "Shree Hari Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose Shree Hari Hospital for its strength in Spine Surgery In Karnal. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "31, Ashoka Colony, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Dyal Singh Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEndH3ODMgpVbhtSzs_feoylZK0DvXeOzdr8-AHsWf9Ws_-C2LPsv2-0y2G4f6CMTbJvOxe_lqUGeEJHkdwURnB-TPFEEJPRLZXqB-4xR7Pdk054gMVCEM_S0w2NXGvIqPtyWOKog=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEndH3ODMgpVbhtSzs_feoylZK0DvXeOzdr8-AHsWf9Ws_-C2LPsv2-0y2G4f6CMTbJvOxe_lqUGeEJHkdwURnB-TPFEEJPRLZXqB-4xR7Pdk054gMVCEM_S0w2NXGvIqPtyWOKog=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6959102,
+      "lng": 76.9908209,
+      "label": "Shree Hari Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shri-atam-manohar-jain-charitable-hospital-pathera",
+    "name": "Shri Atam Manohar Jain Charitable hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pathera often choose Shri Atam Manohar Jain Charitable hospital for its strength in Kidney Transplant Surgery In Karnal. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pathera can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "QX5W+5GR, Pathera, Haryana 132041",
+    "city": "Pathera",
+    "state": "Haryana",
+    "pincode": "132041",
+    "locality": "",
+    "landmark": "Haryana 132041",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTwShBly_QeKlryfP2sBaBm9-69ZHhxuu28IrTgpRRm3vNmil8ThK-ht4WnV_QDPJNhlNhbsEAbBE_8dBwukUQqEY8xQdgard6Jb5x00OKSQlpZfRADuYQiJdMkWCKVcZOR9n7QK81RZAt=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTwShBly_QeKlryfP2sBaBm9-69ZHhxuu28IrTgpRRm3vNmil8ThK-ht4WnV_QDPJNhlNhbsEAbBE_8dBwukUQqEY8xQdgard6Jb5x00OKSQlpZfRADuYQiJdMkWCKVcZOR9n7QK81RZAt=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.7579704,
+      "lng": 76.9962584,
+      "label": "Shri Atam Manohar Jain Charitable hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sony-health-services-karnal",
+    "name": "Sony Health Services",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Karnal, Sony Health Services delivers integrated care across Gynecologist Surgery In Karnal. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Karnal.",
+    "email": "",
+    "phone": "090505 21995",
+    "alternatePhone": "",
+    "website": "http://sonyhealthservices.in/",
+    "address": "Sony Health Services, Gali No. 5, R.K Puram, Vasant Vihar, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Vasant Vihar",
+    "landmark": "R.K Puram",
+    "emergencyContact": "090505 21995",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcPpigZBDYB3tmKtxS9EMPCGqa5Busv7Hi3ibX8IIbHf6tcwxIy4W06Rws_v2P8xXTrc9nXDzutJT7L-yI9eby7BeJTdadF3UozHUDPZaaWYnMuk9y-att6KjlaEWX-GhwRMLk1RzZxGvM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcPpigZBDYB3tmKtxS9EMPCGqa5Busv7Hi3ibX8IIbHf6tcwxIy4W06Rws_v2P8xXTrc9nXDzutJT7L-yI9eby7BeJTdadF3UozHUDPZaaWYnMuk9y-att6KjlaEWX-GhwRMLk1RzZxGvM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOwaq-gkcp7KuoDRvKHgXBJpM3ZWKC4e4L3yYjN=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.7124173,
+      "lng": 77.0181411,
+      "label": "Sony Health Services",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "surya-hospital-and-surya-infertility-clinic-karnal",
+    "name": "Surya Hospital and Surya Infertility Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Karnal, Surya Hospital and Surya Infertility Clinic delivers integrated care across IVF In Karnal and Fertility Care. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karnal.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kunjpura Rd, Old Char Chaman, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Dyal Singh Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Karnal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDVlVsoa_gMf8BIYvCffJiv724rTwvYyz9-dmceXl1F6YtsbDl2ebVG-aw2i_HCC0AQ0aCEUxo6sgV3AxOdAiOr2VFVhnU0-cZSL74FivAzDU_KDa0Q3mMkTLtMKjsExpm_UX6YQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDVlVsoa_gMf8BIYvCffJiv724rTwvYyz9-dmceXl1F6YtsbDl2ebVG-aw2i_HCC0AQ0aCEUxo6sgV3AxOdAiOr2VFVhnU0-cZSL74FivAzDU_KDa0Q3mMkTLtMKjsExpm_UX6YQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6920452,
+      "lng": 76.9931423,
+      "label": "Surya Hospital and Surya Infertility Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "swastik-hospital-karnal",
+    "name": "Swastik Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose Swastik Hospital for its strength in Liver Transplant Surgery In Karnal. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098030 78035",
+    "alternatePhone": "",
+    "website": "https://swastikhospitalkarnal.com/",
+    "address": "Swastik Hospital, Meerut Rd, Sector 5, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 5",
+    "landmark": "Sector 5",
+    "emergencyContact": "098030 78035",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEE0LEw2pwzDX9BRiG5SwI9dyoSyLV1cI5n_kU_0VCEKizDj-l7jNeKggcJeiVrpQRe6JlbWJeTJzCouCV9MLCOJpgbQqx7fANzFQfrDcsqA_T4IkElVeyGLIUG0rw_PzrQpYxp=w1200-h900-p-k-no",
+    "logo": "https://swastikhospitalkarnal.com/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEE0LEw2pwzDX9BRiG5SwI9dyoSyLV1cI5n_kU_0VCEKizDj-l7jNeKggcJeiVrpQRe6JlbWJeTJzCouCV9MLCOJpgbQqx7fANzFQfrDcsqA_T4IkElVeyGLIUG0rw_PzrQpYxp=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6724452,
+      "lng": 77.0038293,
+      "label": "Swastik Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tagore-hospital-karnal",
+    "name": "Tagore Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tagore Hospital is a prominent general hospital in Karnal, known for structured tertiary care across Gynecologist Surgery In Karnal. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Karnal.",
+    "email": "",
+    "phone": "0184 403 2628",
+    "alternatePhone": "",
+    "website": "http://www.tagorehospital.in/",
+    "address": "27, Urban Estate, Sector 14, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 14",
+    "landmark": "Sector 14",
+    "emergencyContact": "0184 403 2628",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQNTv-P5aNzU7BU0mBo9pi5Q1cfPCjCq1xyec2fhEA-iMFUoB2OuvNceVnhLzl8WpYrcL4bx-mpr6DlPYXk9J5fXMZELFZzGLxCmdUVo0VL_jgzB2uWYg6dcaY5BTMJfHVJZL1=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQNTv-P5aNzU7BU0mBo9pi5Q1cfPCjCq1xyec2fhEA-iMFUoB2OuvNceVnhLzl8WpYrcL4bx-mpr6DlPYXk9J5fXMZELFZzGLxCmdUVo0VL_jgzB2uWYg6dcaY5BTMJfHVJZL1=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.682343,
+      "lng": 76.997502,
+      "label": "Tagore Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "thakur-hospital-best-multispeciality-hospital-in-karnal-karnal",
+    "name": "Thakur Hospital | Best Multispeciality Hospital in Karnal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose Thakur Hospital | Best Multispeciality Hospital in Karnal for its strength in Gynecologist Surgery In Karnal and Speciality Care. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099960 98689",
+    "alternatePhone": "",
+    "website": "https://thakurhospital.co.in/",
+    "address": "Link Rd, near Dyal Singh College, Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "near Dyal Singh College, Dyal Singh Colony, Karnal, Haryana 132001",
+    "emergencyContact": "099960 98689",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_IwA3W1aSQnIMwjaj7MFWlt41DX1s0I9Pl4HsUgQZDB-hoEgHSXDbXe1phb-Z9ZN1VvsB1tm5XUznkBjwYGMHCvN7JcC6QVbXcLkkum_XSupmBVZdezOg4w1DrRU74EBKmfXfoA=w1200-h900-p-k-no",
+    "logo": "https://thakurhospital.co.in/wp-content/uploads/2024/04/Thakur-Hospital-Website-150x150.png.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_IwA3W1aSQnIMwjaj7MFWlt41DX1s0I9Pl4HsUgQZDB-hoEgHSXDbXe1phb-Z9ZN1VvsB1tm5XUznkBjwYGMHCvN7JcC6QVbXcLkkum_XSupmBVZdezOg4w1DrRU74EBKmfXfoA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOwJ19vimk88lu7Ijlb_AFOLz54_AJPRt7=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOwJ19vimk88lu7Ijlb_AFOLz54_AJPRt7_DG-4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNLC6T4AArndSrIZpDDwltIuCfSw5pJYVwJgPRU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMoEU2TUg4y7-90IF_Jf9Us5GgDke6qGI4h9p9T=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6923571,
+      "lng": 76.9885357,
+      "label": "Thakur Hospital | Best Multispeciality Hospital in Karnal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ujala-cygnus-sanjiv-bansal-hospital-best-hospital-in-karnal-karnal",
+    "name": "Ujala Cygnus: Sanjiv Bansal hospital | Best Hospital in Karnal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Karnal, Ujala Cygnus: Sanjiv Bansal hospital | Best Hospital in Karnal delivers integrated care across Liver Transplant Surgery In Karnal. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Karnal.",
+    "email": "",
+    "phone": "0184 402 0454",
+    "alternatePhone": "",
+    "website": "https://ujalacygnus.com/hospitals/sanjiv-bansal-hospital-karnal?utm_source",
+    "address": "Railway Rd, Ibrahim Mandi, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Ibrahim Mandi",
+    "landmark": "Karnal",
+    "emergencyContact": "0184 402 0454",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFAZwy7e7bEvEp8oCF9AXo7hQhUef3EWkIbuwVr15FKus7No6FW6_InrXjBQ2lMaI9QsZ8lIl-sP5zC7tWJsx7jvqtmp8W7I8ZW7YLYZRSRSVn3Uqst1_5WA3vSaqK4oVvdUBzV52Qi7qyZ=w1200-h900-p-k-no",
+    "logo": "https://ujalacygnus.com/_next/image?url=%2Fassets%2Ficons%2Flogo1.jpeg&w=640&q=100",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFAZwy7e7bEvEp8oCF9AXo7hQhUef3EWkIbuwVr15FKus7No6FW6_InrXjBQ2lMaI9QsZ8lIl-sP5zC7tWJsx7jvqtmp8W7I8ZW7YLYZRSRSVn3Uqst1_5WA3vSaqK4oVvdUBzV52Qi7qyZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN5d3j0-20AOwgi4OUeReEb771J4zQbGeCyN_CE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPyuFrLvshQEWHrzmVpqnd_tuUkxfNklfTDkDOZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN4hUJCGGE4--OHf7OBysDLnj6LsW0GLuPRtZDA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOUO2AxduvNi4WNqk8WwC95A5nEGGyRfgF2f60a=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.692096,
+      "lng": 76.9766375,
+      "label": "Ujala Cygnus: Sanjiv Bansal hospital | Best Hospital in Karnal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "uttam-hospital-near-mugal-canal-chowk",
+    "name": "Uttam Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Uttam Hospital has built a strong reputation in Near Mugal Canal Chowk for multidisciplinary treatment pathways covering Gynecologist Surgery In Karnal. Its infrastructure includes Google rating 4.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Near Mugal Canal Chowk.",
+    "email": "",
+    "phone": "0184 403 1406",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Main Road, Sector - 13 - 14, Near Mugal Canal Chowk, Haryana 132001",
+    "city": "Near Mugal Canal Chowk",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector - 13 - 14",
+    "landmark": "Near Mugal Canal Chowk, Haryana 132001",
+    "emergencyContact": "0184 403 1406",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6gluKjWIgcVTT536bu1KggTKIOeKq_is53lErtFF_g5H3zQQEabHfpHoRPo3ZX44eoxNFoEpPFIerePp2fYsUUeeJBqsD_y5VEMwCw5eIT-df5tfmLFJIwnx1eNB3mQ7IZxsZ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6gluKjWIgcVTT536bu1KggTKIOeKq_is53lErtFF_g5H3zQQEabHfpHoRPo3ZX44eoxNFoEpPFIerePp2fYsUUeeJBqsD_y5VEMwCw5eIT-df5tfmLFJIwnx1eNB3mQ7IZxsZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6824781,
+      "lng": 76.9958457,
+      "label": "Uttam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "virk-hospital-private-limited-karnal",
+    "name": "Virk Hospital Private Limited",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karnal, Virk Hospital Private Limited brings together specialists for Liver Transplant Surgery In Karnal. Hospital capacity markers such as Google rating 3.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karnal.",
+    "email": "",
+    "phone": "0184 227 0332",
+    "alternatePhone": "",
+    "website": "https://virkhospitals.com/",
+    "address": "Dyal Singh Colony, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Dyal Singh Colony",
+    "landmark": "Haryana 132001",
+    "emergencyContact": "0184 227 0332",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECGiA1a3c-zz0Ky2bCit64TUvOWlCggGHhXJ4TJobTgbo66Elbfe3siFL2P0rH-3SIbC0NN7EUsj_RY3MGVTU4-F11nBA0yFIlAit1ijd_UOVMIrTkY_yQBbiqGem4dC09GSBY-bqj1mWw=w1200-h900-p-k-no",
+    "logo": "https://virkhospitals.com/wp-content/uploads/2025/07/Virk-Hospital-e1753877021364.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECGiA1a3c-zz0Ky2bCit64TUvOWlCggGHhXJ4TJobTgbo66Elbfe3siFL2P0rH-3SIbC0NN7EUsj_RY3MGVTU4-F11nBA0yFIlAit1ijd_UOVMIrTkY_yQBbiqGem4dC09GSBY-bqj1mWw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMTM01KIMi6AE_uE92SDir0BQNqfsMcXuS9fJBS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPRSOYeedsi_1qeF_SmJHdwAVA9G0PvTBs8cqOQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOzzMD0JCMjrRun0RkNS9K99gpUJtvB_HDUusXN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPOZL5gdSsvlWMfSJm_hbnG383jwh_xkcxYyrHC=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6942474,
+      "lng": 76.9892036,
+      "label": "Virk Hospital Private Limited",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "karnal",
+    "name": "𝐂𝐇𝐀𝐔𝐃𝐇𝐑𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐀𝐍𝐃 𝐌𝐀𝐓𝐄𝐑𝐍𝐈𝐓𝐘 𝐇𝐎𝐒𝐏𝐈𝐓𝐀𝐋",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karnal often choose 𝐂𝐇𝐀𝐔𝐃𝐇𝐑𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐀𝐍𝐃 𝐌𝐀𝐓𝐄𝐑𝐍𝐈𝐓𝐘 𝐇𝐎𝐒𝐏𝐈𝐓𝐀𝐋 for its strength in IVF In Karnal. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karnal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098124 23052",
+    "alternatePhone": "",
+    "website": "http://www.madhuchaudhryhospital.com/",
+    "address": "1543-44, Urban Estate, Sector 13, Karnal, Haryana 132001",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "locality": "Sector 13",
+    "landmark": "Sector 13",
+    "emergencyContact": "098124 23052",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Karnal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgkN1UKI7Lr4dV2zJ8fgO8TFZY-NgR77umNJqJXKe_zWz0P2caQty99XSgpUvLvFB0kPYupYi4pKYu63Lgm4ZmwzitBetBvwFWEiy_kPDp_yjmOl37G7r6k-ELdF6HCZHPoXUx=w1200-h900-p-k-no",
+    "logo": "http://madhuchaudhryhospital.com/wp-content/uploads/2020/09/chaudhry-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgkN1UKI7Lr4dV2zJ8fgO8TFZY-NgR77umNJqJXKe_zWz0P2caQty99XSgpUvLvFB0kPYupYi4pKYu63Lgm4ZmwzitBetBvwFWEiy_kPDp_yjmOl37G7r6k-ELdF6HCZHPoXUx=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 29.6877059,
+      "lng": 76.9974559,
+      "label": "𝐂𝐇𝐀𝐔𝐃𝐇𝐑𝐘 𝐌𝐄𝐃𝐈𝐂𝐀𝐋 𝐀𝐍𝐃 𝐌𝐀𝐓𝐄𝐑𝐍𝐈𝐓𝐘 𝐇𝐎𝐒𝐏𝐈𝐓𝐀𝐋",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

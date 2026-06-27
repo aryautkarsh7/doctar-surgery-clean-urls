@@ -1,0 +1,5138 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "advanced-superspeciality-hospital-gandhinagar",
+    "name": "Advanced Superspeciality Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gandhinagar, Advanced Superspeciality Hospital offers coordinated hospital care with major focus on General Surgery In Gandhinagar and Speciality Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gandhinagar.",
+    "email": "",
+    "phone": "091621 00916",
+    "alternatePhone": "",
+    "website": "https://advancedhospital.co.in/blog/complete-guide-to-knee-replacement-surgery-in-gandhinagar",
+    "address": "Sector 6/D, Plot 1283, opposite Zaverchand Meghani Circle, Sector 6, Gandhinagar, Gujarat 382006",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382006",
+    "locality": "Sector 6",
+    "landmark": "opposite Zaverchand Meghani Circle, Sector 6, Gandhinagar, Gujarat 382006",
+    "emergencyContact": "091621 00916",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1LM0gKytL4WDzmzelkRPWIycOXpKFZmng_1ERApVHiLoZaItGhmiSk_9sX8kXmDq24Apk-koQWO8MwwABJSFjSIuIh49hiPuIL9U1KnJECR59Itc7OKn2YKHQgrr3KeYo-R1QUOugcN5o=w1200-h900-p-k-no",
+    "logo": "https://advancedhospital.co.in/public/frontend/images/main_logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1LM0gKytL4WDzmzelkRPWIycOXpKFZmng_1ERApVHiLoZaItGhmiSk_9sX8kXmDq24Apk-koQWO8MwwABJSFjSIuIh49hiPuIL9U1KnJECR59Itc7OKn2YKHQgrr3KeYo-R1QUOugcN5o=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNeJT13E9_yz21CrG7R20BI9-17n7elhApQtT4u=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNlD3ZQwfKyg1az_7vCpjw889hMZp9ne47sW3UJ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2167227,
+      "lng": 72.6392288,
+      "label": "Advanced Superspeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "akshar-hospital-gandhinagar",
+    "name": "Akshar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gandhinagar, Akshar Hospital offers coordinated hospital care with major focus on General Surgery In Gandhinagar. Operational strengths including Google rating 2.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Gandhinagar.",
+    "email": "",
+    "phone": "099250 38439",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot No: 937/2, Sector - 7/C, Rd Number 3, opposite S.T Depot, Sector 7, Gandhinagar, Gujarat 382007",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382007",
+    "locality": "Sector 7",
+    "landmark": "opposite S.T Depot, Sector 7, Gandhinagar, Gujarat 382007",
+    "emergencyContact": "099250 38439",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFAxktCK7_g6TamMiaqWaSkq5dxoqVAWKibkdtSWSQ_3aEMcycAZKm3QBkdfQ9fF0Ppqg5vUUkILs8_v_tHKen8PiLMeucM6NqGw3SQKcNEsFIeUifc6J6fyqZ77abqUAvRczxAug=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFAxktCK7_g6TamMiaqWaSkq5dxoqVAWKibkdtSWSQ_3aEMcycAZKm3QBkdfQ9fF0Ppqg5vUUkILs8_v_tHKen8PiLMeucM6NqGw3SQKcNEsFIeUifc6J6fyqZ77abqUAvRczxAug=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2152766,
+      "lng": 72.6417125,
+      "label": "Akshar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amar-clinic-gandhinagar",
+    "name": "AMAR CLINIC",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gandhinagar, AMAR CLINIC offers coordinated hospital care with major focus on General Surgery In Gandhinagar. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gandhinagar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6J2P+WJ4, Sector 2D, Sector 2, Gandhinagar, Gujarat 382007",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382007",
+    "locality": "Sector 2",
+    "landmark": "Sector 2",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=23.2022543%2C72.6365737&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=23.2022543%2C72.6365737&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=23.2022543%2C72.6365737&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=23.2022543%2C72.6365737&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2022543,
+      "lng": 72.6365737,
+      "label": "AMAR CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apollo-hospital-international-limited-ahmedabad-best-hospital-in-ahmedabad-ahmedabad",
+    "name": "Apollo Hospital International Limited Ahmedabad | Best Hospital in Ahmedabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ahmedabad, Apollo Hospital International Limited Ahmedabad | Best Hospital in Ahmedabad brings together specialists for Heart Surgery In Gandhinagar. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Ahmedabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080 6904 9761",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/hospitals/apollo-hospitals-ahmedabad",
+    "address": "Plot No, 1A, Ahmedabad - Gandhinagar Rd, GIDC Bhat, estate, Ahmedabad, Gujarat 382428",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": "382428",
+    "locality": "estate",
+    "landmark": "Ahmedabad - Gandhinagar Rd",
+    "emergencyContact": "080 6904 9761",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGUm_ITIJJgvme__hJO33axheUkw6CzwTlgQMstaYKG9OWSRBDfNlx91bmxATU_3kpMODHckk8ysEOZAwYBl1BPKK7Jk8CKHRxMF7DoFy2Nwd_9itwoYp0YBE0rUEWP3RBWWX3=w1200-h900-p-k-no",
+    "logo": "https://www.apollohospitals.com/themes/custom/apollo/assets/svg/apollo-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGUm_ITIJJgvme__hJO33axheUkw6CzwTlgQMstaYKG9OWSRBDfNlx91bmxATU_3kpMODHckk8ysEOZAwYBl1BPKK7Jk8CKHRxMF7DoFy2Nwd_9itwoYp0YBE0rUEWP3RBWWX3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN-9gVi2TQw8EF8c0wRCLNL2ZWiw4SdeVzBKkBU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN9pTs4OUmMwjhWJd-ILl1kh8RbLo6-uhJxiCQk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE09MtcMxf16d3R8OEgW_QSwn-oQiaizLhUAHtqyGOB_ug8tb8U2cii-nyXVe_d8dle4HbP9bVexmU75eZF17Tj5h=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE09MtcMxf16d3R8OEgW_QSwn-oQiaizLhUAHtqyGOB_ug8tb8U2cii-nyXVe_d8dle4HbP9bVexmU75eZF17Tj5hUfK2cLY3bYXPHUBNYsPjs_rUmIwut2QvrXx8_n9I2rtpjY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1095502,
+      "lng": 72.6263885,
+      "label": "Apollo Hospital International Limited Ahmedabad | Best Hospital in Ahmedabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bhavani-multispeciality-hospital-gandhinagar",
+    "name": "Bhavani Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Gandhinagar, Bhavani Multispeciality Hospital delivers integrated care across General Surgery In Gandhinagar and Speciality Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Gandhinagar.",
+    "email": "",
+    "phone": "087993 11142",
+    "alternatePhone": "",
+    "website": "https://www.bhavanimultispeciality.com/",
+    "address": "Arjun 226 , Vavol - Uvarsad, Road, Vavol, Gandhinagar, Gujarat 382016",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382016",
+    "locality": "Vavol",
+    "landmark": "Road",
+    "emergencyContact": "087993 11142",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4hksysc1O00zzhqsfP_qteMM33kxyjhsfWJlRVRfUZkDNooPRzw-HQpukUYrI8d0XVqInF7PTXTqV590QbWeo_WFtLLHpn9fOK5LBEgR7xKTVn8ruTT3GvJc3jmDCfZe3efyM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4hksysc1O00zzhqsfP_qteMM33kxyjhsfWJlRVRfUZkDNooPRzw-HQpukUYrI8d0XVqInF7PTXTqV590QbWeo_WFtLLHpn9fOK5LBEgR7xKTVn8ruTT3GvJc3jmDCfZe3efyM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFb3rJL-2AY7CqDRLk6PNxP_OhfnQa6OsriJ9GPGoIIohBEmL77g2ChkucmjRYY3LEYvUGDGO2Bg_GfnwCW61wpEZh5NnshxCdYWees9ePVOZppW6fFLSKgenLlj9t-g2IGIIDgTw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2228755,
+      "lng": 72.6148831,
+      "label": "Bhavani Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "blossom-children-hospital-gandhinagar",
+    "name": "BLOSSOM CHILDREN HOSPITAL",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BLOSSOM CHILDREN HOSPITAL has built a strong reputation in Gandhinagar for multidisciplinary treatment pathways covering General Surgery In Gandhinagar and Women and Child Care. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gandhinagar.",
+    "email": "",
+    "phone": "077780 28169",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SECOND FLOOR, GAYATRI HOSPITAL, NEAR, Ga-2 CIRCLE, Sector 6/B, Gandhinagar, Gujarat 382006",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382006",
+    "locality": "Sector 6/B",
+    "landmark": "NEAR",
+    "emergencyContact": "077780 28169",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGaGUeXZugCOY3mevV_1As-STP3L2H3hmc8SKHi2PvVWfahUS1qw1rrNoodCv70P4BTkKbctYS618EGgW9Q1AyKhT70Og8pQBF-8qeOhnumIqpvxzbQ-hBvClD19E1fMM_EVI7jxoL9mGsh=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGaGUeXZugCOY3mevV_1As-STP3L2H3hmc8SKHi2PvVWfahUS1qw1rrNoodCv70P4BTkKbctYS618EGgW9Q1AyKhT70Og8pQBF-8qeOhnumIqpvxzbQ-hBvClD19E1fMM_EVI7jxoL9mGsh=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN-tYvNg_2KUeNJHQFV_aXrkmArdV6UY2lv1ULw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMM66aoByr0Gm369NweOdMhvwGZlYcENRDDMw57=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMjcmEDAxoLhAPO5mpdGvApDgOaF3KF08VjKob-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP-LaDgk9hSY7Q97N9lYtBz7UE5D9zJVtFnou8K=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2127132,
+      "lng": 72.6298882,
+      "label": "BLOSSOM CHILDREN HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "chaahat-hospital-and-icu-gandhinagar",
+    "name": "CHAAHAT HOSPITAL AND ICU",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Gandhinagar, CHAAHAT HOSPITAL AND ICU delivers integrated care across General Surgery In Gandhinagar. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Gandhinagar.",
+    "email": "",
+    "phone": "093755 20030",
+    "alternatePhone": "",
+    "website": "https://chaahathospitalandicu.co.in/",
+    "address": "CHAAHAT HOSPITAL AND ICU 301,3RD FLOOR, SARTHAK MALL,KH0, Sargasan Cross Rd, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Sargasan Cross Rd",
+    "landmark": "SARTHAK MALL",
+    "emergencyContact": "093755 20030",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHWMs7b8mNZQCXvHe1EmsbPg5C9j363JY_cwNt_yXVqtzUxP9s3B1orAaMMwJGjBmK5iJ-WDFJOxPWqnD1OonXnFrvAK8C6LdOZ9juQOLpxbye3mW3tLAnaLXR-kheX_5bweOpd=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHWMs7b8mNZQCXvHe1EmsbPg5C9j363JY_cwNt_yXVqtzUxP9s3B1orAaMMwJGjBmK5iJ-WDFJOxPWqnD1OonXnFrvAK8C6LdOZ9juQOLpxbye3mW3tLAnaLXR-kheX_5bweOpd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMmnzlJ3PU4L8GYVbwLhQG7nOXdYa_uhbsXmPJx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM4qmBor9rGyTJTLJ9eQeRGkNE4hJCViEywjKjl=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipObTqQeeYxD8cXJHVAe9hKGvHoKRxzwW0379I5P=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM1qqQWH4fzhCOUWuowHS3KQUv4UFNiVFek9N4F=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1949569,
+      "lng": 72.6147578,
+      "label": "CHAAHAT HOSPITAL AND ICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "divine-multispeciality-hospital-gandhinagar",
+    "name": "Divine Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gandhinagar often choose Divine Multispeciality Hospital for its strength in General Surgery In Gandhinagar and Speciality Care. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Gandhinagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078618 12966",
+    "alternatePhone": "",
+    "website": "http://divinemultispeciality.com/",
+    "address": "2nd and 3rd floor SHIKSHAPATRI sky court, Swagat Flamingo Rd, Sargasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Sargasan",
+    "landmark": "Sargasan",
+    "emergencyContact": "078618 12966",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSKYyjJ5NHCHbNSPovKbZZsUk4Lu70ALhpO5PAx1gzpLbkX72DEttqL71wqz7Zvgo9Ps-KpUlh1k9ULBnGRU_ZedrFaPsd8EMS5VFTMaNchDrwDQBccZIYOglf4wf98erZA9bE=w1200-h900-p-k-no",
+    "logo": "https://divinemultispeciality.com/wp-content/uploads/2026/02/cropped-logo-32x32.jpeg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSKYyjJ5NHCHbNSPovKbZZsUk4Lu70ALhpO5PAx1gzpLbkX72DEttqL71wqz7Zvgo9Ps-KpUlh1k9ULBnGRU_ZedrFaPsd8EMS5VFTMaNchDrwDQBccZIYOglf4wf98erZA9bE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1912624,
+      "lng": 72.6067305,
+      "label": "Divine Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "divit-hospital-gandhinagar",
+    "name": "Divit Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gandhinagar, Divit Hospital brings together specialists for Cardiac Surgery In Gandhinagar. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gandhinagar.",
+    "email": "",
+    "phone": "081560 26108",
+    "alternatePhone": "",
+    "website": "https://divithospital.com/",
+    "address": "3rd Floor,Pramukh Corporate,Above Dominos Pizza,PDPU Road,Raysan, Gandhinagar, Gujarat 382426",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382426",
+    "locality": "Raysan",
+    "landmark": "Above Dominos Pizza",
+    "emergencyContact": "081560 26108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4v2Fsdgiy4CMd483TqB8E_HbbMwRp9rF3iwseE8hxhVHTWAfZ-3h0CYtLfqbM0ubPoBSTK7lmdp7jOrB5pCo-BZVMv6wwCoR6NuZ3cTlg_wOWOM2uwqJVluuWYUEk17JwOLuZVw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4v2Fsdgiy4CMd483TqB8E_HbbMwRp9rF3iwseE8hxhVHTWAfZ-3h0CYtLfqbM0ubPoBSTK7lmdp7jOrB5pCo-BZVMv6wwCoR6NuZ3cTlg_wOWOM2uwqJVluuWYUEk17JwOLuZVw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1581016,
+      "lng": 72.6508565,
+      "label": "Divit Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dwija-surgical-hospital-gandhinagar",
+    "name": "Dwija Surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gandhinagar, Dwija Surgical Hospital offers coordinated hospital care with major focus on General Surgery In Gandhinagar. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Gandhinagar.",
+    "email": "",
+    "phone": "075750 27112",
+    "alternatePhone": "",
+    "website": "",
+    "address": "The Urbania Kudasan Second Floor 207,208,209, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "209",
+    "landmark": "209",
+    "emergencyContact": "075750 27112",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG85LPiz_0hdPdkLaNwQDWu3TDSAKmMUl1QJGm_FyRGDzk-ROWXfs1BZWM-X1bY2F7wwith9ERjsAIcCeBOeaA4bt32D3WD92PTo6Au5nbgQWDJFKXt_s6ABN0O9yeWGUWOKvz1=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG85LPiz_0hdPdkLaNwQDWu3TDSAKmMUl1QJGm_FyRGDzk-ROWXfs1BZWM-X1bY2F7wwith9ERjsAIcCeBOeaA4bt32D3WD92PTo6Au5nbgQWDJFKXt_s6ABN0O9yeWGUWOKvz1=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1789268,
+      "lng": 72.6282388,
+      "label": "Dwija Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gayatri-hospital-gandhinagar",
+    "name": "Gayatri Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gayatri Hospital has built a strong reputation in Gandhinagar for multidisciplinary treatment pathways covering General Surgery In Gandhinagar. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gandhinagar.",
+    "email": "",
+    "phone": "099258 40201",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gh2 Circle, G Rd, Sector 6/B, Sector 6, Gandhinagar, Gujarat 382006",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382006",
+    "locality": "Sector 6",
+    "landmark": "Sector 6/B",
+    "emergencyContact": "099258 40201",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgJUWvb1HIb_VDv32DATPqRDh-rgvk7y0HPaxGviYKYP0tB3CICOMO40sFOptzmDRgkx6A3kbqy5hIiclfm7wME65CJrFM_iXRSEcgWw-05VgXiiV4yJEhZ9lGgElBxFkqgq0L=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgJUWvb1HIb_VDv32DATPqRDh-rgvk7y0HPaxGviYKYP0tB3CICOMO40sFOptzmDRgkx6A3kbqy5hIiclfm7wME65CJrFM_iXRSEcgWw-05VgXiiV4yJEhZ9lGgElBxFkqgq0L=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHaaN2Fx_6Fen823nFD1Z-usvvNSufcYQg00QzVpsjtxtmYo_SAAVRbiZH_I=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHaaN2Fx_6Fen823nFD1Z-usvvNSufcYQg00QzVpsjtxtmYo_SAAVRbiZH_IUlfuQqYng77bp9HeKtUTlt-_zq2jcRU2WoqJh37Anih7j2ZEa-0v9z2STbC6BDQBeiOvuBee1LP7-pERpw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAMpDE4KsIpi254ha0-PVSmJukAgeingxUMhm2lOuac_94q2vPbN23H0Flmf-55KiK7J3ji3zp77XlmSKcqjiRE3sCiZ4xsQpNBijJWGeQ_UTi8gyEnNX5BT1G_XuqQ2jHb6Ty91trYHM0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2127817,
+      "lng": 72.629889,
+      "label": "Gayatri Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "geeta-multispeciality-hospital-gandhinagar",
+    "name": "GEETA MULTISPECIALITY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gandhinagar, GEETA MULTISPECIALITY HOSPITAL brings together specialists for General Surgery In Gandhinagar and Speciality Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gandhinagar.",
+    "email": "",
+    "phone": "081415 08000",
+    "alternatePhone": "",
+    "website": "https://geetamultispecialityhospital.in/",
+    "address": "Anand Vatika Society, Plot No. 145/1, CH Rd, Sector 22, Gandhinagar, Gujarat 382021",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382021",
+    "locality": "Sector 22",
+    "landmark": "CH Rd",
+    "emergencyContact": "081415 08000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6mhgCO-rVFTwwuN3M_TO26J-ld5YLlz2odE5kTOP9sO4_wPfhFMaF0rjzHSgliof2Zc6OUIYuBZqYJ8V6FQZbw85-LBBC4z0sCo84QYaCKVtmPe3gw0l1RsM_tcc-A7vN76SthojM-YbS=w1200-h900-p-k-no",
+    "logo": "https://geetamultispecialityhospital.in/assets/img/logo/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6mhgCO-rVFTwwuN3M_TO26J-ld5YLlz2odE5kTOP9sO4_wPfhFMaF0rjzHSgliof2Zc6OUIYuBZqYJ8V6FQZbw85-LBBC4z0sCo84QYaCKVtmPe3gw0l1RsM_tcc-A7vN76SthojM-YbS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMvziqapooLU0NPznF4b-SGQlPJlMzQ5Gxi4j_J=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO2fHfI43IgIwC_mKUbedpG3MWskIlhfoUN19YZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMUq5tCZfsYA3w4iRxbpMWrnvAwQ4t3d8ihEv2-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNCCVFwHqik06jgI38jNgs-ZibCp8FVmBzLjtK_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2329754,
+      "lng": 72.6587912,
+      "label": "GEETA MULTISPECIALITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gmers-civil-hospital-gandhinagar",
+    "name": "GMERS Civil Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gandhinagar, GMERS Civil Hospital offers coordinated hospital care with major focus on General Surgery In Gandhinagar. Operational strengths including Google rating 3.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gandhinagar.",
+    "email": "",
+    "phone": "079 2324 0296",
+    "alternatePhone": "",
+    "website": "http://gmersmchgandhinagar.com/",
+    "address": "Shop 8, Micro Shopping Centre, Civil Hospital Campus, 951, Rd Number 3, Sector 12, Sector 12B, Gandhinagar, Gujarat 382016",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382016",
+    "locality": "Sector 12B",
+    "landmark": "Civil Hospital Campus",
+    "emergencyContact": "079 2324 0296",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHr_vzngvFtXDIbAtoFEmWDGm5ZdVWoMFs0prpPwh7T1XCJbqX2KKe4sz-oRm7MlaliNIq1bZ4N_WVvGgq6d9Sq3tb04HiCdkG_MsbloX7CYNdGirQEl3R32g0IQ8Ii0zI7cmg=w1200-h900-p-k-no",
+    "logo": "https://www.gmersmchgandhinagar.com/App_Themes/Blue/images/GMERSGandhinagarLogo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHr_vzngvFtXDIbAtoFEmWDGm5ZdVWoMFs0prpPwh7T1XCJbqX2KKe4sz-oRm7MlaliNIq1bZ4N_WVvGgq6d9Sq3tb04HiCdkG_MsbloX7CYNdGirQEl3R32g0IQ8Ii0zI7cmg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZNsKHfVwvz02r4_Yo6l3EMnw8gd4w86VNhcdCosGJzkWnUxEfnktfqnGDaU_8JG03XyjXC44vkvDHy_HEvCTMl1t4E5_LN5epFX7J3Bb3s28j1fSXbmnc0VzqnKZTslyBhjsxIQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEBFCgfGtJ1LRiFt7XRP-8j-c9c42uIVlCiTG-JpvkSmxJwwpYKQwGukIYGtdWIjri4xx6pSNVUOJOiy9HbULWiz6gSjX7tZY5lyxxrwe4dyBacXDCx8SfZOT8fC5RLRyR5lb0uXQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9-rrgew1y_MmFHuV7yMMDtYGgrpY7Lz7bZ9v9d7R02f6h84rSx0vRva8pSlHKDQMAp24E4A_qo9lhr4aj6cruIJadLWlVQn1uX8XtVfq4R1GlN9uB1BpB-cbuueT8slDucH4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5WK7mqkYXpHnglbJvnDWAMcJsU0LSjs1o_jcyrKawDVM2k_7vcYtDzx8NtmDMalAmkdaj7s14w3Kxx8Ntu4Bvn4-HKS1EEN0eWhGSN4rvrFg3glYlZRqshpKYenQCytcyunRi=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2185054,
+      "lng": 72.6397426,
+      "label": "GMERS Civil Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gmers-medical-college-and-general-hospital-gandhinagar",
+    "name": "GMERS MEDICAL COLLEGE AND GENERAL HOSPITAL",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gandhinagar often choose GMERS MEDICAL COLLEGE AND GENERAL HOSPITAL for its strength in General Surgery In Gandhinagar. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gandhinagar.",
+    "email": "",
+    "phone": "079 2322 1931",
+    "alternatePhone": "",
+    "website": "http://www.gmersmchgandhinagar.com/",
+    "address": "12B, GH Rd, Sector 16, Gandhinagar, Gujarat 382016",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382016",
+    "locality": "Sector 16",
+    "landmark": "Sector 16",
+    "emergencyContact": "079 2322 1931",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCUOgMvDXoboP-fh9Wr6mAk0vMhHUUrL8X2ORF07HoTPM2Wo9BThujZq7JXOU7V49Fhn5XiS6VfZGcfEQpX813RLt3IYjfLcjK_oVkzfeqeSiu45vs9aUPY7NlT7ifIydwkkYzon4knFQ=w1200-h900-p-k-no",
+    "logo": "http://www.gmersmchgandhinagar.com/App_Themes/Blue/images/GMERSGandhinagarLogo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCUOgMvDXoboP-fh9Wr6mAk0vMhHUUrL8X2ORF07HoTPM2Wo9BThujZq7JXOU7V49Fhn5XiS6VfZGcfEQpX813RLt3IYjfLcjK_oVkzfeqeSiu45vs9aUPY7NlT7ifIydwkkYzon4knFQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbTg1lMLClOWgs3gPROLKyxc-IbgixPyuZAoOY_rQAvlamKyE7gll1Qo9Dhwr43D47RgeYnxDJ15MzeMHEj2tDivR91bVxZc16cccxZVzzKPZeBHc64FHncZlchUgR3G1zCrwI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2193813,
+      "lng": 72.6394931,
+      "label": "GMERS MEDICAL COLLEGE AND GENERAL HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gurukrupa-hospital-chiloda",
+    "name": "Gurukrupa Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Chiloda, Gurukrupa Hospital brings together specialists for General Surgery In Gandhinagar. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Chiloda.",
+    "email": "",
+    "phone": "090239 69600",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3rd Floor, A Wing, SETU SQUARE, Mota, Chiloda, Gujarat 382355",
+    "city": "Chiloda",
+    "state": "Gujarat",
+    "pincode": "382355",
+    "locality": "Mota",
+    "landmark": "SETU SQUARE",
+    "emergencyContact": "090239 69600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpP6rajgq2HYLfkNqlEAynG5K_UOtZ18RiT1fCPu9zAL5Uevw8rG064_Bh6XUDRdUPh4k52d4vYe4looK3JxYQr-nADSuai-4WJClRVTLi88PfZrRIKz4H02NtIOwlvzlFayoQSqBNEk14=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpP6rajgq2HYLfkNqlEAynG5K_UOtZ18RiT1fCPu9zAL5Uevw8rG064_Bh6XUDRdUPh4k52d4vYe4looK3JxYQr-nADSuai-4WJClRVTLi88PfZrRIKz4H02NtIOwlvzlFayoQSqBNEk14=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2269921,
+      "lng": 72.729223,
+      "label": "Gurukrupa Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hi-tech-hospital-gandhinagar",
+    "name": "Hi-Tech Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hi-Tech Hospital has built a strong reputation in Gandhinagar for multidisciplinary treatment pathways covering General Surgery In Gandhinagar. Its infrastructure includes Google rating 3.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gandhinagar.",
+    "email": "",
+    "phone": "079 2324 0555",
+    "alternatePhone": "",
+    "website": "http://hitechhospital.org/",
+    "address": "1186, GH Rd, Sector 3D, Sector 3, Gandhinagar, Gujarat 382006",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382006",
+    "locality": "Sector 3",
+    "landmark": "Sector 3D",
+    "emergencyContact": "079 2324 0555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHw8xGSNXMqpmqQtLB7ySoX84SYPFz9BUuwpr4jRpdMWYYVPolJQNYPsj-O8sl5YZmAg5BX-K8iaXeyFxld6Xm98qt4pilfmT4Mj2q0wQGhBMm3N2fPhfk7PDITg1fXhCSgwYM=w1200-h900-p-k-no",
+    "logo": "http://hitechhospital.org/images/Hi_Tech_Multispeciality_Hospital_In_Gandhinagar.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHw8xGSNXMqpmqQtLB7ySoX84SYPFz9BUuwpr4jRpdMWYYVPolJQNYPsj-O8sl5YZmAg5BX-K8iaXeyFxld6Xm98qt4pilfmT4Mj2q0wQGhBMm3N2fPhfk7PDITg1fXhCSgwYM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2055744,
+      "lng": 72.6336598,
+      "label": "Hi-Tech Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "m-cure-hospital-gandhinagar",
+    "name": "M Cure hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "M Cure hospital is a prominent hospital in Gandhinagar, known for structured tertiary care across General Surgery In Gandhinagar. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gandhinagar.",
+    "email": "",
+    "phone": "076000 45051",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd FLOOR SARTHAK MALL KH-ROAD, Sargasan Cross Rd, Sargasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Sargasan",
+    "landmark": "Sargasan",
+    "emergencyContact": "076000 45051",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEcpoo7WaecoqLhwVxueDaiJKhX7s2hdMihV28XSgUoA6lWsFD3RB8SAUKLGTuzH0P8PXVNaH5Ao6civ8Qss6LtSEHWBdIXTEJnKMFM_yh_2bB7sQAK-ka-fkpQhe1_n3aKqRmocQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEcpoo7WaecoqLhwVxueDaiJKhX7s2hdMihV28XSgUoA6lWsFD3RB8SAUKLGTuzH0P8PXVNaH5Ao6civ8Qss6LtSEHWBdIXTEJnKMFM_yh_2bB7sQAK-ka-fkpQhe1_n3aKqRmocQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1951567,
+      "lng": 72.6146069,
+      "label": "M Cure hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medicare-heart-and-medical-hospital-gandhinagar",
+    "name": "Medicare Heart & Medical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medicare Heart & Medical Hospital has built a strong reputation in Gandhinagar for multidisciplinary treatment pathways covering Heart Surgery In Gandhinagar and Cardiac Care. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Gandhinagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094270 38189",
+    "alternatePhone": "",
+    "website": "",
+    "address": "VRUNDAVAN TRADE CENTER, B-208, opp. Kanam Party Plot, nr. Reliance Cross Road, VTC, Kudasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Kudasan",
+    "landmark": "opp. Kanam Party Plot",
+    "emergencyContact": "094270 38189",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gandhinagar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGaRXnYFJibVlSiO8NPRbZ8E8P2KHv9wRI42tGkP0wo-xa3PKa2mRLZRGzQgrUh7iLa2xuITT6vn4M1RnVcwLGsq86Ue53NMiGzPRqUfr_KUJikMucUbjycN6orTcbibDzAmwaYMA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGaRXnYFJibVlSiO8NPRbZ8E8P2KHv9wRI42tGkP0wo-xa3PKa2mRLZRGzQgrUh7iLa2xuITT6vn4M1RnVcwLGsq86Ue53NMiGzPRqUfr_KUJikMucUbjycN6orTcbibDzAmwaYMA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1817424,
+      "lng": 72.6289557,
+      "label": "Medicare Heart & Medical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "namah-healthcare-gandhinagar",
+    "name": "Namah Healthcare",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Gandhinagar, Namah Healthcare delivers integrated care across General Surgery In Gandhinagar. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gandhinagar.",
+    "email": "",
+    "phone": "070164 52304",
+    "alternatePhone": "",
+    "website": "http://www.namahhealthcare.com/",
+    "address": "2nd Floor, Golden Arcade, 84 - 97, K - 6 Circle, near Osia Hyper Market, GIDC Electronic Estate, Sector 25, Gandhinagar, Gujarat 382027",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382027",
+    "locality": "Sector 25",
+    "landmark": "near Osia Hyper Market, GIDC Electronic Estate, Sector 25, Gandhinagar, Gujarat 382027",
+    "emergencyContact": "070164 52304",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzwKhbGfulfGnN1VtuXPNdHmqdPsR8HxIAR2DjF8xBUBNa2d6q9TJCEQaVef9yuLYsBVlVVAqcoxi2C9m8DS0mpj4TAPv4r3dMrclXtG9zpowgIcXZiSEjyrO-nMWtIZ56buIo=w1200-h900-p-k-no",
+    "logo": "https://namahhealthcare.com/wp-content/uploads/2022/05/Namah-Hospital-Logo-01.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzwKhbGfulfGnN1VtuXPNdHmqdPsR8HxIAR2DjF8xBUBNa2d6q9TJCEQaVef9yuLYsBVlVVAqcoxi2C9m8DS0mpj4TAPv4r3dMrclXtG9zpowgIcXZiSEjyrO-nMWtIZ56buIo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2505206,
+      "lng": 72.6386869,
+      "label": "Namah Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "namo-stute-hospitals-gandhinagar",
+    "name": "Namo'stuTe Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Namo'stuTe Hospitals has built a strong reputation in Gandhinagar for multidisciplinary treatment pathways covering General Surgery In Gandhinagar. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gandhinagar.",
+    "email": "",
+    "phone": "063589 93701",
+    "alternatePhone": "",
+    "website": "https://www.namostutehospitals.com/?utm_source",
+    "address": "Plot No-1285, Sector-6 D, Near, GH 3 Cir, opposite Civil Hospital, Gandhinagar, Gujarat 382006",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382006",
+    "locality": "opposite Civil Hospital",
+    "landmark": "opposite Civil Hospital, Gandhinagar, Gujarat 382006",
+    "emergencyContact": "063589 93701",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEQjNnK-OeaRLiMGcFX0cvqffH9-chJKORXZzEJZTADo-bDpwQOKQBVZPxkZxpmRljHwqrTbuPjg_VHqnpGYvmEzZ0geZ_1CZT3mDX8tNsbvxolxGv4wW_IdKai9422EHFzQBt=w1200-h900-p-k-no",
+    "logo": "https://www.namostutehospitals.com/wp-content/uploads/2024/02/namostute_logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEQjNnK-OeaRLiMGcFX0cvqffH9-chJKORXZzEJZTADo-bDpwQOKQBVZPxkZxpmRljHwqrTbuPjg_VHqnpGYvmEzZ0geZ_1CZT3mDX8tNsbvxolxGv4wW_IdKai9422EHFzQBt=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2166492,
+      "lng": 72.6398134,
+      "label": "Namo'stuTe Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "neuropanch-ayurveda-hospital-and-research-organization-gandhinagar",
+    "name": "NeuroPanch Ayurveda Hospital & Research Organization",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Gandhinagar, NeuroPanch Ayurveda Hospital & Research Organization delivers integrated care across General Surgery In Gandhinagar and Neurosciences. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gandhinagar.",
+    "email": "",
+    "phone": "090333 98889",
+    "alternatePhone": "",
+    "website": "http://www.neuropanch.com/",
+    "address": "B-19, First Floor District Shopping Center, Sector 21, Gandhinagar, Gujarat 382021",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382021",
+    "locality": "Sector 21",
+    "landmark": "Sector 21",
+    "emergencyContact": "090333 98889",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjWVaBl3G-x4pyErNP9IUA2d-NyGsGOh0ojpHChatdqMgrcoFclIgViPtx4WJ_Xr9Y4L2xTeLrUpKGXC4GrJyiAmyyR6va6LvGJnsakhsoh4u5XgjSQZMs42RS-qzaP4TFqmP1=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjWVaBl3G-x4pyErNP9IUA2d-NyGsGOh0ojpHChatdqMgrcoFclIgViPtx4WJ_Xr9Y4L2xTeLrUpKGXC4GrJyiAmyyR6va6LvGJnsakhsoh4u5XgjSQZMs42RS-qzaP4TFqmP1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPf4fLB295G_kTrgYWAoy73JQX7quvIII43FKVT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOSh4hZ8rBvz529_CxxfoDlqLBm9c1WFd5mtVHI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2297218,
+      "lng": 72.6666671,
+      "label": "NeuroPanch Ayurveda Hospital & Research Organization",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nidhi-surgical-and-laparoscopic-center-gandhinagar",
+    "name": "NIDHI Surgical & Laparoscopic Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NIDHI Surgical & Laparoscopic Center has built a strong reputation in Gandhinagar for multidisciplinary treatment pathways covering General Surgery In Gandhinagar. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Gandhinagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084693 44011",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shalin Complex, Rd No. 5, Sector 22, Gandhinagar, Gujarat 382021",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382021",
+    "locality": "Sector 22",
+    "landmark": "Sector 22",
+    "emergencyContact": "084693 44011",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUN5Lxmv3aiu5h5WIrZG16yY5Rc60wqWPX7uJmQ5lvZRFVdey7nJpC6vfmsabntXYwbU0Mk9qCdW-hVdyGWNw9gBAldRjVZSw07YywNFOajHN252SLLEkRXNeYWDwqlBPX6fTLjqHN-fsE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUN5Lxmv3aiu5h5WIrZG16yY5Rc60wqWPX7uJmQ5lvZRFVdey7nJpC6vfmsabntXYwbU0Mk9qCdW-hVdyGWNw9gBAldRjVZSw07YywNFOajHN252SLLEkRXNeYWDwqlBPX6fTLjqHN-fsE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2321092,
+      "lng": 72.6538381,
+      "label": "NIDHI Surgical & Laparoscopic Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "niky-hospital-gandhinagar",
+    "name": "Niky Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gandhinagar, Niky Hospital brings together specialists for Cardiac Surgery In Gandhinagar. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Gandhinagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096380 44966",
+    "alternatePhone": "",
+    "website": "http://nikyhospital.in/",
+    "address": "6th floor, '' Shree '', UGATI CORPORATE PARK, 603 to 608, Urjanagar 1, Kudasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Kudasan",
+    "landmark": "UGATI CORPORATE PARK",
+    "emergencyContact": "096380 44966",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkIVJ4SFNeO6H_8CbR21Mnbq0pH4px2kwOZ7d56VVNNDyt6XddUHEzRy7x_nC1eULZfWhxu-bRwJHX2L7tIfcV3Dk6o0hsOhKE-fv8q6_tXlt49_L4eDKKppDvs7JGs-6KGb45jA=w1200-h900-p-k-no",
+    "logo": "http://nikyhospital.in/images/resources/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkIVJ4SFNeO6H_8CbR21Mnbq0pH4px2kwOZ7d56VVNNDyt6XddUHEzRy7x_nC1eULZfWhxu-bRwJHX2L7tIfcV3Dk6o0hsOhKE-fv8q6_tXlt49_L4eDKKppDvs7JGs-6KGb45jA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1796343,
+      "lng": 72.6369567,
+      "label": "Niky Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "orasurge-dental-and-maxillofacial-surgical-centre-gandhinagar",
+    "name": "Orasurge Dental And Maxillofacial Surgical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gandhinagar, Orasurge Dental And Maxillofacial Surgical Centre offers coordinated hospital care with major focus on Oral Surgery In Gandhinagar and Maxillofacial Surgery. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Gandhinagar.",
+    "email": "",
+    "phone": "098251 98854",
+    "alternatePhone": "",
+    "website": "",
+    "address": "The Landmark, Above sketchers showroom, A-402, Kudasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Kudasan",
+    "landmark": "A-402",
+    "emergencyContact": "098251 98854",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gandhinagar",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHsZWpngCECOkMnjIOll1LNsesW7Xj2XWXdcPnRTBoXE4zZNW0ri1Wvt6qJUjiD3b-oQyiifB0hxotL8_4WA57uv__uHBgmVLWPslcjGXjYBCvFkY2B-fxVjgTn9JreV5w8cbuljVkQMbM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHsZWpngCECOkMnjIOll1LNsesW7Xj2XWXdcPnRTBoXE4zZNW0ri1Wvt6qJUjiD3b-oQyiifB0hxotL8_4WA57uv__uHBgmVLWPslcjGXjYBCvFkY2B-fxVjgTn9JreV5w8cbuljVkQMbM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-dZKdzaFDb0f_30o0INSU-wzpyT_GTl92bb4Klrli6BiV-Rk-KXIrdtD5oXlzRctXIEG5XiuKpYkpst25LNmicpRagCzS8TWrczIHqeke-1ZMcYd3BGeZn7xEdW8Vi48pbb0urPO-YAIv=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpJE1WyD5oqSCTFwMOdTb3cBo07Qicyh6qlStZNUULP1X64eDPH__IAL0cvDvQPknkmiy_5cmufF0bLJlmhAJG39mRhRZ6o_l2xEWTDL4wopW6sFvxmIwr4LAary0bkmrNRZ0HKw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZm44i5JgWl5VT7OkxRgjKXTruLN5EN8LNmJqPCnEWYxuka-RR2mMtlZ2e1wGwtUYZFxJSNWG0ON4SEsq1kGj4mr-H5W38-s__3EyB02DHWJ5PljT-yUloyGaxJtgnqorLhAYhYsXxK7Uf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSI7--Q82Pzv8JSeVzZf8sQmPm2ELbbu3G6WJ9BBx9Urd2uQ9iQrb7anD4Lt=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1760002,
+      "lng": 72.6291481,
+      "label": "Orasurge Dental And Maxillofacial Surgical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pagarav-hospital-and-icu-sargasan-gandhinagar-gandhinagar",
+    "name": "Pagarav Hospital And ICU Sargasan Gandhinagar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gandhinagar, Pagarav Hospital And ICU Sargasan Gandhinagar brings together specialists for General Surgery In Gandhinagar. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Gandhinagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088660 40108",
+    "alternatePhone": "",
+    "website": "https://pagaravhospital.co.in/",
+    "address": "Shreee Ganesh era, Sikshapatri Rd, Sargasan, Gandhinagar, Gujarat 382421",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382421",
+    "locality": "Sargasan",
+    "landmark": "Sargasan",
+    "emergencyContact": "088660 40108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbhHs0aHY1p7WXYIQmvquiqJNehG5uc1xb9WQjWTkZHJ9LDOJemu3MgOBwDD6oCFw41__2SYLi6rtj-UxNPaFgsEDGxvVN4Kmnc5DQzJZKlUK7GbagdohLaqZQ_fj1oWDZOBse91onLLxb=w1200-h900-p-k-no",
+    "logo": "https://pagaravhospital.co.in/images/plogo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbhHs0aHY1p7WXYIQmvquiqJNehG5uc1xb9WQjWTkZHJ9LDOJemu3MgOBwDD6oCFw41__2SYLi6rtj-UxNPaFgsEDGxvVN4Kmnc5DQzJZKlUK7GbagdohLaqZQ_fj1oWDZOBse91onLLxb=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOMM6gIC8I4vTLA9drwx_ZKxdcxiUzmuELbVqeQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPvpH2tRSdvERRmBb8LZGGiRdi71lMj97qTBbGo=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMq2L2Ufy0sEopGJFjpJ6J9GlDypff81X_841dY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNCpiPVJMg0OrL8HIJLelMJwYQ4NhNtWc5P8mQ6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.191319,
+      "lng": 72.6046186,
+      "label": "Pagarav Hospital And ICU Sargasan Gandhinagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pankti-women-and-dental-hospital-gandhinagar",
+    "name": "Pankti women & dental Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gandhinagar often choose Pankti women & dental Hospital for its strength in General Surgery In Gandhinagar and Women and Child Care. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gandhinagar.",
+    "email": "",
+    "phone": "063596 35941",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Floor, The sky Court, Swagat Flamingo Rd, Sargasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Sargasan",
+    "landmark": "Swagat Flamingo Rd",
+    "emergencyContact": "063596 35941",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8NWfP9XGvp82gxWogQJBUcbemJmIDTodAyCvSdgr6y95t0vOmSxdADkdAr5zzOWf1gfjkPGNx1qqzKxEMdrfd_ivKPNt8eA_C4eLRpPD8dxxJI_EcV2iSYAPByLiA-QLL4Pp_eA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8NWfP9XGvp82gxWogQJBUcbemJmIDTodAyCvSdgr6y95t0vOmSxdADkdAr5zzOWf1gfjkPGNx1qqzKxEMdrfd_ivKPNt8eA_C4eLRpPD8dxxJI_EcV2iSYAPByLiA-QLL4Pp_eA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1908584,
+      "lng": 72.6068381,
+      "label": "Pankti women & dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pulse-clinic-gandhinagar",
+    "name": "PULSE CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gandhinagar, PULSE CLINIC brings together specialists for Heart Surgery In Gandhinagar. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Gandhinagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080879 55435",
+    "alternatePhone": "",
+    "website": "https://drudaypatel.com/",
+    "address": "B 306 VTC Vrundavan Trade Center, opposite Kanam Greens Party Plot, near Reliance Cross Road, Kudasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Kudasan",
+    "landmark": "near Reliance Cross Road, Kudasan, Gandhinagar, Gujarat 382419",
+    "emergencyContact": "080879 55435",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7cfyGLmu3uQfxWr8OyyyFAKx39iz9Jn-0rBsDmLoyjc0s1vuAe2We51ZhSxhys_12Nxr0VRu0ynb_jyfZqpn3eUfprWByyNJFhKnSKAwi3sxFzjVHSmMFvQ92oeujhf6p4xBT=w1200-h900-p-k-no",
+    "logo": "https://drudaypatel.com/brand/logo-full.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7cfyGLmu3uQfxWr8OyyyFAKx39iz9Jn-0rBsDmLoyjc0s1vuAe2We51ZhSxhys_12Nxr0VRu0ynb_jyfZqpn3eUfprWByyNJFhKnSKAwi3sxFzjVHSmMFvQ92oeujhf6p4xBT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP8HmlhMg1xC9lUbxK0eMGVbEfxXzUIgrLLBF73=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1818121,
+      "lng": 72.6287689,
+      "label": "PULSE CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "purusharth-surgical-hospital-gandhinagar",
+    "name": "Purusharth Surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Purusharth Surgical Hospital is a prominent hospital in Gandhinagar, known for structured tertiary care across General Surgery In Gandhinagar. Hospital capacity markers such as Google rating 3.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Gandhinagar.",
+    "email": "",
+    "phone": "079 2323 3167",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot No. 277, GH Road Gh -4 1/2 Bus Stop Near Nagrik Bank, Sector 16, Gandhinagar, Gujarat 382016",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382016",
+    "locality": "Sector 16",
+    "landmark": "Near Nagrik Bank, Sector 16, Gandhinagar, Gujarat 382016",
+    "emergencyContact": "079 2323 3167",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKSjPGJzisQ76QIhN3KsPkD6Rnff9naWOHhCjnJjbBj24v0HPC2FvcWWiXiY4PfgKg7i77mWReh63XTx3cNtY1kbWGU3jUbjD9wkWaLXiCNTPaY-xD0WkeWeD-NuXtMgqvUuyO=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKSjPGJzisQ76QIhN3KsPkD6Rnff9naWOHhCjnJjbBj24v0HPC2FvcWWiXiY4PfgKg7i77mWReh63XTx3cNtY1kbWGU3jUbjD9wkWaLXiCNTPaY-xD0WkeWeD-NuXtMgqvUuyO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.228862,
+      "lng": 72.6482013,
+      "label": "Purusharth Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "radhe-multi-speciality-hospital-gandhinagar",
+    "name": "Radhe Multi-Speciality Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Radhe Multi-Speciality Hospital has built a strong reputation in Gandhinagar for multidisciplinary treatment pathways covering General Surgery In Gandhinagar and Speciality Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Gandhinagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094845 13344",
+    "alternatePhone": "",
+    "website": "https://radhehospital.com/",
+    "address": "VRUNDAVAN TRADE CENTER, C' Block, opp. Kanam Party Plot, Kudasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Kudasan",
+    "landmark": "opp. Kanam Party Plot",
+    "emergencyContact": "094845 13344",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFCldHsIgXl8_7rZTlZ68MT3AyKmYH_xAEZisk2ETlqmGqn03Wbm8HvB5hF8c2-DYmmzsQMtrEPoDg86ENKmol93YkRQlgiJO3VsaeWiz0xfV_lTfQciJjQdqMDyKjMhsUfFDV=w1200-h900-p-k-no",
+    "logo": "https://radhehospital.com/wp-content/uploads/2023/07/Radhe-Logo-.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFCldHsIgXl8_7rZTlZ68MT3AyKmYH_xAEZisk2ETlqmGqn03Wbm8HvB5hF8c2-DYmmzsQMtrEPoDg86ENKmol93YkRQlgiJO3VsaeWiz0xfV_lTfQciJjQdqMDyKjMhsUfFDV=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1817147,
+      "lng": 72.6282639,
+      "label": "Radhe Multi-Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "satva-neonatal-and-pediatric-icu-gandhinagar",
+    "name": "Satva Neonatal & Pediatric ICU",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Satva Neonatal & Pediatric ICU has built a strong reputation in Gandhinagar for multidisciplinary treatment pathways covering General Surgery In Gandhinagar and Women and Child Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gandhinagar.",
+    "email": "",
+    "phone": "063519 11010",
+    "alternatePhone": "",
+    "website": "https://satvachildrenhospital.com/",
+    "address": "C-101,112,113, THE LANDMARk, Kudasan-Por Rd, Kudasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Kudasan",
+    "landmark": "113",
+    "emergencyContact": "063519 11010",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7B3Y6vEf-yFcjWP2C9cmr8hXLJRdriesDlnMQaZ1O1YK4681PNDlsD9ePOM4lEuw5tkb7NDHVzjy-OSvij0OhQ59-LD2mqeb4WloJh8-7h_kNpnGQ-52Pl2WNWQS_HzE35l8PirJia-Sw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7B3Y6vEf-yFcjWP2C9cmr8hXLJRdriesDlnMQaZ1O1YK4681PNDlsD9ePOM4lEuw5tkb7NDHVzjy-OSvij0OhQ59-LD2mqeb4WloJh8-7h_kNpnGQ-52Pl2WNWQS_HzE35l8PirJia-Sw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMbIXG40RF9CIY_6mgWK8JI31sCo_Ox7Aol2Uqr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPIKP3JDdeVhAv_sy-bVLm90DUqnFjLLSlOlB30=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMJpQSqiFdI5xVvdMAUIHEeBK-DQlYQcpNNEJyo=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNmG_kHQz2MwKMUU4eBho1mVwe8uv6C_nLk2A4w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1761438,
+      "lng": 72.6296834,
+      "label": "Satva Neonatal & Pediatric ICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "scai-superspeciality-hospitals-gandhinagar",
+    "name": "SCAI Superspeciality Hospitals",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SCAI Superspeciality Hospitals is a prominent private hospital in Gandhinagar, known for structured tertiary care across General Surgery In Gandhinagar and Speciality Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gandhinagar.",
+    "email": "",
+    "phone": "093138 08884",
+    "alternatePhone": "",
+    "website": "http://www.scaihospitals.com/",
+    "address": "001/002 Ground Floor, Corporate Unit, Siddhraj Z2, near SCAI Hospitals Circle, Kudasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Kudasan",
+    "landmark": "near SCAI Hospitals Circle, Kudasan, Gandhinagar, Gujarat 382419",
+    "emergencyContact": "093138 08884",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFu5fXzd_oY_DayOgKnBp2gC3VLx3ik1xe4wiHp82vC36Ax3MYMADXtoFlcXIwCfPWRCus-6V6rdB5y9ZBfGGLqvDLNm9gOIJEQHNXSJnZ4I6cXnR1R67l2RZQFCTsvCzKd56pr=w1200-h900-p-k-no",
+    "logo": "https://www.scaihospitals.com/wp-content/themes/custom/assets/img/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFu5fXzd_oY_DayOgKnBp2gC3VLx3ik1xe4wiHp82vC36Ax3MYMADXtoFlcXIwCfPWRCus-6V6rdB5y9ZBfGGLqvDLNm9gOIJEQHNXSJnZ4I6cXnR1R67l2RZQFCTsvCzKd56pr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN5jvxGv5fuVisv1w_SOwwGa9fBJt3Piolrb6pp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMyIueJ8Ehj8qDxTytCG0r8Iz55KiVdIQVV1BPx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMvybqUle1pGWUmWKWMvmT0nYISER0n3PUAYrLx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOx9StH2rQbt7eeOYbvTR0C1Qg4qRli5JMsjuJs=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1755584,
+      "lng": 72.6300919,
+      "label": "SCAI Superspeciality Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sgs-super-speciality-hospital-managed-by-health1-gandhinagar",
+    "name": "SGS Super Speciality Hospital Managed by Health1",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gandhinagar, SGS Super Speciality Hospital Managed by Health1 offers coordinated hospital care with major focus on General Surgery In Gandhinagar and Speciality Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gandhinagar.",
+    "email": "",
+    "phone": "075108 76108",
+    "alternatePhone": "",
+    "website": "https://health1.co.in/multi-speciality-hospital-gandhinagar-branch/",
+    "address": "Block B & C, Pramukh Anand Orbit Mall, near, Reliance Cross Rd, Kudasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Kudasan",
+    "landmark": "near",
+    "emergencyContact": "075108 76108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpCqWCHeJj4wT3QdiyEDU_N5pEtXncLfKKSV7F1-v3tsMf3xDQbW9TGnEox2fyU-X9W5qo-UoTF1LBHx5trBzCWjcJk5-HEpN1bRImAspnHb921tA5x1o2CVXaPrDnUuc4WImbYiBB_VQ=w1200-h900-p-k-no",
+    "logo": "https://health1.co.in/wp-content/uploads/2025/08/Health1logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpCqWCHeJj4wT3QdiyEDU_N5pEtXncLfKKSV7F1-v3tsMf3xDQbW9TGnEox2fyU-X9W5qo-UoTF1LBHx5trBzCWjcJk5-HEpN1bRImAspnHb921tA5x1o2CVXaPrDnUuc4WImbYiBB_VQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOC_yZ0MCPJGeV7OC-3u9N-5--30mcQ6ULYAN3M=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNjZoiPCXZ4FuJK0oPSowkbe-_7OFIPe8Phgtd-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP8BDG3kLh6kA_68fhkdbg2gzasyAMWQf-UHVwj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO2jZSUWn_CiZCXEhhVzFrQ9EDcIoh9QMxPNDL-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1848105,
+      "lng": 72.6309749,
+      "label": "SGS Super Speciality Hospital Managed by Health1",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sharda-multispecialty-hospital-gandhinagar",
+    "name": "Sharda Multispecialty Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gandhinagar, Sharda Multispecialty Hospital brings together specialists for General Surgery In Gandhinagar and Speciality Care. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Gandhinagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093164 44094",
+    "alternatePhone": "",
+    "website": "",
+    "address": "TP 7, Doctor house, Plot 166/3, Palm Rd, near Urbania crossroads, Kudasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Kudasan",
+    "landmark": "near Urbania crossroads, Kudasan, Gandhinagar, Gujarat 382419",
+    "emergencyContact": "093164 44094",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHI2Fd8sWK_yO_WhWchPfv_Ug1s1BKwtx3MFz75knOfCSJeK9nuf8xDTEVpXcZSElgUS4q-xfrwrqSGM1trh_dcjImZwlHRyB2vqMKb1yfB19yHRwhwAsrwnZOiXEUQXvYWHAMh=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHI2Fd8sWK_yO_WhWchPfv_Ug1s1BKwtx3MFz75knOfCSJeK9nuf8xDTEVpXcZSElgUS4q-xfrwrqSGM1trh_dcjImZwlHRyB2vqMKb1yfB19yHRwhwAsrwnZOiXEUQXvYWHAMh=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1795623,
+      "lng": 72.6205468,
+      "label": "Sharda Multispecialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shashvat-hospital-gandhinagar",
+    "name": "Shashvat Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shashvat Hospital has built a strong reputation in Gandhinagar for multidisciplinary treatment pathways covering General Surgery In Gandhinagar. With public-facing highlights like Google rating 3.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gandhinagar.",
+    "email": "",
+    "phone": "079 2324 3108",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2 Plot, 1, Gh-1, behind Bus Stop, Sector-3/A, Sector 3, Gandhinagar, Gujarat 382006",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382006",
+    "locality": "Sector 3",
+    "landmark": "Gh-1",
+    "emergencyContact": "079 2324 3108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOFPBB7PRmuhklato0QcEEZ9SjDRSpYA2laYLOkjLjpOM9OPJqMmNBuxkE3eQbAtqFhCLPL4tAAhBnGnz9YCYj76jFr8iEV2G8QmiX8-dRWQ8sRzyqypyI6JgOpruc_Iv6zBBh39vNx0X7=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOFPBB7PRmuhklato0QcEEZ9SjDRSpYA2laYLOkjLjpOM9OPJqMmNBuxkE3eQbAtqFhCLPL4tAAhBnGnz9YCYj76jFr8iEV2G8QmiX8-dRWQ8sRzyqypyI6JgOpruc_Iv6zBBh39vNx0X7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2046046,
+      "lng": 72.6331687,
+      "label": "Shashvat Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sk-hospital-bhaijipura",
+    "name": "SK HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SK HOSPITAL has built a strong reputation in Bhaijipura for multidisciplinary treatment pathways covering Cardiac Surgery In Gandhinagar. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Bhaijipura can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075750 43431",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Second floor 202 203 RADHE TIME SQUARE, near HOTEL MANAGEMENT COLLAGE, Bhaijipura, Gujarat 382426",
+    "city": "Bhaijipura",
+    "state": "Gujarat",
+    "pincode": "382426",
+    "locality": "near HOTEL MANAGEMENT COLLAGE",
+    "landmark": "near HOTEL MANAGEMENT COLLAGE, Bhaijipura, Gujarat 382426",
+    "emergencyContact": "075750 43431",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0StMSZ9GBJCYCJ3bpaWowRcmteEkmnL4dEMVNnj08zHHGo7_BKB36GdI3T2l0HXdGjUDBXHtT9uz0fTdD2Hav0jBg0YEciBGeuDi1tuHzYhnGwib7Mi8vjDm20Qs_0H-rVNaW=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0StMSZ9GBJCYCJ3bpaWowRcmteEkmnL4dEMVNnj08zHHGo7_BKB36GdI3T2l0HXdGjUDBXHtT9uz0fTdD2Hav0jBg0YEciBGeuDi1tuHzYhnGwib7Mi8vjDm20Qs_0H-rVNaW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGP8ogt6EA-Nll8UXufCZUkKDm-nRym3sDV080prj9bIWZZ-sdXn_IK6yTJDV3AVr3og6uqj8mWZzshyQ6F8lbUk7sjB8KhvU5pvRdBgiiL0auqjM0qyv2xcAIgtsD85QMT48E=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1568523,
+      "lng": 72.6360684,
+      "label": "SK HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "smvs-swaminarayan-hospital-gandhinagar",
+    "name": "SMVS Swaminarayan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SMVS Swaminarayan Hospital is a prominent hospital in Gandhinagar, known for structured tertiary care across General Surgery In Gandhinagar. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gandhinagar.",
+    "email": "",
+    "phone": "073737 33904",
+    "alternatePhone": "",
+    "website": "http://smvshospital.com/",
+    "address": "Ahmedabad - Gandhinagar Rd, beside Swaminarayan Dham, Randesan, Gandhinagar, Gujarat 382426",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382426",
+    "locality": "Randesan",
+    "landmark": "beside Swaminarayan Dham, Randesan, Gandhinagar, Gujarat 382426",
+    "emergencyContact": "073737 33904",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMiRKOYmdZsxFCVuaEiQc-RTPOAbGWlaSOvYGVeNe11tkuClSHR0C5ELpqb5yrzWNLq3_L6nM49Wuz6DIj-4Djov7eVSoH8S4JyYpk0Mk0zDykclsNT2arFzPEa_pU-MiOexQy=w1200-h900-p-k-no",
+    "logo": "https://smvshospital.com/wp-content/uploads/2022/06/Hospital-Logo_-ful-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMiRKOYmdZsxFCVuaEiQc-RTPOAbGWlaSOvYGVeNe11tkuClSHR0C5ELpqb5yrzWNLq3_L6nM49Wuz6DIj-4Djov7eVSoH8S4JyYpk0Mk0zDykclsNT2arFzPEa_pU-MiOexQy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1773837,
+      "lng": 72.6410611,
+      "label": "SMVS Swaminarayan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tejas-surgical-hospital-gandhinagar-gandhinagar",
+    "name": "Tejas Surgical Hospital Gandhinagar",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gandhinagar, Tejas Surgical Hospital Gandhinagar offers coordinated hospital care with major focus on General Surgery In Gandhinagar. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Gandhinagar.",
+    "email": "",
+    "phone": "094262 72590",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot no 951, Bus Stand, opp. Pathikashram, Sector 7C, Sector 7, Gandhinagar, Gujarat 382007",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382007",
+    "locality": "Sector 7",
+    "landmark": "opp. Pathikashram",
+    "emergencyContact": "094262 72590",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFja-TmQg6ETjpCqDsSx_RutZL4E_cEw8QF-9ROJyUTK56qwsQ97QaJECAzvpn-bPRfYtINWDqUeO60PsEC9avtnjpTHDG1rQFTpe7vvP5zYjRCCSyL1jXfSkYeQ84wLmMi2U8DBg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFja-TmQg6ETjpCqDsSx_RutZL4E_cEw8QF-9ROJyUTK56qwsQ97QaJECAzvpn-bPRfYtINWDqUeO60PsEC9avtnjpTHDG1rQFTpe7vvP5zYjRCCSyL1jXfSkYeQ84wLmMi2U8DBg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNAYpgBVx_H5VVCY9fHYkmgT7c8fNjw3YYOy3Ek=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMWTN1rXOAMJ_LOmwBhkyR5gdMyS1KULaFadQEz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMKIbHRwx2qHBFjsg8K6T28wQFa1PSaXPu0yl8G=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM16CicX2cyUT8SkbsujdrxY-NGMBzQCzl39_6d=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2153441,
+      "lng": 72.6422819,
+      "label": "Tejas Surgical Hospital Gandhinagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "u-n-mehta-institute-of-cardiology-and-research-centre-cardiac-and-neuro-care-gandhinagar",
+    "name": "U N Mehta Institute of Cardiology & Research Centre Cardiac & Neuro Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "U N Mehta Institute of Cardiology & Research Centre Cardiac & Neuro Care is a prominent hospital in Gandhinagar, known for structured tertiary care across Heart Surgery In Gandhinagar, Cardiac Care, and Neurosciences. Its infrastructure includes Google rating 3.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Gandhinagar.",
+    "email": "",
+    "phone": "079 6513 4200",
+    "alternatePhone": "",
+    "website": "http://www.unmicrc.org/",
+    "address": "951, Rd Number 3, Sector 12B, Gandhinagar, Gujarat 382016",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382016",
+    "locality": "Sector 12B",
+    "landmark": "Sector 12B",
+    "emergencyContact": "079 6513 4200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gandhinagar",
+      "Cardiac Care",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9HMk9WK2gQMYmzo1ErPgyYsqmXyiO6ROLBW4w8vq9wjHJ7mGUOOJdESVLZDBGnhFWpR1ijS4Z1U5GSJs6qm5HfGSrgWYwJPPk6ctu-GpCYEsCzBeD-0iKZzWUvhWSLPZ88p9ty7ALYtm9=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9HMk9WK2gQMYmzo1ErPgyYsqmXyiO6ROLBW4w8vq9wjHJ7mGUOOJdESVLZDBGnhFWpR1ijS4Z1U5GSJs6qm5HfGSrgWYwJPPk6ctu-GpCYEsCzBeD-0iKZzWUvhWSLPZ88p9ty7ALYtm9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2175933,
+      "lng": 72.6402343,
+      "label": "U N Mehta Institute of Cardiology & Research Centre Cardiac & Neuro Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "u-n-mehta-institute-of-cardiology-and-research-centre-gandhinagar-gandhinagar",
+    "name": "U. N. Mehta Institute of Cardiology & Research Centre, Gandhinagar",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gandhinagar often choose U. N. Mehta Institute of Cardiology & Research Centre, Gandhinagar for its strength in Heart Surgery In Gandhinagar and Cardiac Care. Hospital capacity markers such as Google rating 3.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Gandhinagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.unmicrc.org/",
+    "address": "GMERS Medical College, Civil Hospital Campus, Nr. Pathikasharam, Sector 12B, Gandhinagar, Gujarat 382016",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382016",
+    "locality": "Sector 12B",
+    "landmark": "Nr. Pathikasharam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gandhinagar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5o-AiAzKjhBw65iGVRsD6BTX7TLcdIzwjtHoqMdnsL3tCkLXSh4PvGAO02s3RrfGjngfpA1gV0P_HM_SZ9izuyYq2oEZIYbeOos2WVzgD5SUJWuKYgoD7-xEZ3zFJGsIRaC0IG2qRweI3=w1200-h900-p-k-no",
+    "logo": "https://www.unmicrc.org/Admin/FilesCMS/AwardImage/3new_logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5o-AiAzKjhBw65iGVRsD6BTX7TLcdIzwjtHoqMdnsL3tCkLXSh4PvGAO02s3RrfGjngfpA1gV0P_HM_SZ9izuyYq2oEZIYbeOos2WVzgD5SUJWuKYgoD7-xEZ3zFJGsIRaC0IG2qRweI3=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2177398,
+      "lng": 72.6404331,
+      "label": "U. N. Mehta Institute of Cardiology & Research Centre, Gandhinagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vachhani-speciality-care-hospital-gandhinagar",
+    "name": "Vachhani Speciality Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gandhinagar, Vachhani Speciality Care Hospital brings together specialists for General Surgery In Gandhinagar and Speciality Care. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Gandhinagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095123 55569",
+    "alternatePhone": "",
+    "website": "https://www.vachhanihospital.com/",
+    "address": "Survey No 148, Plot No 154/2, opp. PRAMUKH HARMONY, Sargasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Sargasan",
+    "landmark": "opp. PRAMUKH HARMONY",
+    "emergencyContact": "095123 55569",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdUi5evUBXMYGhvnnBRCLH28tpTbblJ2_jopE_V9OF1OJcjCc0hTCNysT2jVjEqqq1b4OjLhgQJpjSw2-rLvyknKgcnpDzKNKWrR7SGtKAtagIJ3Ta66OhaS9O2jaSD5Q0RbH10w=w1200-h900-p-k-no",
+    "logo": "https://www.vachhanihospital.com/assets/images/footerLogo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdUi5evUBXMYGhvnnBRCLH28tpTbblJ2_jopE_V9OF1OJcjCc0hTCNysT2jVjEqqq1b4OjLhgQJpjSw2-rLvyknKgcnpDzKNKWrR7SGtKAtagIJ3Ta66OhaS9O2jaSD5Q0RbH10w=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOEigwtLUcXL1bxVdnbbc3cymUcpfeb1PsdaZ42=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOdJ348hSvAPB5FPXZ9-cc2oOMnobgfLYE4nzP9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP9tD3tFndWJ2EW7IPKO48twpRtwnTaVMjVXoSF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP915JedRIEFL00AUo_cBTpN48KQWrMFXvLQ0n_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1796317,
+      "lng": 72.6245907,
+      "label": "Vachhani Speciality Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vardhman-hospital-gandhinagar",
+    "name": "Vardhman Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gandhinagar, Vardhman Hospital offers coordinated hospital care with major focus on General Surgery In Gandhinagar. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gandhinagar.",
+    "email": "",
+    "phone": "070439 96667",
+    "alternatePhone": "",
+    "website": "",
+    "address": "A/301-305, Radhe Signature, Near Prominent Hotel, Opp.Sahjanand City Por, Kudasan Rd, Kudasan, Gandhinagar, Gujarat 382419",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382419",
+    "locality": "Kudasan",
+    "landmark": "Near Prominent Hotel, Opp.Sahjanand City Por, Kudasan Rd, Kudasan, Gandhinagar, Gujarat 382419",
+    "emergencyContact": "070439 96667",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFrNjA7faNKDzrMx64DAmWnrixY3dS4LcxXSVsSvRI3QcYnoTl7mF22TfrsXMaqXRf1UbElP6oyDFaarzU3WxgCLl_rFaQiY_LuAi31rXOsPJfPBMoqK_b_chTEQYoqWrNa8yBd=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFrNjA7faNKDzrMx64DAmWnrixY3dS4LcxXSVsSvRI3QcYnoTl7mF22TfrsXMaqXRf1UbElP6oyDFaarzU3WxgCLl_rFaQiY_LuAi31rXOsPJfPBMoqK_b_chTEQYoqWrNa8yBd=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.1794216,
+      "lng": 72.6336358,
+      "label": "Vardhman Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "yashdeep-care-hospital-gandhinagar",
+    "name": "Yashdeep Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Gandhinagar, Yashdeep Care Hospital delivers integrated care across Heart Surgery In Gandhinagar. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Gandhinagar.",
+    "email": "",
+    "phone": "075678 28567",
+    "alternatePhone": "",
+    "website": "https://yashdeepcarehospitals.co.in/",
+    "address": "Plot no 191/B, near, CH-6 Yuva Chetna Cir, Sector 29, Gandhinagar, Gujarat 382028",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382028",
+    "locality": "Sector 29",
+    "landmark": "CH-6 Yuva Chetna Cir",
+    "emergencyContact": "075678 28567",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gandhinagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZtZN_6c2xr_-Q6gY6l4hOg3T1pHfl8x7Csy8VNW5SwxB1NWzZRay8mP1nZozoOjkvTvyAy3Yy8q3R2eLRZ-VOMSYZVovkEyCE9dFEIOA-28uYUQnTiXU3BhHZCgO341dJJRKAKg=w1200-h900-p-k-no",
+    "logo": "https://yashdeepcarehospitals.co.in/images/yashdeep-hospital.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZtZN_6c2xr_-Q6gY6l4hOg3T1pHfl8x7Csy8VNW5SwxB1NWzZRay8mP1nZozoOjkvTvyAy3Yy8q3R2eLRZ-VOMSYZVovkEyCE9dFEIOA-28uYUQnTiXU3BhHZCgO341dJJRKAKg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2384321,
+      "lng": 72.6625914,
+      "label": "Yashdeep Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "yashdeep-hospital-best-hospital-medical-hospital-heart-hospital-emergency-hospital-gandhinagar",
+    "name": "Yashdeep hospital || Best Hospital, Medical Hospital, Heart Hospital, Emergency Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gandhinagar, Yashdeep hospital || Best Hospital, Medical Hospital, Heart Hospital, Emergency Hospital brings together specialists for General Surgery In Gandhinagar and Cardiac Care. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gandhinagar.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CH Rd, Sector 22, Gandhinagar, Gujarat 382021",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382021",
+    "locality": "Sector 22",
+    "landmark": "Gandhinagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Gandhinagar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGl8UaxiiUO12uPQXBLkDZDYMMo5pPxjPGiP93pWpZtzHHvSmwWyl84_4NNZaJFmgh24qYndTMphNZmx2WswVtKl0X4THuf2FZK1y0N9uzNRRnzq9Kis1BUdrsPsblDvn4i_j1k2w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGl8UaxiiUO12uPQXBLkDZDYMMo5pPxjPGiP93pWpZtzHHvSmwWyl84_4NNZaJFmgh24qYndTMphNZmx2WswVtKl0X4THuf2FZK1y0N9uzNRRnzq9Kis1BUdrsPsblDvn4i_j1k2w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2328483,
+      "lng": 72.6585625,
+      "label": "Yashdeep hospital || Best Hospital, Medical Hospital, Heart Hospital, Emergency Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

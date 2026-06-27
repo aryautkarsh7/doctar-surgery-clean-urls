@@ -1,0 +1,4312 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "ahad-multispeciality-hospital-nababhat",
+    "name": "AHAD MULTISPECIALITY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Nababhat, AHAD MULTISPECIALITY HOSPITAL delivers integrated care across General Surgery In Barddhaman and Speciality Care. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Nababhat.",
+    "email": "",
+    "phone": "075869 56333",
+    "alternatePhone": "",
+    "website": "http://ahadhospital.in/",
+    "address": "Bardhaman, Nababhat, West Bengal 713104",
+    "city": "Nababhat",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Bardhaman",
+    "landmark": "West Bengal 713104",
+    "emergencyContact": "075869 56333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Barddhaman",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnuLPrypb7F8L_9LoAMsgNQzDkl_BdPa18AjEhI_cVQYy0mPBJC_yzVg7fX8IKMOFoXk_gnBQAzsWhp6azEkXO9kcll6iuvcNC6_B0ooDZWk8yeaa9tspY6SI2JdwNtrPkiDuS=w1200-h900-p-k-no",
+    "logo": "https://ahadhospital.in/assets/images/logo/ahad-hospital-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnuLPrypb7F8L_9LoAMsgNQzDkl_BdPa18AjEhI_cVQYy0mPBJC_yzVg7fX8IKMOFoXk_gnBQAzsWhp6azEkXO9kcll6iuvcNC6_B0ooDZWk8yeaa9tspY6SI2JdwNtrPkiDuS=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2687759,
+      "lng": 87.823323,
+      "label": "AHAD MULTISPECIALITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "anamoy-hospital-pamra",
+    "name": "Anamoy Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Anamoy Hospital is a prominent general hospital in Pamra, known for structured tertiary care across General Surgery In Barddhaman. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pamra.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6V9X+PGW, Pamra, West Bengal 713103",
+    "city": "Pamra",
+    "state": "West Bengal",
+    "pincode": "713103",
+    "locality": "",
+    "landmark": "West Bengal 713103",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJ-1tM55x0Zns5TA1Hk126WeSZdJVSM3j0BGRDBa5BB4CE2pVSTBbMoYbojKDoL3G41F7YNlGZ-_kTv0Tpod89z0UlJ_2BI5CbO7YZALqo8rLjINt8RPFCcpcKp6dfEaoGmZ7erA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJ-1tM55x0Zns5TA1Hk126WeSZdJVSM3j0BGRDBa5BB4CE2pVSTBbMoYbojKDoL3G41F7YNlGZ-_kTv0Tpod89z0UlJ_2BI5CbO7YZALqo8rLjINt8RPFCcpcKp6dfEaoGmZ7erA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2187604,
+      "lng": 87.8981424,
+      "label": "Anamoy Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ananya-hospital-and-ananya-pharmacy-bardhaman",
+    "name": "Ananya Hospital & Ananya Pharmacy",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bardhaman, Ananya Hospital & Ananya Pharmacy brings together specialists for Spine Surgery In Barddhaman. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Bardhaman can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089428 84244",
+    "alternatePhone": "",
+    "website": "https://ananyahospital.org/",
+    "address": "Grand Trunk Rd, Keshabganj Chatti, Khagragorh, Bardhaman, West Bengal 713104",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Khagragorh",
+    "landmark": "Khagragorh",
+    "emergencyContact": "089428 84244",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_rDlTYTZQnT9uW8bH14ZQA9gMOlcKqIDT1W_k2ytuXfitz2UPW0BDItSxLZZYc364vSppC7HP6dKL96f56H9Aydc-zjE1uAYxXLaX0HRM8IASOgDoU7ofV65DCV44BsICWhfn=w1200-h900-p-k-no",
+    "logo": "https://ananyahospital.org/assets/images/logo/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_rDlTYTZQnT9uW8bH14ZQA9gMOlcKqIDT1W_k2ytuXfitz2UPW0BDItSxLZZYc364vSppC7HP6dKL96f56H9Aydc-zjE1uAYxXLaX0HRM8IASOgDoU7ofV65DCV44BsICWhfn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2604816,
+      "lng": 87.8429858,
+      "label": "Ananya Hospital & Ananya Pharmacy",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apollo-multispeciality-hospitals-best-hospital-in-kolkata-kolkata",
+    "name": "Apollo Multispeciality Hospitals | Best Hospital in Kolkata",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, Apollo Multispeciality Hospitals | Best Hospital in Kolkata offers coordinated hospital care with major focus on Liver Transplant Surgery In Barddhaman and Speciality Care. Operational strengths including Google rating 4.7, 26+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080 6297 2764",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/hospitals/apollo-hospitals-kolkata",
+    "address": "58, Canal Circular Rd, Kadapara, Phoolbagan, Kankurgachi, Kolkata, West Bengal 700054",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700054",
+    "locality": "Kankurgachi",
+    "landmark": "Kadapara",
+    "emergencyContact": "080 6297 2764",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Barddhaman",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "26+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQUmKWHCtvf4adHL0CDZ1yFNx29AhhW2VKS-tTh1VRyWF0DmIXuTLquerAGZf_mpek1-ucNOjuTuXcu1c-jX2MiUEpWFAD7Gp_e26WwDOypWauCnkT2lqEZeHfCEF9itpaom0=w1200-h900-p-k-no",
+    "logo": "https://www.apollohospitals.com/themes/custom/apollo/assets/svg/apollo-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQUmKWHCtvf4adHL0CDZ1yFNx29AhhW2VKS-tTh1VRyWF0DmIXuTLquerAGZf_mpek1-ucNOjuTuXcu1c-jX2MiUEpWFAD7Gp_e26WwDOypWauCnkT2lqEZeHfCEF9itpaom0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNY_sKFbJy2N40dfiIxi98MmXzCkDCW0YqX3gX3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPF8a2WKbk7xGoTM4q5r5jVO1i9XJpiRVaycKh-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEK5Rql3-ECQs5QH4tiFkLoXjJ1GUqGPoog2pIaNITpQK5ZOtswqyX9xoRDaKV-GgTaDZKSbW8sFZT0LLhCWPcLGhEtDGpqjtwG86zenRtoMqSlXG6iOOTUiRP_37t1nqQgFfe4V1XFJxhA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqu-b2Z42-_RK6-nCUispCPsdRxpt91u2EOi7UT4PsTNSeajWMFgx-UbA-d034EDRLlM65FFPrZKytPfVI15g2Lz8ozFnQc3W0thNOWVIuYIRec_mZHbYuSYbUM3eZotntNm3abrDvrVg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5733301,
+      "lng": 88.4010152,
+      "label": "Apollo Multispeciality Hospitals | Best Hospital in Kolkata",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 26,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "b-c-c-u-pvt-ltd-hospital-bardhaman",
+    "name": "B.C.C.U. PVT. LTD. (HOSPITAL)",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "B.C.C.U. PVT. LTD. (HOSPITAL) is a prominent general hospital in Bardhaman, known for structured tertiary care across Oncologist Surgery In Barddhaman. Hospital capacity markers such as Google rating 3.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bardhaman.",
+    "email": "",
+    "phone": "081700 35801",
+    "alternatePhone": "",
+    "website": "",
+    "address": "R.B.Ghosh Rd, Shyamlal Colony, Khosbagan, Bardhaman, West Bengal 713103",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713103",
+    "locality": "Khosbagan",
+    "landmark": "Khosbagan",
+    "emergencyContact": "081700 35801",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHibHoXHoKh2xG2xDvZ4EylVbO2E9iXSA5FR4_wu2uocAgm-l76v9xfgofx2TWqN9STfYomBZOluxd30EDFx7RriRYDlObn_oGRwG3GyXSNSB4SKjCuB238EYpiPOBtf5X4CqPw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHibHoXHoKh2xG2xDvZ4EylVbO2E9iXSA5FR4_wu2uocAgm-l76v9xfgofx2TWqN9STfYomBZOluxd30EDFx7RriRYDlObn_oGRwG3GyXSNSB4SKjCuB238EYpiPOBtf5X4CqPw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2425828,
+      "lng": 87.8597173,
+      "label": "B.C.C.U. PVT. LTD. (HOSPITAL)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "barddhaman-apollo-hospital-bardhaman",
+    "name": "BARDDHAMAN APOLLO HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bardhaman, BARDDHAMAN APOLLO HOSPITAL delivers integrated care across Spine Surgery In Barddhaman. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bardhaman.",
+    "email": "",
+    "phone": "074777 14447",
+    "alternatePhone": "",
+    "website": "https://brdnapollohospital.com/",
+    "address": "6VR6+R3C &, 41, R.B. GHOSH ROAD, KHOSHBAGAN, PO, PS, near Appolo Nursing Home, Shyamlal Colony, Khosbagan, Bardhaman, West Bengal 713103",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713103",
+    "locality": "Khosbagan",
+    "landmark": "near Appolo Nursing Home, Shyamlal Colony, Khosbagan, Bardhaman, West Bengal 713103",
+    "emergencyContact": "074777 14447",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9jZRsYidaLMjdDe3WZEL_2R6wJOwfKhQsDYTNDf4uhH7qPWHRHFLYm5JYwMHyW69q_DuHNC_vKXd00Wiv06pGGgagKrYk_rtSuN69z9KAxxnLEn16Ix7CZDJ2N5h8wVolgss=w1200-h900-p-k-no",
+    "logo": "https://brdnapollohospital.com/wp-content/uploads/2024/09/logo-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9jZRsYidaLMjdDe3WZEL_2R6wJOwfKhQsDYTNDf4uhH7qPWHRHFLYm5JYwMHyW69q_DuHNC_vKXd00Wiv06pGGgagKrYk_rtSuN69z9KAxxnLEn16Ix7CZDJ2N5h8wVolgss=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2420085,
+      "lng": 87.8600992,
+      "label": "BARDDHAMAN APOLLO HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bengal-cancer-foundation-renaissance-township",
+    "name": "Bengal Cancer Foundation",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bengal Cancer Foundation has built a strong reputation in Renaissance Township for multidisciplinary treatment pathways covering Oncologist Surgery In Barddhaman. The facility stands out for Google rating 3.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Renaissance Township can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083369 54092",
+    "alternatePhone": "",
+    "website": "http://www.bengalcancerfoundation.com/",
+    "address": "Renaissance Township, West Bengal 713104",
+    "city": "Renaissance Township",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "083369 54092",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgoT-k5eAnChuSy65rREPwPAdXeaeQvXhT8MLjUYm5mdjFPFQu8dPnJxjRFM3-FeV1J_R0fa8d01esVC0C4ijzMN4xY1opuWRO8JYJutBT3A2My4lMMTh5hWgCvgdhDuJxXpc=w1200-h900-p-k-no",
+    "logo": "https://bengalcancerfoundation.com/Images/logos/1.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgoT-k5eAnChuSy65rREPwPAdXeaeQvXhT8MLjUYm5mdjFPFQu8dPnJxjRFM3-FeV1J_R0fa8d01esVC0C4ijzMN4xY1opuWRO8JYJutBT3A2My4lMMTh5hWgCvgdhDuJxXpc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2654103,
+      "lng": 87.8265708,
+      "label": "Bengal Cancer Foundation",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bengal-faith-hospital-bardhaman",
+    "name": "Bengal FAITH Hospital.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bengal FAITH Hospital. is a prominent hospital in Bardhaman, known for structured tertiary care across Urologist Surgery In Barddhaman. With public-facing highlights like Google rating 3.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bardhaman.",
+    "email": "",
+    "phone": "084203 82000",
+    "alternatePhone": "",
+    "website": "https://bengalfaith.in/",
+    "address": "Health City, Goda, Bardhaman, West Bengal 713102",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713102",
+    "locality": "Goda",
+    "landmark": "Bardhaman",
+    "emergencyContact": "084203 82000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQOtMWQ0gMTroDbtpi7BAZYvu73K9e_yV3MOVuMoViTUGaLNvwee-pkhV-aKKnJy8uWnAy-tFeMwmnDVg3uMiGipuRNq9PXDKkUoADykhuLMdOvdirnj-Rj4tsm_5IdMzI-GTt=w1200-h900-p-k-no",
+    "logo": "https://www.bengalfaith.in/wp-content/uploads/2023/12/cropped-Bengal-faith-new-logo-1-268x52.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQOtMWQ0gMTroDbtpi7BAZYvu73K9e_yV3MOVuMoViTUGaLNvwee-pkhV-aKKnJy8uWnAy-tFeMwmnDVg3uMiGipuRNq9PXDKkUoADykhuLMdOvdirnj-Rj4tsm_5IdMzI-GTt=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPy7DBLjYK6H8elUc8xW9Avjt2OU3kCe0CShR7c=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMpxXnVHlw0D9mvX7hIpYGEbtByQJkp1IxR1KCa=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMpxXn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMLTTaJfKxK6ana9RRMr6I7RkFK5yR1gqO_G3TF=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2601841,
+      "lng": 87.8353604,
+      "label": "Bengal FAITH Hospital.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bims-multispeciality-hospital-hospital-in-burdwan-goda-p",
+    "name": "BIMS Multispeciality Hospital - Hospital in Burdwan",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Goda P, BIMS Multispeciality Hospital - Hospital in Burdwan delivers integrated care across Orthopedic Surgery In Barddhaman and Speciality Care. Its infrastructure includes Google rating 2.9, 8+ public reviews, and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Goda P.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://bimshospital.in/",
+    "address": "Shrachi, Renaissance Township, Bus Stand, opposite Nawabhat, Bardhaman, Goda P, West Bengal 713104",
+    "city": "Goda P",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Bardhaman",
+    "landmark": "opposite Nawabhat, Bardhaman, Goda P, West Bengal 713104",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Barddhaman",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9",
+      "8+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGH2-us1QKQwiMGft8oAHhqB-nElLgrrzAOLHIm98xRGQ2qXMv40UOyxtUtd4sigxRwSyVOVwdjVSwQX6l95x5GS7jpPYwsEozU9kHWdqI1XA8qEmUZDmRwbsnWASsIyRZxZvB18jNJLkRJ=w1200-h900-p-k-no",
+    "logo": "https://bimshospital.in/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGH2-us1QKQwiMGft8oAHhqB-nElLgrrzAOLHIm98xRGQ2qXMv40UOyxtUtd4sigxRwSyVOVwdjVSwQX6l95x5GS7jpPYwsEozU9kHWdqI1XA8qEmUZDmRwbsnWASsIyRZxZvB18jNJLkRJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHRo4awa3r6G_mEaYRbvuR7IoKJ_gJ2Qb7ezi2p7JE2RgM6GJ8JlSLVNSL81C-RVF7IGBJ14-kgJ5yXkpHv1nDYeA9-EC2H2eNTPjrSZM__0sjDtk9oB_WpLu_b6kCNLioGQ3MbQVjGlSN9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2663592,
+      "lng": 87.8262513,
+      "label": "BIMS Multispeciality Hospital - Hospital in Burdwan",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 8,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "burdwan-hospital-opd-bardhaman",
+    "name": "Burdwan Hospital OPD",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Burdwan Hospital OPD is a prominent hospital in Bardhaman, known for structured tertiary care across Spine Surgery In Barddhaman. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bardhaman.",
+    "email": "",
+    "phone": "0342 256 8644",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6VV4+RRQ, Khosbagan, Bardhaman, West Bengal 713104",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Khosbagan",
+    "landmark": "Bardhaman",
+    "emergencyContact": "0342 256 8644",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8UMYFlbs5W2dOmE9JY14gDW3W869wAagqbOsIeu5Ufh5BJP6uvubzZ-QFkPlCV-vVwDAcYK7gP0bAFi-ZcSV4HDIQB9knb4rmyrjI1tg7IyiuD5-y6tvpZzSxSjhO5oBBlWw_=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8UMYFlbs5W2dOmE9JY14gDW3W869wAagqbOsIeu5Ufh5BJP6uvubzZ-QFkPlCV-vVwDAcYK7gP0bAFi-ZcSV4HDIQB9knb4rmyrjI1tg7IyiuD5-y6tvpZzSxSjhO5oBBlWw_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2435971,
+      "lng": 87.8556629,
+      "label": "Burdwan Hospital OPD",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "burdwan-medical-college-and-hospital-bardhaman",
+    "name": "Burdwan Medical College and Hospital",
+    "type": "Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bardhaman, Burdwan Medical College and Hospital delivers integrated care across Liver Transplant Surgery In Barddhaman. Operational strengths including Google rating 4.1 and 24+ public reviews make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bardhaman.",
+    "email": "",
+    "phone": "0342 796 2201",
+    "alternatePhone": "",
+    "website": "",
+    "address": "opp. Shyam Sayer, Khosbagan, Bardhaman, West Bengal 713104",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Khosbagan",
+    "landmark": "Bardhaman",
+    "emergencyContact": "0342 796 2201",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "24+ public reviews"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYPJT2obFZs61s_0uNLDV1ggeO2tip6eB9zgyRjaQ6j_0_H36Vve9EEyY-MjTl2oy9laRziRegJqLVepdrz7cF6yv8wWfl6omwaXMULI_veA9pHKhz3q0oIXsCnHeFE6TDmDEd=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYPJT2obFZs61s_0uNLDV1ggeO2tip6eB9zgyRjaQ6j_0_H36Vve9EEyY-MjTl2oy9laRziRegJqLVepdrz7cF6yv8wWfl6omwaXMULI_veA9pHKhz3q0oIXsCnHeFE6TDmDEd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHi2sqEYEXbV-FD1y0fS7uxEpqhz9O5YBSOAi_cvM_YQTzSASQbjwU7pqiUwE96Xb4-GDHsBMYlxdZnuxZ_yRGYYKOSwHbyOkKmSDlvt8Etg3G0-sTFEi42ziIQX47SRUieyRXo=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtDayQcML5pgphbvckSPt3oazSHXClCc_B-VqJeivO46xRGxKOaDytmlh45i-DIvIR0oBVfMRkjhZ-Irc6jCyw6cFE-OVc-pljBC_5NQCy97DFA9TQKcSBVAtaJjIh8LaxhtEM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzEYPb6tkX8UIPlLIcK1SzZSC9pLuqO-lpudABvFb_bx6LfOsKwXbDLG4wNUVKmnI_F6Hr0-iz5-Jy_n5gTNCNnkyOsx4B8QmyNn8XFjxLAlAcsBvw8jBIVQ5SIHCfyHdHDkfN=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2441908,
+      "lng": 87.8561268,
+      "label": "Burdwan Medical College and Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 24,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "camri-full-nabh-accredited-hospital-gangpur",
+    "name": "CAMRI Full NABH Accredited Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CAMRI Full NABH Accredited Hospital is a prominent general hospital in Gangpur, known for structured tertiary care across Spine Surgery In Barddhaman. With public-facing highlights like Google rating 3.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gangpur.",
+    "email": "",
+    "phone": "096090 00822",
+    "alternatePhone": "",
+    "website": "https://camrihospital.com/",
+    "address": "NH2, Grand Trunk Rd, Gangpur, West Bengal 713103",
+    "city": "Gangpur",
+    "state": "West Bengal",
+    "pincode": "713103",
+    "locality": "Grand Trunk Rd",
+    "landmark": "Gangpur",
+    "emergencyContact": "096090 00822",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYWjG81-oKUl5PJG9H7yl3deB-5-eVjXNjHRITagrYRhi9bCXcm3JnaUjgggS2G61VtFH7Si2jOnf7DLN2MG6G0_mApCUIRAl24JPqFaaCvL49MPvbfl6FsQ84MgiKdRQHPGlzyTZTSuH9=w1200-h900-p-k-no",
+    "logo": "https://camrihospital.com/assets/images/logo-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYWjG81-oKUl5PJG9H7yl3deB-5-eVjXNjHRITagrYRhi9bCXcm3JnaUjgggS2G61VtFH7Si2jOnf7DLN2MG6G0_mApCUIRAl24JPqFaaCvL49MPvbfl6FsQ84MgiKdRQHPGlzyTZTSuH9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2201387,
+      "lng": 87.9100745,
+      "label": "CAMRI Full NABH Accredited Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "charnock-hospital-super-specialty-hospital-kolkata",
+    "name": "Charnock Hospital - Super Specialty Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kolkata, Charnock Hospital - Super Specialty Hospital brings together specialists for Liver Transplant Surgery In Barddhaman and Speciality Care. Operational strengths including Google rating 4.2, 6+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "033 4050 0500",
+    "alternatePhone": "",
+    "website": "http://www.charnockhospital.com/",
+    "address": "BMC 195, Biswa Bangla Sarani, Dhalipara, Tegharia, Newtown, Kolkata, West Bengal 700157",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700157",
+    "locality": "Newtown",
+    "landmark": "Dhalipara",
+    "emergencyContact": "033 4050 0500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Barddhaman",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "6+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEc_UBDxBzNf7oFfatxtWt8XemHMx_9n9kAHOkAkP1DGVvyRLLSP0Jr9okBAd1OkLDokLbBcx12HuyOz7cBemFCmTCcyeys4hDsNBkSaaxWBRCV5XLN8I8L9Ydwnz6Acl7_jUyrdg=w1200-h900-p-k-no",
+    "logo": "https://charnockhospital.com/wp-content/uploads/2025/03/Charnock-Hospitals-Logo-nabh-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEc_UBDxBzNf7oFfatxtWt8XemHMx_9n9kAHOkAkP1DGVvyRLLSP0Jr9okBAd1OkLDokLbBcx12HuyOz7cBemFCmTCcyeys4hDsNBkSaaxWBRCV5XLN8I8L9Ydwnz6Acl7_jUyrdg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM493Y1ZXjsHH3BV5qLGZPHzBekNgLTpljzojmD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOmIlv2UIuSrw-xGmF8TbjJCgACioVxgcFjDYqr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOM9vq_VOKi53tahFBPucNHzPA2zfckqsAPjUDk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPQqoqxzWnwqLzo1DyZM990J5SKRlbtwqmcWGYe=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.6257993,
+      "lng": 88.4348323,
+      "label": "Charnock Hospital - Super Specialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 6,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "command-hospital-eastern-command-kolkata",
+    "name": "Command Hospital(Eastern Command)",
+    "type": "Military Hospital",
+    "ownershipType": "Military",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted military hospital in Kolkata, Command Hospital(Eastern Command) delivers integrated care across Liver Transplant Surgery In Barddhaman. The facility stands out for Google rating 4.2, 89+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "033 2479 1567",
+    "alternatePhone": "",
+    "website": "http://echs.gov.in/",
+    "address": "17/1E, Alipore Rd, Alipore Police Line, Alipore, Kolkata, West Bengal 700027",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700027",
+    "locality": "Alipore",
+    "landmark": "Alipore Police Line",
+    "emergencyContact": "033 2479 1567",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "89+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZYD_orekedXSFjOO86H_HWnFoFrl6tZtrfqOqJR_hxEHGgF2o1XZAyE3LYpYDNUDslKh0gB-K1doirRcbA_32H2h5qGyygiDBMPDg2M2D8Eozjr_iwrbUZhSaHf2mmYrBOdhXTw=w1200-h900-p-k-no",
+    "logo": "https://www.echs.gov.in/assets/img/banner%207.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZYD_orekedXSFjOO86H_HWnFoFrl6tZtrfqOqJR_hxEHGgF2o1XZAyE3LYpYDNUDslKh0gB-K1doirRcbA_32H2h5qGyygiDBMPDg2M2D8Eozjr_iwrbUZhSaHf2mmYrBOdhXTw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEy6BqfYOEg318W6pvqp9T90u4abyCfPbDYeBgt31_QOca1rkVVOnI9b6RHSecExABNR2-xJM6-k-zv0hXkcmk-kZxLWvTFpD8hWdiGiAjevz9p7mV6wlDzv5zbXLHZtuq1x45VBw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1DNY_CyCggYW5N-35u_LNV71p258V6gOqW47NwBb5S8-MndhhaCzO5va1BlenHscfRm-W6MBoFikVa9ldJCs5SIn-HYjXfYw1_AUPDgj4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1DNY_CyCggYW5N-35u_LNV71p258V6gOqW47NwBb5S8-MndhhaCzO5va1BlenHscfRm-W6MBoFikVa9ldJCs5SIn-HYjXfYw1_AUPDgj4Cv_AEvCWzVFdHAbEoO13QFwJMmi9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFp8zFbi826RerdC85zfseU9eNQ9UaC9h6UU-SHwkvYSgpiH-jNBlhgec28LmS4SkbkIEcnF8Mb25I0iwdwDKITQvFC-GV4yOGDUO0cE0WGJZM-391QUau9fdtzqr4QyLUKq6fW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5304003,
+      "lng": 88.3316927,
+      "label": "Command Hospital(Eastern Command)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 89,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "health-care-hospital-bardhaman",
+    "name": "Health Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Health Care Hospital is a prominent hospital in Bardhaman, known for structured tertiary care across Gynecologist Surgery In Barddhaman. With public-facing highlights like Google rating 4.7 and 9+ public reviews, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bardhaman.",
+    "email": "",
+    "phone": "0342 796 5286",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7R6R+8HR, Goda, Bardhaman, West Bengal 713104",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Goda",
+    "landmark": "Bardhaman",
+    "emergencyContact": "0342 796 5286",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "9+ public reviews"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMLW_xU647RRzXzRBtoYv8lIWtJ48MFCbAMyLabDoMwuLWuBg7zxrnKV24Dnw9-yo9_o6-TBHuyCXTleGujKNAWb9lh2PKNKp7aJWupIXuo3mfpZTQ8Cdftq2LDz43yFnR88EWMGDpFU0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMLW_xU647RRzXzRBtoYv8lIWtJ48MFCbAMyLabDoMwuLWuBg7zxrnKV24Dnw9-yo9_o6-TBHuyCXTleGujKNAWb9lh2PKNKp7aJWupIXuo3mfpZTQ8Cdftq2LDz43yFnR88EWMGDpFU0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEziYsbUjR-yQ0SQWxJ8rwVWodMVkl9WYzoLH8pPn26vIMjgvQaUSuNWczQRDe3E4VX0MOdIaYwVEJsGZS9hVxdiKaHaP9ZOh93C6wxcnKx20mDPccdnrusKb8oLj9yGPKcngQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2608719,
+      "lng": 87.8412433,
+      "label": "Health Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 9,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hospitalciti-bardhaman",
+    "name": "HospitalCiti",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bardhaman, HospitalCiti offers coordinated hospital care with major focus on Gynecologist Surgery In Barddhaman. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bardhaman.",
+    "email": "",
+    "phone": "070298 91696",
+    "alternatePhone": "",
+    "website": "https://hospitalciti.com/",
+    "address": "34, Raj Collegiate Rd, Nutanganj, Raiganj, Bardhaman, West Bengal 713102",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713102",
+    "locality": "Raiganj",
+    "landmark": "Nutanganj",
+    "emergencyContact": "070298 91696",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVdSrwtX5fKdP0Xfl-3u9Lx3sBXXKN607PIHRP8nCJjl-PREorUa-tBugZ68VDEaKT3G8BiUKi2X0NqCYnH70N8srKnHJ3eSGzkLXeQw30or0nw_BoagvSfiK8Zlc_9lNUC59q=w1200-h900-p-k-no",
+    "logo": "https://hospitalciti.com/favicon.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVdSrwtX5fKdP0Xfl-3u9Lx3sBXXKN607PIHRP8nCJjl-PREorUa-tBugZ68VDEaKT3G8BiUKi2X0NqCYnH70N8srKnHJ3eSGzkLXeQw30or0nw_BoagvSfiK8Zlc_9lNUC59q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2381955,
+      "lng": 87.8499212,
+      "label": "HospitalCiti",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ils-hospitals-dumdum-north-dumdum",
+    "name": "ILS Hospitals, Dumdum",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in North Dumdum often choose ILS Hospitals, Dumdum for its strength in Liver Transplant Surgery In Barddhaman. The facility stands out for Google rating 4.7, 22+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in North Dumdum.",
+    "email": "",
+    "phone": "033 4031 5001",
+    "alternatePhone": "",
+    "website": "https://ilshospitals.com/",
+    "address": "1, Mall Rd, near Ramakrishna Paramahamsadev Bridge, Golpark, Dum Dum, Kolkata, North Dumdum, West Bengal 700028",
+    "city": "North Dumdum",
+    "state": "West Bengal",
+    "pincode": "700028",
+    "locality": "Kolkata",
+    "landmark": "near Ramakrishna Paramahamsadev Bridge, Golpark, Dum Dum, Kolkata, North Dumdum, West Bengal 700028",
+    "emergencyContact": "033 4031 5001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "22+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfomXHBVSRNB6t2TD3pPuL6VYjQo4t1_VoPx4NuSKjK4wXwitezmWM70XH4dahVOQ44hkVeSfTQEqw-PM55ve_0KH0vvs9pHMS4toVBwVbRTrCaTyUl8lWOugEWaeVbs1Yr7SZ=w1200-h900-p-k-no",
+    "logo": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfomXHBVSRNB6t2TD3pPuL6VYjQo4t1_VoPx4NuSKjK4wXwitezmWM70XH4dahVOQ44hkVeSfTQEqw-PM55ve_0KH0vvs9pHMS4toVBwVbRTrCaTyUl8lWOugEWaeVbs1Yr7SZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4reJWFLAD1LH7Pp8CSxyQboGpDz2eRnP0Zi5B7--qiGrzfE3dvVdgUFJZa2qLqxWBL2MAMWuSTBvPgoOTXVfwiinzDfdX4UqEXKsKm2-depHhGqKIO-zgImP90Lh4QCrVJ7cdvQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFWt756gCsItKSI6alt5qTszsyCsHbhwBMHy_LEyw_Rdtb0mAP5chNmB1aMuF3wxAU9xUW-DCvQpF9NEYjpwMCEs_J1LWYjuoqBviuvL0Cfzx87QCu-j9aDPZqiEU7PQrf9GGfZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG79PAhDcOx37ivMgI6JuGVhet3cnfkgdr8WgpdBxMj4BPAx5LyYN5fhGcoREwuiwXdRtL5nE-BE79lm6A0CiE7fcUv4zzsqPITQNQp-17_d3E-BtIJ89HibYkm71L8DQoJDiLKEatpTEEQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.624582,
+      "lng": 88.417126,
+      "label": "ILS Hospitals, Dumdum",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 22,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "indian-institute-of-liver-and-digestive-sciences-kolkata",
+    "name": "Indian Institute of Liver and Digestive Sciences",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kolkata, Indian Institute of Liver and Digestive Sciences delivers integrated care across Liver Transplant Surgery In Barddhaman, Liver Care, and Digestive Care. Hospital capacity markers such as Google rating 3.8, 29+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "033 2434 2300",
+    "alternatePhone": "",
+    "website": "http://iilds.in/",
+    "address": "Shitala, East Sonarpur, Kolkata, West Bengal 700150",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700150",
+    "locality": "East Sonarpur",
+    "landmark": "Kolkata",
+    "emergencyContact": "033 2434 2300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Barddhaman",
+      "Liver Care",
+      "Digestive Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "29+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpsvM7iWmYu3T8UCyuVy1VNesWrR2bVtBdH0Hf-tKMAsEwQRHP-QiLf21Nk1oyC6jTAFtk8BRORqRowbRVZ9L-hVqV_dXA15dkcemMnnxhGpwLwx8OAcevunUb-oqbCFZdLw02fwQaleCQ=w1200-h900-p-k-no",
+    "logo": "https://iilds.in/images/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpsvM7iWmYu3T8UCyuVy1VNesWrR2bVtBdH0Hf-tKMAsEwQRHP-QiLf21Nk1oyC6jTAFtk8BRORqRowbRVZ9L-hVqV_dXA15dkcemMnnxhGpwLwx8OAcevunUb-oqbCFZdLw02fwQaleCQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsGFnNqg4aAXBkNnS8BjkPEkgIoHUgkWVy2fX5RPuOzpn4XcM-Kg_zWhHy_8b9vPVr5lQj68M8utFn47lpMLeLWur5hSwcKgXjM7NMrAlcuroELGtbxNiX8eAnTgED0tPEojVErw-OeYQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1hvZwAKInlsac_8C6dDtEd7tZhSCyVW3DHiNSScGo_JtHCvkSHr7sYe6NHi_CLeS7L5uECcGJkQ6-tVFJ-rNKnWRTtjMJibiTd8JvMswahTM1ANYrOgdTAJSsouPWKb2JELe73rKnHMAg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGVnrInMhQM-duIKsEm4LU26ABXcG0UvNMjE9r8FT_EYfGCnrcQrjwszQMdbvcp36QMb7geskg4UelLfq8qO4mkFp-eVwy9vEUscr2XJR0ZtEqGBLbFHfvrrTN7mHNvaYGoh_m=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdPbOurU7T6FEeYjMHC2BYiPXFyUBrbYI61YZLHyKELAAgaHfi73imJ0nXSPjAI8-Z-uua-sCti63rRZyDflMVMwvG6xsDHC7UTCtf3CNUE6y7azCf3qjjRjb_af_YbQD133qR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.4362319,
+      "lng": 88.4537972,
+      "label": "Indian Institute of Liver and Digestive Sciences",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 29,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kims-hospital-bardhaman",
+    "name": "KIMS HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bardhaman, KIMS HOSPITAL offers coordinated hospital care with major focus on Spine Surgery In Barddhaman. Hospital capacity markers such as Google rating 3.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bardhaman.",
+    "email": "",
+    "phone": "081166 02166",
+    "alternatePhone": "",
+    "website": "https://kimsburdwan.in/",
+    "address": "Alisha, Bardhaman, West Bengal 713103",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713103",
+    "locality": "Alisha",
+    "landmark": "West Bengal 713103",
+    "emergencyContact": "081166 02166",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqN8ZOGiXG4GA09BWsYTWrEUejeqI-b-k37ebJoHdJ3lXNgJjN02V5p2aRLOZRqBFLWaZhIk4eiOv6l1P1t3M_ilZo2IM0xsisVde_30YK2UpbWiQtiR8uVIo9grBHntkqRMzdSg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqN8ZOGiXG4GA09BWsYTWrEUejeqI-b-k37ebJoHdJ3lXNgJjN02V5p2aRLOZRqBFLWaZhIk4eiOv6l1P1t3M_ilZo2IM0xsisVde_30YK2UpbWiQtiR8uVIo9grBHntkqRMzdSg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.218271,
+      "lng": 87.892368,
+      "label": "KIMS HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kisholoy-children-s-hospital-bardhaman",
+    "name": "Kisholoy Children's Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bardhaman, Kisholoy Children's Hospital delivers integrated care across Gynecologist Surgery In Barddhaman and Women and Child Care. With public-facing highlights like Google rating 4.6, 2+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bardhaman.",
+    "email": "",
+    "phone": "095641 04000",
+    "alternatePhone": "",
+    "website": "https://kisholoychildrenhospital.com/",
+    "address": "Purba, 69, Grand Trunk Rd, Purbachal, Sripally, Police LIne Bazar, Kanainatshal P, Bardhaman, West Bengal 713103",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713103",
+    "locality": "Kanainatshal P",
+    "landmark": "Grand Trunk Rd",
+    "emergencyContact": "095641 04000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Barddhaman",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "2+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9qryUyNBmper6gbVFfAXlIG3smabp0LFrlgK54LMfyRjhPekoxm1yy0XqGOZaoKZXearTgUaxwcfsQTC3P0vvRZRseOGhqrdt-MSTj2gOjJA9hb96kJWuCLmqGIwlVPTOqHP4bZD2FKdm=w1200-h900-p-k-no",
+    "logo": "https://kisholoychildrenhospital.com/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9qryUyNBmper6gbVFfAXlIG3smabp0LFrlgK54LMfyRjhPekoxm1yy0XqGOZaoKZXearTgUaxwcfsQTC3P0vvRZRseOGhqrdt-MSTj2gOjJA9hb96kJWuCLmqGIwlVPTOqHP4bZD2FKdm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXEw6Vr2UbAsUTqxaZxmYaHJfuLLp7XbRVLYHkxjFOj0dDpGc84tHpuUvAf7mpCVNOWLuslNoECr0weO3Nbda1xyD8ouKLV_sULHaSyAWo4OKZJtaw9B1MkYLCcKd8h8PZumnPCg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2244397,
+      "lng": 87.8804037,
+      "label": "Kisholoy Children's Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 2,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lifeguard-multi-speciality-hospital-pvt-ltd-bardhaman",
+    "name": "LIFEGUARD MULTI-SPECIALITY HOSPITAL PVT. LTD.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "LIFEGUARD MULTI-SPECIALITY HOSPITAL PVT. LTD. has built a strong reputation in Bardhaman for multidisciplinary treatment pathways covering Orthopedic Surgery In Barddhaman and Speciality Care. The facility stands out for Google rating 4.6, 1+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Bardhaman.",
+    "email": "",
+    "phone": "076799 25252",
+    "alternatePhone": "",
+    "website": "http://www.lifeguardmshospital.com/",
+    "address": "near BANK OF INDIA, Goda, Nababhat, Bardhaman, West Bengal 713104",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Nababhat",
+    "landmark": "Nababhat",
+    "emergencyContact": "076799 25252",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Barddhaman",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "1+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4nOQqOEFItJsUvp7m4lsShehr1c1cD7jcyP6zJF1iPYFZDw_fvbSxkiMax8BCXoXHR2G-X5D3km4RuRyNUkNE0zUiGVawSRFRdXhd-McXCem98Krlp42ym2muC4fcSirypAMd=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4nOQqOEFItJsUvp7m4lsShehr1c1cD7jcyP6zJF1iPYFZDw_fvbSxkiMax8BCXoXHR2G-X5D3km4RuRyNUkNE0zUiGVawSRFRdXhd-McXCem98Krlp42ym2muC4fcSirypAMd=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2633092,
+      "lng": 87.8351996,
+      "label": "LIFEGUARD MULTI-SPECIALITY HOSPITAL PVT. LTD.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 1,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "meditech-hospital-bardhaman",
+    "name": "Meditech Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Meditech Hospital is a prominent hospital in Bardhaman, known for structured tertiary care across Urologist Surgery In Barddhaman. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bardhaman.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Suri Rd, Nababhat, Bardhaman, West Bengal 713104",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Nababhat",
+    "landmark": "Bardhaman",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8HMuZv8f1ErwtO3vQjxel5xfEpjuhxwdmRfWqHktjjoQIuzB6n3w13clso3IW0u3G2OaURZpF3-BPVeCcTdFAhioByyPFTr98S-2avYHSwv_8hwfO-a_aJ5qgrkzlhZmq2qeFOx8S1Uk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8HMuZv8f1ErwtO3vQjxel5xfEpjuhxwdmRfWqHktjjoQIuzB6n3w13clso3IW0u3G2OaURZpF3-BPVeCcTdFAhioByyPFTr98S-2avYHSwv_8hwfO-a_aJ5qgrkzlhZmq2qeFOx8S1Uk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2667772,
+      "lng": 87.8324965,
+      "label": "Meditech Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "narayana-hospital-barasat-kolkata",
+    "name": "Narayana Hospital Barasat",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Narayana Hospital Barasat is a prominent private hospital in Kolkata, known for structured tertiary care across Liver Transplant Surgery In Barddhaman. Operational strengths including Google rating 4.7, 187+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080 6215 4091",
+    "alternatePhone": "",
+    "website": "https://www.narayanahealth.org/hospitals/barasat/narayana-multispeciality-hospital-barasat/?utm_source",
+    "address": "78, Jessore Rd, Barasat, Kolkata, West Bengal 700127",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700127",
+    "locality": "Barasat",
+    "landmark": "Barasat",
+    "emergencyContact": "080 6215 4091",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "187+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG54SrcmnRXXLoKw50dEQ1I7_Q-LqkbFgFAkGXFS6S_E1lK4kEh5iYDpTdSOGZxQgnKiOBLrKw9-4tdGy3mj3vZ_p9foR2u3Pne_V5V45leE_aTn-R1wYYlTUSBzy0xsWmankyb57yfwpT4=w1200-h900-p-k-no",
+    "logo": "https://www.narayanahealth.org/images/nh-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG54SrcmnRXXLoKw50dEQ1I7_Q-LqkbFgFAkGXFS6S_E1lK4kEh5iYDpTdSOGZxQgnKiOBLrKw9-4tdGy3mj3vZ_p9foR2u3Pne_V5V45leE_aTn-R1wYYlTUSBzy0xsWmankyb57yfwpT4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOgjVFyQjMTCE_7qc6O8kYCUDJrAnES-F4WxUDT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNw9bojgetVIFZqAoYbHxahA_ny-nzKg7V0Yp9H=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPyUHLtcE9OyncjWRHUNbZrA5i8DPqozlmCTlB0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMJalgHYuk2vwHoGjVM7qX5MHAOQ14F9NsMvH-6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.7052749,
+      "lng": 88.4721733,
+      "label": "Narayana Hospital Barasat",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 187,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "new-life-hospital-bardhaman",
+    "name": "NEW LIFE HOSPITAL",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NEW LIFE HOSPITAL is a prominent private hospital in Bardhaman, known for structured tertiary care across Spine Surgery In Barddhaman. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bardhaman.",
+    "email": "",
+    "phone": "097346 66999",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Saraitikar, Grand Trunk Rd, Bardhaman, West Bengal 713104",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Grand Trunk Rd",
+    "landmark": "Bardhaman",
+    "emergencyContact": "097346 66999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEN0UmrAc4rlHN57ifjTR_qFQTlpcnzpE6nT04tnxcnebfdrvdzAmhzs4Ulu8xqHjkixON-n7FUzMIqwDwMQaTghbQ9rC2Q4DA2iqa7-mL7hPRLZ6vifr1sxkEwcoFvIJD-sxWhCg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEN0UmrAc4rlHN57ifjTR_qFQTlpcnzpE6nT04tnxcnebfdrvdzAmhzs4Ulu8xqHjkixON-n7FUzMIqwDwMQaTghbQ9rC2Q4DA2iqa7-mL7hPRLZ6vifr1sxkEwcoFvIJD-sxWhCg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2586438,
+      "lng": 87.847485,
+      "label": "NEW LIFE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "olivia-multispeciality-hospital-goda-p",
+    "name": "OLIVIA MULTISPECIALITY HOSPITAL",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Goda P, OLIVIA MULTISPECIALITY HOSPITAL brings together specialists for Spine Surgery In Barddhaman and Speciality Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Goda P.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://oliviamultispecialityhospital.com/",
+    "address": "Grand Trunk Rd, Nawabhat, More, Bardhaman, Goda P, West Bengal 713104",
+    "city": "Goda P",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Bardhaman",
+    "landmark": "More",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Barddhaman",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTjBXRODTPxrzDQCkmE8f_74D8Cp_8m_TM7WE87DkV3Dds3dBB_1Yr4rGUhViFdXVgWGO6FWy10p2RKIFuoIu5iYXLWmeG5k8bRN7tpGc8_1rR0_9NRLdIbsGYaQOQ3hwxtAdcqV7cFRg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTjBXRODTPxrzDQCkmE8f_74D8Cp_8m_TM7WE87DkV3Dds3dBB_1Yr4rGUhViFdXVgWGO6FWy10p2RKIFuoIu5iYXLWmeG5k8bRN7tpGc8_1rR0_9NRLdIbsGYaQOQ3hwxtAdcqV7cFRg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2648626,
+      "lng": 87.832226,
+      "label": "OLIVIA MULTISPECIALITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "parkview-super-speciality-hospital-kolkata",
+    "name": "Parkview Super Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Parkview Super Speciality Hospital has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Liver Transplant Surgery In Barddhaman and Speciality Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "033 4059 1111",
+    "alternatePhone": "",
+    "website": "http://www.parkviewhospital.in/",
+    "address": "HB 36 –A / 4 & A / 5/ 1, Salt Lake Bypass, HB Block, Sector 3, Bidhannagar, Kolkata, West Bengal 700106",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700106",
+    "locality": "Bidhannagar",
+    "landmark": "HB Block",
+    "emergencyContact": "033 4059 1111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Barddhaman",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnszrRM3PrvSNV_qLb4k15tiJE71vXdjMp85G3zJ6DtMEUOFf4gHhYnllDpEKuU35oFbCOZI6USPr4f2LevOScJbwuSHMW45SUOYMHUfBcCpyzQvTyDU52QiONo59CwYPtPxrBqw=w1200-h900-p-k-no",
+    "logo": "https://www.parkviewhospital.in/wp-content/themes/parkview/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnszrRM3PrvSNV_qLb4k15tiJE71vXdjMp85G3zJ6DtMEUOFf4gHhYnllDpEKuU35oFbCOZI6USPr4f2LevOScJbwuSHMW45SUOYMHUfBcCpyzQvTyDU52QiONo59CwYPtPxrBqw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5751387,
+      "lng": 88.4172367,
+      "label": "Parkview Super Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "prativa-multispeciality-hospital-ulhas",
+    "name": "Prativa Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ulhas often choose Prativa Multispeciality Hospital for its strength in Oncologist Surgery In Barddhaman and Speciality Care. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ulhas.",
+    "email": "",
+    "phone": "075849 25271",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH-2, Bamchandaipur, Ulhas, West Bengal 713103",
+    "city": "Ulhas",
+    "state": "West Bengal",
+    "pincode": "713103",
+    "locality": "Bamchandaipur",
+    "landmark": "Ulhas",
+    "emergencyContact": "075849 25271",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Barddhaman",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_RjLD18HSN7ixWqta-nV2nrQo7pxPEUyuxqTlHBRT2ZGrRT57TrACpOmb1Ph3quvQYgx7IUrAfcQap5XbZ6FZVKbo-T8wVIH1Bxh4lKLdYNTopXyMtk8c6bqN-IvSWIqxbhNs=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_RjLD18HSN7ixWqta-nV2nrQo7pxPEUyuxqTlHBRT2ZGrRT57TrACpOmb1Ph3quvQYgx7IUrAfcQap5XbZ6FZVKbo-T8wVIH1Bxh4lKLdYNTopXyMtk8c6bqN-IvSWIqxbhNs=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.220065,
+      "lng": 87.9007612,
+      "label": "Prativa Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pulse-care-hospital-goda-p",
+    "name": "PULSE CARE HOSPITAL",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "PULSE CARE HOSPITAL has built a strong reputation in Goda P for multidisciplinary treatment pathways covering Laparoscopic Surgery In Barddhaman. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Goda P.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://pulsecarehospital.com/",
+    "address": "7R8G+GFG, Goda P, West Bengal 713104",
+    "city": "Goda P",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "",
+    "landmark": "West Bengal 713104",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIf8x8g-_5k4Ny4UnphbPJJQdNaHm0L0As9R13Et11mNfjoT5AzrDAbOw7NVjt-6yIWQmSHXrBEpsBxE4vd721_SG-N2_gOrD-Y4z0ouqkl9P_cZYb2fTpHHedu-C8DFAN4qDEHbFfh90=w1200-h900-p-k-no",
+    "logo": "http://www.pulsecarehospital.com/wp-content/uploads/2026/06/fulllogo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIf8x8g-_5k4Ny4UnphbPJJQdNaHm0L0As9R13Et11mNfjoT5AzrDAbOw7NVjt-6yIWQmSHXrBEpsBxE4vd721_SG-N2_gOrD-Y4z0ouqkl9P_cZYb2fTpHHedu-C8DFAN4qDEHbFfh90=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP9qP92LAJ1pSSEuQiFqGPceIAhImUuYgk5KNTM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMgDS1FTSP-8OtaLPoiu3zxz0_SyPKwqDl6FiNC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOcFEgfQ7mojPj2sYQNJDEzmAGoaYyB7_nG6r_c=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNWiLm9e1znHbaDCC66SdB8lYzsjFj6aY1TEpfg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.266798,
+      "lng": 87.8256395,
+      "label": "PULSE CARE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rehab-clinic-bardhaman",
+    "name": "Rehab Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bardhaman, Rehab Clinic brings together specialists for Spine Surgery In Barddhaman. Operational strengths including Google rating 3.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Bardhaman.",
+    "email": "",
+    "phone": "097356 74058",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rehab Clinic, 31, Ramkrishna Road, Purba, Khosbagan, Bardhaman, West Bengal 713103",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713103",
+    "locality": "Khosbagan",
+    "landmark": "Ramkrishna Road",
+    "emergencyContact": "097356 74058",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfOc53-uC68_EVViavxFl9_X1Lrd1YndKEBtQyjR34QDvvws5t9PDgOx5Bi-wdp9bSnl8KMt3M9jmxuhxRn_LU58butCj96VhSzjuFtj5Z_D0pxucPSBSAOs0UGCD20v7xzs61=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfOc53-uC68_EVViavxFl9_X1Lrd1YndKEBtQyjR34QDvvws5t9PDgOx5Bi-wdp9bSnl8KMt3M9jmxuhxRn_LU58butCj96VhSzjuFtj5Z_D0pxucPSBSAOs0UGCD20v7xzs61=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2448216,
+      "lng": 87.8619323,
+      "label": "Rehab Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "saaol-heart-center-bardhaman-gopalnagar-p",
+    "name": "SAAOL Heart Center Bardhaman",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SAAOL Heart Center Bardhaman has built a strong reputation in Gopalnagar P for multidisciplinary treatment pathways covering Heart Surgery In Barddhaman and Cardiac Care. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gopalnagar P.",
+    "email": "",
+    "phone": "097495 61171",
+    "alternatePhone": "",
+    "website": "https://saaol.com/all-centers-location/west-bengal/bardhaman",
+    "address": "294/1, East, Indrakanan, Sripally, Police LIne Bazar, Bardhaman, Gopalnagar P, West Bengal 713103",
+    "city": "Gopalnagar P",
+    "state": "West Bengal",
+    "pincode": "713103",
+    "locality": "Bardhaman",
+    "landmark": "Indrakanan",
+    "emergencyContact": "097495 61171",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Barddhaman",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=23.2224588%2C87.881217&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://saaol.com/psd/assets/images/webp/logo.webp",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=23.2224588%2C87.881217&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=23.2224588%2C87.881217&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=23.2224588%2C87.881217&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2224588,
+      "lng": 87.881217,
+      "label": "SAAOL Heart Center Bardhaman",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sharanya-multispeciality-hospital-gopalnagar",
+    "name": "Sharanya Multispeciality Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sharanya Multispeciality Hospital is a prominent general hospital in Gopalnagar, known for structured tertiary care across Kidney Transplant Surgery In Barddhaman and Speciality Care. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Gopalnagar.",
+    "email": "",
+    "phone": "094756 41904",
+    "alternatePhone": "",
+    "website": "http://www.sharanyahospital.com/",
+    "address": "Opposite St. Pauls Academy, NH 19, old NH2, Gopalnagar, West Bengal 713103",
+    "city": "Gopalnagar",
+    "state": "West Bengal",
+    "pincode": "713103",
+    "locality": "old NH2",
+    "landmark": "old NH2",
+    "emergencyContact": "094756 41904",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Barddhaman",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFMa5LD0i6Z7yduThIT4Bp27Lg9_PFTckupMAaEejcW0m-fv3-5Zmjrb1E6ZH1xab7LsPZF6n21xqZRSQjJPyqdUuwGxpJvkULD7R1HsNq1CmdD6pusUAOnobGwrNNR60q_jId=w1200-h900-p-k-no",
+    "logo": "https://www.sharanyahospital.com/images/LOGO SHARANYA-01.webp?v=2",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFMa5LD0i6Z7yduThIT4Bp27Lg9_PFTckupMAaEejcW0m-fv3-5Zmjrb1E6ZH1xab7LsPZF6n21xqZRSQjJPyqdUuwGxpJvkULD7R1HsNq1CmdD6pusUAOnobGwrNNR60q_jId=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM_7oyvNmxpcjOrD3FVDH7e4egelyl-sbssEFas=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMrvjKnJoKinvQa58i71mUkdO9DX6RunIQJoVNW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOKrubd4NZnGIuopeNIPn9WITDw2fppd-sph2aU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO8fw6POLmWiQtSVfHvdy87_8GVFPK2gC7fZSzn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2202842,
+      "lng": 87.9070455,
+      "label": "Sharanya Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "super-speciality-wing-anamoy-hospital-b-m-c-and-h-bardhaman",
+    "name": "Super Speciality Wing(Anamoy) Hospital, B.M.C & H",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bardhaman, Super Speciality Wing(Anamoy) Hospital, B.M.C & H brings together specialists for Spine Surgery In Barddhaman and Speciality Care. Its infrastructure includes Google rating 4.0, 334+ public reviews, and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Bardhaman can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "033 2302 2819",
+    "alternatePhone": "",
+    "website": "https://bmcgov.com/annex/annex-2-shambhu-nath-pandit-hospital",
+    "address": "National Highway 2, Burdwan Ho, Bamchandaipur, Post, Jotram, Bardhaman, West Bengal 713103",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713103",
+    "locality": "Jotram",
+    "landmark": "Bamchandaipur",
+    "emergencyContact": "033 2302 2819",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Barddhaman",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "334+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHTnuEzV24KhZ5nLaLc2OwZvzzziLzK7URqvukD9DEahKwIJoNHM7ucIw7-o9T6WhdA19avhVAd8NS7zYjqm9jrPalRMVbOd7nNXHiAqkg6bF3-l47xkYK1Og0aBKxf7iANVSR=w1200-h900-p-k-no",
+    "logo": "https://bmcgov.com/assets/user/images/bmc_logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHTnuEzV24KhZ5nLaLc2OwZvzzziLzK7URqvukD9DEahKwIJoNHM7ucIw7-o9T6WhdA19avhVAd8NS7zYjqm9jrPalRMVbOd7nNXHiAqkg6bF3-l47xkYK1Og0aBKxf7iANVSR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGsp8jWb9xB3V6D-zLQr0QI3MYtzFq8X5RTAX-vIBuw2NFtDqRyUizlvn1U-Ui-lMD-6tDIB31W2zRenu9k7jUHeFT-t3gw3xiBloWsAlP1TyioeGv3ZKOioPzcGOIhFyOIMbf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFKZXP22vEPfCNSayqGsqmGYjK6COCO_ZZy0DUFOtZoyELQTtrMGJP1GrJtl4pTVdcizBauWwf-6LFmu5boY5xJm8DnxFGBBffVf4W1TNxS7QPJjlzT-axFT3YjMuiR7CcsAbM0tAcL8DE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2188145,
+      "lng": 87.8981773,
+      "label": "Super Speciality Wing(Anamoy) Hospital, B.M.C & H",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 334,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "swasthya-niketan-hospital-goda-p",
+    "name": "Swasthya Niketan hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Swasthya Niketan hospital is a prominent hospital in Goda P, known for structured tertiary care across Spine Surgery In Barddhaman. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Goda P.",
+    "email": "",
+    "phone": "090020 06560",
+    "alternatePhone": "",
+    "website": "http://swasthyaniketan.co.in/",
+    "address": "Grand Trunk Rd, Basudev Pally, Khagragorh, Bardhaman, Goda P, West Bengal 713104",
+    "city": "Goda P",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Bardhaman",
+    "landmark": "Khagragorh",
+    "emergencyContact": "090020 06560",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7zI9uU4hZ520YucL4v-Y7_-H2L5BTN5MC8oXOTLy8TrYVFjz1IPCzebjpHq_6EQ8J6ymlJxueh-qeHQzqaqN0tt90NV6nDgUSVuag4ijpxD0EqRxAqPLBDBE39xEq3-uyM_4N=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7zI9uU4hZ520YucL4v-Y7_-H2L5BTN5MC8oXOTLy8TrYVFjz1IPCzebjpHq_6EQ8J6ymlJxueh-qeHQzqaqN0tt90NV6nDgUSVuag4ijpxD0EqRxAqPLBDBE39xEq3-uyM_4N=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNvKK5H4U1mHrK-_Ozm8oagQQWmKoST0b-QYgng=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN-DKZRtJYPaSLxRpjeq2EJ37hk2goP6QkYjg27=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2615,
+      "lng": 87.8422968,
+      "label": "Swasthya Niketan hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "teresa-memorial-hospital-bamchandaipur",
+    "name": "Teresa Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Teresa Memorial Hospital has built a strong reputation in Bamchandaipur for multidisciplinary treatment pathways covering Liver Transplant Surgery In Barddhaman. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Bamchandaipur.",
+    "email": "",
+    "phone": "074777 97607",
+    "alternatePhone": "",
+    "website": "https://www.teresamemorialhospital.com/",
+    "address": "NH 2, beside Anamoy Superspeciality Hospital, Bamchandaipur, West Bengal 713103",
+    "city": "Bamchandaipur",
+    "state": "West Bengal",
+    "pincode": "713103",
+    "locality": "beside Anamoy Superspeciality Hospital",
+    "landmark": "beside Anamoy Superspeciality Hospital, Bamchandaipur, West Bengal 713103",
+    "emergencyContact": "074777 97607",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3CQQsZtP1kB2c-mxk44WJu4Ah4Af8LZcG3VEiFsgTti7BO9RHqgzkHWf7QRN5ZAJE_jSzfLWLqC9H6Yt03CNodFgvXmFSToHPqv61BkfJzoKTm6OxK5bcCBZ9pasH3K9Ro6hMKw=w1200-h900-p-k-no",
+    "logo": "https://teresamemorialhospital.com/wp-content/uploads/2023/02/logo-@Q2.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3CQQsZtP1kB2c-mxk44WJu4Ah4Af8LZcG3VEiFsgTti7BO9RHqgzkHWf7QRN5ZAJE_jSzfLWLqC9H6Yt03CNodFgvXmFSToHPqv61BkfJzoKTm6OxK5bcCBZ9pasH3K9Ro6hMKw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2194144,
+      "lng": 87.8994052,
+      "label": "Teresa Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tertiary-cancer-care-centre-burdwan-bardhaman",
+    "name": "Tertiary Cancer Care Centre, Burdwan",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bardhaman, Tertiary Cancer Care Centre, Burdwan offers coordinated hospital care with major focus on Oncologist Surgery In Barddhaman. Hospital capacity markers such as Google rating 3.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Bardhaman.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6VX4+Q34, Baburbag, Bardhaman, West Bengal 713104",
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Baburbag",
+    "landmark": "Bardhaman",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTddkcpOrn7L9oWBoRJ1dL3GSEXxmtSbCjOn8vmxHTYycuHgE0fudl3rKu-q768gm4vHLpaNTkBpfkbBB1fUHy6vGM643vGpU_dn5ZQ83dmCdCswvEdqjKhdC-enCBiqWVnZ65phANc6et=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTddkcpOrn7L9oWBoRJ1dL3GSEXxmtSbCjOn8vmxHTYycuHgE0fudl3rKu-q768gm4vHLpaNTkBpfkbBB1fUHy6vGM643vGpU_dn5ZQ83dmCdCswvEdqjKhdC-enCBiqWVnZ65phANc6et=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2493883,
+      "lng": 87.8552105,
+      "label": "Tertiary Cancer Care Centre, Burdwan",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "the-sun-hospital-kolkata",
+    "name": "The Sun Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Kolkata, The Sun Hospital delivers integrated care across Kidney Transplant Surgery In Barddhaman. Hospital capacity markers such as Google rating 3.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0342 265 8343",
+    "alternatePhone": "",
+    "website": "",
+    "address": "874, G.T.Road, Badshai Road Crossing, Burdwan, Kolkata, West Bengal 713104",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "713104",
+    "locality": "Burdwan",
+    "landmark": "Badshai Road Crossing",
+    "emergencyContact": "0342 265 8343",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Barddhaman"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH72PgoAU5gdc85rGwNFpxqil4YXT1FyDETuplx0XdMognjomP7SbkcJM7-yosG6oRDmvDmxT4w1RPgrwZtQN8JxjMOaIfvsNL6ZpuYEFS39N9d-ssciWzhYC0Kc-sC9ZD8Pac=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH72PgoAU5gdc85rGwNFpxqil4YXT1FyDETuplx0XdMognjomP7SbkcJM7-yosG6oRDmvDmxT4w1RPgrwZtQN8JxjMOaIfvsNL6ZpuYEFS39N9d-ssciWzhYC0Kc-sC9ZD8Pac=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.2546627,
+      "lng": 87.8583922,
+      "label": "The Sun Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

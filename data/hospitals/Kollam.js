@@ -1,0 +1,2860 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "a-a-rahim-memorial-district-hospital-kollam-kollam",
+    "name": "A.A Rahim Memorial District Hospital , Kollam",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kollam, A.A Rahim Memorial District Hospital , Kollam offers coordinated hospital care with major focus on Heart Surgery In Kollam. With public-facing highlights like Google rating 3.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kollam.",
+    "email": "",
+    "phone": "0474 276 8667",
+    "alternatePhone": "",
+    "website": "",
+    "address": "VHPP+W69 Bus Stand, Hospital Junction, Hospital Rd, Chinnakada, Kollam, Kerala 691001",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691001",
+    "locality": "Chinnakada",
+    "landmark": "Hospital Rd",
+    "emergencyContact": "0474 276 8667",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5zNxs2zyYF9eKkSNti3ixcq7K7NgfU_co1j7oMwKsVVkNULpLE9JrvSDKbc3xpotG3fz_z0Jp-po6g16BvanCH_ruJON1jJhWspfW6neWYrbPc_NIW9yDyD96v005J7ekEcVQJw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5zNxs2zyYF9eKkSNti3ixcq7K7NgfU_co1j7oMwKsVVkNULpLE9JrvSDKbc3xpotG3fz_z0Jp-po6g16BvanCH_ruJON1jJhWspfW6neWYrbPc_NIW9yDyD96v005J7ekEcVQJw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8878157,
+      "lng": 76.5846469,
+      "label": "A.A Rahim Memorial District Hospital , Kollam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amm-hospital-kollam",
+    "name": "AMM Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "AMM Hospital is a prominent hospital in Kollam, known for structured tertiary care across Heart Surgery In Kollam. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kollam.",
+    "email": "",
+    "phone": "0474 273 1145",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Randamkutty, Uliyakovil, NH 208, Mangad, Kollam, Kerala 691004",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691004",
+    "locality": "Mangad",
+    "landmark": "NH 208",
+    "emergencyContact": "0474 273 1145",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEm3b6hzTadNMGPCpAqZe6b4p1qwuMuDxq98kkD7E-DSKaqzmfYYAlgg0lsmiLQSNU3AMLKK1DTg3fbRHdIYsjE6ySflKdlb1G9mMZPXkWAe4NPBrlXtTvxPWVui_QXuc0ohVi7og=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEm3b6hzTadNMGPCpAqZe6b4p1qwuMuDxq98kkD7E-DSKaqzmfYYAlgg0lsmiLQSNU3AMLKK1DTg3fbRHdIYsjE6ySflKdlb1G9mMZPXkWAe4NPBrlXtTvxPWVui_QXuc0ohVi7og=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.89912,
+      "lng": 76.6158401,
+      "label": "AMM Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ashtamudi-hospital-kollam",
+    "name": "Ashtamudi Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kollam, Ashtamudi Hospital offers coordinated hospital care with major focus on Heart Surgery In Kollam. The facility stands out for Google rating 3.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kollam.",
+    "email": "",
+    "phone": "097456 65652",
+    "alternatePhone": "",
+    "website": "http://www.ashtamudihospitalandtraumacare.com/",
+    "address": "VJCV+C9W, Kollam Bypass, Thattamala, Mylapure, Mevaram, Kollam, Thazhuthala, Kerala 691020",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691020",
+    "locality": "Mevaram",
+    "landmark": "Thattamala",
+    "emergencyContact": "097456 65652",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEoTsmofByMftOeFBOUIhfpt9bDafGdHP7UcV8vqzWO3JSTRnwLRybpVkyH4IQcMzv1WieOvrb88fqeaxpdUN3owAas1epg1chyKfZKHJ2JjNbBxmtJaP-z28SwZsMvndQaTXGPAw=w1200-h900-p-k-no",
+    "logo": "http://ashtamudihospitalandtraumacare.com/wp-content/uploads/2019/08/AHTCC_logo_bottom.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEoTsmofByMftOeFBOUIhfpt9bDafGdHP7UcV8vqzWO3JSTRnwLRybpVkyH4IQcMzv1WieOvrb88fqeaxpdUN3owAas1epg1chyKfZKHJ2JjNbBxmtJaP-z28SwZsMvndQaTXGPAw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8711018,
+      "lng": 76.643449,
+      "label": "Ashtamudi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bishop-benziger-hospital-kollam",
+    "name": "Bishop Benziger Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kollam, Bishop Benziger Hospital brings together specialists for Oral Surgery In Kollam. Its infrastructure includes Google rating 4.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kollam.",
+    "email": "",
+    "phone": "0474 275 7000",
+    "alternatePhone": "",
+    "website": "https://www.bishopbenzigerhospital.com/",
+    "address": "Benziger Hospital Rd, Mundakkal Village, Kollam, Kerala 691001",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691001",
+    "locality": "Mundakkal Village",
+    "landmark": "Kollam",
+    "emergencyContact": "0474 275 7000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEEcbH8ApxVVkryVEUaJiWnAkv77u7YXeArUcilGWdycKkO2IJdZ6VSOW9-vL2dK_BGKq8Sa2sJCm5nwrDizZiGcAZgWi6hAhj2FpQpCUTEwnE-QCjrn7GEtdajDQCIAGJk3Siy=w1200-h900-p-k-no",
+    "logo": "http://www.bishopbenzigerhospital.com/images/small-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEEcbH8ApxVVkryVEUaJiWnAkv77u7YXeArUcilGWdycKkO2IJdZ6VSOW9-vL2dK_BGKq8Sa2sJCm5nwrDizZiGcAZgWi6hAhj2FpQpCUTEwnE-QCjrn7GEtdajDQCIAGJk3Siy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEX9_M7ulM9wHOkInWub4mzBlURC0nDlCosNKBiPZRSZSAeG57NEbRQinIKkuCc596fCDMwwvqsFKjupzrCyhV0z0NNL1CkZ-LXDhp7xKmV26Mo9YXXfZXM07CeciJXJQWMuTYU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfcKUSd54W6A1ISr3r8Hwa3wXtuqvV7ZJIx9Mm9ef37_L6BAR1qEUBs_hE9gSiftfCoFq4SM1Hy4gpByqfUGR2m64FcDTnv6APMoL0EuIuea2_fY4AjfzkBJDMs8z9fHCVA6LzDqI2cJLf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGH-PaR7KP0KyB-BDSHQcqnoVfySgCNiLhfSjdh3QutqOGve9KthyHtJiNDC4tO9pLNPK5oi3V8t7PCC81kz_R_zCBYAjihNfff782VsfjETCO6f2yfMIh8VpOkxOz7LEa6A66ITw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWlMcH8cV4JkHqxRpelgWHn5aa2thOw0LD7mb8AzmoFliQwQHJrTqY48JYyLB-tPt9hFMn480jbvaoxkZ2jTNOkV-_4VP0dFDa4QbvVtCvp2NZc-QnZhl35hpx3pO7Pb5bCH6E=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8813858,
+      "lng": 76.5930369,
+      "label": "Bishop Benziger Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "corniche-clinic-sakthikulangara",
+    "name": "Corniche Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Corniche Clinic is a prominent hospital in Sakthikulangara, known for structured tertiary care across Oral Surgery In Kollam. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Sakthikulangara.",
+    "email": "",
+    "phone": "0474 277 1748",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WHG4+289, P O, Aaltharamoodu To Kavanad, Sakthikulangara, Kerala 691003",
+    "city": "Sakthikulangara",
+    "state": "Kerala",
+    "pincode": "691003",
+    "locality": "Aaltharamoodu To Kavanad",
+    "landmark": "Aaltharamoodu To Kavanad",
+    "emergencyContact": "0474 277 1748",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgMmUNYXx-6d7nzWHd70fAjMBqsfGZzEOglmfsB6JGG3wyN41NQPGhXWJ8EHFt3FVP3h4puuHrVvj-SxfwPMqk4rFbvM1jKhEskHVvLShR9tRzg4R_nN5r1V184L3iyFpKrxI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgMmUNYXx-6d7nzWHd70fAjMBqsfGZzEOglmfsB6JGG3wyN41NQPGhXWJ8EHFt3FVP3h4puuHrVvj-SxfwPMqk4rFbvM1jKhEskHVvLShR9tRzg4R_nN5r1V184L3iyFpKrxI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.9250323,
+      "lng": 76.5558686,
+      "label": "Corniche Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "esi-model-and-super-specialty-hospital-kollam",
+    "name": "ESI Model & Super Specialty Hospital",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted specialized hospital in Kollam, ESI Model & Super Specialty Hospital delivers integrated care across Heart Surgery In Kollam and Speciality Care. Operational strengths including Google rating 3.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kollam.",
+    "email": "",
+    "phone": "0474 274 2833",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WH2Q+84M, Asramam, Kollam, Kerala 691002",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691002",
+    "locality": "Asramam",
+    "landmark": "Kollam",
+    "emergencyContact": "0474 274 2833",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kollam",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErIHrwpHOS44fbb6M7NnpxVfd-cddxKYdLFCkCo-0rAarEqGHo7WMfzEkUu0atrxehsbEH0RaNoCPqfnJnutXeZX_4D12flHuV7zR6Atru19eObNv2fTW-kWG9dCuIN2UZb5b0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErIHrwpHOS44fbb6M7NnpxVfd-cddxKYdLFCkCo-0rAarEqGHo7WMfzEkUu0atrxehsbEH0RaNoCPqfnJnutXeZX_4D12flHuV7zR6Atru19eObNv2fTW-kWG9dCuIN2UZb5b0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG-iDuRDm9gfSHLp32Dk62ygniem_o7Dzw2TBylD1KZsLbkVLJ5vPUThjD2cAZA9_eUcvZk5pLIgl21RnQIn0Z3EnUJBgS6HIkur8qHLBKTojQ9lowrUViDeUI8bmlT7vGFZmlT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.9008419,
+      "lng": 76.5877867,
+      "label": "ESI Model & Super Specialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "government-victoria-hospital-kollam",
+    "name": "Government Victoria Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Government Victoria Hospital has built a strong reputation in Kollam for multidisciplinary treatment pathways covering Heart Surgery In Kollam. Hospital capacity markers such as Google rating 3.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kollam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0474 275 2700",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bus Stand, Poyilkada Junction, near KSRTC, Kollam, Kerala 691001",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691001",
+    "locality": "near KSRTC",
+    "landmark": "near KSRTC, Kollam, Kerala 691001",
+    "emergencyContact": "0474 275 2700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLQXMMTyWH-d0Sm5lsx-bZ5wTEjZgSCn9WjU23gSxfqocFpyGaKgp7N-d0AnciScDAxv6d2K8n1Ka4sfB4CDZQCENPx2O-0QI3MqfTkgr7OhvTGCJX93PvftlRyQBumvd5Tv1_=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLQXMMTyWH-d0Sm5lsx-bZ5wTEjZgSCn9WjU23gSxfqocFpyGaKgp7N-d0AnciScDAxv6d2K8n1Ka4sfB4CDZQCENPx2O-0QI3MqfTkgr7OhvTGCJX93PvftlRyQBumvd5Tv1_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdMRIz3PJ-6b8nZ_TKwkgNtnl7nTTjVh1qHcNHgqL3pu6o4MXolQH0mc1RtDBKQezhgL_iHOud3AL4bCKaTwSm7ciio-w3zyRobAk4wbCRIm-BhGoW7jt231_y12WevtjwrbjB=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoVUbOsPnbrGqCsmWx6XDJxiRWLwspCnWGMJ0s6Q31jp35sA9g6jfOTK4flYgJec_1apUBpP7KIDwlqpunvRpgyIMLzFhAo_T61zgurWKmW85RJ33uOYioTJYNffszXbG6Hqib=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHe7k0hCFSxZWOpbggvX9cVVP4Q2eaO8_m9Xj-bUCvQVMtOXx-bAG00MJL04Jz-8jfsMEf89QfieJixulHSApK4PJkHy9CXLlXg-NI9XAFnYnvqrwdqKH2Y9grVSGya6T5yLOc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFd9ZjIaaVtpLZaoMwHjnXmXYJpqu63ZLGsFtbfw4CIU_UH9PfDcMIfCk29av9E7kf8ogXSu02Ac0JGH8q0i1MVV_6sHR1DUzMshOyzNceW_5RLZw2GQLl3EqHr7qdWlzcGYigp=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8883448,
+      "lng": 76.5857728,
+      "label": "Government Victoria Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "holy-cross-hospital-kottiyam",
+    "name": "Holy Cross Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Holy Cross Hospital is a prominent private hospital in Kottiyam, known for structured tertiary care across Heart Surgery In Kollam. With public-facing highlights like Google rating 3.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kottiyam.",
+    "email": "",
+    "phone": "0474 253 8000",
+    "alternatePhone": "",
+    "website": "http://www.holycrosskottiyam.org/",
+    "address": "Hollycross Hospital Rd, Kottiyam, Kerala 691571",
+    "city": "Kottiyam",
+    "state": "Kerala",
+    "pincode": "691571",
+    "locality": "Hollycross Hospital Rd",
+    "landmark": "Kerala 691571",
+    "emergencyContact": "0474 253 8000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFy8y1z8JrANwMWXHtiirQoshBPbXPrLkr_C-ykVmdC--zjusUbwtQxF4fsVTs3KxqR9MW1k5FKKDfHv97Jipp0ykG-8L4bZC7-ClpFLNCM0m_4KHR-w9BaeXaaVr6e8hDFCqZN=w1200-h900-p-k-no",
+    "logo": "https://www.holycrosskottiyam.org/assets/image/common/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFy8y1z8JrANwMWXHtiirQoshBPbXPrLkr_C-ykVmdC--zjusUbwtQxF4fsVTs3KxqR9MW1k5FKKDfHv97Jipp0ykG-8L4bZC7-ClpFLNCM0m_4KHR-w9BaeXaaVr6e8hDFCqZN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/A=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhZs3555Af8ye6ab8ioO-mRsfwlpNZnM9DVaEm4gvyKmotmLBF6-dCZP215WpbVPkTM1-Ds0_XMBpeT-Q10TwsKHqR3udO8wrixuHk7vqv9wQVSGQbdasSlsPYkaMzZkSKHAA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6LhvObCZjDUu2odjJ6-eXE_aqkjFHJxa3JzB70pa9A21s16MF_GMCNfvEUxomn54rW_Ti5fmH4lJhV0cJPG_WQONtuRTS3gc4ydQhNQAhHMK1zI-Qz77KVs_WRzdsb3KcAS4c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8616392,
+      "lng": 76.6734037,
+      "label": "Holy Cross Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kailas-heart-clinic-kollam",
+    "name": "Kailas Heart Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kailas Heart Clinic has built a strong reputation in Kollam for multidisciplinary treatment pathways covering Heart Surgery In Kollam and Cardiac Care. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kollam.",
+    "email": "",
+    "phone": "0474 322 7646",
+    "alternatePhone": "",
+    "website": "http://kailasdentalkollam.com/",
+    "address": "20, Anjili Rd, Kadapakkada, Kollam, Kerala 691001",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691001",
+    "locality": "Kadapakkada",
+    "landmark": "Kadapakkada",
+    "emergencyContact": "0474 322 7646",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kollam",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjgTkabg2vklLlXwbbsUQsbk5NKIWm_QJGWcptep0IhOLvIYJd0BEDd4N5HnugKNx3yI1Ci1d7ZiV5OVyR9fUTLKf0sFnTH36C_U5xgK4wMYGn7tNI9IiEDq5klu7xfgJOVnPGOw=w1200-h900-p-k-no",
+    "logo": "http://kailasdentalkollam.com/server/assets/images/photos/569141729573691.jpeg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjgTkabg2vklLlXwbbsUQsbk5NKIWm_QJGWcptep0IhOLvIYJd0BEDd4N5HnugKNx3yI1Ci1d7ZiV5OVyR9fUTLKf0sFnTH36C_U5xgK4wMYGn7tNI9IiEDq5klu7xfgJOVnPGOw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8886484,
+      "lng": 76.59877,
+      "label": "Kailas Heart Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kerf-ent-speciality-hospital-kollam",
+    "name": "KERF ENT SPECIALITY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kollam, KERF ENT SPECIALITY HOSPITAL offers coordinated hospital care with major focus on Heart Surgery In Kollam and Speciality Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kollam.",
+    "email": "",
+    "phone": "0474 279 5365",
+    "alternatePhone": "",
+    "website": "http://kerfenthospital.com/",
+    "address": "Highschool Junction Anchalumoodu, Kureepuzha Rd, near Ramavarma Club Madhavam, Thevally, Kollam, Kerala 691009",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691009",
+    "locality": "Thevally",
+    "landmark": "near Ramavarma Club Madhavam, Thevally, Kollam, Kerala 691009",
+    "emergencyContact": "0474 279 5365",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kollam",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDzMNTh_ZOeBdauqrBsoOG_GcOcVaVULFgVRF2Pq8nKaGU_QWvkQVyfJs6WuhFwxVC-gfQFDhBxWycSqGMweg6HbI1VFrxJwe3175bWLprzNTkEekEdrkImXQC-FGpQhCrICvWOA=w1200-h900-p-k-no",
+    "logo": "https://www.kerfenthospital.com/_next/static/media/logo.4b84ce0f.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDzMNTh_ZOeBdauqrBsoOG_GcOcVaVULFgVRF2Pq8nKaGU_QWvkQVyfJs6WuhFwxVC-gfQFDhBxWycSqGMweg6HbI1VFrxJwe3175bWLprzNTkEekEdrkImXQC-FGpQhCrICvWOA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.897461,
+      "lng": 76.578333,
+      "label": "KERF ENT SPECIALITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kimshealth-multispeciality-hospital-kottiyam",
+    "name": "KIMSHEALTH Multispeciality Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kottiyam often choose KIMSHEALTH Multispeciality Hospital for its strength in Oral Surgery In Kollam and Speciality Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kottiyam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0474 294 1000",
+    "alternatePhone": "",
+    "website": "https://www.kimshealth.org/kollam/?utm_source",
+    "address": "Sithara Junction, Kottiyam, Kerala 691571",
+    "city": "Kottiyam",
+    "state": "Kerala",
+    "pincode": "691571",
+    "locality": "Sithara Junction",
+    "landmark": "Kerala 691571",
+    "emergencyContact": "0474 294 1000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kollam",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG18waUKf_6cCxrczeDV0HLF2noKHz4vau7DCPh3Y55BqZCwQQQq-hzbmKOt9GYgEMJwiOZwDahCHTtqwbsjRLKTR9kqhoS0WDq10l5_EWaLZW-gf1FlVXQ6OY0U6nN1KyPPuu-jw=w1200-h900-p-k-no",
+    "logo": "https://www.kimshealth.org/img/achs-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG18waUKf_6cCxrczeDV0HLF2noKHz4vau7DCPh3Y55BqZCwQQQq-hzbmKOt9GYgEMJwiOZwDahCHTtqwbsjRLKTR9kqhoS0WDq10l5_EWaLZW-gf1FlVXQ6OY0U6nN1KyPPuu-jw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_Q_l34MQrG2rcaLFb0KmQW6TWm6e76YKcxS1h9XuyQmzEaQf3-wsjcMiMaP64R-QmPpgWJroh8LfenqPccAVWD-XkMSE8-EcmZXb1DvCNWS1kcA0rwC2cUJev1a3RqaFLqPfzzg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8646812,
+      "lng": 76.6813641,
+      "label": "KIMSHEALTH Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kollam-district-hospital-kollam",
+    "name": "Kollam District Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kollam, Kollam District Hospital offers coordinated hospital care with major focus on Oral Surgery In Kollam. Operational strengths including Google rating 3.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kollam.",
+    "email": "",
+    "phone": "0474 274 2004",
+    "alternatePhone": "",
+    "website": "http://dhs.kerala.gov.in/",
+    "address": "Bus Stop, Hospital Rd, near kollam, Chinnakada, Kollam, Kerala 691001",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691001",
+    "locality": "Chinnakada",
+    "landmark": "near kollam, Chinnakada, Kollam, Kerala 691001",
+    "emergencyContact": "0474 274 2004",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmVJOqveVVLuihGTp1UfKzmk0zMnqzyW7ncf2lT8vRKWt6zL4DzJYUzGYthf8QQ_aNMdXoQyc-rstCPWHR4r4dZnANS65Ge71I3fZUvLX-xnPDZGwzTb1tz1YRLLrWGZiJNacddQ=w1200-h900-p-k-no",
+    "logo": "https://dhs.kerala.gov.in/wp-content/uploads/2024/12/logo1-new.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmVJOqveVVLuihGTp1UfKzmk0zMnqzyW7ncf2lT8vRKWt6zL4DzJYUzGYthf8QQ_aNMdXoQyc-rstCPWHR4r4dZnANS65Ge71I3fZUvLX-xnPDZGwzTb1tz1YRLLrWGZiJNacddQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmZa2SGKXMjyYcrWcCf9bNfTenulZh-IYR7vZsF4j=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmZa2SGKXMjyYcrWcCf9bNfTenulZh-IYR7vZsF4jtY_cRjKjpddkNfJgwVDFx2bUs_13_lxuE4YYzAn9U3a1orI0uxRmSqzvphJDYt_Gj9x0gPkZMSRRzjSE47zoYS3jIjbh3=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8877986,
+      "lng": 76.5847597,
+      "label": "Kollam District Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "matha-medical-centre-kollam",
+    "name": "Matha Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in kollam often choose Matha Medical Centre for its strength in Oral Surgery In Kollam. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in kollam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0474 273 0000",
+    "alternatePhone": "",
+    "website": "http://www.mathamedicalcentre.com/",
+    "address": "Mathilil p.o, kollam, Kerala 691601",
+    "city": "kollam",
+    "state": "Kerala",
+    "pincode": "691601",
+    "locality": "Mathilil p.o",
+    "landmark": "Kerala 691601",
+    "emergencyContact": "0474 273 0000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9oVEJoQbrP5JjAXncMzhyjUm_suIo7tjuUZudFvXtrcZqgH936T18VxrI9F2j2-AF709N5nm5-J4ekg01M4MNNudp7BFzjM5o8mHM6Hvb2r-PRbcqxr1IACabYjGcX5l89AMX=w1200-h900-p-k-no",
+    "logo": "https://www.mathamedicalcentre.com/themes/user/images/M1 V1-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9oVEJoQbrP5JjAXncMzhyjUm_suIo7tjuUZudFvXtrcZqgH936T18VxrI9F2j2-AF709N5nm5-J4ekg01M4MNNudp7BFzjM5o8mHM6Hvb2r-PRbcqxr1IACabYjGcX5l89AMX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNF5U61E8NueJy5x60SqzpKENMGyXxRvABMk5KE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMrc3T_Nmm2sV6iI1rnUJh4Lk9HfZcmWn387V2E=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMQ5vzdvv95d3WA7Sh7Rx10iV2iiMF-VQ_NDaKf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMuEbvH0JhKQqU1GwcYxdAJlNjKgWh9HJz9wCnd=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.9146964,
+      "lng": 76.5889241,
+      "label": "Matha Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "meditrina-hospitals-pvt-ltd-kollam",
+    "name": "Meditrina Hospitals Pvt. Ltd.",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Meditrina Hospitals Pvt. Ltd. is a prominent private hospital in Kollam, known for structured tertiary care across Oral Surgery In Kollam. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kollam.",
+    "email": "",
+    "phone": "0474 272 1111",
+    "alternatePhone": "",
+    "website": "http://www.meditrinahospitals.com/",
+    "address": "Kollam - Ayoor Road, Bypass Road, Ayathil, Kollam, Kerala 691021",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691021",
+    "locality": "Ayathil",
+    "landmark": "Ayathil",
+    "emergencyContact": "0474 272 1111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZKlairb3bz8S5AoSF4YIz8GP9xNwV_uzjAPOJfne2nmciGvXAiaubrQXf_UnW3DlNvSd3YLj13NdUMWd2N_GrmDGcQXkCESffN2MlfEP-uJ1moSMNIxRvJk7Ow2rF3CDgGic-uAfJV-Wp=w1200-h900-p-k-no",
+    "logo": "http://www.meditrinahospitals.com/assets/images/nabh_logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZKlairb3bz8S5AoSF4YIz8GP9xNwV_uzjAPOJfne2nmciGvXAiaubrQXf_UnW3DlNvSd3YLj13NdUMWd2N_GrmDGcQXkCESffN2MlfEP-uJ1moSMNIxRvJk7Ow2rF3CDgGic-uAfJV-Wp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMoilKaiPhdY7s6UAojdVCaQ65IeBT_NGI_BKXG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM3447SEMrVX_VNQkPULTb76aXM5zV7sSHLaYd8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNkOajzyXcyV52iANzD5Rmm8ito-U8jtNA8_azr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPfFd7oGvWgVP__e5u8Tuhw4ksrojePVO7OTt2K=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8921905,
+      "lng": 76.6324065,
+      "label": "Meditrina Hospitals Pvt. Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mf-dental-care-kottamkara",
+    "name": "Mf Dental Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mf Dental Care has built a strong reputation in Kottamkara for multidisciplinary treatment pathways covering Oral Surgery In Kollam. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kottamkara can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kilikkollur, Chandanathope, Kottamkara, Kerala 691014",
+    "city": "Kottamkara",
+    "state": "Kerala",
+    "pincode": "691014",
+    "locality": "Chandanathope",
+    "landmark": "Kottamkara",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzW-DZCcLI2gWPxqd1ftluUzMa_litzr7TvcA8qJNbH11lNtNlz1f2AHOAh_zTlzEU9SGaDQ1Xo6IQjJrtQiDd8Gu6aWhAEP9ZNRawI7kEzH1wAJFlEyQ12qNgxBgao8RiZzQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzW-DZCcLI2gWPxqd1ftluUzMa_litzr7TvcA8qJNbH11lNtNlz1f2AHOAh_zTlzEU9SGaDQ1Xo6IQjJrtQiDd8Gu6aWhAEP9ZNRawI7kEzH1wAJFlEyQ12qNgxBgao8RiZzQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.9289349,
+      "lng": 76.6411946,
+      "label": "Mf Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "n-s-memorial-institute-of-medical-sciences-thazhuthala",
+    "name": "N. S. Memorial Institute of Medical Sciences",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "N. S. Memorial Institute of Medical Sciences is a prominent general hospital in Thazhuthala, known for structured tertiary care across Oral Surgery In Kollam. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Thazhuthala.",
+    "email": "",
+    "phone": "0474 272 0000",
+    "alternatePhone": "",
+    "website": "http://www.nshospital.org/",
+    "address": "Mylapure, Palathara, Thazhuthala, Kerala 691020",
+    "city": "Thazhuthala",
+    "state": "Kerala",
+    "pincode": "691020",
+    "locality": "Palathara",
+    "landmark": "Thazhuthala",
+    "emergencyContact": "0474 272 0000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTGGg-65vGwMnE6C-0Lajlz1yLkla5NW05pW964bTG8FcdVelhFxY58hAfWPL9VlHk7KhdD9Z3wHEz9g8npBorw3wTQj-fWsmOhVddbBt6JxC6DkpcQr7LpsDSMRDj2a42UmN6Mw=w1200-h900-p-k-no",
+    "logo": "https://www.nshospital.org/wp-content/uploads/2025/07/ns-hospital-logo-preloader.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTGGg-65vGwMnE6C-0Lajlz1yLkla5NW05pW964bTG8FcdVelhFxY58hAfWPL9VlHk7KhdD9Z3wHEz9g8npBorw3wTQj-fWsmOhVddbBt6JxC6DkpcQr7LpsDSMRDj2a42UmN6Mw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFOMqoXADv7NltrD_zFwMuRPgPLsJzUrtAgm0ERaVzLi6q0NOfL0WkYSH1UZSwpSXxgw6g1g84ZQaIK4xNGYbkgCr34mEAOGPOXbygsMRMeSiosp0rERY_9MEIV4cxYS82uauIM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeXVD4JqXHOYgFCY5psK-qWaXKrgMBZgOu8-czrJFnxRNfkBrIomsCZSj-eW9BL0QNg2YMyHni5d3q9FuyN53AQmoFctUlH5vntWgvvcXuruFk31bQ6veawMcULF66kC0gUM451g=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8799216,
+      "lng": 76.6407628,
+      "label": "N. S. Memorial Institute of Medical Sciences",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "quilon-ortho-care-kollam",
+    "name": "Quilon ortho care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kollam, Quilon ortho care brings together specialists for Oral Surgery In Kollam and Orthopaedics. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kollam.",
+    "email": "",
+    "phone": "0474 272 5002",
+    "alternatePhone": "",
+    "website": "",
+    "address": "VJGC+FPH, Pallimukku, Kollam, Kerala 691010",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691010",
+    "locality": "Pallimukku",
+    "landmark": "Kollam",
+    "emergencyContact": "0474 272 5002",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kollam",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFf1EAfh96z6h6V9uWt6OGe6nvxcsyRlH9RZPnBWUojGSNKA66MrFraytN6VlXEgVHaH-fiSva1Rw7f9Y1sn9gzpZj2udXKojDrhBYoIem1GknASwIfKtbke0kI6WOtNY067Dwy=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFf1EAfh96z6h6V9uWt6OGe6nvxcsyRlH9RZPnBWUojGSNKA66MrFraytN6VlXEgVHaH-fiSva1Rw7f9Y1sn9gzpZj2udXKojDrhBYoIem1GknASwIfKtbke0kI6WOtNY067Dwy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8764027,
+      "lng": 76.6202051,
+      "label": "Quilon ortho care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "samagra-ayurveda-hospital-kollam",
+    "name": "Samagra Ayurveda Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kollam, Samagra Ayurveda Hospital brings together specialists for Heart Surgery In Kollam. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kollam.",
+    "email": "",
+    "phone": "088911 31222",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Cantonment South, Mundakkal Village, Kollam, Kerala 691001",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691001",
+    "locality": "Mundakkal Village",
+    "landmark": "Kollam",
+    "emergencyContact": "088911 31222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1SwbEYqpAhlk8yz073HGnTr5G2fgMtk3S9MBBf2QFtl_1FQ6wbFFaqvrdVwmoa9u3c0oDlTEiw_bzU2cgiKtBSnJVl__mjw5MXoT0LFBfcOT22ptdHNMdmtEg3-v_AAJ7Sd_W=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1SwbEYqpAhlk8yz073HGnTr5G2fgMtk3S9MBBf2QFtl_1FQ6wbFFaqvrdVwmoa9u3c0oDlTEiw_bzU2cgiKtBSnJVl__mjw5MXoT0LFBfcOT22ptdHNMdmtEg3-v_AAJ7Sd_W=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.878858,
+      "lng": 76.5942952,
+      "label": "Samagra Ayurveda Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sankers-hospital-kollam",
+    "name": "Sankers Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kollam, Sankers Hospital delivers integrated care across Heart Surgery In Kollam. The facility stands out for Google rating 2.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kollam.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "VHQW+WW6 R Sankar Samadhi Mandapam, Aradhana Nagar, Kollam, Kerala 691001",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691001",
+    "locality": "Aradhana Nagar",
+    "landmark": "Kollam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnRXN9eP291rXYDynxUNHZDeUsEbXJY4K41ahCjyvKe91r77PXEIT9MRaMN6QpWUkR4wy6YXpEHisPdnbT4hkchJvdpq7pAUpOdZw8cz2YmTINawyGaPATtnY2o8TGTFPtlV8c=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnRXN9eP291rXYDynxUNHZDeUsEbXJY4K41ahCjyvKe91r77PXEIT9MRaMN6QpWUkR4wy6YXpEHisPdnbT4hkchJvdpq7pAUpOdZw8cz2YmTINawyGaPATtnY2o8TGTFPtlV8c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8900103,
+      "lng": 76.5976597,
+      "label": "Sankers Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "santhi-ayurveda-hospital-kollam",
+    "name": "Santhi Ayurveda Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kollam, Santhi Ayurveda Hospital brings together specialists for Heart Surgery In Kollam. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kollam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094477 32220",
+    "alternatePhone": "",
+    "website": "http://mocdoc.in/hospital/santhi-ayurveda-hospital",
+    "address": "Manichithodu Road, Vikas Nagar, near Kalidasa Kalakendram, Polayathodu, Kollam, Kerala 691021",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691021",
+    "locality": "Polayathodu",
+    "landmark": "near Kalidasa Kalakendram, Polayathodu, Kollam, Kerala 691021",
+    "emergencyContact": "094477 32220",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEiXIV5o_TZzMriYaDJZK6yf0Z3nOfm48ACXNPySz3l-Hdjc0sMfwmh7Qvj4N-oIodLZeh9ojjPLH81ZvkWrtTUUXpZI2h67sKDbewJ2159JyPvHAC8jboy9hjYDgk0f_g3XlYdOEd29nRV=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEiXIV5o_TZzMriYaDJZK6yf0Z3nOfm48ACXNPySz3l-Hdjc0sMfwmh7Qvj4N-oIodLZeh9ojjPLH81ZvkWrtTUUXpZI2h67sKDbewJ2159JyPvHAC8jboy9hjYDgk0f_g3XlYdOEd29nRV=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8807276,
+      "lng": 76.6093826,
+      "label": "Santhi Ayurveda Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sarada-clinic-hospital-kollam",
+    "name": "Sarada Clinic Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kollam, Sarada Clinic Hospital offers coordinated hospital care with major focus on Oral Surgery In Kollam. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kollam.",
+    "email": "",
+    "phone": "086062 91332",
+    "alternatePhone": "",
+    "website": "http://saradaclinic.com/",
+    "address": "285, Bavana Nagar, Kollam, Kerala 691008",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691008",
+    "locality": "Bavana Nagar",
+    "landmark": "Kollam",
+    "emergencyContact": "086062 91332",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeaaisiVnFOUoogEiUhhLiR1gO5vtVJyAzjUGme--R95Nk5QzegRxmtMF4cQND5ZJOqB0K8KJKiqTyZlzCr989MEblsdYcQHMBf2nNzGzQILdHcxjMoKjRpgup5PhS_8vXOTMpSg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeaaisiVnFOUoogEiUhhLiR1gO5vtVJyAzjUGme--R95Nk5QzegRxmtMF4cQND5ZJOqB0K8KJKiqTyZlzCr989MEblsdYcQHMBf2nNzGzQILdHcxjMoKjRpgup5PhS_8vXOTMpSg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8907162,
+      "lng": 76.6104019,
+      "label": "Sarada Clinic Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tlc-clinique-kollam",
+    "name": "Tlc Clinique",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tlc Clinique has built a strong reputation in Kollam for multidisciplinary treatment pathways covering Plastic Surgery In Kollam. With public-facing highlights like Google rating 3.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kollam.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "127, JNRA Road, Olayil, Thevally, Kollam, Kerala 691001",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691001",
+    "locality": "Thevally",
+    "landmark": "Olayil",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=8.8823936%2C76.6047136&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=8.8823936%2C76.6047136&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=8.8823936%2C76.6047136&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=8.8823936%2C76.6047136&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8823936,
+      "lng": 76.6047136,
+      "label": "Tlc Clinique",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "travancore-medicity-hospital-kollam-kollam",
+    "name": "Travancore Medicity Hospital Kollam",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Kollam, Travancore Medicity Hospital Kollam delivers integrated care across Oral Surgery In Kollam. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kollam.",
+    "email": "",
+    "phone": "0474 272 9393",
+    "alternatePhone": "",
+    "website": "https://travancoremedicity.com/home/",
+    "address": "Travancore Medical College Hospital N H bypass Mylapore, Thattamala, P. O, Kollam, Kerala 691020",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691020",
+    "locality": "P. O",
+    "landmark": "P. O",
+    "emergencyContact": "0474 272 9393",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQJ9cChIZNXZCRJo1dlY_C3cy7CqarcB5EFL2Lv_4I-0Fsf15RJH18X2M1nnsh_elpuRBAJhs3dkAuRgZU4s6dNLbLcVvLcAj88etCk7EqnIEqBaQH0U5srcvk6qe304i6e-QcLS-YUEvZ=w1200-h900-p-k-no",
+    "logo": "https://travancoremedicity.com/wp-content/uploads/2024/01/logo2.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQJ9cChIZNXZCRJo1dlY_C3cy7CqarcB5EFL2Lv_4I-0Fsf15RJH18X2M1nnsh_elpuRBAJhs3dkAuRgZU4s6dNLbLcVvLcAj88etCk7EqnIEqBaQH0U5srcvk6qe304i6e-QcLS-YUEvZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOJ2LgOpvTu8vIDGr3Xat2bggkUTFdHUWd-hgIN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMxddICH08hBDzkwxHGDXGb2M2fV_dnN6quliTY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO7kWYLjxgsoRbkfbK4gGTtsD9bTS4vS6W6XsZQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNry3g-T7BtZ7IUU6CgwB9ZdnwcAfFnSodUhsXX=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8757418,
+      "lng": 76.6440461,
+      "label": "Travancore Medicity Hospital Kollam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "upasana-hospital-kollam",
+    "name": "Upasana Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kollam, Upasana Hospital brings together specialists for Oral Surgery In Kollam. Operational strengths including Google rating 4.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kollam can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0474 351 0000",
+    "alternatePhone": "",
+    "website": "https://upasanahospital.com/",
+    "address": "QS Road, Chamkkada, Kadapakkada, Kollam, Kerala 691001",
+    "city": "Kollam",
+    "state": "Kerala",
+    "pincode": "691001",
+    "locality": "Kadapakkada",
+    "landmark": "Kadapakkada",
+    "emergencyContact": "0474 351 0000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Kollam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGY_qjxpZxGeeFHEoqJq3E2WXuwaoRZiP_Bz4qlOVKFMJZVK2m34WYuMbuGbWTC3UusZiTaBpggVjU5L72bZOrWXzXQqojat1z5ys5DnGsXGMJ3JWRlcSntUjsZeH8l49aNKfayrT_9xU4l=w1200-h900-p-k-no",
+    "logo": "https://upasanahospital.com/wp-content/uploads/2023/11/logo-v2-300.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGY_qjxpZxGeeFHEoqJq3E2WXuwaoRZiP_Bz4qlOVKFMJZVK2m34WYuMbuGbWTC3UusZiTaBpggVjU5L72bZOrWXzXQqojat1z5ys5DnGsXGMJ3JWRlcSntUjsZeH8l49aNKfayrT_9xU4l=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 8.8883116,
+      "lng": 76.5967575,
+      "label": "Upasana Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

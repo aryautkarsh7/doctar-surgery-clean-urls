@@ -1,0 +1,8053 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aar-pee-hospital-faridabad",
+    "name": "Aar Pee Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Faridabad, Aar Pee Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Faridabad. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Faridabad.",
+    "email": "",
+    "phone": "0129 404 4276",
+    "alternatePhone": "",
+    "website": "https://aarpeehospital.com/",
+    "address": "House No, 1276-P, Badkhal Rd, Thakur Wada, Sector 28, Faridabad, Haryana 121008",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121008",
+    "locality": "Sector 28",
+    "landmark": "Badkhal Rd",
+    "emergencyContact": "0129 404 4276",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhrMzco581x-THXanTTYuNylkPc57xd6QpD2Z_ZBWGv4ZULfTgF9GegBxWXwhttHbZgMzjTUTobjRoQBdlYwVFVAL-g7nyjeAtpuWI1U51ob9y_fvZUleuWllYbaIQfaLRSSez=w1200-h900-p-k-no",
+    "logo": "https://aarpeehospital.com/wp-content/uploads/2017/09/aarpeehospital-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhrMzco581x-THXanTTYuNylkPc57xd6QpD2Z_ZBWGv4ZULfTgF9GegBxWXwhttHbZgMzjTUTobjRoQBdlYwVFVAL-g7nyjeAtpuWI1U51ob9y_fvZUleuWllYbaIQfaLRSSez=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4284617,
+      "lng": 77.3165082,
+      "label": "Aar Pee Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aarogyadham-hospital-faridabad",
+    "name": "Aarogyadham Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Faridabad, Aarogyadham Hospital delivers integrated care across Heart Surgery In Faridabad. Operational strengths including Google rating 3.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "0129 251 1144",
+    "alternatePhone": "",
+    "website": "",
+    "address": "A 2559, A, 1755, Rd Number 117, Greenfields, Sector 42, Faridabad, Haryana 121010",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121010",
+    "locality": "Sector 42",
+    "landmark": "1755",
+    "emergencyContact": "0129 251 1144",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.463535%2C77.2924983&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.463535%2C77.2924983&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.463535%2C77.2924983&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.463535%2C77.2924983&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.463535,
+      "lng": 77.2924983,
+      "label": "Aarogyadham Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "accord-superspeciality-hospital-faridabad",
+    "name": "Accord Superspeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Faridabad often choose Accord Superspeciality Hospital for its strength in Cancer Surgery In Faridabad and Speciality Care. Its infrastructure includes Google rating 4.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "0129 351 2000",
+    "alternatePhone": "",
+    "website": "https://accordhospitals.co.in/",
+    "address": "Budena Village, Sector 86, Faridabad, Haryana 121007",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121007",
+    "locality": "Sector 86",
+    "landmark": "Faridabad",
+    "emergencyContact": "0129 351 2000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Faridabad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHALTz8xFgcyCUrePNMI6O-WUoaILnLE8eaSp0ZQAIdFVtjft_YlkkVUzdOBqcZ4Us9irXtjl7GySCk4Umv3A3wSi7gZhoT1Z6fdyEcY8Qo6pKYSM3M0tYC8of5N8bKnP3C-D3qSU-yrg4=w1200-h900-p-k-no",
+    "logo": "https://accordhospitals.co.in/internationalpatients/assets/Images/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHALTz8xFgcyCUrePNMI6O-WUoaILnLE8eaSp0ZQAIdFVtjft_YlkkVUzdOBqcZ4Us9irXtjl7GySCk4Umv3A3wSi7gZhoT1Z6fdyEcY8Qo6pKYSM3M0tYC8of5N8bKnP3C-D3qSU-yrg4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipObOrbkh5Ys9kuvUtv5tsRsapajkqmdcPfrj4Uf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPZKFnFIf2zoHWggWQDZYaxKoab879MQSqI10V3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNMsKdPTnig2eUK_IgsZ8AfAj_e0bThY5tj-2e6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOL2XcSbyiYS3Qfs8UqtBUMygvOMqFxpgK6WjcC=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3993207,
+      "lng": 77.3487025,
+      "label": "Accord Superspeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "akshom-hospital-and-research-centre-best-multi-speciality-hospital-in-faridabad-faridabad",
+    "name": "Akshom Hospital & Research Centre | Best Multi speciality Hospital in Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Akshom Hospital & Research Centre | Best Multi speciality Hospital in Faridabad is a prominent hospital in Faridabad, known for structured tertiary care across General Surgery In Faridabad and Speciality Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "062626 56570",
+    "alternatePhone": "",
+    "website": "http://akshomhospitals.com/",
+    "address": "site no-2, Hospital, A, Huda Market, Sector 7a, Block E, Sector 7, Faridabad, Haryana 121006",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121006",
+    "locality": "Sector 7",
+    "landmark": "A",
+    "emergencyContact": "062626 56570",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEcxh1DnDW7XS-gIfThwsrc_1HUCAItVF1HvDVBAhbYnZEz9yTaa9OUefWYL_sJAdzBZQ14Ha0UkxcqS-7sJMKpTBbL7ZPikSBU4QGDjLweWgIgtE8oP8Y5M7vKOzSuFJAjMvtvdA=w1200-h900-p-k-no",
+    "logo": "https://akshomhospitals.com/wp-content/uploads/2022/02/St-Philomenas-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEcxh1DnDW7XS-gIfThwsrc_1HUCAItVF1HvDVBAhbYnZEz9yTaa9OUefWYL_sJAdzBZQ14Ha0UkxcqS-7sJMKpTBbL7ZPikSBU4QGDjLweWgIgtE8oP8Y5M7vKOzSuFJAjMvtvdA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNPpWZAFFwA8XZKnXr9wLeN1Fu5qoqzab5b9ow0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOLpvMQjOZHTYlQM4lnVxdBBTZLGj7o1196zO0T=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNN6CI7s7qeK327qCSGHMBpmYxZxx0lRGIPI3pR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM0_TqSw09BKph9VBELx5kxZSdBbHFVEkRPV08t=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3629293,
+      "lng": 77.3250709,
+      "label": "Akshom Hospital & Research Centre | Best Multi speciality Hospital in Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amrita-hospital-faridabad-faridabad",
+    "name": "Amrita Hospital Faridabad",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Faridabad, Amrita Hospital Faridabad offers coordinated hospital care with major focus on Hip Replacement Surgery In Faridabad. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Faridabad.",
+    "email": "",
+    "phone": "0129 352 1234",
+    "alternatePhone": "",
+    "website": "https://amritahospitals.org/faridabad",
+    "address": "Mata Amritanandamayi Marg, RPS City, Sector 88, Faridabad, Haryana 121014",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121014",
+    "locality": "Sector 88",
+    "landmark": "Sector 88",
+    "emergencyContact": "0129 352 1234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHfQYs0BV44tDi1tUsQhlr0PvGSvN41MN__XdqPyI5UZNEI74XiHE7QGawDH09FrcDA0ZCHnq1gFTgTuFzfLXaq7j-wI0CclqgZzM8GikctPdmmmPSsTXf7-CSxRApT6015-E=w1200-h900-p-k-no",
+    "logo": "https://admin.amritahospitals.org/sites/default/files/FARIDABAD%20%281%29_0.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHfQYs0BV44tDi1tUsQhlr0PvGSvN41MN__XdqPyI5UZNEI74XiHE7QGawDH09FrcDA0ZCHnq1gFTgTuFzfLXaq7j-wI0CclqgZzM8GikctPdmmmPSsTXf7-CSxRApT6015-E=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOiLwfO3x3_39DpifEPY_HV_wm2iyK2nYuEqPze=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPOpPYxGM7RiuQGCaDrFKVyC-Li5DC7SXglpLsD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPbkJvtQJBe9LlGGHlrsqE2IjIRT0NV1ozuIdqH=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMTlVFQ7lZlhqe0UCUleZrwpQmls2Btl4Mq9AnW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4259424,
+      "lng": 77.3540639,
+      "label": "Amrita Hospital Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "arsh-hospital-best-multispecialty-hospital-in-faridabad-faridabad",
+    "name": "Arsh Hospital - Best Multispecialty Hospital In Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Arsh Hospital - Best Multispecialty Hospital In Faridabad has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering Gynecologist Surgery In Faridabad and Speciality Care. Operational strengths including Google rating 4.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095404 00076",
+    "alternatePhone": "",
+    "website": "https://arshhospital.co.in/",
+    "address": "99MC+RGW, Opp. Era Redwood Residency, Tigaon Rd, Sector 78, Faridabad, Haryana 121101",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121101",
+    "locality": "Sector 78",
+    "landmark": "Tigaon Rd",
+    "emergencyContact": "095404 00076",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Faridabad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGNKlCshH8GxB2aeyqk7-cvI8vjr8Na3gUBo4dOwR3Rjv2z6teAztBH7yt1eIXNNrcGGRt3HPCexzREdebvz1aqyW0CbyTdfnayUcYDxzuKUZYOF_zCqjFlY4FS9sQEJ5K3X6RKg=w1200-h900-p-k-no",
+    "logo": "https://arshhospital.co.in/wp-content/uploads/2023/04/ARSH-HOSPITAL-1-removebg-preview.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGNKlCshH8GxB2aeyqk7-cvI8vjr8Na3gUBo4dOwR3Rjv2z6teAztBH7yt1eIXNNrcGGRt3HPCexzREdebvz1aqyW0CbyTdfnayUcYDxzuKUZYOF_zCqjFlY4FS9sQEJ5K3X6RKg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOA7RiRfIma5cjpozPv6QAKD-TFvVeUB9w6YRvy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMqZMvPUf6jhEiHO_MdGulmeV_LXL7bcV3vZ0gq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMFo5lVveVFyjyZ-o3wD6I3hbPGyTrOEc1dllW0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN9bymv-Ogl_OoDsjqAIlx6qtP_W8tH-pOQ1Y79=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3847868,
+      "lng": 77.3674634,
+      "label": "Arsh Hospital - Best Multispecialty Hospital In Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "asian-centre-for-children-s-super-speciality-top-pediatric-hospital-in-faridabad-faridabad",
+    "name": "Asian Centre for Children's Super Speciality - Top Pediatric Hospital in Faridabad",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Faridabad often choose Asian Centre for Children's Super Speciality - Top Pediatric Hospital in Faridabad for its strength in Oncologist Surgery In Faridabad, Women and Child Care, and Speciality Care. The facility stands out for Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0129 425 3000",
+    "alternatePhone": "",
+    "website": "https://www.aimsindia.com/centres-of-excellence/childrens-super-speciality/",
+    "address": "Floor - Ground, Badkhal Flyover, Sector 21A, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "Sector 21A",
+    "landmark": "Sector 21A",
+    "emergencyContact": "0129 425 3000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Faridabad",
+      "Women and Child Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqEQptDck5jgJpfDQRC34tzhN7gDsFy87O9xZr4qA6xN1-QWoLLd1ezEASFhd60ANG0Iay10yqPT5UaO47tHB-LuftcFCwv8NH9s32OAq4SRfCrXA02jUSA2ohACwgRMiGOQwiWqgozrb4=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqEQptDck5jgJpfDQRC34tzhN7gDsFy87O9xZr4qA6xN1-QWoLLd1ezEASFhd60ANG0Iay10yqPT5UaO47tHB-LuftcFCwv8NH9s32OAq4SRfCrXA02jUSA2ohACwgRMiGOQwiWqgozrb4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMYeC46UAXie_49JSyh_VU751VtmFTJGFwq1sab=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOCa3GutSu_9MB9ptgvdrq-rHI1LWSOOFmR5IMn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNPoFIOo51MSy37qjTegM6XTWBMvHeJXYjWMvMJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNVzW81JhYocRbU3selLbgp6zqPhXPRfGAOqi7j=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.426427,
+      "lng": 77.3002713,
+      "label": "Asian Centre for Children's Super Speciality - Top Pediatric Hospital in Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "asian-hospital-asian-institute-of-medical-sciences-best-hospital-in-faridabad-faridabad",
+    "name": "Asian Hospital - Asian Institute of Medical Sciences – Best Hospital in Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Asian Hospital - Asian Institute of Medical Sciences – Best Hospital in Faridabad has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering Oncologist Surgery In Faridabad. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0129 425 3000",
+    "alternatePhone": "",
+    "website": "https://www.aimsindia.com/",
+    "address": "Badkal Flyover, Road, Sector 21A, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "Sector 21A",
+    "landmark": "Sector 21A",
+    "emergencyContact": "0129 425 3000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUOGIDefDuEhcMgxHoOXkgNR_3_u1Zl2KyIfks_LXHLMwL85L76hQ-ZEBpDZUfnb2M9akTFFAOQSV4e3x5j2iawcZP3KxT1EXqeuRNYeSfxilcycPOYFbhVvq9CgY4L3Ce4m0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUOGIDefDuEhcMgxHoOXkgNR_3_u1Zl2KyIfks_LXHLMwL85L76hQ-ZEBpDZUfnb2M9akTFFAOQSV4e3x5j2iawcZP3KxT1EXqeuRNYeSfxilcycPOYFbhVvq9CgY4L3Ce4m0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNcSJXHKeK4ce3aYYslNaGhHD7CUbhW-gXdvl0b=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOm3jXEXdVLSzH9HrLphyAmp5i8KjJwcMt1U_xC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNf-c9G4oGr8xbjyUFaWMx9J6CCbuhEzd95XZbJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO-19kM9EMbkpb0gSdck9OyTOIceUlJa-aHPyqW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4260095,
+      "lng": 77.2999836,
+      "label": "Asian Hospital - Asian Institute of Medical Sciences – Best Hospital in Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ayushkama-hospital-faridabad",
+    "name": "Ayushkama Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ayushkama Hospital has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering General Surgery In Faridabad. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "099535 65390",
+    "alternatePhone": "",
+    "website": "",
+    "address": "180/228, Mata Amritanandamayi Marg, Hanuman Nagar, Sector 87, Neharpar Faridabad, Faridabad, Haryana 121014",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121014",
+    "locality": "Neharpar Faridabad",
+    "landmark": "Hanuman Nagar",
+    "emergencyContact": "099535 65390",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6iKzQrJH9W4Va0sfnU7BvhApe_zzGbBWITdFdLVjB4ci6MleXDxx6xn4JoO1ZYwZTwUYJ8AQZENOyJTv3ktvUqTiGpTKEA6DwBJS3pbJxKx4FUofXMM2UUDPp6aL2dQXjyMqJ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6iKzQrJH9W4Va0sfnU7BvhApe_zzGbBWITdFdLVjB4ci6MleXDxx6xn4JoO1ZYwZTwUYJ8AQZENOyJTv3ktvUqTiGpTKEA6DwBJS3pbJxKx4FUofXMM2UUDPp6aL2dQXjyMqJ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.427707,
+      "lng": 77.3437336,
+      "label": "Ayushkama Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "b-r-hospital-faridabad-faridabad",
+    "name": "B R HOSPITAL FARIDABAD",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "B R HOSPITAL FARIDABAD is a prominent hospital in Faridabad, known for structured tertiary care across Laparoscopic Surgery In Faridabad. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Faridabad.",
+    "email": "",
+    "phone": "099719 20670",
+    "alternatePhone": "",
+    "website": "http://brhospitalfbd.com/",
+    "address": "PLOT, H, 130, Pocket H, Sector 10 HBC, Faridabad, Haryana 121006",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121006",
+    "locality": "Sector 10 HBC",
+    "landmark": "130",
+    "emergencyContact": "099719 20670",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUdjvYanhLW9P2Ml6XsFxMjOALSBoTwxcmloo7EeRZp_l-ttmx9Eiqmu5MbeuLur1yMrH9VQTQEk-77MBZwdLOaGCJNI_sxsbI6vKJiD9cYfJAXmiBNw7EQd_y1pDfOgtx2XSGk70c-DCc=w1200-h900-p-k-no",
+    "logo": "http://brhospitalfbd.com/sites/2026/1/brhospitalfaridabad/uploads/Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUdjvYanhLW9P2Ml6XsFxMjOALSBoTwxcmloo7EeRZp_l-ttmx9Eiqmu5MbeuLur1yMrH9VQTQEk-77MBZwdLOaGCJNI_sxsbI6vKJiD9cYfJAXmiBNw7EQd_y1pDfOgtx2XSGk70c-DCc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3730884,
+      "lng": 77.3288389,
+      "label": "B R HOSPITAL FARIDABAD",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "balaji-hospital-and-heart-center-faridabad",
+    "name": "Balaji Hospital & Heart Center",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Faridabad, Balaji Hospital & Heart Center brings together specialists for Heart Surgery In Faridabad and Cardiac Care. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0129 408 4466",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1375, GF ,HIG, Housing Board Colony, Holy Child School Road, Sector 29, Faridabad, Haryana 121008",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121008",
+    "locality": "Sector 29",
+    "landmark": "HIG",
+    "emergencyContact": "0129 408 4466",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Faridabad",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGO-bmoY7_kSELMnKY5I4csDn9EMn4zv1mEpd8HpgdmvQ6KpwJ2-TGNgrJxwJH55qTPuVR2wnZ_aIo4gvC-TkYdiBr5ZfmffYRi9K02bDJzDGR6YCDdWMuVTsL9hx9Dbeq_6ebg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGO-bmoY7_kSELMnKY5I4csDn9EMn4zv1mEpd8HpgdmvQ6KpwJ2-TGNgrJxwJH55qTPuVR2wnZ_aIo4gvC-TkYdiBr5ZfmffYRi9K02bDJzDGR6YCDdWMuVTsL9hx9Dbeq_6ebg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4294417,
+      "lng": 77.3236363,
+      "label": "Balaji Hospital & Heart Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "batra-heart-and-multispecialty-hospital-faridabad",
+    "name": "Batra Heart & Multispecialty Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Batra Heart & Multispecialty Hospital has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering Gynecologist Surgery In Faridabad, Cardiac Care, and Speciality Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081820 42042",
+    "alternatePhone": "",
+    "website": "https://batrahealthcare.com/",
+    "address": "Block 21, Block F, Spring Field Colony, Sector 31, Faridabad, Haryana 121003",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121003",
+    "locality": "Sector 31",
+    "landmark": "Spring Field Colony",
+    "emergencyContact": "081820 42042",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Faridabad",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGfvk_wWOR-tXKocYXbk0-mRTvYYsKKndqaR-3aOloQOF1Ncua8xUt9Q-NFzGnbX6uQsJ5ELXw9q7e7K3eShPWnlpOlPxczCQPiRlIiJ9moF5yCcoif33PR4CxIH9Maht1F6W_=w1200-h900-p-k-no",
+    "logo": "https://batrahealthcare.com/wp-content/uploads/2024/08/batraheart-logo-150x104.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGfvk_wWOR-tXKocYXbk0-mRTvYYsKKndqaR-3aOloQOF1Ncua8xUt9Q-NFzGnbX6uQsJ5ELXw9q7e7K3eShPWnlpOlPxczCQPiRlIiJ9moF5yCcoif33PR4CxIH9Maht1F6W_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM4xRF0_ewfTI2UMHYaMMUHKTh7Z9bQbieJJG57=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPRRmjmcZ8HaqpvIyazl8CZz1-V-mBUSHDSryCX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPE45R5Q8LyvOOGf1bt0GGyVvPzs3MrIXgpIbvK=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMVKAbsSxyhU5lIQ0AI6zOVa2oYB1vHbo7_2aHi=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.451478,
+      "lng": 77.3143731,
+      "label": "Batra Heart & Multispecialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "best-multispeciality-hospital-in-faridabad-faridabad",
+    "name": "Best Multispeciality Hospital in Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Best Multispeciality Hospital in Faridabad has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering Laparoscopic Surgery In Faridabad and Speciality Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "080 6510 5050",
+    "alternatePhone": "",
+    "website": "https://www.pristyncare.com/delhi/c/proctology/?utm_source",
+    "address": "Building No 16, Block E, New Industrial Twp 5, New Industrial Township, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Township",
+    "landmark": "New Industrial Twp 5",
+    "emergencyContact": "080 6510 5050",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Faridabad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5D3V67KMZUV7VVdzApyzD3ooLM9C7V_OUcD4Wc6SNBrVhV8FzvjEwNAMP1NqBsBZ4pziTcRvdrJy4zpQ65noVw3G7_jxauBRgeD-HdKNzfOfcq041IoxU5slSpDYeSroy7ua84jJ96lI=w1200-h900-p-k-no",
+    "logo": "https://www.pristyncare.com/blog/wp-content/uploads/2021/01/pristyn-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5D3V67KMZUV7VVdzApyzD3ooLM9C7V_OUcD4Wc6SNBrVhV8FzvjEwNAMP1NqBsBZ4pziTcRvdrJy4zpQ65noVw3G7_jxauBRgeD-HdKNzfOfcq041IoxU5slSpDYeSroy7ua84jJ96lI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMjEcO1Pcf-XEf5LOfKX8x_GMigq8SI0uucfHus=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPFV98tnCsCPe5gJUTEk5C7UPYjXuWAqQa2KhNL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOgx3ZIqsciVwd2n_MFeaehNlCsd5pqC5uOXqQj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOwKvKgDm-HS8PVN_BuugtibBh2gI0FdPvvH-td=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3946685,
+      "lng": 77.3037962,
+      "label": "Best Multispeciality Hospital in Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "c-k-memorial-kapoor-hospital-faridabad",
+    "name": "C K Memorial Kapoor Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "C K Memorial Kapoor Hospital is a prominent general hospital in Faridabad, known for structured tertiary care across Gynecologist Surgery In Faridabad. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "092050 09577",
+    "alternatePhone": "",
+    "website": "https://drmeenu.drxpro.in/",
+    "address": "3B-9B, KL Mehta Rd, near DAV College, Block B, New Industrial Twp 3, New Industrial Township, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Township",
+    "landmark": "near DAV College, Block B, New Industrial Twp 3, New Industrial Township, Faridabad, Haryana 121001",
+    "emergencyContact": "092050 09577",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPPoo4DvMySXeiM6DwqBhO7ijnEcNcvsbATsXVUXMopkmy5PEDGAKKnxYaZj5ROp6tc7gCih1P2DNxyfQ6BtdrRYteQXa6LfP5d-ec-f1NxyE85R_zH4VDH5noao5n4R-pyR_F0A=w1200-h900-p-k-no",
+    "logo": "https://drmeenu.drxpro.in/icon-192x192.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPPoo4DvMySXeiM6DwqBhO7ijnEcNcvsbATsXVUXMopkmy5PEDGAKKnxYaZj5ROp6tc7gCih1P2DNxyfQ6BtdrRYteQXa6LfP5d-ec-f1NxyE85R_zH4VDH5noao5n4R-pyR_F0A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3977337,
+      "lng": 77.2955514,
+      "label": "C K Memorial Kapoor Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "d-m-hospital-faridabad",
+    "name": "D.M Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Faridabad, D.M Hospital delivers integrated care across Gynecologist Surgery In Faridabad. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "083759 16759",
+    "alternatePhone": "",
+    "website": "https://dmhospital.in/",
+    "address": "89 - A, NH/5, Railway Rd, New Industrial Twp 5, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Twp 5",
+    "landmark": "Railway Rd",
+    "emergencyContact": "083759 16759",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwkyw9mx6olleB4tcntjRH8te8uJjmw1TQ3nf-vNhUPXB78ZD9ykwZH6igM3lHiLzep_GoRX5OwJUtolQHcF_ZSTo7cEZvT0EZpzEyafBLZKH05ANbwKbJprE_0O8lCsJVSa19=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwkyw9mx6olleB4tcntjRH8te8uJjmw1TQ3nf-vNhUPXB78ZD9ykwZH6igM3lHiLzep_GoRX5OwJUtolQHcF_ZSTo7cEZvT0EZpzEyafBLZKH05ANbwKbJprE_0O8lCsJVSa19=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4036368,
+      "lng": 77.3058977,
+      "label": "D.M Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dd-hospital-best-hospital-in-faridabad-faridabad",
+    "name": "DD Hospital – Best Hospital in Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "DD Hospital – Best Hospital in Faridabad has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering Laparoscopic Surgery In Faridabad. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093152 09840",
+    "alternatePhone": "",
+    "website": "",
+    "address": "949, Shastri Colony, Sector 19, Faridabad, Haryana 121002",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121002",
+    "locality": "Sector 19",
+    "landmark": "Sector 19",
+    "emergencyContact": "093152 09840",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHilDPjJ_jkFXdBwI0ztya2vGfSRynhznrqBZc5yrTTE9Zj7x5hf7wnDEKBYE9J29CIgK6SpYMbkxcmy70a7qU1_QuIw7T5YEcsayJiImQXLJ5F0MZmkh3fkN-k87RgXucZQMayNiYHfQu9=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHilDPjJ_jkFXdBwI0ztya2vGfSRynhznrqBZc5yrTTE9Zj7x5hf7wnDEKBYE9J29CIgK6SpYMbkxcmy70a7qU1_QuIw7T5YEcsayJiImQXLJ5F0MZmkh3fkN-k87RgXucZQMayNiYHfQu9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4255514,
+      "lng": 77.3161068,
+      "label": "DD Hospital – Best Hospital in Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "family-dental-center-faridabad",
+    "name": "Family Dental Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Faridabad, Family Dental Center delivers integrated care across Oral Surgery In Faridabad. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Faridabad.",
+    "email": "",
+    "phone": "098994 24426",
+    "alternatePhone": "",
+    "website": "https://familydentalcentre.in/",
+    "address": "H.No. 8 Block 11, Spring Field Colony, Faridabad, Haryana 121003",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121003",
+    "locality": "Spring Field Colony",
+    "landmark": "Faridabad",
+    "emergencyContact": "098994 24426",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqBYHG7tJ8SNluCvmQR1PYx_MD_6cv-jbaORYgoaDKgBUJdDi4PZcEAKiCDBb7iWYEzK4UhnXqUOC0bvxSS276q02-bDvIv56z_MQ91wTK9bZ9229OwCWrczL42vFJyd36pdKL=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqBYHG7tJ8SNluCvmQR1PYx_MD_6cv-jbaORYgoaDKgBUJdDi4PZcEAKiCDBb7iWYEzK4UhnXqUOC0bvxSS276q02-bDvIv56z_MQ91wTK9bZ9229OwCWrczL42vFJyd36pdKL=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4512033,
+      "lng": 77.3144593,
+      "label": "Family Dental Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fortis-escorts-hospital-best-hospital-in-faridabad-faridabad",
+    "name": "Fortis Escorts Hospital - Best Hospital in Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Faridabad, Fortis Escorts Hospital - Best Hospital in Faridabad brings together specialists for Oncologist Surgery In Faridabad. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081305 33375",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/location/fortis-escorts-hospital-faridabad",
+    "address": "Neelam Bata Rd, AC Nagar, New Industrial Township, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Township",
+    "landmark": "New Industrial Township",
+    "emergencyContact": "081305 33375",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMA1v0kGdbebGc0EMgkyQr-lSOzzA0IDXf585ma4wLldv9oxz6syi5DpCuujRn0_l5mCL4TaK0v4cfeA5n6SrwBgU4xAbO0BZ2xG1vy_w-3LceM-JG-6FCDTWbplIkP7LvVuQ3jc-j9hb1=w1200-h900-p-k-no",
+    "logo": "https://www.fortishealthcare.com/themes/custom/fortis/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMA1v0kGdbebGc0EMgkyQr-lSOzzA0IDXf585ma4wLldv9oxz6syi5DpCuujRn0_l5mCL4TaK0v4cfeA5n6SrwBgU4xAbO0BZ2xG1vy_w-3LceM-JG-6FCDTWbplIkP7LvVuQ3jc-j9hb1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNMi4gpiXyf2O1VkdyXOZd_lpdOtZull9YWIblK=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOosTNXf8ABOz8x6LxIoq4tTmzVXr3brwAimQlD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPYrbGMUpEwwdIXwzj7FWP374Wd0R7J45C3i__Z=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOdHNSO0Dn2wZYryL2cnC3x0c1ktNd057D6iYCp=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.391214,
+      "lng": 77.3068975,
+      "label": "Fortis Escorts Hospital - Best Hospital in Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "geeta-hospital-faridabad",
+    "name": "Geeta Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Faridabad, Geeta Hospital brings together specialists for Gynecologist Surgery In Faridabad. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "0129 404 7396",
+    "alternatePhone": "",
+    "website": "http://www.geetahospitalfaridabad.com/",
+    "address": "Near, Link Rd, opposite Huda Market, near Raghunath Temple, HBH Colony, Sector 28, Faridabad, Haryana 121008",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121008",
+    "locality": "Sector 28",
+    "landmark": "near Raghunath Temple, HBH Colony, Sector 28, Faridabad, Haryana 121008",
+    "emergencyContact": "0129 404 7396",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_esEokwCGB6_EdX0wKYCb1wICwUN0XidTRs0Q6bO5sj9yt7R8N4Sxf1pV0Uf59zvYu9_-L8AGk2PpP0jUTLIJdQN3DaOCr16sXl0tGiAm8r8c0ihEBWXsb1pvqg4irU6dLYUl=w1200-h900-p-k-no",
+    "logo": "http://www.geetahospitalfaridabad.com/geeta-hospital-faridabad-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_esEokwCGB6_EdX0wKYCb1wICwUN0XidTRs0Q6bO5sj9yt7R8N4Sxf1pV0Uf59zvYu9_-L8AGk2PpP0jUTLIJdQN3DaOCr16sXl0tGiAm8r8c0ihEBWXsb1pvqg4irU6dLYUl=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4363506,
+      "lng": 77.3144312,
+      "label": "Geeta Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "getwell-medicentre-faridabad",
+    "name": "Getwell Medicentre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Getwell Medicentre has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering Cancer Surgery In Faridabad. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "099102 57493",
+    "alternatePhone": "",
+    "website": "https://www.getwellmedicentre.in/",
+    "address": "Shop No – 7, opposite Saidham Temple, opp. Saidham Temple, Sector 86, Faridabad, Haryana 121007",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121007",
+    "locality": "Sector 86",
+    "landmark": "opposite Saidham Temple, opp. Saidham Temple, Sector 86, Faridabad, Haryana 121007",
+    "emergencyContact": "099102 57493",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEiUFBU8KQl3HyzH0LkcLKkJIrCq_ydH7BtM08BMRRRFBI0jqaI37tgeRAhEzKyQDFJMuAMuY7GQXhgHvJL7rRfqKpLFAThlthgOb-G9qRaqSD7kr3iEtHTiPaFL7ovwgULYfiY=w1200-h900-p-k-no",
+    "logo": "https://www.getwellmedicentre.in/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEiUFBU8KQl3HyzH0LkcLKkJIrCq_ydH7BtM08BMRRRFBI0jqaI37tgeRAhEzKyQDFJMuAMuY7GQXhgHvJL7rRfqKpLFAThlthgOb-G9qRaqSD7kr3iEtHTiPaFL7ovwgULYfiY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOyS7wKr2Z2OxvYTzE3zDFg8ybLM1BnCC9caekd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMcjhO5g330mdATd_ZvL9DHUSzDwRBjtZA2xI-n=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1Qi=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM4PJ2r8vh7q3DU7w94OdQTI3AGbozUI8RX8vV2=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4082515,
+      "lng": 77.3405697,
+      "label": "Getwell Medicentre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "goyal-hospital-faridabad-surdas-park",
+    "name": "Goyal Hospital Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Surdas Park, Goyal Hospital Faridabad delivers integrated care across Cancer Surgery In Faridabad. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Surdas Park.",
+    "email": "",
+    "phone": "093122 94755",
+    "alternatePhone": "",
+    "website": "http://www.goyalhospitalfaridabad.com/",
+    "address": "Plot No. 2 opposite hanuman temple Sec 8, Surdas Park, Haryana 121006",
+    "city": "Surdas Park",
+    "state": "Haryana",
+    "pincode": "121006",
+    "locality": "Plot No. 2 opposite hanuman temple Sec 8",
+    "landmark": "opposite hanuman temple Sec 8, Surdas Park, Haryana 121006",
+    "emergencyContact": "093122 94755",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2atATeRmyJGngq0SFLBtTIMVssLeZbbH4jvT-ZCbzxBxXLLZLItaI_uMo2F7usna-KA4nXKJJTc0VXWj1YN2h6SXV8sxL9a9LqpcWyygeX5utV2Jw_xY8xCtneVRP0nWYunPf=w1200-h900-p-k-no",
+    "logo": "https://goyalhospitalfaridabad.com/wp-content/uploads/2024/07/cropped-Goyal-hospital-logo-1.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2atATeRmyJGngq0SFLBtTIMVssLeZbbH4jvT-ZCbzxBxXLLZLItaI_uMo2F7usna-KA4nXKJJTc0VXWj1YN2h6SXV8sxL9a9LqpcWyygeX5utV2Jw_xY8xCtneVRP0nWYunPf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMUUMNcrsxITe-WKvawbwGKP0iYq26q9ckJoag6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMRysEaeeIpupjX2G9sRYkwQKK4ljLuWtRQ0b8F=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNhfxLbs6aJIR-d1Cff1V-LZHyfzxJ2Swf_d_kn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMLMGsbXdsH9KY2xmb0BWB-isN69Wj1HEkwFyYe=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3645882,
+      "lng": 77.3296637,
+      "label": "Goyal Hospital Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hamdard-hospital-faridabad",
+    "name": "Hamdard Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hamdard Hospital has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering General Surgery In Faridabad. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "093156 36191",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No. 6, H, No. 1085, Gali, Badkhal, Faridabad, Haryana 121004",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121004",
+    "locality": "Badkhal",
+    "landmark": "No. 1085",
+    "emergencyContact": "093156 36191",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMaLHRhBfTgG4KAEVkrqznRrMjt3HMwvsFvMVA-23WbO27ECS59EYXMsL-Qv7bMS2Nl9Md9rG6xITG826OpzLexiEG55da94WR-HFjfjEEcCpdkByrov0UDEUQuCd8tjlczyY=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMaLHRhBfTgG4KAEVkrqznRrMjt3HMwvsFvMVA-23WbO27ECS59EYXMsL-Qv7bMS2Nl9Md9rG6xITG826OpzLexiEG55da94WR-HFjfjEEcCpdkByrov0UDEUQuCd8tjlczyY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4074558,
+      "lng": 77.2779935,
+      "label": "Hamdard Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "healink-hospital-faridabad",
+    "name": "Healink Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Healink Hospital has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering General Surgery In Faridabad. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "093109 64565",
+    "alternatePhone": "",
+    "website": "http://www.healinkhospital.com/",
+    "address": "Plot No.19, next to Punjab National Bank, Block F, Sanjay Colony, Sector 23, Faridabad, Haryana 121005",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121005",
+    "locality": "Sector 23",
+    "landmark": "Block F",
+    "emergencyContact": "093109 64565",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGfP41mLPxZpwppplxayWYNAIptkZqAuwVagz86tQ3r8whwrwA8qpHfWqanKgRc9AaoDEAFpZODeeHoIxs2G1oaAs7XVlWD0BmeEzwcIQJoJgnQo6T15dgELZLErB0f43EE4HZf=w1200-h900-p-k-no",
+    "logo": "https://www.healinkhospital.com/imgs/healink-hospital-logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGfP41mLPxZpwppplxayWYNAIptkZqAuwVagz86tQ3r8whwrwA8qpHfWqanKgRc9AaoDEAFpZODeeHoIxs2G1oaAs7XVlWD0BmeEzwcIQJoJgnQo6T15dgELZLErB0f43EE4HZf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMKFGzMO0RUdKoYS0VS9f-SvGKGZ3iJaSYeJPNX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPVpwKfiWvoH3kkEznFSBAyca8e9yN5AQOVsLN_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPrAkntvxvZ6U4JR1Ze6IxwUuzVCdUz_lkNiFrj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPFU5Ms8oIqwU7HWU5zpdEBXdyorQ1Lug6uETwx=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3510996,
+      "lng": 77.284755,
+      "label": "Healink Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ibs-ashwani-multi-specialty-hospital-faridabad",
+    "name": "IBS Ashwani Multi - Specialty Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Faridabad, IBS Ashwani Multi - Specialty Hospital delivers integrated care across General Surgery In Faridabad and Speciality Care. Its infrastructure includes Google rating 3.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "095822 27989",
+    "alternatePhone": "",
+    "website": "http://www.ibshospitals.com/",
+    "address": "Plot No 8 D, 1, YMCA Rd, Pocket D, Sector 11, Faridabad, Haryana 121006",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121006",
+    "locality": "Sector 11",
+    "landmark": "YMCA Rd",
+    "emergencyContact": "095822 27989",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3YT-4aZJiMZ3ML7yYK3vYRYLECVjBkyCRVdVDjv9ftFcYgM6FgTFStK744NS-sUgWNqbGfvr3a_i-46m5GbT1u2v8w1KEVCy9vt8_1R87syCcoJG9LJ7hgkQYOabacgYO_o9WBg=w1200-h900-p-k-no",
+    "logo": "https://www.ibshospitals.com/ibsfrontpage/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3YT-4aZJiMZ3ML7yYK3vYRYLECVjBkyCRVdVDjv9ftFcYgM6FgTFStK744NS-sUgWNqbGfvr3a_i-46m5GbT1u2v8w1KEVCy9vt8_1R87syCcoJG9LJ7hgkQYOabacgYO_o9WBg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.369234,
+      "lng": 77.3232738,
+      "label": "IBS Ashwani Multi - Specialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ilss-ashwani-hospital-institute-of-laser-and-stone-surgery-best-kidney-and-gall-stone-hospital-in-faridabad-faridabad",
+    "name": "ILSS- Ashwani Hospital (Institute of Laser and Stone Surgery) | Best Kidney And Gall Stone Hospital In Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Faridabad, ILSS- Ashwani Hospital (Institute of Laser and Stone Surgery) | Best Kidney And Gall Stone Hospital In Faridabad offers coordinated hospital care with major focus on Laparoscopic Surgery In Faridabad and Kidney Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "088747 99747",
+    "alternatePhone": "",
+    "website": "https://ilsshospitals.com/",
+    "address": "Plot No 8 D, 1, YMCA Rd, Pocket D, Sector 11, Faridabad, Haryana 121006",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121006",
+    "locality": "Sector 11",
+    "landmark": "YMCA Rd",
+    "emergencyContact": "088747 99747",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Faridabad",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3rsFipO12WSQAfYxyqCU3zGHf_rDB-uAgQvFiE-OqDNAk6BFDJCEqzQ-wCo1eCgGCroPfT-7pKPqtd8NZO6oMke83vRXVGg3fbHrmfbbn2C8WiCNKROixIvusb1I2Ml0S42d-=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3rsFipO12WSQAfYxyqCU3zGHf_rDB-uAgQvFiE-OqDNAk6BFDJCEqzQ-wCo1eCgGCroPfT-7pKPqtd8NZO6oMke83vRXVGg3fbHrmfbbn2C8WiCNKROixIvusb1I2Ml0S42d-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOtJI8boQvgKtH5LDo-MvcvFZyh7xxRkf_7X5yI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOUDl8gMV9j8mqIe4ETCEo_cZ-UTq20hQ4sCpgl=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMDfdFY5SmWen5Jd8NqxtjdxmR10DA8mXI7J_AN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMGJ5sKiktigJ4KDIB1eI2rQ7vfyBvfs8cXZs7U=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.369268,
+      "lng": 77.3232021,
+      "label": "ILSS- Ashwani Hospital (Institute of Laser and Stone Surgery) | Best Kidney And Gall Stone Hospital In Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jeewan-jyoti-hospital-faridabad",
+    "name": "Jeewan Jyoti Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Faridabad, Jeewan Jyoti Hospital brings together specialists for Gynecologist Surgery In Faridabad. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "562, Lal Bahadur Shastri Marg, Sector 15, Faridabad, Haryana 121007",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121007",
+    "locality": "Sector 15",
+    "landmark": "Sector 15",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaqRF_DB4AYpJ2sWA9u6FHYdrnbV1zAKEVN-VmRqjOrs1XqGl55GTPVli59ou7nWqOIEvIeFnHw-IAqvmUD4sL_1DoLwbYVu00efDggcXqMktWZpL5lCNJwakw-1dZVaWIZ3UAGQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaqRF_DB4AYpJ2sWA9u6FHYdrnbV1zAKEVN-VmRqjOrs1XqGl55GTPVli59ou7nWqOIEvIeFnHw-IAqvmUD4sL_1DoLwbYVu00efDggcXqMktWZpL5lCNJwakw-1dZVaWIZ3UAGQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpWhaeUTKNRh3do0RvDAbZqWyIwE5-D3MGtP36N8U48nDezalS_Q-LOWtIvhIRlCAK_M505n0hGJDALdHTa6Jia9Cecxag2DhIEkzUCP8ixzBRVEeahdb2JRKvHRhIxjHx7r2A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4021021,
+      "lng": 77.3248637,
+      "label": "Jeewan Jyoti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kant-heart-and-multispecialty-hospital-faridabad",
+    "name": "Kant Heart and Multispecialty Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Faridabad often choose Kant Heart and Multispecialty Hospital for its strength in General Surgery In Faridabad, Cardiac Care, and Speciality Care. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "098216 32425",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Satya Kunj Plaza, Chandi wala Bagh, 88Dividing Road, Hanuman Nagar, Sector 87, Neharpar Faridabad, Faridabad, Haryana 121014",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121014",
+    "locality": "Neharpar Faridabad",
+    "landmark": "88Dividing Road",
+    "emergencyContact": "098216 32425",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaoreIzen10AcIJ289MGpq3A5viJPhClGT7s13VY1Hk6ggcYH8LtANOdatMowGNCFUQHEiqhAJJ3v9oXWzSsNwyojq9lrTkypLdQIDC6g__GOvAVsdhA7hmTdOlguttxhANTBinSXKLKDO=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaoreIzen10AcIJ289MGpq3A5viJPhClGT7s13VY1Hk6ggcYH8LtANOdatMowGNCFUQHEiqhAJJ3v9oXWzSsNwyojq9lrTkypLdQIDC6g__GOvAVsdhA7hmTdOlguttxhANTBinSXKLKDO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4223637,
+      "lng": 77.3498239,
+      "label": "Kant Heart and Multispecialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kesri-clinic-faridabad-multispeciality-clinic-i-neurosurgery-i-gynaecology-i-general-surgery-faridabad",
+    "name": "Kesri Clinic Faridabad - Multispeciality Clinic I Neurosurgery I Gynaecology I General Surgery",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Faridabad often choose Kesri Clinic Faridabad - Multispeciality Clinic I Neurosurgery I Gynaecology I General Surgery for its strength in Spine Neurosurgeon In Faridabad, Neurosciences, and Speciality Care. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "0129 224 2747",
+    "alternatePhone": "",
+    "website": "",
+    "address": "284/ 7A, Faridabad, Haryana 121006",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121006",
+    "locality": "284/ 7A",
+    "landmark": "Haryana 121006",
+    "emergencyContact": "0129 224 2747",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Faridabad",
+      "Neurosciences",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgfn7Ael46jm5e-Z_WPzLJSwrbzY60WLzaeMSXa51gi26H-OlRc0nUAdMd9QEzHOk6LbpD3DxkvpQbGum_Tme4i3lSvNSF00x8dMXmhciO1GgW0YUkdGVe7rZaZaQWpYM-5ihB=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgfn7Ael46jm5e-Z_WPzLJSwrbzY60WLzaeMSXa51gi26H-OlRc0nUAdMd9QEzHOk6LbpD3DxkvpQbGum_Tme4i3lSvNSF00x8dMXmhciO1GgW0YUkdGVe7rZaZaQWpYM-5ihB=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3655592,
+      "lng": 77.3264056,
+      "label": "Kesri Clinic Faridabad - Multispeciality Clinic I Neurosurgery I Gynaecology I General Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "life-hospital-faridabad",
+    "name": "Life Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Faridabad often choose Life Hospital for its strength in General Surgery In Faridabad. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093156 96638",
+    "alternatePhone": "",
+    "website": "http://lifehospitalfaridabad.com/",
+    "address": "253, Sector 8 Rd, near Hanuman Mandir, Sector 8, Faridabad, Haryana 121006",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121006",
+    "locality": "Sector 8",
+    "landmark": "near Hanuman Mandir, Sector 8, Faridabad, Haryana 121006",
+    "emergencyContact": "093156 96638",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6wrWPbKYy3HbZ6kucjQTOKp12EYbxirwuO2g0L3po9wnfiT7eA1C3oqTiB5lpHLsdf8-CADnAiDTjVTTm-exh6nkrbAm0ZvoUeNMc1YWACFyl6sOfixIe4K0KAkjSpQaAQBiDXg=w1200-h900-p-k-no",
+    "logo": "http://lifehospitalfaridabad.com/images/logo-wide.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6wrWPbKYy3HbZ6kucjQTOKp12EYbxirwuO2g0L3po9wnfiT7eA1C3oqTiB5lpHLsdf8-CADnAiDTjVTTm-exh6nkrbAm0ZvoUeNMc1YWACFyl6sOfixIe4K0KAkjSpQaAQBiDXg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3645941,
+      "lng": 77.3298196,
+      "label": "Life Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "livewell-diabetes-and-heart-center-heart-centre-in-faridabad-eecp-therapy-echocardiography-faridabad",
+    "name": "Livewell Diabetes & Heart Center | Heart Centre in Faridabad | EECP Therapy | Echocardiography",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Faridabad, Livewell Diabetes & Heart Center | Heart Centre in Faridabad | EECP Therapy | Echocardiography brings together specialists for Heart Surgery In Faridabad, Cardiac Care, and Diabetology. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "078382 29606",
+    "alternatePhone": "",
+    "website": "http://livewelldiabetesheart.com/",
+    "address": "Shop No. 52, Ranjit Singh Market, near Swastik Farm, Sector 4, Sector 3, Faridabad, Haryana 121004",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121004",
+    "locality": "Sector 3",
+    "landmark": "near Swastik Farm, Sector 4, Sector 3, Faridabad, Haryana 121004",
+    "emergencyContact": "078382 29606",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Faridabad",
+      "Cardiac Care",
+      "Diabetology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8kkRM2WUKvX3XSCcyv41ux9m61xcb76P3TS1SDtdLmkaTYKYS_PGPv29SRbQxDn6b7PJL5qHUYttiEL-3b7jPQgEo0ozs0iOW5si6eqiT6Jgi0kCVPOO6238W2AGY=w1200-h900-p-k-no",
+    "logo": "https://livewelldiabetesheart.com/wp-content/uploads/2022/06/WhatsApp-Image-2023-09-15-at-12.37.54-removebg-preview.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8kkRM2WUKvX3XSCcyv41ux9m61xcb76P3TS1SDtdLmkaTYKYS_PGPv29SRbQxDn6b7PJL5qHUYttiEL-3b7jPQgEo0ozs0iOW5si6eqiT6Jgi0kCVPOO6238W2AGY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPqZzmh-QNCn_D6d7B-7MeQwZMKThmaqqdcmJ5d=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNn8cKFaOGfmO_AN3_kFbW-bk723jSBl_YXUHg4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP5lAshV63tzMwz050u9Mw_t4qisRbKRzDQfXx9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNFoMacf_na8OGS5n3qKiI1yxO_CNVspSPOVyAO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3524762,
+      "lng": 77.3296526,
+      "label": "Livewell Diabetes & Heart Center | Heart Centre in Faridabad | EECP Therapy | Echocardiography",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lotus-hospital-faridabad-faridabad",
+    "name": "Lotus Hospital, faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lotus Hospital, faridabad is a prominent hospital in Faridabad, known for structured tertiary care across General Surgery In Faridabad. Its infrastructure includes Google rating 3.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "098993 05644",
+    "alternatePhone": "",
+    "website": "http://thelotushospital.com/",
+    "address": "Plot No. 2, 87XP+QR7, Main, Ballabhgarh-Sohna Rd, Jeevan Nagar, Gaunchhi Gram Village, Sector 54, Faridabad, Haryana 121015",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121015",
+    "locality": "Sector 54",
+    "landmark": "Main",
+    "emergencyContact": "098993 05644",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHR3hJ72z-mu91JLNP2YEmslMdngeKbERfK-dq25mfMHa-2UT5urp6pcAZbKb5kr3usyUkyuRVYLcEWEW0njlHuODT1wae7JpGcjkc7pPKKvC0AgM4xC2lOpyIJhSg6kG2zJ3LW=w1200-h900-p-k-no",
+    "logo": "https://thelotushospital.com/assets/img/logo_blue.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHR3hJ72z-mu91JLNP2YEmslMdngeKbERfK-dq25mfMHa-2UT5urp6pcAZbKb5kr3usyUkyuRVYLcEWEW0njlHuODT1wae7JpGcjkc7pPKKvC0AgM4xC2lOpyIJhSg6kG2zJ3LW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGi5iVuZjiyml--nTx-Z3bveYdmdkocHCVwMJD7MjNtpu0gsLxBCz5yAdqhRyNr-kT0_pb-1010QCjGZ33tGgaKEYP3OuepGDR6o6i_dNgaKTwoiuXTpD3FINFcOIuMZyy1CpCP=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3501399,
+      "lng": 77.2873881,
+      "label": "Lotus Hospital, faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "m-k-verma-hospital-faridabad-faridabad",
+    "name": "M K Verma Hospital Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "M K Verma Hospital Faridabad has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering General Surgery In Faridabad. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "098994 95888",
+    "alternatePhone": "",
+    "website": "http://www.mkvermahospital.in/",
+    "address": "PLot no :6-7, Kheri Rd, Hanuman Nagar, Sector 87, Neharpar Faridabad, Faridabad, Haryana 121014",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121014",
+    "locality": "Neharpar Faridabad",
+    "landmark": "Hanuman Nagar",
+    "emergencyContact": "098994 95888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPss5oIjrq3Cwkwo2XzYhbgyIDb_roNmHHDbW61UU865vat9pQtXZ7175wU97zIVy8Ed3y-fnIiF_r_wga-r9Oe5aNMxE0-CMz7NtuHD168E5S-c0hAOa1PPIORQ8x9FI3APJd0Q=w1200-h900-p-k-no",
+    "logo": "http://www.mkvermahospital.in/images/logo/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPss5oIjrq3Cwkwo2XzYhbgyIDb_roNmHHDbW61UU865vat9pQtXZ7175wU97zIVy8Ed3y-fnIiF_r_wga-r9Oe5aNMxE0-CMz7NtuHD168E5S-c0hAOa1PPIORQ8x9FI3APJd0Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4201467,
+      "lng": 77.3475776,
+      "label": "M K Verma Hospital Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "madhav-multispeciality-hospital-faridabad",
+    "name": "Madhav multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Faridabad, Madhav multispeciality Hospital brings together specialists for General Surgery In Faridabad and Speciality Care. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "075034 07277",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shahid Sukhdev Marg, Block F, New Industrial Twp 5, New Industrial Township, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Township",
+    "landmark": "New Industrial Twp 5",
+    "emergencyContact": "075034 07277",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8yy4NpVu-CbAKidJEyE_hBA9nrY92gylsMHrLZjl8l_JPSsF6oPzxRve7A2GqdiWshbyd9Uo3oEWPPplvAP4sYr8loTrgLopHKnd8zssa7w-O9JQZ6rSkL25ImV8w22pj6h5c=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8yy4NpVu-CbAKidJEyE_hBA9nrY92gylsMHrLZjl8l_JPSsF6oPzxRve7A2GqdiWshbyd9Uo3oEWPPplvAP4sYr8loTrgLopHKnd8zssa7w-O9JQZ6rSkL25ImV8w22pj6h5c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3944007,
+      "lng": 77.3037986,
+      "label": "Madhav multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "marengo-asia-hospitals-faridabad-faridabad",
+    "name": "Marengo Asia Hospitals, Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Faridabad, Marengo Asia Hospitals, Faridabad delivers integrated care across Oncologist Surgery In Faridabad. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Faridabad.",
+    "email": "",
+    "phone": "1800 309 2222",
+    "alternatePhone": "",
+    "website": "https://www.marengoasiahospitals.com/",
+    "address": "Plot No.1, HUDA Staff Colony, Sector 16, Faridabad, Haryana 121002",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121002",
+    "locality": "Sector 16",
+    "landmark": "Sector 16",
+    "emergencyContact": "1800 309 2222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1-E0whBXdY1b5JKyuz-8BI--1yhWIJo6hI8XhTo0qxC_6B9MrBL0md-QuF_mGQYjYu88ngBS1PLEm3kBqqiR3sMLUXZhF4qDZtvKPY3oVAd9oqir834izgEu_SeiOmmCnuiWdxg=w1200-h900-p-k-no",
+    "logo": "https://www.marengoasiahospitals.com/static/uploads/47431bbf-6a53-4027-9974-627e3436c5db-1778248409802.jpeg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1-E0whBXdY1b5JKyuz-8BI--1yhWIJo6hI8XhTo0qxC_6B9MrBL0md-QuF_mGQYjYu88ngBS1PLEm3kBqqiR3sMLUXZhF4qDZtvKPY3oVAd9oqir834izgEu_SeiOmmCnuiWdxg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOr4QVhkRXtbadqpquNbGvR3YWvPM_8n4bAdmMV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNSzLHcKeHLiiGsk1Jh2RlxiGNFDS8ETDDBhmKP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMLjbitgh-398B8sVofuGLahnrTLywsBPeaMVSd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPir6GtpHzH_BakxOScnBWdbqz0wigZslqLJbJb=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4156792,
+      "lng": 77.3187616,
+      "label": "Marengo Asia Hospitals, Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "max-stone-and-surgical-center-faridabad",
+    "name": "Max Stone & Surgical Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Faridabad, Max Stone & Surgical Center brings together specialists for Laparoscopic Surgery In Faridabad. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://maxhospitalfaridabad.com/",
+    "address": "SSI, Plot No. 2, Block A, New Industrial Twp 3, New Industrial Township, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Township",
+    "landmark": "Block A",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.3992468%2C77.2966832&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.3992468%2C77.2966832&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.3992468%2C77.2966832&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.3992468%2C77.2966832&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3992468,
+      "lng": 77.2966832,
+      "label": "Max Stone & Surgical Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medicheck-hospital-faridabad",
+    "name": "Medicheck Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Faridabad, Medicheck Hospital offers coordinated hospital care with major focus on General Surgery In Faridabad. Operational strengths including Google rating 3.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "080108 00100",
+    "alternatePhone": "",
+    "website": "https://medicheckhospitals.in/",
+    "address": "1C / 76 & 53, Market, 1 Near, Vishwakarma Setu, New Industrial Twp 1, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Twp 1",
+    "landmark": "1 Near",
+    "emergencyContact": "080108 00100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyc8__scqxjj054FCjiDZyWZPmQWKJFJR75lkqKKFT0sNmsLLbxJPObd5vC5nFaMRPQ4lgOcQ60rhriC-cw1Do7w5Ss6zKbC32qai3X5Lbotzz8EinJWrvc5h7FZsiNxJG7TFmKEeTvT4=w1200-h900-p-k-no",
+    "logo": "https://medicheckhospitals.in/_next/image?url=%2Fmedichecklogo.jpg&w=640&q=75",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyc8__scqxjj054FCjiDZyWZPmQWKJFJR75lkqKKFT0sNmsLLbxJPObd5vC5nFaMRPQ4lgOcQ60rhriC-cw1Do7w5Ss6zKbC32qai3X5Lbotzz8EinJWrvc5h7FZsiNxJG7TFmKEeTvT4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPhlIdwwaCyjwGQo7FADLVHr9gyuY-hzy-5icKc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOUR8hab672lv1eyJqU1FAV1aevpUpX9a76064b=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO7AGiTXtRPCwlc-GLny7G_4s3yoW1QrDmtSgld=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPGN1NPV6WIDHjPHWDZ8lGsCizzqZ087HMvAOrU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3810481,
+      "lng": 77.3020196,
+      "label": "Medicheck Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medicheck-ortho-superspeciality-hospital-faridabad",
+    "name": "Medicheck Ortho Superspeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medicheck Ortho Superspeciality Hospital has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering IVF In Faridabad, Orthopaedics, and Speciality Care. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.medicheckhospitals.in/",
+    "address": "NH site no. 2, HBH Colony, Sector 46, Faridabad, Haryana 121010",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121010",
+    "locality": "Sector 46",
+    "landmark": "Sector 46",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Faridabad",
+      "Orthopaedics",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF77js6-YlcObO2r_jSUaz4PO0HJsTMAGILGtKxuOItryh8mRQ_xzTfOam5vWUXOexKH4hPXhDN7ViBYvGwuNfrnos5fNk407B8k8bs1GV-16NzrqTtSlWCKR0lUTamvHBUHnNNiBtfU-0F=w1200-h900-p-k-no",
+    "logo": "https://medicheckhospitals.in/_next/image?url=%2Fmedichecklogo.jpg&w=640&q=75",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF77js6-YlcObO2r_jSUaz4PO0HJsTMAGILGtKxuOItryh8mRQ_xzTfOam5vWUXOexKH4hPXhDN7ViBYvGwuNfrnos5fNk407B8k8bs1GV-16NzrqTtSlWCKR0lUTamvHBUHnNNiBtfU-0F=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOnep_Ths0O2s1Ug-Spn8uotfaT7bRVd-p44Y5s=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNuJXofNUb8S05A7_m1bANi31XWE5xKj1RJdopV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOBhfa2BF5e7JAS0_SY7zPJ9yKVPG7y8PVj7zAZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP_-XRyPedpjwN7I0BROxBO89WEa2J5nDeeC_c2=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4388436,
+      "lng": 77.2995875,
+      "label": "Medicheck Ortho Superspeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "metro-cancer-institute-faridabad",
+    "name": "Metro Cancer Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Faridabad often choose Metro Cancer Institute for its strength in Oncologist Surgery In Faridabad. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070656 60066",
+    "alternatePhone": "",
+    "website": "https://www.metrohospitalfaridabad.com/",
+    "address": "Metro Heart Institute and Multispeciality, Nirman Kunj, ADB PWD Colony, Sector 16A, Faridabad, Haryana 121002",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121002",
+    "locality": "Sector 16A",
+    "landmark": "ADB PWD Colony",
+    "emergencyContact": "070656 60066",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAELzkjuZ9r4noj_yamXu-XkTfFiEHp2MMu_HsyvKfIjkLaEcSW-9eV3ioI1YlaYgf-rwZKvYEp75pG_7Lc8-idoGG1_CoAe0IJQu--ZosQ668Agus1ZfUtu4Xd6x-y9FtFb0Q3B=w1200-h900-p-k-no",
+    "logo": "https://metrohospitalfaridabad.com/wp-content/uploads/2022/03/metro-hospital-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAELzkjuZ9r4noj_yamXu-XkTfFiEHp2MMu_HsyvKfIjkLaEcSW-9eV3ioI1YlaYgf-rwZKvYEp75pG_7Lc8-idoGG1_CoAe0IJQu--ZosQ668Agus1ZfUtu4Xd6x-y9FtFb0Q3B=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3Dv7Bso7Bw5hN4vsz1fju86AvTSR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3Dv7Bso7Bw5hN4vsz1fju86AvTSRR96_deF6jWJqFsaaAicuJLDxu74XrLsiFQflCtMAocygL3WIRDzQiTNB9_MWw6IZjDY6gLDKnfk_5rs5rjrQRpLGTc-T7zlRHMRt9gFPNhQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4060855,
+      "lng": 77.3181804,
+      "label": "Metro Cancer Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "metro-heart-institute-with-multispeciality-faridabad-delhi",
+    "name": "Metro Heart Institute with Multispeciality",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Faridabad (Delhi, Metro Heart Institute with Multispeciality brings together specialists for Knee Replacement Surgery In Faridabad, Cardiac Care, and Speciality Care. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad (Delhi can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0129 691 1111",
+    "alternatePhone": "",
+    "website": "http://www.metrohospitalfaridabad.com/",
+    "address": "Sector 16 A, Faridabad (Delhi, Haryana 121002",
+    "city": "Faridabad (Delhi",
+    "state": "Haryana",
+    "pincode": "121002",
+    "locality": "Sector 16 A",
+    "landmark": "Haryana 121002",
+    "emergencyContact": "0129 691 1111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Faridabad",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXOj-nizODx6zMxEiDbl1Y2Ln3JhDuT0e5BzDyPmrWjecaBhQhrj64RXnvgBNe8MOcU6fwIA00DGMroVtm6VOA-0NOT-L2R10n82VVIVhc-9-0iGQTvzzzkDGkYgXEaZmYeMrF=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXOj-nizODx6zMxEiDbl1Y2Ln3JhDuT0e5BzDyPmrWjecaBhQhrj64RXnvgBNe8MOcU6fwIA00DGMroVtm6VOA-0NOT-L2R10n82VVIVhc-9-0iGQTvzzzkDGkYgXEaZmYeMrF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbMH0Xw0O85o2UkgEqwlV45PVL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbMH0Xw0O85o2UkgEqwlV45PVLIlBqvRJPliRIFZY_34nHBTxA8bVLPSekzxV7Hmf9xzRSjSCB8MMOiZP70Z9HpKQP8H2My3Ugl8-ukcbjDRLDRwi-E7tnN0JKNK7VXgzC2GCpJzzcmYTJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgYJBBCh55mBgt5bHFRxNLJO9i1CDGvrK4FSsx8nDQMb32_JFShZtfxLk04XqEaK7WmNoLQ-VXfoFqqP8VjXMle64DGpDG6198LIqrruY2cRW_lY6N6oTqFufmq7vcUNtni91t=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJHdTWb07iJCG0fmN4Ubd3vj8YrqLBtuo1kfH90TZlCW8FdncQMiC-azP9ydae7wDWtjUCElQ2oQFo4qigrkKFIUsGlft3zuOk8PsvSruekPUUvbRageoY3ggWf5cDmP96AudD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4062409,
+      "lng": 77.3180601,
+      "label": "Metro Heart Institute with Multispeciality",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "metro-hospital-faridabad",
+    "name": "Metro hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Metro hospital has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering Heart Surgery In Faridabad. Its infrastructure includes Google rating 3.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C849+C9V, Nirman Kunj, ADB PWD Colony, Sector 16A, Faridabad, Haryana 121002",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121002",
+    "locality": "Sector 16A",
+    "landmark": "ADB PWD Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEET9gLEL59wGS_lv3pPOpa2arH3nmE1bKaAdEseIfKcJPryrypEq2Y7koMXBuKmgytk5R6H-smq8L0-8SLjpnDpgKk4e-RG6Ifc6PBIUtQF9FUbUnycXR9yreiU1qxNKqJmfdL60cwQxc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEET9gLEL59wGS_lv3pPOpa2arH3nmE1bKaAdEseIfKcJPryrypEq2Y7koMXBuKmgytk5R6H-smq8L0-8SLjpnDpgKk4e-RG6Ifc6PBIUtQF9FUbUnycXR9yreiU1qxNKqJmfdL60cwQxc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4061018,
+      "lng": 77.3184245,
+      "label": "Metro hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "new-care-hospital-and-trauma-center-faridabad",
+    "name": "New Care Hospital. And Trauma Center.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Faridabad often choose New Care Hospital. And Trauma Center. for its strength in General Surgery In Faridabad. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078895 69437",
+    "alternatePhone": "",
+    "website": "http://www.newcarehospital.com/",
+    "address": "Plot no 447, Sohna Rd, near Lal Kothi, Block F, Sanjay Colony, Sector 23, Faridabad, Haryana 121004",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121004",
+    "locality": "Sector 23",
+    "landmark": "near Lal Kothi, Block F, Sanjay Colony, Sector 23, Faridabad, Haryana 121004",
+    "emergencyContact": "078895 69437",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGCK-6xaoGRRtVW8jY9TM-UTj2rHTAiaMlAjkYwtzAN33Nia6rFP_YMU75UZZEdsrGHE60ap78-KfdBXS3OVhWV0nLGoAVbyMG4r-9Ti1AwaRQsAITb8nTl5eql6j646anZfgxdOnq4rrI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGCK-6xaoGRRtVW8jY9TM-UTj2rHTAiaMlAjkYwtzAN33Nia6rFP_YMU75UZZEdsrGHE60ap78-KfdBXS3OVhWV0nLGoAVbyMG4r-9Ti1AwaRQsAITb8nTl5eql6j646anZfgxdOnq4rrI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP8D4oV8fXdB4TTOxlHoNSe4Qy5SI8zQF8Iaubn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOsrX8Dm5EO_O0TwM8VUPhD_LNJpnRQsa6hp7=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOsrX8Dm5EO_O0TwM8VUPhD_LNJpnRQsa6hp75N=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP5W7IOMzl8o_PV8ttZxRigkZA1jqXmlElGc6Ex=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3501709,
+      "lng": 77.2884543,
+      "label": "New Care Hospital. And Trauma Center.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "om-global-hospital-best-multispeaciality-hospital-in-faridabad-faridabad",
+    "name": "OM Global Hospital, Best Multispeaciality Hospital in Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "OM Global Hospital, Best Multispeaciality Hospital in Faridabad is a prominent hospital in Faridabad, known for structured tertiary care across Gynecologist Surgery In Faridabad. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "096679 31822",
+    "alternatePhone": "",
+    "website": "http://omglobalhospital.com/",
+    "address": "Plot No. 400, opposite Huda Market, Sector 7B, Sector 7, Faridabad, Haryana 121006",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121006",
+    "locality": "Sector 7",
+    "landmark": "opposite Huda Market, Sector 7B, Sector 7, Faridabad, Haryana 121006",
+    "emergencyContact": "096679 31822",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFngsKMn1hidFUzbRlRGg9sL1k0fATEKEXTVgWX5EghznVGpv-dIVugXfO8QLU8It5BPAHlRCLqteHGeXmNMTFoVnc7WPQuAvrkr9cYKaVtuSrPxHz1nBP1pkbWV9wyL8exB7rOemkUiYJn=w1200-h900-p-k-no",
+    "logo": "https://omglobalhospital.com/wp-content/uploads/2025/04/om-global-hospital-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFngsKMn1hidFUzbRlRGg9sL1k0fATEKEXTVgWX5EghznVGpv-dIVugXfO8QLU8It5BPAHlRCLqteHGeXmNMTFoVnc7WPQuAvrkr9cYKaVtuSrPxHz1nBP1pkbWV9wyL8exB7rOemkUiYJn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNDHWRFE934BOsEc0ht8GgKjumJiIdDol0HqBQq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMQSdq2ai_EIW4tqlow9vkoMw0m6BRPGKw7xG8r=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMnbwtRvt8tNJI7qUIPrLyj4tN6T2DZnRrhcMQ4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPshNgSZ097SQZXxwioONGGN2i2fIv_b7e_nBz5=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3644627,
+      "lng": 77.3268789,
+      "label": "OM Global Hospital, Best Multispeaciality Hospital in Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "p-r-curewell-clinic-faridabad",
+    "name": "P R Curewell clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "P R Curewell clinic is a prominent hospital in Faridabad, known for structured tertiary care across Plastic Surgery In Faridabad. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "082857 08325",
+    "alternatePhone": "",
+    "website": "http://prcurewell.com/",
+    "address": "B10 road house, B 10-7, sector-85, BPTP Parklands, 7, Sector 85, Faridabad, Haryana 121007",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121007",
+    "locality": "Sector 85",
+    "landmark": "sector-85",
+    "emergencyContact": "082857 08325",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFTTGvyA9EGHNS36-N2mHouAENpPfyG2HeozCWFE6l3ohlvk89qxB81hwp-l08XCoucYQAGDO_16fRIuSgfHVkK7YrXAN4abMZAyQLqxtXEdT7HXqqlOK4f9_OWTP31MIKcW0=w1200-h900-p-k-no",
+    "logo": "https://prcurewell.com/wp-content/uploads/2022/10/prcurewell-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFTTGvyA9EGHNS36-N2mHouAENpPfyG2HeozCWFE6l3ohlvk89qxB81hwp-l08XCoucYQAGDO_16fRIuSgfHVkK7YrXAN4abMZAyQLqxtXEdT7HXqqlOK4f9_OWTP31MIKcW0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4066024,
+      "lng": 77.3553519,
+      "label": "P R Curewell clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "park-hospital-faridabad-faridabad",
+    "name": "Park Hospital, Faridabad",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Faridabad often choose Park Hospital, Faridabad for its strength in General Surgery In Faridabad. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0124 674 6079",
+    "alternatePhone": "",
+    "website": "https://www.parkhospital.in/hospital/super-multispeciality-hospital-in-faridabad?utm_source",
+    "address": "opposite Court, J Block, Sector 10 HBC, Faridabad, Haryana 121006",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121006",
+    "locality": "Sector 10 HBC",
+    "landmark": "Sector 10 HBC",
+    "emergencyContact": "0124 674 6079",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_h7XaLCh4jA_Ex5_APJFi5G8l5TDtJ6M58xkzu-7wPQCajDqV07ShvmYlzw8VEeA-JdeiA0A2Wh9ljs2Skp4IcICuh4HdGEEWQ4KQZZkpIx_9MuMBWtLRxZThQRgFreSMx2eH8Q=w1200-h900-p-k-no",
+    "logo": "https://www.parkhospital.in/public/frontend/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_h7XaLCh4jA_Ex5_APJFi5G8l5TDtJ6M58xkzu-7wPQCajDqV07ShvmYlzw8VEeA-JdeiA0A2Wh9ljs2Skp4IcICuh4HdGEEWQ4KQZZkpIx_9MuMBWtLRxZThQRgFreSMx2eH8Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNoQycPeR1EVKg8kE6xZgfI5Yf1hnd_EABNO6fX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMjmGuVcUuFWoRwT_KtIwKnGrrsp6mxleSuCW9h=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEudPBOfB7xczwR_-_V7IAPkU7QIOyX2_oHfKajVGfEAgphaiM2zBOvo569lrPdtLBRAmdSIbD7YZaExh0qvOso0Hgqx1LtgZ6d6Psoy-axZRCS9TL1p-bzJP12X-s13G06fAg1iA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.377459,
+      "lng": 77.3258565,
+      "label": "Park Hospital, Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "poonam-mehta-hospital-faridabad",
+    "name": "Poonam mehta hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Faridabad, Poonam mehta hospital delivers integrated care across Gynecologist Surgery In Faridabad. With public-facing highlights like Google rating 4.1, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Faridabad.",
+    "email": "",
+    "phone": "0129 241 5787",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no 5E, 81, Block E, New Industrial Twp 5, New Industrial Township, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Township",
+    "landmark": "Block E",
+    "emergencyContact": "0129 241 5787",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9AgtbRgmURSqoOcb7wTJD7hu--Xugl-nlRJhqNrhL96UzKjbgKFb3SQgcAup0J_qcTc06cczBvxCteMflCT-Kxs53TYE2BTsO1hemFcXX1tDuO14E1fXM0CGjuHzLfxjqMPOn=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9AgtbRgmURSqoOcb7wTJD7hu--Xugl-nlRJhqNrhL96UzKjbgKFb3SQgcAup0J_qcTc06cczBvxCteMflCT-Kxs53TYE2BTsO1hemFcXX1tDuO14E1fXM0CGjuHzLfxjqMPOn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3939419,
+      "lng": 77.3051842,
+      "label": "Poonam mehta hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "prayag-super-speciality-hospital-pvt-ltd-faridabad",
+    "name": "PRAYAG SUPER SPECIALITY HOSPITAL PVT.LTD",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "PRAYAG SUPER SPECIALITY HOSPITAL PVT.LTD is a prominent hospital in Faridabad, known for structured tertiary care across General Surgery In Faridabad and Speciality Care. With public-facing highlights like Google rating 4.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "095828 57776",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NEAR, POLICE STATION, 67/ NH RAILWAY STATION ROAD, New Industrial Twp 5, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Twp 5",
+    "landmark": "67/ NH RAILWAY STATION ROAD",
+    "emergencyContact": "095828 57776",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOqzSA_Df9-Ab9Y7WM2SVtKU2jNMdWqAj3b-HG1teJthFvD5Ke5LPu1bJ3gTqqbT8gcDw7Kv8jMb0SpLJprJsXTqGhOA6XpOuWJhbacb-kS2qWciuhsm-ZeK4UZfv4TtP1nOoCJA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOqzSA_Df9-Ab9Y7WM2SVtKU2jNMdWqAj3b-HG1teJthFvD5Ke5LPu1bJ3gTqqbT8gcDw7Kv8jMb0SpLJprJsXTqGhOA6XpOuWJhbacb-kS2qWciuhsm-ZeK4UZfv4TtP1nOoCJA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4075236,
+      "lng": 77.3055044,
+      "label": "PRAYAG SUPER SPECIALITY HOSPITAL PVT.LTD",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "saaol-heart-centre-faridabad-faridabad",
+    "name": "Saaol Heart Centre - Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Saaol Heart Centre - Faridabad is a prominent hospital in Faridabad, known for structured tertiary care across Heart Surgery In Faridabad and Cardiac Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "097737 08127",
+    "alternatePhone": "",
+    "website": "https://www.saaoldelhi.com/faridabad/",
+    "address": "H. No- 1356, opposite Gurudwara, Sector 15, Faridabad, Haryana 121007",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121007",
+    "locality": "Sector 15",
+    "landmark": "opposite Gurudwara, Sector 15, Faridabad, Haryana 121007",
+    "emergencyContact": "097737 08127",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Faridabad",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGklUQv1haHDs2yhwA76lD4YCRN8ufsZ4rBMNMATBd5xx0hDYJhx1JJZc5-0Y8a3aDvMyo_0-Ekd0aik6JsiT4CoxKvewKbcF4lUN996j7eewG2NSkmHvBypqSKK7aIHA8OO0vVCIQzVys=w1200-h900-p-k-no",
+    "logo": "https://www.saaoldelhi.com/wp-content/uploads/2024/02/cropped-SAAOL-Logo-White-Background-No-Filter-1.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGklUQv1haHDs2yhwA76lD4YCRN8ufsZ4rBMNMATBd5xx0hDYJhx1JJZc5-0Y8a3aDvMyo_0-Ekd0aik6JsiT4CoxKvewKbcF4lUN996j7eewG2NSkmHvBypqSKK7aIHA8OO0vVCIQzVys=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOjsCQsAQPTZtRdQiAwlXDtvktbTr94ct8Z-aIq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipND_Cy72Ru5raEY6vYK1_O7iuwWAigWAvtGlEWO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOqz6gld0v8Wl5f47pl2ako6MYe60bQXhLV8Xq1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNwoKUWLUhEuesLflD_wf9b3kGqEvxZxWVga21q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3939605,
+      "lng": 77.321705,
+      "label": "Saaol Heart Centre - Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sai-hospital-faridabad",
+    "name": "Sai Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Faridabad often choose Sai Hospital for its strength in Heart Surgery In Faridabad. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092127 77792",
+    "alternatePhone": "",
+    "website": "https://saihospitalfaridabad.com/",
+    "address": "Plot no 2, sector 30, huda market, faridabad Sector 30 Entry from gate 1, Faridabad, Haryana 121003",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121003",
+    "locality": "faridabad Sector 30 Entry from gate 1",
+    "landmark": "huda market",
+    "emergencyContact": "092127 77792",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1bn3o0suFLsbQ9PCS2wSbfTl1evR-yCLIheD6d90zc7E9OWRwEycqMeBQRgD_LM1hYrhLhtyJtLYot7Czeiryu9Ur661zutxPv4ertvnNaGCurSgTa3yYAOei0Jdrw_YNnpM=w1200-h900-p-k-no",
+    "logo": "https://saihospitalfaridabad.com/wp-content/uploads/2023/06/logo-mobile-3-jpg.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1bn3o0suFLsbQ9PCS2wSbfTl1evR-yCLIheD6d90zc7E9OWRwEycqMeBQRgD_LM1hYrhLhtyJtLYot7Czeiryu9Ur661zutxPv4ertvnNaGCurSgTa3yYAOei0Jdrw_YNnpM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4448315,
+      "lng": 77.3185778,
+      "label": "Sai Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "santosh-hospital-faridabad",
+    "name": "Santosh Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Faridabad, Santosh Hospital delivers integrated care across Gynecologist Surgery In Faridabad. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "0129 436 0139",
+    "alternatePhone": "",
+    "website": "https://santoshhospitalfaridabad.com/",
+    "address": "Plot No. 3F/139, Block F, New Industrial Twp 2, New Industrial Township, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Township",
+    "landmark": "New Industrial Twp 2",
+    "emergencyContact": "0129 436 0139",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9J5WFK4eHo_W7M2H1kSNAIMVDKONAkLhj971IPCc9KDyvP4zjiBCQJSBIRu36kcx7RUFFNw_V5DzCatlhOYd1yAHNA_D7ZHTToZ8U69cUE4IlDEX_sv5fVjEZ4EzGAVnMfIGQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9J5WFK4eHo_W7M2H1kSNAIMVDKONAkLhj971IPCc9KDyvP4zjiBCQJSBIRu36kcx7RUFFNw_V5DzCatlhOYd1yAHNA_D7ZHTToZ8U69cUE4IlDEX_sv5fVjEZ4EzGAVnMfIGQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKcohUyc2OZY3TuLbdsqnn3_6wZBtWho2p3DBEgEIPOS09iF1xefSZqrj2I3FmMBRVz3G2M2XtzZ5-jL4ZEdBbFzYBSeoY0Ve8g7dVx8fdt26xs3O7_NpOrhSnhmhrxaHt2hBqWRd1V4GR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.395729,
+      "lng": 77.2900103,
+      "label": "Santosh Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sarvodaya-hospital-sec-8-faridabad-faridabad",
+    "name": "Sarvodaya Hospital, Sec 8 Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sarvodaya Hospital, Sec 8 Faridabad has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering Hip Replacement Surgery In Faridabad. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "1800 313 1414",
+    "alternatePhone": "",
+    "website": "https://www.sarvodayahospital.com/hospitals/sarvodaya-hospital-sec-8-faridabad",
+    "address": "Sector-8, YMCA Rd, near Escorts Mujesar Metro Station, Sector 8, Faridabad, Haryana 121006",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121006",
+    "locality": "Sector 8",
+    "landmark": "near Escorts Mujesar Metro Station, Sector 8, Faridabad, Haryana 121006",
+    "emergencyContact": "1800 313 1414",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxjhqvIXrqBNlscEBpXUsjmtpAlb-R4ZkuPk4kj972NWyVE8BxW76psl89Y2b9kDqb8Fupy-avP-3gz9pFwd4T5evTSZE7P6uwGZ5Uy3BYTB4zRVvX2b5arcg_nBcr8py3Jj-nma0Prbpe=w1200-h900-p-k-no",
+    "logo": "https://www.sarvodayahospital.com/img/logo-ori.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxjhqvIXrqBNlscEBpXUsjmtpAlb-R4ZkuPk4kj972NWyVE8BxW76psl89Y2b9kDqb8Fupy-avP-3gz9pFwd4T5evTSZE7P6uwGZ5Uy3BYTB4zRVvX2b5arcg_nBcr8py3Jj-nma0Prbpe=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE63jefsLQjwFYvyFeqfFtNsrWdrCuMRupIbyh0WfCimA_5Kyw3tAHe2x74NlOT8OPVGj_FXw7UK6BiLp_2-51rJFQnhRV-7MBHDc4TnNOf-Yn-WxyZgzcoYvoIeR-Q4AMp8qujGbcqe0_g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeA99xc0-P6u3b8u6DxCU7yQjI_doRLq7XLH2i6vEIVACE5MZsjIFkN4-WOWAUvsaBuCDddIG1CgMIfrFCBH0QI40eiMmlousR-X8BXwCL7Y4qB5yETPqM6yFQUF3LqrkAvRCP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuaSgZKP20QK5OuJFgOOnIT4k0eDnH-6L4WZok6jE7JTDHFOq8yqr-_uPBd4n0OmQ_maqeM-56lvbX_87OLfJpE-opB06j4-4-5P3f027oDQWM2vmVn9ST2pfkhCBAJm9IAjSqnA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSIpPXH6Lq88mFQj5x3E1iBPEpDDzC8zi4nTudRoU8xZMxlyatiOLZyPxV2VajJEYTRGYNbkkgY22xtsdez7EsaL5EQwxSpGF94nZUphQKxp5UWV9CZS3VcqBAqGY_w6gYiLxi_g=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3678285,
+      "lng": 77.3359249,
+      "label": "Sarvodaya Hospital, Sec 8 Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sarvodaya-hospital-sec-19-faridabad-faridabad",
+    "name": "Sarvodaya Hospital, Sec-19, Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Faridabad, Sarvodaya Hospital, Sec-19, Faridabad delivers integrated care across Hip Replacement Surgery In Faridabad. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "1800 313 1414",
+    "alternatePhone": "",
+    "website": "https://www.sarvodayahospital.com/hospitals/sarvodaya-hospital-sec-19-faridabad",
+    "address": "Sarvodaya Hospital, Sec-19, Gopi Colony, Old Faridabad, Faridabad, Haryana 121002",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121002",
+    "locality": "Old Faridabad",
+    "landmark": "Gopi Colony",
+    "emergencyContact": "1800 313 1414",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHG1C2s50wNC9mPW92YWH7U8CtHT4mxW5Kxhg1k0x__hEVD7Q_Q8bW0vDsiW77dqFhh4_0l0pSgEbs_PZKpH-5na0VOJhRMqnX0fC4Hq219v4CrJ503CZrhoTgfkob_BhQiwwxWyw=w1200-h900-p-k-no",
+    "logo": "https://www.sarvodayahospital.com/img/logo-ori.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHG1C2s50wNC9mPW92YWH7U8CtHT4mxW5Kxhg1k0x__hEVD7Q_Q8bW0vDsiW77dqFhh4_0l0pSgEbs_PZKpH-5na0VOJhRMqnX0fC4Hq219v4CrJ503CZrhoTgfkob_BhQiwwxWyw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPKihv33kdOqPGckMRYv4oy0JxyDssYq88vEDE2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP788JE5340_rZIEzTLWWIpB17A5nsPTPwxasdb=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO6NbTvtHVWpHomIgegZUl7mAIAMWOWxBzeNcH7=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipONgRxTHBtlNeKjJ9_QQjp3fGvkBbZmUjOpWOEN=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4225147,
+      "lng": 77.3167406,
+      "label": "Sarvodaya Hospital, Sec-19, Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sattya-hospital-dr-c-m-goswami-faridabad",
+    "name": "Sattya Hospital (Dr C.M.Goswami)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sattya Hospital (Dr C.M.Goswami) has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering Laparoscopic Surgery In Faridabad. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0129 434 0530",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no. 375, 376, I P Colony, Indraprastha Colony, Sector 32, Faridabad, Haryana 121003",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121003",
+    "locality": "Sector 32",
+    "landmark": "I P Colony",
+    "emergencyContact": "0129 434 0530",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjTRRImPQl3ZDC85HueKRemog7fMBhgUE1SZjcFw2pgeTTG4GGEB9v6WTChiea4JIIVnKqg0bnnRXL7LhcrEpqPGHxE-nPvJeEbnR3MJG0Tgl-7r28s4ZC0gxG9s_urw_pE47o=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjTRRImPQl3ZDC85HueKRemog7fMBhgUE1SZjcFw2pgeTTG4GGEB9v6WTChiea4JIIVnKqg0bnnRXL7LhcrEpqPGHxE-nPvJeEbnR3MJG0Tgl-7r28s4ZC0gxG9s_urw_pE47o=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhprf9v6rFc-KJHuDskOpsh7Qkca6eC0_Re_xJ3973w9TYM3nCgeqC2Y64xnzAkufP8SGKzG9NM9aCX-awsZif4TaFrtbvzphDhbJ0rbAnr2cu73230Ey71vz3H4whktlcfRWhH2L0Eco=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4516381,
+      "lng": 77.316131,
+      "label": "Sattya Hospital (Dr C.M.Goswami)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "seeds-of-innocens-ivf-centre-best-ivf-centre-in-faridabad-haryana-faridabad",
+    "name": "Seeds of Innocens IVF Centre - Best IVF Centre in Faridabad, Haryana",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Seeds of Innocens IVF Centre - Best IVF Centre in Faridabad, Haryana has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering IVF In Faridabad and Fertility Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098103 50512",
+    "alternatePhone": "",
+    "website": "https://www.seedsofinnocens.com/haryana/best-ivf-centre-in-faridabad/",
+    "address": "A-6/A, Neelam Bata Rd, Above ICICI Bank, Nehru Ground, New Industrial Twp 1, New Industrial Township, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Township",
+    "landmark": "Above ICICI Bank",
+    "emergencyContact": "098103 50512",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Faridabad",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpQ_B0txb2S160bGpLrOfJjYb53WwYoec2EX9b4hG3osy8W94K7rltV3HBNbl6KtScBiq1mAKC5MyYPpaoG_mQsQ8gr2asl-0L1ueSgadCIR0KTXwt54co9DLemNejULXgvWcn=w1200-h900-p-k-no",
+    "logo": "https://www.seedsofinnocens.com/assets/img/Header Logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpQ_B0txb2S160bGpLrOfJjYb53WwYoec2EX9b4hG3osy8W94K7rltV3HBNbl6KtScBiq1mAKC5MyYPpaoG_mQsQ8gr2asl-0L1ueSgadCIR0KTXwt54co9DLemNejULXgvWcn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOuHviYsbhVShWCbxJRyzr2Mb_84-2jcMmH6k67=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM0aYY3RDDVEeubWK-UWUinX6Wdetp-IK1-f54S=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPr_57gi2fOciC-JMFv_1eTUz1jcM9lCXvLg2h2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMt1ncqXntsoNbJu-Nm5iWNufE6IuXdUR0_ps2w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3883178,
+      "lng": 77.3060347,
+      "label": "Seeds of Innocens IVF Centre - Best IVF Centre in Faridabad, Haryana",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shanti-devi-memorial-hospital-faridabad",
+    "name": "Shanti Devi Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Faridabad, Shanti Devi Memorial Hospital brings together specialists for General Surgery In Faridabad. The facility stands out for Google rating 3.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "0129 423 0011",
+    "alternatePhone": "",
+    "website": "http://shantidevihospital.com/",
+    "address": "Kheri More, near SHANTI DEVI MEMORIAL HOSPITAL, Piyush Heights, Sector 89, Faridabad, Haryana 121014",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121014",
+    "locality": "Sector 89",
+    "landmark": "near SHANTI DEVI MEMORIAL HOSPITAL, Piyush Heights, Sector 89, Faridabad, Haryana 121014",
+    "emergencyContact": "0129 423 0011",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExmIkb4l_4vKz4vECJ36c8mgHta14tPyqsK55Tvulqd_GZCeO9A5NgUfVjG5KvDj1by5EJT79kbFaUENw9uiNK6Ft582IZTi2tNixyg8SaHQ0Q1a0pgbQzc96DFI0ahtTKBoc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExmIkb4l_4vKz4vECJ36c8mgHta14tPyqsK55Tvulqd_GZCeO9A5NgUfVjG5KvDj1by5EJT79kbFaUENw9uiNK6Ft582IZTi2tNixyg8SaHQ0Q1a0pgbQzc96DFI0ahtTKBoc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4149807,
+      "lng": 77.3675757,
+      "label": "Shanti Devi Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shivalaya-hospital-faridabad",
+    "name": "SHIVALAYA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SHIVALAYA HOSPITAL has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering General Surgery In Faridabad. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088005 94313",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot no. - 137, near SPR Society, Bathola, Bhataula Village, Sector 82, Faridabad, Haryana 121007",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121007",
+    "locality": "Sector 82",
+    "landmark": "near SPR Society, Bathola, Bhataula Village, Sector 82, Faridabad, Haryana 121007",
+    "emergencyContact": "088005 94313",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUkWB6N2iOrQ0KVSV4L5ZQ1aULr729NRkiZqwu9SBvGx94X3mf3gjPL9DTL0zWzQeLRv5D9BBpCybGtROsuUnRTiNQ9BDf35umd2YRxxgtSp60xw2TQ38Xvaxg8Dv_h1QAeTsy4w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUkWB6N2iOrQ0KVSV4L5ZQ1aULr729NRkiZqwu9SBvGx94X3mf3gjPL9DTL0zWzQeLRv5D9BBpCybGtROsuUnRTiNQ9BDf35umd2YRxxgtSp60xw2TQ38Xvaxg8Dv_h1QAeTsy4w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3955832,
+      "lng": 77.3556829,
+      "label": "SHIVALAYA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shivalik-hospital-faridabad",
+    "name": "Shivalik Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Faridabad, Shivalik Hospital delivers integrated care across Gynecologist Surgery In Faridabad. Its infrastructure includes Google rating 3.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Faridabad.",
+    "email": "",
+    "phone": "0129 412 8715",
+    "alternatePhone": "",
+    "website": "http://www.shivalikhospitals.com/",
+    "address": "Shivalik Hospital, Huda Market, Sector 37, Faridabad, Haryana 121003",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121003",
+    "locality": "Sector 37",
+    "landmark": "Sector 37",
+    "emergencyContact": "0129 412 8715",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeEQGh1I5IT8SFlkjrIASDeVDMjDZFXRv5dkXDkq-Cb6ytg-qhpPWRH4CzN98BraLbXQ1ATNvNNvH0Mjsmg-y0MN-Xii0r9uU3S7cQ4LeG3MzTowWAICcgv2ArSte4MUZLz6P0jw=w1200-h900-p-k-no",
+    "logo": "http://www.shivalikhospitals.com/assets/images/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeEQGh1I5IT8SFlkjrIASDeVDMjDZFXRv5dkXDkq-Cb6ytg-qhpPWRH4CzN98BraLbXQ1ATNvNNvH0Mjsmg-y0MN-Xii0r9uU3S7cQ4LeG3MzTowWAICcgv2ArSte4MUZLz6P0jw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOQ0fId6qj73mh1w04TJJrwI_Ce-dOoPF6WIDJy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMZX4JZLsEhQxzQAc-USAZunHzLU4BPaH1mtm2G=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOVp2Nq_K_e0GitJzcUK1wA9_StpsuPle15-9ZJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMhEHJCQTrd8_rXSwqVXEbsC3nlHjOj-gpnyZu5=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4799846,
+      "lng": 77.3111632,
+      "label": "Shivalik Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "skinbless-clinic-faridabad",
+    "name": "Skinbless clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Faridabad, Skinbless clinic offers coordinated hospital care with major focus on Cosmetic Surgery In Faridabad. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "078348 22983",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H.no.2689 GF, HB Colony, Sector 3, Faridabad, Haryana 121004",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121004",
+    "locality": "Sector 3",
+    "landmark": "Sector 3",
+    "emergencyContact": "078348 22983",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0FSWMRkkcwXpBjZdZMnvAbNiNutZngUwu8YtYfDLzps9qdDBpxnkXXVk7i8Gv7gw9MEov4w7PXVFIOSSdMYQWuxNk-tyWUU4FvatEYHC5OFkKS0HcZjOAQOQnPRQiJZsD0e6buumgJqkK=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0FSWMRkkcwXpBjZdZMnvAbNiNutZngUwu8YtYfDLzps9qdDBpxnkXXVk7i8Gv7gw9MEov4w7PXVFIOSSdMYQWuxNk-tyWUU4FvatEYHC5OFkKS0HcZjOAQOQnPRQiJZsD0e6buumgJqkK=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3486702,
+      "lng": 77.3321424,
+      "label": "Skinbless clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sms-hospital-faridabad",
+    "name": "SMS Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Faridabad, SMS Hospital brings together specialists for General Surgery In Faridabad. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "093150 67468",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Clinic no. 9 Huda Market, Sector 3, Ballabhgarh, Faridabad, Haryana 121004",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121004",
+    "locality": "Ballabhgarh",
+    "landmark": "Ballabhgarh",
+    "emergencyContact": "093150 67468",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQ7WHxEcUCMiTqUng58C5zIvC9Q8SvY_cTvJcEy2awarV2Ox81wDXVg8vA3icsbLYPCiZLAXoVV7hFneiY3DzroLUodG22euEpsDIg5owcp4f-WdCbbFaUj0IKCactompe_gkurQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQ7WHxEcUCMiTqUng58C5zIvC9Q8SvY_cTvJcEy2awarV2Ox81wDXVg8vA3icsbLYPCiZLAXoVV7hFneiY3DzroLUodG22euEpsDIg5owcp4f-WdCbbFaUj0IKCactompe_gkurQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3512414,
+      "lng": 77.3323302,
+      "label": "SMS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ssb-heart-and-multispecialty-hospital-faridabad",
+    "name": "SSB Heart And Multispecialty Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SSB Heart And Multispecialty Hospital is a prominent hospital in Faridabad, known for structured tertiary care across Laparoscopic Surgery In Faridabad, Cardiac Care, and Speciality Care. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Faridabad.",
+    "email": "",
+    "phone": "095401 14114",
+    "alternatePhone": "",
+    "website": "https://ssbhealthcare.com/",
+    "address": "NH-19, Plot No, 69, near Neelam Flyover, Sector 20 A, New Industrial Township, Faridabad, Haryana 121007",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121007",
+    "locality": "New Industrial Township",
+    "landmark": "near Neelam Flyover, Sector 20 A, New Industrial Township, Faridabad, Haryana 121007",
+    "emergencyContact": "095401 14114",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Faridabad",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFXcTtFwaf1Ued8kvLNRVVf2noI7rByeE8gqZuctHAoA3o6Io-FCegX676yOm9J0khVu7aITCnYdxvXEBryENTXSi13Nq4w8T_Sctp84UGlT-qnRwTeSjmoiC92HC9wDnRC6xp1Q=w1200-h900-p-k-no",
+    "logo": "https://ssbhealthcare.com/wp-content/themes/SSB-Hospital/assets/img/ssb-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFXcTtFwaf1Ued8kvLNRVVf2noI7rByeE8gqZuctHAoA3o6Io-FCegX676yOm9J0khVu7aITCnYdxvXEBryENTXSi13Nq4w8T_Sctp84UGlT-qnRwTeSjmoiC92HC9wDnRC6xp1Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNGqNzulxKjfeySBuhy6Z-LrjBBn_0yADr8i9hl=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3935176,
+      "lng": 77.3100765,
+      "label": "SSB Heart And Multispecialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sunrise-hospital-faridabad",
+    "name": "Sunrise Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Faridabad often choose Sunrise Hospital for its strength in General Surgery In Faridabad. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "096511 81199",
+    "alternatePhone": "",
+    "website": "",
+    "address": "DAV College Rd, opposite ESIC Medical college, Block C, New Industrial Twp 3, New Industrial Township, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Township",
+    "landmark": "opposite ESIC Medical college, Block C, New Industrial Twp 3, New Industrial Township, Faridabad, Haryana 121001",
+    "emergencyContact": "096511 81199",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEl6jVqmUAkGHnlXhNlsX3ac0WJJQqDzeLvDLypbQufYIG_ftTUv6Go53A6RKd6-p2QvOPj5XUsMj-uUx1c4BE8uLTPjrU5C3QapB4s4CSr4rWDCuZh5iIjB7r2cyXolXbpvvtJ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEl6jVqmUAkGHnlXhNlsX3ac0WJJQqDzeLvDLypbQufYIG_ftTUv6Go53A6RKd6-p2QvOPj5XUsMj-uUx1c4BE8uLTPjrU5C3QapB4s4CSr4rWDCuZh5iIjB7r2cyXolXbpvvtJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP80d8H19tsfNVSYdliMCELkwNSHJDDRGozaXNV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN7Q0CCdVZ3lckeoANVMR57NPm6V4ViUBtpeTqc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPKUv_w0VQzPUAX6mjCWCS4I19G2rKN4LsQP-rR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNdipTG845m3edE_M1VFJlqhwih0HIzltXy5nfo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3920559,
+      "lng": 77.2935612,
+      "label": "Sunrise Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "supreme-hospital-faridabad",
+    "name": "Supreme Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Supreme Hospital is a prominent hospital in Faridabad, known for structured tertiary care across Heart Surgery In Faridabad. Operational strengths including Google rating 4.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Faridabad.",
+    "email": "",
+    "phone": "072900 21726",
+    "alternatePhone": "",
+    "website": "http://supremehospital.in/",
+    "address": "F7RR+CF4, Suraj Kund Rd, Charmwood Village, Sector 39, Faridabad, Haryana 121009",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121009",
+    "locality": "Sector 39",
+    "landmark": "Charmwood Village",
+    "emergencyContact": "072900 21726",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFEztx-JqhDbCddFZ312X2gGGsiRTQ7hXgtiZgWdXLXlp1U3XxGx0v5WA95JLVe5FP6yPuhUa9ALHdtHeglJjRsJ8RWI-qqy417Jx7o5OslBDlgW5jnZNn8e9wBPHMGY92WgWnbA=w1200-h900-p-k-no",
+    "logo": "https://www.supremehospital.in/wp-content/uploads/2021/06/logo-new-s-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFEztx-JqhDbCddFZ312X2gGGsiRTQ7hXgtiZgWdXLXlp1U3XxGx0v5WA95JLVe5FP6yPuhUa9ALHdtHeglJjRsJ8RWI-qqy417Jx7o5OslBDlgW5jnZNn8e9wBPHMGY92WgWnbA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNUn1-WybbjKLe6XBlcGfmIuuq4LuwPqFTmwQpY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP4bNng2nxdH7eoGdYs2cbLk6DG5SnjPsvIDETZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMnXDLGrjbBhXWwL-aqhcd6uHSpLS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMnXDLGrjbBhXWwL-aqhcd6uHSpLSA1rKXYqhWh=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4909688,
+      "lng": 77.2911821,
+      "label": "Supreme Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "udm-hospital-smt-urmila-devi-memorial-hospital-faridabad",
+    "name": "UDM Hospital(SMT.URMILA DEVI MEMORIAL HOSPITAL)",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Faridabad, UDM Hospital(SMT.URMILA DEVI MEMORIAL HOSPITAL) brings together specialists for Laparoscopic Surgery In Faridabad. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092118 16198",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MCF 118, Street No-1 , Bhikam Colony, Ballabgarh, Sector 1, Faridabad, Haryana 121004",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121004",
+    "locality": "Sector 1",
+    "landmark": "Bhikam Colony",
+    "emergencyContact": "092118 16198",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgEHbSuH8s0mEZbZw8oSEADVICs3jzHdL2v7t88Nr6YgQwzr0yHPXWzcpRCAxn8S8wIkWaupniIi5NAXWAjO-Ekq59Fz4G5JRWeWHYVj2dTXbNHTF0ROmVay22UQMMXlFSuX5X=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgEHbSuH8s0mEZbZw8oSEADVICs3jzHdL2v7t88Nr6YgQwzr0yHPXWzcpRCAxn8S8wIkWaupniIi5NAXWAjO-Ekq59Fz4G5JRWeWHYVj2dTXbNHTF0ROmVay22UQMMXlFSuX5X=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3409223,
+      "lng": 77.3247684,
+      "label": "UDM Hospital(SMT.URMILA DEVI MEMORIAL HOSPITAL)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "urocare-apolo-hospital-best-hospital-in-faridabad-faridabad",
+    "name": "Urocare Apolo Hospital - Best Hospital in Faridabad",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Faridabad, Urocare Apolo Hospital - Best Hospital in Faridabad delivers integrated care across Cancer Surgery In Faridabad. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Faridabad.",
+    "email": "",
+    "phone": "099711 07329",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H.No 78, behind Women College, Tirkha Colony, Sector 2, Faridabad, Haryana 121004",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121004",
+    "locality": "Sector 2",
+    "landmark": "Tirkha Colony",
+    "emergencyContact": "099711 07329",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlBxuT_c8oJ8J3dClYWsRVHfPprzcDhNM8Qu1R6JES20VsZsKG0vF5Q1CBWU5vhvunB6Kt_JQ-IP82T_uVaOMW1pDrrlMBvM_lq-zeFUSiLsVOHbXIjQvHjfB8BKZtsghDGvgU=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlBxuT_c8oJ8J3dClYWsRVHfPprzcDhNM8Qu1R6JES20VsZsKG0vF5Q1CBWU5vhvunB6Kt_JQ-IP82T_uVaOMW1pDrrlMBvM_lq-zeFUSiLsVOHbXIjQvHjfB8BKZtsghDGvgU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3420757,
+      "lng": 77.3403023,
+      "label": "Urocare Apolo Hospital - Best Hospital in Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vandana-surgical-and-maternity-center-faridabad",
+    "name": "Vandana Surgical & Maternity Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Faridabad, Vandana Surgical & Maternity Center offers coordinated hospital care with major focus on Laparoscopic Surgery In Faridabad. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Faridabad.",
+    "email": "",
+    "phone": "093500 63073",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FCA-4, Main Bandh Rd, Pocket B, Sanjay Gandhi Memorial Nagar, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "Sanjay Gandhi Memorial Nagar",
+    "landmark": "Pocket B",
+    "emergencyContact": "093500 63073",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Faridabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.4099018%2C77.2922117&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.4099018%2C77.2922117&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.4099018%2C77.2922117&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.4099018%2C77.2922117&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4099018,
+      "lng": 77.2922117,
+      "label": "Vandana Surgical & Maternity Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vcare-multispeciality-hospital-best-hospital-in-greater-faridabad-faridabad",
+    "name": "VCare Multispeciality Hospital-Best Hospital in Greater Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Faridabad, VCare Multispeciality Hospital-Best Hospital in Greater Faridabad brings together specialists for General Surgery In Faridabad and Speciality Care. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Faridabad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088102 91701",
+    "alternatePhone": "",
+    "website": "https://www.vcarefaridabad.com/",
+    "address": "bptp parkland, V-7, Greater, Sector 76, Faridabad, Mortzapur, Haryana 121004",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121004",
+    "locality": "Sector 76",
+    "landmark": "Greater",
+    "emergencyContact": "088102 91701",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFI-N7wZ5AYWBQXdFUSqY5NGt2piBYX2YEw_bqpUlLST5ab9RuoDEfWG2t01Vdd70y1RkuPksqXanahIehSEKFVjvsNb-upYC8JYJbDK_7FejZWSGRRMl9GNm3VMVOgD34ZXNNqJg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFI-N7wZ5AYWBQXdFUSqY5NGt2piBYX2YEw_bqpUlLST5ab9RuoDEfWG2t01Vdd70y1RkuPksqXanahIehSEKFVjvsNb-upYC8JYJbDK_7FejZWSGRRMl9GNm3VMVOgD34ZXNNqJg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNk_75ZzJ-gzOiuQYpT6mrl23gFidaoMUl-68gI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP-WpOwQtPOPW7CsuzQIS2QxIj-Q-NLSY1s07ZL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPQp614hnFg2Ya4GqaKHGOMfch6VCvsO7aJWGkM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMJ0CaqR1UZNv81ybH6PGskG1iHBScBWPst7V4S=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3661657,
+      "lng": 77.3535726,
+      "label": "VCare Multispeciality Hospital-Best Hospital in Greater Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "yatharth-super-speciality-hospital-sector-20-faridabad-faridabad",
+    "name": "Yatharth Super Speciality Hospital, Sector 20, Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Faridabad, Yatharth Super Speciality Hospital, Sector 20, Faridabad delivers integrated care across General Surgery In Faridabad and Speciality Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Faridabad.",
+    "email": "",
+    "phone": "076699 99444",
+    "alternatePhone": "",
+    "website": "https://www.yatharthhospitals.com/hospital/sector-20-faridabad",
+    "address": "Plot No 9, Sector-20, Krishna Nagar, New Industrial Township, Faridabad, Haryana 121001",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "locality": "New Industrial Township",
+    "landmark": "Krishna Nagar",
+    "emergencyContact": "076699 99444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Faridabad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGaABfaPdy_E05IRVENKRYGGKOILJKZpT2mrlYzpOCz17ORKp6ay6fTMOElJbz_iwzaErxG9zzoRp29F830fsDeo3Prvhw3VpQODbZSL9XWaAsOXrmzdKc802KHaiZUPq7FWXv71Bs4pNdp=w1200-h900-p-k-no",
+    "logo": "https://www.yatharthhospitals.com/assets/newpage/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGaABfaPdy_E05IRVENKRYGGKOILJKZpT2mrlYzpOCz17ORKp6ay6fTMOElJbz_iwzaErxG9zzoRp29F830fsDeo3Prvhw3VpQODbZSL9XWaAsOXrmzdKc802KHaiZUPq7FWXv71Bs4pNdp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMENW433OcVlXXWMzlDd7V426hoP2FIBt6RKnK1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMIx56N_pGHsslS2Mpr_qFj6xICOG-B_LMGPc0w=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOiRKnULyvRF9T83NamUrkjtHftqBP0Nc07HQ_v=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOFuF5nMnoVzeTU0frH1t4Sqcfry8SeWL0bpWpb=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.3899248,
+      "lng": 77.3100877,
+      "label": "Yatharth Super Speciality Hospital, Sector 20, Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "yatharth-super-speciality-hospital-sector-88-faridabad-faridabad",
+    "name": "Yatharth Super Speciality Hospital, Sector 88, Faridabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Yatharth Super Speciality Hospital, Sector 88, Faridabad has built a strong reputation in Faridabad for multidisciplinary treatment pathways covering Gynecologist Surgery In Faridabad and Speciality Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Faridabad.",
+    "email": "",
+    "phone": "085888 33310",
+    "alternatePhone": "",
+    "website": "https://www.yatharthhospitals.com/hospital/sector-88-faridabad",
+    "address": "RPS City, Sector 88, Faridabad, Haryana 121014",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121014",
+    "locality": "Sector 88",
+    "landmark": "Faridabad",
+    "emergencyContact": "085888 33310",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Faridabad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5eXs-E5vsBYTR0LxVSjKnlcKLXGvYwzxuo64fuK655OAjJCt12zE-IhJyKmoM09g5qOFysvWCJBh6zD9FeV6YVIOtWy_A3DgpnGP2fHSEhtKn0OL2boKg65ip7Hktc8Vv0TeN=w1200-h900-p-k-no",
+    "logo": "https://www.yatharthhospitals.com/assets/newpage/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5eXs-E5vsBYTR0LxVSjKnlcKLXGvYwzxuo64fuK655OAjJCt12zE-IhJyKmoM09g5qOFysvWCJBh6zD9FeV6YVIOtWy_A3DgpnGP2fHSEhtKn0OL2boKg65ip7Hktc8Vv0TeN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMPnebhk6huMsfgCG_8FOow1AOCbl0yJvcdyx32=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM3Tmh3FKgCR8X1A0SkgzdDtJc9RVFfyGIG2CFC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNYqLUfL0iFZ-hgRlEOKYhslt9JJQ1zVV60CPrh=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPVqZEP5NUIlnEzgpI8YI75subFqVc30bahUIvg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.4185488,
+      "lng": 77.3560059,
+      "label": "Yatharth Super Speciality Hospital, Sector 88, Faridabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

@@ -1,0 +1,6891 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aayushmanam-hridayam-heart-clinic-arrah",
+    "name": "Aayushmanam hridayam heart clinic",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Arrah, Aayushmanam hridayam heart clinic offers coordinated hospital care with major focus on Heart Surgery In Arrah and Cardiac Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Maharana Pratap Nagar, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Maharana Pratap Nagar",
+    "landmark": "Bihar 802301",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Arrah",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHa95rqfSHnelsEq4K9sMu-moZqwySj5QMTNUcEEfSvnjKRweADFUFluBkVTkwVA0KhvaiRxi1qsG2oF17leOEB7eJ3BRx-orE0In1_Ym9x84ilcm44PPoh20LrC5UgzP03Rk8Em7DQtcW-=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHa95rqfSHnelsEq4K9sMu-moZqwySj5QMTNUcEEfSvnjKRweADFUFluBkVTkwVA0KhvaiRxi1qsG2oF17leOEB7eJ3BRx-orE0In1_Ym9x84ilcm44PPoh20LrC5UgzP03Rk8Em7DQtcW-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5488513,
+      "lng": 84.6471078,
+      "label": "Aayushmanam hridayam heart clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aditya-hospital-arrah",
+    "name": "ADITYA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Arrah, ADITYA HOSPITAL brings together specialists for Laparoscopic Surgery In Arrah. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Arrah can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near S.B Collage Main Gate, Arrah - Buxar Rd, Maula Bagh, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Maula Bagh",
+    "landmark": "Maula Bagh",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLXN-og4z9mqM9Ydedu2CHBBoJZELsyBVPw6aYvOdY9TeQE0j_iB5ACxtx3snDm1qr3eZbHj42q9P5po1bzp860Svnn-hwWYFtIWo8lKDNKNBIyAGNF-R9hJkp0Dvm5NgSVGc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLXN-og4z9mqM9Ydedu2CHBBoJZELsyBVPw6aYvOdY9TeQE0j_iB5ACxtx3snDm1qr3eZbHj42q9P5po1bzp860Svnn-hwWYFtIWo8lKDNKNBIyAGNF-R9hJkp0Dvm5NgSVGc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.562946,
+      "lng": 84.6548747,
+      "label": "ADITYA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amrit-raj-hospital-pvt-ltd-arrah",
+    "name": "Amrit Raj Hospital Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Amrit Raj Hospital Pvt Ltd is a prominent hospital in Arrah, known for structured tertiary care across General Surgery In Arrah. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Arrah.",
+    "email": "",
+    "phone": "087574 60574",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sathya Natrayan Bhawan, Mahavir Tola, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Mahavir Tola",
+    "landmark": "Arrah",
+    "emergencyContact": "087574 60574",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.5597724%2C84.666791&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.5597724%2C84.666791&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5597724%2C84.666791&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5597724%2C84.666791&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5597724,
+      "lng": 84.666791,
+      "label": "Amrit Raj Hospital Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "anand-hospital-and-research-centre-arrah",
+    "name": "Anand Hospital & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Arrah, Anand Hospital & Research Centre offers coordinated hospital care with major focus on Laparoscopic Surgery In Arrah. With public-facing highlights like Google rating 3.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Arrah.",
+    "email": "",
+    "phone": "06182 351 940",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Judge Kothi, Anand Hospital & Research Centre,C/O Dr. K.N Sinha, Ramna Pakri Rd, near District, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "near District",
+    "landmark": "near District, Arrah, Bihar 802301",
+    "emergencyContact": "06182 351 940",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.5590747%2C84.6597967&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.5590747%2C84.6597967&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5590747%2C84.6597967&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5590747%2C84.6597967&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5590747,
+      "lng": 84.6597967,
+      "label": "Anand Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ans-multispeciality-hospital-patna",
+    "name": "ANS Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Patna, ANS Multispeciality Hospital delivers integrated care across Liver Transplant Surgery In Arrah and Speciality Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Patna.",
+    "email": "",
+    "phone": "078578 11565",
+    "alternatePhone": "",
+    "website": "https://www.anshospitals.com/",
+    "address": "Shree Hanuman Dham, Ashiana - Digha Rd, above Canara Bank, Sankar Colony, Kautilya Nagar, Patna, Bihar 800025",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "800025",
+    "locality": "Kautilya Nagar",
+    "landmark": "above Canara Bank",
+    "emergencyContact": "078578 11565",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPjvMC-F2TiqSiXOBbcuXIcKDb4kVUnslwWYsgrnR21Q0-qYUXLOdtxmyp05pxEw5eXFlmTWLfu0cTbX2zpa7KnlZPZHW2nHT-vZGeCe_zs8wtjajPvmJLa3qCmYopowf_h4YC=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPjvMC-F2TiqSiXOBbcuXIcKDb4kVUnslwWYsgrnR21Q0-qYUXLOdtxmyp05pxEw5eXFlmTWLfu0cTbX2zpa7KnlZPZHW2nHT-vZGeCe_zs8wtjajPvmJLa3qCmYopowf_h4YC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMhcAVOIOaQxAlLIaC2vxq8yKEQp-qeETn8-Grl=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.6203921,
+      "lng": 85.0828297,
+      "label": "ANS Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apollo-ortho-care-ara-arrah",
+    "name": "APOLLO ORTHO CARE ARA",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Arrah, APOLLO ORTHO CARE ARA delivers integrated care across Spine Surgery In Arrah and Orthopaedics. The facility stands out for Google rating 2.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "manoj kr ranjan, Mahavir Tola Rd, Begampur, Rajendra Nagar, Nawada, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Nawada",
+    "landmark": "Begampur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Arrah",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.6"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.5598654%2C84.6666198&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.5598654%2C84.6666198&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5598654%2C84.6666198&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5598654%2C84.6666198&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5598654,
+      "lng": 84.6666198,
+      "label": "APOLLO ORTHO CARE ARA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ara-city-hospital-arrah",
+    "name": "Ara City Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Arrah often choose Ara City Hospital for its strength in Spine Surgery In Arrah. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Arrah.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HMCF+G84, Meerganj, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Meerganj",
+    "landmark": "Arrah",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcSKX4Mt5cl32UUrCBeUOe9epl0kdTd2IVMkfVAISP3_7RM_fyhZHDzAAMiezjLLG5dt61EVwz1OMcOps15TF3QfGHWW37GOgfxzUX6wSqTYZaKVTWDOQzne8KgKZgOa8uUoHe2w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcSKX4Mt5cl32UUrCBeUOe9epl0kdTd2IVMkfVAISP3_7RM_fyhZHDzAAMiezjLLG5dt61EVwz1OMcOps15TF3QfGHWW37GOgfxzUX6wSqTYZaKVTWDOQzne8KgKZgOa8uUoHe2w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5712695,
+      "lng": 84.6733283,
+      "label": "Ara City Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "arrah-emergency-hospital-arrah",
+    "name": "ARRAH EMERGENCY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Arrah often choose ARRAH EMERGENCY HOSPITAL for its strength in Liver Transplant Surgery In Arrah. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Arrah can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "pir Baba more, Club Rd, Bikramganj, Mahatma Gandhi Nagar, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Mahatma Gandhi Nagar",
+    "landmark": "Bikramganj",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGR6Cx4sxM97ruT9QFoiUCmd0riR6K9o-Isb0TU0TN2fYcs1PM1CPdHh1L0b0mlURYMrLI-fincSoTf_eBRptu48GJmUGFC5KYs08qU-kFYVqvFr8XArW6tBY_UBp0axD0J4F78Dv7pPmE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGR6Cx4sxM97ruT9QFoiUCmd0riR6K9o-Isb0TU0TN2fYcs1PM1CPdHh1L0b0mlURYMrLI-fincSoTf_eBRptu48GJmUGFC5KYs08qU-kFYVqvFr8XArW6tBY_UBp0axD0J4F78Dv7pPmE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5562496,
+      "lng": 84.6599283,
+      "label": "ARRAH EMERGENCY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "asian-center-for-anesthesia-top-pain-management-and-palliative-medicine-centre-in-patna-patna",
+    "name": "Asian Center for Anesthesia - Top Pain Management & Palliative Medicine Centre in Patna",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Patna, Asian Center for Anesthesia - Top Pain Management & Palliative Medicine Centre in Patna delivers integrated care across Liver Transplant Surgery In Arrah. Operational strengths including Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Patna.",
+    "email": "",
+    "phone": "096963 96896",
+    "alternatePhone": "",
+    "website": "https://asianpatna.aimsindia.com/anesthesia/",
+    "address": "behind P & M Mall, Patliputra Industrial Area, Patliputra Colony, Patna, Bihar 800013",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "800013",
+    "locality": "Patliputra Colony",
+    "landmark": "Patliputra Colony",
+    "emergencyContact": "096963 96896",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0VQBbwprS05MrRQeEZiOwpmLeTcc0cpS3P8TcjqdBrt-EZp0QH0_MOOizB7uhTjx9J8Ay6gh_t36JrUHZM7tetOXNkI4aUaIPK8G9Kw5PW5yfmakvJl1ezQmTzdKDMF6fshRve4XFn-7p=w1200-h900-p-k-no",
+    "logo": "https://asianpatna.aimsindia.com/wp-content/uploads/2019/06/cropped-Asian-City-Hospital-Patna-Logo-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0VQBbwprS05MrRQeEZiOwpmLeTcc0cpS3P8TcjqdBrt-EZp0QH0_MOOizB7uhTjx9J8Ay6gh_t36JrUHZM7tetOXNkI4aUaIPK8G9Kw5PW5yfmakvJl1ezQmTzdKDMF6fshRve4XFn-7p=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.63573,
+      "lng": 85.1038713,
+      "label": "Asian Center for Anesthesia - Top Pain Management & Palliative Medicine Centre in Patna",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "asian-centre-for-critical-care-top-icu-and-life-support-services-in-patna-patna",
+    "name": "Asian Centre for Critical Care - Top ICU & Life Support Services in Patna",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Patna, Asian Centre for Critical Care - Top ICU & Life Support Services in Patna brings together specialists for Liver Transplant Surgery In Arrah. With public-facing highlights like Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Patna can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096963 96896",
+    "alternatePhone": "",
+    "website": "https://asianpatna.aimsindia.com/asian-centre-for-critical-care/",
+    "address": "behind P & M Mall, Patliputra Industrial Area, Patliputra Colony, Patna, Bihar 800013",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "800013",
+    "locality": "Patliputra Colony",
+    "landmark": "Patliputra Colony",
+    "emergencyContact": "096963 96896",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcefhUNvhrG_ezgWXAOjiK8PYBPT2uudFzjvcqxRGQkzr1mJDNeL2ckQPUDPgRdEnG-HaBCrj7nhWcRz14SV3TYIRkne0Z5WyEtrLk-GW9Zh2DUaTYfsQ0lBrIC8Zgep1_ksZ4ppLUmETt=w1200-h900-p-k-no",
+    "logo": "https://asianpatna.aimsindia.com/wp-content/uploads/2019/06/cropped-Asian-City-Hospital-Patna-Logo-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcefhUNvhrG_ezgWXAOjiK8PYBPT2uudFzjvcqxRGQkzr1mJDNeL2ckQPUDPgRdEnG-HaBCrj7nhWcRz14SV3TYIRkne0Z5WyEtrLk-GW9Zh2DUaTYfsQ0lBrIC8Zgep1_ksZ4ppLUmETt=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.63573,
+      "lng": 85.1038713,
+      "label": "Asian Centre for Critical Care - Top ICU & Life Support Services in Patna",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "asian-city-hospital-best-hospital-in-patna-patna",
+    "name": "Asian City Hospital - Best Hospital in Patna",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Asian City Hospital - Best Hospital in Patna is a prominent hospital in Patna, known for structured tertiary care across Liver Transplant Surgery In Arrah. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Patna.",
+    "email": "",
+    "phone": "096963 96896",
+    "alternatePhone": "",
+    "website": "https://asianpatna.aimsindia.com/",
+    "address": "Mall, behind P& M, Patliputra Industrial Area, Patliputra Colony, Patna, Bihar 800013",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "800013",
+    "locality": "Patliputra Colony",
+    "landmark": "Patliputra Industrial Area",
+    "emergencyContact": "096963 96896",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-cYh25tQ-4syTlcMdMNsx-x1ooAUKsjLPIcjR2oGPmfwx6CHMiZ4KzfQliwiTg78UwGy2gXpsxq3vQgoZCrD1-SsBJDUN7LQzMAuXH0myeyyfdeEMyGtR4QqibHYl4VqpbY8=w1200-h900-p-k-no",
+    "logo": "https://asianpatna.aimsindia.com/wp-content/uploads/2019/06/cropped-Asian-City-Hospital-Patna-Logo-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-cYh25tQ-4syTlcMdMNsx-x1ooAUKsjLPIcjR2oGPmfwx6CHMiZ4KzfQliwiTg78UwGy2gXpsxq3vQgoZCrD1-SsBJDUN7LQzMAuXH0myeyyfdeEMyGtR4QqibHYl4VqpbY8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMtJm_mENlRYgUlS8FLE8z5VY1aq3T4lolrPdtk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipONX76K06zIR142-JvCoScRhNbMLayGp4KtXyDN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipObwqnPBxoKq35FzOUiOwLHr8U-MLYKrUT2VXQ1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP0RvoZIcUn9gSjZP51P8axQKhXF5OAZ6vp7XNd=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.6358195,
+      "lng": 85.1040469,
+      "label": "Asian City Hospital - Best Hospital in Patna",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "big-apollo-spectra-hospitals-patna",
+    "name": "Big Apollo Spectra Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Patna, Big Apollo Spectra Hospitals offers coordinated hospital care with major focus on Liver Transplant Surgery In Arrah. Its infrastructure includes Google rating 4.7, 3+ public reviews, and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Patna.",
+    "email": "",
+    "phone": "0612 354 0100",
+    "alternatePhone": "",
+    "website": "https://www.bigapollospectra.com/",
+    "address": "Sheetla Mandir Road, near Sump House, Agam Kuan, Patna, Bihar 800030",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "800030",
+    "locality": "Agam Kuan",
+    "landmark": "near Sump House, Agam Kuan, Patna, Bihar 800030",
+    "emergencyContact": "0612 354 0100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "3+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGn5c3VHbzNcEIvO3zGS3L-mwW3QE9QnmM3XOPKph2hhokljALici28rCROVdQzLr7Vy6d3X7PGouRk98JFAGfFe5XwloroVrw9EJjj8AFQXRIdFTGpD7fFUagiN1KCSc1efwqZ2K5x2Gvb=w1200-h900-p-k-no",
+    "logo": "https://bigapollospectra.com/assets/uploads/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGn5c3VHbzNcEIvO3zGS3L-mwW3QE9QnmM3XOPKph2hhokljALici28rCROVdQzLr7Vy6d3X7PGouRk98JFAGfFe5XwloroVrw9EJjj8AFQXRIdFTGpD7fFUagiN1KCSc1efwqZ2K5x2Gvb=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOWOI4b3RPHopZq651gPd-e1tADZfi5PkVH3ljD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipORx0s2FlOZCTVx0LJ-bmSEeb82t59e5MViiRk1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOO0swnAGpOsVAeDWtb1KOiLdShAV9tAyFpM-3j=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM6N9mOTa8jhjBDDHhgJ7QpbE5Kr4Aztl9XirkO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5878069,
+      "lng": 85.1959298,
+      "label": "Big Apollo Spectra Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 3,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "brain-spinal-cord-and-nerve-clinic-arrah",
+    "name": "Brain Spinal Cord And Nerve Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Brain Spinal Cord And Nerve Clinic is a prominent hospital in Arrah, known for structured tertiary care across Spine Surgery In Arrah and Neurosciences. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Infront of DM kothi, Club Rd, Bikramganj, Mahatma Gandhi Nagar, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Mahatma Gandhi Nagar",
+    "landmark": "Bikramganj",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Arrah",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_O1i1f2FuHc9DBReOdpgap9l7eNC8Gm7tg18YXnW11uCSn9bHElbIacWiIax-hsL2S99qmDGqKjk9hDL8E1sRGDKBQ4Ebx9YqnmK7QXZlwEHBSnJ5kafbCpf3NaQSu4egu1Fh=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_O1i1f2FuHc9DBReOdpgap9l7eNC8Gm7tg18YXnW11uCSn9bHElbIacWiIax-hsL2S99qmDGqKjk9hDL8E1sRGDKBQ4Ebx9YqnmK7QXZlwEHBSnJ5kafbCpf3NaQSu4egu1Fh=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5552227,
+      "lng": 84.6591982,
+      "label": "Brain Spinal Cord And Nerve Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "care-hospital-arrah",
+    "name": "Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Arrah, Care Hospital offers coordinated hospital care with major focus on Hip Replacement Surgery In Arrah. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Katira Rd, Katira, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Katira",
+    "landmark": "Arrah",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG-O7uSHeIql_dYs4KKq2yHdoGMVPsjHpURYXboklPB1zuXmZF86hMuUOvRk1myhDBNDYmiHEJEFWRMqeuq_z165UNaRHZNy0WkAKg4C6ph_WVY8REVdFfBZcV4m1fpDD76JzWB8hEKimMW=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG-O7uSHeIql_dYs4KKq2yHdoGMVPsjHpURYXboklPB1zuXmZF86hMuUOvRk1myhDBNDYmiHEJEFWRMqeuq_z165UNaRHZNy0WkAKg4C6ph_WVY8REVdFfBZcV4m1fpDD76JzWB8hEKimMW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.551183,
+      "lng": 84.6534075,
+      "label": "Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "curis-hospital-patna-patna",
+    "name": "Curis Hospital Patna",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Curis Hospital Patna has built a strong reputation in Patna for multidisciplinary treatment pathways covering Liver Transplant Surgery In Arrah. With public-facing highlights like Google rating 3.4, 91+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Patna can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "086511 80007",
+    "alternatePhone": "",
+    "website": "https://www.curishospital.com/",
+    "address": "R.K. Puram More, Saguna Khagaul Rd, Danapur, Patna, Bihar 801503",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "801503",
+    "locality": "Danapur",
+    "landmark": "Danapur",
+    "emergencyContact": "086511 80007",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "91+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEk1361_FnIha3_Ajo_QhsnqyhcYZEEfJ6JJq8o5ZJuXDca_rf51baNSYCWZrVmmYHlQdj90_4qskF7T2KrTue9sTb4gsiMOfqbBqT9eUOmlHdIZqCcCLgWk4c2BGz54yn3T7E=w1200-h900-p-k-no",
+    "logo": "https://www.curishospital.com/storage/media/VlECa8RHvKB2b6WFkTSlZ8tiDlSSHoEgkieBg25O.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEk1361_FnIha3_Ajo_QhsnqyhcYZEEfJ6JJq8o5ZJuXDca_rf51baNSYCWZrVmmYHlQdj90_4qskF7T2KrTue9sTb4gsiMOfqbBqT9eUOmlHdIZqCcCLgWk4c2BGz54yn3T7E=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2RYo5xO5XZvLhlv3VTzHG4LkK6y7s4hclNJRhoFfUck_68STd0mU_SG2Zg9o1URkzAl3EnkbTotpls7-RX6JdE5hk2tfbZlOjjkoOJTkemTzjoneqspe5p0W0lCfqQ9Bt0mWD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZwZCGGPRsi4s3a_m4MSusJ26APNd0ipj7Zvl1WQ_PHL9nQ-HvTzMS7GgKYdyxQBssJ1BD3reQPkGblgT0uVDo4XW7bK150xoaN9tiDdzKcutbuvq3hpI0o8VdNqIwj8Wxj2_3jVKfK3c6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.6163278,
+      "lng": 85.0414963,
+      "label": "Curis Hospital Patna",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 91,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dhreeti-clinic-arrah",
+    "name": "Dhreeti Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dhreeti Clinic is a prominent hospital in Arrah, known for structured tertiary care across Liver Transplant Surgery In Arrah. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "099015 15300",
+    "alternatePhone": "",
+    "website": "https://www.dhreeticlinics.com/",
+    "address": "near D.E.O. Office, Maula Bagh, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Maula Bagh",
+    "landmark": "Arrah",
+    "emergencyContact": "099015 15300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvvOIJWZkzijb3aqzpUglZ5fR_eE9qH2swcyTpRgRwBCo07NzKYfO8zmX4FfyWpZAz5lms2cWE76Dzk8M0ZPUl5ISXmB2N2RGEUGhp0dJxiSmnUU9tOQYZ8PeILeG22858rFEx-aZVz-0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvvOIJWZkzijb3aqzpUglZ5fR_eE9qH2swcyTpRgRwBCo07NzKYfO8zmX4FfyWpZAz5lms2cWE76Dzk8M0ZPUl5ISXmB2N2RGEUGhp0dJxiSmnUU9tOQYZ8PeILeG22858rFEx-aZVz-0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP1lbsfe4-hQHQSAbc7c-49kQ9uVKeDtT6MtbUj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPS2GyO9TGytKLBs6sd7CbpasGpyU9Zeh0D6dDg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOkmydmpXPKBb_KqjRIeapoUOUcgcBVJAxzTyTX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMau4B2xiiWHtUMQPhwcCN9fHMQ4Yeo3GdT313C=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5632589,
+      "lng": 84.6597406,
+      "label": "Dhreeti Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "health-haven-hospital-arrah",
+    "name": "Health haven hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Arrah, Health haven hospital offers coordinated hospital care with major focus on Kidney Transplant Surgery In Arrah. Its infrastructure includes Google rating 3.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "085810 50540",
+    "alternatePhone": "",
+    "website": "",
+    "address": "New Police Line Rd, Ambey Nagar, pakari, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "pakari",
+    "landmark": "pakari",
+    "emergencyContact": "085810 50540",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECcUoGznoCGz8vQU94KGHOu5Swb1bC2orcFk7iupQKRJzcR9_7oXeZy0VdN4fmHaLejYVFLuZsAuuhX1e3aHTOnvFFWMdRGnll7kqHR4s4GRh_9ERgh17PUz_RMZigw4UPnfYpag=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECcUoGznoCGz8vQU94KGHOu5Swb1bC2orcFk7iupQKRJzcR9_7oXeZy0VdN4fmHaLejYVFLuZsAuuhX1e3aHTOnvFFWMdRGnll7kqHR4s4GRh_9ERgh17PUz_RMZigw4UPnfYpag=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5583357,
+      "lng": 84.6452306,
+      "label": "Health haven hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "heart-care-centre-arrah",
+    "name": "Heart Care Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Heart Care Centre is a prominent heart hospital in Arrah, known for structured tertiary care across General Surgery In Arrah and Cardiac Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Arrah.",
+    "email": "",
+    "phone": "082924 90051",
+    "alternatePhone": "",
+    "website": "http://www.heartcareara.com/",
+    "address": "Old Chakbandi Office Hariji ka Hata, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Old Chakbandi Office Hariji ka Hata",
+    "landmark": "Bihar 802301",
+    "emergencyContact": "082924 90051",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Arrah",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIIA7XAVn7kWoCKn5CLUAjKV94XwMuLSPL_N-vP5KGvZOXa7CZZc9SUULNlZ0Dv0AXsonvB-CqFl6UnCpaQjxdylIN1lQdycJ9a-MF0nPDkNEPuKMcsHbQsqLfT8VEXMQq0Eg=w1200-h900-p-k-no",
+    "logo": "https://heartcareara.com/wp-content/uploads/2023/04/cropped-Heart-Care-Logo-120x120.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIIA7XAVn7kWoCKn5CLUAjKV94XwMuLSPL_N-vP5KGvZOXa7CZZc9SUULNlZ0Dv0AXsonvB-CqFl6UnCpaQjxdylIN1lQdycJ9a-MF0nPDkNEPuKMcsHbQsqLfT8VEXMQq0Eg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5574648,
+      "lng": 84.6620384,
+      "label": "Heart Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jay-prabha-medanta-super-specialty-hospital-patna-patna",
+    "name": "Jay Prabha Medanta Super Specialty Hospital, Patna",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jay Prabha Medanta Super Specialty Hospital, Patna is a prominent hospital in Patna, known for structured tertiary care across Liver Transplant Surgery In Arrah and Speciality Care. Its infrastructure includes Google rating 4.5, 323+ public reviews, and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Patna.",
+    "email": "",
+    "phone": "0612 350 5050",
+    "alternatePhone": "",
+    "website": "https://www.medanta.org/hospitals-near-me/patna-hospital?utm_source",
+    "address": "Housing Board Colony, Kankarbagh, Patrakar Nagar, Patna, Bihar 800020",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "800020",
+    "locality": "Patrakar Nagar",
+    "landmark": "Patrakar Nagar",
+    "emergencyContact": "0612 350 5050",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "323+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTO8i5fsgjg1X3C9aU4cGy_YimQn5SoWba-YwBKcnP-omWGU_5ipXec5eI1FoGZzBaZEzZ2dHModvpBTb3AtRwDQiCkirVVaWM-VkkF-cS7mvxWaqr_uAtLs3IkLF6CGKFNdok4xTKdCqO=w1200-h900-p-k-no",
+    "logo": "https://www.medanta.org/public/assets/images/medanta_logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTO8i5fsgjg1X3C9aU4cGy_YimQn5SoWba-YwBKcnP-omWGU_5ipXec5eI1FoGZzBaZEzZ2dHModvpBTb3AtRwDQiCkirVVaWM-VkkF-cS7mvxWaqr_uAtLs3IkLF6CGKFNdok4xTKdCqO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOpZSbwGJ3ZEJN8K3VVzzhHRtLYvQYW_fwyd437=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNYhu29Pm2Bl2lA94srBC73_E-10r22-xz0uWps=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOllhoObB46EK2FrU8hGiT8PiAdk6oy5xuFvtKx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipONO2s66ajb_Nm3jZau8QdbDJ16RMRsGAmzcOjP=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5994745,
+      "lng": 85.15274,
+      "label": "Jay Prabha Medanta Super Specialty Hospital, Patna",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 323,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kalyan-hospital-arrah",
+    "name": "KALYAN HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Arrah, KALYAN HOSPITAL delivers integrated care across Orthopedic Surgery In Arrah. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Arrah.",
+    "email": "",
+    "phone": "099736 12321",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Infront of Nawada, Police Station, Station Road, Nawada, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Nawada",
+    "landmark": "Station Road",
+    "emergencyContact": "099736 12321",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTZjy5N1XmHdypydXOKEp4kcfuK7hT1fi-ijeBJDBtyHJdrMDwXTI7LLrmkk5uuRfItv2MvSDLwL7u529C0aU_nU7n3IHa-wkwNwgwpIFedp8d9TBiAaWv3uYid_k9qLoy_WuC=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTZjy5N1XmHdypydXOKEp4kcfuK7hT1fi-ijeBJDBtyHJdrMDwXTI7LLrmkk5uuRfItv2MvSDLwL7u529C0aU_nU7n3IHa-wkwNwgwpIFedp8d9TBiAaWv3uYid_k9qLoy_WuC=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5522279,
+      "lng": 84.6663143,
+      "label": "KALYAN HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kapoor-hospital-patna-burn-and-plastic-surgery-center-dr-shashi-kapoor-patna",
+    "name": "Kapoor Hospital Patna - Burn and Plastic surgery Center|Dr Shashi Kapoor",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Patna, Kapoor Hospital Patna - Burn and Plastic surgery Center|Dr Shashi Kapoor delivers integrated care across Plastic Surgery In Arrah. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Patna.",
+    "email": "",
+    "phone": "076730 40305",
+    "alternatePhone": "",
+    "website": "https://kapoorhospitalpatna.com/",
+    "address": "Reliance Exchange Rd, near power grid, Rupaspur, visheshvaraiya Nagar, Patna, Bihar 801503",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "801503",
+    "locality": "visheshvaraiya Nagar",
+    "landmark": "near power grid, Rupaspur, visheshvaraiya Nagar, Patna, Bihar 801503",
+    "emergencyContact": "076730 40305",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFz1tIBXtmcOrPeM7BVfk3pTRUb-5IUzLG0-DoahFbFeco4pETpK1DrSPs7mcptcTXoTVBV8lW30xsi_M8oihDwXkHEEOfBKjq28CftR3uLA5VJS9sKHiWlDhAhwaJgnZrLYJ5h=w1200-h900-p-k-no",
+    "logo": "https://kapoorhospitalpatna.com/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFz1tIBXtmcOrPeM7BVfk3pTRUb-5IUzLG0-DoahFbFeco4pETpK1DrSPs7mcptcTXoTVBV8lW30xsi_M8oihDwXkHEEOfBKjq28CftR3uLA5VJS9sKHiWlDhAhwaJgnZrLYJ5h=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.61225,
+      "lng": 85.0624706,
+      "label": "Kapoor Hospital Patna - Burn and Plastic surgery Center|Dr Shashi Kapoor",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kaushalya-samay-hospital-best-multi-speciality-hospital-in-ara-arrah",
+    "name": "Kaushalya Samay Hospital - Best Multi Speciality Hospital in Ara",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kaushalya Samay Hospital - Best Multi Speciality Hospital in Ara has built a strong reputation in Arrah for multidisciplinary treatment pathways covering Liver Transplant Surgery In Arrah and Speciality Care. With public-facing highlights like Google rating 4.3, 1+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Arrah.",
+    "email": "",
+    "phone": "070332 26976",
+    "alternatePhone": "",
+    "website": "https://samayhospitals.com/",
+    "address": "Zero Mile Rd, Arrah, Bihar 802210",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802210",
+    "locality": "Zero Mile Rd",
+    "landmark": "Bihar 802210",
+    "emergencyContact": "070332 26976",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "1+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH25EJzZJWLfnbJeTb4-2NXSgfQ75a_S3085-ObHyF_nnkebxRYxghlyy_Q02WZnFI62ORJnwJcpGpilLf0ufMat6BlI5_gxCaLv9nwa_234KPP4UPa2ZqftL7ystze64lkgw8PVte2NM4p=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH25EJzZJWLfnbJeTb4-2NXSgfQ75a_S3085-ObHyF_nnkebxRYxghlyy_Q02WZnFI62ORJnwJcpGpilLf0ufMat6BlI5_gxCaLv9nwa_234KPP4UPa2ZqftL7ystze64lkgw8PVte2NM4p=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5317455,
+      "lng": 84.6431538,
+      "label": "Kaushalya Samay Hospital - Best Multi Speciality Hospital in Ara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 1,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "krishna-child-care-arrah",
+    "name": "Krishna Child Care | कृष्णा चाइल्ड केयर | डॉ विवेकानन्द दुबे",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Arrah, Krishna Child Care | कृष्णा चाइल्ड केयर | डॉ विवेकानन्द दुबे delivers integrated care across Spine Surgery In Arrah and Women and Child Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "070504 83910",
+    "alternatePhone": "",
+    "website": "",
+    "address": "ke samne, Judge Kothi, South Ramna Road, near Rl memorial hospital, Old Police Line, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Old Police Line",
+    "landmark": "near Rl memorial hospital, Old Police Line, Arrah, Bihar 802301",
+    "emergencyContact": "070504 83910",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Arrah",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.5593401%2C84.6599478&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.5593401%2C84.6599478&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5593401%2C84.6599478&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5593401%2C84.6599478&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5593401,
+      "lng": 84.6599478,
+      "label": "Krishna Child Care | कृष्णा चाइल्ड केयर | डॉ विवेकानन्द दुबे",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "laxmi-netralaya-i-eye-hospital-in-ara-i-lasik-centre-in-ara-arrah",
+    "name": "LAXMI NETRALAYA I Eye Hospital in Ara I Lasik Centre in Ara",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Arrah, LAXMI NETRALAYA I Eye Hospital in Ara I Lasik Centre in Ara brings together specialists for Spine Surgery In Arrah. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Arrah.",
+    "email": "",
+    "phone": "096317 14337",
+    "alternatePhone": "",
+    "website": "http://laxminetralaya.com/",
+    "address": "Duddhi Nagar, Mahavir Tola, Babu Bazar, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Babu Bazar",
+    "landmark": "Babu Bazar",
+    "emergencyContact": "096317 14337",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeqXceWorOwsK_flsOk6HFtNib8Zh80lZvCtiiAUX5jQW4Pvm9NJiMyw_yMXfA39oKtxrH6As0ZVnOtZujp4dojPsm9RCcsHsIHzWOIH3hbnXQsayAcexdpOd3TF7jse9i4w=w1200-h900-p-k-no",
+    "logo": "https://www.laxminetralaya.com/assets/images/laxmilogo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeqXceWorOwsK_flsOk6HFtNib8Zh80lZvCtiiAUX5jQW4Pvm9NJiMyw_yMXfA39oKtxrH6As0ZVnOtZujp4dojPsm9RCcsHsIHzWOIH3hbnXQsayAcexdpOd3TF7jse9i4w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5596256,
+      "lng": 84.6680673,
+      "label": "LAXMI NETRALAYA I Eye Hospital in Ara I Lasik Centre in Ara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "m-k-hospital-emergency-hospital-arrah",
+    "name": "M K Hospital Emergency Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "M K Hospital Emergency Hospital has built a strong reputation in Arrah for multidisciplinary treatment pathways covering Laparoscopic Surgery In Arrah. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Arrah can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "086670 83364",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ayodhyapuri, Zeromile Near Tata motor, Behra, Arrah, Bihar 802210",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802210",
+    "locality": "Behra",
+    "landmark": "Near Tata motor, Behra, Arrah, Bihar 802210",
+    "emergencyContact": "086670 83364",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxTJnRiGo2DeYEJkCbS01rRQiPMWKmkGaP1PoejJ2NjMmtarXWLENRPXTUkP4gyYA3Oi_ahNOgVj3DF8HxKMAnuQAn7Voj6RT53nhNkkj77imz322N0zj49gWz9VScDD1BOmbdOQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxTJnRiGo2DeYEJkCbS01rRQiPMWKmkGaP1PoejJ2NjMmtarXWLENRPXTUkP4gyYA3Oi_ahNOgVj3DF8HxKMAnuQAn7Voj6RT53nhNkkj77imz322N0zj49gWz9VScDD1BOmbdOQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5306119,
+      "lng": 84.6329768,
+      "label": "M K Hospital Emergency Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "m-s-memorial-hospital-arrah",
+    "name": "M.s memorial hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Arrah, M.s memorial hospital brings together specialists for Gynecologist Surgery In Arrah. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Arrah.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Judge Kothi Children's Park, mod, near SBI Branch Ara, Mahatma Gandhi Nagar, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Mahatma Gandhi Nagar",
+    "landmark": "near SBI Branch Ara, Mahatma Gandhi Nagar, Arrah, Bihar 802301",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9t7rICvQCjPlCoGEYzArxAuAowz2sZ08Wjj-ttjrh36kWNuTVNtTP4Qa8YGFT-mPI1hzYhViYGT0cEkBfoqjnLhw7cFxg_XgnYr8HXsraEC5AqTaH0QKNJo3TCcg8Nf2F_m47=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9t7rICvQCjPlCoGEYzArxAuAowz2sZ08Wjj-ttjrh36kWNuTVNtTP4Qa8YGFT-mPI1hzYhViYGT0cEkBfoqjnLhw7cFxg_XgnYr8HXsraEC5AqTaH0QKNJo3TCcg8Nf2F_m47=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5593374,
+      "lng": 84.6588913,
+      "label": "M.s memorial hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "maa-shardha-hi-tech-emergency-hospital-arrah",
+    "name": "Maa shardha Hi-tech Emergency Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Maa shardha Hi-tech Emergency Hospital has built a strong reputation in Arrah for multidisciplinary treatment pathways covering Laparoscopic Surgery In Arrah. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Arrah.",
+    "email": "",
+    "phone": "093345 38679",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kesari Medico Budhiya mai mandir, Bus Stand Road, New Sheetal Tola Road, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "New Sheetal Tola Road",
+    "landmark": "New Sheetal Tola Road",
+    "emergencyContact": "093345 38679",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH24ofBOztqzYFcRZnJQe5qBbvDMeLGN6dVTjudrVr0AWi13Nw5X8yFlRf8sIC7eW-N9p8TDtcYjnHUDbCPzRCgfWXwHNyFc_5XsujVO7tiWzAh_2athemdmBpCrF7go1ONLZ4=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH24ofBOztqzYFcRZnJQe5qBbvDMeLGN6dVTjudrVr0AWi13Nw5X8yFlRf8sIC7eW-N9p8TDtcYjnHUDbCPzRCgfWXwHNyFc_5XsujVO7tiWzAh_2athemdmBpCrF7go1ONLZ4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5582232,
+      "lng": 84.6720913,
+      "label": "Maa shardha Hi-tech Emergency Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "maatritva-hospital-arrah",
+    "name": "Maatritva Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Arrah often choose Maatritva Hospital for its strength in Cancer Surgery In Arrah. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Arrah can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "077820 24247",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Old Police Line, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Old Police Line",
+    "landmark": "Bihar 802301",
+    "emergencyContact": "077820 24247",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFvCzyQbJRCD6mQhFgnqRDrcNlxFi45QaHy9TMDNr1inksml-dTHtS0gO-dIIbaxy8BYB0n2HNRS5Cj2cyIvCpluAr0a-xtdJ0tbKbkA_RwjkduNJfv3jZz4X_l4V2WYpjEdVS=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFvCzyQbJRCD6mQhFgnqRDrcNlxFi45QaHy9TMDNr1inksml-dTHtS0gO-dIIbaxy8BYB0n2HNRS5Cj2cyIvCpluAr0a-xtdJ0tbKbkA_RwjkduNJfv3jZz4X_l4V2WYpjEdVS=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.559376,
+      "lng": 84.65752,
+      "label": "Maatritva Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "madhavi-netralaya-arrah",
+    "name": "Madhavi Netralaya",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Arrah, Madhavi Netralaya delivers integrated care across Spine Surgery In Arrah. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Arrah.",
+    "email": "",
+    "phone": "1800 571 9090",
+    "alternatePhone": "",
+    "website": "http://www.madhavinetralaya.com/",
+    "address": "South Ramna Road, Near Maharaja College Gate, Begampur, Rajendra Nagar, Nawada, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Nawada",
+    "landmark": "Near Maharaja College Gate, Begampur, Rajendra Nagar, Nawada, Arrah, Bihar 802301",
+    "emergencyContact": "1800 571 9090",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsY3-SR3_ZOZawncNe1XldHuN26u10whprYRW3fFQXRaypVRrYXtpwf92q34ENFE67Pbqqnv3jehQYW_-xAk_ktqQKSwBNmeFB7vjXiZDwDStlSahM-7ZXTdEi6h8Nr-xl64c1L3EG-IuI=w1200-h900-p-k-no",
+    "logo": "https://static.wixstatic.com/media/d14927_ce375358644b4de4907a1f59512ac508~mv2.png/v1/fill/w_376,h_123,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20with%20Tag%20Line.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsY3-SR3_ZOZawncNe1XldHuN26u10whprYRW3fFQXRaypVRrYXtpwf92q34ENFE67Pbqqnv3jehQYW_-xAk_ktqQKSwBNmeFB7vjXiZDwDStlSahM-7ZXTdEi6h8Nr-xl64c1L3EG-IuI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.559953,
+      "lng": 84.6656213,
+      "label": "Madhavi Netralaya",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "maurya-hospital-arrah",
+    "name": "Maurya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Arrah, Maurya Hospital offers coordinated hospital care with major focus on Spine Surgery In Arrah. Operational strengths including Google rating 4.3 and 10+ public reviews make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "087892 23997",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Godhna Rd, Bihari Mill, more, Hanuman Nagar, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Hanuman Nagar",
+    "landmark": "more",
+    "emergencyContact": "087892 23997",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "10+ public reviews"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDvKTk7sFi6yqFsN6GgD3c6gFUL8zN1BphlODLmfC63zTKErP2cp8YUdlm2U7cJUfeVuzeIgrY_S3Gi6rOYkXF3SFdulwTVRkV-WKbg-BUTLcMsqTo9ptqGqAIe3cXFwK31ohF4hcq2lzo=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDvKTk7sFi6yqFsN6GgD3c6gFUL8zN1BphlODLmfC63zTKErP2cp8YUdlm2U7cJUfeVuzeIgrY_S3Gi6rOYkXF3SFdulwTVRkV-WKbg-BUTLcMsqTo9ptqGqAIe3cXFwK31ohF4hcq2lzo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5482761,
+      "lng": 84.6644771,
+      "label": "Maurya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 10,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medicon-dialysis-center-arrah",
+    "name": "MEDICON DIALYSIS CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Arrah, MEDICON DIALYSIS CENTER delivers integrated care across Kidney Transplant Surgery In Arrah. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "091285 28456",
+    "alternatePhone": "",
+    "website": "http://www.mediconhospital.com/",
+    "address": "Begampur, Mahavir Tola, Babu Bazar, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Babu Bazar",
+    "landmark": "Babu Bazar",
+    "emergencyContact": "091285 28456",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.5600054%2C84.6670386&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://mediconhospital.com/wp-content/uploads/2022/02/cropped-MEDICON-160x53.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.5600054%2C84.6670386&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5600054%2C84.6670386&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5600054%2C84.6670386&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5600054,
+      "lng": 84.6670386,
+      "label": "MEDICON DIALYSIS CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medicon-hospital-arrah",
+    "name": "Medicon Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Arrah often choose Medicon Hospital for its strength in Hip Replacement Surgery In Arrah. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Arrah can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095727 37464",
+    "alternatePhone": "",
+    "website": "http://www.mediconhospital.com/",
+    "address": "LIC Of India, lal kutir bhawan, Medicon Hospital, Mahavir Tola, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Mahavir Tola",
+    "landmark": "Medicon Hospital",
+    "emergencyContact": "095727 37464",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFWSfzh5CHzaf2_SxYBrVLh2aLhFupKeNtKHLKe_x4XeRcvSCL9btEOGrCtGYCY-FcqBeKI7rmQuyrc7cuJiepUSj9fY9aDo-gH-O-kR3-3HCxtHZ9O8MMpdihXkyJsrIXaMDLe=w1200-h900-p-k-no",
+    "logo": "https://mediconhospital.com/wp-content/uploads/2022/02/cropped-MEDICON-160x53.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFWSfzh5CHzaf2_SxYBrVLh2aLhFupKeNtKHLKe_x4XeRcvSCL9btEOGrCtGYCY-FcqBeKI7rmQuyrc7cuJiepUSj9fY9aDo-gH-O-kR3-3HCxtHZ9O8MMpdihXkyJsrIXaMDLe=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOcJl_HoSMdcnixitmHqQ0itjxYLHwHEF0j2Tr2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNGETdAx4bxkVl1jAwI0g1MP-cv0T7OLYYeZoWq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNbzb5ohkZwJWTrEwedRViyx8uLeaftaUT08A7-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPoVH5W1zqEA9cjRzmggUwRBUsedzWph1xI1GX0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5600755,
+      "lng": 84.6669424,
+      "label": "Medicon Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mr-hospital-patna-patna",
+    "name": "MR HOSPITAL PATNA",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Patna, MR HOSPITAL PATNA delivers integrated care across Liver Transplant Surgery In Arrah. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Patna.",
+    "email": "",
+    "phone": "091353 51111",
+    "alternatePhone": "",
+    "website": "http://www.mrhospital.co.in/",
+    "address": "MAZAR GALI, Bailey Rd, Patna, Bihar 800014",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "800014",
+    "locality": "Bailey Rd",
+    "landmark": "Patna",
+    "emergencyContact": "091353 51111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJ6ZFeX6-ljCHv5mDmemxAlLISraF-yyfqqufuWuLFoLUz4U-IvQh-oz5baWHyY6G2rWektu0qvCo2Hg7qTg10VDqhjIiMpg3oAQOOTVP0P35zLFaTyZ0M9kxIeSMRFPITjwQ=w1200-h900-p-k-no",
+    "logo": "https://www.mrhospital.co.in/uploads/frontend/images/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJ6ZFeX6-ljCHv5mDmemxAlLISraF-yyfqqufuWuLFoLUz4U-IvQh-oz5baWHyY6G2rWektu0qvCo2Hg7qTg10VDqhjIiMpg3oAQOOTVP0P35zLFaTyZ0M9kxIeSMRFPITjwQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNBEsr-cjTXl8TOuAfyuHb1CN9ka7N-Tq-2hiWP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMT73CUknXBqRFTkMZcWtV_6oDAVsOXqKWYwoSN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN_fxiB14hZFZ-RDRDfVuGCsr0CDsj_aT2kQv25=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP3UTlhCXe1EPCR7HOwnEsBoMPZ8GduF2dmPSvO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.6050283,
+      "lng": 85.0906771,
+      "label": "MR HOSPITAL PATNA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nidan-hospital-patna",
+    "name": "Nidan Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nidan Hospital is a prominent general hospital in Patna, known for structured tertiary care across Liver Transplant Surgery In Arrah. With public-facing highlights like Google rating 2.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Patna.",
+    "email": "",
+    "phone": "097987 32407",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H3JW+HG3, Yamuna Path, opposite Bharat Petrol Pump, Harnichak, Anisabad, Patna, Bihar 800002",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "800002",
+    "locality": "Anisabad",
+    "landmark": "opposite Bharat Petrol Pump, Harnichak, Anisabad, Patna, Bihar 800002",
+    "emergencyContact": "097987 32407",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuy-04TVNmyNQ1kTjoYFC7al-e6AOouHWWTniKK1Tzp3ICGtxXJF5FGFY2X9AlvO4Bl7vTMAAEbIXgR_sVgm3NxmiUy24g6VhCJfHOR8_cIpyKV71SoFvHpn9A2FGDSPEJtNexrQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuy-04TVNmyNQ1kTjoYFC7al-e6AOouHWWTniKK1Tzp3ICGtxXJF5FGFY2X9AlvO4Bl7vTMAAEbIXgR_sVgm3NxmiUy24g6VhCJfHOR8_cIpyKV71SoFvHpn9A2FGDSPEJtNexrQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5817055,
+      "lng": 85.0973279,
+      "label": "Nidan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nkpc-kidney-clinic-kolkata",
+    "name": "NKPC Kidney Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose NKPC Kidney Clinic for its strength in Kidney Transplant Surgery In Arrah and Kidney Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "084200 17061",
+    "alternatePhone": "",
+    "website": "https://nkpc.in/",
+    "address": "1212, 2nd St, Purbalok, Santoshpur, Kolkata, West Bengal 700099",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Santoshpur",
+    "landmark": "Purbalok",
+    "emergencyContact": "084200 17061",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Arrah",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCmv94IaoSzM0m0PhygJ7-WaRORhtrpsezJnwKPUx-MvAC5Qy7rnH3ughLrbhQscc4M7KxrRt2E4bnMc35nmNSsakatUx4PdBtQGplQlmUti9_inK38TzfAhC42Tf36OqW0pKHmhqDEvU=w1200-h900-p-k-no",
+    "logo": "https://nkpc.in/images/nkpc_kidney_clinic_logo22-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCmv94IaoSzM0m0PhygJ7-WaRORhtrpsezJnwKPUx-MvAC5Qy7rnH3ughLrbhQscc4M7KxrRt2E4bnMc35nmNSsakatUx4PdBtQGplQlmUti9_inK38TzfAhC42Tf36OqW0pKHmhqDEvU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.498556,
+      "lng": 88.4002065,
+      "label": "NKPC Kidney Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "om-hospital-arrah",
+    "name": "OM Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Arrah, OM Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Arrah. Hospital capacity markers such as Google rating 3.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Arrah.",
+    "email": "",
+    "phone": "06182 352 548",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near Harizan School, Maula Bagh, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Maula Bagh",
+    "landmark": "Arrah",
+    "emergencyContact": "06182 352 548",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFko9doTFcsJpZ8N1DxigaTGPzNSMglnsoen8EqerggSUdoHWq5NL7QlXhKYEkeh750wMzNOnAGkvObIMuYWRgN8VES-R3kmYZN9FqED8mHepqTJDGSG7zUkAJh0dfxkS3yoilU=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFko9doTFcsJpZ8N1DxigaTGPzNSMglnsoen8EqerggSUdoHWq5NL7QlXhKYEkeh750wMzNOnAGkvObIMuYWRgN8VES-R3kmYZN9FqED8mHepqTJDGSG7zUkAJh0dfxkS3yoilU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5628632,
+      "lng": 84.6560887,
+      "label": "OM Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ortho-care-hospital-dr-rajeev-kumar-roy-arrah",
+    "name": "Ortho Care Hospital/Dr Rajeev kumar Roy",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Arrah, Ortho Care Hospital/Dr Rajeev kumar Roy brings together specialists for Spine Surgery In Arrah and Orthopaedics. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Arrah.",
+    "email": "",
+    "phone": "094704 55907",
+    "alternatePhone": "",
+    "website": "http://orthocarepatna.com/",
+    "address": "150, Ramna Pakri Rd, Old Police Line, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Old Police Line",
+    "landmark": "Old Police Line",
+    "emergencyContact": "094704 55907",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Arrah",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpmCw0EkpRk6yXRD_atO2_2IHqerLpFLCu5AuO9z1InCq8tL7nim4ssElGVEyBgtMMaiktQNt4vBafOMG_vgPCUrim85AVooiXtfq8J9pZTyNNTZF2d3H_QbTj-oKEJ5ii0D85yQ=w1200-h900-p-k-no",
+    "logo": "https://orthocarepatna.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpmCw0EkpRk6yXRD_atO2_2IHqerLpFLCu5AuO9z1InCq8tL7nim4ssElGVEyBgtMMaiktQNt4vBafOMG_vgPCUrim85AVooiXtfq8J9pZTyNNTZF2d3H_QbTj-oKEJ5ii0D85yQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM4hkEn8vE8jwkpxsTOiK_u1s6oCa2nRLqW_-Pc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.559113,
+      "lng": 84.657483,
+      "label": "Ortho Care Hospital/Dr Rajeev kumar Roy",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "paras-hmri-hospital-best-hospital-in-patna-patna",
+    "name": "Paras HMRI Hospital | Best Hospital in Patna",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Patna, Paras HMRI Hospital | Best Hospital in Patna offers coordinated hospital care with major focus on Liver Transplant Surgery In Arrah. With public-facing highlights like Google rating 4.4, 62+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Patna.",
+    "email": "",
+    "phone": "078350 84931",
+    "alternatePhone": "",
+    "website": "https://www.parashospitals.com/patna/doctor-near-me/",
+    "address": "NH 30, Bailey Rd, MLA Colony, Raja Bazar, Indrapuri, Patna, Bihar 800014",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "800014",
+    "locality": "Indrapuri",
+    "landmark": "MLA Colony",
+    "emergencyContact": "078350 84931",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "62+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVmkI0L-adzs_89Uk0mGrnun20S8hqI1CXO7_heng9oiAVjIBX5clJcZT0znaKIOsaAA41SVLAIoAG6eMZM-ds3lN7kmHSvDVaQr7nSd_SWVMoRnbOusE4mSwmrLto0YyvIPMsaJmWJGp8=w1200-h900-p-k-no",
+    "logo": "https://www.parashospitals.com/frontend_assests/images/header-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVmkI0L-adzs_89Uk0mGrnun20S8hqI1CXO7_heng9oiAVjIBX5clJcZT0znaKIOsaAA41SVLAIoAG6eMZM-ds3lN7kmHSvDVaQr7nSd_SWVMoRnbOusE4mSwmrLto0YyvIPMsaJmWJGp8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN8e3tr8cZFPalqxwMG_6oRRqEp53FQIwr0id0y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNoOnK7vkzzhVexFgigS1XGHW7W9ON_Ve2kr2ys=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM6_LWeonCcMEAqJyUcS6EMUoCw05YiraPY_Jyr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOyqViVhvqtSA94DIHThikF_1U6Obdnt_wQ48Se=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.6056461,
+      "lng": 85.082587,
+      "label": "Paras HMRI Hospital | Best Hospital in Patna",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 62,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "r-l-memorial-hospital-arrah",
+    "name": "R. L. Memorial Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Arrah, R. L. Memorial Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Arrah. The facility stands out for Google rating 3.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "062038 44705",
+    "alternatePhone": "",
+    "website": "https://www.rlmemorialhospital.com/",
+    "address": "Judge Kothi, More, Ramna Pakri Road, More, in front of district, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "in front of district",
+    "landmark": "Ramna Pakri Road",
+    "emergencyContact": "062038 44705",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEN3wshZWqZ0EmrcIA9FYVi3SEWRQOlKg7n74HqG-du66OeDbPuhARWOB5rXbjzgmPyMGJ6gu3v61UJ8-2Mi-kPKFSlYgCVsQCeiLQxfbBdj6uTSV1WSiOrGrSU1D29tsh6OfFs=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEN3wshZWqZ0EmrcIA9FYVi3SEWRQOlKg7n74HqG-du66OeDbPuhARWOB5rXbjzgmPyMGJ6gu3v61UJ8-2Mi-kPKFSlYgCVsQCeiLQxfbBdj6uTSV1WSiOrGrSU1D29tsh6OfFs=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.559327,
+      "lng": 84.6604031,
+      "label": "R. L. Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "raghuvansham-hospital-arrah",
+    "name": "Raghuvansham Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Raghuvansham Hospital is a prominent hospital in Arrah, known for structured tertiary care across Gynecologist Surgery In Arrah. Hospital capacity markers such as Google rating 2.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Arrah,, Mahavir Tola, Babu Bazar, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "",
+    "landmark": "Babu Bazar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6FgXqQxbfZRW6MIW99nWTly4xdmwLlygQtRfhwT7TOzOyG3T4m8bBrD5iK0RpBW6khQiCaOsaK6NHrR-Mo-xq9l58p3edYnRvrZXpzYL9C9_Io1T3owFsGumlgYb_NBKYtii8Joo4Me5g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6FgXqQxbfZRW6MIW99nWTly4xdmwLlygQtRfhwT7TOzOyG3T4m8bBrD5iK0RpBW6khQiCaOsaK6NHrR-Mo-xq9l58p3edYnRvrZXpzYL9C9_Io1T3owFsGumlgYb_NBKYtii8Joo4Me5g=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5598154,
+      "lng": 84.6686305,
+      "label": "Raghuvansham Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rama-dental-hospital-arrah",
+    "name": "Rama Dental Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Arrah, Rama Dental Hospital delivers integrated care across Oral Surgery In Arrah. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Arrah.",
+    "email": "",
+    "phone": "095232 54539",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Infront Of Circuit House, pakari, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "pakari",
+    "landmark": "Arrah",
+    "emergencyContact": "095232 54539",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.557006%2C84.6554675&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.557006%2C84.6554675&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.557006%2C84.6554675&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.557006%2C84.6554675&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.557006,
+      "lng": 84.6554675,
+      "label": "Rama Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sadar-hospital-arrah",
+    "name": "Sadar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sadar Hospital has built a strong reputation in Arrah for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Arrah. Hospital capacity markers such as Google rating 3.1 and 22+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Arrah.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dr Usha Sinha Ln, Nawada, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Nawada",
+    "landmark": "Arrah",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1",
+      "22+ public reviews"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGos_wt-HiXrxf-hX4JX317mLqN1xM-SnK1BUg-335hsoOMsdrZZKmG0VqLz-Lb_l8C9_LCgpwZN9WFxHtOjQ4jURW03OTFqKwojbsmSMIDpsRVrTRg8BnPU7Dig4rYP4hOh02AA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGos_wt-HiXrxf-hX4JX317mLqN1xM-SnK1BUg-335hsoOMsdrZZKmG0VqLz-Lb_l8C9_LCgpwZN9WFxHtOjQ4jURW03OTFqKwojbsmSMIDpsRVrTRg8BnPU7Dig4rYP4hOh02AA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErIdTzgDyGmKAHpAPrCRpRkP0fQZasrUocd2uxPpAAhQPz-HWnVzYRJdbRDTKVJbTIBhV5lFW_h_V4w_QqP3U65SSO-wipnnwUgkdS_-j-HUwlxd-q6nW_pzKg6rJcspGtDcDOWA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7_OgkaEEtlMex3szwEXWTYjDslXP7Xid9BXcWIuhSB1NYvODC3_d2W3bkgRs5wI7dvxkHW4yfSnepbNUbXnyyfF50oXDTdcZJWhg7JV3aQV6BOO_vik-IZYcHcwygKLlnr9wH5s9fQ9rx=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5584954,
+      "lng": 84.6710981,
+      "label": "Sadar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 22,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sahyog-hospital-patna",
+    "name": "Sahyog Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Patna, Sahyog Hospital brings together specialists for Liver Transplant Surgery In Arrah. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Patna.",
+    "email": "",
+    "phone": "0612 226 2642",
+    "alternatePhone": "",
+    "website": "http://www.sahyoghospital.com/",
+    "address": "40, Patliputra Colony, Patna, Bihar 800013",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "800013",
+    "locality": "Patliputra Colony",
+    "landmark": "Patna",
+    "emergencyContact": "0612 226 2642",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmrj8aDN43JOrsN7H-QGw3QNkC-JW3lLlMt9hFrWdZKyX2O26YUt_2BlSLM-XG6Tt7AhxwuN-KmIiykCfuAizij3r4ZKEF0QedhMxCf1jVdrgZpSrMVamzPFpDm0VhlyLSj4b7GA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmrj8aDN43JOrsN7H-QGw3QNkC-JW3lLlMt9hFrWdZKyX2O26YUt_2BlSLM-XG6Tt7AhxwuN-KmIiykCfuAizij3r4ZKEF0QedhMxCf1jVdrgZpSrMVamzPFpDm0VhlyLSj4b7GA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.6291258,
+      "lng": 85.1082552,
+      "label": "Sahyog Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "samarpan-hospital-arrah",
+    "name": "Samarpan hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Arrah, Samarpan hospital delivers integrated care across Liver Transplant Surgery In Arrah. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Arrah.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shital Tola, budhiya mai mandir, Samarpan hospital, Bus Stand Rd, Shivganj, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Shivganj",
+    "landmark": "Samarpan hospital",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.5574236%2C84.6735229&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.5574236%2C84.6735229&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5574236%2C84.6735229&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5574236%2C84.6735229&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5574236,
+      "lng": 84.6735229,
+      "label": "Samarpan hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "savera-cancer-and-multispeciality-hospital-patna",
+    "name": "Savera Cancer and Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Patna often choose Savera Cancer and Multispeciality Hospital for its strength in Liver Transplant Surgery In Arrah and Speciality Care. With public-facing highlights like Google rating 4.3, 1190+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Patna can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081029 24483",
+    "alternatePhone": "",
+    "website": "http://www.saverahospital.org/",
+    "address": "Near, R N Singh Road, Rajendra Nagar Over Bridge, Kankarbagh, Patna, Bihar 800020",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "800020",
+    "locality": "Kankarbagh",
+    "landmark": "Rajendra Nagar Over Bridge",
+    "emergencyContact": "081029 24483",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "1190+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIeoAys5MFqCMKdPND4fmOnqeF7DjAIPjCJKWvU2rRpKtiPVTpU8kkMYL_05ushMjPTdoO8Z5bwyap-xOGXGrr0GDFNP_w69MzF1QKnoQ03hp3oYQe0ObI_uQG5dtfmVvLlcwK=w1200-h900-p-k-no",
+    "logo": "https://saverahospital.org/assets/images/sav-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIeoAys5MFqCMKdPND4fmOnqeF7DjAIPjCJKWvU2rRpKtiPVTpU8kkMYL_05ushMjPTdoO8Z5bwyap-xOGXGrr0GDFNP_w69MzF1QKnoQ03hp3oYQe0ObI_uQG5dtfmVvLlcwK=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfFo5J0EA4tqmwV1AQ9V3S_frE8QXc-3QWaRiTy095RTwgcedxDnUdTpZKI5UOYZy6daXjf8OgBIV7zDiB1gPUw0NS34J5arJXJNjnxg7c-7tpAxdeym8LKH_S3D85DxW2CTr7=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFQXYkdIm9QHRNyQ1auqK7AGoIK3PzO4AwGbaeGCx43oxLOQrwe84GN84FwVFdu_gXAWAGQdrWVpL-R6nFXTm2GJL6A-QxxpLEraLxKig-sWpSVXwxP-as18RSfBYgR7ntcLNANA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.6017265,
+      "lng": 85.1579789,
+      "label": "Savera Cancer and Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 1190,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shahabad-hospital-arrah",
+    "name": "Shahabad Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Arrah often choose Shahabad Hospital for its strength in Urologist Surgery In Arrah. Its infrastructure includes Google rating 4.7 and 18+ public reviews, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Arrah can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GMXC+86H, Krishna Vihar, Bahiro, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Bahiro",
+    "landmark": "Bahiro",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "18+ public reviews"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH53KtInJu_JlYjEK_YpNByp_vcJa_mPoNrH7NIAVikp_RAc6m-7sBZ1sQdr4HV0JJqnedTAtEaGrgGCCltnQvjT5HZP6nrpgAKF78FuljgoXG6aaxxBA2ON1KQwDvMfZcl-fDssQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH53KtInJu_JlYjEK_YpNByp_vcJa_mPoNrH7NIAVikp_RAc6m-7sBZ1sQdr4HV0JJqnedTAtEaGrgGCCltnQvjT5HZP6nrpgAKF78FuljgoXG6aaxxBA2ON1KQwDvMfZcl-fDssQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFuZHmuQKCGOplQzZafScSuvt6CrZs5gEFsp76TCApTZmiKpuXbSY3-Uahz9_X3HkjSa3h_M9-4MHan3bo_FEada9U-LMHueN98rE88Uu76K9GHh9h4kicSR5C3SEbHQ_Aes1H_mvzNh2Y=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5483125,
+      "lng": 84.6706094,
+      "label": "Shahabad Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 18,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shivlok-hospital-arrah",
+    "name": "Shivlok Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Arrah often choose Shivlok Hospital for its strength in Urologist Surgery In Arrah. Hospital capacity markers such as Google rating 3.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Arrah.",
+    "email": "",
+    "phone": "06182 242 336",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near, South Ramna Road, Old Judges Compound, Hari Jee Ka Hata, Nawada, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Nawada",
+    "landmark": "Old Judges Compound",
+    "emergencyContact": "06182 242 336",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.5596127%2C84.663837&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.5596127%2C84.663837&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5596127%2C84.663837&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5596127%2C84.663837&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5596127,
+      "lng": 84.663837,
+      "label": "Shivlok Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-vardan-fertility-and-ortho-center-arrah",
+    "name": "Shree Vardan fertility and ortho center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Arrah, Shree Vardan fertility and ortho center delivers integrated care across Spine Surgery In Arrah, Orthopaedics, and Fertility Care. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Arrah.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HM34+RM5, Club Road, Block Rd, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Block Rd",
+    "landmark": "Block Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Arrah",
+      "Orthopaedics",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFADpBZXegQfruhVW5y1nV_Uy5lqfrtpbndgvlplLNTP9y5twMRv95gNnW7m5VyYdlm7NewBsvO_A8AUSltex-mdknzP-5UHbIwimI84fu0T6cWv-aVZaRQBQkYQBDfPb_bExus=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFADpBZXegQfruhVW5y1nV_Uy5lqfrtpbndgvlplLNTP9y5twMRv95gNnW7m5VyYdlm7NewBsvO_A8AUSltex-mdknzP-5UHbIwimI84fu0T6cWv-aVZaRQBQkYQBDfPb_bExus=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5545044,
+      "lng": 84.6567202,
+      "label": "Shree Vardan fertility and ortho center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shriram-singh-memorial-shahabad-hospital-arrah",
+    "name": "SHRIRAM SINGH MEMORIAL SHAHABAD HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Arrah often choose SHRIRAM SINGH MEMORIAL SHAHABAD HOSPITAL for its strength in Urologist Surgery In Arrah. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Arrah.",
+    "email": "",
+    "phone": "094728 98247",
+    "alternatePhone": "",
+    "website": "https://shahabadhospital.com/",
+    "address": "Babu Bazar Rd, ka hata, Mahavir Tola, Babu Bazar, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Babu Bazar",
+    "landmark": "Mahavir Tola",
+    "emergencyContact": "094728 98247",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGk1ZA_03_o_9Iix3qkwps-pChqdZtIyX0jMrnBX98kz5laqqnf88NQ7rIS-PtAgRn9ySuLQrOCEh8wsiaUKaCD7RaOwe9o1MpqqPSRe3kdnh0fLpFdeXaY_qWhm47LN2lvO-x6=w1200-h900-p-k-no",
+    "logo": "https://shahabadhospital.com/wp-content/uploads/2022/09/cropped-SHAHABAD-HOSPITAL-1-160x151.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGk1ZA_03_o_9Iix3qkwps-pChqdZtIyX0jMrnBX98kz5laqqnf88NQ7rIS-PtAgRn9ySuLQrOCEh8wsiaUKaCD7RaOwe9o1MpqqPSRe3kdnh0fLpFdeXaY_qWhm47LN2lvO-x6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5610398,
+      "lng": 84.6685059,
+      "label": "SHRIRAM SINGH MEMORIAL SHAHABAD HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shubham-hospital-arrah",
+    "name": "Shubham Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Arrah often choose Shubham Hospital for its strength in Laparoscopic Surgery In Arrah. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Arrah can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dr. Sarita Singh Shubham hospital, East Ramna Road, near Canara Bank, pakari, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "pakari",
+    "landmark": "near Canara Bank, pakari, Arrah, Bihar 802301",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsT-hYav3TZqofrsqynwXoxlNdconZAmKz5o3GbeR6xJFmc8B-V1-K6-zvwRTgJzC40tGs4r5vkkOiiiyb4U2fzJO029mXJrnmNjitaTwhz4-U6F60h6ElzfdSCsDdzvcrxyEE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsT-hYav3TZqofrsqynwXoxlNdconZAmKz5o3GbeR6xJFmc8B-V1-K6-zvwRTgJzC40tGs4r5vkkOiiiyb4U2fzJO029mXJrnmNjitaTwhz4-U6F60h6ElzfdSCsDdzvcrxyEE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5590247,
+      "lng": 84.6588166,
+      "label": "Shubham Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sishu-kalyan-kendra-arrah",
+    "name": "Sishu Kalyan Kendra",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sishu Kalyan Kendra is a prominent hospital in Arrah, known for structured tertiary care across Kidney Transplant Surgery In Arrah. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Arrah.",
+    "email": "",
+    "phone": "06182 233 021",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near Circuit House, pakari, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "pakari",
+    "landmark": "Arrah",
+    "emergencyContact": "06182 233 021",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFb07eJj1oDbO7bPREp7iLUj6AUhi6qJ5LlssCDW-HMKRGj_h9CxhSCcObkOJj2fU3v2F3HfWqSngGP62gQOdH9dvsgRRCLNoU3ZoJvaRVMGvUPiSRR-zwC8LRMiScQqrjxNk8dvA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFb07eJj1oDbO7bPREp7iLUj6AUhi6qJ5LlssCDW-HMKRGj_h9CxhSCcObkOJj2fU3v2F3HfWqSngGP62gQOdH9dvsgRRCLNoU3ZoJvaRVMGvUPiSRR-zwC8LRMiScQqrjxNk8dvA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5557777,
+      "lng": 84.6555768,
+      "label": "Sishu Kalyan Kendra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-niwas-memorial-hospital-arrah",
+    "name": "Sri Niwas Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Arrah, Sri Niwas Memorial Hospital brings together specialists for Gynecologist Surgery In Arrah. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Arrah.",
+    "email": "",
+    "phone": "093340 25815",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mahavir Tola, Babu Bazar, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Babu Bazar",
+    "landmark": "Arrah",
+    "emergencyContact": "093340 25815",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.5603047%2C84.6669403&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.5603047%2C84.6669403&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5603047%2C84.6669403&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.5603047%2C84.6669403&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5603047,
+      "lng": 84.6669403,
+      "label": "Sri Niwas Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "the-gariahat-kidney-care-centre-kolkata",
+    "name": "The Gariahat Kidney Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, The Gariahat Kidney Care Centre offers coordinated hospital care with major focus on Kidney Transplant Surgery In Arrah and Kidney Care. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "033 4001 1800",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9/11, Fern Rd, Ballygunge Gardens, Gariahat, Kolkata, West Bengal 700019",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700019",
+    "locality": "Gariahat",
+    "landmark": "Ballygunge Gardens",
+    "emergencyContact": "033 4001 1800",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Arrah",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=22.5181153%2C88.3677804&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=22.5181153%2C88.3677804&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5181153%2C88.3677804&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5181153%2C88.3677804&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5181153,
+      "lng": 88.3677804,
+      "label": "The Gariahat Kidney Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "the-medicus-healthcare-tmch-arrah",
+    "name": "The Medicus healthcare (TMCH)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Arrah, The Medicus healthcare (TMCH) offers coordinated hospital care with major focus on Laparoscopic Surgery In Arrah. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Arrah.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HM35+M64, Block Rd, inside Malti sewa sadan, Mahatma Gandhi Nagar, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Mahatma Gandhi Nagar",
+    "landmark": "inside Malti sewa sadan",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=25.554135%2C84.6580911&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=25.554135%2C84.6580911&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.554135%2C84.6580911&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=25.554135%2C84.6580911&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.554135,
+      "lng": 84.6580911,
+      "label": "The Medicus healthcare (TMCH)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vageshwari-hospital-bageshwari-hospital-arrah",
+    "name": "Vageshwari Hospital (Bageshwari hospital)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vageshwari Hospital (Bageshwari hospital) has built a strong reputation in Arrah for multidisciplinary treatment pathways covering Liver Transplant Surgery In Arrah. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Arrah can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "06182 450 706",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Nala more, M. P Bagh, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "M. P Bagh",
+    "landmark": "Arrah",
+    "emergencyContact": "06182 450 706",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHoFDBDgxJqwYT5Z5VuTqM9StO0kMbEu-LK1fHPIqoy3Lbql0kJQl1h1dwfgfbXxeZOfoQa1ivRoytrxNB_4Rfm8eZe4OItO61Q1X4C4I6BDfmUzYDEOxreXcwmH0VpnJkzYsbx=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHoFDBDgxJqwYT5Z5VuTqM9StO0kMbEu-LK1fHPIqoy3Lbql0kJQl1h1dwfgfbXxeZOfoQa1ivRoytrxNB_4Rfm8eZe4OItO61Q1X4C4I6BDfmUzYDEOxreXcwmH0VpnJkzYsbx=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.566601,
+      "lng": 84.6660255,
+      "label": "Vageshwari Hospital (Bageshwari hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vardaan-hospital-arrah",
+    "name": "Vardaan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Arrah often choose Vardaan Hospital for its strength in Laparoscopic Surgery In Arrah. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Arrah can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near Over Bridge, Katira, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Katira",
+    "landmark": "Arrah",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7evXS5xsR2EaXYc0eAcoFlFbVnVatSyU2M1TLLPMGNiyE6LkUezAffRbKUbdH2Fd3NUAyU0mKDPrAeww__0MrU_nr1ZwHubmPJ7kGA-D_pzvAxoV8nrhXdWB2k40ObNU-8Tf6=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7evXS5xsR2EaXYc0eAcoFlFbVnVatSyU2M1TLLPMGNiyE6LkUezAffRbKUbdH2Fd3NUAyU0mKDPrAeww__0MrU_nr1ZwHubmPJ7kGA-D_pzvAxoV8nrhXdWB2k40ObNU-8Tf6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5511919,
+      "lng": 84.6535207,
+      "label": "Vardaan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vishwaraj-hospital-arrah",
+    "name": "Vishwaraj Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Arrah, Vishwaraj Hospital delivers integrated care across Hip Replacement Surgery In Arrah. Operational strengths including Google rating 3.0, 1+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "070707 07365",
+    "alternatePhone": "",
+    "website": "http://vishwarajhospital.in.net/",
+    "address": "HM49+R3F, Begampur, Rajendra Nagar, Nawada, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "Nawada",
+    "landmark": "Rajendra Nagar",
+    "emergencyContact": "070707 07365",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "1+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbMt5cFrSbjf9YeinDUNrcocqsB46NmtpskKxS5cVoVhURsbVD8MkA_9SAetmvUIHEnrTezzpdpMoJLdQD7eDXrPj-0vFm06jcgCD231E-qbL-9XLnXFl0Kw_9Rf7ap7epQojJ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbMt5cFrSbjf9YeinDUNrcocqsB46NmtpskKxS5cVoVhURsbVD8MkA_9SAetmvUIHEnrTezzpdpMoJLdQD7eDXrPj-0vFm06jcgCD231E-qbL-9XLnXFl0Kw_9Rf7ap7epQojJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsFj5w22C__O7-7aNzBMGioQYDMAcB6BYO5Hmr_X1bzrCqaakayqRhFNOCLZCILP9zJFhUXN0dEr_4ZQlDkQEpoN33vD0E3_44Bsg6XbGjP9TuHjD8K28xRDVcpLp-Fj18n5Rh3ujNRWoM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5570376,
+      "lng": 84.6676544,
+      "label": "Vishwaraj Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 1,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "arrah",
+    "name": "सावित्री आरोग्य संस्थान",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Arrah, सावित्री आरोग्य संस्थान offers coordinated hospital care with major focus on Laparoscopic Surgery In Arrah. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Arrah.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C K Rd, M. P Bagh, Arrah, Bihar 802301",
+    "city": "Arrah",
+    "state": "Bihar",
+    "pincode": "802301",
+    "locality": "M. P Bagh",
+    "landmark": "Arrah",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Arrah"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3iD4Lt-NaGbv9I15GAj__KFxCiSq1d5vbmhdBVU2StpR3xVN2EAQ1qEJNGQ-13vkv7U1yGfMaYRGDI6By0g-1TFSFGL9jV9VMENet1vR0k0I7-SbABAJIUcl5bdLUC0HSooh6=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3iD4Lt-NaGbv9I15GAj__KFxCiSq1d5vbmhdBVU2StpR3xVN2EAQ1qEJNGQ-13vkv7U1yGfMaYRGDI6By0g-1TFSFGL9jV9VMENet1vR0k0I7-SbABAJIUcl5bdLUC0HSooh6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 25.5678493,
+      "lng": 84.6702353,
+      "label": "सावित्री आरोग्य संस्थान",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

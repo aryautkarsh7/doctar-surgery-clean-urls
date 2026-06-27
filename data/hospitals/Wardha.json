@@ -1,0 +1,1777 @@
+[
+  {
+    "slug": "acharya-vinoba-bhave-rural-hospital-sawangi",
+    "name": "Acharya Vinoba Bhave Rural Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Sawangi, Acharya Vinoba Bhave Rural Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Wardha. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Sawangi.",
+    "email": "",
+    "phone": "0712 352 1211",
+    "alternatePhone": "",
+    "website": "https://www.avbrhsawangimeghe.com/",
+    "address": "Datta Meghe Institute of Higher Education & Research, Sawangi, Maharashtra 442107",
+    "city": "Sawangi",
+    "state": "Maharashtra",
+    "pincode": "442107",
+    "locality": "Datta Meghe Institute of Higher Education & Research",
+    "landmark": "Maharashtra 442107",
+    "emergencyContact": "0712 352 1211",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Wardha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyLFevlye8dPGkdGoO5dEzoON1PMkgjRWkW9IefaKZDK6BJmWKNlMQr-VQglcKGmYY4RoRpHhE7FWVQYSvUmR6Ocj1mSf-TcqZnlO7FSBqUQ4VMDfzT53vpyWdNAFQ8g6wbyg=w1200-h900-p-k-no",
+    "logo": "https://www.avbrhsawangimeghe.com/images/logo-wide.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyLFevlye8dPGkdGoO5dEzoON1PMkgjRWkW9IefaKZDK6BJmWKNlMQr-VQglcKGmYY4RoRpHhE7FWVQYSvUmR6Ocj1mSf-TcqZnlO7FSBqUQ4VMDfzT53vpyWdNAFQ8g6wbyg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEATAPV4FeBl-lSKUPPeFdQ519OhqwR5HXlIF_lk4mx6kyh4Mn0-EPfzEVn__-iDTDDJLObEZXi8mJd-2KB7M6_SBdJZSIXA7r5AwO4pHhnzLwAZUYsYdoWMg5bENh-6Wq2F5ZJ9g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHNmsw5J04l5za2wNrrqj0yWEeWBKyyUHrFRZhK7cg9_d8uP6K8CTSb4akng0EUeRBllcxTDNkvCXPEQLlTbaiuSKejGX8peoekQV2NfH9L5b2A23pZYPpz6agy3orV5CV1a8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnc6MeeY45TVR4FZALSPtOun166Js8gzvFn9g66QqqyPFZawRUVsqwpzzAlyoa7869w65-r3_PetvMv9YiqT-ivA5HyjcLiz5B_jweKcT2lvKW9bV88SY31cREAwf9ZUNR4-Hm=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7153639,
+      "lng": 78.5725853,
+      "label": "Acharya Vinoba Bhave Rural Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "datta-meghe-hospital-wardha",
+    "name": "Datta Meghe Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Wardha, Datta Meghe Hospital delivers integrated care across Kidney Transplant Surgery In Wardha. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Wardha.",
+    "email": "",
+    "phone": "07152 287 703",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PH8F+558, Wardha, Sawangi, Maharashtra 442107",
+    "city": "Wardha",
+    "state": "Maharashtra",
+    "pincode": "442107",
+    "locality": "",
+    "landmark": "Sawangi",
+    "emergencyContact": "07152 287 703",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Wardha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKIa103KxrRepFH1Mm9jIje7pxUOsmt5qqmAfvcpwnDdmH8akhOX9Svby6Cj8X8X5QFIVLVXJCvihbktDIa-qhQedAvh6YiyoVtnJSQc2PSanvANFlPv-Y-SYocvQwjpUJPoXn=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKIa103KxrRepFH1Mm9jIje7pxUOsmt5qqmAfvcpwnDdmH8akhOX9Svby6Cj8X8X5QFIVLVXJCvihbktDIa-qhQedAvh6YiyoVtnJSQc2PSanvANFlPv-Y-SYocvQwjpUJPoXn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7154162,
+      "lng": 78.5729568,
+      "label": "Datta Meghe Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "district-general-hospital-wardha-wardha",
+    "name": "District General Hospital, Wardha",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "District General Hospital, Wardha is a prominent government hospital in Wardha, known for structured tertiary care across Oncologist Surgery In Wardha. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Wardha.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://arogya.maharashtra.gov.in/",
+    "address": "Mahadevpura, Wardha, Maharashtra 442001",
+    "city": "Wardha",
+    "state": "Maharashtra",
+    "pincode": "442001",
+    "locality": "Mahadevpura",
+    "landmark": "Maharashtra 442001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Wardha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfVIyPoKjORS7cnWL7ykAunQMH1y823Q2YEAM00IlWG3A0C-Z-kmzqDF5EKpo7ybHRcgcthpk6nRkBk2o9LgDwOgLFsed6VbR3CJPbGsC9xlpWHFhq0N7qOjoKVIwB5hOM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfVIyPoKjORS7cnWL7ykAunQMH1y823Q2YEAM00IlWG3A0C-Z-kmzqDF5EKpo7ybHRcgcthpk6nRkBk2o9LgDwOgLFsed6VbR3CJPbGsC9xlpWHFhq0N7qOjoKVIwB5hOM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7383447,
+      "lng": 78.6030114,
+      "label": "District General Hospital, Wardha",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "girde-clinic-is-now-shashwati-hospital-near-mude-lawn-wardha",
+    "name": "GIRDE CLINIC - is now Shashwati Hospital near mude lawn",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Wardha, GIRDE CLINIC - is now Shashwati Hospital near mude lawn brings together specialists for Orthopedic Surgery In Wardha. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Wardha can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092840 32805",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Malgujaripura, opposite Dr Lohiya eye hospital, Wardha, Maharashtra 442001",
+    "city": "Wardha",
+    "state": "Maharashtra",
+    "pincode": "442001",
+    "locality": "opposite Dr Lohiya eye hospital",
+    "landmark": "opposite Dr Lohiya eye hospital, Wardha, Maharashtra 442001",
+    "emergencyContact": "092840 32805",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Wardha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8A1oRgSmPK7WPgDj7E2gM7G8PjKAb5zkl9urXoUeWCDWvwbVjNyGygLecsDbPZBtBVdTiQjURIZfxmnEfGgBgcv3HhqoPxdUMDpoKZeXCp-FAGp-WaI5Gioi5x3kqeBETd33cDA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8A1oRgSmPK7WPgDj7E2gM7G8PjKAb5zkl9urXoUeWCDWvwbVjNyGygLecsDbPZBtBVdTiQjURIZfxmnEfGgBgcv3HhqoPxdUMDpoKZeXCp-FAGp-WaI5Gioi5x3kqeBETd33cDA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7404355,
+      "lng": 78.5986441,
+      "label": "GIRDE CLINIC - is now Shashwati Hospital near mude lawn",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hospital-wardha",
+    "name": "Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Wardha, Hospital offers coordinated hospital care with major focus on Spine Surgery In Wardha. Operational strengths including Google rating 3.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Wardha.",
+    "email": "",
+    "phone": "093732 80505",
+    "alternatePhone": "",
+    "website": "http://cortexhospital.com/",
+    "address": "Aarti Square, Nagpur Road, Aarti square, Sudampuri, Wardha, Maharashtra 442001",
+    "city": "Wardha",
+    "state": "Maharashtra",
+    "pincode": "442001",
+    "locality": "Sudampuri",
+    "landmark": "Aarti square",
+    "emergencyContact": "093732 80505",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Wardha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGq2W3gzkRlnmpSy1_w7kBjyO4I9HCnT8ZSYAsrf54BsUOgRweVZ69YTXxChSmUO6dQhKAgR_SPrL69jJIwdyebt6sAPcDKbCGMK7yJ_FKjG8JnxJ8xxt3LqW3THMDdpB_3SIU9=w1200-h900-p-k-no",
+    "logo": "https://www.cortexhospital.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGq2W3gzkRlnmpSy1_w7kBjyO4I9HCnT8ZSYAsrf54BsUOgRweVZ69YTXxChSmUO6dQhKAgR_SPrL69jJIwdyebt6sAPcDKbCGMK7yJ_FKjG8JnxJ8xxt3LqW3THMDdpB_3SIU9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7487401,
+      "lng": 78.6050638,
+      "label": "Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "krishna-hospital-wardha",
+    "name": "Krishna Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Wardha, Krishna Hospital brings together specialists for Brain Surgery In Wardha. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Wardha can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "07152 241 940",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dhantoli, Wardha, Maharashtra 442001",
+    "city": "Wardha",
+    "state": "Maharashtra",
+    "pincode": "442001",
+    "locality": "Dhantoli",
+    "landmark": "Maharashtra 442001",
+    "emergencyContact": "07152 241 940",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Wardha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=20.7435473%2C78.5970913&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=20.7435473%2C78.5970913&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.7435473%2C78.5970913&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.7435473%2C78.5970913&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7435473,
+      "lng": 78.5970913,
+      "label": "Krishna Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "madhavbaug-clinic-wardha-wardha",
+    "name": "Madhavbaug Clinic Wardha",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Wardha, Madhavbaug Clinic Wardha offers coordinated hospital care with major focus on Liver Transplant Surgery In Wardha. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Wardha.",
+    "email": "",
+    "phone": "094218 15567",
+    "alternatePhone": "",
+    "website": "https://madhavbaug.org/clinic/gandhi-nagar-wardha/?utm_source",
+    "address": "Bachelor Rd, near Sheetal Mangal Karyala, Gandhi Nagar, Sudampuri, Wardha, Maharashtra 442001",
+    "city": "Wardha",
+    "state": "Maharashtra",
+    "pincode": "442001",
+    "locality": "Sudampuri",
+    "landmark": "near Sheetal Mangal Karyala, Gandhi Nagar, Sudampuri, Wardha, Maharashtra 442001",
+    "emergencyContact": "094218 15567",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Wardha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtLjlIuFp-DUxx2W-rr57FLkfU6lUZCIQGgy8S-kw4uYBi7-sfIA7BsKlsPEWBUiyib2eyun8EVdDO25PU2uicGOBSJlqL2ToO7wVupuLuGgpx4OdROFTPpPdZ6z0hrPvhwMhC=w1200-h900-p-k-no",
+    "logo": "https://madhavbaug.org/wp-content/uploads/2025/01/madhavbaug-logo-new-750.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtLjlIuFp-DUxx2W-rr57FLkfU6lUZCIQGgy8S-kw4uYBi7-sfIA7BsKlsPEWBUiyib2eyun8EVdDO25PU2uicGOBSJlqL2ToO7wVupuLuGgpx4OdROFTPpPdZ6z0hrPvhwMhC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMQBBbSXo5A9LcQhDu0qlzAyooWQrfI4WFPAFxd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO7VRw23V8TGj9ezjxB6Rmy_7CFMIHnvdjh5SHX=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7519114,
+      "lng": 78.600186,
+      "label": "Madhavbaug Clinic Wardha",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "marothi-hospital-nandgaon",
+    "name": "Marothi Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Nandgaon, Marothi Hospital delivers integrated care across Kidney Transplant Surgery In Wardha. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Nandgaon.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GRRH+352, NH 7, Shastriward, Jawade, Nandgaon, Maharashtra 442301",
+    "city": "Nandgaon",
+    "state": "Maharashtra",
+    "pincode": "442301",
+    "locality": "Jawade",
+    "landmark": "Shastriward",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Wardha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBO8ESjfQmXB3hVQd8xk2GlmantTvXN2No5jmLSrKhZphTo6UeHz3yoDkia8i6T4zKWWzOC86A2DKoqSLm6bM6MTLHn0cH88bAir2Taw7f6RN_yuB_IKTqRUaPlcJfnwvt6wxw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBO8ESjfQmXB3hVQd8xk2GlmantTvXN2No5jmLSrKhZphTo6UeHz3yoDkia8i6T4zKWWzOC86A2DKoqSLm6bM6MTLHn0cH88bAir2Taw7f6RN_yuB_IKTqRUaPlcJfnwvt6wxw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.5401349,
+      "lng": 78.8279041,
+      "label": "Marothi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "neuro-brain-wardha",
+    "name": "NEURO BRAIN",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NEURO BRAIN has built a strong reputation in Wardha for multidisciplinary treatment pathways covering Neurosurgeon In Wardha and Neurosciences. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Wardha can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075075 00228",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Makrande pathology, front of Bank of baroda, Maganwadi, Wardha, Maharashtra 442001",
+    "city": "Wardha",
+    "state": "Maharashtra",
+    "pincode": "442001",
+    "locality": "Maganwadi",
+    "landmark": "Maganwadi",
+    "emergencyContact": "075075 00228",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Wardha",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=20.7403395%2C78.5980123&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=20.7403395%2C78.5980123&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.7403395%2C78.5980123&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=20.7403395%2C78.5980123&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7403395,
+      "lng": 78.5980123,
+      "label": "NEURO BRAIN",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "neurospine-hospital-and-revive-critical-care-nhrcc-nagpur",
+    "name": "NEUROSPINE HOSPITAL AND REVIVE CRITICAL CARE (NHRCC)",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Nagpur, NEUROSPINE HOSPITAL AND REVIVE CRITICAL CARE (NHRCC) delivers integrated care across Spine Surgery In Wardha, Neurosciences, and Spine Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Nagpur.",
+    "email": "",
+    "phone": "090217 21336",
+    "alternatePhone": "",
+    "website": "https://www.nhrcc.in/",
+    "address": "3rd Floor, Panchvati Tower, Wardha Rd, beside The Hitvada Head Office, Dhantoli, Nagpur, Maharashtra 440012",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "pincode": "440012",
+    "locality": "Dhantoli",
+    "landmark": "beside The Hitvada Head Office, Dhantoli, Nagpur, Maharashtra 440012",
+    "emergencyContact": "090217 21336",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Wardha",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVj_Dc883CSvBao8HqjEtVCeLfYrYqNWHvcxf3RqWi7fAXvsG1-62soQ7-53azCi8vaAQYMaih7BByUUNbymQCC53tTh8UGO-NIc14csmunikK7Zm6JgmPn8kR0UosBWKeayC2ZQ=w1200-h900-p-k-no",
+    "logo": "https://www.nhrcc.in/wp-content/uploads/2023/03/Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVj_Dc883CSvBao8HqjEtVCeLfYrYqNWHvcxf3RqWi7fAXvsG1-62soQ7-53azCi8vaAQYMaih7BByUUNbymQCC53tTh8UGO-NIc14csmunikK7Zm6JgmPn8kR0UosBWKeayC2ZQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 21.1330808,
+      "lng": 79.0778579,
+      "label": "NEUROSPINE HOSPITAL AND REVIVE CRITICAL CARE (NHRCC)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "patil-superspeciality-hospital-wardha",
+    "name": "Patil Superspeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Wardha, Patil Superspeciality Hospital offers coordinated hospital care with major focus on Spine Surgery In Wardha and Speciality Care. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Wardha.",
+    "email": "",
+    "phone": "074482 93663",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Patil Hospital Road, Dhantoli, Wardha, Maharashtra 442001",
+    "city": "Wardha",
+    "state": "Maharashtra",
+    "pincode": "442001",
+    "locality": "Dhantoli",
+    "landmark": "Wardha",
+    "emergencyContact": "074482 93663",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Wardha",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVja2mn82Mnut6bW1Ff-pm7wS3IB1_mLcWtyCCqT8-DFW8VLmVs9smrVRn__hIABgDUZ1AonwvZNZScnnL9A0v7V907E2gEV-6YL6yqxrdHLd1UUCz4MH5hZp5uXzPtVNv6FtSPzywcr0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVja2mn82Mnut6bW1Ff-pm7wS3IB1_mLcWtyCCqT8-DFW8VLmVs9smrVRn__hIABgDUZ1AonwvZNZScnnL9A0v7V907E2gEV-6YL6yqxrdHLd1UUCz4MH5hZp5uXzPtVNv6FtSPzywcr0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.747531,
+      "lng": 78.5975894,
+      "label": "Patil Superspeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "r-r-healthcare-wardha",
+    "name": "R.R Healthcare",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Wardha, R.R Healthcare offers coordinated hospital care with major focus on Cancer Surgery In Wardha. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Wardha.",
+    "email": "",
+    "phone": "096979 19699",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jail Road, \"Shreerang\" , Sudampuri , Off Nagpur Road ,Palm Street , Wardha 442001, MSH 3, Wardha, Maharashtra 442001",
+    "city": "Wardha",
+    "state": "Maharashtra",
+    "pincode": "442001",
+    "locality": "MSH 3",
+    "landmark": "Sudampuri",
+    "emergencyContact": "096979 19699",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Wardha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHsYJizPmC4-JIrZpwIM8yFBnScBcxPhkPN-UG8UZLM82X-e4PYMI7IZBNs-lp5415eeMFWW-plhfgNA9H7lmZeed6aCODACm1_bWgGdjrs4MFuNWhhtMLn7Fjsa48sGemHO2nk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHsYJizPmC4-JIrZpwIM8yFBnScBcxPhkPN-UG8UZLM82X-e4PYMI7IZBNs-lp5415eeMFWW-plhfgNA9H7lmZeed6aCODACm1_bWgGdjrs4MFuNWhhtMLn7Fjsa48sGemHO2nk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.745009,
+      "lng": 78.602737,
+      "label": "R.R Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shalinitai-meghe-superspeciality-centre-sawangi",
+    "name": "ShaliniTai Meghe Superspeciality Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Sawangi, ShaliniTai Meghe Superspeciality Centre brings together specialists for Spine Neurosurgeon In Wardha and Speciality Care. Hospital capacity markers such as Google rating 3.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Sawangi can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097654 04026",
+    "alternatePhone": "",
+    "website": "http://smschospital.com/",
+    "address": "AVBRH Complex, Sawangi Meghe, Sawangi, Maharashtra 442107",
+    "city": "Sawangi",
+    "state": "Maharashtra",
+    "pincode": "442107",
+    "locality": "Sawangi Meghe",
+    "landmark": "Sawangi",
+    "emergencyContact": "097654 04026",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Wardha",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0_asMCGlqxnOi_yYPlham3qP2omwAY-d_tL0agIzbR7PMR_C_ffnImUwO0QX_1B5oKhHhvqv9r2okwEQsdF4Go-o31CTzU2j-NppFFyrJ9dYbrSCNlXZFUlMY0JzSnX4eiQXgMQ=w1200-h900-p-k-no",
+    "logo": "https://www.smschospital.com/assets/images/smsc-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0_asMCGlqxnOi_yYPlham3qP2omwAY-d_tL0agIzbR7PMR_C_ffnImUwO0QX_1B5oKhHhvqv9r2okwEQsdF4Go-o31CTzU2j-NppFFyrJ9dYbrSCNlXZFUlMY0JzSnX4eiQXgMQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGBgvdQqXZQ0gjEHGpx3z3Su-4vuADX7GB5fAA35FZlXvjIttsk-4KXiNi538nvi_OdKYvD5raek46GUBrSeTVCnup780SCrMPgk-LFpmQSxYSzZgNkr5oz2XuYMtUoC2UO-uxDw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7156427,
+      "lng": 78.5739862,
+      "label": "ShaliniTai Meghe Superspeciality Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shvaas-multispeciality-hospital-sindi-medhe",
+    "name": "Shvaas Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Sindi Medhe often choose Shvaas Multispeciality Hospital for its strength in Laparoscopic Surgery In Wardha and Speciality Care. Hospital capacity markers such as Google rating 3.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Sindi Medhe can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "07152 251 420",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MG Rd, Maganwadi, Sindi Medhe, Maharashtra 442001",
+    "city": "Sindi Medhe",
+    "state": "Maharashtra",
+    "pincode": "442001",
+    "locality": "Maganwadi",
+    "landmark": "Sindi Medhe",
+    "emergencyContact": "07152 251 420",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Wardha",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZ4mQ_CHD57E6FtzaPTsblSJahgQP3B7OhllxsFzCf4kDi3oZ6rkMRAiGO94IFCqTe-q5MxpZP069QE8Qbpobw3zSTbPLuDewMeq-wUHd9m6w-kxws4u8EloyuJTI6Dn45tQHW=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZ4mQ_CHD57E6FtzaPTsblSJahgQP3B7OhllxsFzCf4kDi3oZ6rkMRAiGO94IFCqTe-q5MxpZP069QE8Qbpobw3zSTbPLuDewMeq-wUHd9m6w-kxws4u8EloyuJTI6Dn45tQHW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7403495,
+      "lng": 78.5929298,
+      "label": "Shvaas Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "siddharth-gupta-memorial-cancer-hospital-sawangi",
+    "name": "Siddharth Gupta Memorial Cancer Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Sawangi, Siddharth Gupta Memorial Cancer Hospital offers coordinated hospital care with major focus on Oncologist Surgery In Wardha. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Sawangi.",
+    "email": "",
+    "phone": "0712 352 1215",
+    "alternatePhone": "",
+    "website": "https://cancersgmhospital.com/",
+    "address": "Sawangi, Meghe, Sawangi, Maharashtra 442107",
+    "city": "Sawangi",
+    "state": "Maharashtra",
+    "pincode": "442107",
+    "locality": "Meghe",
+    "landmark": "Sawangi",
+    "emergencyContact": "0712 352 1215",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Wardha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFs_FEMBtsz0iQfcdZT4qHytAHdYROI9htSttNoUag-5nSAy7LgnDzBcusSzxN2zLyCFbkw1iKu_ZPS2s8DZQu6rlsuJuvCMdfGJGKg4j2uspL1rsC-_cBeYoXjUt7Gx8gvlWpnVKoSpmEq=w1200-h900-p-k-no",
+    "logo": "https://www.cancersgmhospital.com/assets/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFs_FEMBtsz0iQfcdZT4qHytAHdYROI9htSttNoUag-5nSAy7LgnDzBcusSzxN2zLyCFbkw1iKu_ZPS2s8DZQu6rlsuJuvCMdfGJGKg4j2uspL1rsC-_cBeYoXjUt7Gx8gvlWpnVKoSpmEq=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7135936,
+      "lng": 78.5730453,
+      "label": "Siddharth Gupta Memorial Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

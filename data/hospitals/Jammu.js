@@ -1,0 +1,5683 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "amandeep-multispeciality-opd-clinic-jammu-jammu",
+    "name": "Amandeep Multispeciality Opd Clinic Jammu",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jammu often choose Amandeep Multispeciality Opd Clinic Jammu for its strength in Orthopedic Surgery In Jammu and Speciality Care. The facility stands out for Google rating 4.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jammu can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096229 65050",
+    "alternatePhone": "",
+    "website": "http://www.amandeephospital.org/",
+    "address": "Nh1, Chowk, Greater Kailash, Jammu, Jammu and Kashmir 180011",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180011",
+    "locality": "Greater Kailash",
+    "landmark": "Greater Kailash",
+    "emergencyContact": "096229 65050",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jammu",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHi8AJV91piQ7t5JJgjbmVtqJPMdso2h4Xy-QMHGUF1ZaTf9FKRjb8LmHjDsCtFdd_uWX4OPs4SmC-hSAnwSlBEMwBlzdCWCIOfQsmRv7cYQKLZQnLltmy2Fk8-_ZZ91wlE4mv2SjKbdD6g=w1200-h900-p-k-no",
+    "logo": "https://amandeephospital.org/favicon.ico",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHi8AJV91piQ7t5JJgjbmVtqJPMdso2h4Xy-QMHGUF1ZaTf9FKRjb8LmHjDsCtFdd_uWX4OPs4SmC-hSAnwSlBEMwBlzdCWCIOfQsmRv7cYQKLZQnLltmy2Fk8-_ZZ91wlE4mv2SjKbdD6g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSdGb8l9_JmFFczJ_hDaeuCvxUGG3UYCa0RU_TF-VrinS3FHGkqtBCH_zjw3Soy2MK6rF_6MEJzFMEbOkXBS06T7z2Cf93H1hlXlMYP3Fft6vi4CLsW28d1qsfOnu5UuQexlo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6743636,
+      "lng": 74.8904641,
+      "label": "Amandeep Multispeciality Opd Clinic Jammu",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "american-oncology-institute-jammu-jammu-and-kashmir-jammu",
+    "name": "American Oncology Institute, Jammu, Jammu & Kashmir",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "American Oncology Institute, Jammu, Jammu & Kashmir has built a strong reputation in Jammu for multidisciplinary treatment pathways covering Oncologist Surgery In Jammu. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jammu can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "1800 208 2000",
+    "alternatePhone": "",
+    "website": "https://americanoncology.com/top-cancer-hospital-in-india/best-cancer-treatment-hospital-jammu-kashmir/",
+    "address": "Acharya Shri Chander College of Medical Sciences (ASCOMS By-Pass Road, Sidrah, Jammu, Jammu and Kashmir 180017",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180017",
+    "locality": "Sidrah",
+    "landmark": "Jammu",
+    "emergencyContact": "1800 208 2000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4sBEIDxyWOR573HGc3kdXrcB4LBo86tmZnA20yGf6yaYvWhpOZttqFQ8YcFbrjavTa-xoQXyLFhaPrf9z3IscB5RViJZPLueIzAPGngzXqjpqXBWpoXaLP3m5AOdjVONhn7BsFQrmG_0M=w1200-h900-p-k-no",
+    "logo": "https://www.americanoncology.com/static/web/images/Logo-149x58-01-1@2x.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4sBEIDxyWOR573HGc3kdXrcB4LBo86tmZnA20yGf6yaYvWhpOZttqFQ8YcFbrjavTa-xoQXyLFhaPrf9z3IscB5RViJZPLueIzAPGngzXqjpqXBWpoXaLP3m5AOdjVONhn7BsFQrmG_0M=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOwigRVR0it0XaViLIEcf1hGIuqKHenuHu2eqew=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7511347,
+      "lng": 74.9102711,
+      "label": "American Oncology Institute, Jammu, Jammu & Kashmir",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ankur-maitrika-hospital-jammu",
+    "name": "Ankur Maitrika Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ankur Maitrika Hospital is a prominent hospital in Jammu, known for structured tertiary care across Urologist Surgery In Jammu. With public-facing highlights like Google rating 4.4 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jammu.",
+    "email": "",
+    "phone": "070510 02104",
+    "alternatePhone": "",
+    "website": "http://www.ankurmaitrikahospital.com/",
+    "address": "Ward No. 55, Deeli, near Jodhamal School, Channi Himat, Jammu, Jammu and Kashmir 180011",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180011",
+    "locality": "Channi Himat",
+    "landmark": "near Jodhamal School, Channi Himat, Jammu, Jammu and Kashmir 180011",
+    "emergencyContact": "070510 02104",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtXRz-awhAgn7nYK-drlu5j1nsOy5FuqNIC86DcWlc0rFdR5Z4_7h2pZZNw8Kz5P59-hpJoY2H_ZsTC9dmbuV_A0jrZXITc-_bG8nq3dBD7WF4UYFnE9qfPf3a7Hd_SSS5mvNVSQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtXRz-awhAgn7nYK-drlu5j1nsOy5FuqNIC86DcWlc0rFdR5Z4_7h2pZZNw8Kz5P59-hpJoY2H_ZsTC9dmbuV_A0jrZXITc-_bG8nq3dBD7WF4UYFnE9qfPf3a7Hd_SSS5mvNVSQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6826006,
+      "lng": 74.9036677,
+      "label": "Ankur Maitrika Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ascoms-avighna-heart-centre-jammu",
+    "name": "ASCOMS Avighna Heart Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted heart hospital in Jammu, ASCOMS Avighna Heart Centre delivers integrated care across Cardiac Surgery In Jammu and Cardiac Care. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jammu.",
+    "email": "",
+    "phone": "097960 10100",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, ASCOMS Hospital, bye pass road, Sidhra, Jammu, Jammu and Kashmir 180017",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180017",
+    "locality": "Sidhra",
+    "landmark": "bye pass road",
+    "emergencyContact": "097960 10100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Jammu",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzYNNXfXrExMZyj73dP8LikZDcn7QS-jo8tUCcI3QjKC3h140udo8pEYtwbPRhSQfNHbRxqx9UrTB3ehbec-gDRGCLCucORO3YJLL9IAtm86RGc5CGmd8e2kG1OsyZvOwH2ZiBDQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzYNNXfXrExMZyj73dP8LikZDcn7QS-jo8tUCcI3QjKC3h140udo8pEYtwbPRhSQfNHbRxqx9UrTB3ehbec-gDRGCLCucORO3YJLL9IAtm86RGc5CGmd8e2kG1OsyZvOwH2ZiBDQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7520648,
+      "lng": 74.9096871,
+      "label": "ASCOMS Avighna Heart Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "baba-nanak-medicity-best-health-care-multi-speciality-hospital-in-jammu-jammu",
+    "name": "Baba Nanak Medicity - Best Health Care Multi-Speciality Hospital in Jammu",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jammu, Baba Nanak Medicity - Best Health Care Multi-Speciality Hospital in Jammu brings together specialists for Orthopedic Surgery In Jammu and Speciality Care. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "094196 14466",
+    "alternatePhone": "",
+    "website": "http://www.babananakmedicity.eu5.net/",
+    "address": "opp reen palace, Gadigarh, Jammu, Jammu and Kashmir 181101",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "181101",
+    "locality": "Gadigarh",
+    "landmark": "Jammu",
+    "emergencyContact": "094196 14466",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jammu",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqSqcBOTrY6wECRFV88-Td79ra8_AUlE-7hUtdi72f-JrQ-cK4KHPE8Z9Q8-qLNxKMOLlUUDNj-WqYO58xgG6zW8JjjVqbMal-qNGs8OBaHURSWM98mkjZHE_zv6JdVnHMAChd=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqSqcBOTrY6wECRFV88-Td79ra8_AUlE-7hUtdi72f-JrQ-cK4KHPE8Z9Q8-qLNxKMOLlUUDNj-WqYO58xgG6zW8JjjVqbMal-qNGs8OBaHURSWM98mkjZHE_zv6JdVnHMAChd=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.671407,
+      "lng": 74.835029,
+      "label": "Baba Nanak Medicity - Best Health Care Multi-Speciality Hospital in Jammu",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "batra-hospital-jammu",
+    "name": "Batra Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Jammu, Batra Hospital delivers integrated care across Urologist Surgery In Jammu. With public-facing highlights like Google rating 3.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jammu.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.batrahospitaldelhi.org/",
+    "address": "Jammu, Jammu and Kashmir 180017",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180017",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTagvIIgINEQtIqoPRTn-Le0xCPlqZVo5ZAXqzLY3OrPVfeSXYEesIIvLCXjaGw3nVzI-mUSSMgCvvnVGhz0GBW4rUsUURbNz1CWi7SFGZyiY-6hgGF2uquoQTCV-_6-p_XutZPA=w1200-h900-p-k-no",
+    "logo": "https://www.batrahospitaldelhi.org/uploads/51ba570fe68fc088e0a942bdf8700cdce7eb8b1d/16686098961668416658logo-bhms-removebg-preview.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTagvIIgINEQtIqoPRTn-Le0xCPlqZVo5ZAXqzLY3OrPVfeSXYEesIIvLCXjaGw3nVzI-mUSSMgCvvnVGhz0GBW4rUsUURbNz1CWi7SFGZyiY-6hgGF2uquoQTCV-_6-p_XutZPA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfh6tNmi3O03Ne9VsXKI_RAA-KjCUEWf99rPBkQhy24Tle1q7qA3vrY7MPzAGM9EcHZTfOmbKYItg5vr6uCwdfksj8YcMwfo1R1INuyhe895gaviEkT84fObHKQBn6Oq6M0plg_WqLdwMr=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7514904,
+      "lng": 74.9096813,
+      "label": "Batra Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bee-enn-general-hospital-jammu",
+    "name": "Bee Enn General Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jammu, Bee Enn General Hospital brings together specialists for Liver Transplant Surgery In Jammu. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jammu can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090702 25702",
+    "alternatePhone": "",
+    "website": "http://www.beeenngroup.com/",
+    "address": "Talab Tillo Rd, Garden Avenue, Bhagwati Nagar, Jammu, Jammu and Kashmir 180016",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180016",
+    "locality": "Bhagwati Nagar",
+    "landmark": "Bhagwati Nagar",
+    "emergencyContact": "090702 25702",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0AB8E4JjVdo1sXOGDn9V-Gk0zQlsd1TLDAcrG8WolVnBCF651I4TeHwcIW9MKBK0pvVIuv6ezBHFdLTzRT34EP01VmVwd-2NDsU_4CkOQXGleA7rkPNC4TtdJULYiExBcFi_ZMQ=w1200-h900-p-k-no",
+    "logo": "http://www.beeenngroup.com/images/logo/AB-CAPF.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0AB8E4JjVdo1sXOGDn9V-Gk0zQlsd1TLDAcrG8WolVnBCF651I4TeHwcIW9MKBK0pvVIuv6ezBHFdLTzRT34EP01VmVwd-2NDsU_4CkOQXGleA7rkPNC4TtdJULYiExBcFi_ZMQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7299468,
+      "lng": 74.8412326,
+      "label": "Bee Enn General Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bn-hospital-jammu",
+    "name": "BN hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BN hospital is a prominent hospital in Jammu, known for structured tertiary care across Cancer Surgery In Jammu. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jammu.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PRJR+726, Talab Tillo Rd, Garden Avenue, Bhagwati Nagar, Suraj Nagar, Jammu, Jammu and Kashmir 180016",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180016",
+    "locality": "Suraj Nagar",
+    "landmark": "Garden Avenue",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=32.7306529%2C74.8400021&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=32.7306529%2C74.8400021&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=32.7306529%2C74.8400021&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=32.7306529%2C74.8400021&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7306529,
+      "lng": 74.8400021,
+      "label": "BN hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bone-and-joint-hospital-jammu",
+    "name": "Bone and Joint hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bone and Joint hospital has built a strong reputation in Jammu for multidisciplinary treatment pathways covering Orthopedic Surgery In Jammu and Orthopaedics. The facility stands out for Google rating 3.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jammu can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "255, Bakshi Nagar Flyover, Bakshi Nagar, Jammu, Jammu and Kashmir 180001",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180001",
+    "locality": "Bakshi Nagar",
+    "landmark": "Bakshi Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jammu",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXE0fAULds6M77HqJvxSJrIIvMIUfyiJphFG58DXSjeoz3GdyoUzMfyZ5qmlwA9BL28lC0TTVtxRYW-dO5ABTBm0bMaA3Z-T_rQqicy7EwzoMCccpmo0gIywK3rl2vSSbRJfML=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXE0fAULds6M77HqJvxSJrIIvMIUfyiJphFG58DXSjeoz3GdyoUzMfyZ5qmlwA9BL28lC0TTVtxRYW-dO5ABTBm0bMaA3Z-T_rQqicy7EwzoMCccpmo0gIywK3rl2vSSbRJfML=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7349672,
+      "lng": 74.8562338,
+      "label": "Bone and Joint hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "city-hospital-jammu",
+    "name": "City Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jammu often choose City Hospital for its strength in Kidney Transplant Surgery In Jammu. With public-facing highlights like Google rating 4.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "088820 66492",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PW77+CF8 City Hospital, Bathindi, Jammu, Jammu and Kashmir 180007",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180007",
+    "locality": "Bathindi",
+    "landmark": "Jammu",
+    "emergencyContact": "088820 66492",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHWxpcfa7Lihn5hNS-Lbe0J54_vwuQGEdrPahjD4itWpRzhChUFlAB9o23D0reN5YYqvcg3OMeEdSxybtGYqpORUOIMSbLdvdBftqTEI24j7naUNGHIf5ZFviO8spNiCn4XPU-K5Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHWxpcfa7Lihn5hNS-Lbe0J54_vwuQGEdrPahjD4itWpRzhChUFlAB9o23D0reN5YYqvcg3OMeEdSxybtGYqpORUOIMSbLdvdBftqTEI24j7naUNGHIf5ZFviO8spNiCn4XPU-K5Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7135392,
+      "lng": 74.9136981,
+      "label": "City Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cldd-center-for-liver-and-digestive-diseases-jammu",
+    "name": "CLDD CENTER FOR LIVER & DIGESTIVE DISEASES",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jammu often choose CLDD CENTER FOR LIVER & DIGESTIVE DISEASES for its strength in Liver Transplant Surgery In Jammu, Liver Care, and Digestive Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "0191 351 1185",
+    "alternatePhone": "",
+    "website": "http://cldd.in/",
+    "address": "Narwal Byepass, near JK Medicity Hospital, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180015",
+    "locality": "Channi Himat",
+    "landmark": "near JK Medicity Hospital, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "emergencyContact": "0191 351 1185",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jammu",
+      "Liver Care",
+      "Digestive Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgo5yI_7LXzHPwCaHZZLatOwsBFrbt62Hn6SU4RcxsJ15OSDMG5vp5I--S7Uf0_lfHxKc68FwRL6O6DF4-WX3RxR_eKZiAQ_7M-Sg0_HDrfs6gRGVrzVEIVNg1eSssqgVfMfV8=w1200-h900-p-k-no",
+    "logo": "https://cldd.in/wp-content/uploads/2025/05/jpg.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgo5yI_7LXzHPwCaHZZLatOwsBFrbt62Hn6SU4RcxsJ15OSDMG5vp5I--S7Uf0_lfHxKc68FwRL6O6DF4-WX3RxR_eKZiAQ_7M-Sg0_HDrfs6gRGVrzVEIVNg1eSssqgVfMfV8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6988207,
+      "lng": 74.900371,
+      "label": "CLDD CENTER FOR LIVER & DIGESTIVE DISEASES",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "g-b-pant-hospital-jammu",
+    "name": "G.B Pant Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jammu often choose G.B Pant Hospital for its strength in General Surgery In Jammu. Its infrastructure includes Google rating 4.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MRVX+PJF, Jabah, Jammu, Jammu and Kashmir 180003",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180003",
+    "locality": "Jabah",
+    "landmark": "Jammu",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1u5TBcWd_EZrBF0pZfiEVBn2Wc5cDUzJzxJqjnMJ5wk7kzy_K42DZUuCoLZKb2AReD3v_gUKdM-tQOd_zQmGwFiapGCvjn92r9EoLdFrEQRmsm51TcoJJIcMWUik93jxviC5OW6wDH6o=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1u5TBcWd_EZrBF0pZfiEVBn2Wc5cDUzJzxJqjnMJ5wk7kzy_K42DZUuCoLZKb2AReD3v_gUKdM-tQOd_zQmGwFiapGCvjn92r9EoLdFrEQRmsm51TcoJJIcMWUik93jxviC5OW6wDH6o=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.694323,
+      "lng": 74.8490457,
+      "label": "G.B Pant Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ghai-kidney-care-jammu",
+    "name": "Ghai Kidney Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jammu, Ghai Kidney Care brings together specialists for Kidney Transplant Surgery In Jammu and Kidney Care. With public-facing highlights like Google rating 4.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dc Plaza, 145/1, Sainik Colony, Jammu, Jammu and Kashmir 180011",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180011",
+    "locality": "Sainik Colony",
+    "landmark": "Sainik Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jammu",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHimguV4Z9L7-QYMiyYn40rfP_3RhEAFTbrqJyUfJju27vNLSorEKetV_AVqRN71AVp64osX86CaeDSfncScOehNa5yha3fLSYbgEVXGGzFtARlzQGbLR1RLPZj2nmpgV-WsEnqaQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHimguV4Z9L7-QYMiyYn40rfP_3RhEAFTbrqJyUfJju27vNLSorEKetV_AVqRN71AVp64osX86CaeDSfncScOehNa5yha3fLSYbgEVXGGzFtARlzQGbLR1RLPZj2nmpgV-WsEnqaQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.678964,
+      "lng": 74.909295,
+      "label": "Ghai Kidney Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "government-hospital-gandhi-nagar-jammu-jammu",
+    "name": "Government Hospital Gandhi Nagar, Jammu",
+    "type": "General Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Jammu, Government Hospital Gandhi Nagar, Jammu delivers integrated care across Kidney Transplant Surgery In Jammu. Its infrastructure includes Google rating 3.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jammu.",
+    "email": "",
+    "phone": "0191 245 9300",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No 48B, Auqaf Complex, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180004",
+    "locality": "Gandhi Nagar",
+    "landmark": "Gandhi Nagar",
+    "emergencyContact": "0191 245 9300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpe-o5Zh3qbp22AahChOTfTFg_MAg5Iw24ez7H6FuSC6C3tlE4-80SMLXbzVw8a1WOcLo7grqmekMBiprnqAzB4-QVI4nFRzuN0vQSL5JsXFTP_oGlBqFgZSmYPlPblRtX2pR5=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpe-o5Zh3qbp22AahChOTfTFg_MAg5Iw24ez7H6FuSC6C3tlE4-80SMLXbzVw8a1WOcLo7grqmekMBiprnqAzB4-QVI4nFRzuN0vQSL5JsXFTP_oGlBqFgZSmYPlPblRtX2pR5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcVXG_DAkL2cTlB5KwwVkpO3mqZJqLk3Ad_gkRs7Eh3_0k5aqQQOuGWnQJQVBc8zAubA9U305xJMegbqomiXdlYHPBFbJFUzi1QVOgfWY47LHGTWKufQxFquuhqTVgCCyGK2dmauho2aLz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxtuLnd9CVz8yMHiUv4KQndzjA21id5hEp9_gRBNPqxI7p27jQk_HXiGLKemqNRy3ih9dP9n7CQhxM2r0JCyhnUYGS7wWVKcISVGHdAgyfObTujyxDA5kans0EpoDYJaGve4iFm3fxOow=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFRKltT-pWHHSj5rUrRkJ2iOsXORMNHHF1TvFYwBLxU7pqxCfDnnTpy5CnWCVM3nAoXWCEyXKGKvPXgxVpxOGBoEjMP0edKY1x3EVpYUbwDV0KTUI7Tsrq6jz3sir1JTnrvgFY6C2ElPcI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzIvmhQUVRI55GlUV0kUy5C7GUthuiZqOHhBW5z4HhMsTR80x9-Y1UQUKiRiwNHV0XhrsLtJP1K0yjhNqTB7W7OSqeTpFMUf3AzLDdz7vEKmQADld6UYGIoS1dXieSKGb1sa8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.705216,
+      "lng": 74.860034,
+      "label": "Government Hospital Gandhi Nagar, Jammu",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "government-medical-college-and-hospital-jammu",
+    "name": "Government Medical College and Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jammu often choose Government Medical College and Hospital for its strength in Orthopedic Surgery In Jammu. With public-facing highlights like Google rating 3.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jammu can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0191 258 4234",
+    "alternatePhone": "",
+    "website": "http://gmcjammu.nic.in/",
+    "address": "maheshpura, chowk, Bakshi Nagar, Jammu, Jammu and Kashmir 180016",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180016",
+    "locality": "Bakshi Nagar",
+    "landmark": "Bakshi Nagar",
+    "emergencyContact": "0191 258 4234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqVmG_fmX4XcgJ5vhXDCxqtjaN55Tj60l8T1c3GD6tujgFr45NoTuEK8qsV5X19xwjfn2CeSaFcmaoWcg-HR7rHIpp4HUcyTDqNr63mBvqntZvQbuYVWhxPvLURDFM_fYe88RL=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqVmG_fmX4XcgJ5vhXDCxqtjaN55Tj60l8T1c3GD6tujgFr45NoTuEK8qsV5X19xwjfn2CeSaFcmaoWcg-HR7rHIpp4HUcyTDqNr63mBvqntZvQbuYVWhxPvLURDFM_fYe88RL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXE0fAULds6M77HqJvxSJrIIvMIUfyiJphFG58DXSjeoz3GdyoUzMfyZ5qmlwA9BL28lC0TTVtxRYW-dO5ABTBm0bMaA3Z-T_rQqicy7EwzoMCccpmo0gIywK3rl2vSSbRJfML=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcIPldwOebT9iTouitkUYMhravAFMwk7kjWrXY2P9bP-mk-jlVrwQmlmDnFGIcym0FX7MTpbPYhE1yNU4tVS4xxPmFCl1oAR804N8N-w8ognOtq8W7x87yTs6y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcIPldwOebT9iTouitkUYMhravAFMwk7kjWrXY2P9bP-mk-jlVrwQmlmDnFGIcym0FX7MTpbPYhE1yNU4tVS4xxPmFCl1oAR804N8N-w8ognOtq8W7x87yTs6ysB-RKeXR2WIJrA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERYp6JvzhWucdbTIA5oc7jKuSp2X6O272g54f1t19-VObDTkEuy2SbG8_sfJrViuGOkfXj_nTBl6ztIdXGtczXfbEjg_NL7xBbisZMbn6neQveWIsFwgZvk2Qhrp_iejS7Im40SQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7361128,
+      "lng": 74.8539737,
+      "label": "Government Medical College and Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "govt-hospital-sarwal-jammu",
+    "name": "Govt. Hospital Sarwal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jammu, Govt. Hospital Sarwal brings together specialists for Orthopedic Surgery In Jammu. Operational strengths including Google rating 3.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jammu can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0191 257 9402",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PVW3+R96, Rehari Colony, Jammu, Jammu and Kashmir 180005",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180005",
+    "locality": "Rehari Colony",
+    "landmark": "Jammu",
+    "emergencyContact": "0191 257 9402",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8mRUTiIqblbNtrnSuKLXhrsJmCKGb49B0Hq_0z6Bkh4_Xd6vUF-A91PyjnLRydoYnA43LK1m8NpT_HUVgsmn2dmcnM4encHzLABWDFNpRgVPlg6aCsbpHxFNI3y64Qaq9NgaB7Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8mRUTiIqblbNtrnSuKLXhrsJmCKGb49B0Hq_0z6Bkh4_Xd6vUF-A91PyjnLRydoYnA43LK1m8NpT_HUVgsmn2dmcnM4encHzLABWDFNpRgVPlg6aCsbpHxFNI3y64Qaq9NgaB7Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7470339,
+      "lng": 74.8533992,
+      "label": "Govt. Hospital Sarwal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "govt-smgs-hospital-jammu",
+    "name": "Govt. SMGS Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Govt. SMGS Hospital is a prominent government hospital in Jammu, known for structured tertiary care across Orthopedic Surgery In Jammu. The facility stands out for Google rating 3.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jammu.",
+    "email": "",
+    "phone": "0191 254 7639",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near SMGS, Shalamar, Resham Ghar Colony, Jammu, Jammu and Kashmir 180001",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180001",
+    "locality": "Resham Ghar Colony",
+    "landmark": "Resham Ghar Colony",
+    "emergencyContact": "0191 254 7639",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIsHync-bAecBqk78mE44mNfYpE0DXP3YDGUVNUCOitVzXMjffsgx549gXhPARxsS4JCZjmZOG3RUbIjPwFIpkT_PJKYnvl_oaplnxPislb3_futbjhSqnnfmBR-ZLeMymSsGq=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIsHync-bAecBqk78mE44mNfYpE0DXP3YDGUVNUCOitVzXMjffsgx549gXhPARxsS4JCZjmZOG3RUbIjPwFIpkT_PJKYnvl_oaplnxPislb3_futbjhSqnnfmBR-ZLeMymSsGq=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7328647,
+      "lng": 74.8613726,
+      "label": "Govt. SMGS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jammu-centre-for-human-reproduction-jammu",
+    "name": "Jammu Centre For Human Reproduction",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jammu Centre For Human Reproduction is a prominent hospital in Jammu, known for structured tertiary care across IVF In Jammu. Hospital capacity markers such as Google rating 3.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jammu.",
+    "email": "",
+    "phone": "090860 07375",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mini market, Trikuta Nagar, Jammu, Jammu and Kashmir 180001",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180001",
+    "locality": "Trikuta Nagar",
+    "landmark": "Jammu",
+    "emergencyContact": "090860 07375",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcVeo7cxz2_llaMxBZ1OiUvb0jXvhdW9_GwFcAy3hWhMbGM0BXSKw1FlSlS8Y-nTsJ8hPQ5ot10Z1e6R2mD35TfFz89KIQF2fM72CmRWck-_70Ue4EqoWvWA2u7AcWhNtZwlA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcVeo7cxz2_llaMxBZ1OiUvb0jXvhdW9_GwFcAy3hWhMbGM0BXSKw1FlSlS8Y-nTsJ8hPQ5ot10Z1e6R2mD35TfFz89KIQF2fM72CmRWck-_70Ue4EqoWvWA2u7AcWhNtZwlA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6979822,
+      "lng": 74.8645553,
+      "label": "Jammu Centre For Human Reproduction",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kd-multispeciality-hospital-jammu",
+    "name": "KD Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jammu, KD Multispeciality Hospital delivers integrated care across Urologist Surgery In Jammu and Speciality Care. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jammu.",
+    "email": "",
+    "phone": "094199 59697",
+    "alternatePhone": "",
+    "website": "http://kdmultispecialityhospital.com/",
+    "address": "Marble Market Rd, opposite Jain Builder, Trikuta Nagar, Jammu, Jammu and Kashmir 180012",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180012",
+    "locality": "Trikuta Nagar",
+    "landmark": "opposite Jain Builder, Trikuta Nagar, Jammu, Jammu and Kashmir 180012",
+    "emergencyContact": "094199 59697",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Jammu",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEE-KqJq_GMHHhq3m3UVc2WmVNhnpUJogYbMLoWvmXQvhum9u3u2qjBdQ76RiRuNO4d5CEF8XwqIQa7TDkZFTdJDmtJ1WWDiTEdSVk2C3zaGh-ZfB7YKmg0NCgqpuWV2sQGDsj1QA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEE-KqJq_GMHHhq3m3UVc2WmVNhnpUJogYbMLoWvmXQvhum9u3u2qjBdQ76RiRuNO4d5CEF8XwqIQa7TDkZFTdJDmtJ1WWDiTEdSVk2C3zaGh-ZfB7YKmg0NCgqpuWV2sQGDsj1QA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGs2YswyN1xZMAL2immB0e8-O50N1gS2pWHetrfFh8o5othsH03BikSCGCoCjjOt3uwrMVyBD8xZjqiyEwLPQvAwfV0nXBBygRe_5dW3CWRPYxl9eiL1zSk_pOcyS-LanbSYf57=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.679471,
+      "lng": 74.88792,
+      "label": "KD Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kidney-care-dialysis-center-jammu",
+    "name": "Kidney Care Dialysis Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jammu, Kidney Care Dialysis Center delivers integrated care across Kidney Transplant Surgery In Jammu and Kidney Care. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jammu.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "street no. 204, opposite fitness gym, Karan Bagh, Jammu, Jammu and Kashmir 181101",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "181101",
+    "locality": "Karan Bagh",
+    "landmark": "opposite fitness gym, Karan Bagh, Jammu, Jammu and Kashmir 181101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jammu",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJqk5p5OmJylzSB9CkQ2TSKKSsQGcD2eiPdIiOYraWt4Kq4GxWZk0KDXaOdnpkqGrPB0ErzoJ3Jia7GwPmOGXd2HamE_X8mIqzjjAuJuIvCJTeRJsn_aV7TJxWRA_KejQTUzBtNg3cIkY5=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJqk5p5OmJylzSB9CkQ2TSKKSsQGcD2eiPdIiOYraWt4Kq4GxWZk0KDXaOdnpkqGrPB0ErzoJ3Jia7GwPmOGXd2HamE_X8mIqzjjAuJuIvCJTeRJsn_aV7TJxWRA_KejQTUzBtNg3cIkY5=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6656564,
+      "lng": 74.8376169,
+      "label": "Kidney Care Dialysis Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lajwanti-women-hospital-jammu",
+    "name": "Lajwanti Women Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jammu, Lajwanti Women Hospital brings together specialists for Gynecologist Surgery In Jammu and Women and Child Care. With public-facing highlights like Google rating 4.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MVGQ+4Q9, Greater Kailash Road, Greater Kailash, Jammu, Jammu and Kashmir 180010",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180010",
+    "locality": "Greater Kailash",
+    "landmark": "Greater Kailash",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jammu",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqCubc7PEIVRO42oKDMNHrXmdochpPKSbA8jGjBVUj1BjIsQOkK87_wRysT1XX9ZAc5TCppNyuTmf0j_L626b7_Nc5j373Dqs2839uI4tylIq4tJ7SMhAhuiwM9ZcXrKR6f870TA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqCubc7PEIVRO42oKDMNHrXmdochpPKSbA8jGjBVUj1BjIsQOkK87_wRysT1XX9ZAc5TCppNyuTmf0j_L626b7_Nc5j373Dqs2839uI4tylIq4tJ7SMhAhuiwM9ZcXrKR6f870TA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6752806,
+      "lng": 74.8894982,
+      "label": "Lajwanti Women Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "madaan-hospital-and-research-centre-jammu",
+    "name": "Madaan Hospital & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Madaan Hospital & Research Centre has built a strong reputation in Jammu for multidisciplinary treatment pathways covering Gynecologist Surgery In Jammu. Hospital capacity markers such as Google rating 3.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "070064 43474",
+    "alternatePhone": "",
+    "website": "",
+    "address": "37A/C, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180004",
+    "locality": "Gandhi Nagar",
+    "landmark": "Jammu",
+    "emergencyContact": "070064 43474",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBNa68maKQcJRUdK3ZT_It2FDdznnnAb5ZqZsuX1j2uKLOXnfM1esjQbc7BcuzgfImxDVxW9eVRYEAzHUaL3rkiyEff8lpx1LPqED_5phZJa1PrV5QPIcb9IpLoA7RRcZc9rum=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBNa68maKQcJRUdK3ZT_It2FDdznnnAb5ZqZsuX1j2uKLOXnfM1esjQbc7BcuzgfImxDVxW9eVRYEAzHUaL3rkiyEff8lpx1LPqED_5phZJa1PrV5QPIcb9IpLoA7RRcZc9rum=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7063427,
+      "lng": 74.8587997,
+      "label": "Madaan Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "maharishi-dayanand-hospital-and-medical-research-centre-jammu",
+    "name": "MAHARISHI DAYANAND HOSPITAL & MEDICAL RESEARCH CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MAHARISHI DAYANAND HOSPITAL & MEDICAL RESEARCH CENTRE is a prominent hospital in Jammu, known for structured tertiary care across Urologist Surgery In Jammu. The facility stands out for Google rating 3.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jammu.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "228, B.C Rd, Ambphalla, Rehari Chungi, Jammu, Jammu and Kashmir 180005",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180005",
+    "locality": "Rehari Chungi",
+    "landmark": "Ambphalla",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVZYDHie2HA0cveesInMrDqVovFPxUu0UKgdMCiZPi0g3t0mQNQ9LKxpltmlFK7IqYkgRDBNNSzqI4Ga0Vl7I-XaHX4AqtWgUJWt-7TWV8T3zQmyfle9UUKCpuFzEll36s80yDI_egf_kP=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVZYDHie2HA0cveesInMrDqVovFPxUu0UKgdMCiZPi0g3t0mQNQ9LKxpltmlFK7IqYkgRDBNNSzqI4Ga0Vl7I-XaHX4AqtWgUJWt-7TWV8T3zQmyfle9UUKCpuFzEll36s80yDI_egf_kP=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7436671,
+      "lng": 74.861435,
+      "label": "MAHARISHI DAYANAND HOSPITAL & MEDICAL RESEARCH CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "maxxlyfe-hospital-and-trauma-centre-jammu",
+    "name": "MaxxLyfe Hospital & Trauma Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MaxxLyfe Hospital & Trauma Centre has built a strong reputation in Jammu for multidisciplinary treatment pathways covering Laparoscopic Surgery In Jammu. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sunjwan Rd, near Bhatindi, MOrh, Jammu, Jammu and Kashmir 180011",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180011",
+    "locality": "MOrh",
+    "landmark": "near Bhatindi, MOrh, Jammu, Jammu and Kashmir 180011",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1P77xfNb95gnhccgwfKXJSYg-ijMoVcj1oeO1a6xydqrQ9Xm6KdUTCM_-HoWq-7jD4G_gzoCveCx7EnleK8Azw-yjRTzNzu3Jj-dbXwXugBhm-a8J92MzgO9pV2SpxVQD56Nm=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1P77xfNb95gnhccgwfKXJSYg-ijMoVcj1oeO1a6xydqrQ9Xm6KdUTCM_-HoWq-7jD4G_gzoCveCx7EnleK8Azw-yjRTzNzu3Jj-dbXwXugBhm-a8J92MzgO9pV2SpxVQD56Nm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvdbiGrJkH_gbjXDdT0yD9bh1qUii8s7_LCQCrFs0slPfr9ZhMLlryt2Q265mxnVNeAt_u-0Lq0Lj3-2oF65zFEgk7-OIcR9B-X4z9gpDXZHySLt5wZrHesfYtNuaSeMSWPfPAOQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.709368,
+      "lng": 74.9002066,
+      "label": "MaxxLyfe Hospital & Trauma Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mch-mternity-and-child-hospital-gandhinagar-jammu-jammu",
+    "name": "MCH ( Mternity and Child Hospital) Gandhinagar Jammu",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jammu, MCH ( Mternity and Child Hospital) Gandhinagar Jammu delivers integrated care across Gynecologist Surgery In Jammu and Women and Child Care. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jammu.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PV36+V4X, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180004",
+    "locality": "Gandhi Nagar",
+    "landmark": "Jammu",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jammu",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=32.7047349%2C74.8603695&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=32.7047349%2C74.8603695&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=32.7047349%2C74.8603695&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=32.7047349%2C74.8603695&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7047349,
+      "lng": 74.8603695,
+      "label": "MCH ( Mternity and Child Hospital) Gandhinagar Jammu",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medanta-mediconsult-centre-jammu",
+    "name": "MEDANTA Mediconsult Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MEDANTA Mediconsult Centre has built a strong reputation in Jammu for multidisciplinary treatment pathways covering Liver Transplant Surgery In Jammu. Its infrastructure includes Google rating 3.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "094191 91439",
+    "alternatePhone": "",
+    "website": "https://www.medanta.org/",
+    "address": "A/D, 30-A, Green Belt Rd, opp. Hotel Asia &, behind HP Petrol Pump, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180004",
+    "locality": "Gandhi Nagar",
+    "landmark": "Green Belt Rd",
+    "emergencyContact": "094191 91439",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGadOS5mv7Q8ZmvzYPeB08EIV1pRHqLljoPfAt1f8Vc5yrXphQwMzdLya-Js6iiwcNiEvmizd4hZ7pn6PTDZ90FFdH9qbUabzJEDE1jqTMaxQcPZkDS9Z5IwRNAUf9SEQiYbyG4L4Nzpsbz=w1200-h900-p-k-no",
+    "logo": "https://www.medanta.org/public/assets/images/medanta_logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGadOS5mv7Q8ZmvzYPeB08EIV1pRHqLljoPfAt1f8Vc5yrXphQwMzdLya-Js6iiwcNiEvmizd4hZ7pn6PTDZ90FFdH9qbUabzJEDE1jqTMaxQcPZkDS9Z5IwRNAUf9SEQiYbyG4L4Nzpsbz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPIRqSRC6AqNE3SjXCv4NFdauDX3cyuUcQtfjj6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7122322,
+      "lng": 74.8606499,
+      "label": "MEDANTA Mediconsult Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mmm-medical-centre-jammu",
+    "name": "MMM Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jammu often choose MMM Medical Centre for its strength in Oncologist Surgery In Jammu. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jammu can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094190 65646",
+    "alternatePhone": "",
+    "website": "http://mmmmedicalcentre.com/",
+    "address": "No 3, Sector 1A, East Extn, Trikuta Nagar, Jammu, Jammu and Kashmir 180015",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180015",
+    "locality": "Trikuta Nagar",
+    "landmark": "East Extn",
+    "emergencyContact": "094190 65646",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmKPtB0De2rJZhA75gERcIq0LCGwQfu7sgjjBrbRjA7E54vlWcUt9styfCh7LZIDyxrevzZdlW5VdWf5kYMOpUdtOi-zWt0vP6k4cUxHjOMEZ98XVLQMmSHLjQ5Dp-6V74e5aj=w1200-h900-p-k-no",
+    "logo": "https://mmmmedicalcentre.com/wp-content/uploads/2024/03/mainlogo1.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmKPtB0De2rJZhA75gERcIq0LCGwQfu7sgjjBrbRjA7E54vlWcUt9styfCh7LZIDyxrevzZdlW5VdWf5kYMOpUdtOi-zWt0vP6k4cUxHjOMEZ98XVLQMmSHLjQ5Dp-6V74e5aj=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6905757,
+      "lng": 74.8822607,
+      "label": "MMM Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "narayana-hospital-jammu",
+    "name": "Narayana Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jammu often choose Narayana Hospital for its strength in Orthopedic Surgery In Jammu. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "090708 88111",
+    "alternatePhone": "",
+    "website": "https://www.narayanahealth.org/",
+    "address": "Block No-4cc, Jammu&Kashmir, near Triveni Nursing Home, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180004",
+    "locality": "Gandhi Nagar",
+    "landmark": "near Triveni Nursing Home, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "emergencyContact": "090708 88111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiXP-iEYu_81wryrWBcr7Fp2WMdtviffU3dXY7qEV-px8XqmCR83Mxr_AwL6-IFl_g28lZP3DgIpCygZYbKEBE5zQTLOXdodP0Xzeg61Qd9Y7Iz1PHY5sgJ_m95GUg9Uaf-Rw_ujWtbl_E=w1200-h900-p-k-no",
+    "logo": "https://www.narayanahealth.org/images/nh-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiXP-iEYu_81wryrWBcr7Fp2WMdtviffU3dXY7qEV-px8XqmCR83Mxr_AwL6-IFl_g28lZP3DgIpCygZYbKEBE5zQTLOXdodP0Xzeg61Qd9Y7Iz1PHY5sgJ_m95GUg9Uaf-Rw_ujWtbl_E=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7090721,
+      "lng": 74.8698905,
+      "label": "Narayana Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "national-hospital-karan-bagh-airport-road-jammu-jammu",
+    "name": "NATIONAL HOSPITAL ,Karan Bagh ,Airport Road Jammu",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jammu, NATIONAL HOSPITAL ,Karan Bagh ,Airport Road Jammu delivers integrated care across Orthopedic Surgery In Jammu. Hospital capacity markers such as Google rating 3.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jammu.",
+    "email": "",
+    "phone": "094192 49455",
+    "alternatePhone": "",
+    "website": "http://nationalhospitaljk.com/",
+    "address": "MR8R+677, AIRPORT ROAD, Karan Bagh, Jammu, Jammu and Kashmir 181101",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "181101",
+    "locality": "Karan Bagh",
+    "landmark": "Karan Bagh",
+    "emergencyContact": "094192 49455",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIZcEvzKBUhqum2oapPWXfO5J8ziyZ1J5hEv_bcL5G1rPk16JV0u-ZuaIJTb58q4_W5r7Xwo9GSZNwED95ItNJwuCceIq2IhrBacVhkgeQMdoKbX2fxe5Zzktw7WNsqD8-aFc=w1200-h900-p-k-no",
+    "logo": "http://nationalhospitaljk.com/images/logo_2.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIZcEvzKBUhqum2oapPWXfO5J8ziyZ1J5hEv_bcL5G1rPk16JV0u-ZuaIJTb58q4_W5r7Xwo9GSZNwED95ItNJwuCceIq2IhrBacVhkgeQMdoKbX2fxe5Zzktw7WNsqD8-aFc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6_Rwrf7F9Hi4JYXXXgh-elmDzsbGOJV7_bqAEBS8jtZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6_Rwrf7F9Hi4JYXXXgh-elmDzsbGOJV7_bqAEBS8jtZ-bduk6g81HrTqOgXLRqvH41ob8rqzJoS9hvMevbp8DOO5OuPjKztKgjN2KcAUgxnEPW7S0oHSVzhWPVfPcLCExcBUTmQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6667219,
+      "lng": 74.8380542,
+      "label": "NATIONAL HOSPITAL ,Karan Bagh ,Airport Road Jammu",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nephroplus-dialysis-and-kidney-care-centre-jammu",
+    "name": "NephroPlus Dialysis & Kidney Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jammu, NephroPlus Dialysis & Kidney Care Centre delivers integrated care across Kidney Transplant Surgery In Jammu and Kidney Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jammu.",
+    "email": "",
+    "phone": "078897 85911",
+    "alternatePhone": "",
+    "website": "https://www.nephroplus.com/",
+    "address": "Medicare Nursing Home 39 B/C, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180004",
+    "locality": "Gandhi Nagar",
+    "landmark": "Jammu",
+    "emergencyContact": "078897 85911",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jammu",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhS46nxLbbmRza22BXmOZMY75J4g9vWS9vIVuyrdINiqGP9jed0xi7DIEnTbCnIADTo_FxBc_FqcZur3suXUqjivBuERtDT2-c4pVPGR3BwAaMzGUyoGdN33FcPTS7NonPX2F1Sd0IJXKO=w1200-h900-p-k-no",
+    "logo": "https://nephroplus.com/assets/images/logo_nephro.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhS46nxLbbmRza22BXmOZMY75J4g9vWS9vIVuyrdINiqGP9jed0xi7DIEnTbCnIADTo_FxBc_FqcZur3suXUqjivBuERtDT2-c4pVPGR3BwAaMzGUyoGdN33FcPTS7NonPX2F1Sd0IJXKO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.706488,
+      "lng": 74.86216,
+      "label": "NephroPlus Dialysis & Kidney Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "oscar-multi-speciality-jammu",
+    "name": "Oscar Multi Speciality",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Oscar Multi Speciality has built a strong reputation in Jammu for multidisciplinary treatment pathways covering General Surgery In Jammu and Speciality Care. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "0191 258 5894",
+    "alternatePhone": "",
+    "website": "",
+    "address": "OSCAR MULTISPECIALITY CLINIC, opp. GEM OPTICIAN, near GOVT MEDICAL COL, Maheshpura, Jammu, Jammu and Kashmir 180001",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180001",
+    "locality": "Maheshpura",
+    "landmark": "near GOVT MEDICAL COL, Maheshpura, Jammu, Jammu and Kashmir 180001",
+    "emergencyContact": "0191 258 5894",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Jammu",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkGneCK4O8c3qfUJKQz2SYrWSRdbOlkGAWa3hVHBVHLHeMtvgWX5d_3Mmcs-_eimfA0oxERdjhDtqsf7WO2-QAG33Ge6ul_sU509tav6ZEphDrTbfftKXGBSL6gjoxY-e1ME_PgNwIYgNS=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkGneCK4O8c3qfUJKQz2SYrWSRdbOlkGAWa3hVHBVHLHeMtvgWX5d_3Mmcs-_eimfA0oxERdjhDtqsf7WO2-QAG33Ge6ul_sU509tav6ZEphDrTbfftKXGBSL6gjoxY-e1ME_PgNwIYgNS=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7341753,
+      "lng": 74.8570316,
+      "label": "Oscar Multi Speciality",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "prominent-laboratory-sarwal-hospital-jammu-jammu",
+    "name": "Prominent Laboratory Sarwal hospital jammu",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Prominent Laboratory Sarwal hospital jammu is a prominent hospital in Jammu, known for structured tertiary care across Orthopedic Surgery In Jammu. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jammu.",
+    "email": "",
+    "phone": "094191 67842",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Government Dental College and Hospital, NH 1A, Sarwal, Lower Laxmi Nagar, Jammu, Jammu and Kashmir 180005",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180005",
+    "locality": "Lower Laxmi Nagar",
+    "landmark": "Sarwal",
+    "emergencyContact": "094191 67842",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFuNlcETke4dk641Ebq9K4-PoQGgP1kOfp7BVY3-4Giz4tbxT7bbAJMgA2tcD6rrjngjBfcm0hSbCCc0S85Ydgn5R0gDPuSASW530fNOfhjYJe8xShgs7sgjPLr6R8y5IJQj20MqTH_HdE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFuNlcETke4dk641Ebq9K4-PoQGgP1kOfp7BVY3-4Giz4tbxT7bbAJMgA2tcD6rrjngjBfcm0hSbCCc0S85Ydgn5R0gDPuSASW530fNOfhjYJe8xShgs7sgjPLr6R8y5IJQj20MqTH_HdE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7470474,
+      "lng": 74.8533631,
+      "label": "Prominent Laboratory Sarwal hospital jammu",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pulse-hospital-and-research-center-jammu",
+    "name": "Pulse Hospital and Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jammu, Pulse Hospital and Research Center brings together specialists for Spine Surgery In Jammu. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "095419 41695",
+    "alternatePhone": "",
+    "website": "http://pulsehospitaljammu.com/",
+    "address": "NH 1, By Pass Road, opp. Channi Himmat, Sunjwan, Jammu, Jammu and Kashmir 180015",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180015",
+    "locality": "Sunjwan",
+    "landmark": "opp. Channi Himmat",
+    "emergencyContact": "095419 41695",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIaaYFCVl0pwyYn7_E0fi7a-BNHibJ5onQ9c-yN_8spg8GXOwmRWb-trQQ347c_ahXS6acMK7uhLFwhmBI4QmkVSytjuGhGyQCnR2KKKjCNfca-8msEOtu8JI14f75FvkBsRhyitf_fuQO=w1200-h900-p-k-no",
+    "logo": "http://pulsehospitaljammu.com/webassets/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIaaYFCVl0pwyYn7_E0fi7a-BNHibJ5onQ9c-yN_8spg8GXOwmRWb-trQQ347c_ahXS6acMK7uhLFwhmBI4QmkVSytjuGhGyQCnR2KKKjCNfca-8msEOtu8JI14f75FvkBsRhyitf_fuQO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6915064,
+      "lng": 74.9030048,
+      "label": "Pulse Hospital and Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pushpanjali-life-hospital-jammu",
+    "name": "Pushpanjali Life Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jammu often choose Pushpanjali Life Hospital for its strength in IVF In Jammu. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "094191 82829",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lale-Da-Bagh, Jammu, Jammu and Kashmir 180002",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180002",
+    "locality": "Lale-Da-Bagh",
+    "landmark": "Jammu and Kashmir 180002",
+    "emergencyContact": "094191 82829",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiUpiKPrvlu9XwWpRC06ZNoR3-m8cGACz4qDZuLQPcA99OiTnZRKJjA3S5hY5ZCDrxOlA20LkWin5OXQLMaCiepWnOj-IdWRNSAkKSpGusSrEjeIE3FDaWQ7AV2yIbOInIbdo=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiUpiKPrvlu9XwWpRC06ZNoR3-m8cGACz4qDZuLQPcA99OiTnZRKJjA3S5hY5ZCDrxOlA20LkWin5OXQLMaCiepWnOj-IdWRNSAkKSpGusSrEjeIE3FDaWQ7AV2yIbOInIbdo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7564728,
+      "lng": 74.7878422,
+      "label": "Pushpanjali Life Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "r-p-stone-clinic-jammu",
+    "name": "R P Stone Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jammu often choose R P Stone Clinic for its strength in Kidney Transplant Surgery In Jammu. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "086070 43191",
+    "alternatePhone": "",
+    "website": "http://rirsinindia.com/",
+    "address": "CNC Hospital, 78/8 Tawi Railway Station, near Jammu, 180005",
+    "city": "Jammu",
+    "state": "West Bengal",
+    "pincode": "180005",
+    "locality": "",
+    "landmark": "near Jammu, 180005",
+    "emergencyContact": "086070 43191",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=32.8169118%2C75.0429657&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://rirsinindia.com/wp-content/uploads/2021/12/cropped-r-p-stone-clinic-logo-png.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=32.8169118%2C75.0429657&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=32.8169118%2C75.0429657&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=32.8169118%2C75.0429657&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.8169118,
+      "lng": 75.0429657,
+      "label": "R P Stone Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rahat-hospital-jammu",
+    "name": "RAHAT HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jammu, RAHAT HOSPITAL delivers integrated care across Oncologist Surgery In Jammu. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jammu.",
+    "email": "",
+    "phone": "097970 19582",
+    "alternatePhone": "",
+    "website": "",
+    "address": "opp. Chirag Public School, Malik Market, Bathindi, Jammu, Jammu and Kashmir 180015",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180015",
+    "locality": "Bathindi",
+    "landmark": "Bathindi",
+    "emergencyContact": "097970 19582",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLnpUXHj-vcNiA7F4jGSTEJLoQg2DOIUlo_V5dVnA3HthxafO70-P0c_nx7oGdJWva-A5Hn0K3sSUb2Dlar0lwBb5z-ThPrTJNr8DgtOAVzJz427ryux_AUHPos0INyu0ijtpT=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLnpUXHj-vcNiA7F4jGSTEJLoQg2DOIUlo_V5dVnA3HthxafO70-P0c_nx7oGdJWva-A5Hn0K3sSUb2Dlar0lwBb5z-ThPrTJNr8DgtOAVzJz427ryux_AUHPos0INyu0ijtpT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7093056,
+      "lng": 74.8997196,
+      "label": "RAHAT HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "s-h-s-memorial-hospital-and-maternity-centre-jammu",
+    "name": "S.H.S Memorial Hospital & Maternity Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Jammu, S.H.S Memorial Hospital & Maternity Centre delivers integrated care across Urologist Surgery In Jammu. Its infrastructure includes Google rating 3.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jammu.",
+    "email": "",
+    "phone": "0191 258 0754",
+    "alternatePhone": "",
+    "website": "",
+    "address": "33, Rehari Chungi, Gurudwara Road Jammu Jammu and Kashmir, 180005",
+    "city": "Jammu",
+    "state": "West Bengal",
+    "pincode": "180005",
+    "locality": "",
+    "landmark": "Gurudwara Road Jammu Jammu and Kashmir",
+    "emergencyContact": "0191 258 0754",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=32.7431623%2C74.8586568&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=32.7431623%2C74.8586568&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=32.7431623%2C74.8586568&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=32.7431623%2C74.8586568&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7431623,
+      "lng": 74.8586568,
+      "label": "S.H.S Memorial Hospital & Maternity Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "safe-janics-medical-and-research-centre-jammu",
+    "name": "SAFE JANICS MEDICAL & RESEARCH CENTRE",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jammu, SAFE JANICS MEDICAL & RESEARCH CENTRE offers coordinated hospital care with major focus on General Surgery In Jammu. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Jammu.",
+    "email": "",
+    "phone": "091495 61967",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bala Bye Pass Road, near Karyani Talab, Narwal, Jammu, Jammu and Kashmir 181152",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "181152",
+    "locality": "Narwal",
+    "landmark": "near Karyani Talab, Narwal, Jammu, Jammu and Kashmir 181152",
+    "emergencyContact": "091495 61967",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGegcZziRzSiJz-OSeO6z1UYSqS2uE_TG2j-1ynuhC-lEeUkfhL4Ob1969e8485ZAcy37ug9hrOswvBKTYP8BRL3gF3uAbQWDgk7HFFALz548chsOCHyEw7gCxIlc2HGZD3oSRo=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGegcZziRzSiJz-OSeO6z1UYSqS2uE_TG2j-1ynuhC-lEeUkfhL4Ob1969e8485ZAcy37ug9hrOswvBKTYP8BRL3gF3uAbQWDgk7HFFALz548chsOCHyEw7gCxIlc2HGZD3oSRo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7173062,
+      "lng": 74.8980775,
+      "label": "SAFE JANICS MEDICAL & RESEARCH CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sddm-hospital-jammu",
+    "name": "SDDM Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jammu often choose SDDM Hospital for its strength in Urologist Surgery In Jammu. With public-facing highlights like Google rating 3.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "0191 246 4639",
+    "alternatePhone": "",
+    "website": "https://sddm.hospital/",
+    "address": "Plot NS, Srinagar, Kanyakumari Highway, Sector - 2, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180015",
+    "locality": "Channi Himat",
+    "landmark": "Kanyakumari Highway",
+    "emergencyContact": "0191 246 4639",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYcWq3FpI0BdQzjIikkwAUJXBfA_qpK3OhRVbCNvbIG7pg6lFooufutOnHJu-_gPd0h8M9fmrvbtNLG56P9ajOMyDS6asWBmxy85jhjN3C3txLUoEjjcBVk6_FNefAhVJLHrhoGw=w1200-h900-p-k-no",
+    "logo": "https://sddm.hospital/wp-content/uploads/2025/02/WhatsApp-Image-2025-01-15-at-20.03.38-1-e1743998455360.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYcWq3FpI0BdQzjIikkwAUJXBfA_qpK3OhRVbCNvbIG7pg6lFooufutOnHJu-_gPd0h8M9fmrvbtNLG56P9ajOMyDS6asWBmxy85jhjN3C3txLUoEjjcBVk6_FNefAhVJLHrhoGw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6912145,
+      "lng": 74.8964197,
+      "label": "SDDM Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sddm-hospital-trikuta-nagar-jammu",
+    "name": "SDDM Hospital Trikuta Nagar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jammu, SDDM Hospital Trikuta Nagar brings together specialists for Gynecologist Surgery In Jammu. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jammu can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099065 21212",
+    "alternatePhone": "",
+    "website": "http://www.sddmhospital.in/",
+    "address": "Satyam Road, Extension, Trikuta Nagar, Jammu, Jammu and Kashmir 180020",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180020",
+    "locality": "Trikuta Nagar",
+    "landmark": "Trikuta Nagar",
+    "emergencyContact": "099065 21212",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjXU3vNF2LSdKXA3fPPBYNnm8V3ji7a-T1QMyof4wrM1rNrk6g6s2AQ_HMMhTq_Wo9PDwP4UYKFpoZCdC5Nzpfm95_wCsHWgY4qYT_cKJENRIkwQIyytxwEL6Qkz4zIH6wDJY6ceJcg6SI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjXU3vNF2LSdKXA3fPPBYNnm8V3ji7a-T1QMyof4wrM1rNrk6g6s2AQ_HMMhTq_Wo9PDwP4UYKFpoZCdC5Nzpfm95_wCsHWgY4qYT_cKJENRIkwQIyytxwEL6Qkz4zIH6wDJY6ceJcg6SI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1WZWmtBatT0tsdTGm0yC6ew8-oH0MGRD47WsGZtRbk_tEzQJ2VbUoc0KUsYGITPXWOGLtATN2pSA6royEaLYohIds7y20Kz7DoJXa1SJkIEfD2oL2cZsI6UGakRQ2cJ2Ix6DmOm8DEBew=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6852085,
+      "lng": 74.8824034,
+      "label": "SDDM Hospital Trikuta Nagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shankus-cancer-hospital-jammu-opp-greater-kailash",
+    "name": "Shankus Cancer Hospital Jammu",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in opp. Greater Kailash, Shankus Cancer Hospital Jammu offers coordinated hospital care with major focus on Oncologist Surgery In Jammu. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in opp. Greater Kailash.",
+    "email": "",
+    "phone": "078180 00111",
+    "alternatePhone": "",
+    "website": "http://www.shankushospitals.com/about-centers",
+    "address": "Shankus Cancer Hospital, Marble market road, Jammu-Kunjwani Bypass Rd, opp. Greater Kailash, Jammu and Kashmir 180015",
+    "city": "opp. Greater Kailash",
+    "state": "Jammu and Kashmir",
+    "pincode": "180015",
+    "locality": "Jammu-Kunjwani Bypass Rd",
+    "landmark": "Jammu-Kunjwani Bypass Rd",
+    "emergencyContact": "078180 00111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTW9HlF6DXqX2PeUy2QUtyI0gFKu_tebG5dAb6SJh8pN6A4rr8OeGHV5Ptaeu-ycrMFty1fTywyIv5blcyN6NtteNCuSJtQlYF_GqpnEyPDhQrV9UADg93DEqZSXR42n3vONxDSA=w1200-h900-p-k-no",
+    "logo": "https://shankushospitals.com/wp-content/uploads/2026/04/logo-450x156.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTW9HlF6DXqX2PeUy2QUtyI0gFKu_tebG5dAb6SJh8pN6A4rr8OeGHV5Ptaeu-ycrMFty1fTywyIv5blcyN6NtteNCuSJtQlYF_GqpnEyPDhQrV9UADg93DEqZSXR42n3vONxDSA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6752475,
+      "lng": 74.889524,
+      "label": "Shankus Cancer Hospital Jammu",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-aum-hospital-jammu",
+    "name": "Shree Aum Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jammu, Shree Aum Hospital delivers integrated care across Cardiac Surgery In Jammu. Operational strengths including Google rating 4.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jammu.",
+    "email": "",
+    "phone": "01923 294 600",
+    "alternatePhone": "",
+    "website": "http://www.shreeaumhospital.com/",
+    "address": "Shree Aum Hospital, National Highway, Treth Morh, Bari brahmana, Jammu, Jammu and Kashmir 181133",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "181133",
+    "locality": "Bari brahmana",
+    "landmark": "Treth Morh",
+    "emergencyContact": "01923 294 600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZf0hvj5O_63X4TULgKiW6toSY4brb3PpWP0TvLI78ZWjF-vXaHBad41G84rVqCvkPq6gDy3-L_ZtADxRv38l2IuQJjEKg3qnd8A6ccxQmYmL1r1rDTPPuvxHPMf8u2D468kYX6Q=w1200-h900-p-k-no",
+    "logo": "https://www.shreeaumhospital.com/images/logo-4.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZf0hvj5O_63X4TULgKiW6toSY4brb3PpWP0TvLI78ZWjF-vXaHBad41G84rVqCvkPq6gDy3-L_ZtADxRv38l2IuQJjEKg3qnd8A6ccxQmYmL1r1rDTPPuvxHPMf8u2D468kYX6Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIrPItISAZfJDvoJwUpz7DBS5KJF3dlmBi-ZZGJ4J_p4h0ZlOMg46plJlT38PitUlhpHRazxogTxbEPLwLbT8CMstsPze-7R_uAk-FpVki7fD4FycCfx69AvEJKbuy4DSto0eUsMWUWqDo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6471184,
+      "lng": 74.9002402,
+      "label": "Shree Aum Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sml-dialysis-center-jammu",
+    "name": "sml dialysis center",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "sml dialysis center has built a strong reputation in Jammu for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Jammu. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "swami vivekananda hospital, Amphalla Road, Jammu, Jammu and Kashmir 180001",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180001",
+    "locality": "Amphalla Road",
+    "landmark": "Jammu",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQADX4OUQ8U8MDUSoreI-SHGKUY0SEv6o2EXzfoBrYss9LCCGQ9aUM0LyJxwFk3elprJJeJAApNWnpWIJavA6gB75v5wTV0LY6XWe3OM1iL2I7DHr_vUCdJguDiTje_v2liSBG=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQADX4OUQ8U8MDUSoreI-SHGKUY0SEv6o2EXzfoBrYss9LCCGQ9aUM0LyJxwFk3elprJJeJAApNWnpWIJavA6gB75v5wTV0LY6XWe3OM1iL2I7DHr_vUCdJguDiTje_v2liSBG=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7455582,
+      "lng": 74.8653541,
+      "label": "sml dialysis center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "state-cancer-institute-jammu-jammu",
+    "name": "State Cancer Institute Jammu",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jammu often choose State Cancer Institute Jammu for its strength in Oncologist Surgery In Jammu. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Resham Ghar Colony, Jammu, Jammu and Kashmir 180001",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180001",
+    "locality": "Resham Ghar Colony",
+    "landmark": "Jammu and Kashmir 180001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENoo32fjHdOTAM_DCoDSWxZQeEc85Ptz2maKUbpq_SbXt5lO4jvANuIjhg8Rf5nWvkbRG584-mZ8vncplDVGzaB0OnLnXeTC3dtyh__ePDZ7AZrvEU2f_rXxgnLjj-iEnKEXbK=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENoo32fjHdOTAM_DCoDSWxZQeEc85Ptz2maKUbpq_SbXt5lO4jvANuIjhg8Rf5nWvkbRG584-mZ8vncplDVGzaB0OnLnXeTC3dtyh__ePDZ7AZrvEU2f_rXxgnLjj-iEnKEXbK=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7311797,
+      "lng": 74.8570499,
+      "label": "State Cancer Institute Jammu",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sudan-heart-care-centre-jammu",
+    "name": "Sudan Heart Care Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jammu, Sudan Heart Care Centre brings together specialists for Cardiac Surgery In Jammu and Cardiac Care. Its infrastructure includes Google rating 2.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Jammu.",
+    "email": "",
+    "phone": "0191 226 2296",
+    "alternatePhone": "",
+    "website": "http://sudanheart.in/?utm_source",
+    "address": "MR4M+FC3, Satwari-R S Pura Road, Rohi, Morh, Lower Gadigarh, Jammu, Jammu and Kashmir 181101",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "181101",
+    "locality": "Lower Gadigarh",
+    "landmark": "Rohi",
+    "emergencyContact": "0191 226 2296",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Jammu",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkavSrofsQO_2XGaDpX1YO55EMJGhMns1D9DEsKKJZYPMMqNanoODqO9brlZ4tImAwgsPy0K9i1ydrXqEzLYnPhlCreeF376Pq38EFZfYeBBYxna7N23EwoX0qM814deAQWO_J=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkavSrofsQO_2XGaDpX1YO55EMJGhMns1D9DEsKKJZYPMMqNanoODqO9brlZ4tImAwgsPy0K9i1ydrXqEzLYnPhlCreeF376Pq38EFZfYeBBYxna7N23EwoX0qM814deAQWO_J=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.655675,
+      "lng": 74.833736,
+      "label": "Sudan Heart Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "super-speciality-hospital-government-medical-college-jammu-jammu",
+    "name": "Super Speciality Hospital Government Medical College Jammu",
+    "type": "Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jammu, Super Speciality Hospital Government Medical College Jammu offers coordinated hospital care with major focus on Urologist Surgery In Jammu and Speciality Care. Its infrastructure includes Google rating 3.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jammu.",
+    "email": "",
+    "phone": "0191 258 4234",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jammu Flyover, Prem Nagar, Resham Ghar Colony, Jammu, Jammu and Kashmir 180016",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180016",
+    "locality": "Resham Ghar Colony",
+    "landmark": "Resham Ghar Colony",
+    "emergencyContact": "0191 258 4234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Jammu",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEK1I3iEQB1SS3nmAbdkdFMOeG2pYmrAIzT5dS_otIUzngmdU9uA4NC0SBINsxlG9uz34Y6ay1wS2pq4vGtVeoq_rTDRdyuHZ_MQeLdRCOzRPbrsDQmRhaFMkDiq2GnTrdp85AZrg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEK1I3iEQB1SS3nmAbdkdFMOeG2pYmrAIzT5dS_otIUzngmdU9uA4NC0SBINsxlG9uz34Y6ay1wS2pq4vGtVeoq_rTDRdyuHZ_MQeLdRCOzRPbrsDQmRhaFMkDiq2GnTrdp85AZrg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.730788,
+      "lng": 74.8572943,
+      "label": "Super Speciality Hospital Government Medical College Jammu",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "swami-vivekananda-hospital-gynae-and-obsts-jammu",
+    "name": "Swami Vivekananda Hospital Gynae And OBSTS",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jammu often choose Swami Vivekananda Hospital Gynae And OBSTS for its strength in Gynecologist Surgery In Jammu. Hospital capacity markers such as Google rating 3.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jammu can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0191 254 7418",
+    "alternatePhone": "",
+    "website": "http://www.svmmh.org/",
+    "address": "Ambphalla, Old Heritage City, Jammu, Jammu and Kashmir 180005",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180005",
+    "locality": "Old Heritage City",
+    "landmark": "Jammu",
+    "emergencyContact": "0191 254 7418",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkMpEURsfuzcspYVRrc5G1WmCPmWxJyAAKu-LJLHT5OnWn8Gv1R7c2xdCQX3_OIm4xCc1XBWpXBmt-s7Chl-7mxcw3bAYgoXeG3XdLVMAJteABwwLwdWM60wB7MLYKrPursQxCIGCNxXel=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkMpEURsfuzcspYVRrc5G1WmCPmWxJyAAKu-LJLHT5OnWn8Gv1R7c2xdCQX3_OIm4xCc1XBWpXBmt-s7Chl-7mxcw3bAYgoXeG3XdLVMAJteABwwLwdWM60wB7MLYKrPursQxCIGCNxXel=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.7454778,
+      "lng": 74.8653584,
+      "label": "Swami Vivekananda Hospital Gynae And OBSTS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ujala-cygnus-jk-medicity-hospital-jammu",
+    "name": "UJALA CYGNUS JK MEDICITY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "UJALA CYGNUS JK MEDICITY HOSPITAL has built a strong reputation in Jammu for multidisciplinary treatment pathways covering Urologist Surgery In Jammu. With public-facing highlights like Google rating 4.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Jammu can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099060 18883",
+    "alternatePhone": "",
+    "website": "https://ujalacygnus.com/jammu/",
+    "address": "Nh-1, Narwal Bye Pass Road, Jammu, Jammu and Kashmir 180015",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180015",
+    "locality": "Narwal Bye Pass Road",
+    "landmark": "Jammu",
+    "emergencyContact": "099060 18883",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Jammu"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE30rs65ZrUxyoBZCUDGVYHKLFGz51c3NWCLgYv-j1k-7i-58P83mxBQVisTcakpDZaKhom7sw_FaWz7EcH0k1UEM3Mc_QdC50HRQxki4o-6cOD3rMmKFfNaIljjrvfGwNWqw_E=w1200-h900-p-k-no",
+    "logo": "https://ujalacygnus.com/_next/image?url=%2Fassets%2Ficons%2Flogo1.jpeg&w=640&q=100",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE30rs65ZrUxyoBZCUDGVYHKLFGz51c3NWCLgYv-j1k-7i-58P83mxBQVisTcakpDZaKhom7sw_FaWz7EcH0k1UEM3Mc_QdC50HRQxki4o-6cOD3rMmKFfNaIljjrvfGwNWqw_E=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.6991295,
+      "lng": 74.9001925,
+      "label": "UJALA CYGNUS JK MEDICITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

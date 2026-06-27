@@ -1,0 +1,2643 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "anjuman-medical-centre-karol-bagh",
+    "name": "Anjuman Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karol Bagh often choose Anjuman Medical Centre for its strength in Gynecologist Surgery In Karol Bagh. The facility stands out for Google rating 3.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karol Bagh.",
+    "email": "",
+    "phone": "092680 01030",
+    "alternatePhone": "",
+    "website": "http://www.amc.org/",
+    "address": "Idgah Circle, Faiz Rd, Sidipura, Karol Bagh, New Delhi, Delhi 110005",
+    "city": "Karol Bagh",
+    "state": "Delhi",
+    "pincode": "110005",
+    "locality": "Sidipura",
+    "landmark": "Sidipura",
+    "emergencyContact": "092680 01030",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karol Bagh"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVR2TbmPC_8m9RcAVOVZnZbqzddt_h9igdQ3PjDdeOjnDrhShonylEyXO5Qw0_OT98O-7Uj4_f6rJ5mOCCVqt8ISqGgxbKmt_cTnhyf33dGhOlQvBhRaxvnqHy-HxZMLbn4J85ew=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVR2TbmPC_8m9RcAVOVZnZbqzddt_h9igdQ3PjDdeOjnDrhShonylEyXO5Qw0_OT98O-7Uj4_f6rJ5mOCCVqt8ISqGgxbKmt_cTnhyf33dGhOlQvBhRaxvnqHy-HxZMLbn4J85ew=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6551257,
+      "lng": 77.2037612,
+      "label": "Anjuman Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apollo-spectra-hospitals-karol-bagh-delhi-karol-bagh",
+    "name": "Apollo Spectra Hospitals - Karol Bagh, Delhi",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karol Bagh, Apollo Spectra Hospitals - Karol Bagh, Delhi brings together specialists for Spine Neurosurgeon In Karol Bagh. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karol Bagh can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084484 40991",
+    "alternatePhone": "",
+    "website": "https://www.apollospectra.com/delhi/karol-bagh/our-hospitals/best-hospital-in-karol-bagh?utm_source",
+    "address": "Metro Pillar No. 77, Block No. 34, Plot No. 3, Pusa Rd, opposite Bal Bharati Public School, Block 18 A, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+    "city": "Karol Bagh",
+    "state": "West Bengal",
+    "pincode": "110005",
+    "locality": "WEA",
+    "landmark": "opposite Bal Bharati Public School, Block 18 A, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+    "emergencyContact": "084484 40991",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Karol Bagh"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUmL9hIIFjS7ZB-B1O-PPQv-nDCKiAuvV0t9Mt5FBCYOrSAnibum_aUpFgTDl6xuttBXYyjRxgXkk7sQgVgYHyYqiqFKEvrXX4x1VIkoM6fwVFtqfgPh71zHXDXjDgRLYcrwd-1w=w1200-h900-p-k-no",
+    "logo": "https://www.apollospectra.com/images/logos/mobile-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUmL9hIIFjS7ZB-B1O-PPQv-nDCKiAuvV0t9Mt5FBCYOrSAnibum_aUpFgTDl6xuttBXYyjRxgXkk7sQgVgYHyYqiqFKEvrXX4x1VIkoM6fwVFtqfgPh71zHXDXjDgRLYcrwd-1w=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO1OPedzq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO1OPedzqAD_A2xjACYxr7Vnaka5XNyez1a50vo=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMohwVaBYm8nyURFoCdUXuL4Nt=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMohwVaBYm8nyURFoCdUXuL4Ntjml3gzFgpZM2q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6452228,
+      "lng": 77.1955158,
+      "label": "Apollo Spectra Hospitals - Karol Bagh, Delhi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ayu-health-hospitals-karol-bagh",
+    "name": "Ayu Health Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Karol Bagh, Ayu Health Hospitals delivers integrated care across General Surgery In Karol Bagh. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karol Bagh.",
+    "email": "",
+    "phone": "063661 00800",
+    "alternatePhone": "",
+    "website": "https://ayu.health/ncr/hospital/ayu-health-multi-speciality-hospital-block-67-karol-bagh-234?utm_source",
+    "address": "67/1, New Rohtak Rd, Block 67, Karol Bagh, New Delhi, Delhi, 110005",
+    "city": "Karol Bagh",
+    "state": "West Bengal",
+    "pincode": "110005",
+    "locality": "Block 67",
+    "landmark": "Block 67",
+    "emergencyContact": "063661 00800",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Karol Bagh"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkE1fCXa9wJNbOV3bt5Fzk4i0fUjmwJluP7fFjaeynozdJ_wbA-8Bkc3CwBSs3FGcmnSAwTnVTLA3H6lZG67q0AuQJl5BJDD3emS6OLggnbscKMppTda1vAwUfcsKSfVi014pm=w1200-h900-p-k-no",
+    "logo": "https://ayu.health/vite.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkE1fCXa9wJNbOV3bt5Fzk4i0fUjmwJluP7fFjaeynozdJ_wbA-8Bkc3CwBSs3FGcmnSAwTnVTLA3H6lZG67q0AuQJl5BJDD3emS6OLggnbscKMppTda1vAwUfcsKSfVi014pm=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6579474,
+      "lng": 77.1944211,
+      "label": "Ayu Health Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "blk-children-s-heart-institute-karol-bagh",
+    "name": "BLK Children's Heart Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BLK Children's Heart Institute has built a strong reputation in Karol Bagh for multidisciplinary treatment pathways covering Heart Surgery In Karol Bagh, Cardiac Care, and Women and Child Care. Its infrastructure includes Google rating 3.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karol Bagh.",
+    "email": "",
+    "phone": "088000 97393",
+    "alternatePhone": "",
+    "website": "https://www.blkmaxhospital.com/our-specialities/paediatric-cardiology",
+    "address": "Pusa Rd, Radha Soami Satsang, Prasad Nagar, Karol Bagh, New Delhi, Delhi, 110005",
+    "city": "Karol Bagh",
+    "state": "West Bengal",
+    "pincode": "110005",
+    "locality": "Prasad Nagar",
+    "landmark": "Prasad Nagar",
+    "emergencyContact": "088000 97393",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Karol Bagh",
+      "Cardiac Care",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQQ6ws1OXfDxjsGkLZBS87mVQ-Jk25yyksM8CBXN78EkXT-gOBoTuHnCbBl51pbrq9fpzQ9v7yQwN-o-GCA0coS328V_c42nKhavbbdso7wWMpKAWRK5hS7gRnUAxY-SRGtVjl5A=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQQ6ws1OXfDxjsGkLZBS87mVQ-Jk25yyksM8CBXN78EkXT-gOBoTuHnCbBl51pbrq9fpzQ9v7yQwN-o-GCA0coS328V_c42nKhavbbdso7wWMpKAWRK5hS7gRnUAxY-SRGtVjl5A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6435907,
+      "lng": 77.1793945,
+      "label": "BLK Children's Heart Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "blk-max-super-speciality-hospital-delhi-karol-bagh",
+    "name": "BLK-Max Super Speciality Hospital Delhi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karol Bagh often choose BLK-Max Super Speciality Hospital Delhi for its strength in Spine Neurosurgeon In Karol Bagh and Speciality Care. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karol Bagh.",
+    "email": "",
+    "phone": "011 3040 3040",
+    "alternatePhone": "",
+    "website": "https://www.blkmaxhospital.com/?utm_source",
+    "address": "Pusa Rd, Radha Soami Satsang, Rajinder Nagar, New Delhi, Delhi, 110005",
+    "city": "Karol Bagh",
+    "state": "West Bengal",
+    "pincode": "110005",
+    "locality": "",
+    "landmark": "Rajinder Nagar",
+    "emergencyContact": "011 3040 3040",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Karol Bagh",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcms7M6hyAXoMmEM8_L4TE4jae2hHU3xvpeClU_kO6RpDx9v2s-0EuTW4eFqnx2eJLGEK6ZH2-jyPKSm1EPm0OICr8qIL_ilHxr0yCwfCjGjmwaw4ikBwkepd996vGlgGvG_c4JA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcms7M6hyAXoMmEM8_L4TE4jae2hHU3xvpeClU_kO6RpDx9v2s-0EuTW4eFqnx2eJLGEK6ZH2-jyPKSm1EPm0OICr8qIL_ilHxr0yCwfCjGjmwaw4ikBwkepd996vGlgGvG_c4JA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJGZ8bXYPdY4FMd7TA2mEYS_m-EQ2TMgAbUV35U56N2cbdr9H0oxBpQSitFFU2DoUNKo7ip2C-m1c3qbV5IwVZKEdY_sLPUerpcRMtmEq9envMq-jZvGCfG7deCIkLw8E8W9I=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRbk6JaW2z__vS2rWmd622yrEGzMq2s6v38AcugcTxbUrSx93h7QC8XcNMzfSvs6320ug-0j8eEUADlUcvovKrSUQPdEHNC-lvKVHzkdwecVUOr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRbk6JaW2z__vS2rWmd622yrEGzMq2s6v38AcugcTxbUrSx93h7QC8XcNMzfSvs6320ug-0j8eEUADlUcvovKrSUQPdEHNC-lvKVHzkdwecVUOrj-Yz0I1O63ZonnW-SC4RlI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4xcYFQgD_yRzNGOx7nP6IP6Ca1YYLdbe2iRG0Sl10B3K2rFSzx8vLBjqkEwG41pq6mpo8W9a8M7el5623ZEW3WfZESaT8t9BrBkcqeWcrvG14RT-zZLUP4o6nuusE4pggmiivvVlGiEEZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6435455,
+      "lng": 77.1795768,
+      "label": "BLK-Max Super Speciality Hospital Delhi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "delhi-heart-and-lung-institute-paharganj",
+    "name": "Delhi Heart & Lung Institute",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Paharganj, Delhi Heart & Lung Institute offers coordinated hospital care with major focus on Heart Surgery In Karol Bagh and Cardiac Care. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Paharganj.",
+    "email": "",
+    "phone": "011 4299 9999",
+    "alternatePhone": "",
+    "website": "http://www.dhli.in/",
+    "address": "Metro Station R.k. Ashram Marg, 2, Panchkuian Rd, near RK, Type 4, Block B, Aram Bagh, Paharganj, New Delhi, Delhi 110055",
+    "city": "Paharganj",
+    "state": "Delhi",
+    "pincode": "110055",
+    "locality": "Aram Bagh",
+    "landmark": "near RK, Type 4, Block B, Aram Bagh, Paharganj, New Delhi, Delhi 110055",
+    "emergencyContact": "011 4299 9999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Karol Bagh",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHNYsi69pFQX2uSpizcv2s_45QuZ9RN27BtpROtYo6o9EllH3fDea4klqQjUlloniiKsco_eIZAkR1LQ30c1oojWQ72tWg9Pf6cHLOIt2Vqkxl3gIHHndJms3Lf0y3ZwldnHRqs=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHNYsi69pFQX2uSpizcv2s_45QuZ9RN27BtpROtYo6o9EllH3fDea4klqQjUlloniiKsco_eIZAkR1LQ30c1oojWQ72tWg9Pf6cHLOIt2Vqkxl3gIHHndJms3Lf0y3ZwldnHRqs=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6416491,
+      "lng": 77.2053679,
+      "label": "Delhi Heart & Lung Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fortis-escorts-heart-institute-heart-hospital-okhla-new-friends-colony",
+    "name": "Fortis Escorts Heart Institute - Heart Hospital Okhla",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in New Friends Colony often choose Fortis Escorts Heart Institute - Heart Hospital Okhla for its strength in Heart Surgery In Karol Bagh and Cardiac Care. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in New Friends Colony.",
+    "email": "",
+    "phone": "085276 76692",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/location/fortis-escorts-heart-institute-new-delhi?",
+    "address": "Metro Station, Okhla Rd, opposite Sukhdev Vihar, New Friends Colony, New Delhi, Delhi 110025",
+    "city": "New Friends Colony",
+    "state": "Delhi",
+    "pincode": "110025",
+    "locality": "opposite Sukhdev Vihar",
+    "landmark": "opposite Sukhdev Vihar, New Friends Colony, New Delhi, Delhi 110025",
+    "emergencyContact": "085276 76692",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Karol Bagh",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGyhk25sbcMdd4TCIWyQpajzXG1wprgUjNNOco-R2WHOW_Xt-NvpuEMSbZKR7FuC7fkRxMHQjfkePP3Fz4jmEO3wyzWveeoEA7BNaNTzt1RCN717jVAt3Z5i-HunVcQxrfPDfsIgXzFvJx5=w1200-h900-p-k-no",
+    "logo": "https://www.fortishealthcare.com/themes/custom/fortis/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGyhk25sbcMdd4TCIWyQpajzXG1wprgUjNNOco-R2WHOW_Xt-NvpuEMSbZKR7FuC7fkRxMHQjfkePP3Fz4jmEO3wyzWveeoEA7BNaNTzt1RCN717jVAt3Z5i-HunVcQxrfPDfsIgXzFvJx5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMzYJ_Nbn06P9xFisCW0zHCDp8kNG0ps9PLR_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMzYJ_Nbn06P9xFisCW0zHCDp8kNG0ps9PLR_an=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP6EGjz9PEsp2nKzCHs3B2CfLI5gL73w4K_nku_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPaqc4cQqs42EgIn9lNvlk1NEByWksEjnykF488=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.5606267,
+      "lng": 77.2737176,
+      "label": "Fortis Escorts Heart Institute - Heart Hospital Okhla",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "geetanjali-medical-centre-karol-bagh",
+    "name": "Geetanjali Medical Centre",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karol Bagh, Geetanjali Medical Centre brings together specialists for Gynecologist Surgery In Karol Bagh. Operational strengths including Google rating 4.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karol Bagh.",
+    "email": "",
+    "phone": "081303 94289",
+    "alternatePhone": "",
+    "website": "https://sg1gmc.wixsite.com/website",
+    "address": "H No.: 6426, Arya Samaj Rd, Block 8, Dev Nagar, Karol Bagh, New Delhi, Delhi, 110005",
+    "city": "Karol Bagh",
+    "state": "West Bengal",
+    "pincode": "110005",
+    "locality": "Dev Nagar",
+    "landmark": "Block 8",
+    "emergencyContact": "081303 94289",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karol Bagh"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQJvEsaYbpmp-255VNxs-F9-MsP1iVdICCgG_fIcdq3WpnPu6AbC3uv3NcWLljlaqtfwWJuxF78rdn2E_-JOhqIAGBifE-UJClWNCbO4yy0rgEd0dSUtVc4HrfVjh705UTYWxIOXEvey7y=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQJvEsaYbpmp-255VNxs-F9-MsP1iVdICCgG_fIcdq3WpnPu6AbC3uv3NcWLljlaqtfwWJuxF78rdn2E_-JOhqIAGBifE-UJClWNCbO4yy0rgEd0dSUtVc4HrfVjh705UTYWxIOXEvey7y=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6534058,
+      "lng": 77.184271,
+      "label": "Geetanjali Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "govinda-medicentre-karol-bagh",
+    "name": "GOVINDA MEDICENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karol Bagh often choose GOVINDA MEDICENTRE for its strength in Laparoscopic Surgery In Karol Bagh. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karol Bagh.",
+    "email": "",
+    "phone": "095929 99184",
+    "alternatePhone": "",
+    "website": "https://drvijayantgovinda.com/circumcision-delhi-ncr-gurgaon/zsr-circumcision-delhi-india/",
+    "address": "House 4, Block 27B, New Rohtak Road, Karol Bagh Near Anand Parbat Red Light, Liberty Cinema side, Delhi, 110005",
+    "city": "Karol Bagh",
+    "state": "West Bengal",
+    "pincode": "110005",
+    "locality": "",
+    "landmark": "Near Anand Parbat Red Light, Liberty Cinema side, Delhi, 110005",
+    "emergencyContact": "095929 99184",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Karol Bagh"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtOJo6n8eZFK48FjtIYJ5E4J8T4K1J0oVFFGkGdUsdKWfpdI9NlBaK6c6fzxjUUxHfc7uT86o9SVg14A3c5Qp0rMn05lejfkl_9HaiFKcKUmtsqq-FztGwkJVneW2D6rQiDr9qkQ=w1200-h900-p-k-no",
+    "logo": "https://www.drvijayantgovinda.com/wp-content/uploads/2024/02/dr-vijayant-govinda-gupta-logo-e1712232946937-1024x1013.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtOJo6n8eZFK48FjtIYJ5E4J8T4K1J0oVFFGkGdUsdKWfpdI9NlBaK6c6fzxjUUxHfc7uT86o9SVg14A3c5Qp0rMn05lejfkl_9HaiFKcKUmtsqq-FztGwkJVneW2D6rQiDr9qkQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6609324,
+      "lng": 77.1851133,
+      "label": "GOVINDA MEDICENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "institute-of-brain-and-spine-hospital-ibs-hospital-sarojini-nagar",
+    "name": "Institute of Brain and Spine Hospital (IBS Hospital)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Sarojini Nagar often choose Institute of Brain and Spine Hospital (IBS Hospital) for its strength in Brain Surgery In Karol Bagh, Neurosciences, and Spine Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Sarojini Nagar.",
+    "email": "",
+    "phone": "099580 11121",
+    "alternatePhone": "",
+    "website": "http://www.ibshospitals.com/",
+    "address": "73, Ring Rd, Block L, Lajpat Nagar III, Sarojini Nagar, New Delhi, Delhi 110024",
+    "city": "Sarojini Nagar",
+    "state": "Delhi",
+    "pincode": "110024",
+    "locality": "Lajpat Nagar III",
+    "landmark": "Block L",
+    "emergencyContact": "099580 11121",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Karol Bagh",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_dYLasYlKBmK417eCqymH1FGXDxcm-0ZOeywECeyZicMM0ITOt0mYBSc6J7r90kkglwO6msrTwgiPXP41OJKhsp6gvY96Y_gFczlMV2EXbutUqThQM5empcCuA2eUH94a_SUJog=w1200-h900-p-k-no",
+    "logo": "https://www.ibshospitals.com/ibsfrontpage/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_dYLasYlKBmK417eCqymH1FGXDxcm-0ZOeywECeyZicMM0ITOt0mYBSc6J7r90kkglwO6msrTwgiPXP41OJKhsp6gvY96Y_gFczlMV2EXbutUqThQM5empcCuA2eUH94a_SUJog=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNywwOGbBHm7ckyxIvj3bnneCRe21SGYGTsQCA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPDIGn0DnLGjPolvtgP3mfa2B3wT0spbbbKEi8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOWL21ae3z_ka9ZLYuLaWbMp-ysYVjE1m-8k5A=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMM610X5JHr2HtcuH406I9etlAg8uMOUJIYO3Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.5656921,
+      "lng": 77.2442623,
+      "label": "Institute of Brain and Spine Hospital (IBS Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jeewan-mala-hospital-karol-bagh",
+    "name": "Jeewan Mala Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karol Bagh often choose Jeewan Mala Hospital for its strength in Brain Surgery In Karol Bagh. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karol Bagh.",
+    "email": "",
+    "phone": "011 4777 4151",
+    "alternatePhone": "",
+    "website": "http://www.jmh.in/",
+    "address": "67/1 New Rohtak Road, Guru Gobind Singh Marg, Karol Bagh, New Delhi, Delhi 110005",
+    "city": "Karol Bagh",
+    "state": "Delhi",
+    "pincode": "110005",
+    "locality": "Guru Gobind Singh Marg",
+    "landmark": "Karol Bagh",
+    "emergencyContact": "011 4777 4151",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Karol Bagh"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiA6DsCKfkCXU9aN1Cyxeyzm-QZytBFX0NSZuwVUmAn8txMpuatPTj-s3d41jUyfzjcKSijGKbj0OZvYxjcFiSpk5sN3Ts6m9cO6cg2ibokyCX1Tev1I0y8Ablj-YdAUJ5hqFO=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiA6DsCKfkCXU9aN1Cyxeyzm-QZytBFX0NSZuwVUmAn8txMpuatPTj-s3d41jUyfzjcKSijGKbj0OZvYxjcFiSpk5sN3Ts6m9cO6cg2ibokyCX1Tev1I0y8Ablj-YdAUJ5hqFO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0I275SvuhdCxOByJXqnW_aahMs-zsFZSX9UNNt4Ea_wYYqkVDAxup5HddWnijpjXRHLaWM0Q3_hhEy3emMoSw8itfOrVg7IcUkE3LDFTdykF3TnBwCHTKG1Y23rP3AFLgRg7uxA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6579666,
+      "lng": 77.1942862,
+      "label": "Jeewan Mala Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jindal-hospital-sarai-rohilla",
+    "name": "Jindal Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Sarai Rohilla, Jindal Hospital delivers integrated care across IVF In Karol Bagh. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Sarai Rohilla.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://jindalhospital.org/",
+    "address": "B3 & B4 Local Shopping Complex, Vivekanand Puri, Sarai Rohilla, New Delhi, Delhi 110007",
+    "city": "Sarai Rohilla",
+    "state": "Delhi",
+    "pincode": "110007",
+    "locality": "Vivekanand Puri",
+    "landmark": "Sarai Rohilla",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Karol Bagh"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFAZvkgN7CWigmrrGU2qvg_XD8-xpHxg5MzJQFwS4fGYmOeqrf9M7U4-g59GF4cGht-yCihwU-EsTFoeGC79arhLMrXH1UURRtbM2V1BHu6zqQql5H2rt_iBZol8TRXXm1KVlFsw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFAZvkgN7CWigmrrGU2qvg_XD8-xpHxg5MzJQFwS4fGYmOeqrf9M7U4-g59GF4cGht-yCihwU-EsTFoeGC79arhLMrXH1UURRtbM2V1BHu6zqQql5H2rt_iBZol8TRXXm1KVlFsw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6681278,
+      "lng": 77.1850918,
+      "label": "Jindal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jmh-prime-hospital-best-hospital-in-karol-bagh-delhi-karol-bagh",
+    "name": "JMH Prime Hospital - Best Hospital in Karol Bagh Delhi",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "JMH Prime Hospital - Best Hospital in Karol Bagh Delhi has built a strong reputation in Karol Bagh for multidisciplinary treatment pathways covering Gynecologist Surgery In Karol Bagh. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karol Bagh.",
+    "email": "",
+    "phone": "092896 26555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "66A/2 New Rohtak Road, Guru Gobind Singh Marg, Karol Bagh, New Delhi, Delhi 110005",
+    "city": "Karol Bagh",
+    "state": "Delhi",
+    "pincode": "110005",
+    "locality": "Guru Gobind Singh Marg",
+    "landmark": "Karol Bagh",
+    "emergencyContact": "092896 26555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karol Bagh"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEiYmzKXHCcmkGchKRDpYZ4_uRw9CqM-SwQfJv3rNNXhmA1DSQnw0A0QTe2o9IlRnrgCTM2zX0WgPhGqSI1pRXWtL0YxW5jTRkRhCb9U2SdugpoqCxAoO5vrzzFe6azD0rodg8ZEUaZwIxW=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEiYmzKXHCcmkGchKRDpYZ4_uRw9CqM-SwQfJv3rNNXhmA1DSQnw0A0QTe2o9IlRnrgCTM2zX0WgPhGqSI1pRXWtL0YxW5jTRkRhCb9U2SdugpoqCxAoO5vrzzFe6azD0rodg8ZEUaZwIxW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6584109,
+      "lng": 77.1935275,
+      "label": "JMH Prime Hospital - Best Hospital in Karol Bagh Delhi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kailash-hospital-and-neuro-institute-noida",
+    "name": "Kailash Hospital & Neuro Institute",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kailash Hospital & Neuro Institute is a prominent general hospital in Noida, known for structured tertiary care across Brain Surgery In Karol Bagh and Neurosciences. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Noida.",
+    "email": "",
+    "phone": "0120 222 2222",
+    "alternatePhone": "",
+    "website": "https://www.kailashhealthcare.com/Kailash-Hospital-Neuro-Institute",
+    "address": "NH-1, B Block, Sector 71, Noida, Uttar Pradesh 201316",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "pincode": "201316",
+    "locality": "Sector 71",
+    "landmark": "Sector 71",
+    "emergencyContact": "0120 222 2222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Karol Bagh",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.6004253%2C77.3759185&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.6004253%2C77.3759185&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.6004253%2C77.3759185&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.6004253%2C77.3759185&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6004253,
+      "lng": 77.3759185,
+      "label": "Kailash Hospital & Neuro Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "motherhood-fertility-and-ivf-center-best-ivf-centre-in-noida-iui-icsi-infertility-treatment-noida",
+    "name": "Motherhood Fertility & IVF Center - Best IVF Centre in Noida, IUI, ICSI, Infertility Treatment",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Motherhood Fertility & IVF Center - Best IVF Centre in Noida, IUI, ICSI, Infertility Treatment is a prominent hospital in Noida, known for structured tertiary care across IVF In Karol Bagh and Fertility Care. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Noida.",
+    "email": "",
+    "phone": "080 6954 9275",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Basement, B, 206 A, Block B, Sector 48, Noida, Uttar Pradesh 201301",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "pincode": "201301",
+    "locality": "Sector 48",
+    "landmark": "206 A",
+    "emergencyContact": "080 6954 9275",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Karol Bagh",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=28.5572896%2C77.368285&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=28.5572896%2C77.368285&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.5572896%2C77.368285&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=28.5572896%2C77.368285&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.5572896,
+      "lng": 77.368285,
+      "label": "Motherhood Fertility & IVF Center - Best IVF Centre in Noida, IUI, ICSI, Infertility Treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "national-heart-institute-east-of-kailash",
+    "name": "National Heart Institute",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted heart hospital in East of Kailash, National Heart Institute delivers integrated care across Heart Surgery In Karol Bagh and Cardiac Care. Hospital capacity markers such as Google rating 4.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in East of Kailash.",
+    "email": "",
+    "phone": "011 4660 0700",
+    "alternatePhone": "",
+    "website": "https://www.nationalheartinstitute.com/",
+    "address": "Community Centre, 49-50, D Block, East of Kailash, New Delhi, Delhi 110065",
+    "city": "East of Kailash",
+    "state": "Delhi",
+    "pincode": "110065",
+    "locality": "D Block",
+    "landmark": "D Block",
+    "emergencyContact": "011 4660 0700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Karol Bagh",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFetyfzoPX8Ztw0qddSy-SWzJIToUn94OzVNAISQj2VNzggjZhOl1wha1tf8Lc5g-AKJnrPxE-U0TaKAKWpAP1zVaylsk64GF4XfUjMqMvyiYPjfikn5IaeChZyyZ9Qqsq0MUJw=w1200-h900-p-k-no",
+    "logo": "https://www.nationalheartinstitute.com/asset/images/nhi/logonhi.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFetyfzoPX8Ztw0qddSy-SWzJIToUn94OzVNAISQj2VNzggjZhOl1wha1tf8Lc5g-AKJnrPxE-U0TaKAKWpAP1zVaylsk64GF4XfUjMqMvyiYPjfikn5IaeChZyyZ9Qqsq0MUJw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_GnAHd-OFnwtrNvrib_SgX0eOjDp36p8AAkToPvevGHe7Gu-NXi3ryZTQTEAa6rwVqnysbEoXSHnsTYINyUk66UIErcD8yTAM7IRa08Utl8cJbxlzll6_7WIFft4WMfqtiL8HPg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGM9GpjC49-Ese_8N1fxrXzUDe0bt2IOZFDP1mc7_J6jfz0wJiRIdkKw8oHkKgWxCYDew5OuPk26_PtPPut8Fju5xR_nk1ASfM6Eme54h0VbZMjdCbF3lzrXYEkTGHsGxDyjbiD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.5570371,
+      "lng": 77.2458561,
+      "label": "National Heart Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rlkc-hospital-and-metro-heart-institute-shadipur",
+    "name": "RLKC Hospital & Metro Heart Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RLKC Hospital & Metro Heart Institute has built a strong reputation in Shadipur for multidisciplinary treatment pathways covering Heart Surgery In Karol Bagh and Cardiac Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Shadipur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "011 6131 6666",
+    "alternatePhone": "",
+    "website": "https://www.metrohospitals.com/hospital/metro-hospital-and-cancer-institute-preet-vihar-delhi/",
+    "address": "Pandav Nagar, Naraina Road, Near Shadipur Metro Station, Pandav Nagar, Shadipur, New Delhi, Delhi 110008",
+    "city": "Shadipur",
+    "state": "Delhi",
+    "pincode": "110008",
+    "locality": "Pandav Nagar",
+    "landmark": "Near Shadipur Metro Station, Pandav Nagar, Shadipur, New Delhi, Delhi 110008",
+    "emergencyContact": "011 6131 6666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Karol Bagh",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHarbXuITpWf4PNaczbRDQ30Vv7bIrmc5mmA8M0GMyZCqo5zkBAdUyr9R57NAPGPLWhti10JmLkbJNHn7Lx8G0QtABEWgxb6nYkl_2oO9L3q_GlAcEOS3KmPuffHihBFt9aBIoD=w1200-h900-p-k-no",
+    "logo": "https://metrohospitals.com/wp-content/themes/metro-group-of-hospitals/assets/images/metro-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHarbXuITpWf4PNaczbRDQ30Vv7bIrmc5mmA8M0GMyZCqo5zkBAdUyr9R57NAPGPLWhti10JmLkbJNHn7Lx8G0QtABEWgxb6nYkl_2oO9L3q_GlAcEOS3KmPuffHihBFt9aBIoD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNKAhSBKlFhK5zoMQlo6_tPP3JX640itfwpPqx_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6511322,
+      "lng": 77.1547144,
+      "label": "RLKC Hospital & Metro Heart Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-jeewan-hospital-karol-bagh",
+    "name": "Shree Jeewan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Karol Bagh, Shree Jeewan Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Karol Bagh. Hospital capacity markers such as Google rating 3.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Karol Bagh.",
+    "email": "",
+    "phone": "011 2368 2780",
+    "alternatePhone": "",
+    "website": "http://www.shreejeewanhospital.com/",
+    "address": "67/1, New Rohtak Rd, Block 67, Karol Bagh, New Delhi, Delhi, 110005",
+    "city": "Karol Bagh",
+    "state": "West Bengal",
+    "pincode": "110005",
+    "locality": "Block 67",
+    "landmark": "Block 67",
+    "emergencyContact": "011 2368 2780",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karol Bagh"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZAiOXmUtrR0pZOTF7qubqNtlWZyVZDdoc0ZjsID9wxOgH3JOIB1i-H0KDwkIN-CurNznScrWfkQtb7gNQyPYun5t8GNWKhpf01Il_vM6qChZb9AUm3Am99LcHGQFOLUo3OBKo=w1200-h900-p-k-no",
+    "logo": "http://www.shreejeewanhospital.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZAiOXmUtrR0pZOTF7qubqNtlWZyVZDdoc0ZjsID9wxOgH3JOIB1i-H0KDwkIN-CurNznScrWfkQtb7gNQyPYun5t8GNWKhpf01Il_vM6qChZb9AUm3Am99LcHGQFOLUo3OBKo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6579177,
+      "lng": 77.1946013,
+      "label": "Shree Jeewan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "signature-heart-and-multi-speciality-hospital-karol-bagh",
+    "name": "Signature Heart & Multi-speciality hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karol Bagh often choose Signature Heart & Multi-speciality hospital for its strength in Heart Surgery In Karol Bagh, Cardiac Care, and Speciality Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karol Bagh can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "076783 87693",
+    "alternatePhone": "",
+    "website": "https://shmsd.in/",
+    "address": "C-2/41 A, Main Service Ln, Block C, Yamuna Vihar, Delhi, 110053",
+    "city": "Karol Bagh",
+    "state": "West Bengal",
+    "pincode": "110053",
+    "locality": "",
+    "landmark": "Block C",
+    "emergencyContact": "076783 87693",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Karol Bagh",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGph3QtH2d9eRR2D5uyJXNM64-utcQpE6cOdK3IY42xlztg0y_Z9zNOlf8I9_wouKsqy8Q4duJoPLB0ToUZMJmXhy8x52i7RrlEdGO9elo5vF242S9DSnAG8h-aYeErdIw7L6t8=w1200-h900-p-k-no",
+    "logo": "https://shmsd.in/wp-content/uploads/2023/04/Untitled-design-12-e1680902785789.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGph3QtH2d9eRR2D5uyJXNM64-utcQpE6cOdK3IY42xlztg0y_Z9zNOlf8I9_wouKsqy8Q4duJoPLB0ToUZMJmXhy8x52i7RrlEdGO9elo5vF242S9DSnAG8h-aYeErdIw7L6t8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMQE6_ag_RsVyPUGACsUGin45Q7QGxsQCD3RErn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO2MUVAyQbaCc0jdLgPxUVm6EFBRpuLoGTR_64d=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPtHOHTxIB_-6eF4h38Pi5FZChk1O8YtEsFSDh4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPeJK1bfPf3YXkYL5Mfn-0brZxYt3m13OVMukny=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.7020291,
+      "lng": 77.2774668,
+      "label": "Signature Heart & Multi-speciality hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sir-ganga-ram-city-hospital-karol-bagh",
+    "name": "Sir Ganga Ram City Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Karol Bagh often choose Sir Ganga Ram City Hospital for its strength in General Surgery In Karol Bagh. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karol Bagh.",
+    "email": "",
+    "phone": "011 4225 5555",
+    "alternatePhone": "",
+    "website": "https://www.sgrcityhospital.com/",
+    "address": "Pusa Rd, North Extension Area, Rajinder Nagar, New Delhi, Delhi, 110005",
+    "city": "Karol Bagh",
+    "state": "West Bengal",
+    "pincode": "110005",
+    "locality": "",
+    "landmark": "Rajinder Nagar",
+    "emergencyContact": "011 4225 5555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Karol Bagh"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSmdvt8yy2se98L_5nICMJurQ19n8K8UGjhlzg26rwKGHFYYHfMwwFE1xZlnxgcDn2GMrPlxVbhd1HzKMB7mfP1yKapOF-V-mjdnEYw7RrzBDVjNpOf2VPPxCVAYZGIGL2Kv_ixA=w1200-h900-p-k-no",
+    "logo": "https://sgrcityhospital.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSmdvt8yy2se98L_5nICMJurQ19n8K8UGjhlzg26rwKGHFYYHfMwwFE1xZlnxgcDn2GMrPlxVbhd1HzKMB7mfP1yKapOF-V-mjdnEYw7RrzBDVjNpOf2VPPxCVAYZGIGL2Kv_ixA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFLAeEJUbZQy2Sf01yXwc6t9Wq0KZO5E_VtKhHF3xOu5B5QZbWIWsEItil5W5ODZujJOcmBLDxVSGgJi02CSZSxIugLgugXFX-Zq5BiE5LfBzmejTOrmTFSl4Yoanp0qlCzpBpHOA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6440489,
+      "lng": 77.1913132,
+      "label": "Sir Ganga Ram City Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sir-ganga-ram-hospital-karol-bagh",
+    "name": "Sir Ganga Ram Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Karol Bagh, Sir Ganga Ram Hospital brings together specialists for General Surgery In Karol Bagh. The facility stands out for Google rating 3.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Karol Bagh can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "011 4225 4000",
+    "alternatePhone": "",
+    "website": "https://sgrh.com/departments/preventive-health-and-wellness",
+    "address": "Sir Ganga Ram Hospital Marg, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+    "city": "Karol Bagh",
+    "state": "West Bengal",
+    "pincode": "110060",
+    "locality": "",
+    "landmark": "Rajinder Nagar",
+    "emergencyContact": "011 4225 4000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Karol Bagh"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEp6EQCCpVrpFMMEzyYvan14x6z8xZ3KNrYrs2RCcsu22zDZ68I6cvGf_4E3_NTlOJGpdLnUC9BZM0vTxsHZeFmI1Ahh2w_3vAcKlJjvYRVC3fOsjtB2PvjqDejp6z4l-n_U_uo6w=w1200-h900-p-k-no",
+    "logo": "https://sgrh.com/assets/img/logo-sir-Ganga-Ram-new.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEp6EQCCpVrpFMMEzyYvan14x6z8xZ3KNrYrs2RCcsu22zDZ68I6cvGf_4E3_NTlOJGpdLnUC9BZM0vTxsHZeFmI1Ahh2w_3vAcKlJjvYRVC3fOsjtB2PvjqDejp6z4l-n_U_uo6w=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPrFsmIuHAqbPLMa4233Uxc1aySG0JKvTbvJB7_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP5lpth4snJPk7RoJYohKLZkumrayDR3T05oYD5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMF-1dR1yy9mLWYZEOaxu2LR9K_uWtzLSc2Jryl=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMvCWpsCfJfuX6FenSI1qeklx1dcOKKmb8mi3cT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6384582,
+      "lng": 77.1895559,
+      "label": "Sir Ganga Ram Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vedant-super-speciality-clinic-karol-bagh",
+    "name": "Vedant Super Speciality Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vedant Super Speciality Clinic has built a strong reputation in Karol Bagh for multidisciplinary treatment pathways covering Gynecologist Surgery In Karol Bagh and Speciality Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Karol Bagh.",
+    "email": "",
+    "phone": "011 4161 9666",
+    "alternatePhone": "",
+    "website": "",
+    "address": "59/2, New Rohtak Rd, near Jain International Organisation (JIO) Hostel, Block 59, Karol Bagh, Delhi, 110005",
+    "city": "Karol Bagh",
+    "state": "West Bengal",
+    "pincode": "110005",
+    "locality": "Block 59",
+    "landmark": "near Jain International Organisation (JIO) Hostel, Block 59, Karol Bagh, Delhi, 110005",
+    "emergencyContact": "011 4161 9666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Karol Bagh",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoikDgU59dOTst6NpLcwYcAPjKrd8Trl9HObKMsgAdETQ1-NDXKqYTXup4fzVDz-4G4Up82KA6QJS0GncT3BajAa00ZMD-jH5TYZfsnTN24FqvvO0s97fOTDC2GWsX36KzY1ipyQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoikDgU59dOTst6NpLcwYcAPjKrd8Trl9HObKMsgAdETQ1-NDXKqYTXup4fzVDz-4G4Up82KA6QJS0GncT3BajAa00ZMD-jH5TYZfsnTN24FqvvO0s97fOTDC2GWsX36KzY1ipyQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.658123,
+      "lng": 77.18975,
+      "label": "Vedant Super Speciality Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

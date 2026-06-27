@@ -1,0 +1,241 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "imphal-heart-institute-imphal",
+    "name": "Imphal Heart Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Imphal, Imphal Heart Institute brings together specialists for Cardiac Surgery In Imphal and Cardiac Care. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Imphal can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "069091 57940",
+    "alternatePhone": "",
+    "website": "https://www.imphalheartinstitute.com/",
+    "address": "RW3G+6P6, Moirang Leirak Rd, Sagolband, Imphal, Manipur 795001",
+    "city": "Imphal",
+    "state": "Manipur",
+    "pincode": "795001",
+    "locality": "Sagolband",
+    "landmark": "Sagolband",
+    "emergencyContact": "069091 57940",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Imphal",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbvTF-mfAFclBtxKq59xW31Um8WU2TSsG9frhsCQJmR4Ow4b7o4EZl4D66nmJtq-GFvx3UMn4eKr8ECFVYbG4kCqoBC3atzaLDJ8M_z2p0j2S58sK-3Bav1eDrTC9Rs1qAQmrf=w1200-h900-p-k-no",
+    "logo": "https://www.imphalheartinstitute.com/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbvTF-mfAFclBtxKq59xW31Um8WU2TSsG9frhsCQJmR4Ow4b7o4EZl4D66nmJtq-GFvx3UMn4eKr8ECFVYbG4kCqoBC3atzaLDJ8M_z2p0j2S58sK-3Bav1eDrTC9Rs1qAQmrf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZCvzdw77eFBTMCH7LswMpP0OzAkw9ep-39BAO6pHTmw8Ey59OildhR3mgxTCbBLg1JzZffH5xIakwYNK0uHAIUNCnIQUyrAQa5NN0jTDEeDERqYrLIu8Ng9ETtkgs9hubh20SCtZ0gHE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 24.803135,
+      "lng": 93.9268089,
+      "label": "Imphal Heart Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sky-hospital-and-research-centre-imphal",
+    "name": "Sky Hospital & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sky Hospital & Research Centre has built a strong reputation in Imphal for multidisciplinary treatment pathways covering Cardiac Surgery In Imphal. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Imphal.",
+    "email": "",
+    "phone": "084159 38207",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RIMS Rd, Lalambung Makhong, Uripok, Imphal, Manipur 795001",
+    "city": "Imphal",
+    "state": "Manipur",
+    "pincode": "795001",
+    "locality": "Uripok",
+    "landmark": "Uripok",
+    "emergencyContact": "084159 38207",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Imphal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFKu3uJ2sBg71ylT8EEWWgykYInWcFiT87_Spy_e02Ldhu7cJeFwaK8IwEc9HhMwW3StAhs7Ga_Q3rimhl1Q4txBDuRf2Jajo6PIVoKFf4KGPfl481uzFAc7XWZVV6cpx_STDAT=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFKu3uJ2sBg71ylT8EEWWgykYInWcFiT87_Spy_e02Ldhu7cJeFwaK8IwEc9HhMwW3StAhs7Ga_Q3rimhl1Q4txBDuRf2Jajo6PIVoKFf4KGPfl481uzFAc7XWZVV6cpx_STDAT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMOavSkxQqw2vy-uoSGkAgXT_y1HTIM0sAehUFi49nxka5OAoWnU48ImT52EG6PLYI9KAPN7OEqGebSxNoM32nmZ-e6Hd9q7jqUeMAlvMniQh4Xa5kfgTkbycPYSJhMd7nQA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqBQe1WytR5P1ye3YaW3VoyjSjg5bCtre7AeAXa1RQnOonfdfcjVOiIt0BitIIyd7pieXQSjzJPkZFYy0p9T-Ci8f-ITSkj5NN8z9Xo6_Y087OKlqK88iE6hhfpmXNFOOYL0L1CA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 24.8130175,
+      "lng": 93.9280891,
+      "label": "Sky Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

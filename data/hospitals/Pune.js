@@ -1,0 +1,7978 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "7-orange-hospital-best-multi-speciality-cardiac-and-surgical-center-in-pcmc-pune-pimpri-chinchwad",
+    "name": "7 Orange Hospital - Best Multi-speciality cardiac and Surgical center In pcmc, Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "7 Orange Hospital - Best Multi-speciality cardiac and Surgical center In pcmc, Pune is a prominent hospital in Pimpri-Chinchwad, known for structured tertiary care across General Surgery In Pune, Cardiac Care, and Speciality Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pimpri-Chinchwad.",
+    "email": "",
+    "phone": "073500 55754",
+    "alternatePhone": "",
+    "website": "https://www.7orangehospitals.com/",
+    "address": "Bijli Nagar Rd, Pawana Nagar Housing Society, Chinchwad, Pimpri-Chinchwad, Maharashtra 411033",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411033",
+    "locality": "Chinchwad",
+    "landmark": "Chinchwad",
+    "emergencyContact": "073500 55754",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Pune",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFY-hx1UZ2FEHoIesPE38_TG7usfH8ENtYsjbPHqs5Z-SB7-RvIz6mVBF97N14DVpDv0PW8kaWvTkc7bsTT68FKMqibxxrzUUzQH6tfeuEbB60IjH4P3sa_2xnJiLx2RxoObwbEjg=w1200-h900-p-k-no",
+    "logo": "https://7orangehospitals.com/wp-content/uploads/2023/11/101-LOGO-1.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFY-hx1UZ2FEHoIesPE38_TG7usfH8ENtYsjbPHqs5Z-SB7-RvIz6mVBF97N14DVpDv0PW8kaWvTkc7bsTT68FKMqibxxrzUUzQH6tfeuEbB60IjH4P3sa_2xnJiLx2RxoObwbEjg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOYv_3J5HvdIECNIP4pGHc9RKehDeIHleoryFaQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPO4LCjZGnFErYLH3wH5TO0JvFSrVD8_9LeWluP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipONOKyaEb0534zXckQeOv60vJTBZXL3Y4_uT_0T=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNv3FEiboz9SjsXOqHRTMU0CajUuWAvY8q3SNf3=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.6332445,
+      "lng": 73.7790974,
+      "label": "7 Orange Hospital - Best Multi-speciality cardiac and Surgical center In pcmc, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ace-hospital-and-research-center-pune",
+    "name": "ACE Hospital & Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ACE Hospital & Research Center is a prominent hospital in Pune, known for structured tertiary care across Urologist Surgery In Pune. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "020 6702 9100",
+    "alternatePhone": "",
+    "website": "https://www.acehospital.in/",
+    "address": "S No- 32, 2A, Gulawani Maharaj Road, near Hotel Abhishek, Pandurang Colony, Erandwane, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Erandwane",
+    "landmark": "near Hotel Abhishek, Pandurang Colony, Erandwane, Pune, Maharashtra 411004",
+    "emergencyContact": "020 6702 9100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbL_HI8XGDID1C3zq8RUCG1vvENzMr7UyGheOr6dDcl7m8uNGQRtPAYt5WBmLzYS0V_-1msWMiNWeI8qWMr2npR4PWxJh-Hh9V8YnnbgytLMt1fP3FGFTsQvGjFNq_KBQKOb6e=w1200-h900-p-k-no",
+    "logo": "https://acehospital.in/wp-content/uploads/2021/10/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbL_HI8XGDID1C3zq8RUCG1vvENzMr7UyGheOr6dDcl7m8uNGQRtPAYt5WBmLzYS0V_-1msWMiNWeI8qWMr2npR4PWxJh-Hh9V8YnnbgytLMt1fP3FGFTsQvGjFNq_KBQKOb6e=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnxxls-ibPD1jxhdOImbS8k1YC9Le1srRI5pXV5m3chFuliQHUlIPEF78sakmKblZ2wSNemjANSsNLuFCvUQP21kj2B-QFDXoH1IMKAHXscbT94oQSqBDfOZ2masoAFvS51dgBww=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkbjy-ax5kGKOocqH1BZDbKyP5R0RyspJjg1yoj1zP33EfvK4qkzBy0rlarE6xD3v4cUK7a7QNM9sDJM8idEPAw_DKPskDKbAOBQQ-MkNSEivoeDWW_ON77X2WSPcJ7gtBKCOI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLvGidHEPfGxV489ic-DFqJJ6mc1jvS1gS8vPQEuFfk-lYw1lD04AYs40ru6_6r4gOjxOWLids0Bitby2PCoNaNumnfAgOrBJU7wFFhwQRoDhndRvSoJSW0FRO84UZJQW_Xi4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF75U3LGT6riG71ZRW6932tBPYKAI3-b5xOH9TOcMwx61Ip6-6XHR0iT2nUq91p3mj-dwxKZiKIMVCtOuBF_YzUIJ-kg27mz-AGf42xUFg64yBfwHys8-ajp4Ra-3rni4lL0PwkeUQkJXeG=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5050294,
+      "lng": 73.8303511,
+      "label": "ACE Hospital & Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aims-cardiac-hospital-cardiac-hospital-in-aundh-pune",
+    "name": "AIMS Cardiac Hospital | Cardiac Hospital In Aundh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, AIMS Cardiac Hospital | Cardiac Hospital In Aundh delivers integrated care across Heart Surgery In Pune and Cardiac Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "092255 39376",
+    "alternatePhone": "",
+    "website": "https://www.cardiologistnearme.co.in/",
+    "address": "2nd Floor, AIMS Hospital, Ward No. 8, Aundh Gaon, Aundh, Pune, Maharashtra 411067",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411067",
+    "locality": "Aundh",
+    "landmark": "Ward No. 8",
+    "emergencyContact": "092255 39376",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEyj62vM3rY9T6hclUyG_LyR4KV-8GCp0Ue2pz_GntXhvKpyrqHpDIoMP2TZsH7_PYmL8THWMy-90Uvw3Xa9g_Mn88d6jq4kqSuPxbXJzAGd6qItUAi3a_iHMS9ujUGZn-2XFGt=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEyj62vM3rY9T6hclUyG_LyR4KV-8GCp0Ue2pz_GntXhvKpyrqHpDIoMP2TZsH7_PYmL8THWMy-90Uvw3Xa9g_Mn88d6jq4kqSuPxbXJzAGd6qItUAi3a_iHMS9ujUGZn-2XFGt=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMYbmBn4780mowok1t6MckNr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMYbmBn4780mowok1t6MckNr1pKyLQ3oxtz9QxY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOu54gbrW0zhNQnTgiCY8178R8iTPPyrgxXk-SU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOg_GaqqXGF7Aq8CjdHXQz9BUtRs8bjhIJjla1M=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5625648,
+      "lng": 73.8105979,
+      "label": "AIMS Cardiac Hospital | Cardiac Hospital In Aundh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amit-hospital-yerwada-pune",
+    "name": "Amit Hospital , Yerwada",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Amit Hospital , Yerwada brings together specialists for Urologist Surgery In Pune. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "020 2669 6023",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gunjan Theater, 1289, Seiko Apartment, Yerwada, B/H Petrol Pump, Near Gunjan Theatre, Yerwada, 3a, Airport Rd, Mother Teresa Nagar, Kashmiri Colony, Yerawada, Pune, Maharashtra 411006",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411006",
+    "locality": "Yerawada",
+    "landmark": "Near Gunjan Theatre, Yerwada, 3a, Airport Rd, Mother Teresa Nagar, Kashmiri Colony, Yerawada, Pune, Maharashtra 411006",
+    "emergencyContact": "020 2669 6023",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHG6wMesyuf_eBe2YnVL4ioRLst5Khxs9x_fyVDQ6gzuLr7FdSHUrlKMr4jLe7lYn-Hoc2tQt_lNvpTqvP0QjPqIkvaJVjWZLKecECYrXOsjR94McxX_3qTkxUD6ts5a_xl4GBoZn04I70=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHG6wMesyuf_eBe2YnVL4ioRLst5Khxs9x_fyVDQ6gzuLr7FdSHUrlKMr4jLe7lYn-Hoc2tQt_lNvpTqvP0QjPqIkvaJVjWZLKecECYrXOsjR94McxX_3qTkxUD6ts5a_xl4GBoZn04I70=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHvCanmRusPfoa6L5eX4CXU3ku6vHvXK-x_ty_BRoLzE7POe6tpaDC-YtXUsPh-0lzhG06ByOGrqudPggyRMRRlctVdiXvpfd9-DCt8-HOaZDa1bMhgaDGuJETudyXMl9kophX9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5464736,
+      "lng": 73.8881781,
+      "label": "Amit Hospital , Yerwada",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ankura-hospital-for-women-and-children-pune-pune",
+    "name": "Ankura Hospital for Women & Children - Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Ankura Hospital for Women & Children - Pune delivers integrated care across Gynecologist Surgery In Pune and Women and Child Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "090531 08108",
+    "alternatePhone": "",
+    "website": "https://www.ankurahospitals.com/locations/aundh-pune",
+    "address": "1+2A+2B/1, CTS, S.No.163, Nagras Rd, opposite SBI PBB, Ward No. 8, Wireless Colony, Aundh, Pune, Maharashtra 411007",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411007",
+    "locality": "Aundh",
+    "landmark": "opposite SBI PBB, Ward No. 8, Wireless Colony, Aundh, Pune, Maharashtra 411007",
+    "emergencyContact": "090531 08108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Pune",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFKWxjSDHx8ybYqOIK3hV7nj_vMaEr8FsuNYhXmrsfykCLvfEMbRdRSN-uu7VmFqlaco63FXHDPPSN9h7uSlMrXktF6exIPmqRPaqOv723iVFyRxETxWpobmGkYbfjZOD-YfKU=w1200-h900-p-k-no",
+    "logo": "https://www.ankurahospitals.com/build/assets/Ankura-Logo-with-Registerd-mark-New-01-DTdersqc.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFKWxjSDHx8ybYqOIK3hV7nj_vMaEr8FsuNYhXmrsfykCLvfEMbRdRSN-uu7VmFqlaco63FXHDPPSN9h7uSlMrXktF6exIPmqRPaqOv723iVFyRxETxWpobmGkYbfjZOD-YfKU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM-A4B3wPQtX4SRs6c5Me0KDo9GiWochyvKESsP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOpib_8-h_q6omwc6nQQeVDOSFqP-D5LuZxDbmG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOBtjcJOqJfCr5pfSedudX8iOy7D1xLpakn3XDr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMEkAPgUeOWxA1ruMcp9HeblsEChdXvfrH8sbxY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5653976,
+      "lng": 73.8047432,
+      "label": "Ankura Hospital for Women & Children - Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apex-cardiac-care-clinic-pune",
+    "name": "Apex Cardiac Care Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Apex Cardiac Care Clinic offers coordinated hospital care with major focus on Heart Surgery In Pune and Cardiac Care. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "090114 71900",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Mehtre Corner, opposite Ganesh Dutta Mandir, Balewadi Phata, Baner, Pune, Maharashtra 411069",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411069",
+    "locality": "Baner",
+    "landmark": "opposite Ganesh Dutta Mandir, Balewadi Phata, Baner, Pune, Maharashtra 411069",
+    "emergencyContact": "090114 71900",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHO4kLvkaUkudGk2_PVmwnd3L7XFxRcaMbLrkXCfa_VJIwO9oy8aQJkBtJ8gZOxAt1HRavfF95NzOTLhWpxG_FKvd3LBQlGxR_RsWlBr5Jr6dWunHZKdCS-jitU2vJV_OQjSLY56w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHO4kLvkaUkudGk2_PVmwnd3L7XFxRcaMbLrkXCfa_VJIwO9oy8aQJkBtJ8gZOxAt1HRavfF95NzOTLhWpxG_FKvd3LBQlGxR_RsWlBr5Jr6dWunHZKdCS-jitU2vJV_OQjSLY56w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5645065,
+      "lng": 73.7827318,
+      "label": "Apex Cardiac Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apollo-hospitals-pune-best-hospital-in-pune-pune",
+    "name": "Apollo Hospitals Pune | Best Hospital in Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apollo Hospitals Pune | Best Hospital in Pune is a prominent hospital in Pune, known for structured tertiary care across General Surgery In Pune. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "080 6297 2814",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/hospitals/pune",
+    "address": "Apollo Hospitals Enterprise Limited, Shankar Sheth Rd, Mahatma Phule Peth, Swargate, Pune, Maharashtra 411042",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411042",
+    "locality": "Swargate",
+    "landmark": "Mahatma Phule Peth",
+    "emergencyContact": "080 6297 2814",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGw6sWorpFQ8L6Pjedt0prKnG3rja5Ic68a-if-8VbTadsJz_G3AtriViZOTG-hneKWLIFZXno-REgCuzMVI89wquCOKOYzYUY_hKaSM3iUTnn-pwwsvx-X7k34luSuvWQUkzhe5ias1OM=w1200-h900-p-k-no",
+    "logo": "https://www.apollohospitals.com/themes/custom/apollo/assets/svg/apollo-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGw6sWorpFQ8L6Pjedt0prKnG3rja5Ic68a-if-8VbTadsJz_G3AtriViZOTG-hneKWLIFZXno-REgCuzMVI89wquCOKOYzYUY_hKaSM3iUTnn-pwwsvx-X7k34luSuvWQUkzhe5ias1OM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOy5H-aSul0FuZb8zMUX2nkTMN3ydj7SjgpDIa_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMG2WHzv5WNLGZWeyEtgE1iCIqVxMJKjILwZdRp=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5002078,
+      "lng": 73.8646288,
+      "label": "Apollo Hospitals Pune | Best Hospital in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apollo-spectra-hospitals-pune-pune",
+    "name": "Apollo Spectra Hospitals - Pune",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Apollo Spectra Hospitals - Pune brings together specialists for Urologist Surgery In Pune. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084484 40991",
+    "alternatePhone": "",
+    "website": "https://www.apollospectra.com/our-hospitals/pune/sadashiv-peth/best-hospital-in-sadashiv-peth-pune/?utm_source",
+    "address": "Saras Baug Rd, opp. Sanas Play Ground, Vijayanagar Colony, Sadashiv Peth, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Sadashiv Peth",
+    "landmark": "Vijayanagar Colony",
+    "emergencyContact": "084484 40991",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfJ6ePT3wGL21L55ojKnRDUq-5_VCFiOVdKmIeuOMyiCFcq_Qu8ZVckMDpL1S8L4XOWWrmKpBtbHNqiTU_-DB5qJoWrDWiDpnNJX5K8EV2Yp7R8_vTph1-CSaL_1JZmTsyQt6m=w1200-h900-p-k-no",
+    "logo": "https://www.apollospectra.com/images/logos/mobile-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfJ6ePT3wGL21L55ojKnRDUq-5_VCFiOVdKmIeuOMyiCFcq_Qu8ZVckMDpL1S8L4XOWWrmKpBtbHNqiTU_-DB5qJoWrDWiDpnNJX5K8EV2Yp7R8_vTph1-CSaL_1JZmTsyQt6m=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO64sJwrQOqvAQDW5lc6gs8tr7IotedND8e8tgm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOnJlni0Hlj1Ovkt=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOnJlni0Hlj1Ovkt0ETG49Md3CN801CljB2KsSc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNIct8L4k_OZFkhaw7xzj5akzKyh-bIQjlXcMIq=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5029793,
+      "lng": 73.8521579,
+      "label": "Apollo Spectra Hospitals - Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "best-multispeciality-hospital-in-pune-pune",
+    "name": "Best Multispeciality Hospital in Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Best Multispeciality Hospital in Pune has built a strong reputation in Pune for multidisciplinary treatment pathways covering Plastic Surgery In Pune and Speciality Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "080 6510 5054",
+    "alternatePhone": "",
+    "website": "https://www.pristyncare.com/pune/c/proctology/?utm_source",
+    "address": "1671-75, Ganeshkhind Rd, near Hotel Pride, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "near Hotel Pride, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+    "emergencyContact": "080 6510 5054",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERIYfFAPuK9sCtcYDGqI75NymcRZHMOQ0qAHQ-iFIYAXKz1zL49aY4yJH4-PYa5O5lXUt3z6rP3Knqn-3zwcE7mJWUIhKR3rCYdlvsoRH9hOIltLhFdpszr6u3OxYY5td0I9JL-XE3GudG=w1200-h900-p-k-no",
+    "logo": "https://www.pristyncare.com/blog/wp-content/uploads/2021/01/pristyn-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERIYfFAPuK9sCtcYDGqI75NymcRZHMOQ0qAHQ-iFIYAXKz1zL49aY4yJH4-PYa5O5lXUt3z6rP3Knqn-3zwcE7mJWUIhKR3rCYdlvsoRH9hOIltLhFdpszr6u3OxYY5td0I9JL-XE3GudG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPO0Eqklozy281W0S_nz8MzFgU1juZyeo77vuA8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO7RFjTtFPMp173f0cSvTdNr7XY2dx_6PEHRTdf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMHAoWvksCgrjS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMHAoWvksCgrjSBTIUiXKM4KXWAGJh7094Zajfd=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5304519,
+      "lng": 73.847651,
+      "label": "Best Multispeciality Hospital in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "citycare-medical-center-pimpri-chinchwad",
+    "name": "CityCare Medical Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CityCare Medical Center is a prominent hospital in Pimpri-Chinchwad, known for structured tertiary care across Spine Neurosurgeon In Pune. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pimpri-Chinchwad.",
+    "email": "",
+    "phone": "098905 88303",
+    "alternatePhone": "",
+    "website": "https://www.citycaremedicalcenterpune.com/",
+    "address": "The Address Commercia,Shop No 301-304, Sayaji Hotel, Service Rd, above HDFC Bank, Hinjawadi, Pimpri-Chinchwad, Maharashtra 411057",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Hinjawadi",
+    "landmark": "Sayaji Hotel",
+    "emergencyContact": "098905 88303",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFt7viiFztmo4ShFIWTo5WZjUklqf5Dsquqyor935b62RW3n4H81-zZV32ZEqkKW8qrIyT_dcHvj9XhxHQQQ30VjG0D03LOLmfZsr6dCdJP-fMJGe8RNg7y6zt6ekrv15NpDO443g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFt7viiFztmo4ShFIWTo5WZjUklqf5Dsquqyor935b62RW3n4H81-zZV32ZEqkKW8qrIyT_dcHvj9XhxHQQQ30VjG0D03LOLmfZsr6dCdJP-fMJGe8RNg7y6zt6ekrv15NpDO443g=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5939021,
+      "lng": 73.7569883,
+      "label": "CityCare Medical Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cns-brain-and-spine-hospital-pune",
+    "name": "CNS Brain & Spine Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CNS Brain & Spine Hospital has built a strong reputation in Pune for multidisciplinary treatment pathways covering Spine Neurosurgeon In Pune, Neurosciences, and Spine Care. The facility stands out for Google rating 3.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.cnsclinicindia.com/",
+    "address": "Mukai Nagar, Khadakwasla, Pune, Maharashtra 411024",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411024",
+    "locality": "Khadakwasla",
+    "landmark": "Pune",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Pune",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH68iOerv0F_7drVgeTpCSR-nH26vhJzx-xBhxVzf7vL3smX-Zak7PCNd_dD4LTnksv0EiSg-3PoqV5MiJIkKZ77vGOvCvIun8Vjqk8e3aEWPneFQmdLP0NmyjTPwJuGDZC_lY=w1200-h900-p-k-no",
+    "logo": "https://www.cnsclinicindia.com/assets/img/sancheti-hospital_CNSClinic.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH68iOerv0F_7drVgeTpCSR-nH26vhJzx-xBhxVzf7vL3smX-Zak7PCNd_dD4LTnksv0EiSg-3PoqV5MiJIkKZ77vGOvCvIun8Vjqk8e3aEWPneFQmdLP0NmyjTPwJuGDZC_lY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.4429658,
+      "lng": 73.7809335,
+      "label": "CNS Brain & Spine Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "deccan-hardikar-hospital-pune",
+    "name": "Deccan Hardikar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Deccan Hardikar Hospital is a prominent hospital in Pune, known for structured tertiary care across Kidney Transplant Surgery In Pune. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "077579 64091",
+    "alternatePhone": "",
+    "website": "https://www.deccanhospital.in/",
+    "address": "1160/61, University Rd, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "Shivajinagar",
+    "emergencyContact": "077579 64091",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEKZEoHgSH6uqJbpVFnE3ickUW8z6FRXSL642UkzY6GL3cn267AiKQs8wRh1DgdJr3rDe2VdqqPt-QJs60bMjSTZf1tJqeKIm9s_-mJn9aBQ7L0rBSmjsodPqShGuntnM3aurnCAg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEKZEoHgSH6uqJbpVFnE3ickUW8z6FRXSL642UkzY6GL3cn267AiKQs8wRh1DgdJr3rDe2VdqqPt-QJs60bMjSTZf1tJqeKIm9s_-mJn9aBQ7L0rBSmjsodPqShGuntnM3aurnCAg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPZSBlbOmr3CpMPITuIafDtHtuKyyRohM8w4PMT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNbq9HJ44ttX9Lllg6J24GVHeJUtj51mRXjbwrf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMgPFngZrwj_s71991QkD484uFF-VrEROHiB5Ca=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOHz1ywbyuw5CRTUWqFL_Qfkc_4MPcAxgXjCNwZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5304104,
+      "lng": 73.8474815,
+      "label": "Deccan Hardikar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "deenanath-mangeshkar-hospital-and-research-center-pune",
+    "name": "Deenanath Mangeshkar Hospital and Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Deenanath Mangeshkar Hospital and Research Center brings together specialists for Kidney Transplant Surgery In Pune. With public-facing highlights like Google rating 3.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "020 4015 1000",
+    "alternatePhone": "",
+    "website": "https://www.dmhospital.org/",
+    "address": "near, Mhatre Bridge, Vakil Nagar, Erandwane, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Erandwane",
+    "landmark": "Vakil Nagar",
+    "emergencyContact": "020 4015 1000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0B2DqmpCPid-q0CWpgX3I7KAWlGzXs5WbYk5z-WdQXtgkCWK6Xlsg4-z4hG6b2krae42xthMXgEZjfKQ_-i5_jJ4xzjQ6a4Sc__9z8_z6Djp8dJNY3ANQ5ph7bJFWSuYNj-uq=w1200-h900-p-k-no",
+    "logo": "https://www.dmhospital.org/cms/Media/image/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0B2DqmpCPid-q0CWpgX3I7KAWlGzXs5WbYk5z-WdQXtgkCWK6Xlsg4-z4hG6b2krae42xthMXgEZjfKQ_-i5_jJ4xzjQ6a4Sc__9z8_z6Djp8dJNY3ANQ5ph7bJFWSuYNj-uq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHygJ1d2IlQk4HN4doqwzoaLVnRqbZZ1xhVzmT3K4DtEZB9JYSbm7gATlWK66OSe0iQP_wvRH4uFFrGtKlNNm_cc_ZTNQhmcHGXqYcvrnuzjwrib1FwZFuOkCQG8MSlDrBM3eo1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqqb7EMa_UqLXbVsUC85fJVROb8-lukJK962n6sqYL_DjNJNtbudZtJPFWCquIuLYcEFL57oM36MSTTfRBs5jqwzIfJvPrwnhqjueKwajlfdU1abb_Ey0uIV6PzXhk4toYD_zQKabc2v1n=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2CA5kZvUpO0e8NhujIknnMDL7W7dzI5_5tZqG_wVyZEJUZ72bvzU8sKVtMevLnd_UhRtuZpIMzxJMe3kLsrz_pU1I4pNJhOoQUcbvHHe2mvImtzyyokgASaHPTa70mvZjcBuLXC-pFq8C=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUdc1-nppos-7toUfYQklnclIuWIm3kTPQj0mcXWFD_EMTb1fb4gEClQboyA6zugpxM9TurmXnQhsBsK6JrSBBoctoAZTZ2hW5KUevrMNWPZNCBpDMq56S_aJhIsfmRgkbs54t=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5019218,
+      "lng": 73.8330013,
+      "label": "Deenanath Mangeshkar Hospital and Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fabiani-and-budhrani-heart-institute-pune",
+    "name": "Fabiani & Budhrani Heart Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Fabiani & Budhrani Heart Institute has built a strong reputation in Pune for multidisciplinary treatment pathways covering Heart Surgery In Pune and Cardiac Care. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Ln, Vasani Nagar, Koregaon Park, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Koregaon Park",
+    "landmark": "Koregaon Park",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQp85jAomDg8kWussVPoRAGAYzAsiGgX2XA1T-sxi5TT2Xsx3oYOZnIRKqlrKVgkLVQ4OH53UEFl3qjdimU9jC5boZe1WN6Esu8BKWgqvZwrOEFCD4j1BocbfAqHHchk97jMw1=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQp85jAomDg8kWussVPoRAGAYzAsiGgX2XA1T-sxi5TT2Xsx3oYOZnIRKqlrKVgkLVQ4OH53UEFl3qjdimU9jC5boZe1WN6Esu8BKWgqvZwrOEFCD4j1BocbfAqHHchk97jMw1=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5343525,
+      "lng": 73.8874897,
+      "label": "Fabiani & Budhrani Heart Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ghaisas-ent-hospital-and-rhinoplasty-centre-pune",
+    "name": "Ghaisas ENT Hospital & Rhinoplasty Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ghaisas ENT Hospital & Rhinoplasty Centre is a prominent hospital in Pune, known for structured tertiary care across Plastic Surgery In Pune. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "096077 72233",
+    "alternatePhone": "",
+    "website": "http://www.ghaisashospital.com/",
+    "address": "1248 B, NH 753F, Next to Raymond Showroom, Pulachi Wadi, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Deccan Gymkhana",
+    "landmark": "Next to Raymond Showroom",
+    "emergencyContact": "096077 72233",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfkLImpwOLcW4HR2MFOOzBOHFlWShu3esld4j_w1AcOn_spLVG1IuaY7tVN5iSlF2B7P7dpkjFGo4NCRHuo_zkA0DJRwnSGtogPJAgZUlf1gqVyXRJf2e3g943_75uw7e8xS6Uc19ZSzDs=w1200-h900-p-k-no",
+    "logo": "https://ghaisashospital.com/wp-content/uploads/2025/03/Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfkLImpwOLcW4HR2MFOOzBOHFlWShu3esld4j_w1AcOn_spLVG1IuaY7tVN5iSlF2B7P7dpkjFGo4NCRHuo_zkA0DJRwnSGtogPJAgZUlf1gqVyXRJf2e3g943_75uw7e8xS6Uc19ZSzDs=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5173141,
+      "lng": 73.8423221,
+      "label": "Ghaisas ENT Hospital & Rhinoplasty Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gurukrupa-spine-clinic-pune",
+    "name": "Gurukrupa Spine Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gurukrupa Spine Clinic is a prominent hospital in Pune, known for structured tertiary care across Spine Surgery In Pune and Spine Care. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "086682 41591",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Devgiri, 2nd floor, Sinhgad Rd, Above The Raymond Shop, Corner of Dattawadi, Sarita Vihar, Dattawadi, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Dattawadi",
+    "landmark": "Sinhgad Rd",
+    "emergencyContact": "086682 41591",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Pune",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEalzsl8h6QdxZa4u3ce5JSFZj11trPVvPfJxEXnqQN_fBZX1L1UKRHIpp5f6_GDsAd1sITykI-WPKvYnlU4tyJxl-4b7E30Yf7jwQKEBE6yUjjavUIhXtUvfdACM_yOWwIwwBcFw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEalzsl8h6QdxZa4u3ce5JSFZj11trPVvPfJxEXnqQN_fBZX1L1UKRHIpp5f6_GDsAd1sITykI-WPKvYnlU4tyJxl-4b7E30Yf7jwQKEBE6yUjjavUIhXtUvfdACM_yOWwIwwBcFw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.4956621,
+      "lng": 73.8375051,
+      "label": "Gurukrupa Spine Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "healing-hands-clinic-baner-pune",
+    "name": "Healing Hands Clinic Baner",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Healing Hands Clinic Baner delivers integrated care across Plastic Surgery In Pune. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "088886 22221",
+    "alternatePhone": "",
+    "website": "https://www.healinghandsclinic.co.in/pune-location/baner/",
+    "address": "1st floor, Crystal empire building, Lane Number 2, opp. Hotel Sadanand, next to AMAR BUSINESS PARK, Laxman Nagar, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "Lane Number 2",
+    "emergencyContact": "088886 22221",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwGyTqzQhQPUfmXw8LSA0PZ02Q5UoGFehgny6mdLPKHx2enBy92CblIZaj2HrQblnbLrReRZkcOzqjn1Vn6otzi-9nxhoGgh5YxhAbJzNaOZmrPkGkWco7HQzgUJhR4msjj5Zf=w1200-h900-p-k-no",
+    "logo": "https://www.healinghandsclinic.co.in/images/LP/HHC-LOGO.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwGyTqzQhQPUfmXw8LSA0PZ02Q5UoGFehgny6mdLPKHx2enBy92CblIZaj2HrQblnbLrReRZkcOzqjn1Vn6otzi-9nxhoGgh5YxhAbJzNaOZmrPkGkWco7HQzgUJhR4msjj5Zf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMDQ2CK8j-v3tufrFH2SN2iqzpy7kY80yr0ba95=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPo7DTIJyoWzOKncSdgslM1RPcpRBi7bm1GguWO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOuepoDYJpqiFv1TJzDo-kV-ch6K0sPKODmY7il=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO1zLz1lwgLyRnxkradPMNxVTpxVYPh4buxd9HR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5679952,
+      "lng": 73.76853,
+      "label": "Healing Hands Clinic Baner",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "horizon-plastic-surgery-and-eye-care-pune",
+    "name": "Horizon Plastic Surgery and Eye Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Horizon Plastic Surgery and Eye Care brings together specialists for Plastic Surgery In Pune. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "088307 59510",
+    "alternatePhone": "",
+    "website": "http://horizonhospitalpune.com/",
+    "address": "1st Floor, F building, Ganga Altus, Horizon Eye & Plastic surgery center, Mundhwa - Kharadi Rd, Kharadi, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Kharadi",
+    "landmark": "Ganga Altus",
+    "emergencyContact": "088307 59510",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8G5lEkCIfMQ5720VmYalZZYpnYjBP4YYS5q-Ejj1EeRWdBSTVVvKRGJnxYdLCtbUwI5wqYIb52wQ7eVqZs3yHWkPELHe7Nmeob7ie4CYNyy8aqpJQB6ZQj15GkDi948bCAeTV=w1200-h900-p-k-no",
+    "logo": "http://horizonhospitalpune.com/wp-content/uploads/2020/04/cropped-PAD_03-page-001-removebg-preview-32x32.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8G5lEkCIfMQ5720VmYalZZYpnYjBP4YYS5q-Ejj1EeRWdBSTVVvKRGJnxYdLCtbUwI5wqYIb52wQ7eVqZs3yHWkPELHe7Nmeob7ie4CYNyy8aqpJQB6ZQj15GkDi948bCAeTV=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5423277,
+      "lng": 73.9369879,
+      "label": "Horizon Plastic Surgery and Eye Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "inamdar-multispeciality-hospital-pune",
+    "name": "Inamdar Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Inamdar Multispeciality Hospital brings together specialists for Oncologist Surgery In Pune and Speciality Care. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "020 6681 2222",
+    "alternatePhone": "",
+    "website": "https://www.inamdarhospital.com/",
+    "address": "building s No, Inamdar Hospital, 15, Vitthal Rao Shivarkar Rd, Fatima Nagar, Wanowrie, Pune, Maharashtra 411013",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411013",
+    "locality": "Wanowrie",
+    "landmark": "15",
+    "emergencyContact": "020 6681 2222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUKRCbKEJPF4mSghqJ76tiVdSI0VTY5YX8YPON3O62qmMZn_lU3hF40mgM3Nc8aaJ4M229mzICPcBMqOYUOEigKlNOSEHbxMYAEAHOHxUf4gGf8Nd0cHsYn0j1kIpdWqo_kZ4j=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUKRCbKEJPF4mSghqJ76tiVdSI0VTY5YX8YPON3O62qmMZn_lU3hF40mgM3Nc8aaJ4M229mzICPcBMqOYUOEigKlNOSEHbxMYAEAHOHxUf4gGf8Nd0cHsYn0j1kIpdWqo_kZ4j=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMt61EhTb4HctotxHPeJXnT3y-1orJBzxUaGVYp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNkZM7dVreEi06NNXRc3oFz7wiN_kYYLwohwNLZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMzcG_0tgiuwM74kmkwf4DKoSHOFtipNemloSgZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNfbsg7M6134E_p3vthrOktu2X_N-VF0mnmCxvh=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5030996,
+      "lng": 73.9000987,
+      "label": "Inamdar Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jehangir-hospital-pune",
+    "name": "Jehangir Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Pune, Jehangir Hospital delivers integrated care across Urologist Surgery In Pune. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "020 6681 8801",
+    "alternatePhone": "",
+    "website": "http://www.jehangirhospital.com/",
+    "address": "32, Sasoon Rd, opposite Railway Station, Central Excise Colony, Sangamvadi, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Sangamvadi",
+    "landmark": "opposite Railway Station, Central Excise Colony, Sangamvadi, Pune, Maharashtra 411001",
+    "emergencyContact": "020 6681 8801",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAESUvF5r9RN0J317M5wsjQFfGzu2StL6OXuJcFWY_gZpnw8D8KTX6_XxztxvjIY3RSTzPJG65TElVxDNoEqVcdi1zFK5sQID04eWZN-gAV6RANS0jnGN1W-GSwZFNygoUNOXX9P18XmqRI=w1200-h900-p-k-no",
+    "logo": "https://www.jehangirhospital.com/wp-content/themes/i-excel/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAESUvF5r9RN0J317M5wsjQFfGzu2StL6OXuJcFWY_gZpnw8D8KTX6_XxztxvjIY3RSTzPJG65TElVxDNoEqVcdi1zFK5sQID04eWZN-gAV6RANS0jnGN1W-GSwZFNygoUNOXX9P18XmqRI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiSlDydSea9iE6Y3Jv4_7c0ETSqPSfvkOO34RAzWf3DpPV8wXV-8FDsuiqthsT2HJcjPFWe8sgVQdjavJxrN1Fhs3IUKZwawPFJNCfHjEy_4vnbQQb_gB-Wjx_CmHUZ1DaXeo=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhtoM8uiPAEQKwwZBJznv_3Nck-3OhhrlFexpNVms79SeKiyFMAVph7c4gnsqEGq-lQkAQeLoE_Ah5rw-_Ip2K0sIy-jXrxsXCVyG0wS1KOM_MfMMbS2niu4Oq1wCdZfhcDyHKipxull5t=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDNCZvn3D6e9i4OSOPSn0VUzf6_kE-TPb3jt3FIY8mepNbCg9-CzpeR7wN7XIaEGD4vndhF96z9kATj2T7tGf5uPHYVz6Ui_sATRfW5DUIftbB7RygO7QA-zR4fnvBbNiIufEq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEV1dky3Hneki-tScR88lcRATi_-yywhnkNGBBIsY6X3ehGHDt9RQ68gaj-6yeCcbx7jEXSpvUC_UH6Wpo70wqAFeiy95D6YB_bKcXM8JK0cWWur-dkNWRQcv4DXrxNUjJe4wfJbA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5303207,
+      "lng": 73.8768111,
+      "label": "Jehangir Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jupiter-hospital-pune",
+    "name": "Jupiter Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Jupiter Hospital delivers integrated care across Kidney Transplant Surgery In Pune. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "020 6637 5555",
+    "alternatePhone": "",
+    "website": "https://www.jupiterhospital.com/pune",
+    "address": "Prathamesh Park, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "Pune",
+    "emergencyContact": "020 6637 5555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGE-3lT1hFwEb4xhgMiRrBLblr2iNkFTb1_aDySY-TSjh-yBUjZ4tPK9QzWJCOJ2vwuguN74tcvEnRJhqFt2U8qa1an-UU7WQ6B6Uij-QiPalEsZNI5AOSTcFx8M1EFVE-kMfEuHQ=w1200-h900-p-k-no",
+    "logo": "https://www.jupiterhospital.com/wp-content/uploads/2022/12/jupiter-hospital-2.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGE-3lT1hFwEb4xhgMiRrBLblr2iNkFTb1_aDySY-TSjh-yBUjZ4tPK9QzWJCOJ2vwuguN74tcvEnRJhqFt2U8qa1an-UU7WQ6B6Uij-QiPalEsZNI5AOSTcFx8M1EFVE-kMfEuHQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQWIltxWOYZ3_NKK64727oOZlrXWJ2r1HJ_-gc2rdD0VU4vEMokuofImKM1om1mLhn2g2kNL5SkheXmXxqM3anIR_esiTFuzhSqMYg5cHoyDrwcTNAm6hcmHNd1wnwcjhJtNA2Xw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9qoAvdYKSnHdOXYNW5zVuQ0sNz7CXFPd7RpK_EFG5GEDATCTQ4el1mHLzQO5RhV38hj5RFqT9rvf9agykvXahISF9dcDkFeNRCejmk7ozFzhupghF63MAI4uvdR-Cg_r5PuDUNpl605I=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGC_AIlzKwoJ5dqolseF0l4uZ6tf1InR5iPhRGCKZvO4VhXv5qI69nTnNcGrNi6t1I8IDexLK9WqWCN2Ak5no65nQbW2NYct9cv6V6n7cIYSqe-K2ia8uJLVadAKAfS8VE4bFIzPsMuf0qh=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHunp0yRK5gUN5-AHCdArAcJEqsZd0loXwG_D_flmqd0NjPhtGzcbFbABlN4UOrVh3RRoIsq63wX7KioTVk2ORVZpNZByIJyi6fMBBJZYdVUBkzqi3H9-vdiLbn-cWayTLjtuJ17Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5653865,
+      "lng": 73.7860505,
+      "label": "Jupiter Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kedarnath-general-hospital-pune",
+    "name": "Kedarnath General Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Kedarnath General Hospital for its strength in General Surgery In Pune. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "098239 14228",
+    "alternatePhone": "",
+    "website": "https://kedarnathhospital.co.in/",
+    "address": "Kedarnath General Hospital (Vishrantwadi), Tirupati Complex, Opp. Mahalaxmi Vihar, Pune- Alandi Road, Vishrantwadi, Pune-411015. Phone:, 20A, St Dnyaneshwar Rd, near Corporation Bank, Kasturba Housing Society, Vishrantwadi, Pune, Maharashtra 411015",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411015",
+    "locality": "Vishrantwadi",
+    "landmark": "near Corporation Bank, Kasturba Housing Society, Vishrantwadi, Pune, Maharashtra 411015",
+    "emergencyContact": "098239 14228",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFucbSjugeNxsbV6nsHvUapf5XAhVGfzeHOedZIsnhTVMBcqyLqmpJ4Fjgu7AZ_ZV75052eLNYUsZEpmSpshEX3D2w7EAsipq2imvdiD23ykHtnClFhtzdDDRZXzksUnHG2glM=w1200-h900-p-k-no",
+    "logo": "https://kedarnathhospital.co.in/wp-content/uploads/2022/06/cropped-new_logo-32x32.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFucbSjugeNxsbV6nsHvUapf5XAhVGfzeHOedZIsnhTVMBcqyLqmpJ4Fjgu7AZ_ZV75052eLNYUsZEpmSpshEX3D2w7EAsipq2imvdiD23ykHtnClFhtzdDDRZXzksUnHG2glM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5722343,
+      "lng": 73.8786954,
+      "label": "Kedarnath General Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kem-hospital-pune",
+    "name": "KEM Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Pune, KEM Hospital delivers integrated care across Kidney Transplant Surgery In Pune. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "020 6603 7300",
+    "alternatePhone": "",
+    "website": "https://kemhospitalpune.org/",
+    "address": "489, Mudaliar Rd, Rasta Peth, Pune, Maharashtra 411011",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411011",
+    "locality": "Rasta Peth",
+    "landmark": "Rasta Peth",
+    "emergencyContact": "020 6603 7300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8Cy-fkQb3TBFDV1vhwEOaXhIUh2_6DZtIZu3IrGCabps50pqi4i59d3QqtfUWGMLHHUHMMyHnDAeRWPghPkw40nIJU-z4s7-GixiZMAij1kWVYfqYS-66Oshdt2H1PyPMsrhABw=w1200-h900-p-k-no",
+    "logo": "https://www.kemhospitalpune.org/wp-content/uploads/2020/07/KEM-Logo1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8Cy-fkQb3TBFDV1vhwEOaXhIUh2_6DZtIZu3IrGCabps50pqi4i59d3QqtfUWGMLHHUHMMyHnDAeRWPghPkw40nIJU-z4s7-GixiZMAij1kWVYfqYS-66Oshdt2H1PyPMsrhABw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXeZlp48N6b5VbPdIeOBPBOrYd0xEh4xZS_PpSP-p6mDlBm0gyiNJ3DuzB2mHcJy4ZrN-OUMdroAumtBC7vZ4OvVT76e_lJJugEua_XEhy9t7DYjSmgmLs-gPu40E5i_LV-Ry2fw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_9c6YyPlBrVd4BPFoLqMJ--kp7d0F36Uqp6wQmi5ERSLX-memn6amloooRiKO5MAiCdu1280hhjw0E3JLDV83jIr-lj8c6XIEltltL7ZG9HvYzOIkbcJC34qd_451-4ztYnI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHhK1um3Vw0q_i9PNCHJdioDeIQAFfAAEt0WIh0NpmD5e5Q87y54g7JiHio41HScp421lpI4VaMbHZRQAQ-492OicHGnyit4pDF9CuP0nEj3YdODB2EtSywmM6Fy-F1_SGQJCU9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEn400de6owjcvHxvkNeRLk4pC2EwKK1DnPXWTqb2BelagDw3D_WN9mlkpkvXrRNIp2XsfOv3l0Pe7MYx6vo1MZ5bfr5hxS6o4c72sHIwkBBXBKVdu31lU_p5kREgxW3gckMi5fpRW0FWw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5199723,
+      "lng": 73.8669765,
+      "label": "KEM Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kidney-and-urology-super-speciality-institute-hospital-pune",
+    "name": "Kidney And Urology Super Speciality Institute Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Kidney And Urology Super Speciality Institute Hospital offers coordinated hospital care with major focus on Urologist Surgery In Pune, Kidney Care, and Speciality Care. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "088883 47347",
+    "alternatePhone": "",
+    "website": "https://kidneyandurology.org/",
+    "address": "Kidney & Urology Super-Speciality Institute Bhosale Avenue, Survey 148, Magarpatta Rd, above Deccan Honda Showroom, opp. South Gate, Hadapsar, Pune, Maharashtra 411028",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411028",
+    "locality": "Hadapsar",
+    "landmark": "Magarpatta Rd",
+    "emergencyContact": "088883 47347",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Pune",
+      "Kidney Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFoXU7iAznh-fw3OZ5VWa-s-Kbuypyan4k5gHG8byehoJU0U_aSEmtKX5ttWV03-wC_PDzW0SSfr19_aSjzsdWyWic9gZexE3dT3wrKYv6RrTuHb77HxY0DGXxlbmnyIcXUBZOzuw=w1200-h900-p-k-no",
+    "logo": "https://kidneyandurology.org/wp-content/uploads/2023/07/Kidney-and-Urology-Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFoXU7iAznh-fw3OZ5VWa-s-Kbuypyan4k5gHG8byehoJU0U_aSEmtKX5ttWV03-wC_PDzW0SSfr19_aSjzsdWyWic9gZexE3dT3wrKYv6RrTuHb77HxY0DGXxlbmnyIcXUBZOzuw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOTBw1rnWLX3uYRbMUKVsI6trc1wLHvYP4Ihz0y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNybsMTzhSykcEec8HPkYF57hd5Le94P531oPa2=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOTlPahTx_xCy3yWIiGn4UPMd9yYO6WinLrwufp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNRhdzMfhsokM0g0zUk_9krxkvI2ruR1vhn61wJ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5091371,
+      "lng": 73.9307456,
+      "label": "Kidney And Urology Super Speciality Institute Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kush-neuro-cardiac-hospital-wakad-near-hinjewadi-flyover-aundh-wakad-road-wakad",
+    "name": "Kush Neuro Cardiac Hospital Wakad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kush Neuro Cardiac Hospital Wakad has built a strong reputation in Near Hinjewadi Flyover Aundh wakad Road Wakad for multidisciplinary treatment pathways covering Neurosurgeon In Pune, Cardiac Care, and Neurosciences. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Near Hinjewadi Flyover Aundh wakad Road Wakad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://knch.hospital/",
+    "address": "kush Neuro cardiac hospital chandan colozium, Above Reliance Digital ,, Near Hinjewadi Flyover Aundh wakad Road Wakad, Maharashtra 411057",
+    "city": "Near Hinjewadi Flyover Aundh wakad Road Wakad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Above Reliance Digital",
+    "landmark": "Near Hinjewadi Flyover Aundh wakad Road Wakad, Maharashtra 411057",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Pune",
+      "Cardiac Care",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYYxdVfniS6ylWqX7ugr139pYw9EKbi2vnHzEH-SrvYbWseiA8wRuYyLo9i6cdKExSACtSqNuB7zPjsUqsHoweoncFNteCvlLpKETO7Mxa1Gj-q6kbMe8yB02P_cbZ6SlMIHCx=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYYxdVfniS6ylWqX7ugr139pYw9EKbi2vnHzEH-SrvYbWseiA8wRuYyLo9i6cdKExSACtSqNuB7zPjsUqsHoweoncFNteCvlLpKETO7Mxa1Gj-q6kbMe8yB02P_cbZ6SlMIHCx=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5909239,
+      "lng": 73.7663945,
+      "label": "Kush Neuro Cardiac Hospital Wakad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "laparo-obeso-centre-loc-super-speciality-hospital-pune",
+    "name": "Laparo Obeso Centre | LOC Super Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Laparo Obeso Centre | LOC Super Speciality Hospital delivers integrated care across Plastic Surgery In Pune and Speciality Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "080 6542 3036",
+    "alternatePhone": "",
+    "website": "https://www.pristyncare.com/pune/hospital/pristyn-care-loc/?utm_source",
+    "address": "LOC, 2143, Chowk, next to Hotel Kaveri, Vijayanagar Colony, Sadashiv Peth, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Sadashiv Peth",
+    "landmark": "Chowk",
+    "emergencyContact": "080 6542 3036",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEl6P1mWtu_sNJn3P8NdOraNp5uAhLn7erQNM7F-lyqgzwoul0N-0jZdulZJxoyIhrPaEAwUc8dBFqJ2zPrwsBGSnLxG8iKsfygKA2cMNN1j9vYD51WEvUGcFHbpzcs3DGC5rsMql9RjPY=w1200-h900-p-k-no",
+    "logo": "https://www.pristyncare.com/blog/wp-content/uploads/2021/01/pristyn-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEl6P1mWtu_sNJn3P8NdOraNp5uAhLn7erQNM7F-lyqgzwoul0N-0jZdulZJxoyIhrPaEAwUc8dBFqJ2zPrwsBGSnLxG8iKsfygKA2cMNN1j9vYD51WEvUGcFHbpzcs3DGC5rsMql9RjPY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMTjBfQiygT1vwHDHCKqIJXAW_imYD3632ADK0S=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOS42AN63hbv6YqEyct8EwB_ZWMuWjJhDOfOIt4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM1Lr5AfkbC-owDJ-FrnAFNcWt5n_rpSyjeQCqR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNORGyccwZ5utuooeHm9eaGw53nFs_huaUyfgLt=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5044069,
+      "lng": 73.8517157,
+      "label": "Laparo Obeso Centre | LOC Super Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lokmanya-hospital-nigdi-pune",
+    "name": "Lokmanya hospital Nigdi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Lokmanya hospital Nigdi brings together specialists for Spine Surgery In Pune. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098811 42101",
+    "alternatePhone": "",
+    "website": "https://lokmanyahospitals.com/",
+    "address": "Sector 27, Tilak Rd, Sector No. 24, Pradhikaran, Nigdi, Pune, Pimpri-Chinchwad, Maharashtra 411044",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411044",
+    "locality": "Nigdi",
+    "landmark": "Sector No. 24",
+    "emergencyContact": "098811 42101",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLH1kXndLZJsoiCYzPN1AuSlJGH2vcxhZHGXtFzMiPJGB64k1ntV4ogYM28fXoQUPCIcuAj91VJTOHY04t6538QMsqmRDfe7E-6kEoXQy39YZRCrBKNhRHYHbk88FKkDTa5-v39A=w1200-h900-p-k-no",
+    "logo": "https://lokmanyahospitals.com/images/new-theme/lokmanya-new-png-logo-nw.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLH1kXndLZJsoiCYzPN1AuSlJGH2vcxhZHGXtFzMiPJGB64k1ntV4ogYM28fXoQUPCIcuAj91VJTOHY04t6538QMsqmRDfe7E-6kEoXQy39YZRCrBKNhRHYHbk88FKkDTa5-v39A=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGivFcr7ZpCKjSUvMOhuCoV0dGUkeCVvtkvM4cLaoMG-YETXax-TBdS09U6AxOnNT2gGKB-UZW5afQXJ1hs1FaBeEErvJWSXqUTVMu77gec9-j_2NWzNl7W4KUjUNf5lMtWIcAB=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.6559512,
+      "lng": 73.7733794,
+      "label": "Lokmanya hospital Nigdi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lopmudra-meera-multispeciality-hospitals-pune",
+    "name": "Lopmudra Meera Multispeciality Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lopmudra Meera Multispeciality Hospitals is a prominent hospital in Pune, known for structured tertiary care across Kidney Transplant Surgery In Pune and Speciality Care. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "080871 22022",
+    "alternatePhone": "",
+    "website": "https://lopmudrahospitals.com/",
+    "address": "710, 710, Shankar Sheth Rd, Chitragupt Colony, Shanti Nagar Society, Katad Khana, Pune, Maharashtra 411042",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411042",
+    "locality": "Katad Khana",
+    "landmark": "Shankar Sheth Rd",
+    "emergencyContact": "080871 22022",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-RZNzLhapjlTkRvOYCLmSTo34IUc9v4XbRtrDL99aqwmORGaCwtods46s6_yF4zrJ5094OBURg5xhAUlLLsTxsjWAXNXEXNcUszyXefTZIuR7W68bsotx0ZrC9iLGUsBTU82MqHDcIOT0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-RZNzLhapjlTkRvOYCLmSTo34IUc9v4XbRtrDL99aqwmORGaCwtods46s6_yF4zrJ5094OBURg5xhAUlLLsTxsjWAXNXEXNcUszyXefTZIuR7W68bsotx0ZrC9iLGUsBTU82MqHDcIOT0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5021962,
+      "lng": 73.8746952,
+      "label": "Lopmudra Meera Multispeciality Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lotus-speciality-hospital-pune",
+    "name": "Lotus Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lotus Speciality Hospital has built a strong reputation in Pune for multidisciplinary treatment pathways covering Gynecologist Surgery In Pune and Speciality Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://lotushospitalwagholi.com/",
+    "address": "Paygude Hight, 1st Floor., Baif Rd, Above canara bank, Opposite moze college, Wagholi, Pune, Maharashtra 412207",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "412207",
+    "locality": "Wagholi",
+    "landmark": "Opposite moze college, Wagholi, Pune, Maharashtra 412207",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGn3yLlJcE72Y4s3CoGtYb2-8Ujm4h-OazyvX2_DtdGjFR_jFi8CVwMqVsNejd3YMNX31jyoWncnDr8Unz58TBAla92pJDxiE253nQqdz6M4kPSHHG8Q358Q-V-IwlTjGpwU0ug=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGn3yLlJcE72Y4s3CoGtYb2-8Ujm4h-OazyvX2_DtdGjFR_jFi8CVwMqVsNejd3YMNX31jyoWncnDr8Unz58TBAla92pJDxiE253nQqdz6M4kPSHHG8Q358Q-V-IwlTjGpwU0ug=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5788156,
+      "lng": 73.9792104,
+      "label": "Lotus Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-and-panchakarma-center-sinhgad-road-pune-pune",
+    "name": "Madhavbaug – Ayurvedic Cardiac Care Clinic & Panchakarma Center (Sinhgad Road, Pune)",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Madhavbaug – Ayurvedic Cardiac Care Clinic & Panchakarma Center (Sinhgad Road, Pune) for its strength in Heart Surgery In Pune and Cardiac Care. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "093735 34353",
+    "alternatePhone": "",
+    "website": "https://madhavbaug.org/clinic/sinhgad-road-pune/?utm_source",
+    "address": "Flat No. 3, 1st Floor, Aaditya co-op Housing Society Anand nagar chowk, Sinhgad Rd, near Santosh Hall, Pune, Maharashtra 411051",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411051",
+    "locality": "near Santosh Hall",
+    "landmark": "near Santosh Hall, Pune, Maharashtra 411051",
+    "emergencyContact": "093735 34353",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcvvjH0w1kO1pZDKfmHT6AafUDQ1JOjMu0LIx5h7hpyAXXhY4WMcqH0_fCGMVZafJ1kusTox6zXhxJu-zZ-O1lVcNoSC5iGQSvuKEKW4_l4wYqOTcp9duQZdCmbj4fTwrzuzQYhUZm6J4o=w1200-h900-p-k-no",
+    "logo": "https://madhavbaug.org/wp-content/uploads/2025/01/madhavbaug-logo-new-750.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcvvjH0w1kO1pZDKfmHT6AafUDQ1JOjMu0LIx5h7hpyAXXhY4WMcqH0_fCGMVZafJ1kusTox6zXhxJu-zZ-O1lVcNoSC5iGQSvuKEKW4_l4wYqOTcp9duQZdCmbj4fTwrzuzQYhUZm6J4o=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOeEWrZLSjBxmcZUB56DuZAWqteMQZxrTvhbTl4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNf10T1wtOYc9sOlXhfqailxyr3qZIBo05TiEcO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN-mR0x1DBfmG2xkqBC3A4sjNeKrx4bHxAkymSO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPKk5pmwcfLhTVguftJrLks9I21Z74C0j8c9IUZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.4779696,
+      "lng": 73.8240274,
+      "label": "Madhavbaug – Ayurvedic Cardiac Care Clinic & Panchakarma Center (Sinhgad Road, Pune)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manipal-hospital-kharadi-pune-pune",
+    "name": "Manipal Hospital, Kharadi - Pune",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Pune, Manipal Hospital, Kharadi - Pune delivers integrated care across Kidney Transplant Surgery In Pune. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "020 6165 6666",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/kharadi/",
+    "address": "22/2A, Mundhwa - Kharadi Rd, near Nyati Empire, Santipur, Thite Nagar, Kharadi, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Kharadi",
+    "landmark": "near Nyati Empire, Santipur, Thite Nagar, Kharadi, Pune, Maharashtra 411014",
+    "emergencyContact": "020 6165 6666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2Q-6LuDiZiqa6rkQVfPLmpDZ-a82HrfeP0glOp7_Gq3_ryJgs7KMoq0NDiRW8d2lAZxL2kNWtrx_sCp6zyefJrZhKwJrcyRZxqlOHK0lSX8wZX9VSe-CkuNeAatsUoP1Ve9TMYw=w1200-h900-p-k-no",
+    "logo": "https://www.manipalhospitals.com/kharadi/assets/images/homepage/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2Q-6LuDiZiqa6rkQVfPLmpDZ-a82HrfeP0glOp7_Gq3_ryJgs7KMoq0NDiRW8d2lAZxL2kNWtrx_sCp6zyefJrZhKwJrcyRZxqlOHK0lSX8wZX9VSe-CkuNeAatsUoP1Ve9TMYw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElEs_WiKzSAcqqQezYCLvyUHhmpv1r1x0GLdJKLjpGheDfuzxj3DTtBdWwFe72rfSuGxty00RGW8oTcnrF4gh-JYlkmvQWJBr5t85Oa2DRZ5WYeFv85AebjHoiS6wAqA6Y4pOD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5sASQRb1QIgcE6Dn9M8y5MwBoXyLNICu0JxHkOoTyyfXZ-rAzxU-GyW0eyxDMdCMVfOHHJ3qiEfygautRflb8NGcyqLq0k5l7Hj9p6-WUW7MeK8mdSPo73pqU1G0JjW17cuspHcs_333g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElgtHhig_4GFOzuLdVik3znibLQKBgV5gDp45gAkaVRTSlYV2s5WdTGsCRTXh-3KRTvyi5so3h2DyA6SIRQo62XGF5fci3OyxKz3WSlJxzzczK0MGve9vBTUk5xb7GHOOi0ftUrQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFy9QxhtwwSHEKILad1-qW5uvTgzovp5YrGfzlQdGDKRjiMjXHMQ76RM3lAKCbPchPjHnpBcG0kgHOr17M8wQGBVEnN0N6RUF_GcUb6ZRXvAj12Jkh5L6kkPVtfweUSHT0_LWVLCg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5410783,
+      "lng": 73.935716,
+      "label": "Manipal Hospital, Kharadi - Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medicover-hospitals-best-hospital-in-pune-pune",
+    "name": "Medicover Hospitals - Best Hospital in Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Medicover Hospitals - Best Hospital in Pune for its strength in General Surgery In Pune. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "040 6833 4455",
+    "alternatePhone": "",
+    "website": "https://www.medicoverhospitals.in/hospitals/maharashtra/pune/?utm_source",
+    "address": "Indrayani Nagar Rd, Sector No. 1, Bhosari, Pimpri-Chinchwad, Pune, Maharashtra 411026",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411026",
+    "locality": "Pimpri-Chinchwad",
+    "landmark": "Bhosari",
+    "emergencyContact": "040 6833 4455",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPzbDqzK6DnSP-qDDUm_ueaqVhDreOWPKCZXm-QPCK98R8mcy6utC7Z7hHPp_5H9SEfynLfOCeiIJY7btsiASGdK4vnoXHkF0VG_jI9km6FfNVMawnBzgSviaMPJKjFwsWkD1W2QXNNzYF=w1200-h900-p-k-no",
+    "logo": "https://www.medicoverhospitals.in/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPzbDqzK6DnSP-qDDUm_ueaqVhDreOWPKCZXm-QPCK98R8mcy6utC7Z7hHPp_5H9SEfynLfOCeiIJY7btsiASGdK4vnoXHkF0VG_jI9km6FfNVMawnBzgSviaMPJKjFwsWkD1W2QXNNzYF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNI3X-7RBjpQL3RVNp-Cme6_ZNFHaYYVoJrr5ou=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOlHrKa8rlhmB5uJcPnOCUduTOJKLJBHnebWf5Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMK30cnYd_kq_Opa8IsCVlEvVKwEdEN1G7ujLjO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNn__yhqPNPaCbsKjDdCQ-JotrCqCePWAet9E8P=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.6343975,
+      "lng": 73.84615,
+      "label": "Medicover Hospitals - Best Hospital in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mitosis-hospital-pimpri-chinchwad",
+    "name": "Mitosis Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pimpri-Chinchwad, Mitosis Hospital delivers integrated care across Gynecologist Surgery In Pune. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pimpri-Chinchwad.",
+    "email": "",
+    "phone": "095037 34459",
+    "alternatePhone": "",
+    "website": "https://mitosishospital.in/",
+    "address": "3rd floor, VAASTU VIVA, Bhumkar Das Gugre Rd, near Cafe Coffee Day, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Wakad",
+    "landmark": "near Cafe Coffee Day, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "emergencyContact": "095037 34459",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5bGDVqkDgxNEwFdEvjt1DuMRBkmDSV0RPJwJ2atxbS0eyx_cJYShbQwgsXAOThOpAGWMMd2RbWs7SCZ8VGTPJfvbSsXDhmv-cPPYCtbyc7SSFLrZKGAQshTdRkRP3emIhsuw=w1200-h900-p-k-no",
+    "logo": "https://mitosishospital.in/assets/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5bGDVqkDgxNEwFdEvjt1DuMRBkmDSV0RPJwJ2atxbS0eyx_cJYShbQwgsXAOThOpAGWMMd2RbWs7SCZ8VGTPJfvbSsXDhmv-cPPYCtbyc7SSFLrZKGAQshTdRkRP3emIhsuw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPLapLi8KI4-5E4TpyFLJCawSlMjkKEnnXBJ0MZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNsJpKDvlKQxUk3B5vJaxPaK5RSr5ZaX7uTVTU3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOxIi4t7YZpK73e84R4rrQpSkg8bCuawiJJkQTU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMI-1wH17nzF7HT0Z0KTaXL-K3_f8TgY_dr-41_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.6043787,
+      "lng": 73.7529716,
+      "label": "Mitosis Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mmf-ratna-memorial-hospital-pune",
+    "name": "MMF Ratna Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, MMF Ratna Memorial Hospital offers coordinated hospital care with major focus on Kidney Transplant Surgery In Pune. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "020 6509 7777",
+    "alternatePhone": "",
+    "website": "https://ratnahospital.in/",
+    "address": "968, Senapati Bapat Rd, Shivaji Co operative Housing Society, Rajasthan Society, Gokhalenagar, Pune, Maharashtra 411016",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411016",
+    "locality": "Gokhalenagar",
+    "landmark": "Shivaji Co operative Housing Society",
+    "emergencyContact": "020 6509 7777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSPWPguJbhAwvp7fZfgwpHbviZMpwcUcEgdJsMsRl9GRtV2kYrtZpY-VPdWFDrvNWG0idhCNIwLHjp2ukvzE7r2gvYtrdF7sO7qgMKMEguek3iazRBxibXOd3DOpzG_xmWn0hBa0Q0qbE=w1200-h900-p-k-no",
+    "logo": "https://ratnahospital.in/wp-content/uploads/2023/12/Ratna-Memorial-Hospital-Logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSPWPguJbhAwvp7fZfgwpHbviZMpwcUcEgdJsMsRl9GRtV2kYrtZpY-VPdWFDrvNWG0idhCNIwLHjp2ukvzE7r2gvYtrdF7sO7qgMKMEguek3iazRBxibXOd3DOpzG_xmWn0hBa0Q0qbE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMFZRWUaO7tszFy4xiun9DDhen=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMFZRWUaO7tszFy4xiun9DDhenoT71hfTfK02YH=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO4xfP4jK9p74autqI_1z2_Dp7U8HaIeHdYT4mc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMtRaWA47l71SR5cZTxp1CZj0qqmdRBfdXHdXSm=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5276694,
+      "lng": 73.8295571,
+      "label": "MMF Ratna Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "n-m-wadia-heart-hospital-pune",
+    "name": "N. M. Wadia Heart Hospital",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, N. M. Wadia Heart Hospital brings together specialists for Heart Surgery In Pune and Cardiac Care. Operational strengths including Google rating 3.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "020 6763 6400",
+    "alternatePhone": "",
+    "website": "https://www.nmwcardiology.org/?utm_source",
+    "address": "32, Sasoon Rd, Central Excise Colony, Sangamvadi, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Sangamvadi",
+    "landmark": "Central Excise Colony",
+    "emergencyContact": "020 6763 6400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhtoM8uiPAEQKwwZBJznv_3Nck-3OhhrlFexpNVms79SeKiyFMAVph7c4gnsqEGq-lQkAQeLoE_Ah5rw-_Ip2K0sIy-jXrxsXCVyG0wS1KOM_MfMMbS2niu4Oq1wCdZfhcDyHKipxull5t=w1200-h900-p-k-no",
+    "logo": "https://www.nmwcardiology.org/wp-content/uploads/2024/02/New-Logo-e1715411811546.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhtoM8uiPAEQKwwZBJznv_3Nck-3OhhrlFexpNVms79SeKiyFMAVph7c4gnsqEGq-lQkAQeLoE_Ah5rw-_Ip2K0sIy-jXrxsXCVyG0wS1KOM_MfMMbS2niu4Oq1wCdZfhcDyHKipxull5t=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5307479,
+      "lng": 73.8770237,
+      "label": "N. M. Wadia Heart Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "noble-hospitals-and-research-centre-pune",
+    "name": "Noble Hospitals & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Noble Hospitals & Research Centre brings together specialists for Kidney Transplant Surgery In Pune. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "080070 06611",
+    "alternatePhone": "",
+    "website": "http://www.noblehrc.com",
+    "address": "153, Magarpatta Rd, Magarpatta, Hadapsar, Pune, Maharashtra 411013",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411013",
+    "locality": "Hadapsar",
+    "landmark": "Magarpatta",
+    "emergencyContact": "080070 06611",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGNIYBBA8YoIZ71Te8VB-TJ2JJ_qOmUlyHtRgBE5M_Vu-ar0Rdn8un--2k63GIQNeGawd6gRGjoWiPyWA1A2DFxyJYrlKKoJlkfg-SjSH6zgz8iug6a9890q_nVmMapjShUF0REbXVlVy9g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGNIYBBA8YoIZ71Te8VB-TJ2JJ_qOmUlyHtRgBE5M_Vu-ar0Rdn8un--2k63GIQNeGawd6gRGjoWiPyWA1A2DFxyJYrlKKoJlkfg-SjSH6zgz8iug6a9890q_nVmMapjShUF0REbXVlVy9g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOLPbwPcGqksAVm-jCiWuKiYpS2_0ZSSKD7UFKz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO2uWSTpyUYkWn5F-3oyjOT0H3lUusAK4NW0Mll=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN6wutQltkQgyXcJrrZWM6AzrsKQCpdI7rMpuVW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNNCegsfDgR_ZxiGi0_og6Q4F7uY5fn-3i-Ks_4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5047239,
+      "lng": 73.9270192,
+      "label": "Noble Hospitals & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "novo-life-cancer-clinic-pune",
+    "name": "Novo life cancer clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Novo life cancer clinic offers coordinated hospital care with major focus on Oncologist Surgery In Pune. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "076204 07925",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Shubha Apartment, Gulwani, Sane Guruji Rd, Kothrud, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Kothrud",
+    "landmark": "Gulwani",
+    "emergencyContact": "076204 07925",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9Z6s7iMmR1ed1EuIVEUchionvawoL3kjti69ehOWZXVxGgCV5y2THpBrRJL9Fn9JxPDQhJT5Irr3KXCB-nG2fRpS3kpPw43pbJy9JiC1pP1Jw0xW9K_hiOuz_Sn-F2gs2F5DCXA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9Z6s7iMmR1ed1EuIVEUchionvawoL3kjti69ehOWZXVxGgCV5y2THpBrRJL9Fn9JxPDQhJT5Irr3KXCB-nG2fRpS3kpPw43pbJy9JiC1pP1Jw0xW9K_hiOuz_Sn-F2gs2F5DCXA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5050454,
+      "lng": 73.832228,
+      "label": "Novo life cancer clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ojas-women-s-superspeciality-hospital-and-fertility-centre-pune",
+    "name": "Ojas Women’s Superspeciality Hospital & Fertility Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Ojas Women’s Superspeciality Hospital & Fertility Centre brings together specialists for IVF In Pune, Women and Child Care, Fertility Care, and Speciality Care. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089839 58349",
+    "alternatePhone": "",
+    "website": "https://ojasfertility.com/",
+    "address": "Haweli, 730/01, Plot No. 2, Bakori Road, Opp BJS Foundation Wagholi, Tal, Dist, Pune, Maharashtra 412207",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "412207",
+    "locality": "Dist",
+    "landmark": "Plot No. 2",
+    "emergencyContact": "089839 58349",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Women and Child Care",
+      "Fertility Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlab5OuUAQh7hJMw5n4BUeqSA3lch4P70cVbkpXfVC65u9iLC_m_SXeXvc5FgfGOPFeuaZmkEn75qcc5-6RBSQBJzSbwJt-4SzkzGlT2Ahpe22Tu2vs4Q5A1qPzW5xsmqF2wobAsoW5iTd=w1200-h900-p-k-no",
+    "logo": "https://ojasfertility.com/wp-content/uploads/2025/01/ojas-hospital_logo-200x73.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlab5OuUAQh7hJMw5n4BUeqSA3lch4P70cVbkpXfVC65u9iLC_m_SXeXvc5FgfGOPFeuaZmkEn75qcc5-6RBSQBJzSbwJt-4SzkzGlT2Ahpe22Tu2vs4Q5A1qPzW5xsmqF2wobAsoW5iTd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNPL-d-COTXskPAj9xL6Q6OITwrhi_xNG-0iVpD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5898493,
+      "lng": 74.0005275,
+      "label": "Ojas Women’s Superspeciality Hospital & Fertility Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "om-hospital-bhosari-best-cardiology-angiography-dialysis-laproscopy-laser-piles-hospital-in-bhosari-pune",
+    "name": "Om Hospital Bhosari | Best Cardiology | Angiography | Dialysis | Laproscopy | Laser Piles Hospital in Bhosari",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Om Hospital Bhosari | Best Cardiology | Angiography | Dialysis | Laproscopy | Laser Piles Hospital in Bhosari brings together specialists for Cardiac Surgery In Pune. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "088888 25601",
+    "alternatePhone": "",
+    "website": "http://omhospitalbhosari.com/",
+    "address": "Hutatma Chowk, Bhosari Alandi Rd, near Sbi Bank, Bhosari, Pimpri-Chinchwad, Pune, Maharashtra 411039",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411039",
+    "locality": "Pimpri-Chinchwad",
+    "landmark": "near Sbi Bank, Bhosari, Pimpri-Chinchwad, Pune, Maharashtra 411039",
+    "emergencyContact": "088888 25601",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXBgy907JXy_q99JXIrsVpoBKXV00Utd5ipCr0n7piqOM-lQ8pvG87kP8xRa9EZ3wl2G1vxpfEFO6e5_K22AJiw6yqmVFJs2NqqeX97O-xZfi428DmiEJ7-sv9gVPwWaIpy-vM=w1200-h900-p-k-no",
+    "logo": "http://omhospitalbhosari.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXBgy907JXy_q99JXIrsVpoBKXV00Utd5ipCr0n7piqOM-lQ8pvG87kP8xRa9EZ3wl2G1vxpfEFO6e5_K22AJiw6yqmVFJs2NqqeX97O-xZfi428DmiEJ7-sv9gVPwWaIpy-vM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPNJ98PVeuEfi7IN18Jxylvqhz977bZqUKl8C34=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNTtsmNfKJMYhyWapLE-VZvDR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNTtsmNfKJMYhyWapLE-VZvDRdB_DiYyJLcy6Ig=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPUKvG4iuYm2hzQGyAIm8A0-7OXxFCPDXOnVhM8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.6241,
+      "lng": 73.8545729,
+      "label": "Om Hospital Bhosari | Best Cardiology | Angiography | Dialysis | Laproscopy | Laser Piles Hospital in Bhosari",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "orion-hospital-multispeciality-hospital-in-pune-pimpri-chinchwad",
+    "name": "Orion Hospital - Multispeciality Hospital in Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pimpri-Chinchwad often choose Orion Hospital - Multispeciality Hospital in Pune for its strength in Hip Replacement Surgery In Pune and Speciality Care. Its infrastructure includes Google rating 4.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pimpri-Chinchwad can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089285 04499",
+    "alternatePhone": "",
+    "website": "https://orionhospital.in/",
+    "address": "301, Akruti Avenues, Datta Mandir Rd, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Wakad",
+    "landmark": "Datta Mandir Rd",
+    "emergencyContact": "089285 04499",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEU_RUXCZTWgKwifp_jrmtnVqMs_2KLzc3AyFIA00tB9piu1yBKTXdvInSoaRVFxG25gqbA9RXXzOGzJ_hk4IvmTTpAS968riSiEIKMEwiJks7zeengkrQhPy4Y7Ld2gxLGN3D7Pg=w1200-h900-p-k-no",
+    "logo": "https://orionhospital.in/wp-content/uploads/2021/01/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEU_RUXCZTWgKwifp_jrmtnVqMs_2KLzc3AyFIA00tB9piu1yBKTXdvInSoaRVFxG25gqbA9RXXzOGzJ_hk4IvmTTpAS968riSiEIKMEwiJks7zeengkrQhPy4Y7Ld2gxLGN3D7Pg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMCR8apRcquoR86r_X5W9ueyJjkIZe4SnoEMJR6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM8oQqNI7G0P4QmyX9PTXD2eooDe0IVtyG2zBd1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNbVKyJJe0PpLHLdxtPcLg13_acc8-Joio0mqtF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM-kNqWkkHgUL4QPlyhRkHw-rpk-x7DAcutVBaq=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.600096,
+      "lng": 73.7634582,
+      "label": "Orion Hospital - Multispeciality Hospital in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "poona-preventive-cardiology-center-pune",
+    "name": "Poona Preventive Cardiology Center",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Poona Preventive Cardiology Center brings together specialists for Heart Surgery In Pune and Cardiac Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "096370 66166",
+    "alternatePhone": "",
+    "website": "https://punechelation.com/",
+    "address": "1st Floor, Revanjali, Aranyeswar, chowk, Padmavati Sahkarnagar Rd, opp. Taware bakery, above HDFC BANK, Pune, Maharashtra 411009",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411009",
+    "locality": "above HDFC BANK",
+    "landmark": "Aranyeswar",
+    "emergencyContact": "096370 66166",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwiU8dsoj960DHdF4KtEJnjstPmGM2HVU1xmkt9DLbi1zeN93DLjd0fDlAzZv1kfk0eyZxhH7czxCatJMAAT99Dnj7z5uTIfqNYcZfw4AC-dYzU-5tudSR4oyAdxhWC3CRPIFM=w1200-h900-p-k-no",
+    "logo": "https://punechelation.com/assets/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwiU8dsoj960DHdF4KtEJnjstPmGM2HVU1xmkt9DLbi1zeN93DLjd0fDlAzZv1kfk0eyZxhH7czxCatJMAAT99Dnj7z5uTIfqNYcZfw4AC-dYzU-5tudSR4oyAdxhWC3CRPIFM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.4859246,
+      "lng": 73.8541026,
+      "label": "Poona Preventive Cardiology Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "poona-preventive-cardiology-centre-chelation-therapy-for-heart-non-surgical-heart-treatment-eecp-esmr-treatment-pimpri-chinchwad",
+    "name": "Poona Preventive Cardiology Centre - Chelation therapy for heart | Non Surgical Heart treatment | EECP ESMR treatment",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Poona Preventive Cardiology Centre - Chelation therapy for heart | Non Surgical Heart treatment | EECP ESMR treatment is a prominent heart hospital in Pimpri-Chinchwad, known for structured tertiary care across Cardiac Surgery In Pune and Cardiac Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pimpri-Chinchwad.",
+    "email": "",
+    "phone": "096239 25066",
+    "alternatePhone": "",
+    "website": "https://punechelation.com/blogs/",
+    "address": "Pandhrapur Urban Bank, Near, Old Powerhouse Chowk, behind Moraya Multispeciality Hospital, Gandhi Peth, Prabhat Colony, Chinchwad Gaon, Chinchwad, Pimpri-Chinchwad, Maharashtra 411033",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411033",
+    "locality": "Chinchwad",
+    "landmark": "Old Powerhouse Chowk",
+    "emergencyContact": "096239 25066",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqja5I4jQqcl14FIW_Xz7m0z_jkgNSqf1sYqJaz5FDKLtazdDQpn4jVrpD_WfDAuPeW3t_RG76Q5qG00sBjB0H3fuizcpmmtKKWVQYA6FOnVoEQrkKX0lP2sWnQrMcT6B-r3eW-RdLEKZR=w1200-h900-p-k-no",
+    "logo": "https://punechelation.com/assets/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqja5I4jQqcl14FIW_Xz7m0z_jkgNSqf1sYqJaz5FDKLtazdDQpn4jVrpD_WfDAuPeW3t_RG76Q5qG00sBjB0H3fuizcpmmtKKWVQYA6FOnVoEQrkKX0lP2sWnQrMcT6B-r3eW-RdLEKZR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPhOf4ini1fus_uJ_0zkNtDZofX6xCN7hgfNN3E=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMg_z9Y9dW_e3TAG3ayYFb-6JPRf5dSOQxHNmVi=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP2Psn5RBBigYaIUrjtEUKaDHFNEevejXRgGAin=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNIoqrX0TxWtNAPk8oUszm1p_3cgNEy8LSjGF8u=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.6270523,
+      "lng": 73.7817265,
+      "label": "Poona Preventive Cardiology Centre - Chelation therapy for heart | Non Surgical Heart treatment | EECP ESMR treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pramodini-urology-foundation-pune",
+    "name": "Pramodini Urology Foundation",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Pramodini Urology Foundation offers coordinated hospital care with major focus on Urologist Surgery In Pune. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "098220 53645",
+    "alternatePhone": "",
+    "website": "https://www.drketanvartak.in/",
+    "address": "917/20a, Fergusson College Rd, above Peshwa Hotel, opposite Hotel Vaishali, Shivaji Nagar, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Deccan Gymkhana",
+    "landmark": "opposite Hotel Vaishali, Shivaji Nagar, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "emergencyContact": "098220 53645",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxt2mjuDHV_KUmsolgny7zX90ctf4SdCCFmyMraA4HBywmfXqSxDleBhrohIhOr7BMDXBo3Oz68_YF8t98GU1PRK609PRAiaGjBnHKpkMDpQBIMvC5VbIACV6SgH-6aer5b8xsBQ=w1200-h900-p-k-no",
+    "logo": "https://drketanvartak.in/wp-content/uploads/2021/09/cropped-logo-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxt2mjuDHV_KUmsolgny7zX90ctf4SdCCFmyMraA4HBywmfXqSxDleBhrohIhOr7BMDXBo3Oz68_YF8t98GU1PRK609PRAiaGjBnHKpkMDpQBIMvC5VbIACV6SgH-6aer5b8xsBQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5200969,
+      "lng": 73.8409946,
+      "label": "Pramodini Urology Foundation",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pristyn-care-loc-super-speciality-hospital-pune",
+    "name": "Pristyn Care LOC Super Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Pristyn Care LOC Super Speciality Hospital offers coordinated hospital care with major focus on Plastic Surgery In Pune and Speciality Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "080 6542 3036",
+    "alternatePhone": "",
+    "website": "https://obesityasia.com/",
+    "address": "LOC, 2143, Chowk Sadashiv Peth, N. C, Phadke Chowk, near Neelayam Theater, next to Hotel Kaveri, Vijayanagar Colony, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Vijayanagar Colony",
+    "landmark": "near Neelayam Theater, next to Hotel Kaveri, Vijayanagar Colony, Pune, Maharashtra 411030",
+    "emergencyContact": "080 6542 3036",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnEPIknzpbHMxnh4ttNC5ida2EGMHDogo9OEk6DXljHVAouamFs_TBKqxBLcFbBfMlH_A_tJ55G9ZIsXnJYkDkp4NHnFIUwqeNvLSEVVJsmJ6g34ccMLqMmOV4PWmP2FDuGVFtm0aIwjbz=w1200-h900-p-k-no",
+    "logo": "https://obesityasia.com/img/pristyn-care-loc-white-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnEPIknzpbHMxnh4ttNC5ida2EGMHDogo9OEk6DXljHVAouamFs_TBKqxBLcFbBfMlH_A_tJ55G9ZIsXnJYkDkp4NHnFIUwqeNvLSEVVJsmJ6g34ccMLqMmOV4PWmP2FDuGVFtm0aIwjbz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO039fRN530posAZaVwgZSgeNJ0zIWBuR332Z3m=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMM-5dMtFMxhfax3l-ulzGb2V2RYslQZuH1Vo4S=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOS-svrZepPSqT1fITK1mV-f9G5I4ifxXxDDWSc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOKduq1aJu4xZzzS0hvCrE2aQhEbwyvf6IQX4re=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.504395,
+      "lng": 73.8510073,
+      "label": "Pristyn Care LOC Super Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ram-mangal-heart-foundation-pune",
+    "name": "Ram Mangal Heart Foundation",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Ram Mangal Heart Foundation brings together specialists for Heart Surgery In Pune and Cardiac Care. Its infrastructure includes Google rating 4.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "020 6744 1600",
+    "alternatePhone": "",
+    "website": "https://rammangalhf.com/",
+    "address": "Fun N Shop Building, Vitthal Rao Shivarkar Rd, Fatima Nagar, Wanowrie, Pune, Maharashtra 411013",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411013",
+    "locality": "Wanowrie",
+    "landmark": "Fatima Nagar",
+    "emergencyContact": "020 6744 1600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGBWKMBM0mV4-lnBqovE9gMzD0Cm-9rU_fn6WjGz25_QTNyBqfpxrBptp4sG1lT3_a-KoAQLI4gQBHKjFNTWhIBY5vfrfdbk4jC3cxdDJ88GpwJoME3t9D78QCfOudo503XV60a=w1200-h900-p-k-no",
+    "logo": "https://rammangalhf.com/wp-content/uploads/2021/03/Ram-Mangal.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGBWKMBM0mV4-lnBqovE9gMzD0Cm-9rU_fn6WjGz25_QTNyBqfpxrBptp4sG1lT3_a-KoAQLI4gQBHKjFNTWhIBY5vfrfdbk4jC3cxdDJ88GpwJoME3t9D78QCfOudo503XV60a=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.505786,
+      "lng": 73.9014618,
+      "label": "Ram Mangal Heart Foundation",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rasiklal-m-dhariwal-heart-care-and-research-institute-pune",
+    "name": "Rasiklal M. Dhariwal Heart Care & Research Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rasiklal M. Dhariwal Heart Care & Research Institute is a prominent hospital in Pune, known for structured tertiary care across Heart Surgery In Pune and Cardiac Care. With public-facing highlights like Google rating 3.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "020 6744 1600",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GW42+8F9, Wanwadi Nagar, Fatima Nagar, Wanowrie, Pune, Maharashtra 411013",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411013",
+    "locality": "Wanowrie",
+    "landmark": "Fatima Nagar",
+    "emergencyContact": "020 6744 1600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFLH4YDm7EKR7dz1pxALqZAszB3dE90d1A4u-BQyRJ2233P06r44NJ2kzkWe1XTcvebQnKpnnHiy0MkGNSxy6o6rfdmV8gH0__fCxxI4-i15PbVHqZutPBohygp_2_V95-dtlGb=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFLH4YDm7EKR7dz1pxALqZAszB3dE90d1A4u-BQyRJ2233P06r44NJ2kzkWe1XTcvebQnKpnnHiy0MkGNSxy6o6rfdmV8gH0__fCxxI4-i15PbVHqZutPBohygp_2_V95-dtlGb=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5057926,
+      "lng": 73.9012478,
+      "label": "Rasiklal M. Dhariwal Heart Care & Research Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rising-medicare-hospital-and-ivf-center-pune",
+    "name": "Rising Medicare Hospital and IVF Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rising Medicare Hospital and IVF Center is a prominent hospital in Pune, known for structured tertiary care across IVF In Pune and Fertility Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "091195 87272",
+    "alternatePhone": "",
+    "website": "http://therisingmedicare.com/",
+    "address": "Survey No 4, 1, Mundhwa - Kharadi Rd, behind Radisson Blu, Pandhari Nagar, Kharadi, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Kharadi",
+    "landmark": "Mundhwa - Kharadi Rd",
+    "emergencyContact": "091195 87272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUtGw1cCaiycF9bWENYUjgJAatM4k_9Sxxj0xZVE-vuNk4lAA7UUeojATNLw6WDRrP4VhqH6eqLpDconYg4ErJPweXYe9fWgGvOw6AzjPv0-WPhlSIB104qVfzgBnmD9tLvyfVKPx14Xe9=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUtGw1cCaiycF9bWENYUjgJAatM4k_9Sxxj0xZVE-vuNk4lAA7UUeojATNLw6WDRrP4VhqH6eqLpDconYg4ErJPweXYe9fWgGvOw6AzjPv0-WPhlSIB104qVfzgBnmD9tLvyfVKPx14Xe9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPS3ackl8yrUU7lAlT9zv-cPhaLl4fZdhyYneWY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOR4L2iKN2QU3I7WMYleEldFkuZT6CnGQPSDPAy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNuOxR81Jvwpzp9UPulhBhQkkjNV-Gdwfnw2SHB=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMG3K583mbl4bm8pVbU2jIliEd0UjBwrrD3O4rn=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5537831,
+      "lng": 73.9392321,
+      "label": "Rising Medicare Hospital and IVF Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ruby-hall-clinic-hinjawadi-pune",
+    "name": "Ruby Hall Clinic - Hinjawadi",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ruby Hall Clinic - Hinjawadi has built a strong reputation in Pune for multidisciplinary treatment pathways covering General Surgery In Pune. Its infrastructure includes Google rating 3.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "020 6699 9999",
+    "alternatePhone": "",
+    "website": "https://elabs.healthrx.co.in/partner/ruby-hall-clinic?supplierId",
+    "address": "Rajeev Gandhi Infotech Park, Plot No, P-33, Phase 1, MIDC, Hinjawadi, Pune, Hinjavadi, Maharashtra 411057",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Hinjawadi",
+    "landmark": "P-33",
+    "emergencyContact": "020 6699 9999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGjvEJ0X3heTuDXW0CjxMOaFvlvvbIkNPn6hRPwAKHkMYd8_g-AgJwyRjMDu0Q297xeUK7kF0p8EDvVsiGOoSxXEfcgRPA1JrQHed04whvkEnV58etglsWg9YjOvDKcgxI-TV7=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGjvEJ0X3heTuDXW0CjxMOaFvlvvbIkNPn6hRPwAKHkMYd8_g-AgJwyRjMDu0Q297xeUK7kF0p8EDvVsiGOoSxXEfcgRPA1JrQHed04whvkEnV58etglsWg9YjOvDKcgxI-TV7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5926592,
+      "lng": 73.734095,
+      "label": "Ruby Hall Clinic - Hinjawadi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ruby-hall-clinic-sassoon-road-pune",
+    "name": "Ruby Hall Clinic - Sassoon Road",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Ruby Hall Clinic - Sassoon Road delivers integrated care across Kidney Transplant Surgery In Pune. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "020 6645 5100",
+    "alternatePhone": "",
+    "website": "https://elabs.healthrx.co.in/partner/ruby-hall-clinic?supplierId",
+    "address": "40, Sasoon Rd, Sangamvadi, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Sangamvadi",
+    "landmark": "Sangamvadi",
+    "emergencyContact": "020 6645 5100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1svbujX0nBT9GrbJYUnBEetZC9UHTO33kbzRO_wrGRwLTKGHmxRk4SMBtzsYOjXwZTdPoK6co8NJpwAuazf9qATXAwy1gDBPt9xkw9Yw4LEErdYQN4LWvgU4MQBIs3Pgc8QqqAQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1svbujX0nBT9GrbJYUnBEetZC9UHTO33kbzRO_wrGRwLTKGHmxRk4SMBtzsYOjXwZTdPoK6co8NJpwAuazf9qATXAwy1gDBPt9xkw9Yw4LEErdYQN4LWvgU4MQBIs3Pgc8QqqAQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM-VJlZrVgpBFNZYrE5i71R5cK0BVjT8R2GHegU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOY_BFY-6b0BQKoY3rA4o8YgRp4-jGs9HEW5pQc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFufQ7Ng2hHs_grdd9px93GL9FKFdD4yMi3yNirCZK94zez8ufm-EeZOqfmLACVRXuSRN559W8aAIlbNJw9difxSEo041Qic_BH20rBwSFv_fF7z1ZpRJFwtvX2W0vTDkGizyQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHu23MuPIag_rZdoobYj-fJo8IlZa-7XokJmqTWQju28H98UkZKac8tKOFN9hrLd5qOg7Pfi-KGJA-RczuDNB3DxwNlS1c2xgN6tgc4vjpjScPtZWo9qM38vTB4y_HsmaCNTJUJyBGKuwU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5335842,
+      "lng": 73.8771566,
+      "label": "Ruby Hall Clinic - Sassoon Road",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sabales-superspeciality-hospital-pune",
+    "name": "Sabales Superspeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sabales Superspeciality Hospital is a prominent hospital in Pune, known for structured tertiary care across Urologist Surgery In Pune and Speciality Care. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "090110 53954",
+    "alternatePhone": "",
+    "website": "",
+    "address": "JR8W+5HR Panchjanya Showroom, First Floor, Sai Venkata Trade Centre, Pune - Nashik Hwy, above Tata Motors, Bhosari, Pune, Pimpri-Chinchwad, Maharashtra 411039",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411039",
+    "locality": "Bhosari",
+    "landmark": "Sai Venkata Trade Centre",
+    "emergencyContact": "090110 53954",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_k3js8Bp4xO51faYuUp6qs7d_CLufm-KH2HBzT8Xy8l2jG4T-Gwa9mZNvzPGZA2983DGKR8oqSB4Ki0HPB412R_IiTPd68DXpSXHGGrpkwFvvNgmPwsYdBdZoU01sjJz8YzZr=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_k3js8Bp4xO51faYuUp6qs7d_CLufm-KH2HBzT8Xy8l2jG4T-Gwa9mZNvzPGZA2983DGKR8oqSB4Ki0HPB412R_IiTPd68DXpSXHGGrpkwFvvNgmPwsYdBdZoU01sjJz8YzZr=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.6154611,
+      "lng": 73.8464495,
+      "label": "Sabales Superspeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sahyadri-super-speciality-hospital-hadapsar-pune",
+    "name": "Sahyadri Super Speciality Hospital Hadapsar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Sahyadri Super Speciality Hospital Hadapsar for its strength in Kidney Transplant Surgery In Pune and Speciality Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "020 4713 8766",
+    "alternatePhone": "",
+    "website": "https://sahyadrihospital.com/hadapsar/?utm_source",
+    "address": "SN 163, Bhosale Garden Rd, beside Bhosale Nagar, Aru Nagar, Bhosale Nagar, Hadapsar, Pune, Maharashtra 411028",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411028",
+    "locality": "Hadapsar",
+    "landmark": "beside Bhosale Nagar, Aru Nagar, Bhosale Nagar, Hadapsar, Pune, Maharashtra 411028",
+    "emergencyContact": "020 4713 8766",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2qSDEmd9ZJhKNLm-NDM7Jzv-pPr_f7Vm6igSQjxLlF_xI09YXq3A9X6X4MIGIBj01rp2L3Ru0UaG0YvKeXNQpHeYFVdE_qVwBfwGqmR4r5WPRCpXTU6dknV5kzL3PvJ68Hy4Z=w1200-h900-p-k-no",
+    "logo": "https://sahyadrihospital.com/favicon.ico",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2qSDEmd9ZJhKNLm-NDM7Jzv-pPr_f7Vm6igSQjxLlF_xI09YXq3A9X6X4MIGIBj01rp2L3Ru0UaG0YvKeXNQpHeYFVdE_qVwBfwGqmR4r5WPRCpXTU6dknV5kzL3PvJ68Hy4Z=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNOcp7g7ORHhTGj3GBwUmYEtyjl7f1sEruZYyaw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMO4C8lS1RwFsauu4JIeWvNRS23SNP-BF8GZ9qF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPXfXLZV2SEwAfS4poxOuCRH2SioWgpjicDcYgP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPJDJpQDxztlguAgX6Qo3obhk2U-RAo0c7da9_-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5032209,
+      "lng": 73.9321864,
+      "label": "Sahyadri Super Speciality Hospital Hadapsar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sahyadri-super-speciality-hospital-deccan-gymkhana-pune-pune",
+    "name": "Sahyadri Super Speciality Hospital, Deccan Gymkhana, Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Sahyadri Super Speciality Hospital, Deccan Gymkhana, Pune delivers integrated care across Kidney Transplant Surgery In Pune and Speciality Care. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "020 4713 8766",
+    "alternatePhone": "",
+    "website": "https://sahyadrihospital.com/deccan",
+    "address": "Plot No. 30-C, Karve Rd, Kachare Colony, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Deccan Gymkhana",
+    "landmark": "Kachare Colony",
+    "emergencyContact": "020 4713 8766",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH21_u8Vp4wVSekkJrDwVZllEUKwKfDresn_fxfbJLWWnzh5kqNkk1ge5vzE-SiZ6ZHWm7PShy_CL95KngnqDyc5mucKr4BkWhIu-KxKaiCiLlz1GTpU9iBNDFaOH8sUhpq7Oi-=w1200-h900-p-k-no",
+    "logo": "https://sahyadrihospital.com/favicon.ico",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH21_u8Vp4wVSekkJrDwVZllEUKwKfDresn_fxfbJLWWnzh5kqNkk1ge5vzE-SiZ6ZHWm7PShy_CL95KngnqDyc5mucKr4BkWhIu-KxKaiCiLlz1GTpU9iBNDFaOH8sUhpq7Oi-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOMD8N99CjG4_7AWyQR1WSUr-1a91jXj6H05IYp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPMiigEi85LDKen3AhIBYlsUINqTBJAd5rifsWW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPSlukX0Cmj9fbjIXNhEcZMzxd-TWZhG3rdcZVw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOiQMZEb2duFhu6FDLHlEetl2L3LZGiEd51cGgf=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5130079,
+      "lng": 73.8393427,
+      "label": "Sahyadri Super Speciality Hospital, Deccan Gymkhana, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sahyadri-s-center-for-organ-transplantation-pune",
+    "name": "Sahyadri's Center for Organ Transplantation",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Sahyadri's Center for Organ Transplantation for its strength in Kidney Transplant Surgery In Pune. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070530 70531",
+    "alternatePhone": "",
+    "website": "https://thelivertransplant.com/",
+    "address": "Upper Basement Sahyadri Multispeciality Hospital Karve Road Erandawane, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Deccan Gymkhana",
+    "landmark": "Pune",
+    "emergencyContact": "070530 70531",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8tUyQCD2yyCr1B8QJJmTN4x_1GGYc-NCWfb5kg8rKOTLpAgF7wWYE3d0VEb8-NWrg892a8K8S47VvxnBYqQd_NSBpkoF3bj3pU3mmeaZI6ABPlhVSs5q1ZKUnS_bLaWA-=w1200-h900-p-k-no",
+    "logo": "https://thelivertransplant.com/wp-content/uploads/2020/06/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8tUyQCD2yyCr1B8QJJmTN4x_1GGYc-NCWfb5kg8rKOTLpAgF7wWYE3d0VEb8-NWrg892a8K8S47VvxnBYqQd_NSBpkoF3bj3pU3mmeaZI6ABPlhVSs5q1ZKUnS_bLaWA-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP2bz-8Cg4OGpB5YjSj09tb0PRxHUT5gWApcwZZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM6KURpcu-Re1vLIoNAdWPGO0IjgLAqeexUg07s=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOI-SlVd6mtXN6wOSO5rUENMSlgvv2yWxzlvCOb=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMMHxzMY0Ym-ek8LU3G3AsllpxA1PORKokWNWVK=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5131033,
+      "lng": 73.8392223,
+      "label": "Sahyadri's Center for Organ Transplantation",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sainath-hospital-pimpri-chinchwad",
+    "name": "Sainath Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pimpri-Chinchwad, Sainath Hospital brings together specialists for Hip Replacement Surgery In Pune. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pimpri-Chinchwad.",
+    "email": "",
+    "phone": "020 6731 3000",
+    "alternatePhone": "",
+    "website": "http://www.sainathhospital.com/",
+    "address": "Sant Nagar, Pune - Nashik Hwy, Moshi Pradhikaran, Moshi, Pimpri-Chinchwad, Maharashtra 411070",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411070",
+    "locality": "Moshi",
+    "landmark": "Moshi Pradhikaran",
+    "emergencyContact": "020 6731 3000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHBECtr2j8JQbZi7nfFBWLAPYMg88nfsNT0OLcrD3MGlqkKXOMJDPn3Qga7aePPITlSkgjDDffooMsOpPed0q9cGb-T4Qzh5EMtIDq26R1-M8F7VRfQR6u2hikXqPPNhlSUzhk=w1200-h900-p-k-no",
+    "logo": "https://sainathhospital.com/wp-content/uploads/2025/07/Sainath-Hospital-Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHBECtr2j8JQbZi7nfFBWLAPYMg88nfsNT0OLcrD3MGlqkKXOMJDPn3Qga7aePPITlSkgjDDffooMsOpPed0q9cGb-T4Qzh5EMtIDq26R1-M8F7VRfQR6u2hikXqPPNhlSUzhk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnXTVNt_R7y0o-3cwZ2dVWSbaoFA8WV3jpbPcj2EdeE4MiCxRw5Sgo6351DLrfq0zYTXCPLRbNStL4QUK351rZQ1q_L0FtO59TeU8WUVBxA2PEAhmKmB3_EM3kHK4IIzf1Kj-6HUdrXbw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhbJO_CpAtsMVtyZIXcVtary6TwF7XXd153tW601jFIyp_nEuJdCpc5Gtrcj65W6iz3BoalFXbEDddvVQvCOrrAGjM-AYamoyKXbT16j3xmsO0-nrIkfl1uPYfVSzFFLXmkIRicarOyMmn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKmf8sLFvxgxIrb2YzYwpgB3OhSlIICzOt_WVgAR98ynITlxUVi2Rs7gaUm8Ru7iiOfrwp2k7tc15wZxRvxk2NZkF3WHOabU5cMhhI6waV4GjXF-ba1mwy7DYRh-XN6JnaM_RW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEW0imK9iRjgm2eRlw5=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.6545373,
+      "lng": 73.8484579,
+      "label": "Sainath Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "saishree-vitalife-hospital-aundh-pune",
+    "name": "SaiShree Vitalife Hospital - Aundh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, SaiShree Vitalife Hospital - Aundh offers coordinated hospital care with major focus on Knee Replacement Surgery In Pune. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "020 6744 8600",
+    "alternatePhone": "",
+    "website": "http://www.saishreehospital.org/",
+    "address": "no 1104/03 plot, SR. No. 157, CTS, 26, DP Rd, Aundh, Pune, Maharashtra 411067",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411067",
+    "locality": "Aundh",
+    "landmark": "CTS",
+    "emergencyContact": "020 6744 8600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxu2nSNBdbsWdDvzCIbYHAykp0iz87SptlIAHH75Cp38lj9dakwtiqHHBfDPnqNOwvgjRnWsJh5ujVO6Ygrf5A1VuXpdo22z68xGp0pu7KIKIcOdX92EqTsf8YSfP09vGm8OQcsw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxu2nSNBdbsWdDvzCIbYHAykp0iz87SptlIAHH75Cp38lj9dakwtiqHHBfDPnqNOwvgjRnWsJh5ujVO6Ygrf5A1VuXpdo22z68xGp0pu7KIKIcOdX92EqTsf8YSfP09vGm8OQcsw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5601573,
+      "lng": 73.8052354,
+      "label": "SaiShree Vitalife Hospital - Aundh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "salunke-multispeciality-hospital-pune",
+    "name": "Salunke Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Salunke Multispeciality Hospital is a prominent hospital in Pune, known for structured tertiary care across Plastic Surgery In Pune and Speciality Care. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "093265 27016",
+    "alternatePhone": "",
+    "website": "",
+    "address": "47/3, Shejwal Park Lane No. 3, near Sundarabai Marathe School, Ganesh Nagar, Wadgaon Sheri, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Wadgaon Sheri",
+    "landmark": "near Sundarabai Marathe School, Ganesh Nagar, Wadgaon Sheri, Pune, Maharashtra 411014",
+    "emergencyContact": "093265 27016",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJJwRmfuIYNXAyMYCYiR5c_Y9iEMZF0zRQoV_ZZRmzgj9OHdYiM4Ub2VuTQf1mWK9vr_JC5zDdlpR-lThVLolmxZEXvLyRhPhPeX1PSdWxKk8DoUcgDdLsuhd6CbJvI3eHapHyeA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJJwRmfuIYNXAyMYCYiR5c_Y9iEMZF0zRQoV_ZZRmzgj9OHdYiM4Ub2VuTQf1mWK9vr_JC5zDdlpR-lThVLolmxZEXvLyRhPhPeX1PSdWxKk8DoUcgDdLsuhd6CbJvI3eHapHyeA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.558277,
+      "lng": 73.9273177,
+      "label": "Salunke Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sancheti-hospital-pune",
+    "name": "Sancheti Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Sancheti Hospital delivers integrated care across Spine Surgery In Pune. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pune.",
+    "email": "",
+    "phone": "088888 08845",
+    "alternatePhone": "",
+    "website": "https://sanchetihospital.org/",
+    "address": "11/12 16 16, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "Shivajinagar",
+    "emergencyContact": "088888 08845",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFN0B26ArCrRPVguSxDUCmXiGfhC_sgvi-stdHrojcNMvpPT_oJDRqGDpB8b0PEsmvBTwsfLYnyak8t1T9HeLj1V6bN27-egtDE8xGlld92HOxtc59KUhtt78choIEYJp84lxUQ5Q=w1200-h900-p-k-no",
+    "logo": "https://sanchetihospital.org/wp-content/uploads/2025/06/Group-35681-1.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFN0B26ArCrRPVguSxDUCmXiGfhC_sgvi-stdHrojcNMvpPT_oJDRqGDpB8b0PEsmvBTwsfLYnyak8t1T9HeLj1V6bN27-egtDE8xGlld92HOxtc59KUhtt78choIEYJp84lxUQ5Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP0J6QRWnNO1J4OG9BizOEsGL1xwAoxTsAbFAiq=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNpLCYpzhzO24uOq5kY-fA_JiVy7khnUJLonhMc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPKmVoN5RZnNrpPZq39s5s-k5G1gsJbTLo_KF5s=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOUIUvsrzqfYxr6UfFIi22pasNiRK9ag8ujA1HO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5299624,
+      "lng": 73.852979,
+      "label": "Sancheti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "somani-cardiac-and-gynecology-center-pune",
+    "name": "Somani Cardiac and Gynecology Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Somani Cardiac and Gynecology Center brings together specialists for Heart Surgery In Pune and Cardiac Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "099216 88551",
+    "alternatePhone": "",
+    "website": "https://somanicardiacandgynaecologycentre.in/",
+    "address": "Office no 105, 1, st floor, 4 th Dimension, Gulawani Maharaj Road, Pandurang Colony, Erandwane, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Erandwane",
+    "landmark": "st floor",
+    "emergencyContact": "099216 88551",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeyh-Nla2lMR1Zx_9i4XacTZL4sMQrPAJL6lAuOC4-ZEXh6Om9HHhfs1Q_0OhEJKAgU1bnNP4ZPY08259SVSinNXFL-tPKRZK5K2XtGAdjBjRGXhvYysNM_jDAKPQyXh9rfxQ=w1200-h900-p-k-no",
+    "logo": "https://somanicardiacandgynaecologycentre.in/wp-content/uploads/2022/11/Dr.-Somani-Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeyh-Nla2lMR1Zx_9i4XacTZL4sMQrPAJL6lAuOC4-ZEXh6Om9HHhfs1Q_0OhEJKAgU1bnNP4ZPY08259SVSinNXFL-tPKRZK5K2XtGAdjBjRGXhvYysNM_jDAKPQyXh9rfxQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5029622,
+      "lng": 73.8290471,
+      "label": "Somani Cardiac and Gynecology Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "suprabha-heart-centre-and-speciality-clinic-pune",
+    "name": "Suprabha Heart Centre & Speciality Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Suprabha Heart Centre & Speciality Clinic offers coordinated hospital care with major focus on Cardiac Surgery In Pune, Cardiac Care, and Speciality Care. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "098230 53241",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No. 208, 209, Centre Point, Second Floor, Shop, 210, Mitra Mandal Chowk, Parvati, Pune, Maharashtra 411009",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411009",
+    "locality": "Parvati",
+    "landmark": "Centre Point",
+    "emergencyContact": "098230 53241",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Pune",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCWoxRejfdlUh45opSMrQeEfMrJfcZ73RJpyHjim51vXCotsDb7EkRQ8ZppBELSZ6KaaC8cLtaAVJTrzXXU43Gp5GDfIC2AclMuGQ72uvJKi5uKZ6YajKMwEoDyJYcH_0qbL-9=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCWoxRejfdlUh45opSMrQeEfMrJfcZ73RJpyHjim51vXCotsDb7EkRQ8ZppBELSZ6KaaC8cLtaAVJTrzXXU43Gp5GDfIC2AclMuGQ72uvJKi5uKZ6YajKMwEoDyJYcH_0qbL-9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.497107,
+      "lng": 73.85587,
+      "label": "Suprabha Heart Centre & Speciality Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sushrut-hospital-smhipl-paud-road-pune-hospital-in-kothrud-pune",
+    "name": "Sushrut hospital (SMHIPL) | Paud Road, Pune | Hospital in Kothrud",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sushrut hospital (SMHIPL) | Paud Road, Pune | Hospital in Kothrud has built a strong reputation in Pune for multidisciplinary treatment pathways covering Hip Replacement Surgery In Pune. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "020 3532 0000",
+    "alternatePhone": "",
+    "website": "https://www.sushruthospitalpune.com/",
+    "address": "46/2B/2, Paud Rd, Mahaganesh Colony, Kothrud, Pune, Maharashtra 411038",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411038",
+    "locality": "Kothrud",
+    "landmark": "Mahaganesh Colony",
+    "emergencyContact": "020 3532 0000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbldcf1VkAz75EQDXC1RW8oHZUyIa1Ohd47oWqKD9vaODLhyZh3Rub9LfRf69FaKs3DGlFDc4bErdLTfgMQiPBknW4_Pgkx4Rh7Jb1AUySLRE1SsY9ZKn7viIZIT2uT_hpOqWt=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbldcf1VkAz75EQDXC1RW8oHZUyIa1Ohd47oWqKD9vaODLhyZh3Rub9LfRf69FaKs3DGlFDc4bErdLTfgMQiPBknW4_Pgkx4Rh7Jb1AUySLRE1SsY9ZKn7viIZIT2uT_hpOqWt=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMP8bPlMKuuFIda_GrRKNY6YEfQxzghwODUifmi=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNQUsSCPG0iuxGwnonKedAklFMHZbKeSWD8VyO8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNcX04FFahqgjYCViRHbFUOt1lOax8hxdQdNSkb=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMa4np392qwt4_vKz6eGU9OHl28wGwrTgqpnd35=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5094849,
+      "lng": 73.8212733,
+      "label": "Sushrut hospital (SMHIPL) | Paud Road, Pune | Hospital in Kothrud",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "synergy-heart-and-multispeciality-hospital-pune",
+    "name": "Synergy Heart & Multispeciality Hospital",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Synergy Heart & Multispeciality Hospital brings together specialists for Cardiac Surgery In Pune, Cardiac Care, and Speciality Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090283 77909",
+    "alternatePhone": "",
+    "website": "https://synergyheartinstitute.in/",
+    "address": "Avenue Plaza, Ground Floor, 3rd & 4th Floor Rahatani Rd Above Reliance Digital, Prassana Colony Near Kokane Chowk, Pimple Saudagar Pimpri-Chinchwad, Pune, Maharashtra 411017",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411017",
+    "locality": "Pimple Saudagar Pimpri-Chinchwad",
+    "landmark": "Near Kokane Chowk, Pimple Saudagar Pimpri-Chinchwad, Pune, Maharashtra 411017",
+    "emergencyContact": "090283 77909",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Pune",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8iSOGkqkbL3uNPywK5lU1W29HaKWninhWObIYPUa_eE5a6iZPq69jsDDtyEg2ii99H4XfVmSFBNoaxhBo5QU_U-SB2CQyHP3mde-T8uVcHO4NkefnXGTY-36JoK6wq4ycadb6TA=w1200-h900-p-k-no",
+    "logo": "https://synergyheartinstitute.in/wp-content/uploads/2020/08/Synergy-logo-final.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8iSOGkqkbL3uNPywK5lU1W29HaKWninhWObIYPUa_eE5a6iZPq69jsDDtyEg2ii99H4XfVmSFBNoaxhBo5QU_U-SB2CQyHP3mde-T8uVcHO4NkefnXGTY-36JoK6wq4ycadb6TA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5997673,
+      "lng": 73.7924667,
+      "label": "Synergy Heart & Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "umarji-mother-and-child-care-hospital-pune",
+    "name": "Umarji Mother and Child Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Umarji Mother and Child Care Hospital delivers integrated care across Gynecologist Surgery In Pune and Women and Child Care. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Pune.",
+    "email": "",
+    "phone": "096070 01192",
+    "alternatePhone": "",
+    "website": "https://umarjihealthcare.com/",
+    "address": "Survey no. 13/1, comfort zone, Umarji Mother and Child Care hospital, beside Aditya Shagun, Balewadi Phata, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "beside Aditya Shagun, Balewadi Phata, Baner, Pune, Maharashtra 411045",
+    "emergencyContact": "096070 01192",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Pune",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZLaXWhRjEtf-uMT-OuAHxf6TcgzCqgh5POBydDR4LXP3sN-Q1oYqjIZ2UX1J5qxPsc_PjTUz9Jva95QnBNUratZtKix7cdzUv2Il9avvOy7bcFWQBKv08HxuU5n0gHDaWXb9V=w1200-h900-p-k-no",
+    "logo": "https://umarjihealthcare.com/_next/static/media/umarji-logo.2105c1c6.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZLaXWhRjEtf-uMT-OuAHxf6TcgzCqgh5POBydDR4LXP3sN-Q1oYqjIZ2UX1J5qxPsc_PjTUz9Jva95QnBNUratZtKix7cdzUv2Il9avvOy7bcFWQBKv08HxuU5n0gHDaWXb9V=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPkjdQXdKoNi8wMW1xm0gAnwSGOnZjBR6DKHzOc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOZ6GMO2xfnSRiEiGCRmAWbZ31RK=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOZ6GMO2xfnSRiEiGCRmAWbZ31RKvxomSPrRt5S=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPf6GohqaeeN--XPSS5LSXC8AU3RKGZXleJBAhU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5716519,
+      "lng": 73.7807983,
+      "label": "Umarji Mother and Child Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "universal-hospital-chaitanya-stem-cell-and-research-center-best-medical-tourism-in-india-pune",
+    "name": "Universal Hospital - Chaitanya Stem Cell and Research Center | Best Medical Tourism in India",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Universal Hospital - Chaitanya Stem Cell and Research Center | Best Medical Tourism in India has built a strong reputation in Pune for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Pune. Its infrastructure includes Google rating 3.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pune.",
+    "email": "",
+    "phone": "090111 11222",
+    "alternatePhone": "",
+    "website": "https://chaitanyastemcell.com/",
+    "address": "1420, NH 4, Lunanagar, Kasba Peth, Pune, Maharashtra 411011",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411011",
+    "locality": "Kasba Peth",
+    "landmark": "Lunanagar",
+    "emergencyContact": "090111 11222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGNWbVovTQmkeTM8fZsVEk3ULwasWrsmEszhyVXtdvqYUMl82AJzxWsUwT3QItuviFByDJTjtTuINPjiOdXRbRUXkou24cU6wiN07oQhxf4btt3DbIxy-9vZ4DxreukutBkdNu5Vg=w1200-h900-p-k-no",
+    "logo": "https://chaitanyastemcell.com/wp-content/uploads/2023/04/logo-92.62.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGNWbVovTQmkeTM8fZsVEk3ULwasWrsmEszhyVXtdvqYUMl82AJzxWsUwT3QItuviFByDJTjtTuINPjiOdXRbRUXkou24cU6wiN07oQhxf4btt3DbIxy-9vZ4DxreukutBkdNu5Vg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.5214655,
+      "lng": 73.8555761,
+      "label": "Universal Hospital - Chaitanya Stem Cell and Research Center | Best Medical Tourism in India",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vinnayak-spine-hospital-robotic-spine-super-speciality-hospital-in-maharashtra-spine-specialist-in-pune-pune",
+    "name": "Vinnayak Spine Hospital | Robotic Spine Super Speciality Hospital in Maharashtra | Spine Specialist in Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vinnayak Spine Hospital | Robotic Spine Super Speciality Hospital in Maharashtra | Spine Specialist in Pune has built a strong reputation in Pune for multidisciplinary treatment pathways covering Spine Surgery In Pune, Spine Care, and Speciality Care. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075759 97575",
+    "alternatePhone": "",
+    "website": "http://spinespecialistpune.com/",
+    "address": "kanade mala, 52/1, Jagdamba Bhawan Marg, near Little heart society, Shree Siddhivinayak Meera, Undri, Pune, Maharashtra 411060",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411060",
+    "locality": "Undri",
+    "landmark": "near Little heart society, Shree Siddhivinayak Meera, Undri, Pune, Maharashtra 411060",
+    "emergencyContact": "075759 97575",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Pune",
+      "Spine Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7ZHyIM2JmVY7xEopFe7K9qmctpB2cxwWDJ5t98llkImOxNWD-e3oJWL3VWekm5Ut8PdUGPxjJ_NpFtY6nnfZWSLADbcuVkQN0lIe0eifg7wmDVmRYCqRfBaBD41bU3IICZrzA=w1200-h900-p-k-no",
+    "logo": "https://www.spinespecialistpune.com/wp-content/uploads/2025/01/logo-psd.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7ZHyIM2JmVY7xEopFe7K9qmctpB2cxwWDJ5t98llkImOxNWD-e3oJWL3VWekm5Ut8PdUGPxjJ_NpFtY6nnfZWSLADbcuVkQN0lIe0eifg7wmDVmRYCqRfBaBD41bU3IICZrzA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGfgvwZcv-Ok7dRCkJUwPTmwpqohsYgX23SwYLUm4diFGnEvP0dU47MgqW2lsqdsRngBZVeKfHFQXDgO5hcppeU_aPn_TwLhTU0NnpRwII06rxEVeLN9DQxpf2HFNkTvK3D8Os=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElsxuDjXrl1Q3vV-qa8mlxrSZTdN7bZM13zmx7h0b2UJfJqC5J9-ybEn56YJIS1bIFOcxxAEuyecjhcNMOxvpHYzJNhZFrDSOCpHFfxHvfq6RhTZ0UIsoTN4yzRYCM7n9GibKwcd_2oAej=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHd3_oZYV5eOAr6l7b2IUhJANIzOyv8DbEhUbHfDep_k6o1EbFhQZPR_XC8wvSlvb8Pnd_-bIaQtinYqI1IRSBXwI0vHRtBx09YMp3vRKs-bkshJ_k6cf8B3kWOENbUpqmp8pcUKbGUWG8o=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFOXjuVf8d6Kb-qZvhRgKg4QPcx8SkqIyp-ATn7_sL7--cSnmquomixU-3PDI1q_z11QJ46Y6SmBucGCtzsaiJ5nLR16UHNs2Ccm-xIBAfHzgwkrQt1lKKsjmL7IylOWi8p7KwbhCV_yh0c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.4438943,
+      "lng": 73.9135146,
+      "label": "Vinnayak Spine Hospital | Robotic Spine Super Speciality Hospital in Maharashtra | Spine Specialist in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vishwaraj-hospital-pune-pune",
+    "name": "VishwaRaj Hospital Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose VishwaRaj Hospital Pune for its strength in Oncologist Surgery In Pune. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://vishwarajhospital.com/",
+    "address": "Vishwaraj hospital, Near Loni Railway station Loni Kalbhor, Solapur - Pune Hwy, Pune, Maharashtra 412201",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "412201",
+    "locality": "Solapur - Pune Hwy",
+    "landmark": "Near Loni Railway station Loni Kalbhor, Solapur - Pune Hwy, Pune, Maharashtra 412201",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFnkTv4Vn39-TbzZEfs0ns2tU5djU7Gw25qk20VA2DhK3b47hjGzGKPVRa4BAbtoo3f-eSPqldUut-51cXOM8e1U58yg2tNsqCrPeBCzV3UjmdtRZTZMPGXXcpOJT4WMXmyEEvVDUJ5vH8=w1200-h900-p-k-no",
+    "logo": "https://vishwarajhospital.com/wp-content/uploads/2026/05/VRH-Logo1-1.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFnkTv4Vn39-TbzZEfs0ns2tU5djU7Gw25qk20VA2DhK3b47hjGzGKPVRa4BAbtoo3f-eSPqldUut-51cXOM8e1U58yg2tNsqCrPeBCzV3UjmdtRZTZMPGXXcpOJT4WMXmyEEvVDUJ5vH8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNj-oKXkh8WQqZO1XXBCBOHzJGL0nauUbSbftor=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM7F19fClkWw7tQhUH-oAu6YLahTJ-vRnN2-U2V=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOBckCJEW9BZlNzWaatUlyrkK59u2HxaIFKRTus=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPu7VyVSC6BrERNZdQ7zXq_nC1YYqHARoMtr47p=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.4896546,
+      "lng": 74.0224807,
+      "label": "VishwaRaj Hospital Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "wisdom-superspeciality-hospital-pune",
+    "name": "WISDOM SUPERSPECIALITY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "WISDOM SUPERSPECIALITY HOSPITAL has built a strong reputation in Pune for multidisciplinary treatment pathways covering Heart Surgery In Pune and Speciality Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Pune can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090906 50303",
+    "alternatePhone": "",
+    "website": "https://wisdomhospitals.in/",
+    "address": "P), Plot 22, Radha Chowk, Survey no.105, 1/1, Bengaluru - Mumbai Hwy, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "Radha Chowk",
+    "emergencyContact": "090906 50303",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2AV5w1DU8etz9_Ui0Zs_Inj1e-36WeL_tw06IawhuazRHq41XPNvs-_ZAPu6nF9wKQyXdN9cisQzyusuryyAuiRDrPMw6ESvORtez02xsNQMtxEHXa3JXsIb_uVOP-xCFGP7iT6DhRxE=w1200-h900-p-k-no",
+    "logo": "https://wisdomhospitals.in/wp-content/uploads/2021/09/logo-removebg-preview-1-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2AV5w1DU8etz9_Ui0Zs_Inj1e-36WeL_tw06IawhuazRHq41XPNvs-_ZAPu6nF9wKQyXdN9cisQzyusuryyAuiRDrPMw6ESvORtez02xsNQMtxEHXa3JXsIb_uVOP-xCFGP7iT6DhRxE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMY19r9xqVehEiqxLLxu_b9-SWlnmcqiipgSawE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO28SBGoL6Fez4S6G4C9XpqzrrK-ByomZvlrtJl=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP2MAHX0wVmMBnfWP3XyAjzjqEydjsnPiEhxocR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNyn7UYUfHBF79rjI0K3GfEy_tqhQ8h55tMdZbR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 18.568139,
+      "lng": 73.7653098,
+      "label": "WISDOM SUPERSPECIALITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

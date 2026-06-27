@@ -1,0 +1,6992 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aasav-hospital-muzaffarpur-muzaffarpur",
+    "name": "Aasav Hospital Muzaffarpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Muzaffarpur, Aasav Hospital Muzaffarpur delivers integrated care across Spine Surgery In Muzaffarpur. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Muzaffarpur.",
+    "email": "",
+    "phone": "089888 88363",
+    "alternatePhone": "",
+    "website": "http://aasavhospital.com/",
+    "address": "Juran Chhapra Main Rd, Juran Chapra, Brahmapura, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Brahmapura",
+    "landmark": "Brahmapura",
+    "emergencyContact": "089888 88363",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFuz-CWPwHCCS1GBiRVIjmbSSt8mr-1TlLOhJeEZeb48m4F4RrBYAyS8ITxDxjOL1um-e_z265pPgF54rR1nvm8AmOp_cOKOYruPS7A76sLeIvkYdB8KEfkujcZDkMXsMn7A7CANyuYgush=w1200-h900-p-k-no",
+    "logo": "https://aasavhospital.com/images/aasavLogo.jpeg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFuz-CWPwHCCS1GBiRVIjmbSSt8mr-1TlLOhJeEZeb48m4F4RrBYAyS8ITxDxjOL1um-e_z265pPgF54rR1nvm8AmOp_cOKOYruPS7A76sLeIvkYdB8KEfkujcZDkMXsMn7A7CANyuYgush=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEYi_EYoDbZb1ZnXuH2_E3RTBztaoD3R7q0vm9nU3DV1y_tifoYlRoAkw_wHhSkz4WsWhFz_mcbD4X7ONx0sOk7I7KpPIFbalBEijZIxjZ9IzRIJvRReAVeesPMA2Ic5LvoYIdcmkGDRIk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1281269,
+      "lng": 85.3749323,
+      "label": "Aasav Hospital Muzaffarpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "adarsh-kidney-care-and-dialysis-center-muzaffarpur",
+    "name": "ADARSH KIDNEY CARE & DIALYSIS CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Muzaffarpur often choose ADARSH KIDNEY CARE & DIALYSIS CENTER for its strength in Kidney Transplant Surgery In Muzaffarpur and Kidney Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Muzaffarpur.",
+    "email": "",
+    "phone": "091996 68279",
+    "alternatePhone": "",
+    "website": "",
+    "address": "New Zeromile, chowk, Bairiya Road, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Bairiya Road",
+    "landmark": "Bairiya Road",
+    "emergencyContact": "091996 68279",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Muzaffarpur",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqSod3vPiBiYc6dyUByfTE0R2t4mhU7Nc-3B0eUVbkguFk9naq5HcFLKmA5dx22YMx9rgYx5JVUyV6D6VMipbQxM59hxAwWsfnGDiuZ2AEL8vsXQog0FkdlyIsD9IPyu2FsH6Avw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqSod3vPiBiYc6dyUByfTE0R2t4mhU7Nc-3B0eUVbkguFk9naq5HcFLKmA5dx22YMx9rgYx5JVUyV6D6VMipbQxM59hxAwWsfnGDiuZ2AEL8vsXQog0FkdlyIsD9IPyu2FsH6Avw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1494619,
+      "lng": 85.3896666,
+      "label": "ADARSH KIDNEY CARE & DIALYSIS CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "adya-hospital-muzaffarpur",
+    "name": "ADYA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Muzaffarpur, ADYA HOSPITAL offers coordinated hospital care with major focus on Gynecologist Surgery In Muzaffarpur. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Muzaffarpur.",
+    "email": "",
+    "phone": "062030 91198",
+    "alternatePhone": "",
+    "website": "https://www.askloo.com/adyahospital",
+    "address": "NEW MUZAFFARPUR ZEROMILE SITAMADHI ROAD, Sitamarhi - Muzaffarpur Rd, Muzaffarpur, Bihar 842004",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842004",
+    "locality": "Sitamarhi - Muzaffarpur Rd",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "062030 91198",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC0UmGD1_c_Mgpyr92dkyCCvmgEeVNcpBQP9Tpnad51AxkkRhVAZ8a_2n1BBrt6fEzFA4KMkJSNHCmBWOxuj_j6AeDLc_otwGmfa2ZVBTjdTE0lhVEpcTr6miqZ1jec9qc-iZ6Wg=w1200-h900-p-k-no",
+    "logo": "https://www.askloo.com/front/image/icon.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC0UmGD1_c_Mgpyr92dkyCCvmgEeVNcpBQP9Tpnad51AxkkRhVAZ8a_2n1BBrt6fEzFA4KMkJSNHCmBWOxuj_j6AeDLc_otwGmfa2ZVBTjdTE0lhVEpcTr6miqZ1jec9qc-iZ6Wg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1516024,
+      "lng": 85.3893095,
+      "label": "ADYA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ahilya-multispecialty-hospital-muzaffarpur",
+    "name": "Ahilya MultiSpecialty Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Muzaffarpur, Ahilya MultiSpecialty Hospital delivers integrated care across Laparoscopic Surgery In Muzaffarpur and Speciality Care. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Muzaffarpur.",
+    "email": "",
+    "phone": "077810 40843",
+    "alternatePhone": "",
+    "website": "https://ahilya-multispecialty.grexa.site/",
+    "address": "Juran Chhapra Main Rd, near Om diagnostic centre, Sutapatti, Pokhraira, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Pokhraira",
+    "landmark": "near Om diagnostic centre, Sutapatti, Pokhraira, Muzaffarpur, Bihar 842001",
+    "emergencyContact": "077810 40843",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Muzaffarpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCPaZdLHptUGvGsJmQ_s4eQf3yEEp482gvd_sGIQL6e1MQnE5ytjXaVxTfuyybcRYJ65W3Zm7bP4mVrTyAGsEcSRG-JzsS4MTl7wL6ZL1RR4Y89HWeE4uJAh_cMXP3YxEiSNdFt8W3da0=w1200-h900-p-k-no",
+    "logo": "https://ahilya-multispecialty.grexa.site/images/grexa-full-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCPaZdLHptUGvGsJmQ_s4eQf3yEEp482gvd_sGIQL6e1MQnE5ytjXaVxTfuyybcRYJ65W3Zm7bP4mVrTyAGsEcSRG-JzsS4MTl7wL6ZL1RR4Y89HWeE4uJAh_cMXP3YxEiSNdFt8W3da0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1259717,
+      "lng": 85.3813576,
+      "label": "Ahilya MultiSpecialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "amrit-mother-and-child-hospital-pediatrics-nicu-obstetrics-and-gynaecology-sherpur-dighra-nh-28-muzaffarpur-muzaffarpur",
+    "name": "Amrit Mother And Child Hospital | Pediatrics, NICU,Obstetrics & Gynaecology | Sherpur Dighra,NH-28, Muzaffarpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Muzaffarpur, Amrit Mother And Child Hospital | Pediatrics, NICU,Obstetrics & Gynaecology | Sherpur Dighra,NH-28, Muzaffarpur delivers integrated care across Gynecologist Surgery In Muzaffarpur and Women and Child Care. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "094731 57059",
+    "alternatePhone": "",
+    "website": "http://wcts.plus/WP72776788",
+    "address": "NH-28, old, opposite Water Park, Sherpur, Narayanpur Anant, Dighra Rampur Shah, Muzaffarpur, Bihar 842005",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842005",
+    "locality": "Dighra Rampur Shah",
+    "landmark": "opposite Water Park, Sherpur, Narayanpur Anant, Dighra Rampur Shah, Muzaffarpur, Bihar 842005",
+    "emergencyContact": "094731 57059",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Muzaffarpur",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkXpnABzN-Vcqg9NCfg2gAWXW2-TZcUf_N2jjWlKadQtjEHcq0ygM9pnkT_zqFHZ1V6zqV5m32KUI2IPLZTsOSIqjUGyR_tJBJm1UxdURyzRFQdD4XnkIEXUq4KYzCN3vIuSOD_Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkXpnABzN-Vcqg9NCfg2gAWXW2-TZcUf_N2jjWlKadQtjEHcq0ygM9pnkT_zqFHZ1V6zqV5m32KUI2IPLZTsOSIqjUGyR_tJBJm1UxdURyzRFQdD4XnkIEXUq4KYzCN3vIuSOD_Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.081468,
+      "lng": 85.4048962,
+      "label": "Amrit Mother And Child Hospital | Pediatrics, NICU,Obstetrics & Gynaecology | Sherpur Dighra,NH-28, Muzaffarpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "apollo-maternity-muzaffarpur",
+    "name": "Apollo Maternity",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Muzaffarpur, Apollo Maternity delivers integrated care across Gynecologist Surgery In Muzaffarpur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "092642 31836",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Floor Zila Parishad Market, Juran Chapra, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Juran Chapra",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "092642 31836",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOfTePZMt7eEYzb5eEjZZk33bMYtiazaDqoNhj7IxcKEIBUFWmA54mkBSHRBUB3jBni0hAwV6Uzp_3LDLIrhS59uI5krD6JrjdRzBaNi3cVibX-DDKbNjs63ZVbsQEVIrGWSzSZQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOfTePZMt7eEYzb5eEjZZk33bMYtiazaDqoNhj7IxcKEIBUFWmA54mkBSHRBUB3jBni0hAwV6Uzp_3LDLIrhS59uI5krD6JrjdRzBaNi3cVibX-DDKbNjs63ZVbsQEVIrGWSzSZQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1273513,
+      "lng": 85.3756709,
+      "label": "Apollo Maternity",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aseem-health-care-and-trauma-centre-muzaffarpur",
+    "name": "Aseem Health Care And Trauma Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Muzaffarpur, Aseem Health Care And Trauma Centre delivers integrated care across Orthopedic Surgery In Muzaffarpur. Hospital capacity markers such as Google rating 3.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "096086 91142",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Akharaghat Rd, Muzaffarpur, Shekhpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Akharaghat Rd",
+    "landmark": "Shekhpur",
+    "emergencyContact": "096086 91142",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEuDaa28WBGBJgfMkU1rW_JDGRPY8Ch8CqRIAiz_tH26n9PhQm8VWqeavtbxLC-g0GiiMz2IJLdE1Sqd3rV-evEcThYMi4z5jt5bvLIzax5OW5sbr-Wc2y6roDcXBg8RySoK2p=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEuDaa28WBGBJgfMkU1rW_JDGRPY8Ch8CqRIAiz_tH26n9PhQm8VWqeavtbxLC-g0GiiMz2IJLdE1Sqd3rV-evEcThYMi4z5jt5bvLIzax5OW5sbr-Wc2y6roDcXBg8RySoK2p=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1433991,
+      "lng": 85.3892174,
+      "label": "Aseem Health Care And Trauma Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "asg-eye-hospital-muzaffarpur-muzaffarpur",
+    "name": "ASG Eye Hospital - Muzaffarpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ASG Eye Hospital - Muzaffarpur has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Brain Surgery In Muzaffarpur. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Muzaffarpur.",
+    "email": "",
+    "phone": "0674 617 2423",
+    "alternatePhone": "",
+    "website": "https://asgeyehospital.com/hospital/hathi-chowk-muzaffarpur",
+    "address": "Ground Floor, Landmark, Hathi Chowk, opp. Zila School, Mahammadpur Kazi, Musahri, Muzaffarpur, Bihar 842002",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842002",
+    "locality": "Musahri",
+    "landmark": "Hathi Chowk",
+    "emergencyContact": "0674 617 2423",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF309dlPTm3e7-MmSkNgCrgI2xoO15xf4y02A5ljWNs_sv6XF2-m-8xC4UgSBLnjmS46mkBGB4yDElFmfUZYM5Fw-mcKq4IoxhlCCtZS6-tmT-HaozUUlfmTFo2TdCa2mI3-1CvZwOoE1DO=w1200-h900-p-k-no",
+    "logo": "https://asgeyehospital.com/wp-content/uploads/2025/09/Isolation_Mode.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF309dlPTm3e7-MmSkNgCrgI2xoO15xf4y02A5ljWNs_sv6XF2-m-8xC4UgSBLnjmS46mkBGB4yDElFmfUZYM5Fw-mcKq4IoxhlCCtZS6-tmT-HaozUUlfmTFo2TdCa2mI3-1CvZwOoE1DO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO3bTfhuxEWCV7jNab7ZwWTA82UajUA4Ug_pBkx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMgHfR4xkuuKzNXqu8Y5i0U3v-a9w0Z4U8xSy87=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPyFkboNpl74x546_VvTnXr0FaujteR-Pz1ZFDM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN1MVnGC5hamybOGThdgmo7YWwbWUCaLMNbIrH0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1167813,
+      "lng": 85.39719,
+      "label": "ASG Eye Hospital - Muzaffarpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "awadh-multispeciality-hospital-muzaffarpur",
+    "name": "Awadh Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Awadh Multispeciality Hospital has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Orthopedic Surgery In Muzaffarpur and Speciality Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Muzaffarpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bhakri, chowk, darbhanga road, Muzaffarpur, Bihar 843103",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "843103",
+    "locality": "darbhanga road",
+    "landmark": "darbhanga road",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Muzaffarpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqVGEikk9mbS354VkK_OyX47bkc_lG_vorFzL65cR84zzAWKLo4XnDB5mogSC6wCbMhY9STu0Ophn_urcu5eH1_p5oTedi5JyqgQ6fTd3Ur71FfXEE6NFxSpyS1Yq8jxy32KX9mg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqVGEikk9mbS354VkK_OyX47bkc_lG_vorFzL65cR84zzAWKLo4XnDB5mogSC6wCbMhY9STu0Ophn_urcu5eH1_p5oTedi5JyqgQ6fTd3Ur71FfXEE6NFxSpyS1Yq8jxy32KX9mg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqVGEikk9mbS354VkK=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1589106,
+      "lng": 85.4215886,
+      "label": "Awadh Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bhardwaj-hospital-and-dialysis-center-bhagwanpur",
+    "name": "BHARDWAJ HOSPITAL AND DIALYSIS CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhagwanpur, BHARDWAJ HOSPITAL AND DIALYSIS CENTER brings together specialists for Kidney Transplant Surgery In Muzaffarpur. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Bhagwanpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "085409 88666",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SRI RAM PARISHAR BANK OF BARODA CAMPUS, Hospital and Dialysis Center, C/O DR VAISHNAV ,DR RASHMI AND DR VIJAY KRISHNA Bhardwaj, NH 722, Bhagwanpur, Bihar 843113",
+    "city": "Bhagwanpur",
+    "state": "Bihar",
+    "pincode": "843113",
+    "locality": "NH 722",
+    "landmark": "C/O DR VAISHNAV",
+    "emergencyContact": "085409 88666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJ6LQ9Z1o-vjW_4qrB7nHr8y9HwNryF8X-HEU4oZPDtJal4YJN7OLNAqZVd5UKmIuc64jXXwPeOfP6fbeav_s3VzzVm2vdZxYPuPsGkFP5Fvc-F0B-w7fgOPG5P4T9-MGPtJawsA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJ6LQ9Z1o-vjW_4qrB7nHr8y9HwNryF8X-HEU4oZPDtJal4YJN7OLNAqZVd5UKmIuc64jXXwPeOfP6fbeav_s3VzzVm2vdZxYPuPsGkFP5Fvc-F0B-w7fgOPG5P4T9-MGPtJawsA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1214761,
+      "lng": 85.353605,
+      "label": "BHARDWAJ HOSPITAL AND DIALYSIS CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bhawani-hospital-and-research-institute-muzaffarpur",
+    "name": "Bhawani Hospital & Research Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bhawani Hospital & Research Institute is a prominent hospital in Muzaffarpur, known for structured tertiary care across Cancer Surgery In Muzaffarpur. Hospital capacity markers such as Google rating 3.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "091559 73870",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Circuit House Rd, Saraiyaganj, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Saraiyaganj",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "091559 73870",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=26.1214235%2C85.3646352&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=26.1214235%2C85.3646352&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.1214235%2C85.3646352&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.1214235%2C85.3646352&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1214235,
+      "lng": 85.3646352,
+      "label": "Bhawani Hospital & Research Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bhawani-hospital-muzaffarpur-mother-child-care-multispeciality-care-muzaffarpur",
+    "name": "Bhawani Hospital Muzaffarpur - Mother+Child Care Multispeciality Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bhawani Hospital Muzaffarpur - Mother+Child Care Multispeciality Care has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Gynecologist Surgery In Muzaffarpur, Women and Child Care, and Speciality Care. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Muzaffarpur.",
+    "email": "",
+    "phone": "097713 66896",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Circuit House Rd, opposite Electricity Office, Satsang Nagar, Maripur, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Maripur",
+    "landmark": "opposite Electricity Office, Satsang Nagar, Maripur, Muzaffarpur, Bihar 842001",
+    "emergencyContact": "097713 66896",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Muzaffarpur",
+      "Women and Child Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHscwbFbqnLaxljQChhDgH3_yDCNy3jXRof6ksGTA5uK0gxlrrSM5gFGI79lRfvnDIfLYpQb-19l9NVcE4Kf3oGSfV4g9Ge9ikLNY8YKm04Ijc4x_wki61VFMxausJqaBgaI0tt6BfBsO-z=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHscwbFbqnLaxljQChhDgH3_yDCNy3jXRof6ksGTA5uK0gxlrrSM5gFGI79lRfvnDIfLYpQb-19l9NVcE4Kf3oGSfV4g9Ge9ikLNY8YKm04Ijc4x_wki61VFMxausJqaBgaI0tt6BfBsO-z=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPRfi-XtHBdfnnaH0xCcg8zulnSYZhxXD-vq3n4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM7KpeIJwLpItisJZxcz-RCJmANcmm6dK_D9NB-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1194867,
+      "lng": 85.3642753,
+      "label": "Bhawani Hospital Muzaffarpur - Mother+Child Care Multispeciality Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "city-hospital-muzaffarpur",
+    "name": "City Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Muzaffarpur, City Hospital brings together specialists for Liver Transplant Surgery In Muzaffarpur. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Muzaffarpur.",
+    "email": "",
+    "phone": "074800 13795",
+    "alternatePhone": "",
+    "website": "",
+    "address": "0000, Kalyani, Piyar, Pokhraira, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Pokhraira",
+    "landmark": "Piyar",
+    "emergencyContact": "074800 13795",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFlIFrHF6Tio814pCmLk1-64_k122xezxahTpLqEULL1ky-LYD6331omkkZRTSqdsvfVLIqHrF26YwueYyQM4iB92ltfKvF0fVsnUY3dwUt5d5j-vQ854V-5OnxOg4cm-UzzQZqAa3BORl=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFlIFrHF6Tio814pCmLk1-64_k122xezxahTpLqEULL1ky-LYD6331omkkZRTSqdsvfVLIqHrF26YwueYyQM4iB92ltfKvF0fVsnUY3dwUt5d5j-vQ854V-5OnxOg4cm-UzzQZqAa3BORl=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1196607,
+      "lng": 85.3909819,
+      "label": "City Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "city-life-hospital-brahmpura",
+    "name": "City Life Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Brahmpura often choose City Life Hospital for its strength in Liver Transplant Surgery In Muzaffarpur. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Brahmpura.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Brahmapura, Brahmpura, Bihar 842003",
+    "city": "Brahmpura",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "Brahmapura",
+    "landmark": "Bihar 842003",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_RSdoaE8oJF2o8gQNY4v3q8fbPcQCujQvRM1mQDUD5L7-m4uSPJrEfH0hCJVoxtS5WrQtwCv9wtkg_gA-ZOJ6v3npC-mC0g201wn9CqtXMS1rotcJ3yhhvHX8uvR20DbadiNNYQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_RSdoaE8oJF2o8gQNY4v3q8fbPcQCujQvRM1mQDUD5L7-m4uSPJrEfH0hCJVoxtS5WrQtwCv9wtkg_gA-ZOJ6v3npC-mC0g201wn9CqtXMS1rotcJ3yhhvHX8uvR20DbadiNNYQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.131354,
+      "lng": 85.3664463,
+      "label": "City Life Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "deo-narayan-hospital-and-maternity-centre-muzaffarpur",
+    "name": "Deo Narayan Hospital & Maternity Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Muzaffarpur often choose Deo Narayan Hospital & Maternity Centre for its strength in Gynecologist Surgery In Muzaffarpur. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0621 226 0625",
+    "alternatePhone": "",
+    "website": "https://deonarayanhospital.com/",
+    "address": "Daudpur Kothi, Muzaffarpur, Bihar 842003",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "Daudpur Kothi",
+    "landmark": "Bihar 842003",
+    "emergencyContact": "0621 226 0625",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEKUvxptEs55id3TqfYGPvzmvvgsfBa5Qh46zMQIdPGFPrXAO-Y3P7Lmbx7XaTAnUDB9pxeZ3fuEuBbQ5fC0t0Ey19mgJiaTBfrHgfV2DaB8J4FGStvI-WCB3HXCg9vG5OUYLNy=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEKUvxptEs55id3TqfYGPvzmvvgsfBa5Qh46zMQIdPGFPrXAO-Y3P7Lmbx7XaTAnUDB9pxeZ3fuEuBbQ5fC0t0Ey19mgJiaTBfrHgfV2DaB8J4FGStvI-WCB3HXCg9vG5OUYLNy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1409523,
+      "lng": 85.3684701,
+      "label": "Deo Narayan Hospital & Maternity Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dinesh-muzaffarpur-muzaffarpur",
+    "name": "Dinesh Muzaffarpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dinesh Muzaffarpur is a prominent hospital in Muzaffarpur, known for structured tertiary care across Liver Transplant Surgery In Muzaffarpur. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Muzaffarpur.",
+    "email": "",
+    "phone": "082106 36914",
+    "alternatePhone": "",
+    "website": "",
+    "address": "842001, 02, Juran Chhapra Main Rd, Muzaffarpur, Bihar 843165",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Juran Chhapra Main Rd",
+    "landmark": "Juran Chhapra Main Rd",
+    "emergencyContact": "082106 36914",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=26.1283838%2C85.37533&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=26.1283838%2C85.37533&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.1283838%2C85.37533&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.1283838%2C85.37533&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1283838,
+      "lng": 85.37533,
+      "label": "Dinesh Muzaffarpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "galaxy-hospital-muzaffarpur",
+    "name": "Galaxy Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Galaxy Hospital is a prominent hospital in Muzaffarpur, known for structured tertiary care across Cancer Surgery In Muzaffarpur. Operational strengths including Google rating 3.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "080028 22826",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near, NH 28, Purani Motihari Rd, Housing Board, Bairia, Muzaffarpur, Bihar 843109",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "843109",
+    "locality": "Bairia",
+    "landmark": "Purani Motihari Rd",
+    "emergencyContact": "080028 22826",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFf91xfI_x_DX8_vSCXsC1YhYckTkSWoT_UDBZOfPHigiQqLNaWoQ11-H8ZihrVsZKGi6_O02TFb1vAEvwpWfEpKGDx9ymiH675FgySNRjVeVpPi4OkAAvCp31oFSjkTlH3PSbWoULtbc8N=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFf91xfI_x_DX8_vSCXsC1YhYckTkSWoT_UDBZOfPHigiQqLNaWoQ11-H8ZihrVsZKGi6_O02TFb1vAEvwpWfEpKGDx9ymiH675FgySNRjVeVpPi4OkAAvCp31oFSjkTlH3PSbWoULtbc8N=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0ICnVbWCaEQzHAxYt2uaR6YwUSBs5JM8vP-IFAoVwn1pQ9d6FlIkXbUUSFnyBkb1MXe1-7U4vwC1ejpBzUsLxKiBZvkEesKFPR4QQ7ugogrcx7IluRpGF_lriSeB-ZYzLonNXU8UxbWYW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1458758,
+      "lng": 85.346504,
+      "label": "Galaxy Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "glocal-hospital-and-dialysis-centre-muzaffarpur",
+    "name": "Glocal Hospital and Dialysis Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Muzaffarpur, Glocal Hospital and Dialysis Centre delivers integrated care across Kidney Transplant Surgery In Muzaffarpur. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Muzaffarpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "48XV+R7J, Hazrat Ali Colony, Jaiprakash Nagar, Sadatpur, Muzaffarpur, Bihar 843108",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "843108",
+    "locality": "Sadatpur",
+    "landmark": "Jaiprakash Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=26.1495977%2C85.3431358&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=26.1495977%2C85.3431358&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.1495977%2C85.3431358&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.1495977%2C85.3431358&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1495977,
+      "lng": 85.3431358,
+      "label": "Glocal Hospital and Dialysis Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "glocal-hospital-muzaffarpur-muzaffarpur",
+    "name": "Glocal Hospital, Muzaffarpur",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Glocal Hospital, Muzaffarpur is a prominent general hospital in Muzaffarpur, known for structured tertiary care across Cancer Surgery In Muzaffarpur. Operational strengths including Google rating 3.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Muzaffarpur.",
+    "email": "",
+    "phone": "073209 23709",
+    "alternatePhone": "",
+    "website": "http://ghspl.com/",
+    "address": "NH28, Hazrat Ali Colony, Sadatpur, near Sudha Dairy Plant, Muzaffarpur, Bihar 843108",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "843108",
+    "locality": "near Sudha Dairy Plant",
+    "landmark": "near Sudha Dairy Plant, Muzaffarpur, Bihar 843108",
+    "emergencyContact": "073209 23709",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvBaUuyv2pbckHxCTxmOPbCgG_Nf8OxJ7PrON08y7uzeQ0itl5VMmDAqAS4a6y56Z4j9Dut9E1nuwJ9fuUR8v9uUgDTl0BxMJRGR_0gOF8_Wj-rkmoNa1q1voj5GWjNvUj7dJK5A=w1200-h900-p-k-no",
+    "logo": "https://ghspl.com/assets/img/ghspl/glocal_logo_light.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvBaUuyv2pbckHxCTxmOPbCgG_Nf8OxJ7PrON08y7uzeQ0itl5VMmDAqAS4a6y56Z4j9Dut9E1nuwJ9fuUR8v9uUgDTl0BxMJRGR_0gOF8_Wj-rkmoNa1q1voj5GWjNvUj7dJK5A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1497589,
+      "lng": 85.3429943,
+      "label": "Glocal Hospital, Muzaffarpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "it-memorial-hospital-muzaffarpur",
+    "name": "IT MEMORIAL HOSPITAL",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Muzaffarpur often choose IT MEMORIAL HOSPITAL for its strength in Liver Transplant Surgery In Muzaffarpur. Hospital capacity markers such as Google rating 4.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Muzaffarpur.",
+    "email": "",
+    "phone": "093345 00482",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bhikhanpur, NH-57, near S.K.M.C.H Medical College, Muzaffarpur, Bihar 842004",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842004",
+    "locality": "near S.K.M.C.H Medical College",
+    "landmark": "near S.K.M.C.H Medical College, Muzaffarpur, Bihar 842004",
+    "emergencyContact": "093345 00482",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF72bR183hkze3gBK1N9u36qYTsp_OWumGG4od8dCNeFEHV0bmXHQnbeDPkrZLKKIGZoh8Iowu6mFCNqJnLYV3JFd1ELb6dmSgNkn_uEgrhbCXKB2iAktdbalu7pKV9p7JC0Zal=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF72bR183hkze3gBK1N9u36qYTsp_OWumGG4od8dCNeFEHV0bmXHQnbeDPkrZLKKIGZoh8Iowu6mFCNqJnLYV3JFd1ELb6dmSgNkn_uEgrhbCXKB2iAktdbalu7pKV9p7JC0Zal=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLSMti9sE_iEbqpQThdo2hn6vMd8qMtyy8hQsJrGHZ1QGWYfuGlij-j2IeTmYc5cDK04tlePPeHMsyWBxUZVXdAa11s8-DQfEswQf4blDe7hb4dvVaGzaenTWTLRzp4kCy5t0gvg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbBzPlEonBaWJ_UDgYxNIsS-_ohOdV1uqlGhgoVOKNwfPd8Tqg2bOEt8enzPTgAd9ZMVGDVXX3jEUzDdSHNQwsXjVb5b2X3zhX6o4rcPiHMfUMXxjA8O7tOu8MvDrkbhmKhPKLZ8YaCqDJ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1719766,
+      "lng": 85.3920729,
+      "label": "IT MEMORIAL HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jbs-emergency-hospital-muzaffarpur-bhikhanpura",
+    "name": "JBS EMERGENCY HOSPITAL , Muzaffarpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhikhanpura, JBS EMERGENCY HOSPITAL , Muzaffarpur brings together specialists for Liver Transplant Surgery In Muzaffarpur. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Bhikhanpura can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bhikhanpura, Bihar 842004",
+    "city": "Bhikhanpura",
+    "state": "Bihar",
+    "pincode": "842004",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHh_zVnXjAdNaT8vRJFaNhtnRgXPdCKbzPeYKduM6ET8MKfV-cCf4vNnQ8lCeCmlZu91ChLXSSZYEi8JJR2VETImpGwoLVJhnrzHBdaaYnLXJzpygRd2twz1epf6TWbFroH2qxzuQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHh_zVnXjAdNaT8vRJFaNhtnRgXPdCKbzPeYKduM6ET8MKfV-cCf4vNnQ8lCeCmlZu91ChLXSSZYEi8JJR2VETImpGwoLVJhnrzHBdaaYnLXJzpygRd2twz1epf6TWbFroH2qxzuQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1703777,
+      "lng": 85.3993634,
+      "label": "JBS EMERGENCY HOSPITAL , Muzaffarpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jeevan-deep-hospital-and-trust-muzaffarpur",
+    "name": "Jeevan Deep Hospital & Trust",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jeevan Deep Hospital & Trust has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Liver Transplant Surgery In Muzaffarpur. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095720 11516",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Zero mile, Akharaghat Rd, Musahri, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Musahri",
+    "landmark": "Musahri",
+    "emergencyContact": "095720 11516",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIqSXdqim1YD5FhjIjEaYj-K5jpX9f6DV3AcVK71w6lZYp-kwFoHRuX1i34x2TQ31IgWUqhEv94d3-vb_lf2jKpMiJ81aiugCSr2xIxtiBlXgvqghZSouLQcZ9ZVaoCmdWNSoP=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIqSXdqim1YD5FhjIjEaYj-K5jpX9f6DV3AcVK71w6lZYp-kwFoHRuX1i34x2TQ31IgWUqhEv94d3-vb_lf2jKpMiJ81aiugCSr2xIxtiBlXgvqghZSouLQcZ9ZVaoCmdWNSoP=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1374677,
+      "lng": 85.3900412,
+      "label": "Jeevan Deep Hospital & Trust",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "karn-neurocare-and-maternity-hospital-muzaffarpur",
+    "name": "Karn Neurocare and Maternity Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Muzaffarpur, Karn Neurocare and Maternity Hospital offers coordinated hospital care with major focus on Brain Surgery In Muzaffarpur and Neurosciences. With public-facing highlights like Google rating 2.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Brahmapura, Muzaffarpur, Brahmpura, Bihar 842003",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "Brahmapura",
+    "landmark": "Brahmpura",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Muzaffarpur",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.3",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=26.1340987%2C85.3644467&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=26.1340987%2C85.3644467&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.1340987%2C85.3644467&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.1340987%2C85.3644467&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1340987,
+      "lng": 85.3644467,
+      "label": "Karn Neurocare and Maternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kejriwal-maternity-hospital-my-birth-place-muzaffarpur",
+    "name": "Kejriwal Maternity Hospital my Birth place",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Muzaffarpur often choose Kejriwal Maternity Hospital my Birth place for its strength in Gynecologist Surgery In Muzaffarpur. Its infrastructure includes Google rating 3.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0621 222 1092",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Juran Chapra, Brahmapura, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Brahmapura",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "0621 222 1092",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnH2Ch7f4_KOq411j0usJvbzAN7VeTF5nTJrlS7UQeAiFO4DzmOy30Ty3ySnxAaKcedAwYP7NFxVnH3Qyl83itJ4x5-NjzMLGdjWqHqGvuI-_XmHqEJzgKgf3RFdMvtlIe2wvV=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnH2Ch7f4_KOq411j0usJvbzAN7VeTF5nTJrlS7UQeAiFO4DzmOy30Ty3ySnxAaKcedAwYP7NFxVnH3Qyl83itJ4x5-NjzMLGdjWqHqGvuI-_XmHqEJzgKgf3RFdMvtlIe2wvV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdM9rB2l8fDkTA6gNBXfdNFA3xm5_wVcoC8fkiMmLb5g8n3dTLsrKF1tNBlkuIm5S3StZaF-gDs9gyDdYLOjUf3x91347HnO58AzfgELlooGmWVTU65GoEzyakpy42B4dtr1A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1295115,
+      "lng": 85.3761646,
+      "label": "Kejriwal Maternity Hospital my Birth place",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kidney-hospital-muzaffarpur",
+    "name": "Kidney hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Muzaffarpur, Kidney hospital delivers integrated care across Kidney Transplant Surgery In Muzaffarpur and Kidney Care. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49V6+PPC, Brahmpura, Muzaffarpur, Brahmpura, Bihar 842003",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "Brahmpura",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Muzaffarpur",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZ5dXHWPPOAeSlx3Gl2oDN8kyNQ9yNj9GPfQFstp13b5gmtQfWtdVpcMOS1EeAv98RAaFSCq8g6TQnlpqxjo-bwPLJ1Zb8mHUf0tJmNc7eJKQ_3QTz6i16scQ9cvsOqsM66CeggjDwsfo=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZ5dXHWPPOAeSlx3Gl2oDN8kyNQ9yNj9GPfQFstp13b5gmtQfWtdVpcMOS1EeAv98RAaFSCq8g6TQnlpqxjo-bwPLJ1Zb8mHUf0tJmNc7eJKQ_3QTz6i16scQ9cvsOqsM66CeggjDwsfo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1444196,
+      "lng": 85.3617944,
+      "label": "Kidney hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kn-life-hospital-muzaffarpur",
+    "name": "KN Life Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Muzaffarpur often choose KN Life Hospital for its strength in Liver Transplant Surgery In Muzaffarpur. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49HF+67M, Juran Chhapra Main Rd, near Central Bank, Juran Chapra, Brahmapura, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Brahmapura",
+    "landmark": "near Central Bank, Juran Chapra, Brahmapura, Muzaffarpur, Bihar 842001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8oYhVN32iOe0uqAUcjZFt69eV51u618pBGfsuVrmA3WegN9AgQM-RQaTjGuNR1uSNMVdQC4cEe_tH4PjD6NOuMups7YgaXJ0thO4jJfOTLtV9zUEU2U7jeR2S9DLLm3kmb6hT5T8cKiCM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8oYhVN32iOe0uqAUcjZFt69eV51u618pBGfsuVrmA3WegN9AgQM-RQaTjGuNR1uSNMVdQC4cEe_tH4PjD6NOuMups7YgaXJ0thO4jJfOTLtV9zUEU2U7jeR2S9DLLm3kmb6hT5T8cKiCM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1280991,
+      "lng": 85.3731814,
+      "label": "KN Life Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "krishna-devi-deviprasad-kejriwal-maternity-hospital-muzaffarpur",
+    "name": "Krishna Devi Deviprasad Kejriwal Maternity Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Krishna Devi Deviprasad Kejriwal Maternity Hospital has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Gynecologist Surgery In Muzaffarpur. The facility stands out for Google rating 2.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49FR+26M, Musahri, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Musahri",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.6"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=26.12259%2C85.39055&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=26.12259%2C85.39055&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.12259%2C85.39055&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.12259%2C85.39055&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.12259,
+      "lng": 85.39055,
+      "label": "Krishna Devi Deviprasad Kejriwal Maternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "maa-janki-hospital-and-research-centre-pvt-ltd-muzaffarpur",
+    "name": "Maa Janki Hospital & Research Centre Pvt Ltd.",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Muzaffarpur, Maa Janki Hospital & Research Centre Pvt Ltd. delivers integrated care across Laparoscopic Surgery In Muzaffarpur. Operational strengths including Google rating 3.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Muzaffarpur.",
+    "email": "",
+    "phone": "082073 88845",
+    "alternatePhone": "",
+    "website": "https://maajankihospital.com/",
+    "address": "Bariya Golmber Maa Janki Hoshpital, Jaiprakash Nagar, Muzaffarpur, Bihar 842002",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842002",
+    "locality": "Jaiprakash Nagar",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "082073 88845",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzo_7PPI_a_NCIQw-vMsD7nNESZxxnB_GrK1B_0EgPXbpftooGPcYl9mXc9_eOw7i5uaZPpPsU9whGLB-m5iwRpBAQnfBhRzRf0otQXe88SqDJZxcGHdgIGZ5-Zj-IxPsV449Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzo_7PPI_a_NCIQw-vMsD7nNESZxxnB_GrK1B_0EgPXbpftooGPcYl9mXc9_eOw7i5uaZPpPsU9whGLB-m5iwRpBAQnfBhRzRf0otQXe88SqDJZxcGHdgIGZ5-Zj-IxPsV449Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHwLnocLOnuasd14MtV0XxAQg9fmJAWBfJJFSWJjbZWkv4ScmPifQSralBdSRE5K4_CRaj9W-10YE5tTrW6bjYH0VJRjykjjhSfUbaoFyCyLpp-eX2P40etsrJU1UDq5qz2GtbHw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1458089,
+      "lng": 85.3595316,
+      "label": "Maa Janki Hospital & Research Centre Pvt Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "matulya-hospital-paigamber-pur-kolhua",
+    "name": "MaTulya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Paigamber Pur Kolhua, MaTulya Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Muzaffarpur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Paigamber Pur Kolhua.",
+    "email": "",
+    "phone": "082102 65697",
+    "alternatePhone": "",
+    "website": "",
+    "address": "first floor MRF Darbar Tyre, Near police line, chowk, barriya zeromile road, Paigamber Pur Kolhua, Bihar 842003",
+    "city": "Paigamber Pur Kolhua",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "barriya zeromile road",
+    "landmark": "Near police line, chowk, barriya zeromile road, Paigamber Pur Kolhua, Bihar 842003",
+    "emergencyContact": "082102 65697",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=26.1495097%2C85.3667311&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=26.1495097%2C85.3667311&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.1495097%2C85.3667311&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.1495097%2C85.3667311&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1495097,
+      "lng": 85.3667311,
+      "label": "MaTulya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mch-muzaffarpur",
+    "name": "Mch",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Muzaffarpur, Mch delivers integrated care across Brain Surgery In Muzaffarpur. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "092629 66541",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49Q6+33R, Chandni chowk, Muzaffarpur, Brahmpura, Bihar 842003",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "Chandni chowk",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "092629 66541",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9Nqg8bXGQffoOiSQqMQdaZZLk04FZwIS2H7GP1qztRTCLmN67HlzrrUBZohEB44OO4oZiizp5bCUtIqiXxW1EkWQ0ZTGBdCZ8YUY7_0pUKX6KXMPwtyjB2ldhjDXSeAE2sFaz=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9Nqg8bXGQffoOiSQqMQdaZZLk04FZwIS2H7GP1qztRTCLmN67HlzrrUBZohEB44OO4oZiizp5bCUtIqiXxW1EkWQ0ZTGBdCZ8YUY7_0pUKX6KXMPwtyjB2ldhjDXSeAE2sFaz=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.137729,
+      "lng": 85.360137,
+      "label": "Mch",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mediwell-hospital-muzaffarpur",
+    "name": "Mediwell Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mediwell Hospital has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Brain Surgery In Muzaffarpur. Hospital capacity markers such as Google rating 2.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Muzaffarpur.",
+    "email": "",
+    "phone": "0621 355 2545",
+    "alternatePhone": "",
+    "website": "",
+    "address": "ward no. 6, Main road, Brahampura Main Rd, near railway colony, Muzaffarpur, Bihar 842003",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "near railway colony",
+    "landmark": "near railway colony, Muzaffarpur, Bihar 842003",
+    "emergencyContact": "0621 355 2545",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGceHIkcNe1mQkzlaFrt7hI-kQFMlBgGoVjiH6-tO3iT74FMBPhL11YHnpMisuSx4N_iPiTL2pHJNYyNbo9yGyPFipvkRTp3zyA9y7QO0anSGi_T-MFFrwksgg6bB1sFMgtDGlmOw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGceHIkcNe1mQkzlaFrt7hI-kQFMlBgGoVjiH6-tO3iT74FMBPhL11YHnpMisuSx4N_iPiTL2pHJNYyNbo9yGyPFipvkRTp3zyA9y7QO0anSGi_T-MFFrwksgg6bB1sFMgtDGlmOw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1300791,
+      "lng": 85.3679404,
+      "label": "Mediwell Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "minakshi-hospital-muzaffarpur",
+    "name": "Minakshi Hospital...",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Minakshi Hospital... is a prominent hospital in Muzaffarpur, known for structured tertiary care across Brain Surgery In Muzaffarpur. The facility stands out for Google rating 3.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "077638 01539",
+    "alternatePhone": "",
+    "website": "http://www.minakshihospital.in/",
+    "address": "neel kanth chowk, Brahmapura, Muzaffarpur, Brahmpura, Bihar 842003",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "Brahmapura",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "077638 01539",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAES74InXLGWjloBprowF3NqVQ0wasKw9DA5OVajfgjbFVuN_J1FxXTcaTCYugffcJxpqk2pLuDVX2zMgAUp0GBb-C8Yjb9J5x99SCV3a0R1tHPWD-bc3TMx1KL4zE7YuTMkBuYD=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAES74InXLGWjloBprowF3NqVQ0wasKw9DA5OVajfgjbFVuN_J1FxXTcaTCYugffcJxpqk2pLuDVX2zMgAUp0GBb-C8Yjb9J5x99SCV3a0R1tHPWD-bc3TMx1KL4zE7YuTMkBuYD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZq8m4DmUn8aE0R5iK_I6f-fOvr_Kn8ctzJjjJgaA9k82PaO3Tj4CYJXjQ-27xH2mBTB3fuJ_FNvxacxCOQ2coeezN7qkX0Vfp9jILuwcPWU-rM92uMEDswyB1LDt7AycnVIar=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1313239,
+      "lng": 85.3662958,
+      "label": "Minakshi Hospital...",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mishra-hospital-and-test-tube-baby-centre-muzaffarpur",
+    "name": "Mishra Hospital & Test Tube Baby Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Muzaffarpur often choose Mishra Hospital & Test Tube Baby Centre for its strength in Orthopedic Surgery In Muzaffarpur. With public-facing highlights like Google rating 4.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079709 09097",
+    "alternatePhone": "",
+    "website": "https://mishrahospitalandivfcenter.com/",
+    "address": "Road No.04, Juran Chapra, Brahmapura, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Brahmapura",
+    "landmark": "Brahmapura",
+    "emergencyContact": "079709 09097",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJUcoy4ZL6GtVMpgR6cqseOQG0GI-QoQlyrP-p9vnHrvnBBIR1hOfk6IHuGmCTkjAoOw1XYZOpiR5uugjoL6BuRc0U8IPlZ542O-MIbhAnyax-tKNgLgzhddrXFLvp38YFoRVflg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJUcoy4ZL6GtVMpgR6cqseOQG0GI-QoQlyrP-p9vnHrvnBBIR1hOfk6IHuGmCTkjAoOw1XYZOpiR5uugjoL6BuRc0U8IPlZ542O-MIbhAnyax-tKNgLgzhddrXFLvp38YFoRVflg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.129572,
+      "lng": 85.3741771,
+      "label": "Mishra Hospital & Test Tube Baby Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mishra-multi-specialities-hospital-pvt-ltd-muzaffarpur",
+    "name": "Mishra Multi Specialities Hospital Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Muzaffarpur, Mishra Multi Specialities Hospital Pvt Ltd brings together specialists for Gynecologist Surgery In Muzaffarpur. Hospital capacity markers such as Google rating 4.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Muzaffarpur.",
+    "email": "",
+    "phone": "091175 81911",
+    "alternatePhone": "",
+    "website": "http://www.mishrahospitalandivfcenter.com/",
+    "address": "4, Juran Chhapra Main Rd, near Mishra Multispeciality Hospital and Trauma Center, Juran Chapra, Brahmapura, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Brahmapura",
+    "landmark": "near Mishra Multispeciality Hospital and Trauma Center, Juran Chapra, Brahmapura, Muzaffarpur, Bihar 842001",
+    "emergencyContact": "091175 81911",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFoiDgbaZ_3E_XM2MUM-gg59d7Jb-E7GkDQMVWnG1yStyYa2TxoqcGVLgppCBE-O2OU8aReR9zumBktqwz99a3KZvcf7r1O1z4aQk_cgOXuSiUD2r0hReyJE8OcrPII9bVySe4=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFoiDgbaZ_3E_XM2MUM-gg59d7Jb-E7GkDQMVWnG1yStyYa2TxoqcGVLgppCBE-O2OU8aReR9zumBktqwz99a3KZvcf7r1O1z4aQk_cgOXuSiUD2r0hReyJE8OcrPII9bVySe4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1295736,
+      "lng": 85.3741702,
+      "label": "Mishra Multi Specialities Hospital Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "muzaffarpur-heart-hospital-muzaffarpur",
+    "name": "Muzaffarpur Heart Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Muzaffarpur, Muzaffarpur Heart Hospital brings together specialists for Heart Surgery In Muzaffarpur and Cardiac Care. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091021 25516",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49FM+2J7, Sutapatti, Pokhraira, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Pokhraira",
+    "landmark": "Pokhraira",
+    "emergencyContact": "091021 25516",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Muzaffarpur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH79XvNEarOJLSWt5oaxFQX4fbfJQYVzQUSuglDR_Gj5TTCQLmlzMkLXPCyfpcJZ_XVFKoDNRPMkCc1F25OCUTVqMcIaeoIFy5bYYXZyVUt8bp7Ab1u_tfX6x4GnNqctvDxxZqb=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH79XvNEarOJLSWt5oaxFQX4fbfJQYVzQUSuglDR_Gj5TTCQLmlzMkLXPCyfpcJZ_XVFKoDNRPMkCc1F25OCUTVqMcIaeoIFy5bYYXZyVUt8bp7Ab1u_tfX6x4GnNqctvDxxZqb=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1225287,
+      "lng": 85.3840366,
+      "label": "Muzaffarpur Heart Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "muzaffarpur-royal-hospital-muzaffarpur",
+    "name": "Muzaffarpur Royal Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Muzaffarpur often choose Muzaffarpur Royal Hospital for its strength in Kidney Transplant Surgery In Muzaffarpur. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Muzaffarpur.",
+    "email": "",
+    "phone": "096088 31842",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kacchi Pakki Chowk, NH 28, Muzaffarpur, Bihar 842002",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842002",
+    "locality": "NH 28",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "096088 31842",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1V0Lg9MRldNayPVS-HCBYOY-gInwTWaf03qUcPkFbn8YJfEQ8OcNSQLT8GtuzFAlkSprrmcXFrizoJnWEmEqq_3mhXxnuHTjfGpxAsb7LxcAbeyGQE7kQ5t4RLQXt3CyKHjg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1V0Lg9MRldNayPVS-HCBYOY-gInwTWaf03qUcPkFbn8YJfEQ8OcNSQLT8GtuzFAlkSprrmcXFrizoJnWEmEqq_3mhXxnuHTjfGpxAsb7LxcAbeyGQE7kQ5t4RLQXt3CyKHjg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMNSHAu-TvjoGuJ9dOzapCdh1fGz4EWsBiqFh-e=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOPeaCeoe4Uzgws9DkoKlSBVpuezWyq87ZMwrir=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPbDi-ZsRJf2gYspR3ybR7g1J_qEJdkdoFH921n=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.0912686,
+      "lng": 85.389865,
+      "label": "Muzaffarpur Royal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nephroplus-dialysis-and-kidney-care-centre-bhawani-hospital-and-research-institute-bhawani-hospital-and-research-institute-maripur-power-house-chowk",
+    "name": "NephroPlus Dialysis & Kidney Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhawani Hospital & Research Institute Bhawani Hospital&Research Institute Maripur Power House Chowk, NephroPlus Dialysis & Kidney Care Centre brings together specialists for Kidney Transplant Surgery In Muzaffarpur and Kidney Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Bhawani Hospital & Research Institute Bhawani Hospital&Research Institute Maripur Power House Chowk.",
+    "email": "",
+    "phone": "079933 28013",
+    "alternatePhone": "",
+    "website": "https://www.nephroplus.com/",
+    "address": "Bhawani Hospital & Research Institute Bhawani Hospital&Research Institute Maripur Power House Chowk, Bihar 842001",
+    "city": "Bhawani Hospital & Research Institute Bhawani Hospital&Research Institute Maripur Power House Chowk",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "079933 28013",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Muzaffarpur",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC37n_1a36FG4pKkNCdXtXfFFpfA4wAd9tkKgrXRjvwDHhM4XG3CeInQarUek8uhqIBKo6VQoGivq1Wb9PR52ypnbyMHm3Fo1YbPvjrMFYFgSH3K3ZMb3vH6Zs4-V4BqkkONfvrqVsR_Up=w1200-h900-p-k-no",
+    "logo": "https://nephroplus.com/assets/images/logo_nephro.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC37n_1a36FG4pKkNCdXtXfFFpfA4wAd9tkKgrXRjvwDHhM4XG3CeInQarUek8uhqIBKo6VQoGivq1Wb9PR52ypnbyMHm3Fo1YbPvjrMFYFgSH3K3ZMb3vH6Zs4-V4BqkkONfvrqVsR_Up=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1214221,
+      "lng": 85.3646245,
+      "label": "NephroPlus Dialysis & Kidney Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "new-manas-multi-speciality-hospital-muzaffarpur",
+    "name": "New Manas Multi Speciality Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Muzaffarpur often choose New Manas Multi Speciality Hospital for its strength in Orthopedic Surgery In Muzaffarpur and Speciality Care. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Muzaffarpur.",
+    "email": "",
+    "phone": "082103 58323",
+    "alternatePhone": "",
+    "website": "http://newmanasmshospital.com/",
+    "address": "Mehdi Hassan Rd, Chowk, Brahmapura, Muzaffarpur, Bihar 842003",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "Brahmapura",
+    "landmark": "Brahmapura",
+    "emergencyContact": "082103 58323",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Muzaffarpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmCgdA3Hl8PrrUTTY9hdYrCo35ViVjxiwpVWyCCsHgxqcrznoYPtFCswLh4X1YYBbLBVVcsDi_qTYp1oX7h7T6fSBfyeskMkVAGn1uRBb0ALQ--WZ-fQgwenCyNPlmRndnbs5BMQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmCgdA3Hl8PrrUTTY9hdYrCo35ViVjxiwpVWyCCsHgxqcrznoYPtFCswLh4X1YYBbLBVVcsDi_qTYp1oX7h7T6fSBfyeskMkVAGn1uRBb0ALQ--WZ-fQgwenCyNPlmRndnbs5BMQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHm1stQ3lxx9ftp24bZKQwYfMXzSkbHlmDNncY0w3fiouuGv6F-725dcxqggtR_CY0dLrn1yWsrtGQ7PscV3hWp29TKNSpEmNOd4LlzH-td556dJdNeYOgen5fzgld8CcRpVgeInQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1301825,
+      "lng": 85.3688365,
+      "label": "New Manas Multi Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "new-muzaffarpur-hospital-muzaffarpur",
+    "name": "New Muzaffarpur Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "New Muzaffarpur Hospital has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Muzaffarpur. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074638 38954",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Brahmapura, Muzaffarpur, Bihar 842003",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "Brahmapura",
+    "landmark": "Bihar 842003",
+    "emergencyContact": "074638 38954",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtRc8KhzqPpt_ARzcF2OfjVlVKI8cCzg_7o_tOsgM1zWAvMF_yPyDc3W54isb1dm36HkDG2gfJWLp7Dss5dLEbexg1wPP9d5nkkbl31BaQXhLnIgS_47v88iBwEmpMgNCeAXT2wA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtRc8KhzqPpt_ARzcF2OfjVlVKI8cCzg_7o_tOsgM1zWAvMF_yPyDc3W54isb1dm36HkDG2gfJWLp7Dss5dLEbexg1wPP9d5nkkbl31BaQXhLnIgS_47v88iBwEmpMgNCeAXT2wA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGY8mYwMUhjuCFPC26tefN9J-c_YnlhQUiXRsNVIp51_BufnYhFECV_DMdeExy1o97hnQb8gikObXUZljyco5yy-7ba4v8bMIekwJBx9Qn3ez3p-Vg708a1D8cs0JoP-ItTmi4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.129935,
+      "lng": 85.369264,
+      "label": "New Muzaffarpur Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ninti-cardiac-care-muzaffarpur",
+    "name": "Ninti cardiac care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ninti cardiac care has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Heart Surgery In Muzaffarpur and Cardiac Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "1800 10 2102",
+    "alternatePhone": "",
+    "website": "https://www.nintihospital.com/",
+    "address": "First Floor, Aasav Hospital, Juran Chhapra Main Rd, Juran Chapra, Brahmapura, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Brahmapura",
+    "landmark": "Juran Chhapra Main Rd",
+    "emergencyContact": "1800 10 2102",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Muzaffarpur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=26.128125%2C85.3749313&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=26.128125%2C85.3749313&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.128125%2C85.3749313&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.128125%2C85.3749313&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.128125,
+      "lng": 85.3749313,
+      "label": "Ninti cardiac care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nobel-hospital-ahiyapur",
+    "name": "NOBEL HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ahiyapur, NOBEL HOSPITAL brings together specialists for Cancer Surgery In Muzaffarpur. Operational strengths including Google rating 4.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ahiyapur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH-77, Plot No.-1463, Sitamarhi Rd, P.S, Bhikhanpura, Ahiyapur, Bihar 842004",
+    "city": "Ahiyapur",
+    "state": "Bihar",
+    "pincode": "842004",
+    "locality": "Bhikhanpura",
+    "landmark": "Sitamarhi Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGui9mYl4EGAzQ3rJKsPlViZmDymgKGbE-t5P4fl7m4WznnQRuA2GOnnLoZH9RQeD1odz1bxPz4FtGTjR681vVHv9rv9D0McO_ftge94o3iB9PDBC2kuEiDJ2x2M1NbyN2Oi7ui-ihDMAC3=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGui9mYl4EGAzQ3rJKsPlViZmDymgKGbE-t5P4fl7m4WznnQRuA2GOnnLoZH9RQeD1odz1bxPz4FtGTjR681vVHv9rv9D0McO_ftge94o3iB9PDBC2kuEiDJ2x2M1NbyN2Oi7ui-ihDMAC3=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1740569,
+      "lng": 85.3929752,
+      "label": "NOBEL HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "phular-superspeciality-hospital-muzaffarpur",
+    "name": "Phular Superspeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Muzaffarpur often choose Phular Superspeciality Hospital for its strength in Liver Transplant Surgery In Muzaffarpur and Speciality Care. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0621 227 1151",
+    "alternatePhone": "",
+    "website": "https://www.phularhospital.com/",
+    "address": "2, Juran Chhapra Main Rd, Juran Chapra, Brahmapura, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Brahmapura",
+    "landmark": "Juran Chapra",
+    "emergencyContact": "0621 227 1151",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Muzaffarpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEs7M8cWggRQMgi3RBsfxIFR4t9u0yvXfS9nKegHxBAOj65TswS5yekZGxOE9c4qK9728TVZV8YQuCMIGQZKMbax-hgwbkyXHJr4wGHuw-MQLwvqSfJAnqH3JhEDJxBPWVLjDj7AZhG4L0=w1200-h900-p-k-no",
+    "logo": "https://www.phularhospital.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEs7M8cWggRQMgi3RBsfxIFR4t9u0yvXfS9nKegHxBAOj65TswS5yekZGxOE9c4qK9728TVZV8YQuCMIGQZKMbax-hgwbkyXHJr4wGHuw-MQLwvqSfJAnqH3JhEDJxBPWVLjDj7AZhG4L0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-t9bYDu8YTTKBKd0KQUCdg2mUwgsaotBvd2e4Olf_-Mz704Qgk5vn72RALodzkCTRxIIHAPwDov_WLeTaOf_j6HPMSbmh4y1r1mId0HwGO-kkVHzhdKfm3RFj2D3w-Sl59uY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.129085,
+      "lng": 85.3754937,
+      "label": "Phular Superspeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "prabhat-cardiac-center-muzaffarpur",
+    "name": "Prabhat cardiac Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Muzaffarpur, Prabhat cardiac Center offers coordinated hospital care with major focus on Heart Surgery In Muzaffarpur and Cardiac Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Muzaffarpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3, Juran Chhapra Main Rd, Juran Chapra, Brahmapura, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Brahmapura",
+    "landmark": "Juran Chapra",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Muzaffarpur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDPzS75QSB4cDhwVxySir7ZCzLG196Y3vUJ1_ETS-QEcvV-3zBHFFxUiwJEIFr08Q113yzSufpB_IBFBlgDlt_J1OhtchpN26kZlHb4Dgb_-cKnLfwY_xlitkumFn-Stfw7O--eX19KHkv=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDPzS75QSB4cDhwVxySir7ZCzLG196Y3vUJ1_ETS-QEcvV-3zBHFFxUiwJEIFr08Q113yzSufpB_IBFBlgDlt_J1OhtchpN26kZlHb4Dgb_-cKnLfwY_xlitkumFn-Stfw7O--eX19KHkv=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1292123,
+      "lng": 85.3747881,
+      "label": "Prabhat cardiac Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "prasad-hospital-muzaffarpur",
+    "name": "PRASAD HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Muzaffarpur often choose PRASAD HOSPITAL for its strength in Liver Transplant Surgery In Muzaffarpur. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095709 96625",
+    "alternatePhone": "",
+    "website": "https://www.prasadhospital.org/",
+    "address": "Prasad Hospital, Brahmapura, Muzaffarpur, Brahmpura, Bihar 842003",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "Brahmapura",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "095709 96625",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdWJerxBcbtaUs6Qx-ztWm4xnG8qSb1-r-Wg6l1BTYUaYh01zqoOrCapMbxRbPzfg9ljHkleOMZajS7TAhJhq_WlCVtjczFf7nuRO16D4SqrdQpC2g1he8iwKi7Xow3AvuC-b1rx5QFD2q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdWJerxBcbtaUs6Qx-ztWm4xnG8qSb1-r-Wg6l1BTYUaYh01zqoOrCapMbxRbPzfg9ljHkleOMZajS7TAhJhq_WlCVtjczFf7nuRO16D4SqrdQpC2g1he8iwKi7Xow3AvuC-b1rx5QFD2q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNM4yy9FFaswLRpOcj2pctE96gev-RaG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNM4yy9FFaswLRpOcj2pctE96gev-RaGkD2BG4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNn9F1fa7eCIL04jQkJfKu-CwBMYgCulf6bDaU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPu-glcHActrJ29TYI7w1lOtujhuGQU2YflTLk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1343914,
+      "lng": 85.3654372,
+      "label": "PRASAD HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "prashant-hospital-dumari",
+    "name": "Prashant Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dumari, Prashant Hospital delivers integrated care across Brain Surgery In Muzaffarpur. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dumari.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "39X3+WWX, Gobarsahi, Dumari, Bihar 843113",
+    "city": "Dumari",
+    "state": "Bihar",
+    "pincode": "843113",
+    "locality": "Gobarsahi",
+    "landmark": "Dumari",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_kn8QAke5hWG5qhh-Em-khm2HNRIyjWWtvkONvXoz_jnDZdoBGSKc-848amYnWjqd5e6wSu1BW1PwqZgvbqpXhN_6zu2G8uvR9nHBzFe-f4dWXIgctrDVBXA3D4Rnpip3_oCaVQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_kn8QAke5hWG5qhh-Em-khm2HNRIyjWWtvkONvXoz_jnDZdoBGSKc-848amYnWjqd5e6wSu1BW1PwqZgvbqpXhN_6zu2G8uvR9nHBzFe-f4dWXIgctrDVBXA3D4Rnpip3_oCaVQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkw6-WpIL2y_EUkwbam5BeeTO0W-ChHxxEzERTXSwXOGSufmKnsOl9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkw6-WpIL2y_EUkwbam5BeeTO0W-ChHxxEzERTXSwXOGSufmKnsOl942eT8l-ayhYhe_dZ3pmnKz6LrmSWzuGqCc7NH3pVSsx30g0Mw095yDR0XjhQnDzlxPq-aRTOA_OFS1KCFtfu003m=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKcD0BMaR5Y5IvcHRUjTfxZeQQSWWPe5RyVITH88wkxhvPnRTS3w8ONu1VsNtD_o1LgocXYg6ijpwWtCjm8Et60B3nlndS0uguGp6Q8D2xDmTrjiGQQA26KWnbT4FD-DsBgpM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmH1pmiS_nABFOTX4erwZOq_kRFS1nvwbPxHqw2FSvpk48sVN4YobOYgyeYciVMXmQeXqETwv5QVuDYa9P3-Kqg1eAF-t8XSihEyNoZ2BYi2fjsOd6Dt5goo9lnI6qvFzJ7V2HpA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.0998628,
+      "lng": 85.3548478,
+      "label": "Prashant Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "prashant-memorial-charitable-hospital-muzaffarpur",
+    "name": "Prashant Memorial Charitable Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Prashant Memorial Charitable Hospital has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Liver Transplant Surgery In Muzaffarpur. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097714 23635",
+    "alternatePhone": "",
+    "website": "http://prashanthospital.in/",
+    "address": "Rd Number 4, Juran Chapra, Brahmapura, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Brahmapura",
+    "landmark": "Brahmapura",
+    "emergencyContact": "097714 23635",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGr7w_Q7aCZLvuhDsgNKklld8c27X03RFkCfT0BPy4asBKuqfI3KG4BvkkiYAxYISByNz-3o66zbMGwoEAupWHq3lx-DDIhen02rFRRxa-MQsYtcVirUBp9rEOScffbNmUuBGny=w1200-h900-p-k-no",
+    "logo": "http://prashanthospital.in/assets/img/footer_logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGr7w_Q7aCZLvuhDsgNKklld8c27X03RFkCfT0BPy4asBKuqfI3KG4BvkkiYAxYISByNz-3o66zbMGwoEAupWHq3lx-DDIhen02rFRRxa-MQsYtcVirUBp9rEOScffbNmUuBGny=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQ_HC1n5vnYswtBekaqHPvMFWLhurpp-F3VHG0LgQ9d2dqj8UR_0Qr51KLyPBdL5MC8QH5p_dfV7YylztCeqn0xMISXk4CO9bm-el5YElhMUpeNoVSIAi1gPJEccxy2C3Qg1oM5X5q-9c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1293992,
+      "lng": 85.3735237,
+      "label": "Prashant Memorial Charitable Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pratham-hospital-ortho-and-trauma-center-dr-tabrez-alam-bone-and-joint-specialist-muzaffarpur",
+    "name": "Pratham Hospital - Ortho and Trauma Center (Dr Tabrez Alam - Bone and joint specialist)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pratham Hospital - Ortho and Trauma Center (Dr Tabrez Alam - Bone and joint specialist) is a prominent hospital in Muzaffarpur, known for structured tertiary care across Spine Surgery In Muzaffarpur and Orthopaedics. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "088090 35627",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mehdi Hassan, Brahampura Main Rd, Chowk, Muzaffarpur, Bihar 842003",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "Chowk",
+    "landmark": "Chowk",
+    "emergencyContact": "088090 35627",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Muzaffarpur",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtkFq8QquRGgV0ZMJzyfJEePRXH0AsQLLDLdJ6TLHA-tFMkUTEL_kcF1-p3KWR4MDE38JxwOxRhWGNnzelksxOF8umEXdvEQNPGPScE6TPgdIHJb-DjW5o4Mz7SHKEwG0sjxiVRQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtkFq8QquRGgV0ZMJzyfJEePRXH0AsQLLDLdJ6TLHA-tFMkUTEL_kcF1-p3KWR4MDE38JxwOxRhWGNnzelksxOF8umEXdvEQNPGPScE6TPgdIHJb-DjW5o4Mz7SHKEwG0sjxiVRQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1303057,
+      "lng": 85.3702225,
+      "label": "Pratham Hospital - Ortho and Trauma Center (Dr Tabrez Alam - Bone and joint specialist)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ranchi-neuro-clinic-muzaffarpur",
+    "name": "RANCHI NEURO CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RANCHI NEURO CLINIC has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Brain Surgery In Muzaffarpur and Neurosciences. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49GR+4HQ, Purani Bazar Rd, Mahammadpur Kazi, Musahri, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Musahri",
+    "landmark": "Mahammadpur Kazi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Muzaffarpur",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=26.1253469%2C85.3914876&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=26.1253469%2C85.3914876&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.1253469%2C85.3914876&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=26.1253469%2C85.3914876&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1253469,
+      "lng": 85.3914876,
+      "label": "RANCHI NEURO CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rbm-hospital-muzaffarpur",
+    "name": "RBM Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Muzaffarpur often choose RBM Hospital for its strength in Cancer Surgery In Muzaffarpur. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Muzaffarpur.",
+    "email": "",
+    "phone": "095087 71161",
+    "alternatePhone": "",
+    "website": "http://www.rbmhospital.in/",
+    "address": "Front of SBI ATM, Mehdi, Iqbal Hasan Rd, Brahmapura, Muzaffarpur, Bihar 842003",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842003",
+    "locality": "Brahmapura",
+    "landmark": "Iqbal Hasan Rd",
+    "emergencyContact": "095087 71161",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRhcK0depgqWl2AUA64qa_Ijpkw4b5KjyV24onCgTYWWm-m7xZYDh8s-HEAosa3NswD7dYPOuoldEzljJWh-VUeLJDUPEMxc4GoDnb1XN7aRcat4fAViHcpOi3SUk-T2FY4qn6=w1200-h900-p-k-no",
+    "logo": "https://rbmhospital.in/wp-content/uploads/elementor/thumbs/RBM-galaxy-hos-7-Picsart-AiImageEnhancer-roqqvzuoy3ph2lxnq4j8gh3vns3ksysvn2mpa4tdd4.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRhcK0depgqWl2AUA64qa_Ijpkw4b5KjyV24onCgTYWWm-m7xZYDh8s-HEAosa3NswD7dYPOuoldEzljJWh-VUeLJDUPEMxc4GoDnb1XN7aRcat4fAViHcpOi3SUk-T2FY4qn6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2c_C2Ti7I5BXAT-R8I7eD0Wle1ffn1CxqmRqI_u88QqoPkdiQ1UUUE6QHK__G-lTIlRlOEhA3p_AUgE7nb9hd4Atq0baQkFejFmabXTk4ViV-Gp-NbRJJzTCM46I5ILSJS4PUqgPbDKMU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1302754,
+      "lng": 85.368331,
+      "label": "RBM Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "saaol-heart-center-muzaffarpur-muzaffarpur",
+    "name": "SAAOL Heart Center, Muzaffarpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SAAOL Heart Center, Muzaffarpur has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Heart Surgery In Muzaffarpur and Cardiac Care. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093341 23951",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B.B. Ganj, NH-28, Main Road, opp. Jai Mata Di Petrol Pump, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "opp. Jai Mata Di Petrol Pump",
+    "landmark": "Main Road",
+    "emergencyContact": "093341 23951",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Muzaffarpur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrucvecyrCcznxJXUXfa9vflFShkAydo1eN9Sa0EzoZL34ucDHWkqTZf1GP334ANXT_GzpC68VGz4xLih7o33N5a4FsV4EG1aBLjUe3xFOdp63IlPI5RHS2pyIuELVgmMd2cm96u4ldJg6=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrucvecyrCcznxJXUXfa9vflFShkAydo1eN9Sa0EzoZL34ucDHWkqTZf1GP334ANXT_GzpC68VGz4xLih7o33N5a4FsV4EG1aBLjUe3xFOdp63IlPI5RHS2pyIuELVgmMd2cm96u4ldJg6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.129571,
+      "lng": 85.3590393,
+      "label": "SAAOL Heart Center, Muzaffarpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sadar-hospital-muzaffarpur",
+    "name": "Sadar Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted government hospital in Muzaffarpur, Sadar Hospital delivers integrated care across Cancer Surgery In Muzaffarpur. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49CM+X56, Sutapatti, Pokhraira, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Pokhraira",
+    "landmark": "Pokhraira",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHrIkc60XQ3Gz9I-PWktrfImbiGq1YRAPBI4HUKh__lMQBUG0JU5uXLBj_uL2UuPo73KnxhC9a4cxlpm-SHzTW9kbCfF-FKSlXSYwJw6UTbwN5MHR3On5LuthPTje1kCPrH20kwVzfmzNMI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHrIkc60XQ3Gz9I-PWktrfImbiGq1YRAPBI4HUKh__lMQBUG0JU5uXLBj_uL2UuPo73KnxhC9a4cxlpm-SHzTW9kbCfF-FKSlXSYwJw6UTbwN5MHR3On5LuthPTje1kCPrH20kwVzfmzNMI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1221146,
+      "lng": 85.3823656,
+      "label": "Sadar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-hospital-and-maternity-center-p-o-ramna",
+    "name": "Shree Hospital & Maternity Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in P.O. Ramna often choose Shree Hospital & Maternity Center for its strength in Gynecologist Surgery In Muzaffarpur. Operational strengths including Google rating 2.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in P.O. Ramna.",
+    "email": "",
+    "phone": "082359 52035",
+    "alternatePhone": "",
+    "website": "https://hospitalshree.com/",
+    "address": "Opposite- Chapman Girls School Chakwasu Lane, P.O. Ramna, Bihar 842002",
+    "city": "P.O. Ramna",
+    "state": "Bihar",
+    "pincode": "842002",
+    "locality": "Opposite- Chapman Girls School Chakwasu Lane",
+    "landmark": "Bihar 842002",
+    "emergencyContact": "082359 52035",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqepVzJ6d4GwqWsWcCWtJ5Q1hcKUjIjR44i_r5hIFW1JI6PQgq24957mfpJSD8dCkVRQ1rowmBXTTtBe4pIM6jqQT4j8aAll7detyrHdbmthyi2dAgbqDPSyih6aXrMD-HbvSH8Q=w1200-h900-p-k-no",
+    "logo": "https://hospitalshree.com/wp-content/uploads/2024/10/logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqepVzJ6d4GwqWsWcCWtJ5Q1hcKUjIjR44i_r5hIFW1JI6PQgq24957mfpJSD8dCkVRQ1rowmBXTTtBe4pIM6jqQT4j8aAll7detyrHdbmthyi2dAgbqDPSyih6aXrMD-HbvSH8Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1158502,
+      "lng": 85.3996367,
+      "label": "Shree Hospital & Maternity Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-pradhan-hospital-muzaffarpur",
+    "name": "Shree Pradhan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Pradhan Hospital has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Orthopedic Surgery In Muzaffarpur. Operational strengths including Google rating 3.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Muzaffarpur.",
+    "email": "",
+    "phone": "091996 54999",
+    "alternatePhone": "",
+    "website": "http://www.shreepradhanhospital.in/",
+    "address": "NH-28, Khabra, Muzaffarpur, Bihar 843113",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "843113",
+    "locality": "Khabra",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "091996 54999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_QTbkhm-Qh2WwpmfyK3YZdEPykcmjKBTexWHaOssZNTIqlLAqlUO67EKfn1vZ00vHYwu9BCAZfDOAUSpPHeOfv3P0_sC_dRzU7wtD2TqIlzfVibGvtXlTnw_HmiRVPdwU7Y-UIUE7ui0T=w1200-h900-p-k-no",
+    "logo": "https://www.shreepradhanhospital.in/wp-content/uploads/2021/06/Bone.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_QTbkhm-Qh2WwpmfyK3YZdEPykcmjKBTexWHaOssZNTIqlLAqlUO67EKfn1vZ00vHYwu9BCAZfDOAUSpPHeOfv3P0_sC_dRzU7wtD2TqIlzfVibGvtXlTnw_HmiRVPdwU7Y-UIUE7ui0T=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1051765,
+      "lng": 85.3705948,
+      "label": "Shree Pradhan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sonali-hospital-ahiyapur",
+    "name": "Sonali Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ahiyapur, Sonali Hospital brings together specialists for Laparoscopic Surgery In Muzaffarpur. Hospital capacity markers such as Google rating 3.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Ahiyapur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://sonalihospital.com/",
+    "address": "Bairiya Zeromile Road 100 Meter East from, Dadar Bridge, Ahiyapur, Bihar 842001",
+    "city": "Ahiyapur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Dadar Bridge",
+    "landmark": "Ahiyapur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGiLzPcbVOq5gtcRXU2hllCLoC3tyLZ6APEqHbgGGqIL9wLI2dB3r3Ve5yObRu36_sFdshFoy79GIDs2UjdY_5PhgLTdsbGXDTPuyIAgVjGGnluObvnvV8TONSDwir8tVMJUh7=w1200-h900-p-k-no",
+    "logo": "https://sonalihospital.com/wp-content/uploads/2021/01/cropped-cropped-output-onlinepngtools-3.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGiLzPcbVOq5gtcRXU2hllCLoC3tyLZ6APEqHbgGGqIL9wLI2dB3r3Ve5yObRu36_sFdshFoy79GIDs2UjdY_5PhgLTdsbGXDTPuyIAgVjGGnluObvnvV8TONSDwir8tVMJUh7=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxquhvJx-z1uYCN_ZcWCGuToofJ2pcxIlpi94ALjNWV1BcRjyviPe1XxAHMYehmh1BUqccIcREWt33t3Ex16f8jSWJ1uxzzhfpARebqrXZEc8OKmMFukLd1ifdhejKp3epsdzO3sg2ZnKL=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1490263,
+      "lng": 85.3806999,
+      "label": "Sonali Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "subhani-ortho-trauma-hospital-muzaffarpur",
+    "name": "Subhani Ortho Trauma Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Subhani Ortho Trauma Hospital is a prominent hospital in Muzaffarpur, known for structured tertiary care across Orthopedic Surgery In Muzaffarpur and Orthopaedics. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49GF+G59, Brahmapura, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Brahmapura",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Muzaffarpur",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjmwn33xe5Lp7YJTBpReKoFs8M-9r1cXimlmOX1ZOhZ9Q0joy9EGRFAjiM17boP_28yKyeZwRNrFIIlCRtTJ2WJhiWz7WNdSz0n-YjdjJv7TajsfgHIFl0AkHBj1-93mVO34S5=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjmwn33xe5Lp7YJTBpReKoFs8M-9r1cXimlmOX1ZOhZ9Q0joy9EGRFAjiM17boP_28yKyeZwRNrFIIlCRtTJ2WJhiWz7WNdSz0n-YjdjJv7TajsfgHIFl0AkHBj1-93mVO34S5=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1262831,
+      "lng": 85.3729794,
+      "label": "Subhani Ortho Trauma Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "titanium-hospital-nh-57",
+    "name": "Titanium Hospital | टाइटेनियम हॉस्पिटल",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in NH-57, Titanium Hospital | टाइटेनियम हॉस्पिटल delivers integrated care across Cancer Surgery In Muzaffarpur. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in NH-57.",
+    "email": "",
+    "phone": "070611 54004",
+    "alternatePhone": "",
+    "website": "https://www.titaniumhospital.in/",
+    "address": "Vijay Chhapra, NH-57, Bihar 842004",
+    "city": "NH-57",
+    "state": "Bihar",
+    "pincode": "842004",
+    "locality": "Vijay Chhapra",
+    "landmark": "Bihar 842004",
+    "emergencyContact": "070611 54004",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFAOV81lc-ZT32Zdm9yB6H8lrCicgtZjFhcaGcdXza7fgNrMJsBuqzqTzWhvOqGHhMIxoho9NskTYO5boJCId1mgPQndwcZbhsfOUBR8pnIjfccSfyJjrUNCjmWcSkJPr9_5Ad_=w1200-h900-p-k-no",
+    "logo": "https://titaniumhospital.in/wp-content/uploads/2022/06/cropped-WhatsApp-Image-2023-10-07-at-4.11.18-PM-32x32.jpeg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFAOV81lc-ZT32Zdm9yB6H8lrCicgtZjFhcaGcdXza7fgNrMJsBuqzqTzWhvOqGHhMIxoho9NskTYO5boJCId1mgPQndwcZbhsfOUBR8pnIjfccSfyJjrUNCjmWcSkJPr9_5Ad_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1739724,
+      "lng": 85.3798039,
+      "label": "Titanium Hospital | टाइटेनियम हॉस्पिटल",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "trome-multi-speciality-hospital-muzaffarpur",
+    "name": "Trome Multi Speciality Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Trome Multi Speciality Hospital has built a strong reputation in Muzaffarpur for multidisciplinary treatment pathways covering Knee Replacement Surgery In Muzaffarpur and Speciality Care. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Muzaffarpur can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089691 21333",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Power House Chowk, Circuit House Rd, Saraiyaganj, Maripur, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Maripur",
+    "landmark": "Saraiyaganj",
+    "emergencyContact": "089691 21333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Muzaffarpur",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmbl8OVc9l8dFMBsKvo-0vA3XAyCpEe8UIJjjq53klzDb4mwr92wXixrHOtHDUAp7EuwHOv-I8frJLiRzo3TUO3I8duPPx1oqATxLuf0qOJKTG2rK3R7XaD03zGei_c2Iw7NwN=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmbl8OVc9l8dFMBsKvo-0vA3XAyCpEe8UIJjjq53klzDb4mwr92wXixrHOtHDUAp7EuwHOv-I8frJLiRzo3TUO3I8duPPx1oqATxLuf0qOJKTG2rK3R7XaD03zGei_c2Iw7NwN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFO21WP-va_BectCSSlXN-AEhon-DouTIUPdQnLW9M-oSYkaxpiu3X-jv1RnlBNxRQcAvTTlejf4caiQBSltlBpevXJ_dev6fPqmjgf2NZPW-oRDDfyTtTWTuoIBp1aKJqRVgOv-DgXgyUP=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1214158,
+      "lng": 85.364664,
+      "label": "Trome Multi Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "urmila-hearthospital-muzaffarpur",
+    "name": "Urmila HeartHospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Muzaffarpur, Urmila HeartHospital delivers integrated care across Heart Surgery In Muzaffarpur and Cardiac Care. Hospital capacity markers such as Google rating 3.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://urmilahearthospital.com/",
+    "address": "499J+6RC, Pokhraira, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Pokhraira",
+    "landmark": "Muzaffarpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Muzaffarpur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJZySNas1KZg_L-Gag0ZhcUveNA5MLF0vsWSib96UvFvLP_Zyq23L_P5-yciisTiZy5dRMQSSljJs32MJzIrcsGGXOyXHnx8E9l1mR6nmTPX4xzzE37BMWHy8usE_mjExNvH7jN5QLO6jI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJZySNas1KZg_L-Gag0ZhcUveNA5MLF0vsWSib96UvFvLP_Zyq23L_P5-yciisTiZy5dRMQSSljJs32MJzIrcsGGXOyXHnx8E9l1mR6nmTPX4xzzE37BMWHy8usE_mjExNvH7jN5QLO6jI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHv-03Sim15RzQgflNjhpnJy-J_tX6gE9UmGcAQ0I_fVfK1V0gUZNJVM9KQtxONdMT1YHMi4fM9fOS4pApz-0QieSTj-ze5LvsJxJHK4x6UOaulqAXkKz0Xu49HSYDKtXvLl-Y=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1180616,
+      "lng": 85.3820122,
+      "label": "Urmila HeartHospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "usha-hospital-muzaffarpur",
+    "name": "Usha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Usha Hospital is a prominent hospital in Muzaffarpur, known for structured tertiary care across Orthopedic Surgery In Muzaffarpur. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Muzaffarpur.",
+    "email": "",
+    "phone": "094723 57005",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49HG+CH4, Juran Chhapra Rd Number 1, Juran Chapra, Brahmapura, Muzaffarpur, Bihar 842001",
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "pincode": "842001",
+    "locality": "Brahmapura",
+    "landmark": "Juran Chapra",
+    "emergencyContact": "094723 57005",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Muzaffarpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpi4VWu4CqJaxuCubWxOA-SO813b6uVKVhD2oUn_eQ6Ic7kBmcQ1KVZfWACmrtDH1lmz3tQz36ROcbIR-V2xoTQuMVwdP6KXttIPWw3z_SFU3fu9MkLefpQ_dAHMggf5K2mHoM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpi4VWu4CqJaxuCubWxOA-SO813b6uVKVhD2oUn_eQ6Ic7kBmcQ1KVZfWACmrtDH1lmz3tQz36ROcbIR-V2xoTQuMVwdP6KXttIPWw3z_SFU3fu9MkLefpQ_dAHMggf5K2mHoM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 26.1293688,
+      "lng": 85.3746808,
+      "label": "Usha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

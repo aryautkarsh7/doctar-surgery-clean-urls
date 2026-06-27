@@ -1,0 +1,6346 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aaryan-kidney-and-multispeciality-hospital-vijayawada",
+    "name": "Aaryan Kidney and Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vijayawada, Aaryan Kidney and Multispeciality Hospital brings together specialists for Kidney Transplant Surgery In Vijayawada, Kidney Care, and Speciality Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089789 00880",
+    "alternatePhone": "",
+    "website": "https://archospital.in/",
+    "address": "31-3-20/1 1st line, Eluru Rd, Maruthi Nagar, Vijayawada, Andhra Pradesh 520004",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520004",
+    "locality": "Maruthi Nagar",
+    "landmark": "Maruthi Nagar",
+    "emergencyContact": "089789 00880",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Vijayawada",
+      "Kidney Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiqFUH_exZUqRZrTJBRs-vqXFI9JYi9l1JZaKF5chVaald4nufwFOYfgsqO51mipcGChNlmeH5CgNDZqKOPAmNh8Xy0N94wr9T2hTIOjT9Kfio8-ImXEEdhzbOPymuANRueq0Y=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiqFUH_exZUqRZrTJBRs-vqXFI9JYi9l1JZaKF5chVaald4nufwFOYfgsqO51mipcGChNlmeH5CgNDZqKOPAmNh8Xy0N94wr9T2hTIOjT9Kfio8-ImXEEdhzbOPymuANRueq0Y=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5180746,
+      "lng": 80.6456183,
+      "label": "Aaryan Kidney and Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "akkineni-hospitals-bharathi-nagar",
+    "name": "Akkineni Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bharathi Nagar, Akkineni Hospitals offers coordinated hospital care with major focus on Gynecologist Surgery In Vijayawada. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bharathi Nagar.",
+    "email": "",
+    "phone": "073867 65599",
+    "alternatePhone": "",
+    "website": "http://www.awhospital.in/",
+    "address": "D.No.54-15/10-12, Srinagar Colony, Service Road, Bharathi Nagar, Andhra Pradesh 520008",
+    "city": "Bharathi Nagar",
+    "state": "Andhra Pradesh",
+    "pincode": "520008",
+    "locality": "Service Road",
+    "landmark": "Service Road",
+    "emergencyContact": "073867 65599",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7lFa9HkE3dsZRz4LmrgnFNrLH0v5s3_mZoYtSt58oF_K_24Ti_l8dF_ZBL374FgNA1CcZnunfii5kKt2RVX4rFunHaOKV33ijRagtqY4ppTfGtLVxrkyDd4ed1TCzlJmzAM5j1aBZI9vT=w1200-h900-p-k-no",
+    "logo": "https://awhospital.in/wp-content/uploads/2022/05/AWH_Logo-02.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7lFa9HkE3dsZRz4LmrgnFNrLH0v5s3_mZoYtSt58oF_K_24Ti_l8dF_ZBL374FgNA1CcZnunfii5kKt2RVX4rFunHaOKV33ijRagtqY4ppTfGtLVxrkyDd4ed1TCzlJmzAM5j1aBZI9vT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5074175,
+      "lng": 80.6638042,
+      "label": "Akkineni Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "american-oncology-institute-kanuru-vijayawada-andhra-pradesh-kanuru",
+    "name": "American Oncology Institute, Kanuru, Vijayawada, Andhra Pradesh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kanuru, American Oncology Institute, Kanuru, Vijayawada, Andhra Pradesh offers coordinated hospital care with major focus on Oncologist Surgery In Vijayawada. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanuru.",
+    "email": "",
+    "phone": "1800 208 2000",
+    "alternatePhone": "",
+    "website": "https://www.americanoncology.com/hospital/american-oncology-institute-at-vijayawada-kanuru",
+    "address": "At Nagarjuna Hospital Compound, NTR Marg, near Mana Kalyana Vedika, Endowments Colony, Chalasani Nagar, Kanuru, Andhra Pradesh 520007",
+    "city": "Kanuru",
+    "state": "Andhra Pradesh",
+    "pincode": "520007",
+    "locality": "Chalasani Nagar",
+    "landmark": "near Mana Kalyana Vedika, Endowments Colony, Chalasani Nagar, Kanuru, Andhra Pradesh 520007",
+    "emergencyContact": "1800 208 2000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzEsyTFxFk5x2e8ehz3dgaz2u9UB2kPsoG_pAdikFBS8XghEbSV1TQknVFuo0ixOayKmrnwCLD58kZEL5yMlsSKqSz9FidyvAO4a3RAvlFs13zH7sOXEjL9FGpNn6uF2wNDhIjHG-0OGA=w1200-h900-p-k-no",
+    "logo": "https://www.americanoncology.com/static/web/images/Logo-149x58-01-1@2x.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzEsyTFxFk5x2e8ehz3dgaz2u9UB2kPsoG_pAdikFBS8XghEbSV1TQknVFuo0ixOayKmrnwCLD58kZEL5yMlsSKqSz9FidyvAO4a3RAvlFs13zH7sOXEjL9FGpNn6uF2wNDhIjHG-0OGA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNtz90v8XAWR45n02eaGAErAio_xp_kn3OZkFzE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.4881545,
+      "lng": 80.6846522,
+      "label": "American Oncology Institute, Kanuru, Vijayawada, Andhra Pradesh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "andhra-hospital-heart-and-brain-institute-vijayawada",
+    "name": "Andhra Hospital Heart And Brain Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vijayawada often choose Andhra Hospital Heart And Brain Institute for its strength in Heart Surgery In Vijayawada, Cardiac Care, and Neurosciences. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0866 244 2333",
+    "alternatePhone": "",
+    "website": "http://www.andhrahospitals.org/",
+    "address": "tagore chamber,, 29, Nakkala Rd, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Governor Peta",
+    "landmark": "Nakkala Rd",
+    "emergencyContact": "0866 244 2333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Vijayawada",
+      "Cardiac Care",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLfGxapU_SvJX3-gVFeN3ntMBTv0KwnSfwLUOrbwPkqvVBHb5eOoID4PwonTZYCxsXNgAUEAdZuTscQnWQU0JHCAwy1HD8sD4d63EnI124nD8Bc_Ttrc1LbvDvu1PQ4Gt3wlAViQ=w1200-h900-p-k-no",
+    "logo": "http://www.andhrahospitals.org/assets/uploads/logos/logo_new_(2)1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLfGxapU_SvJX3-gVFeN3ntMBTv0KwnSfwLUOrbwPkqvVBHb5eOoID4PwonTZYCxsXNgAUEAdZuTscQnWQU0JHCAwy1HD8sD4d63EnI124nD8Bc_Ttrc1LbvDvu1PQ4Gt3wlAViQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHbVT9WeQ6SU8iUWg4WFNmi5BQOaql3zjluPjUnGPcf0VcSB17iYCnWwb-2-1RAom9GTwYuqx1v=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHbVT9WeQ6SU8iUWg4WFNmi5BQOaql3zjluPjUnGPcf0VcSB17iYCnWwb-2-1RAom9GTwYuqx1v7PuXiNMJCrrUiRPK8sUt7pDiC7lktbOtGwBxTz0Q23cmlkfUKE4kBcKaAkk8xOAf7w_o=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.510797,
+      "lng": 80.6319443,
+      "label": "Andhra Hospital Heart And Brain Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "andhra-hospitals-vijayawada",
+    "name": "Andhra Hospitals",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Vijayawada, Andhra Hospitals delivers integrated care across Oncologist Surgery In Vijayawada. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "0866 257 4757",
+    "alternatePhone": "",
+    "website": "http://www.andhrahospitals.org/",
+    "address": "C.V.R. Complex, D.NO. 29-14-61, Sheshadri Sastry St, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Governor Peta",
+    "landmark": "Sheshadri Sastry St",
+    "emergencyContact": "0866 257 4757",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYV7oqypxY1bqMeNLXfOrOM7XQE_9WjyzNGgvpOcTDo1Ea8Q4XxED-aBwEmv_bv-i0wwOfnmc7oblgwt9DIoYNQiCmqGH4NNa3-Szh-XK7HqRDbKcrKNTcA_VkUMg360HUbhA=w1200-h900-p-k-no",
+    "logo": "http://www.andhrahospitals.org/assets/uploads/logos/logo_new_(2)1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYV7oqypxY1bqMeNLXfOrOM7XQE_9WjyzNGgvpOcTDo1Ea8Q4XxED-aBwEmv_bv-i0wwOfnmc7oblgwt9DIoYNQiCmqGH4NNa3-Szh-XK7HqRDbKcrKNTcA_VkUMg360HUbhA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5111055,
+      "lng": 80.6294689,
+      "label": "Andhra Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ankura-hospital-for-women-and-children-vijayawada-vijayawada",
+    "name": "Ankura Hospital for Women & Children - Vijayawada",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vijayawada, Ankura Hospital for Women & Children - Vijayawada delivers integrated care across Gynecologist Surgery In Vijayawada and Women and Child Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "090531 08108",
+    "alternatePhone": "",
+    "website": "https://www.ankurahospitals.com/best-women-and-children-hospital-in-vijayawada/",
+    "address": "60-9-10/2A, 60-9-10/2B Chennupati Shyam Prasad Street, Siddhartha Nagar, 7th Lane, Polyclinic Rd, beside Lalitha Jewellery, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "beside Lalitha Jewellery",
+    "landmark": "beside Lalitha Jewellery, Vijayawada, Andhra Pradesh 520010",
+    "emergencyContact": "090531 08108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vijayawada",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsxiXHYfi6wGpZDDvb5R2ady8UG99nREjTuwWaF6njagxyZ12n6RX1foiV1BCDalF8oI6qATl1caVwU6zhgSipptOtQLKkMfowTLaWsfZF26roWmXq8O7unpBcv1FsUlmIX7DB=w1200-h900-p-k-no",
+    "logo": "https://www.ankurahospitals.com/build/assets/Ankura-Logo-with-Registerd-mark-New-01-DTdersqc.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsxiXHYfi6wGpZDDvb5R2ady8UG99nREjTuwWaF6njagxyZ12n6RX1foiV1BCDalF8oI6qATl1caVwU6zhgSipptOtQLKkMfowTLaWsfZF26roWmXq8O7unpBcv1FsUlmIX7DB=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOmhH81kcxbvUTv6Vw40h69qUK5rlujc47JhUy1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMKfY9__U1mQuq7g-GE0SZ9kPNMPW8YZhPOP4Or=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPqMVe-Z4b4pPma10TfYBlY_6rHEXtQnEdroC9w=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMaH9rYYGVTuuvXzAYkNf1azWlfyPDHoFWn1G3O=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5032068,
+      "lng": 80.6517087,
+      "label": "Ankura Hospital for Women & Children - Vijayawada",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ap-blood-and-blood-cancer-centre-hematology-and-blood-cancer-clinic-vijayawada",
+    "name": "AP BLOOD & BLOOD CANCER CENTRE- Hematology & Blood cancer clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vijayawada often choose AP BLOOD & BLOOD CANCER CENTRE- Hematology & Blood cancer clinic for its strength in Oncologist Surgery In Vijayawada. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "077995 09000",
+    "alternatePhone": "",
+    "website": "https://apbloodcancercentre.com/",
+    "address": "29-14-61/A, Prakasam Rd, Suryaraopeta, Buckinghampeta, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Buckinghampeta",
+    "landmark": "Suryaraopeta",
+    "emergencyContact": "077995 09000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGA6siFfQ-cUHFu3tRZ1gwd3zUc1GtMtFeQi-NV35ftnqwiR-f_UQeAC2p4pmHAax1EdRIYIEuB92luCWoRkNb329bNxQDmSQQlEfWbcLjHB8wGj8rrwR38E2WXHVG9chq9mrp1=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGA6siFfQ-cUHFu3tRZ1gwd3zUc1GtMtFeQi-NV35ftnqwiR-f_UQeAC2p4pmHAax1EdRIYIEuB92luCWoRkNb329bNxQDmSQQlEfWbcLjHB8wGj8rrwR38E2WXHVG9chq9mrp1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNwDE1k8EBayFZcrTGqewgkEikWIJw2JV7LU4-i=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNFnxk24K5rDg5GMPX9q6kvPXnUVyxqVCZr9WWt=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOxDiibVIhHI07hiAEanRkUA_tpzzsQCRNj2FrN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM9KX3l6hiZeC36LCtsSa0GN50lV0NFp1_bzLk8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5099748,
+      "lng": 80.6346824,
+      "label": "AP BLOOD & BLOOD CANCER CENTRE- Hematology & Blood cancer clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ashoka-hospital-vijayawada",
+    "name": "Ashoka Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vijayawada, Ashoka Hospital delivers integrated care across Liver Transplant Surgery In Vijayawada. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Vijayawada.",
+    "email": "",
+    "phone": "079979 93959",
+    "alternatePhone": "",
+    "website": "http://ashokahospitals.com/",
+    "address": "Narasimharao Naidu St, Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Governor Peta",
+    "landmark": "Governor Peta",
+    "emergencyContact": "079979 93959",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvKl2noveD7wfYsmWp8IjnZFU5Iv8U4KI9EGyMhMWbqK6TniK4vBrD8AkpZUwHxnGKVn0dcnIkF4t7aB_oCYbvG1VGGErXjsZnWKFyNDuIsdmm89HouTQmpspwIzEcOk-Cy2RPBiVUlasx=w1200-h900-p-k-no",
+    "logo": "https://ashokahospitals.com/img/logo/ashoka_logo_2.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvKl2noveD7wfYsmWp8IjnZFU5Iv8U4KI9EGyMhMWbqK6TniK4vBrD8AkpZUwHxnGKVn0dcnIkF4t7aB_oCYbvG1VGGErXjsZnWKFyNDuIsdmm89HouTQmpspwIzEcOk-Cy2RPBiVUlasx=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.512373,
+      "lng": 80.6341203,
+      "label": "Ashoka Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aster-ramesh-hospital-best-multispeciality-hospital-in-mg-road-vijayawada-vijayawada",
+    "name": "Aster Ramesh Hospital - Best Multispeciality Hospital in MG Road, Vijayawada",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vijayawada, Aster Ramesh Hospital - Best Multispeciality Hospital in MG Road, Vijayawada brings together specialists for Liver Transplant Surgery In Vijayawada and Speciality Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0866 247 2000",
+    "alternatePhone": "",
+    "website": "https://www.asterhospitals.in/hospitals/aster-ramesh-vijayawada-mg-rd",
+    "address": "MG Rd, Opposite Indira Gandhi Municipal Stadium, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Labbipet",
+    "landmark": "Opposite Indira Gandhi Municipal Stadium, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "emergencyContact": "0866 247 2000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vijayawada",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqZC0CE_RAqfD1jdq5-fEXBTiOu0XBgypbF6OGIMYh80t7o31-khp7BipgdkmGum2Ml0-c42sZXs748IeK79aKou41_YzkAoxNhToQp2LeXtBB2GuquBVRJaHJQEl1fmjz-vJPoa0gYldf=w1200-h900-p-k-no",
+    "logo": "https://www.asterhospitals.in/sites/default/files/2023-06/aster-ramesh-hospitals-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqZC0CE_RAqfD1jdq5-fEXBTiOu0XBgypbF6OGIMYh80t7o31-khp7BipgdkmGum2Ml0-c42sZXs748IeK79aKou41_YzkAoxNhToQp2LeXtBB2GuquBVRJaHJQEl1fmjz-vJPoa0gYldf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMl9ae4OjEmOcnTvRx3uA2poNOpHMnEpxgXGxUY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP6VQ20siTaE_BIAsgJF8YVZVY24SILybu-9119=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNcqRn8g-d9i-Hs34az8dpFav-v-xZqbG75Ft41=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOzla8pnB7xW1pOqN8Yf5yDOBAEMGRHPDob_t9h=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5028427,
+      "lng": 80.6388938,
+      "label": "Aster Ramesh Hospital - Best Multispeciality Hospital in MG Road, Vijayawada",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aster-ramesh-hospital-best-multispeciality-hospital-in-vijayawada-main-branch-vijayawada",
+    "name": "Aster Ramesh Hospital - Best Multispeciality Hospital in Vijayawada Main Branch",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vijayawada, Aster Ramesh Hospital - Best Multispeciality Hospital in Vijayawada Main Branch delivers integrated care across Oncologist Surgery In Vijayawada and Speciality Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "0866 246 3463",
+    "alternatePhone": "",
+    "website": "https://www.asterhospitals.in/aster-ramesh-hospitals",
+    "address": "Dr Ramesh Hospital Rd, near ITI College Bus stop, Jayaprakash Nagar, Vijayawada, Andhra Pradesh 520008",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520008",
+    "locality": "Jayaprakash Nagar",
+    "landmark": "near ITI College Bus stop, Jayaprakash Nagar, Vijayawada, Andhra Pradesh 520008",
+    "emergencyContact": "0866 246 3463",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGk-6ChUR49NKOHxn0wLdSEkSPvsvsNIqAKn4bqg21JWnKdihMf7jX2LAChN7j9qC8zHoBV1ACb8fXaudp1XCTAf-GlhUABpm5YM242QyQvrDzsaoVbRCMve2O7hpqEYM65iloqJUhATBM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGk-6ChUR49NKOHxn0wLdSEkSPvsvsNIqAKn4bqg21JWnKdihMf7jX2LAChN7j9qC8zHoBV1ACb8fXaudp1XCTAf-GlhUABpm5YM242QyQvrDzsaoVbRCMve2O7hpqEYM65iloqJUhATBM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNfFjwnEC6CuBVnNW1w_P6ghvlQgJ6yqNACVktf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPS9PDpCIxBlVp3FkTrLxOLjde8QxXeg8QPXIOV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOCTDL07bzAnK0IVrAQOR_UTGz1ZCqZDka9mQ0d=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM1B-uOeVJanY4nugrYNgTAiYsOB_LeTO8ob7T9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5057451,
+      "lng": 80.6602215,
+      "label": "Aster Ramesh Hospital - Best Multispeciality Hospital in Vijayawada Main Branch",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "beleaf-hospitals-multispeciality-hospital-vijayawada-vijayawada",
+    "name": "BELEAF HOSPITALS | MULTISPECIALITY HOSPITAL VIJAYAWADA",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vijayawada, BELEAF HOSPITALS | MULTISPECIALITY HOSPITAL VIJAYAWADA offers coordinated hospital care with major focus on Oncologist Surgery In Vijayawada and Speciality Care. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "093981 95765",
+    "alternatePhone": "",
+    "website": "https://beleafhospitals.com/",
+    "address": "D.No: 31, 9 8/7, Jadagamvari St, opposite beleaf medschool, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopeta",
+    "landmark": "opposite beleaf medschool, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "emergencyContact": "093981 95765",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLOgfAsrh90KCNXP6ANntg-J5kDqczLnkxddcwskvud9xgVs4xfyFkQje-ej3B3314piu51Wgeju3DQe4wdjNQ9lUtSB8Sq9nX0IjF03Fz_OCjOVDdQcDnH_XdH5orbZ70Njg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLOgfAsrh90KCNXP6ANntg-J5kDqczLnkxddcwskvud9xgVs4xfyFkQje-ej3B3314piu51Wgeju3DQe4wdjNQ9lUtSB8Sq9nX0IjF03Fz_OCjOVDdQcDnH_XdH5orbZ70Njg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPcjvEFd9K785h5RwA2QA0qDKU39JZUKtlLh1Gp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPanmDiOtfN220TIbgs1apvVHu1b7T25etdvSHB=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN9PxBShdTUb2o9RUvL93Fp_GQUsO2HrhV8Ax3N=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5153606,
+      "lng": 80.6374757,
+      "label": "BELEAF HOSPITALS | MULTISPECIALITY HOSPITAL VIJAYAWADA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "best-gastro-gyne-and-hernia-clinic-vijayawada",
+    "name": "BEST GASTRO, GYNE & HERNIA CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vijayawada, BEST GASTRO, GYNE & HERNIA CLINIC offers coordinated hospital care with major focus on Laparoscopic Surgery In Vijayawada and Gastroenterology. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "080993 53535",
+    "alternatePhone": "",
+    "website": "http://www.ravikanthkongara.com/",
+    "address": "29-28/1-24, opp. SWATHI PRESS, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopeta",
+    "landmark": "Suryaraopeta",
+    "emergencyContact": "080993 53535",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Vijayawada",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFrOUou-8K-VRWUfwIX7yUwg9nHVQxiH8YOvCM_AZmgZh6ZIxTJl3iLtdGkRn8eOvDaCik9WPe2ak2B5wGXatUSXg2kPbKZLdcVkFjmhlhoPdlWEXXby21aPoIoLvdiDCxQgjM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFrOUou-8K-VRWUfwIX7yUwg9nHVQxiH8YOvCM_AZmgZh6ZIxTJl3iLtdGkRn8eOvDaCik9WPe2ak2B5wGXatUSXg2kPbKZLdcVkFjmhlhoPdlWEXXby21aPoIoLvdiDCxQgjM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5137344,
+      "lng": 80.6382507,
+      "label": "BEST GASTRO, GYNE & HERNIA CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "best-super-speciality-hospital-vijayawada-vijayawada",
+    "name": "BEST Super Speciality Hospital - Vijayawada",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vijayawada, BEST Super Speciality Hospital - Vijayawada offers coordinated hospital care with major focus on Oncologist Surgery In Vijayawada and Speciality Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "083677 22722",
+    "alternatePhone": "",
+    "website": "https://www.bestsuperspeciality.com/",
+    "address": "33-26-1, Subbarayudu Gari St, opposite to Tanuja Scan, Suryaraopeta, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Suryaraopeta",
+    "landmark": "opposite to Tanuja Scan, Suryaraopeta, Vijayawada, Andhra Pradesh 520010",
+    "emergencyContact": "083677 22722",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFv8hXKXgS0x-cPt_LEV5qGqFqsy99lLPVlA3qlMrRvWlbMi5UnFm_Wk_ku4xPtwn6_i-WsNp45zpkTmLY6N4W8cUufe44cV5x8j2wPUBY5uxRWp0JegzroSJbt_a7sXn14sjKKZjLb-Owm=w1200-h900-p-k-no",
+    "logo": "https://www.bestsuperspeciality.com/imgs/logo/best-super-speciality-hospital.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFv8hXKXgS0x-cPt_LEV5qGqFqsy99lLPVlA3qlMrRvWlbMi5UnFm_Wk_ku4xPtwn6_i-WsNp45zpkTmLY6N4W8cUufe44cV5x8j2wPUBY5uxRWp0JegzroSJbt_a7sXn14sjKKZjLb-Owm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP0zJt77hA6pnLeQ1wsuOaykipTiBTVAaXTnzjG=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNwDPFrwhYrCQW6ZVcYeUWjcK4tgcuO5JgrTXNl=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMV4KZwzpWSIf6YuywKj14AsQkdNN2UWvEd6ihm=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5100077,
+      "lng": 80.6394038,
+      "label": "BEST Super Speciality Hospital - Vijayawada",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bhargav-kidney-care-and-multi-specialty-hospital-vijayawada",
+    "name": "Bhargav Kidney Care & Multi Specialty Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vijayawada, Bhargav Kidney Care & Multi Specialty Hospital brings together specialists for Kidney Transplant Surgery In Vijayawada, Kidney Care, and Speciality Care. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "076750 97677",
+    "alternatePhone": "",
+    "website": "",
+    "address": "29-10-43, Narasimharao Naidu Street, Nakkala Rd, Venkatswara Rao Street, Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Governor Peta",
+    "landmark": "Nakkala Rd",
+    "emergencyContact": "076750 97677",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Vijayawada",
+      "Kidney Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEG1gLVz6ARZAnVfH83MrRzUxlwNZg5DV7j4Lxm73_84-hUCSQ-yaqdop_PIAKusHzbfLqd2Uthhnjo7Xpx4r0CYg4CEcDCz357oezxXyWhR0vj0Ot3qY57snYbIBLGGuxwzd6F=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEG1gLVz6ARZAnVfH83MrRzUxlwNZg5DV7j4Lxm73_84-hUCSQ-yaqdop_PIAKusHzbfLqd2Uthhnjo7Xpx4r0CYg4CEcDCz357oezxXyWhR0vj0Ot3qY57snYbIBLGGuxwzd6F=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5127667,
+      "lng": 80.6328148,
+      "label": "Bhargav Kidney Care & Multi Specialty Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "chandu-neuro-centre-vijayawada",
+    "name": "CHANDU NEURO CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vijayawada, CHANDU NEURO CENTRE delivers integrated care across Spine Neurosurgeon In Vijayawada and Neurosciences. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Vijayawada.",
+    "email": "",
+    "phone": "093902 89626",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Door number :29-26-56 Tagore gari hospital building ( old Ashwini Nursing home ),Eluru road Kotha Kotha vanthena bus stop Jagadam, Vemuri Vari St, near Anjaneyaswamy swamy temple, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopeta",
+    "landmark": "near Anjaneyaswamy swamy temple, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "emergencyContact": "093902 89626",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Vijayawada",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=16.5149875%2C80.6372376&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=16.5149875%2C80.6372376&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.5149875%2C80.6372376&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.5149875%2C80.6372376&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5149875,
+      "lng": 80.6372376,
+      "label": "CHANDU NEURO CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cityneurocentre-and-multi-speciality-hospital-vijayawada",
+    "name": "Cityneurocentre & multi-speciality hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cityneurocentre & multi-speciality hospital is a prominent hospital in Vijayawada, known for structured tertiary care across Spine Neurosurgeon In Vijayawada, Neurosciences, and Speciality Care. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "095530 96268",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kaleswararao Rd, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopeta",
+    "landmark": "Vijayawada",
+    "emergencyContact": "095530 96268",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Vijayawada",
+      "Neurosciences",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHP21irxjGQBt5iYLdgbf4uKhy1BnG1QJ45H8eJYdwTfOguieuJSELnAEVlsil1eynXzULhnTxLmAjzWLQRdRw__e2x0o9ZBHnV2qS90WaT85dB8c8iJMPxxXjMlurqjgrRI_FLYA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHP21irxjGQBt5iYLdgbf4uKhy1BnG1QJ45H8eJYdwTfOguieuJSELnAEVlsil1eynXzULhnTxLmAjzWLQRdRw__e2x0o9ZBHnV2qS90WaT85dB8c8iJMPxxXjMlurqjgrRI_FLYA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5100707,
+      "lng": 80.6375962,
+      "label": "Cityneurocentre & multi-speciality hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hasini-hospitals-liver-pancreas-and-gastro-centre-vijayawada",
+    "name": "Hasini hospitals, liver, pancreas & gastro centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vijayawada, Hasini hospitals, liver, pancreas & gastro centre offers coordinated hospital care with major focus on Liver Transplant Surgery In Vijayawada, Liver Care, and Gastroenterology. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Vijayawada.",
+    "email": "",
+    "phone": "080747 65347",
+    "alternatePhone": "",
+    "website": "https://hasani.netlify.app/",
+    "address": "33-26-13A2, Chalamala Vari Veedhi, opp. Navodaya high School, Kasturibaipet, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Kasturibaipet",
+    "landmark": "opp. Navodaya high School",
+    "emergencyContact": "080747 65347",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vijayawada",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHym43sUwz1cPe9iP9CAOtJwXmk04PT8dReq-CkIF9Zj4x-skvlif43qopA86qoix-e6Okpw18n3Sk2wVhT22t2WfIWaY5Vj3qP1Nc5gE6P78pJ7CfUn2PbcOHiK_oXWBgII3cdO0S_DcaM=w1200-h900-p-k-no",
+    "logo": "https://hasani.netlify.app/vite.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHym43sUwz1cPe9iP9CAOtJwXmk04PT8dReq-CkIF9Zj4x-skvlif43qopA86qoix-e6Okpw18n3Sk2wVhT22t2WfIWaY5Vj3qP1Nc5gE6P78pJ7CfUn2PbcOHiK_oXWBgII3cdO0S_DcaM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5113778,
+      "lng": 80.6391884,
+      "label": "Hasini hospitals, liver, pancreas & gastro centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hcg-city-cancer-hospital-vijayawada",
+    "name": "HCG City Cancer Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vijayawada, HCG City Cancer Hospital offers coordinated hospital care with major focus on Oncologist Surgery In Vijayawada. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Vijayawada.",
+    "email": "",
+    "phone": "0866 243 2180",
+    "alternatePhone": "",
+    "website": "https://www.hcgoncology.com/cancer-centers/hcg-curie-city-cancer-centre-vijayawada/",
+    "address": "33-25-33, Chalasani Venkata Krishnaiah Street, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopeta",
+    "landmark": "Suryaraopeta",
+    "emergencyContact": "0866 243 2180",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjQmeqdSqLax7HSPensaXXnf1CiLjr36SqzmdosGb6ka9acoHA9fhZ3_AFdfi467u2LcEIyzP_uRs6e14Yb8dHGUGHxhZXUqVWiwj0KXgAEPA8Ba_wCnL69Hj0cxreyJLQKSM=w1200-h900-p-k-no",
+    "logo": "https://www.hcgoncology.com/library/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjQmeqdSqLax7HSPensaXXnf1CiLjr36SqzmdosGb6ka9acoHA9fhZ3_AFdfi467u2LcEIyzP_uRs6e14Yb8dHGUGHxhZXUqVWiwj0KXgAEPA8Ba_wCnL69Hj0cxreyJLQKSM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP6K54LO5PX019KEHnTV9VpzSbXyE0zPaddtUXa=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPj58T2q-PcEi_lUxlrPWWMc4YsXoXCg5Lg4ZBS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNt0Sey4welutpojkqhmxs6mWnAJqjgKnps94Mf=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5114332,
+      "lng": 80.6382518,
+      "label": "HCG City Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "help-hospitals-multi-speciality-hospital-in-vijayawada-andhra-pradesh-vijayawada",
+    "name": "Help Hospitals | Multi speciality Hospital In Vijayawada, Andhra Pradesh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vijayawada, Help Hospitals | Multi speciality Hospital In Vijayawada, Andhra Pradesh delivers integrated care across Urologist Surgery In Vijayawada and Speciality Care. With public-facing highlights like Google rating 4.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "0866 661 5552",
+    "alternatePhone": "",
+    "website": "https://helphospitals.com/",
+    "address": "MG Rd, behind Bapu Museum, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Governor Peta",
+    "landmark": "Governor Peta",
+    "emergencyContact": "0866 661 5552",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vijayawada",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENzSnqXEZXOwl70AFPmbXFNAEt8rwDXoNSNrcK-JQzAgoNrHjSznPmMFzBERYOV4U9OFVan7SzkcpZDkP92BLBUJQM4SDgrLCl9bK5vK30gtCgdft7hRoukNUWZwmqlGMLURZp=w1200-h900-p-k-no",
+    "logo": "https://helphospitals.com/wp-content/uploads/elementor/thumbs/LOGO-01-pw78bnugxff4yytjiv3ih2hg6zuvsvhp919oj492i0.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENzSnqXEZXOwl70AFPmbXFNAEt8rwDXoNSNrcK-JQzAgoNrHjSznPmMFzBERYOV4U9OFVan7SzkcpZDkP92BLBUJQM4SDgrLCl9bK5vK30gtCgdft7hRoukNUWZwmqlGMLURZp=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5089016,
+      "lng": 80.6273562,
+      "label": "Help Hospitals | Multi speciality Hospital In Vijayawada, Andhra Pradesh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "indo-british-hospital-kanuru",
+    "name": "INDO-BRITISH Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "INDO-BRITISH Hospital is a prominent hospital in Kanuru, known for structured tertiary care across Oncologist Surgery In Vijayawada. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kanuru.",
+    "email": "",
+    "phone": "091000 69930",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Srinivasa Nagar Bank Colony, Kanuru, Andhra Pradesh 520008",
+    "city": "Kanuru",
+    "state": "Andhra Pradesh",
+    "pincode": "520008",
+    "locality": "Srinivasa Nagar Bank Colony",
+    "landmark": "Andhra Pradesh 520008",
+    "emergencyContact": "091000 69930",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2FXFEyLCTZBYHri58ApaExS3vb0fPZ3WvWYocJLwWXV0tB2IUK949sOyXhTMJ_DWWaGgrIh_tYkTJXeWgnyrf6RrrXs4mCcCvWqq97N6PCHvbCFk9lYSQMlJB6HFtf0FFk9A=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2FXFEyLCTZBYHri58ApaExS3vb0fPZ3WvWYocJLwWXV0tB2IUK949sOyXhTMJ_DWWaGgrIh_tYkTJXeWgnyrf6RrrXs4mCcCvWqq97N6PCHvbCFk9lYSQMlJB6HFtf0FFk9A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5136055,
+      "lng": 80.6691864,
+      "label": "INDO-BRITISH Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "innovi-the-kidney-clinic-vijayawada",
+    "name": "INNOVI The Kidney Clinic",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Vijayawada, INNOVI The Kidney Clinic delivers integrated care across Kidney Transplant Surgery In Vijayawada and Kidney Care. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "073820 42728",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pushpa Hotel Center, Bellapu Sobhanadri St, beside orange imaging, New Giri Puram, Kasturibaipet, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Kasturibaipet",
+    "landmark": "beside orange imaging, New Giri Puram, Kasturibaipet, Vijayawada, Andhra Pradesh 520002",
+    "emergencyContact": "073820 42728",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Vijayawada",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=16.5116756%2C80.6385869&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=16.5116756%2C80.6385869&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.5116756%2C80.6385869&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.5116756%2C80.6385869&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5116756,
+      "lng": 80.6385869,
+      "label": "INNOVI The Kidney Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kamineni-hospitals-vijayawada-vijayawada",
+    "name": "Kamineni Hospitals, Vijayawada",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vijayawada, Kamineni Hospitals, Vijayawada brings together specialists for Oncologist Surgery In Vijayawada. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0866 246 3333",
+    "alternatePhone": "",
+    "website": "https://kaminenihospitals.com/vijayawada",
+    "address": "GP23+933, 100 Feet New Autonagar Road, Main, Road, Tadigadapa, Poranki, Vijayawada, Andhra Pradesh 521137",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "521137",
+    "locality": "Poranki",
+    "landmark": "Main",
+    "emergencyContact": "0866 246 3333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbWvObaYFU6C8-cuyXhr4zvwevs3VnHvbfGaJdkAwkoiyQyzQa7WKQP6Qw8dS24ex_TUfPM8Wy5fc7FwRCBPOEPQ-yjDeE-eSHCBUQ1Zjr4ULZUBGLmLC-C4Nc3piIvgJFKG1HqUDGpsg=w1200-h900-p-k-no",
+    "logo": "https://kaminenihospitals.com/wp-content/uploads/2023/07/cropped-Kamineni-Hospitals-LOGO.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbWvObaYFU6C8-cuyXhr4zvwevs3VnHvbfGaJdkAwkoiyQyzQa7WKQP6Qw8dS24ex_TUfPM8Wy5fc7FwRCBPOEPQ-yjDeE-eSHCBUQ1Zjr4ULZUBGLmLC-C4Nc3piIvgJFKG1HqUDGpsg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOG4peAFhui8yWxbwsy1gHZzaZHqVdqmKagx_o8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOOuiAEait3t0xNT6GNadv0Jcz8xvxwvpltPjha=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNVZjwzu7I1NudSYqVTbHb1pwLnFER0WSQbhBJE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP-fcd4ADk84QZzAurZsDGBlsgcBDZlX1i-VJ9z=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.4958754,
+      "lng": 80.7030956,
+      "label": "Kamineni Hospitals, Vijayawada",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kj-kidney-urology-center-vijayawada",
+    "name": "KJ KIDNEY UROLOGY CENTEr",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KJ KIDNEY UROLOGY CENTEr is a prominent hospital in Vijayawada, known for structured tertiary care across Urologist Surgery In Vijayawada and Kidney Care. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "073375 17333",
+    "alternatePhone": "",
+    "website": "",
+    "address": "29-6-9/A, 10, Nakkala Rd, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopeta",
+    "landmark": "Nakkala Rd",
+    "emergencyContact": "073375 17333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vijayawada",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=16.5126498%2C80.6320438&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=16.5126498%2C80.6320438&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.5126498%2C80.6320438&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=16.5126498%2C80.6320438&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5126498,
+      "lng": 80.6320438,
+      "label": "KJ KIDNEY UROLOGY CENTEr",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kushi-fertility-and-ivf-vijayawada-andhra-pradesh-vijayawada",
+    "name": "Kushi Fertility & IVF, Vijayawada, Andhra Pradesh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vijayawada, Kushi Fertility & IVF, Vijayawada, Andhra Pradesh delivers integrated care across IVF In Vijayawada and Fertility Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Vijayawada.",
+    "email": "",
+    "phone": "081438 62828",
+    "alternatePhone": "",
+    "website": "https://kushifertility.com/",
+    "address": "HDFC bank road, 33-16-13, Ramanadham St, near Pushpa Hotel Center, Kasturibaipet, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Kasturibaipet",
+    "landmark": "near Pushpa Hotel Center, Kasturibaipet, Vijayawada, Andhra Pradesh 520010",
+    "emergencyContact": "081438 62828",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Vijayawada",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEf2kstRoMMNtIxvDtLKEU9Y7_01qRVo9GjRwn-urT3M6V1HkkYBCbun0LSCLDES1_S9xwKNKbwbtFucQzDsW3glHwbrf540XKPvaJMz-6DI37KWTFPK8ZM8atM6xWuE6f8ZlOJEA=w1200-h900-p-k-no",
+    "logo": "https://kushifertility.com/images/kushilogo.jpeg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEf2kstRoMMNtIxvDtLKEU9Y7_01qRVo9GjRwn-urT3M6V1HkkYBCbun0LSCLDES1_S9xwKNKbwbtFucQzDsW3glHwbrf540XKPvaJMz-6DI37KWTFPK8ZM8atM6xWuE6f8ZlOJEA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5100205,
+      "lng": 80.6394041,
+      "label": "Kushi Fertility & IVF, Vijayawada, Andhra Pradesh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "latha-super-speciality-hospital-vijayawada",
+    "name": "Latha Super Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vijayawada, Latha Super Speciality Hospital delivers integrated care across Neurosurgeon In Vijayawada and Speciality Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "098484 09889",
+    "alternatePhone": "",
+    "website": "https://www.lathasuperspecialityhospital.com/",
+    "address": "Road no:5, Prakasham Road, Suryaraopeta, Buckinghampeta, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Buckinghampeta",
+    "landmark": "Suryaraopeta",
+    "emergencyContact": "098484 09889",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Vijayawada",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHJTWuxE1EnsYocqnbPg9CfxDcPLugEDhBHkrOg3DK-jfhGEg5s8H_HcG5Th4HPuFI1nC_V8h8B3bnIgB4JLjjB1vbTIF6lhZLyj8-tTJWX03wqt_93WfLhrREm6Ym89oy6IUJu5qZG0SE=w1200-h900-p-k-no",
+    "logo": "https://lathasuperspecialityhospital.com/wp-content/uploads/2024/04/Latha-png-scaled.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHJTWuxE1EnsYocqnbPg9CfxDcPLugEDhBHkrOg3DK-jfhGEg5s8H_HcG5Th4HPuFI1nC_V8h8B3bnIgB4JLjjB1vbTIF6lhZLyj8-tTJWX03wqt_93WfLhrREm6Ym89oy6IUJu5qZG0SE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5095838,
+      "lng": 80.635925,
+      "label": "Latha Super Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lifecare-hospitals-vijayawada",
+    "name": "LIFECARE HOSPITALS",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "LIFECARE HOSPITALS is a prominent hospital in Vijayawada, known for structured tertiary care across Liver Transplant Surgery In Vijayawada. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Vijayawada.",
+    "email": "",
+    "phone": "088979 96519",
+    "alternatePhone": "",
+    "website": "https://drvamsavardhan.com/",
+    "address": "41-1-81, Feeder Rd, Nallagate Center, Krishna Lanka, Vijayawada, Andhra Pradesh 520013",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520013",
+    "locality": "Krishna Lanka",
+    "landmark": "Nallagate Center",
+    "emergencyContact": "088979 96519",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeI4HDR-NlwQgQH8v3G25IA3Jtb15gDUH2iKZUuMm1rzg1_T-MvV-BBOR0Vx_uZK8aXq68rhzqBDgFQZuaeE0sHdZi2zRZ61JkOeFHjm3niegMqnJ6a2erNnGOxdwhrsOIHp53H0dI5McW=w1200-h900-p-k-no",
+    "logo": "https://www.drvamsavardhan.com/wp-content/uploads/2026/03/Dr.-Vamsavardhan-P-updated-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeI4HDR-NlwQgQH8v3G25IA3Jtb15gDUH2iKZUuMm1rzg1_T-MvV-BBOR0Vx_uZK8aXq68rhzqBDgFQZuaeE0sHdZi2zRZ61JkOeFHjm3niegMqnJ6a2erNnGOxdwhrsOIHp53H0dI5McW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5045973,
+      "lng": 80.6288973,
+      "label": "LIFECARE HOSPITALS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manipal-comprehensive-cancer-hospital-vijayawada",
+    "name": "Manipal Comprehensive Cancer Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vijayawada, Manipal Comprehensive Cancer Hospital offers coordinated hospital care with major focus on Oncologist Surgery In Vijayawada. Hospital capacity markers such as Google rating 3.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Vijayawada.",
+    "email": "",
+    "phone": "1800 102 4647",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/internationalpatientcare/specialities/comprehensive-cancer-care/",
+    "address": "Comprehensive Cancer center, Manipal Hospital, 12-570, Bypass Rd, near vardhi, Tadepalle, Tadepalli, Vijayawada, Tadepalle, Andhra Pradesh 522501",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "522501",
+    "locality": "Tadepalli",
+    "landmark": "near vardhi, Tadepalle, Tadepalli, Vijayawada, Tadepalle, Andhra Pradesh 522501",
+    "emergencyContact": "1800 102 4647",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExa5XWzRCyZrF5ASbUKYGSZ6jSQcjmydW1TeW6yeXlnArN2tTMlWB-bap67fo4F7Ugm9NKg-F0g3kYV-r6-tDTe15CgN6ANrAr9pwddXumIs7RZMRfS_9QrTmuHn2HKxk1eMG1jBwbnnY=w1200-h900-p-k-no",
+    "logo": "https://www.manipalhospitals.com/whitefield/assets/images/homepage/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExa5XWzRCyZrF5ASbUKYGSZ6jSQcjmydW1TeW6yeXlnArN2tTMlWB-bap67fo4F7Ugm9NKg-F0g3kYV-r6-tDTe15CgN6ANrAr9pwddXumIs7RZMRfS_9QrTmuHn2HKxk1eMG1jBwbnnY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.4843462,
+      "lng": 80.6169374,
+      "label": "Manipal Comprehensive Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manipal-hospital-vijayawada-vijayawada",
+    "name": "Manipal Hospital Vijayawada",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vijayawada, Manipal Hospital Vijayawada brings together specialists for Urologist Surgery In Vijayawada. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Vijayawada.",
+    "email": "",
+    "phone": "1800 102 4647",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/vijayawada/blog/relieve-pinched-nerve-neck/",
+    "address": "12-570, near Kanakadurga Varadhi, Tadepalle, Vijayawada, Tadepalle, Andhra Pradesh 522501",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "522501",
+    "locality": "Tadepalle",
+    "landmark": "near Kanakadurga Varadhi, Tadepalle, Vijayawada, Tadepalle, Andhra Pradesh 522501",
+    "emergencyContact": "1800 102 4647",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrvpRwDpsJBpOuJHlgTTrDL-5mh7Y7GD4B0bQzjquZo1Bz4LJMX5x7SMlgOWCJHCPTxE70WbKBllPCdzGnr9HBYpU5-oFXLgDBfYOAHU58xnLgICvXFbGSapDUPJ6Vykfxa3xFitcxY3lo=w1200-h900-p-k-no",
+    "logo": "https://www.manipalhospitals.com/vijayawada/assets/images/homepage/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrvpRwDpsJBpOuJHlgTTrDL-5mh7Y7GD4B0bQzjquZo1Bz4LJMX5x7SMlgOWCJHCPTxE70WbKBllPCdzGnr9HBYpU5-oFXLgDBfYOAHU58xnLgICvXFbGSapDUPJ6Vykfxa3xFitcxY3lo=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN5W9C52AtGkyGvCQ4vozFzTpDPmjVQV9xgZVjY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMiqlmQTTsQau9Cfi-K43P-WUJ0RPbuiiFT7xAl=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN0c3yv-LBsaDU0gVVzs83i9KUiPWNmMlzexcUT=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNz1WLR5MmK_WZ5N14w81WWvY9MwiusEP96LhXS=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.484475,
+      "lng": 80.616955,
+      "label": "Manipal Hospital Vijayawada",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manvi-hospitals-vijayawada-vijayawada",
+    "name": "Manvi Hospitals vijayawada",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vijayawada, Manvi Hospitals vijayawada brings together specialists for General Surgery In Vijayawada. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093911 76126",
+    "alternatePhone": "",
+    "website": "https://manvihospitals.com/",
+    "address": "D.No 29-12-43, Venkataratnam Street, Nakkala Rd, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopeta",
+    "landmark": "Nakkala Rd",
+    "emergencyContact": "093911 76126",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgLjjK6DD1g91nRG4vqH6LHyP7joyAR6K00KO1s7c0Iwbv0P4LFM9a35yDrsJ6ZhHtwCVDb17kyL-zCBekiVJiK3jprbq96WF6x7DqnHmKSsR0Dve_UxfF-0WfpoDaj4ZwBzeejQ=w1200-h900-p-k-no",
+    "logo": "https://manvihospitals.com/wp-content/uploads/2021/03/cropped-favicon-32x32.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgLjjK6DD1g91nRG4vqH6LHyP7joyAR6K00KO1s7c0Iwbv0P4LFM9a35yDrsJ6ZhHtwCVDb17kyL-zCBekiVJiK3jprbq96WF6x7DqnHmKSsR0Dve_UxfF-0WfpoDaj4ZwBzeejQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOox08wKgaAXHsA2MOWgRGH8Fn8D5B0qWSPvcWI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNgpnL-LWNdXkBOsQ2OqHrFem3z74zJPObDdgWi=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPom3CtBAdDhVSCwGKaBzsbXg6JlR2hAs8dYQ1c=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipORbOdfiIh5Mynr5PbRAav29C8Ahu3R2T3NzLJC=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5119958,
+      "lng": 80.6332244,
+      "label": "Manvi Hospitals vijayawada",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medstar-hospitals-chaitanya-cardiac-centre-vijayawada",
+    "name": "MEDSTAR HOSPITALS (CHAITANYA CARDIAC CENTRE)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vijayawada, MEDSTAR HOSPITALS (CHAITANYA CARDIAC CENTRE) brings together specialists for Heart Surgery In Vijayawada and Cardiac Care. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073966 26379",
+    "alternatePhone": "",
+    "website": "",
+    "address": "29-14-52/A, Prakasam Rd, near Pushpa Hotel Center, Buckinghampeta, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Buckinghampeta",
+    "landmark": "near Pushpa Hotel Center, Buckinghampeta, Vijayawada, Andhra Pradesh 520010",
+    "emergencyContact": "073966 26379",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Vijayawada",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHNRZYP8dm79ZGUVX9duFvjGK-Hpv7CHN-1TeJ2QywJ_XSEfyni6dH6LIytcEr7ZexE4dN-KpjoCJctueWw7-PNek6NLdLtVqPTAvrr7WLuYTMRDai5_chS8HATwSCDaWYvnIBO=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHNRZYP8dm79ZGUVX9duFvjGK-Hpv7CHN-1TeJ2QywJ_XSEfyni6dH6LIytcEr7ZexE4dN-KpjoCJctueWw7-PNek6NLdLtVqPTAvrr7WLuYTMRDai5_chS8HATwSCDaWYvnIBO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5092856,
+      "lng": 80.6373321,
+      "label": "MEDSTAR HOSPITALS (CHAITANYA CARDIAC CENTRE)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mig-best-gastroentology-hospital-vijayawada-surgical-gastroentologist-vijayawada",
+    "name": "MIG| Best Gastroentology Hospital Vijayawada - Surgical Gastroentologist",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MIG| Best Gastroentology Hospital Vijayawada - Surgical Gastroentologist is a prominent hospital in Vijayawada, known for structured tertiary care across Liver Transplant Surgery In Vijayawada and Gastroenterology. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "079014 75767",
+    "alternatePhone": "",
+    "website": "https://mighospital.com/",
+    "address": "D.no : 29, 8-44, Chiluku Durgayya Veedhi, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Governor Peta",
+    "landmark": "Chiluku Durgayya Veedhi",
+    "emergencyContact": "079014 75767",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vijayawada",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmMEgJmhMoS0nyqu7KWF41SCkYz9A1BzDpe3jL7wjAwUO-8u70P8_FHEtdSzKJ_o4MoB3yJuo0_gK1m-QHCmYZBKOLma97mY4Ylj2VRpYGQxYOnlHX6RsHyIEsUOJQi2_50oNw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmMEgJmhMoS0nyqu7KWF41SCkYz9A1BzDpe3jL7wjAwUO-8u70P8_FHEtdSzKJ_o4MoB3yJuo0_gK1m-QHCmYZBKOLma97mY4Ylj2VRpYGQxYOnlHX6RsHyIEsUOJQi2_50oNw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOueNcZ0XiVlStzlw110cULud05oedRr-2XRNL0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPeyY3LVUP6EiY1Ug8zcDqAk5Wfx1mQGr7c2Cup=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM1VIVtMnsZ3KphdDeh142wk_v2x32zqu18senz=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPc8wg44o4wL3mnuUQiWDf4s9iEYhCOU1HdDFhL=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5136408,
+      "lng": 80.6330724,
+      "label": "MIG| Best Gastroentology Hospital Vijayawada - Surgical Gastroentologist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nagarjuna-hospital-vijayawada",
+    "name": "Nagarjuna Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vijayawada, Nagarjuna Hospital brings together specialists for Oncologist Surgery In Vijayawada. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099634 14242",
+    "alternatePhone": "",
+    "website": "http://www.nagarjunahospitals.com/",
+    "address": "Nagarjuna Hospitals, 8-102, Endowments Colony, Chalasani Nagar, Kanuru, Vijayawada, Kanuru, Andhra Pradesh 520007",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520007",
+    "locality": "Kanuru",
+    "landmark": "Endowments Colony",
+    "emergencyContact": "099634 14242",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfevYARrpgCx56QCI8iWbBJ6VgBWtgModqOYnJR_kUSWJjDfRLGqawt2Vz0evMSI-215VvFz4xZ2_CEEyF8Bwol0ym5taORg7Dl7-15q6any3PY7EZxQXyCDrXYjlLqZol6NgiYg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfevYARrpgCx56QCI8iWbBJ6VgBWtgModqOYnJR_kUSWJjDfRLGqawt2Vz0evMSI-215VvFz4xZ2_CEEyF8Bwol0ym5taORg7Dl7-15q6any3PY7EZxQXyCDrXYjlLqZol6NgiYg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaXf8X2iAC5eEeKnl2JDxf6R5cFvtN3vd2uSnmqpynhDLR3kkivW2o5Dfy30zvUcvTlQNZemPg5DOk42TtP5hVHOtVi1d1oQTqS0vs7cSigDY9YxVMwfF936VnioewFmmKhCWI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPxWC1U5BWmvibjiZsoS9Zd9ETKKVYGTY4ahEz3pIvuUYUgur2cVRlZCuiiMQzRwnwXOoV1zilhzGAZ7COLh9oWObgdZZllLROQsrFgyBu-CsTGRK7tPilPPkd0qRyQKH_puiEOmbLkrIN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFhO35Hy_e9bO7Fb4uMqsG8B8Rb3Oqp2xJgn_yXw4xiV4VQr83kxH9DUrZTW__7jGAba-Cpyw8WqhNVsij4P6uEHsE42rzFPsVSeHxH3zT_tsd6ZD2wvSWR4iMiXkm6jN-apjW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.487498,
+      "lng": 80.6842563,
+      "label": "Nagarjuna Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "peddeswar-health-care-center-phcc-best-multi-speciality-hospital-in-andhra-pradesh-vijayawada",
+    "name": "Peddeswar Health Care Center (PHCC) | BEST MULTI SPECIALITY hospital in Andhra pradesh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vijayawada, Peddeswar Health Care Center (PHCC) | BEST MULTI SPECIALITY hospital in Andhra pradesh delivers integrated care across Heart Surgery In Vijayawada and Speciality Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "0866 243 8688",
+    "alternatePhone": "",
+    "website": "https://peddeswarhealthcarecenter.com/",
+    "address": "29-12-21, Dornakal Road, Venkataratnam St, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopeta",
+    "landmark": "Venkataratnam St",
+    "emergencyContact": "0866 243 8688",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Vijayawada",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERGG1lVUg-bQJaMFHBpwkO1BN36hlBYfbBvPPf0eZ-7Ojcx9GBPeBoED3OEnAHXv1ZP5CEY5ds5Hn91-zJQH0bGsEwGO7ZDU1UtcrVlTSVuta0shYo2PGbpT5PEpa0DnZhuHE=w1200-h900-p-k-no",
+    "logo": "https://peddeswarhealthcarecenter.com/gallery/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERGG1lVUg-bQJaMFHBpwkO1BN36hlBYfbBvPPf0eZ-7Ojcx9GBPeBoED3OEnAHXv1ZP5CEY5ds5Hn91-zJQH0bGsEwGO7ZDU1UtcrVlTSVuta0shYo2PGbpT5PEpa0DnZhuHE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTIS6ACLL2z8ad4vWAgnSiGCKSMkRUxv-xwWBlgowQ7fsLWdy-iOEugwV1dlktWW8HCdEphKQzeRtTL1iB33Rl4ezyz1Kbqr_Hhgp2SxOXP5fm5okLBZjAqTsefRYc5QnNDyeFlQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5112621,
+      "lng": 80.6358198,
+      "label": "Peddeswar Health Care Center (PHCC) | BEST MULTI SPECIALITY hospital in Andhra pradesh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pink-breast-cancer-centre-thyroid-and-parathyroid-centre-vijayawada",
+    "name": "Pink Breast Cancer Centre, Thyroid & Parathyroid Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vijayawada, Pink Breast Cancer Centre, Thyroid & Parathyroid Centre delivers integrated care across Oncologist Surgery In Vijayawada. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Vijayawada.",
+    "email": "",
+    "phone": "0866 248 3999",
+    "alternatePhone": "",
+    "website": "http://www.pinkbreastcancercentre.com/",
+    "address": "29-14-51, Prakasam Rd, Opposite Pushpa Hotel, Suryaraopet, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Suryaraopet",
+    "landmark": "Opposite Pushpa Hotel, Suryaraopet, Vijayawada, Andhra Pradesh 520010",
+    "emergencyContact": "0866 248 3999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeM2TsuohD1HQONSc9EUcBoqQEW7fZo2eeoaY9IuzfJOGNdxwiXUMTQPa6j-SxEXGfWwFnBRNQQzVCXmODeNFpcmBVe--duhm6e58whY08SBG57j35e0-rjITZlmb4OLoXif81NA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeM2TsuohD1HQONSc9EUcBoqQEW7fZo2eeoaY9IuzfJOGNdxwiXUMTQPa6j-SxEXGfWwFnBRNQQzVCXmODeNFpcmBVe--duhm6e58whY08SBG57j35e0-rjITZlmb4OLoXif81NA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5092362,
+      "lng": 80.6376539,
+      "label": "Pink Breast Cancer Centre, Thyroid & Parathyroid Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "punarjan-ayurveda-hospitals-vijayawada-vijayawada",
+    "name": "Punarjan Ayurveda Hospitals- Vijayawada",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Punarjan Ayurveda Hospitals- Vijayawada has built a strong reputation in Vijayawada for multidisciplinary treatment pathways covering Oncologist Surgery In Vijayawada. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094400 05555",
+    "alternatePhone": "",
+    "website": "https://www.punarjanayurveda.com/vijayawada/",
+    "address": "H.NO.40-7-28/2,1st Floor, Opp Birla Open School, PVP Shopping Mall R.R.Darbar center South India Bank Beside lane Near Jammichettu Center N.T.R.,District, Mogalrajapuram, N.T.R, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "N.T.R",
+    "landmark": "Near Jammichettu Center N.T.R.,District, Mogalrajapuram, N.T.R, Vijayawada, Andhra Pradesh 520010",
+    "emergencyContact": "094400 05555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwIZbcC-LZZ2I4c8nKdEN9slZzO_J0IMfmGA-ajPSVEPo6nVCv2uLKxRx5E76sBw0kiXVhyh_Uh8yLM8HF33gqL96CJZE8xSSV93auwQArLEl6mU62OkuXZueak2S9zl1Dnr2cxg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwIZbcC-LZZ2I4c8nKdEN9slZzO_J0IMfmGA-ajPSVEPo6nVCv2uLKxRx5E76sBw0kiXVhyh_Uh8yLM8HF33gqL96CJZE8xSSV93auwQArLEl6mU62OkuXZueak2S9zl1Dnr2cxg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5061374,
+      "lng": 80.6438457,
+      "label": "Punarjan Ayurveda Hospitals- Vijayawada",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "purna-heart-institute-vijayawada",
+    "name": "Purna Heart Institute",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vijayawada, Purna Heart Institute offers coordinated hospital care with major focus on Heart Surgery In Vijayawada and Cardiac Care. Its infrastructure includes Google rating 3.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "0866 243 3036",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sri Gayathri Women's Hostel, Kovelamudivari Street, near Vijayawada, New Giri Puram, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopeta",
+    "landmark": "near Vijayawada, New Giri Puram, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "emergencyContact": "0866 243 3036",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Vijayawada",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8lpbH4bBg60HUQnaCpT2t3piefYMN_yzuO-MD2CRePOuRE5BpMWMqfdTq7NXBQAKjSeVcypXr4vxLRVwYJR1eRwT5iM13YAFKMW9M3XiwgZHKzGrglLBpeL5-DSfsg8-YAwI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8lpbH4bBg60HUQnaCpT2t3piefYMN_yzuO-MD2CRePOuRE5BpMWMqfdTq7NXBQAKjSeVcypXr4vxLRVwYJR1eRwT5iM13YAFKMW9M3XiwgZHKzGrglLBpeL5-DSfsg8-YAwI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5126846,
+      "lng": 80.6379404,
+      "label": "Purna Heart Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ravi-american-cancer-care-vijayawada",
+    "name": "Ravi AMERICAN CANCER CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vijayawada, Ravi AMERICAN CANCER CARE brings together specialists for Oncologist Surgery In Vijayawada. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Vijayawada.",
+    "email": "",
+    "phone": "088899 96108",
+    "alternatePhone": "",
+    "website": "https://www.ravicancercare.com/",
+    "address": "29-13-41/1, Bus stop, Kaleswararao Rd, beside Pushpa Hotel, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopeta",
+    "landmark": "beside Pushpa Hotel, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "emergencyContact": "088899 96108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrBfFGx0W60pXYPvo__RM3OHjvegKVe5bzb9UMToI7qerRoiOvnguch34DP42skXbCfvCg_kEyULt7R9JHSJP-BvnAazZ5r-Jb6qIy5Br00FnoFDAm3sa9F4MqnyVQ2sqpe34u=w1200-h900-p-k-no",
+    "logo": "https://www.ravicancercare.com/gallery/ravis-american-cancer-hospital.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrBfFGx0W60pXYPvo__RM3OHjvegKVe5bzb9UMToI7qerRoiOvnguch34DP42skXbCfvCg_kEyULt7R9JHSJP-BvnAazZ5r-Jb6qIy5Br00FnoFDAm3sa9F4MqnyVQ2sqpe34u=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNvDOPMCtuVhcw8d0duw4shwvH9NJR4B8TZ36WO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMryRDwQ1naZbtH1RnWvlOSZncrsHEAG4YBy8Q6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMqkRY_41BSfP_tIT86Bt1LsHlAlDJ9J63ekWps=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPJ4ZXhu0WIilKZ-tXwCBgaJoHmBBeKet6rNgam=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5099373,
+      "lng": 80.6378293,
+      "label": "Ravi AMERICAN CANCER CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ravi-neuro-center-vijayawada",
+    "name": "Ravi Neuro Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ravi Neuro Center is a prominent hospital in Vijayawada, known for structured tertiary care across Spine Neurosurgeon In Vijayawada and Neurosciences. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "0866 247 1031",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jammi Chettu Centre, BSRK Complex #40-5-20A, Siddhartha College Rd, Jammi Chettu Centre, Siddhartha Nagar, Mogalrajpuram, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Mogalrajpuram",
+    "landmark": "Siddhartha College Rd",
+    "emergencyContact": "0866 247 1031",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Vijayawada",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYUEA2L9Yhs5VpxFfW7SHhT6c6jvDvM5qm_F5Bt8O0H_mDndRnMOYlwjATbRh-BwXWqImqFkHJzjHxWiHynA65PFlXsV1gPZDPfmySnfcBQEghDCuq1o6YQyKMoHFnmrv4n1GISwrl148Z=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYUEA2L9Yhs5VpxFfW7SHhT6c6jvDvM5qm_F5Bt8O0H_mDndRnMOYlwjATbRh-BwXWqImqFkHJzjHxWiHynA65PFlXsV1gPZDPfmySnfcBQEghDCuq1o6YQyKMoHFnmrv4n1GISwrl148Z=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5070418,
+      "lng": 80.645117,
+      "label": "Ravi Neuro Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ravi-s-american-cancer-care-vijayawada",
+    "name": "RAVI'S AMERICAN CANCER CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vijayawada, RAVI'S AMERICAN CANCER CARE brings together specialists for Oncologist Surgery In Vijayawada. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089850 90909",
+    "alternatePhone": "",
+    "website": "https://www.ravicancercare.com/",
+    "address": "D.No 40-6, 2-1&2, Kanakamedala Seshagiri Rao Rd, Mogalrajapuram, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Labbipet",
+    "landmark": "Kanakamedala Seshagiri Rao Rd",
+    "emergencyContact": "089850 90909",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBApNBNDDL1PdIjAWCHkxgs6HZnX5vZskMLTqU6RohPi3Up2weE2V_CVHeOCRIAtE2tQNh19s4fuu0Dmncq5J_X6PRDdXXPxUIT_zj7RfDh-yBjCL26YFl6gc5cJDUG8YvOuyzNw=w1200-h900-p-k-no",
+    "logo": "https://www.ravicancercare.com/gallery/ravis-american-cancer-hospital.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBApNBNDDL1PdIjAWCHkxgs6HZnX5vZskMLTqU6RohPi3Up2weE2V_CVHeOCRIAtE2tQNh19s4fuu0Dmncq5J_X6PRDdXXPxUIT_zj7RfDh-yBjCL26YFl6gc5cJDUG8YvOuyzNw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPQHO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPQHOkjDiAbbY-QOc1n742jvMmzsf1FZFPSzqee=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM870zlLmTI77qLYDHepKa-0eJin7FbcimoquKd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPKfcMrVrICPx2J_yg1bWGc4uxApjqbOZfdqKGF=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.505541,
+      "lng": 80.645546,
+      "label": "RAVI'S AMERICAN CANCER CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sateesh-gastro-vijayawada",
+    "name": "Sateesh Gastro",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vijayawada often choose Sateesh Gastro for its strength in Liver Transplant Surgery In Vijayawada and Gastroenterology. The facility stands out for Google rating 3.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Vijayawada.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://sateeshgastro.org/",
+    "address": "29-19-13, Dornakal Rd, Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Governor Peta",
+    "landmark": "Suryaraopeta",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vijayawada",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWJxw7cnAIXfjOM7S4BqrUbYx8HMQQzDdLz4PDDXrZn8a0JQTHlKazxG6uOK5Aqw_I4a6SbxtZ1b5yFylp7UGPUoWDSLEqmGPGDOWxqYS9ceE-K3UOEhH991Q3YrH5m8MoDYufnA=w1200-h900-p-k-no",
+    "logo": "https://sateeshgastro.org/wp-content/uploads/2020/09/logo-gastro.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWJxw7cnAIXfjOM7S4BqrUbYx8HMQQzDdLz4PDDXrZn8a0JQTHlKazxG6uOK5Aqw_I4a6SbxtZ1b5yFylp7UGPUoWDSLEqmGPGDOWxqYS9ceE-K3UOEhH991Q3YrH5m8MoDYufnA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5114786,
+      "lng": 80.6349968,
+      "label": "Sateesh Gastro",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "satish-urology-and-andrology-centrer-vijayawada",
+    "name": "Satish Urology & Andrology Centrer",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Satish Urology & Andrology Centrer has built a strong reputation in Vijayawada for multidisciplinary treatment pathways covering Urologist Surgery In Vijayawada. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0866 243 5484",
+    "alternatePhone": "",
+    "website": "http://www.satishurology.com/",
+    "address": "29-9-60, Govinda Rajulu Naidu St, Suryaraopet, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopet",
+    "landmark": "Suryaraopet",
+    "emergencyContact": "0866 243 5484",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHM3rM7SzYgc8KA_nBqfxXP5ch4H_z4WqeHhU3jKVG8AJpvPBk9GCEj-IsFZ00043gNXoKXBBeX79jn5xxng_8ZNX02a2K1SBxSx6LZAQSJ5kTJJcqdhEARf2RPBW5QYcnXhimu_UH3nUY7=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHM3rM7SzYgc8KA_nBqfxXP5ch4H_z4WqeHhU3jKVG8AJpvPBk9GCEj-IsFZ00043gNXoKXBBeX79jn5xxng_8ZNX02a2K1SBxSx6LZAQSJ5kTJJcqdhEARf2RPBW5QYcnXhimu_UH3nUY7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.513165,
+      "lng": 80.633385,
+      "label": "Satish Urology & Andrology Centrer",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shine-hospitals-vijayawada",
+    "name": "Shine Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vijayawada often choose Shine Hospitals for its strength in Spine Surgery In Vijayawada. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Vijayawada.",
+    "email": "",
+    "phone": "077999 44580",
+    "alternatePhone": "",
+    "website": "",
+    "address": "D, 29-28/1-31, Kovelamudivari Street, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopeta",
+    "landmark": "Kovelamudivari Street",
+    "emergencyContact": "077999 44580",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdlXeX2pYtdpax1OUX1RrPXK4abIB7zSX9Qalbawcg__HWJnzxomQWBS2Fi6xMdkzzhAv__A5c-a75-Q_G8MJ0qI_Xgvgo6CC4W_pw5DAXLrC34TN1Ha66bXLB9SKYN-UrMAA1SA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdlXeX2pYtdpax1OUX1RrPXK4abIB7zSX9Qalbawcg__HWJnzxomQWBS2Fi6xMdkzzhAv__A5c-a75-Q_G8MJ0qI_Xgvgo6CC4W_pw5DAXLrC34TN1Ha66bXLB9SKYN-UrMAA1SA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5148505,
+      "lng": 80.6385258,
+      "label": "Shine Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sree-prathyusha-hospitals-vijayawada",
+    "name": "Sree Prathyusha Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sree Prathyusha Hospitals is a prominent hospital in Vijayawada, known for structured tertiary care across Gynecologist Surgery In Vijayawada. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "086089 58608",
+    "alternatePhone": "",
+    "website": "https://www.sreeprathyushahospitals.in/",
+    "address": "Door no, 29-28-1, Dasarivari Street, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Suryaraopeta",
+    "landmark": "Dasarivari Street",
+    "emergencyContact": "086089 58608",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzVnNqd9NiGXDDlGXl4GpJSJYhRjYrlZqq4YPEwko5xCut1RidaQ2o6VxYc5vomaUdq4gn4JXD5B3C2CeJDRc1Sv3fNQaR73_7W1qjpf-fwH4a0AMH5PfS8yrX8lK3Yyc9sl8=w1200-h900-p-k-no",
+    "logo": "https://sreeprathyushahospitals.in/favicon.ico",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzVnNqd9NiGXDDlGXl4GpJSJYhRjYrlZqq4YPEwko5xCut1RidaQ2o6VxYc5vomaUdq4gn4JXD5B3C2CeJDRc1Sv3fNQaR73_7W1qjpf-fwH4a0AMH5PfS8yrX8lK3Yyc9sl8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5114438,
+      "lng": 80.6371083,
+      "label": "Sree Prathyusha Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-gayatri-superspeciality-hospital-vijayawada",
+    "name": "Sri Gayatri SuperSpeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Gayatri SuperSpeciality Hospital has built a strong reputation in Vijayawada for multidisciplinary treatment pathways covering Oncologist Surgery In Vijayawada and Speciality Care. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Vijayawada can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0866 243 4799",
+    "alternatePhone": "",
+    "website": "",
+    "address": "rama murthy road, GJ8P+PR , 30-13/1-23, katragadda street, Cherukupalli street, Dr Achamamba St, Durga Agraharam, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Durga Agraharam",
+    "landmark": "30-13/1-23",
+    "emergencyContact": "0866 243 4799",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwLTPDfzR0TRVMyHERWpc8V15CWhs-7W6x6fvFLrO4sFNzs9Qqss4OqgC7MSC1FQ81LW4Rfw-sZNuMdzQiVqWhzPpR7HQMC4XXpLHicqsbjXlCeVkx9kmW0QFSMNxG-9aYmJUdDA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwLTPDfzR0TRVMyHERWpc8V15CWhs-7W6x6fvFLrO4sFNzs9Qqss4OqgC7MSC1FQ81LW4Rfw-sZNuMdzQiVqWhzPpR7HQMC4XXpLHicqsbjXlCeVkx9kmW0QFSMNxG-9aYmJUdDA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.516744,
+      "lng": 80.637113,
+      "label": "Sri Gayatri SuperSpeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "srikara-hospitals-vijayawada-vijayawada",
+    "name": "Srikara Hospitals, Vijayawada",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vijayawada, Srikara Hospitals, Vijayawada brings together specialists for Urologist Surgery In Vijayawada. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Vijayawada.",
+    "email": "",
+    "phone": "0866 681 2345",
+    "alternatePhone": "",
+    "website": "http://www.srikarahospitals.com/",
+    "address": "2A, Srikara Hospitals, R.S.NO.90/1A, Donka Road, Kanuru, Vijayawada, Penamaluru, Andhra Pradesh 520007",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520007",
+    "locality": "Kanuru",
+    "landmark": "R.S.NO.90/1A",
+    "emergencyContact": "0866 681 2345",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_hoSuCEyQMmjURkc2dFUkZHz5JO43SN2klfBXucxGfj2_0U0-3y7f7tfnMNfs3ibp3fvAMJ7aQFlfXOfTFqH3bR5hd_MDOX5wz8FI294zHc_3rPEuIgVSHUbU_9VM9VQRaKAqWvv-zsIO=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_hoSuCEyQMmjURkc2dFUkZHz5JO43SN2klfBXucxGfj2_0U0-3y7f7tfnMNfs3ibp3fvAMJ7aQFlfXOfTFqH3bR5hd_MDOX5wz8FI294zHc_3rPEuIgVSHUbU_9VM9VQRaKAqWvv-zsIO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPZxmolRERP4FhxeLwy-yCRTTvXNcYVpd42fTP3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOBZVzE_uE6CvuQdapDDnGToVt-Ijvx11bpgHQV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMGGZGVUEobLfkUqyZ5B6EBMhjLVQC17ROkVhUR=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOWnCXDT2xpGo1AuPqRQwyGS1DumQPBSX96oNTg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5021392,
+      "lng": 80.7008501,
+      "label": "Srikara Hospitals, Vijayawada",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "svara-super-speciality-hospital-vijayawada",
+    "name": "Svara Super Speciality Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vijayawada, Svara Super Speciality Hospital brings together specialists for Oncologist Surgery In Vijayawada and Speciality Care. Operational strengths including Google rating 3.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Vijayawada.",
+    "email": "",
+    "phone": "0866 282 3344",
+    "alternatePhone": "",
+    "website": "https://www.svarahospital.com/",
+    "address": "23-5-/1B, BRTS Rd, Rajavari Veedhi, SN Puram, Satyaranayana Puram, Vijayawada, Andhra Pradesh 520011",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520011",
+    "locality": "Satyaranayana Puram",
+    "landmark": "Rajavari Veedhi",
+    "emergencyContact": "0866 282 3344",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAg3xgRAOtYM5FCNIDE4h-clC4qr8yLYsRBzwoTrBgRtYGGXs1KjKcpNdHTkuTSMEIzW8Ih1Ty5ExyhIotoWjCMe_DOPONL5HGjfHIazgR-Hz1MCCKK1ji1p1XBcwvTnG4ecxS=w1200-h900-p-k-no",
+    "logo": "https://www.svarahospital.com/assets/images/savara-super-speciality-hospital.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAg3xgRAOtYM5FCNIDE4h-clC4qr8yLYsRBzwoTrBgRtYGGXs1KjKcpNdHTkuTSMEIzW8Ih1Ty5ExyhIotoWjCMe_DOPONL5HGjfHIazgR-Hz1MCCKK1ji1p1XBcwvTnG4ecxS=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5210947,
+      "lng": 80.6356834,
+      "label": "Svara Super Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "swapna-hospitals-kanuru",
+    "name": "Swapna Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kanuru, Swapna Hospitals delivers integrated care across Oncologist Surgery In Vijayawada. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kanuru.",
+    "email": "",
+    "phone": "063048 62969",
+    "alternatePhone": "",
+    "website": "",
+    "address": "High tension wire road, Bharathi Nagar, Kanuru, Andhra Pradesh 520008",
+    "city": "Kanuru",
+    "state": "Andhra Pradesh",
+    "pincode": "520008",
+    "locality": "Bharathi Nagar",
+    "landmark": "Kanuru",
+    "emergencyContact": "063048 62969",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3VQ-axKmwSum0LXcSIfeTOLXOOHTzI-luGKVZJlYXlugyiMM8BVA5gHVku2WNlsftUZPi8eeaIF4kOoLvI8-KzqLnpr4OFIqt-a1F6Bt2beqGE0pTJ7-fw9lLgQfSTMaRXCRx=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3VQ-axKmwSum0LXcSIfeTOLXOOHTzI-luGKVZJlYXlugyiMM8BVA5gHVku2WNlsftUZPi8eeaIF4kOoLvI8-KzqLnpr4OFIqt-a1F6Bt2beqGE0pTJ7-fw9lLgQfSTMaRXCRx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO1Eb_nDRyiaJIv0kMkIMdNNCvnDuRn9zzHcIZs=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5084026,
+      "lng": 80.6713714,
+      "label": "Swapna Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "unity-hospitals-multi-speciality-hospital-in-vijayawada-vijayawada",
+    "name": "Unity Hospitals | Multi Speciality Hospital in Vijayawada",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vijayawada, Unity Hospitals | Multi Speciality Hospital in Vijayawada offers coordinated hospital care with major focus on Urologist Surgery In Vijayawada and Speciality Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "0866 663 3108",
+    "alternatePhone": "",
+    "website": "https://unityhospitals.in/",
+    "address": "29-5-7, Cherukupalli vari St, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520002",
+    "locality": "Governor Peta",
+    "landmark": "Governor Peta",
+    "emergencyContact": "0866 663 3108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vijayawada",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpMIyVWUqoS8Xwcv-tVrCZAPocsI4rV2o-v4IFwgc-VABGyxcPOW7EIyGW7OLBkdXh-6luWYRH8ohycya9439UGRP07KRenRztPM4pNXt8praJwVCVf_lqT88BjG0FEUBMBrOhOg=w1200-h900-p-k-no",
+    "logo": "https://unityhospitals.in/wp-content/uploads/2024/10/UnityHospitalsName.jpeg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpMIyVWUqoS8Xwcv-tVrCZAPocsI4rV2o-v4IFwgc-VABGyxcPOW7EIyGW7OLBkdXh-6luWYRH8ohycya9439UGRP07KRenRztPM4pNXt8praJwVCVf_lqT88BjG0FEUBMBrOhOg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.51228,
+      "lng": 80.6315046,
+      "label": "Unity Hospitals | Multi Speciality Hospital in Vijayawada",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "upiri-hospitals-vijayawada",
+    "name": "UPIRI Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vijayawada, UPIRI Hospitals delivers integrated care across Kidney Transplant Surgery In Vijayawada. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "094941 16108",
+    "alternatePhone": "",
+    "website": "http://www.upirihospitals.com/",
+    "address": "1st Building, Nirmala Convent Rd, beside FlyOver, Gurunanak Nagar, K P Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Benz Circle",
+    "landmark": "beside FlyOver, Gurunanak Nagar, K P Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "emergencyContact": "094941 16108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmuShsGbXzjjh-M_aah6jXKE4hgouPsWXgfIDII5rfL-T2aug_om6SILp4m2BLVsQjJ6LlK413h2Cerks69f6ssFA0MuhcWEzGYzEkw8SYWopMT2El1TMAaJ_UplnzwKGu3CY=w1200-h900-p-k-no",
+    "logo": "https://upirihospitals.com/assets/images/upiri_png.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmuShsGbXzjjh-M_aah6jXKE4hgouPsWXgfIDII5rfL-T2aug_om6SILp4m2BLVsQjJ6LlK413h2Cerks69f6ssFA0MuhcWEzGYzEkw8SYWopMT2El1TMAaJ_UplnzwKGu3CY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.4995046,
+      "lng": 80.6561414,
+      "label": "UPIRI Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "upiri-hospitals-advanced-kidney-care-vijayawada",
+    "name": "UPIRI Hospitals - Advanced Kidney Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vijayawada, UPIRI Hospitals - Advanced Kidney Care delivers integrated care across Kidney Transplant Surgery In Vijayawada and Kidney Care. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Vijayawada.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://upirihospitals.com/",
+    "address": "1st Building, benz circle, Nirmala Convent Rd, beside Flyover, Gurunanak Nagar, K P Nagar, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "K P Nagar",
+    "landmark": "beside Flyover, Gurunanak Nagar, K P Nagar, Vijayawada, Andhra Pradesh 520010",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Vijayawada",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKo5sAQfspHUZYRDeeeJE4h4fTnNkrICHnJQ8zQyv02FfwFOkEj5FqqB6F02a8mhLjp19DS-N7_EN1VEpkpVooWa2hK1uoH5vXk60nIs63C_kYiMTw_-JpGLtE8jbMI-oq10IZ=w1200-h900-p-k-no",
+    "logo": "https://upirihospitals.com/assets/images/upiri_png.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKo5sAQfspHUZYRDeeeJE4h4fTnNkrICHnJQ8zQyv02FfwFOkEj5FqqB6F02a8mhLjp19DS-N7_EN1VEpkpVooWa2hK1uoH5vXk60nIs63C_kYiMTw_-JpGLtE8jbMI-oq10IZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.4994657,
+      "lng": 80.6561074,
+      "label": "UPIRI Hospitals - Advanced Kidney Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vibo-hospitals-vijayawada",
+    "name": "Vibo Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vibo Hospitals is a prominent hospital in Vijayawada, known for structured tertiary care across Plastic Surgery In Vijayawada. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "099936 88827",
+    "alternatePhone": "",
+    "website": "https://www.healcard.com/hospital/vibo-aesthetics?rwg_token",
+    "address": "56-15-53, Ganapati temple road, P&t colony, Patamata, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Patamata",
+    "landmark": "P&t colony",
+    "emergencyContact": "099936 88827",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCbh4aqzoymgKa4eQf4Av-CIoc8pWvzpgdUcQRpjDco5QGpzAFYmWc3x5a3fObjdqAXp8DNTJwOUEFbv5ssOPCap9tV7OdvbJMdChF-8XL8vOsegHJ5rqaUhMatEihcSAfZ4aVBcGY9JQ=w1200-h900-p-k-no",
+    "logo": "https://cdn.healcard.com/clinic/clinic_31510551920240918094539.jpeg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCbh4aqzoymgKa4eQf4Av-CIoc8pWvzpgdUcQRpjDco5QGpzAFYmWc3x5a3fObjdqAXp8DNTJwOUEFbv5ssOPCap9tV7OdvbJMdChF-8XL8vOsegHJ5rqaUhMatEihcSAfZ4aVBcGY9JQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.4925247,
+      "lng": 80.6677208,
+      "label": "Vibo Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vidhata-hospitals-vijayawada",
+    "name": "Vidhata Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vijayawada often choose Vidhata Hospitals for its strength in General Surgery In Vijayawada. With public-facing highlights like Google rating 4.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Vijayawada.",
+    "email": "",
+    "phone": "092814 48600",
+    "alternatePhone": "",
+    "website": "https://www.vidhatahospitals.com/",
+    "address": "Chandra, 32-6-5, Umamaheshwara Rao St, near Sikhamani Centre Road, Praja Shakti Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Labbipet",
+    "landmark": "near Sikhamani Centre Road, Praja Shakti Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "emergencyContact": "092814 48600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Vijayawada"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEz-dj0ahPUZ5lH5vscYrTwkXa_-Gjh5Sk3TNPXCP_8dDzjgUa6vNiFwv0kmY7Gidhhm-6DtWuOVOeBw-KQWea1JqwUbQcqI2hdiKbwAewLATfA22dga29ZshM-aVGwfj81MjUv=w1200-h900-p-k-no",
+    "logo": "https://www.vidhatahospitals.com/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEz-dj0ahPUZ5lH5vscYrTwkXa_-Gjh5Sk3TNPXCP_8dDzjgUa6vNiFwv0kmY7Gidhhm-6DtWuOVOeBw-KQWea1JqwUbQcqI2hdiKbwAewLATfA22dga29ZshM-aVGwfj81MjUv=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5082329,
+      "lng": 80.6405969,
+      "label": "Vidhata Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vignesh-fertility-and-children-s-hospital-vijayawada",
+    "name": "Vignesh fertility and Children’s Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vijayawada, Vignesh fertility and Children’s Hospital offers coordinated hospital care with major focus on IVF In Vijayawada, Women and Child Care, and Fertility Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Vijayawada.",
+    "email": "",
+    "phone": "076619 47777",
+    "alternatePhone": "",
+    "website": "https://vigneshhospital.in/",
+    "address": "32-6-18, Sikhamani Centre Rd, Mogalrajapuram, Kasturibaipet, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "locality": "Labbipet",
+    "landmark": "Mogalrajapuram",
+    "emergencyContact": "076619 47777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Vijayawada",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHR8nMTJWtQ4dPNlWwiBTpPbL6H3FxF11QaV4ApaPm84RUoabjGv1BnQ0FptOIMFn8ruj_L5fyAC5L93ga1uLtQPB_1tDq8PAD2K6mEMNjAHB6NWPMYpwhPeErGUaNfudH_SaKA8A=w1200-h900-p-k-no",
+    "logo": "https://vigneshhospital.in/wp-content/uploads/2024/04/cropped-vignesh-hospitl-logo-1.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHR8nMTJWtQ4dPNlWwiBTpPbL6H3FxF11QaV4ApaPm84RUoabjGv1BnQ0FptOIMFn8ruj_L5fyAC5L93ga1uLtQPB_1tDq8PAD2K6mEMNjAHB6NWPMYpwhPeErGUaNfudH_SaKA8A=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOGdUXqG5A0_4hjH_rkMuWBdimx2QFNc6J41QQvte5RD7sJ8dJFvvijcNgU32Z4oVyiF1skDYIMQvOc9ykEAr0guzciRs4n3H_ODM1gB7Jn-kPQXextfZ7YIHRQvS88eQAvO1G=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 16.5075589,
+      "lng": 80.6408615,
+      "label": "Vignesh fertility and Children’s Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

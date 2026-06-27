@@ -1,0 +1,366 @@
+[
+  {
+    "slug": "heart-surgery-kolkata",
+    "name": "Heart Surgery",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Heart Surgery has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Cardiac Surgery In Teni and Cardiac Care. Hospital capacity markers such as Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "033 7122 2518",
+    "alternatePhone": "",
+    "website": "http://www.heartsurgery.in/contact.php",
+    "address": "124, Eastern Metropolitan Bypass, Kulia, Mukundapur, Kolkata, West Bengal 700010",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700010",
+    "locality": "Mukundapur",
+    "landmark": "Kulia",
+    "emergencyContact": "033 7122 2518",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Teni",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=22.5602901%2C88.4094408&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://www.heartsurgery.in/assets/img/logo.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=22.5602901%2C88.4094408&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5602901%2C88.4094408&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5602901%2C88.4094408&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5602901,
+      "lng": 88.4094408,
+      "label": "Heart Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "institute-of-cardiac-surgery-heart-hospital-howrah-narayana-health-howrah",
+    "name": "Institute of Cardiac Surgery | Heart Hospital Howrah | Narayana Health",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Institute of Cardiac Surgery | Heart Hospital Howrah | Narayana Health is a prominent heart hospital in Howrah, known for structured tertiary care across Cardiac Surgery In Teni and Cardiac Care. The facility stands out for Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Howrah.",
+    "email": "",
+    "phone": "080675 06906",
+    "alternatePhone": "",
+    "website": "https://www.narayanahealth.org/blog/precautions-to-be-taken-after-a-heart-operation",
+    "address": "Narayana Superspeciality Hospital 120, 1, Andul Rd, near Nabanna, Shibpur, Howrah, West Bengal 711103",
+    "city": "Howrah",
+    "state": "West Bengal",
+    "pincode": "711103",
+    "locality": "Shibpur",
+    "landmark": "near Nabanna, Shibpur, Howrah, West Bengal 711103",
+    "emergencyContact": "080675 06906",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Teni",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEV22WAYxIRtGNHKZTutqare7aAmnq4Rv_DBMfIgwjCI7Wqu0mcOpSj8ArYltAw2iqb2Nzy3RxPkr1nF8Cfdj_ZwUeEXSzZjcpeoCzaf990oJuO7dxGbowLQprpHFthoVjvX8qRP6geCw8C=w1200-h900-p-k-no",
+    "logo": "https://www.narayanahealth.org/images/nh-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEV22WAYxIRtGNHKZTutqare7aAmnq4Rv_DBMfIgwjCI7Wqu0mcOpSj8ArYltAw2iqb2Nzy3RxPkr1nF8Cfdj_ZwUeEXSzZjcpeoCzaf990oJuO7dxGbowLQprpHFthoVjvX8qRP6geCw8C=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNqeMFHIrOM3-GLTR7LDi1c9_QMnx12E1PhImEk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO1ORMht8_OMk4-VozpPikKbH_UVC4Bb2Bcznaw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN627IS6wwGTZVCB7MlJNyG74xXmv26_xUGPrwA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMxKDmb0mpvsUWv1kxu2RI_9LvT4yJ4nr0H-iH6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5626762,
+      "lng": 88.3080159,
+      "label": "Institute of Cardiac Surgery | Heart Hospital Howrah | Narayana Health",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "narayana-rn-tagore-hospital-mukundapur-kolkata",
+    "name": "Narayana RN Tagore Hospital, Mukundapur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Narayana RN Tagore Hospital, Mukundapur has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Cardiac Surgery In Teni. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080675 06860",
+    "alternatePhone": "",
+    "website": "https://www.narayanahealth.org/hospitals/kolkata/rabindranath-tagore-international-institute-cardiac-sciences/?utm_source",
+    "address": "Premises No: 1489, 124, Eastern Metropolitan Bypass, Mukundapur Market, Stadium Colony, Mukundapur, Kolkata, West Bengal 700099",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Mukundapur",
+    "landmark": "Eastern Metropolitan Bypass",
+    "emergencyContact": "080675 06860",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Teni"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLPJetBiuGEMMJnuUtZV5PpDMqWsd7PLd9JmAC3xaBcsaRi3piD9a2D_SyMFVsoa3BvsRJe-8j9UKCX-MuxoWG9ohGoSbu5Gioso9GiivG0tnC3s8TsfZnzwIXDB4djpq4Lc2CXw=w1200-h900-p-k-no",
+    "logo": "https://www.narayanahealth.org/images/nh-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLPJetBiuGEMMJnuUtZV5PpDMqWsd7PLd9JmAC3xaBcsaRi3piD9a2D_SyMFVsoa3BvsRJe-8j9UKCX-MuxoWG9ohGoSbu5Gioso9GiivG0tnC3s8TsfZnzwIXDB4djpq4Lc2CXw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMz75f9PU9uhNgC_xEYhlYxvufxuEBWo77BUx7J=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNaQbdGeRIjGFqu1SaBhjErQsftLDzlmKETTiKu=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOxNZydIb0yCTHL99ppHcxB3_rkBP8Xuqcl2e5v=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNock5DJia9uPd50wBx2rTAm3lyoPDjIJgMZNca=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.4912281,
+      "lng": 88.4024062,
+      "label": "Narayana RN Tagore Hospital, Mukundapur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

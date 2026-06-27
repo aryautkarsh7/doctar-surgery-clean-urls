@@ -1,0 +1,7812 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aswin-multispeciality-hospital-dindigul",
+    "name": "Aswin Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, Aswin Multispeciality Hospital offers coordinated hospital care with major focus on Oral Surgery In Dindigul and Speciality Care. Its infrastructure includes Google rating 3.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "094434 47160",
+    "alternatePhone": "",
+    "website": "",
+    "address": "112, Mengles Rd, Mendonsa Colony, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Mendonsa Colony",
+    "landmark": "Mendonsa Colony",
+    "emergencyContact": "094434 47160",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dindigul",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMI33OpcZ34r1y6S_JUfT3X_BjmpWY6VI1apKK3CEviJSLqSCPA2QEKwr0eW_lFdznplcttzQSYGrjMFRRZPecfKj5AvK_IEuHHMMGMtzuexQjpkWOe6PfUWWyFsrzoauNXI0o9-iQqVQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMI33OpcZ34r1y6S_JUfT3X_BjmpWY6VI1apKK3CEviJSLqSCPA2QEKwr0eW_lFdznplcttzQSYGrjMFRRZPecfKj5AvK_IEuHHMMGMtzuexQjpkWOe6PfUWWyFsrzoauNXI0o9-iQqVQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.361226,
+      "lng": 77.98325,
+      "label": "Aswin Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "balachandran-hospital-dindigul",
+    "name": "Balachandran Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dindigul, Balachandran Hospital brings together specialists for Neurosurgeon In Dindigul. Its infrastructure includes Google rating 3.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dindigul can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X6M+4C9, Mendonsa Colony, Dindigul, Tamil Nadu 624003",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624003",
+    "locality": "Mendonsa Colony",
+    "landmark": "Dindigul",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEi7bhn4_yz2LBhUZ27yYnZBukfL0HIEgRKxzn8MRcV2GkHss8mXYPgAWQpGktnIwsYyMOFN18Ts57BkpSCTWVQM5bEqOYa6ryNAnFA0ybpoXAkO1oa1M2YKCU8ES-nYKfWo4wWqvl0Xj5m=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEi7bhn4_yz2LBhUZ27yYnZBukfL0HIEgRKxzn8MRcV2GkHss8mXYPgAWQpGktnIwsYyMOFN18Ts57BkpSCTWVQM5bEqOYa6ryNAnFA0ybpoXAkO1oa1M2YKCU8ES-nYKfWo4wWqvl0Xj5m=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3602797,
+      "lng": 77.9836202,
+      "label": "Balachandran Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "banumathi-clinic-dindigul",
+    "name": "Banumathi Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dindigul, Banumathi Clinic brings together specialists for Oral Surgery In Dindigul. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X5J+5G4, Mengles Rd, Mendonsa Colony, Dindigul, Tamil Nadu 624003",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624003",
+    "locality": "Mendonsa Colony",
+    "landmark": "Mendonsa Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEah-cJGCNz_aGdghrUjmhES3e-IPydoXtniMa3xzXJ-VGlVb_F7aQpqNQzKKjAYUckrqcQbXUifbv-jJkofNtIAPmPe5Xe12N4G1gIAeiPz5-FeX6tMUxoYtAA-t8gzBJ-ggCf=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEah-cJGCNz_aGdghrUjmhES3e-IPydoXtniMa3xzXJ-VGlVb_F7aQpqNQzKKjAYUckrqcQbXUifbv-jJkofNtIAPmPe5Xe12N4G1gIAeiPz5-FeX6tMUxoYtAA-t8gzBJ-ggCf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEv_tCG6ks9gNhQ8WUAj8UTS0QEMtXFqFqwjM4crvg2NIkSx53LSz9pWGCPqgOSCuvQyWPkUQ1tHbmTsBrop8EDRpf3PVfwFKWtu64VDGcmSLD4_ZDG6pfBI_sNcylnyMGGmEw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwg5ihvzXs1NFBa4vyeDgek0lufF10khGR65CcdQG4UaweRNpLSvxjo6B4Eh7qlEVFpmq4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwg5ihvzXs1NFBa4vyeDgek0lufF10khGR65CcdQG4UaweRNpLSvxjo6B4Eh7qlEVFpmq4kl-hHlG0yQxGbWqWvrBCDw-zyLi6rJ4haKz0t3Sp3JnIR8B4rFaKHW0g2sO1Wkx34Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEBBFv5UVToTL3M5OnZGjwQPh9dBQ1uew5N3zwFc0VVdoTo021OntsgNHLKsADS1eQ5ExO3N6NSDmFBJn6-v9J-wriZYTTydPaPnPCEciqBv_G0XmOfnWZAhJ3xTmCvyMRKNZeK=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3578856,
+      "lng": 77.9813228,
+      "label": "Banumathi Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "best-hospital-dindigul",
+    "name": "Best Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Best Hospital is a prominent hospital in Dindigul, known for structured tertiary care across Liver Transplant Surgery In Dindigul. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "0451 242 9240",
+    "alternatePhone": "",
+    "website": "",
+    "address": "90/1, vivekanada nagar, Trichy - Dindugal Rd, Anna Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Anna Nagar",
+    "landmark": "Trichy - Dindugal Rd",
+    "emergencyContact": "0451 242 9240",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCrYDC6PvjuiJnjs-jK6gN32mTlvQkAud26mBG23EI6BbVEHugjgkEglbSCGwUjuMxlA2Umwe3-rqVaBKNllPSfHeaOps3w9xe_LY_Bg7Pd8v3mdnJDnTjQWNWoafj34eYqOtV=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCrYDC6PvjuiJnjs-jK6gN32mTlvQkAud26mBG23EI6BbVEHugjgkEglbSCGwUjuMxlA2Umwe3-rqVaBKNllPSfHeaOps3w9xe_LY_Bg7Pd8v3mdnJDnTjQWNWoafj34eYqOtV=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3690535,
+      "lng": 77.9823987,
+      "label": "Best Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bharani-hospital-dindigul",
+    "name": "Bharani Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bharani Hospital has built a strong reputation in Dindigul for multidisciplinary treatment pathways covering Oral Surgery In Dindigul. Operational strengths including Google rating 2.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X8J+W4F, New Agraharam, Karunanidhi Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Karunanidhi Nagar",
+    "landmark": "Karunanidhi Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.4"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.3673123%2C77.9802906&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.3673123%2C77.9802906&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3673123%2C77.9802906&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3673123%2C77.9802906&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3673123,
+      "lng": 77.9802906,
+      "label": "Bharani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "city-hospital-dindigul",
+    "name": "City Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dindigul often choose City Hospital for its strength in Kidney Transplant Surgery In Dindigul. Hospital capacity markers such as Google rating 3.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "089401 39151",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gandhiji Nagar, Cooperative Nagar, Dindigul, Tamil Nadu 624005",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624005",
+    "locality": "Cooperative Nagar",
+    "landmark": "Dindigul",
+    "emergencyContact": "089401 39151",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHg7bs8bPwf20QauplSK--0vW6Al5Fn20IPFKkDidP80YpewD6jyjrLR-6z_ngRaJWE5fX_17htiAvlM2SJ7vJjfpdTdGDKyPFVGF03-o4HllnxKOKc-m1XYcuKtFGGyIFDFmNd=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHg7bs8bPwf20QauplSK--0vW6Al5Fn20IPFKkDidP80YpewD6jyjrLR-6z_ngRaJWE5fX_17htiAvlM2SJ7vJjfpdTdGDKyPFVGF03-o4HllnxKOKc-m1XYcuKtFGGyIFDFmNd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1aXUk_n1L1fEP7PIsQPV0fSo69Qjg3k9Ki8yZUqk9tlvzrRrcoXHYLTTpzvgkrfJv8o5I7hm-RisV-Ia-9drTzFkKl9q-O8ymsj-tPIh6E_azHodB96xGfd8VeXefWYtFfgUpuVnAvCG0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3725949,
+      "lng": 77.9876894,
+      "label": "City Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "das-hospital-dindigul",
+    "name": "Das Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dindigul, Das Hospital delivers integrated care across Liver Transplant Surgery In Dindigul. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X7P+2JM, Round Rd, Mendonsa Colony, Dindigul, Tamil Nadu 624005",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624005",
+    "locality": "Mendonsa Colony",
+    "landmark": "Mendonsa Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZnFS5klxFhJq1NVfsStVxCvOfqLTjUtPF9qMxNzXMuTJEcmG0wCdOXS1sZkzsxxmjumqeVGkNl-uog5laPUzC8W68kxIR3vTpOOhl53YFzZw2FldxdvrLUL-nkFFLEbD8MJxtLVpmU0Sv=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZnFS5klxFhJq1NVfsStVxCvOfqLTjUtPF9qMxNzXMuTJEcmG0wCdOXS1sZkzsxxmjumqeVGkNl-uog5laPUzC8W68kxIR3vTpOOhl53YFzZw2FldxdvrLUL-nkFFLEbD8MJxtLVpmU0Sv=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3625933,
+      "lng": 77.9865461,
+      "label": "Das Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dev-speciality-hospital-dindigul",
+    "name": "Dev speciality hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dev speciality hospital is a prominent hospital in Dindigul, known for structured tertiary care across Liver Transplant Surgery In Dindigul and Speciality Care. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dindigul.",
+    "email": "",
+    "phone": "087782 98744",
+    "alternatePhone": "",
+    "website": "",
+    "address": "opposite to Government ITI, Ponnagaram, Dindigul, Suba Nagar, Tamil Nadu 624003",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624003",
+    "locality": "Ponnagaram",
+    "landmark": "Dindigul",
+    "emergencyContact": "087782 98744",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdkkMWlSKySC790Sv8xFo5xTie3izijkE3DrkKiQ7Qk7mWKORHAoszTllBZdrwN4MME8rhBr7XTkD4gOPxNhaFZ6beD3vC14IwYdzyS2K5dv7nr1vfJ9yOPST4u3jc3tqa0kk8=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdkkMWlSKySC790Sv8xFo5xTie3izijkE3DrkKiQ7Qk7mWKORHAoszTllBZdrwN4MME8rhBr7XTkD4gOPxNhaFZ6beD3vC14IwYdzyS2K5dv7nr1vfJ9yOPST4u3jc3tqa0kk8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.340733,
+      "lng": 77.9934731,
+      "label": "Dev speciality hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "devi-sugam-hospital-dindigul",
+    "name": "Devi Sugam Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dindigul, Devi Sugam Hospital delivers integrated care across Laparoscopic Surgery In Dindigul. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No.6, John pillai street, E Car St, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "E Car St",
+    "landmark": "E Car St",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlwo-4sU1XXayKMS9FW1APWSn8Y9uIOocq-S2F2DRKS2yA4ovT332H3CjM3asi-H42frEZsxBEWcHYPwqI8BAIapIkpEImGRu28xwZ07MoCKGxZ4OEa3Rq7YS1H0av1eFMvs0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlwo-4sU1XXayKMS9FW1APWSn8Y9uIOocq-S2F2DRKS2yA4ovT332H3CjM3asi-H42frEZsxBEWcHYPwqI8BAIapIkpEImGRu28xwZ07MoCKGxZ4OEa3Rq7YS1H0av1eFMvs0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3594079,
+      "lng": 77.9719647,
+      "label": "Devi Sugam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dharshini-hospitals-dindigul",
+    "name": "Dharshini Hospitals",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dharshini Hospitals has built a strong reputation in Dindigul for multidisciplinary treatment pathways covering Liver Transplant Surgery In Dindigul. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dindigul can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098421 13392",
+    "alternatePhone": "",
+    "website": "https://dharshinihospitals.com/",
+    "address": "Narayana Nagar, 34, Naicker New 1st St, Pandian Nagar, Narayana Nagar, Govindapuram, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Govindapuram",
+    "landmark": "Naicker New 1st St",
+    "emergencyContact": "098421 13392",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmmXUAXNEdwmW-5wsfAqM0hAHKhqJk8gkDfYxWTwzx8-xlWQU8HU9tN9gxU8cT1ogeF11L-yx9lebcEj6bbPXKe9tRgAKejj2YFJrymGn-PRHxZVhN-uD0iBDHI_aUGQ1P8SJHYA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmmXUAXNEdwmW-5wsfAqM0hAHKhqJk8gkDfYxWTwzx8-xlWQU8HU9tN9gxU8cT1ogeF11L-yx9lebcEj6bbPXKe9tRgAKejj2YFJrymGn-PRHxZVhN-uD0iBDHI_aUGQ1P8SJHYA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7jZoORKpeOUTXmYhvfWW75NE9rpsqYAKWxf3GxkAXFGCICA-1eAd5p3cdgtHyiwRg0DB5BpJs5nDKP1AIwoCiJ6zmYCpU1ORfeQnMAp6c269HWgZm8UTBgeWDGh7JXyDjRJGuHZeCdP36=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3692181,
+      "lng": 77.9767201,
+      "label": "Dharshini Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dindigul-dental-center-dindigul",
+    "name": "Dindigul Dental Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dindigul, Dindigul Dental Center brings together specialists for Oral Surgery In Dindigul. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "095000 60841",
+    "alternatePhone": "",
+    "website": "",
+    "address": "48, RPS Tower, Aarthi Theatre Rd, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Aarthi Theatre Rd",
+    "landmark": "Aarthi Theatre Rd",
+    "emergencyContact": "095000 60841",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGF9YNDqobaL82rq-UxI_Zy-NGbOtw1eAPNaqReuzmR9XcYqQmS4gEg13p44e_4MBRcqg-G8w0U0onqtULQkTdP_a3OdxjZU7OYfpQcRZsuh3Evs_TQY2YpZsiUjcxez7ZbY8Gk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGF9YNDqobaL82rq-UxI_Zy-NGbOtw1eAPNaqReuzmR9XcYqQmS4gEg13p44e_4MBRcqg-G8w0U0onqtULQkTdP_a3OdxjZU7OYfpQcRZsuh3Evs_TQY2YpZsiUjcxez7ZbY8Gk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3645784,
+      "lng": 77.982516,
+      "label": "Dindigul Dental Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dindigul-kidney-center-dindigul",
+    "name": "Dindigul Kidney Center",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dindigul Kidney Center is a prominent specialized hospital in Dindigul, known for structured tertiary care across Urologist Surgery In Dindigul and Kidney Care. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dindigul.",
+    "email": "",
+    "phone": "089259 33028",
+    "alternatePhone": "",
+    "website": "",
+    "address": "opposite to BALAJI BHAVAN HOTEL, Spencer Compound, Dindigul, Tamil Nadu 624003",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624003",
+    "locality": "Spencer Compound",
+    "landmark": "Dindigul",
+    "emergencyContact": "089259 33028",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dindigul",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOhjIO3v5AzNfCN0Hl_jNa40CNoUEGDP5AARkpvwXWFXxWfqqN6YU8BhI41NzZE5UbSypj1E9c3xZbDPcSqeuhLivZz7Ff62j4Q-iLEnjqC-BawAvYlAMEm9dFwd9l8HuWOfOX=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOhjIO3v5AzNfCN0Hl_jNa40CNoUEGDP5AARkpvwXWFXxWfqqN6YU8BhI41NzZE5UbSypj1E9c3xZbDPcSqeuhLivZz7Ff62j4Q-iLEnjqC-BawAvYlAMEm9dFwd9l8HuWOfOX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP6M6tYTHJBVrA-XeaE-wcbIcF4Aml61ElxfsF5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNDjfxVaSgAcVkWLqqjMNkUaLSGObr9_3mvYL2Y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMmzg5Tmtg7nsyx1NTClaK62eOYXtDnKK2Is6BZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMnuvAA5t9EuOqBBgDDetM5-6uBguFGtzbsU9pP=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3605157,
+      "lng": 77.9783235,
+      "label": "Dindigul Kidney Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dindigul-municipal-siddha-hospital-begambur",
+    "name": "Dindigul Municipal Siddha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Begambur, Dindigul Municipal Siddha Hospital delivers integrated care across Liver Transplant Surgery In Dindigul. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Begambur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X88+8G4, Palani Rd, Begambur, Tamil Nadu 624001",
+    "city": "Begambur",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Palani Rd",
+    "landmark": "Begambur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFilGmssA_Ka9UIKefAdnmfD_aBXNuS8dUdnP_OQSHC6sFCMdhokUBXPP4EX4ApTd-4WSNAyLStreEdIvBsl-we2j3EUjn5Apf3sD20aIJkJYTsQcQ1fbFObjULRPjjDAJYN7KlyA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFilGmssA_Ka9UIKefAdnmfD_aBXNuS8dUdnP_OQSHC6sFCMdhokUBXPP4EX4ApTd-4WSNAyLStreEdIvBsl-we2j3EUjn5Apf3sD20aIJkJYTsQcQ1fbFObjULRPjjDAJYN7KlyA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3657501,
+      "lng": 77.9663148,
+      "label": "Dindigul Municipal Siddha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dindigul-neuro-centre-dindigul",
+    "name": "Dindigul neuro centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dindigul neuro centre has built a strong reputation in Dindigul for multidisciplinary treatment pathways covering Spine Surgery In Dindigul and Neurosciences. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X6M+3C9, Mendonsa Colony, Dindigul, Tamil Nadu 624003",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624003",
+    "locality": "Mendonsa Colony",
+    "landmark": "Dindigul",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Dindigul",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHE1590spNOmIIKYIhl4__yg6DKJshcQleC3-eoCB8ogTwPrPg2Rvjc6H1fmvq608vWWyz4Hn6QFODQhQy6Dp-v1zze0XwX9gbOJVkLgnXsVDK2fAYSWQZzn6eTpsVLgi_IkAdVCWBXrc4p=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHE1590spNOmIIKYIhl4__yg6DKJshcQleC3-eoCB8ogTwPrPg2Rvjc6H1fmvq608vWWyz4Hn6QFODQhQy6Dp-v1zze0XwX9gbOJVkLgnXsVDK2fAYSWQZzn6eTpsVLgi_IkAdVCWBXrc4p=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3601636,
+      "lng": 77.9836215,
+      "label": "Dindigul neuro centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dms-hospital-pattiveeranpatti",
+    "name": "DMS Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pattiveeranpatti, DMS Hospital brings together specialists for General Surgery In Dindigul. Operational strengths including Google rating 3.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pattiveeranpatti.",
+    "email": "",
+    "phone": "099655 44794",
+    "alternatePhone": "",
+    "website": "http://www.dmshospital.com/",
+    "address": "No:8, Gandhinagar Rd, [no name], Batlagundu, Pattiveeranpatti, Tamil Nadu 624202",
+    "city": "Pattiveeranpatti",
+    "state": "Tamil Nadu",
+    "pincode": "624202",
+    "locality": "Batlagundu",
+    "landmark": "[no name]",
+    "emergencyContact": "099655 44794",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDJNPPP-qytV3TsTvyOySCu7pWuaA3SNYTfcfBe211JB5bP6UAja8HoROa3FlcuIRT_rU3nBDPZLVPgMqT5xFvCkhH-P2Wo5XnDoWbGkYRcDE4hOcvzwM1-hfb5Uc8XdW8QhbcLw=w1200-h900-p-k-no",
+    "logo": "http://www.dmshospital.com/assets/images/logo/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDJNPPP-qytV3TsTvyOySCu7pWuaA3SNYTfcfBe211JB5bP6UAja8HoROa3FlcuIRT_rU3nBDPZLVPgMqT5xFvCkhH-P2Wo5XnDoWbGkYRcDE4hOcvzwM1-hfb5Uc8XdW8QhbcLw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.165105,
+      "lng": 77.75592,
+      "label": "DMS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "durairaj-hospital-dindigul",
+    "name": "Durairaj Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dindigul, Durairaj Hospital delivers integrated care across Liver Transplant Surgery In Dindigul. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "097891 11534",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X8C+5C5, Pensioner Street, Dindigul - Palani Rd, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Dindigul - Palani Rd",
+    "landmark": "Dindigul - Palani Rd",
+    "emergencyContact": "097891 11534",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2TI_e5xgxAqdNmGT3IP74N51trthNdC0WoJucovKVKrX5aJsKASu5aRI5XKWr7CkHOxghvUSFaNB6DP3RxvKW1xhj6LZj4tHmRA0ei_hHyLjGXjk_Zr3LZYT8eyrZah9upYK5ZA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2TI_e5xgxAqdNmGT3IP74N51trthNdC0WoJucovKVKrX5aJsKASu5aRI5XKWr7CkHOxghvUSFaNB6DP3RxvKW1xhj6LZj4tHmRA0ei_hHyLjGXjk_Zr3LZYT8eyrZah9upYK5ZA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3653804,
+      "lng": 77.9711019,
+      "label": "Durairaj Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gughan-hospital-dindigul",
+    "name": "Gughan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, Gughan Hospital offers coordinated hospital care with major focus on Oral Surgery In Dindigul. The facility stands out for Google rating 3.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "0451 243 3964",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9XGF+83H, RM Colony, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "RM Colony",
+    "landmark": "Dindigul",
+    "emergencyContact": "0451 243 3964",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJQwiPn9LhrJwMsme09PQU6INShIz3Dhv1QLHha2Zj0Z-jjMdA8cUTNhRmigArTdyY-t1vqWVlkloJMMHtyitWVLKHokDL2R6Hhmftr_k9PDZ7E2o3v3CEligX0yiwJiVfAZDPdQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJQwiPn9LhrJwMsme09PQU6INShIz3Dhv1QLHha2Zj0Z-jjMdA8cUTNhRmigArTdyY-t1vqWVlkloJMMHtyitWVLKHokDL2R6Hhmftr_k9PDZ7E2o3v3CEligX0yiwJiVfAZDPdQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.375813,
+      "lng": 77.972744,
+      "label": "Gughan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "imayam-siddha-clinic-dindigul",
+    "name": "Imayam Siddha Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Imayam Siddha Clinic has built a strong reputation in Dindigul for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Dindigul. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X8G+PX4, Pandian Nagar, Nehruji Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Nehruji Nagar",
+    "landmark": "Nehruji Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.3667594%2C77.9774581&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.3667594%2C77.9774581&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3667594%2C77.9774581&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3667594%2C77.9774581&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3667594,
+      "lng": 77.9774581,
+      "label": "Imayam Siddha Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jcb-hospitals-begambur",
+    "name": "JCB Hospitals",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Begambur, JCB Hospitals delivers integrated care across Liver Transplant Surgery In Dindigul. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Begambur.",
+    "email": "",
+    "phone": "0451 243 3993",
+    "alternatePhone": "",
+    "website": "http://jcbhospitals.com/",
+    "address": "No.1, VEEPPAANTHOPPU STREET, Palani Rd, Begambur, Tamil Nadu 624001",
+    "city": "Begambur",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Palani Rd",
+    "landmark": "Palani Rd",
+    "emergencyContact": "0451 243 3993",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCTJpy6YyIw1B3m9n9dSpyi1TdYkyTXCgBEsXyrsUdnFDIO7AO7cwm868UOKhyHiUNDJKLigdwcEUd-lefff6CyeUavdGxb7mtFtULBKC48RMxaqosjs9Wc8g8jS14ErZ5suc0=w1200-h900-p-k-no",
+    "logo": "https://jcbhospitals.com/wp-content/uploads/2025/03/JCB-Hospitals-Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCTJpy6YyIw1B3m9n9dSpyi1TdYkyTXCgBEsXyrsUdnFDIO7AO7cwm868UOKhyHiUNDJKLigdwcEUd-lefff6CyeUavdGxb7mtFtULBKC48RMxaqosjs9Wc8g8jS14ErZ5suc0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.366464,
+      "lng": 77.977433,
+      "label": "JCB Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jeevan-clinic-dindigul",
+    "name": "JEEVAN CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, JEEVAN CLINIC offers coordinated hospital care with major focus on Liver Transplant Surgery In Dindigul. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "098421 56196",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7, Aarthi Theatre Rd, Y.M.R. Patty, Karunanidhi Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Karunanidhi Nagar",
+    "landmark": "Y.M.R. Patty",
+    "emergencyContact": "098421 56196",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsbIbZJDGPFtddL5ICYJmHXiRCVjhI_KybK5ASxRCHeSUs5T6xNsDnFEYb8AvMYR3JpvdbahXOnN8WQYt2MxXM3DggBBbDhBob08BM5er0gCvl1u8SAj1NrS0jXusj9DKTQu5sfkaiwjg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsbIbZJDGPFtddL5ICYJmHXiRCVjhI_KybK5ASxRCHeSUs5T6xNsDnFEYb8AvMYR3JpvdbahXOnN8WQYt2MxXM3DggBBbDhBob08BM5er0gCvl1u8SAj1NrS0jXusj9DKTQu5sfkaiwjg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3642446,
+      "lng": 77.9824031,
+      "label": "JEEVAN CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jeganath-hospital-dindigul",
+    "name": "Jeganath Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dindigul, Jeganath Hospital delivers integrated care across Liver Transplant Surgery In Dindigul. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "090929 57772",
+    "alternatePhone": "",
+    "website": "",
+    "address": "#10, Palani Rd, New Agraharam, Govindapuram, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Govindapuram",
+    "landmark": "New Agraharam",
+    "emergencyContact": "090929 57772",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2HXIJ-1oBfiPAVGVScxie-hyG1Ab3i2jiYrPJBManmDTLjYkDOKlVr5p24ZU9yW8w4ff16KIpUuEPTKmwB4Hiiate8wZxZYL2IBbIrTClYJIGuKKVVkRO1Rkn8oa3PSathioy=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2HXIJ-1oBfiPAVGVScxie-hyG1Ab3i2jiYrPJBManmDTLjYkDOKlVr5p24ZU9yW8w4ff16KIpUuEPTKmwB4Hiiate8wZxZYL2IBbIrTClYJIGuKKVVkRO1Rkn8oa3PSathioy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3663848,
+      "lng": 77.9757429,
+      "label": "Jeganath Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jeyam-hospital-and-reproductive-centre-dindigul",
+    "name": "Jeyam Hospital and Reproductive Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jeyam Hospital and Reproductive Centre has built a strong reputation in Dindigul for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Dindigul and Reproductive Medicine. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No.1008 ,First Floor , Trends Mall , Pensioner street, Dindigul - Palani Rd, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Dindigul - Palani Rd",
+    "landmark": "Trends Mall",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dindigul",
+      "Reproductive Medicine"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzLTlvbYoQwi6260WTv6NIYDVsPlKOrh4Zut9Z4F9wA6xINRcRYB4-O2coTnShO8fpvYHZEQaM14sqMWEi5qFVlug9nurqiZ-11wOmI0xfEaXkGwnLzkVdgQtM8QoGqV-dmBZQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzLTlvbYoQwi6260WTv6NIYDVsPlKOrh4Zut9Z4F9wA6xINRcRYB4-O2coTnShO8fpvYHZEQaM14sqMWEi5qFVlug9nurqiZ-11wOmI0xfEaXkGwnLzkVdgQtM8QoGqV-dmBZQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.365412,
+      "lng": 77.9728809,
+      "label": "Jeyam Hospital and Reproductive Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jj-arul-hospital-salem-madurai-rd",
+    "name": "JJ ARUL HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "JJ ARUL HOSPITAL is a prominent hospital in Salem - Madurai Rd, known for structured tertiary care across Knee Replacement Surgery In Dindigul. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Salem - Madurai Rd.",
+    "email": "",
+    "phone": "07397 769 494",
+    "alternatePhone": "",
+    "website": "http://jjarulhospital.com/",
+    "address": "A2, 2/1, Begampur, NH Po, Salem - Madurai Rd, Tamil Nadu 624002",
+    "city": "Salem - Madurai Rd",
+    "state": "Tamil Nadu",
+    "pincode": "624002",
+    "locality": "NH Po",
+    "landmark": "Begampur",
+    "emergencyContact": "07397 769 494",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFPT2vDUHUHR0Zvof9XZRHBd2fbPyKK23g9TutQjPXOvforksMp0xZbd3IB3JHkCm1f-KcLWxQPRtnpp2OYdYC2MstRMH1I-3yS26gFrc1BCrIvMav7PPlJivVoqAxdb8rWf8=w1200-h900-p-k-no",
+    "logo": "http://jjarulhospital.com/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFPT2vDUHUHR0Zvof9XZRHBd2fbPyKK23g9TutQjPXOvforksMp0xZbd3IB3JHkCm1f-KcLWxQPRtnpp2OYdYC2MstRMH1I-3yS26gFrc1BCrIvMav7PPlJivVoqAxdb8rWf8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMPTzjqWepgRXdgOo1_2gr-1ELgX8yEzLigGCDM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM12Y4Yc8CRXB_7O6Ugws89VRIcOshhcm5RhLAD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.331095,
+      "lng": 77.9566896,
+      "label": "JJ ARUL HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jj-arul-hospital-telephone-colony-branch-dindigul",
+    "name": "JJ Arul Hospital - Telephone Colony Branch",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dindigul, JJ Arul Hospital - Telephone Colony Branch delivers integrated care across Spine Surgery In Dindigul. With public-facing highlights like Google rating 3.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dindigul.",
+    "email": "",
+    "phone": "0451 242 5454",
+    "alternatePhone": "",
+    "website": "http://www.jjarulhospital.com/",
+    "address": "9X7J+JGH, 23/8/1,Telephone colony YMR PATTI, Y.M.R. Patty, Karunanidhi Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Karunanidhi Nagar",
+    "landmark": "Telephone colony YMR PATTI",
+    "emergencyContact": "0451 242 5454",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxRsPFGeaocjFv354y_0gbPbo_ofoZGUXFmxfwI4tUxe1gAm91SpOKNiVxgsa5E9I4Q4GMRzaRzoAowMP0QHDHQ2KSzPdyMY7cbgRLJG9tBlTV1DgsE6koybwLr_XN1MfUSvJh=w1200-h900-p-k-no",
+    "logo": "http://www.jjarulhospital.com/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxRsPFGeaocjFv354y_0gbPbo_ofoZGUXFmxfwI4tUxe1gAm91SpOKNiVxgsa5E9I4Q4GMRzaRzoAowMP0QHDHQ2KSzPdyMY7cbgRLJG9tBlTV1DgsE6koybwLr_XN1MfUSvJh=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3658501,
+      "lng": 77.9811884,
+      "label": "JJ Arul Hospital - Telephone Colony Branch",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kannan-hospital-dindigul",
+    "name": "Kannan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kannan Hospital has built a strong reputation in Dindigul for multidisciplinary treatment pathways covering Liver Transplant Surgery In Dindigul. Its infrastructure includes Google rating 3.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X9H+98V, Pandian Nagar, Nehruji Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Nehruji Nagar",
+    "landmark": "Nehruji Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB00vwJwifsE7vI_eYQD3HUPQFUMET6EsgjLXJ7r7nyGMo0Wnlb58h-HxPXVPyDv9zPJ-N6IhN5mJeRY2Sbru9UTvnqgtrdAuWVKThyMcitjL41qM6Xl4nBdNl-9Sk9gYdICs3=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB00vwJwifsE7vI_eYQD3HUPQFUMET6EsgjLXJ7r7nyGMo0Wnlb58h-HxPXVPyDv9zPJ-N6IhN5mJeRY2Sbru9UTvnqgtrdAuWVKThyMcitjL41qM6Xl4nBdNl-9Sk9gYdICs3=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3684941,
+      "lng": 77.9782953,
+      "label": "Kannan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "karthick-hospital-dindigul",
+    "name": "Karthick Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dindigul, Karthick Hospital delivers integrated care across Kidney Transplant Surgery In Dindigul. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dindigul - Sendurai Main Rd, near Essar Petrol Bunk, Dindigul, Tamil Nadu 624306",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624306",
+    "locality": "near Essar Petrol Bunk",
+    "landmark": "near Essar Petrol Bunk, Dindigul, Tamil Nadu 624306",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.3544492%2C78.0994265&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.3544492%2C78.0994265&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3544492%2C78.0994265&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3544492%2C78.0994265&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3544492,
+      "lng": 78.0994265,
+      "label": "Karthick Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kavin-fertility-and-women-s-centre-dindigul",
+    "name": "KAVIN FERTILITY & WOMEN’S CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dindigul often choose KAVIN FERTILITY & WOMEN’S CENTRE for its strength in IVF In Dindigul, Women and Child Care, and Fertility Care. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dindigul can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099940 10509",
+    "alternatePhone": "",
+    "website": "http://kavinfertilitycentre.in/",
+    "address": "95-B1, Thiruvalluvar Salai, Spencer Compound, Dindigul, Tamil Nadu 624003",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624003",
+    "locality": "Spencer Compound",
+    "landmark": "Spencer Compound",
+    "emergencyContact": "099940 10509",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Dindigul",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_8NY4mBPT-9v8ioZaI1fm2QJdVr9FuXc18_gcxu3pPhlqOmAAsRGSxGTnBHC5KlK-eH8mDoNUzdNboyqDI3QnU70P-wJ-3mG_5aX0_JKD7pNlNSKwo7OISF0totBYwfTRfSIgLrr_chjM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_8NY4mBPT-9v8ioZaI1fm2QJdVr9FuXc18_gcxu3pPhlqOmAAsRGSxGTnBHC5KlK-eH8mDoNUzdNboyqDI3QnU70P-wJ-3mG_5aX0_JKD7pNlNSKwo7OISF0totBYwfTRfSIgLrr_chjM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3585368,
+      "lng": 77.9774875,
+      "label": "KAVIN FERTILITY & WOMEN’S CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kavin-hospital-and-fertility-centre-eriodu",
+    "name": "KAVIN HOSPITAL & FERTILITY CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Eriodu, KAVIN HOSPITAL & FERTILITY CENTRE delivers integrated care across IVF In Dindigul and Fertility Care. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Eriodu.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "23, POLICE STATION, opposite S.PUDUR, Eriodu, Tamil Nadu 624702",
+    "city": "Eriodu",
+    "state": "Tamil Nadu",
+    "pincode": "624702",
+    "locality": "opposite S.PUDUR",
+    "landmark": "opposite S.PUDUR, Eriodu, Tamil Nadu 624702",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Dindigul",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_iOMWYX1jJgMrInIR9DCMHSE0saE9CSVKGDYqD2ObcY2Go8N6Nmtnmy9odq3dOSX2q1XUQGBVD2iQ9Z4Xw2MJjvKFz4pvRPVuls5rUmQxMXxIdxc-jMIp5slbRJOmnxH5r-A=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_iOMWYX1jJgMrInIR9DCMHSE0saE9CSVKGDYqD2ObcY2Go8N6Nmtnmy9odq3dOSX2q1XUQGBVD2iQ9Z4Xw2MJjvKFz4pvRPVuls5rUmQxMXxIdxc-jMIp5slbRJOmnxH5r-A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.5133074,
+      "lng": 78.0606676,
+      "label": "KAVIN HOSPITAL & FERTILITY CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kr-multispeciality-dental-hospital-microscopic-root-canal-treatment-and-implant-dindigul",
+    "name": "KR Multispeciality Dental Hospital (Microscopic Root canal treatment & implant)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, KR Multispeciality Dental Hospital (Microscopic Root canal treatment & implant) offers coordinated hospital care with major focus on Oral Surgery In Dindigul and Speciality Care. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "0451 242 2333",
+    "alternatePhone": "",
+    "website": "",
+    "address": "K.R.Multi Speciality Dental Hospital 12-A,LGB Compound, Mengles road, Mengles Rd, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Mengles Rd",
+    "landmark": "Mengles road",
+    "emergencyContact": "0451 242 2333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dindigul",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEe-hp1jZPFM6PK04300mofviXWjEXYuYY63FJv3MrfrRaDbpMhBOPnBuWgawhGRBE3e_N5FQBFVPbOb5hIkDnwDfoKeigyalXNAqDILOLI4baQl1Gw9-i2ZZw_wimleKAocT8-=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEe-hp1jZPFM6PK04300mofviXWjEXYuYY63FJv3MrfrRaDbpMhBOPnBuWgawhGRBE3e_N5FQBFVPbOb5hIkDnwDfoKeigyalXNAqDILOLI4baQl1Gw9-i2ZZw_wimleKAocT8-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3620598,
+      "lng": 77.9832277,
+      "label": "KR Multispeciality Dental Hospital (Microscopic Root canal treatment & implant)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ks-clinic-dindigul",
+    "name": "KS Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, KS Clinic offers coordinated hospital care with major focus on Liver Transplant Surgery In Dindigul. Its infrastructure includes Google rating 3.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dindigul.",
+    "email": "",
+    "phone": "0451 242 7232",
+    "alternatePhone": "",
+    "website": "",
+    "address": "124, East Car Street,, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "East Car Street",
+    "landmark": "Dindigul",
+    "emergencyContact": "0451 242 7232",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.3595995%2C77.9716071&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.3595995%2C77.9716071&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3595995%2C77.9716071&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3595995%2C77.9716071&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3595995,
+      "lng": 77.9716071,
+      "label": "KS Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kt-hospitals-dindigul",
+    "name": "KT HOSPITALS",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, KT HOSPITALS offers coordinated hospital care with major focus on Liver Transplant Surgery In Dindigul. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "088077 22202",
+    "alternatePhone": "",
+    "website": "http://kthospitals.com/",
+    "address": "222, Near, Palani Rd, byepass, junction, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "junction",
+    "landmark": "Palani Rd",
+    "emergencyContact": "088077 22202",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxpKbkxuF8AapGn3CcAYeACXMb0LKY8Ll3xjlnBAwhzKZrDb8TZaj-i0k5ahabC0MpXYha9W2b3qvzA_l3xUz6qOVydrX4dmon0JdBVN1QGTaoKEbtlGm7-nhFaQjE4nab8KdD=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxpKbkxuF8AapGn3CcAYeACXMb0LKY8Ll3xjlnBAwhzKZrDb8TZaj-i0k5ahabC0MpXYha9W2b3qvzA_l3xUz6qOVydrX4dmon0JdBVN1QGTaoKEbtlGm7-nhFaQjE4nab8KdD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGa5C1L_DwJ-S9ZCes9_fSMXAtxFlODSc9I4-qS6KSf46T_5UiDq7BRtc3O5NlY_6BG4xlnw4uPjDwxIOBTNqCaQsGrefmDzIUK3eKGmWMM0mcRXWJCe83z6PcT9viFSmDpTpLFCQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7TCDpZiJJzUPkZu4onR0i2McmVSgbqxCiXBC3mR5SgXYSpMOG5VigzJjHukdy9-j7GKSJkpkT0p_zAOYrilVTwjI4EpPSiaANmI4j5UmN66gLW0wlFhIlu3wYAshD6NIqHiXj4lIZEJc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3715876,
+      "lng": 77.9540656,
+      "label": "KT HOSPITALS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "life-care-clinic-and-health-center-dindigul",
+    "name": "LIFE CARE CLINIC & HEALTH CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "LIFE CARE CLINIC & HEALTH CENTER is a prominent hospital in Dindigul, known for structured tertiary care across Laparoscopic Surgery In Dindigul. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dindigul.",
+    "email": "",
+    "phone": "073388 80878",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X5F+GGM, Solai Hall Rd, Begambur, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Begambur",
+    "landmark": "Begambur",
+    "emergencyContact": "073388 80878",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0FrEaxwplhKGa6Y2b5p761MnnYWA9n4uPMGWxYaaFsVfDAjDxaf8KqgoHgZE5LVGUOZSfJBaJyTFZWvyUwNT3fdVlMihMDNd7BV5NMjVTSUmcUS51foxgGh6mkeNU03GtmRkTYhakW9rY=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0FrEaxwplhKGa6Y2b5p761MnnYWA9n4uPMGWxYaaFsVfDAjDxaf8KqgoHgZE5LVGUOZSfJBaJyTFZWvyUwNT3fdVlMihMDNd7BV5NMjVTSUmcUS51foxgGh6mkeNU03GtmRkTYhakW9rY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3588454,
+      "lng": 77.9737477,
+      "label": "LIFE CARE CLINIC & HEALTH CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "maharishi-clinic-begambur",
+    "name": "Maharishi Clinic",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Maharishi Clinic has built a strong reputation in Begambur for multidisciplinary treatment pathways covering Cosmetic Surgery In Dindigul and Cardiac Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Begambur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "East Gopura Vashal, Unnamed Road, Begambur, Tamil Nadu 624001",
+    "city": "Begambur",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Unnamed Road",
+    "landmark": "Begambur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Dindigul",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtU0s2pLP-Z8JRUS2QEqppid0TV0JghGB-NuCFBKFBoofWnU9K62k2kApQJUvlYuIeWcAhX7DtGePBSAM_PMJnIzU7H2_rgUVN5UZM52GsLLoge3R97A7jNE5EcP1zUa7o1Ug=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtU0s2pLP-Z8JRUS2QEqppid0TV0JghGB-NuCFBKFBoofWnU9K62k2kApQJUvlYuIeWcAhX7DtGePBSAM_PMJnIzU7H2_rgUVN5UZM52GsLLoge3R97A7jNE5EcP1zUa7o1Ug=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3629942,
+      "lng": 77.9712022,
+      "label": "Maharishi Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "n-krishnasamy-memorial-hospital-dindigul",
+    "name": "N Krishnasamy Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dindigul, N Krishnasamy Memorial Hospital brings together specialists for Oral Surgery In Dindigul. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Batlagundu Main Road, Pillaiyarnatham Village, Dindigul, Pillayarnattam, Tamil Nadu 624002",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624002",
+    "locality": "Pillaiyarnatham Village",
+    "landmark": "Dindigul",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJvV9tRz66836mvbxCw8mJRU0N6m7JzDmuy0EW-NEjGTKkdlAyMkUtyl56QhbY7tVrgGX7bjAaYv_iRwfioCEK2VhkWG4JIuBofGlseM0bryX5NDcvEeQ0YojSsoDJytV3U2rTR-DfwzNf=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJvV9tRz66836mvbxCw8mJRU0N6m7JzDmuy0EW-NEjGTKkdlAyMkUtyl56QhbY7tVrgGX7bjAaYv_iRwfioCEK2VhkWG4JIuBofGlseM0bryX5NDcvEeQ0YojSsoDJytV3U2rTR-DfwzNf=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.333771,
+      "lng": 77.9305936,
+      "label": "N Krishnasamy Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nila-hospital-dindigul",
+    "name": "NILA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, NILA HOSPITAL offers coordinated hospital care with major focus on Oral Surgery In Dindigul. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X8H+QJG, Palani Rd, New Agraharam, Govindapuram, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Govindapuram",
+    "landmark": "New Agraharam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.3669251%2C77.9790842&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.3669251%2C77.9790842&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3669251%2C77.9790842&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3669251%2C77.9790842&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3669251,
+      "lng": 77.9790842,
+      "label": "NILA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nirvin-heart-and-lung-hospital-clinic-near-me-periyaar-nagar-tamil-nadu-dindigul",
+    "name": "Nirvin heart and Lung hospital | Clinic Near me | Periyaar Nagar | Tamil Nadu",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dindigul, Nirvin heart and Lung hospital | Clinic Near me | Periyaar Nagar | Tamil Nadu brings together specialists for Liver Transplant Surgery In Dindigul and Cardiac Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "080 4482 7389",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, Thadicombu Rd, near Achyuta public school, Meenachinayakkanpatti, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Meenachinayakkanpatti",
+    "landmark": "near Achyuta public school, Meenachinayakkanpatti, Dindigul, Tamil Nadu 624001",
+    "emergencyContact": "080 4482 7389",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGzcjgtrpsI4a2FSSqcGVjUi9EBUImPnteWD0_r2F9i1WeTNMNzbAF_7woj7dpZAfGXelSPZW2ndpCY_VFL-uuz57n3uY4hVvhcMg_HD5J84ujL_bYepl_heRrVX8tCvCahwiL=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGzcjgtrpsI4a2FSSqcGVjUi9EBUImPnteWD0_r2F9i1WeTNMNzbAF_7woj7dpZAfGXelSPZW2ndpCY_VFL-uuz57n3uY4hVvhcMg_HD5J84ujL_bYepl_heRrVX8tCvCahwiL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPF-W-iE00ZgP87HFy8G6oFx7cPYJ44IGwhYj77=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNHLv2sa3X9pZX1T-S8nta2Uogv8vzVDBR6RXFO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN6f57OdrzAeUkBJPSHnnXVlbIyCoEF2nkBDdPk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOx4WiB_zdYiOueZffBVFL2qENbvSxYH2Ac_RAL=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3763774,
+      "lng": 77.9637448,
+      "label": "Nirvin heart and Lung hospital | Clinic Near me | Periyaar Nagar | Tamil Nadu",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ortho-clinic-dindigul",
+    "name": "Ortho Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dindigul, Ortho Clinic brings together specialists for Spine Surgery In Dindigul and Orthopaedics. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dindigul can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X6M+W7C, Unnamed Road, Mendonsa Colony, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Mendonsa Colony",
+    "landmark": "Mendonsa Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Dindigul",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.3623074%2C77.9831391&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.3623074%2C77.9831391&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3623074%2C77.9831391&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3623074%2C77.9831391&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3623074,
+      "lng": 77.9831391,
+      "label": "Ortho Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "r-k-gut-clinic-dindigul",
+    "name": "R.K. Gut Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "R.K. Gut Clinic has built a strong reputation in Dindigul for multidisciplinary treatment pathways covering Liver Transplant Surgery In Dindigul. Hospital capacity markers such as Google rating 3.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X9H+98V, Pandian Nagar, Nehruji Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Nehruji Nagar",
+    "landmark": "Nehruji Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtijOETEfcORBVjwByzqliMi5T7uNTpyYCtnbN3nag-5I-tPpJ2rbO_jPA0ZydTIkK9E_Vf-PRRFzI6kXyT3xf8YVt-8ZzJsV3-GyiN5yyLB2cyAWXCFtK7OisfCd0PBiMkKRk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtijOETEfcORBVjwByzqliMi5T7uNTpyYCtnbN3nag-5I-tPpJ2rbO_jPA0ZydTIkK9E_Vf-PRRFzI6kXyT3xf8YVt-8ZzJsV3-GyiN5yyLB2cyAWXCFtK7OisfCd0PBiMkKRk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3684955,
+      "lng": 77.978304,
+      "label": "R.K. Gut Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "raja-mbbs-hospital-dindigul",
+    "name": "RAJA MBBS HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, RAJA MBBS HOSPITAL offers coordinated hospital care with major focus on Liver Transplant Surgery In Dindigul. Operational strengths including Google rating 3.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X38+GQ9, Nadur, Mettupatti, Dindigul, Tamil Nadu 624002",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624002",
+    "locality": "Mettupatti",
+    "landmark": "Mettupatti",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.3537837%2C77.9669903&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.3537837%2C77.9669903&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3537837%2C77.9669903&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3537837%2C77.9669903&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3537837,
+      "lng": 77.9669903,
+      "label": "RAJA MBBS HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rajarajeswari-hospitals-pvt-ltd-dindigul",
+    "name": "Rajarajeswari Hospitals Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dindigul, Rajarajeswari Hospitals Pvt Ltd brings together specialists for Liver Transplant Surgery In Dindigul. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dindigul can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098421 88880",
+    "alternatePhone": "",
+    "website": "http://rajarajeswarihospitals.in/",
+    "address": "46, Thiruvalluvar Salai, Spencer Compound, Dindigul, Tamil Nadu 624003",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624003",
+    "locality": "Spencer Compound",
+    "landmark": "Spencer Compound",
+    "emergencyContact": "098421 88880",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5J8VANQVdKVjb2Aplr0FEG2oSc4z-byqodibvL6gMF9GeAPJuY7KGUlLpfOeCjGazOF52-G1HVnJT-tQcdHN2Nc7rmykbi9jasNECQA3SUxArSAughsDyx4BhTmY1m8SraK9G=w1200-h900-p-k-no",
+    "logo": "https://rajarajeswarihospitals.in/wp-content/uploads/2025/10/logo-english.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5J8VANQVdKVjb2Aplr0FEG2oSc4z-byqodibvL6gMF9GeAPJuY7KGUlLpfOeCjGazOF52-G1HVnJT-tQcdHN2Nc7rmykbi9jasNECQA3SUxArSAughsDyx4BhTmY1m8SraK9G=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNJz506c1a1ZaJoUVTeS2uAlDdFuN1gqbLCoUxV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMBasyd940pme_VHDVSnoNS4Q2bqT7-o1QmQEUN=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMA30ojjqZe3RK6COY9uhjle-iFYT4U6MmqSrMJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNMrlUAcOD0MKfBn2-7tCAnP6g0Fz-3m8VdhlVf=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3588124,
+      "lng": 77.9780936,
+      "label": "Rajarajeswari Hospitals Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "reshma-medical-centre-dindigul",
+    "name": "Reshma Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dindigul, Reshma Medical Centre delivers integrated care across Kidney Transplant Surgery In Dindigul. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dindigul.",
+    "email": "",
+    "phone": "080988 55588",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No 60, opp. to park, near old Labour Office, Nehruji Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Nehruji Nagar",
+    "landmark": "near old Labour Office, Nehruji Nagar, Dindigul, Tamil Nadu 624001",
+    "emergencyContact": "080988 55588",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxnzku0_nGveaSPL65j7zYnQ4qzo0U18SpVmkQWjzn5JyGJHNzrvpSNcweVcAazCXr5gGlW69RvsLeMZaMMXL1ZiDhsxvR4gxNM59GXd8Faa3WYeCcsiCbVN2egS6ShrZb1jIE=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxnzku0_nGveaSPL65j7zYnQ4qzo0U18SpVmkQWjzn5JyGJHNzrvpSNcweVcAazCXr5gGlW69RvsLeMZaMMXL1ZiDhsxvR4gxNM59GXd8Faa3WYeCcsiCbVN2egS6ShrZb1jIE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUpYOSuaOQ4zr7bSPPcaHEXTDf4RzWXTN07XSah_7HoCFJbSe0H5oGm-E6_PPhcJVpvHHIFFvpF6BJFf7c72AZazKXLX8f9pZ84SoDxzflzElo93Lph4yZEXlkfwyCDX6SjKJH2Ty-37Ca=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3719648,
+      "lng": 77.9829651,
+      "label": "Reshma Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rk-cardia-care-centre-dindigul",
+    "name": "RK Cardia Care Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RK Cardia Care Centre has built a strong reputation in Dindigul for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Dindigul and Cardiac Care. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "AMC Rd, Mendonsa Colony, Dindigul, Tamil Nadu 624003",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624003",
+    "locality": "Mendonsa Colony",
+    "landmark": "Dindigul",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dindigul",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1NGPkSkp733CcDKLtvSsxHtfDc-i9OLJV7buvPOVb58OHUzCswUdmG_1zDZLSd7pCFkCYj2L9SEITxRsr0V5AW7eoCA2l0c0paFSlDMdlbTurcoQicV8N6iDKTp9Fi2URvlA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1NGPkSkp733CcDKLtvSsxHtfDc-i9OLJV7buvPOVb58OHUzCswUdmG_1zDZLSd7pCFkCYj2L9SEITxRsr0V5AW7eoCA2l0c0paFSlDMdlbTurcoQicV8N6iDKTp9Fi2URvlA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3613116,
+      "lng": 77.9838971,
+      "label": "RK Cardia Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "s-s-hospital-dindigul",
+    "name": "S.S HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dindigul often choose S.S HOSPITAL for its strength in Spine Surgery In Dindigul. With public-facing highlights like Google rating 3.4 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dindigul can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0451 242 4177",
+    "alternatePhone": "",
+    "website": "https://sshospitaldgl.com/",
+    "address": "13, Palani Rd, opposite to LIC Building, New Agraharam, Nehruji Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Nehruji Nagar",
+    "landmark": "opposite to LIC Building, New Agraharam, Nehruji Nagar, Dindigul, Tamil Nadu 624001",
+    "emergencyContact": "0451 242 4177",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5Erw203j_SH54Ttq4dUibkmlWitV6i_wHPhnHeeuoZSRBp43mXzBaSzR1hMFTvsWLAnQ1nhZxEJ8fGzK0LgOdeSz7tw4K1zipGi9rv-3OsAF6frtD5aju1uj7dcQV1VMFiJ7Xr219_Oc=w1200-h900-p-k-no",
+    "logo": "https://sshospitaldgl.com/images/S%20(11).png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5Erw203j_SH54Ttq4dUibkmlWitV6i_wHPhnHeeuoZSRBp43mXzBaSzR1hMFTvsWLAnQ1nhZxEJ8fGzK0LgOdeSz7tw4K1zipGi9rv-3OsAF6frtD5aju1uj7dcQV1VMFiJ7Xr219_Oc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3664658,
+      "lng": 77.9767343,
+      "label": "S.S HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sankaranarayanan-ortho-clinic-dindigul",
+    "name": "Sankaranarayanan Ortho Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dindigul often choose Sankaranarayanan Ortho Clinic for its strength in Spine Surgery In Dindigul and Orthopaedics. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dindigul can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49, West Govindapuram, Ashok Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Ashok Nagar",
+    "landmark": "Ashok Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Dindigul",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGPo5OdnP1_K1zujj57fFySMoLsTFnuBrELjx-LW2m-Lq0D_P_40Rw3AdFFDjWqxYqJr57GcpAQlhuY7wJaZ6k8JjklSw36hi7LLM2J93CcDmxfB6yFrFo8-IhOOhn4DJnA05BZKd7GI3u=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGPo5OdnP1_K1zujj57fFySMoLsTFnuBrELjx-LW2m-Lq0D_P_40Rw3AdFFDjWqxYqJr57GcpAQlhuY7wJaZ6k8JjklSw36hi7LLM2J93CcDmxfB6yFrFo8-IhOOhn4DJnA05BZKd7GI3u=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3698987,
+      "lng": 77.9728805,
+      "label": "Sankaranarayanan Ortho Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shahin-hospital-nagal-nagar",
+    "name": "Shahin Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Nagal Nagar often choose Shahin Hospital for its strength in Laparoscopic Surgery In Dindigul. Hospital capacity markers such as Google rating 3.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Nagal Nagar can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8XXH+RXR, Nagal Nagar, Tamil Nadu 624003",
+    "city": "Nagal Nagar",
+    "state": "Tamil Nadu",
+    "pincode": "624003",
+    "locality": "",
+    "landmark": "Tamil Nadu 624003",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.3496214%2C77.9798967&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.3496214%2C77.9798967&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3496214%2C77.9798967&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3496214%2C77.9798967&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3496214,
+      "lng": 77.9798967,
+      "label": "Shahin Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shifa-multi-speciality-hospital-dindigul",
+    "name": "Shifa Multi Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, Shifa Multi Speciality Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Dindigul and Speciality Care. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "083000 03456",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chennamanayakkanpatti, Dindigul, Tamil Nadu 624004",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624004",
+    "locality": "Chennamanayakkanpatti",
+    "landmark": "Tamil Nadu 624004",
+    "emergencyContact": "083000 03456",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1IACi4curd4sa7ApJhXGIwO_q74lsWSbcLfgHSg2ybLj-Q0331wxO8cQt2c-wy9GW6aaCxKzL0wG3tNoHholdEiUwdqdO488qBz_W04YZKgETxsf_CsCygo6m7OCt70ACYdtA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1IACi4curd4sa7ApJhXGIwO_q74lsWSbcLfgHSg2ybLj-Q0331wxO8cQt2c-wy9GW6aaCxKzL0wG3tNoHholdEiUwdqdO488qBz_W04YZKgETxsf_CsCygo6m7OCt70ACYdtA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3896231,
+      "lng": 77.9615222,
+      "label": "Shifa Multi Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-sathya-subha-hospital-s3-multi-speciality-hospital-dindigul",
+    "name": "Shree Sathya Subha Hospital[S3] (Multi Speciality Hospital)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dindigul, Shree Sathya Subha Hospital[S3] (Multi Speciality Hospital) delivers integrated care across Spine Surgery In Dindigul and Speciality Care. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "074027 40451",
+    "alternatePhone": "",
+    "website": "https://www.s3hospital.com/",
+    "address": "No: 53, Dindigul - Palani Rd, opposite Sornam Honda, New Agraharam, west, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "west",
+    "landmark": "opposite Sornam Honda, New Agraharam, west, Dindigul, Tamil Nadu 624001",
+    "emergencyContact": "074027 40451",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Dindigul",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgyxcfRTPbeS8GlsDDCVf76RUV2lZ9lZcKdpbC9JTUfwTR4IsxgWvN6ZVzWCARc6yDmH9-RU7ICzZVgruExW9VPVOp6ze4Ls7_7f6zjua19agYzSJwmC0OFaocVqJ2WSuOT-42eg=w1200-h900-p-k-no",
+    "logo": "https://s3hospital.com/wp-content/uploads/2022/11/s3logo-e1670934561726.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgyxcfRTPbeS8GlsDDCVf76RUV2lZ9lZcKdpbC9JTUfwTR4IsxgWvN6ZVzWCARc6yDmH9-RU7ICzZVgruExW9VPVOp6ze4Ls7_7f6zjua19agYzSJwmC0OFaocVqJ2WSuOT-42eg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.36576,
+      "lng": 77.9748442,
+      "label": "Shree Sathya Subha Hospital[S3] (Multi Speciality Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sr-hospital-dindigul",
+    "name": "SR HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SR HOSPITAL is a prominent hospital in Dindigul, known for structured tertiary care across Orthopedic Surgery In Dindigul. Hospital capacity markers such as Google rating 4.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "255/B4, Anna Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Anna Nagar",
+    "landmark": "Dindigul",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeKGbA8eb63akgjJKY4dCTL7IdoS97UVCYR8XWXtxJFUjBHazQDbL33_iVNTUEfEd_hGL2zTsWM2-tadpfhXRiVI3rLcJ-AEZCH0qPd1A4H-t55A6DdPvtsD048sSjfwV8mO8AzED01RqC=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeKGbA8eb63akgjJKY4dCTL7IdoS97UVCYR8XWXtxJFUjBHazQDbL33_iVNTUEfEd_hGL2zTsWM2-tadpfhXRiVI3rLcJ-AEZCH0qPd1A4H-t55A6DdPvtsD048sSjfwV8mO8AzED01RqC=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3664322,
+      "lng": 77.9833013,
+      "label": "SR HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-clinic-dindigul",
+    "name": "Sri clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, Sri clinic offers coordinated hospital care with major focus on Liver Transplant Surgery In Dindigul. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9XGG+PWC, RM Colony, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "RM Colony",
+    "landmark": "Dindigul",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.3768236%2C77.9772765&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.3768236%2C77.9772765&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3768236%2C77.9772765&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3768236%2C77.9772765&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3768236,
+      "lng": 77.9772765,
+      "label": "Sri clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-lakshmi-clinic-dindigul",
+    "name": "Sri Lakshmi clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, Sri Lakshmi clinic offers coordinated hospital care with major focus on Gynecologist Surgery In Dindigul. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dindigul.",
+    "email": "",
+    "phone": "088704 82873",
+    "alternatePhone": "",
+    "website": "https://www.srilakshmiclinic.com/",
+    "address": "H1H2 - 25, 80 feet road, RM Colony, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "RM Colony",
+    "landmark": "RM Colony",
+    "emergencyContact": "088704 82873",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.377843%2C77.9682472&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://www.srilakshmiclinic.com/logo.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.377843%2C77.9682472&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.377843%2C77.9682472&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.377843%2C77.9682472&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.377843,
+      "lng": 77.9682472,
+      "label": "Sri Lakshmi clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-nalam-hospital-dindigul",
+    "name": "SRI NALAM HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SRI NALAM HOSPITAL has built a strong reputation in Dindigul for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Dindigul. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dindigul can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080565 55816",
+    "alternatePhone": "",
+    "website": "",
+    "address": "32, Mengles Rd, Mendonsa Colony, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Mendonsa Colony",
+    "landmark": "Mendonsa Colony",
+    "emergencyContact": "080565 55816",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBJzc_0kU-FYEzuPNQb8PSW3M667mWYj7NQIfJDUSrA8rAz4WzHl0UTvzd56uvxzQxCrCs86LAowazxl2ctOPf12g1lpR7qf7nTzSxzqGTg4WNBpOIDyvj5ELa2WofB0ASdq0=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBJzc_0kU-FYEzuPNQb8PSW3M667mWYj7NQIfJDUSrA8rAz4WzHl0UTvzd56uvxzQxCrCs86LAowazxl2ctOPf12g1lpR7qf7nTzSxzqGTg4WNBpOIDyvj5ELa2WofB0ASdq0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3TDuJ6Vw-3Tmy1YKKlMR0GYE8BrDtxBLxHz5TphpMiA_w1Bz78YD7C33f1XbDAxyUWOeYzRoQFuMcmgunPkyx1pn-gBNhbnAE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3TDuJ6Vw-3Tmy1YKKlMR0GYE8BrDtxBLxHz5TphpMiA_w1Bz78YD7C33f1XbDAxyUWOeYzRoQFuMcmgunPkyx1pn-gBNhbnAEEFfusBTmSLsGvHr5nyw3K09Y3Y_5jAyp-tpjG5TJBfk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3623782,
+      "lng": 77.9833657,
+      "label": "SRI NALAM HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-rusha-poly-clinic-dindigul",
+    "name": "SRI RUSHA POLY CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SRI RUSHA POLY CLINIC has built a strong reputation in DINDIGUL for multidisciplinary treatment pathways covering Oral Surgery In Dindigul. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in DINDIGUL.",
+    "email": "",
+    "phone": "0451 299 9446",
+    "alternatePhone": "",
+    "website": "",
+    "address": "AATHIPARASAKTHI NAGAR, MALAPATTY, Sastri Nagar, DINDIGUL, Tamil Nadu 624005",
+    "city": "DINDIGUL",
+    "state": "Tamil Nadu",
+    "pincode": "624005",
+    "locality": "Sastri Nagar",
+    "landmark": "Sastri Nagar",
+    "emergencyContact": "0451 299 9446",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeoxR2AE3dDaHweI4dKGBQocXzbhb0iPOEg_zIKBJkdh8ZiXxaWjfp07-uPY_Cs1Py2GGZZO1fgnRyGaP5AsmkZMMwuc2uf7G2gyXxgJNjMezLXMMK01cl3jdzcZyeEJqAvQsSfA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeoxR2AE3dDaHweI4dKGBQocXzbhb0iPOEg_zIKBJkdh8ZiXxaWjfp07-uPY_Cs1Py2GGZZO1fgnRyGaP5AsmkZMMwuc2uf7G2gyXxgJNjMezLXMMK01cl3jdzcZyeEJqAvQsSfA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3485257,
+      "lng": 78.0036549,
+      "label": "SRI RUSHA POLY CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-varahi-kidney-centre-dindigul",
+    "name": "Sri varahi kidney centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, Sri varahi kidney centre offers coordinated hospital care with major focus on Kidney Transplant Surgery In Dindigul and Kidney Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "0451 406 9967",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H1, RM Colony Main Rd, Ashok Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Ashok Nagar",
+    "landmark": "Ashok Nagar",
+    "emergencyContact": "0451 406 9967",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dindigul",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.3779511%2C77.9681667&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.3779511%2C77.9681667&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3779511%2C77.9681667&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3779511%2C77.9681667&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3779511,
+      "lng": 77.9681667,
+      "label": "Sri varahi kidney centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "srii-amogam-hospital-dindigul",
+    "name": "Srii Amogam Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dindigul often choose Srii Amogam Hospital for its strength in IVF In Dindigul. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dindigul can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096269 56666",
+    "alternatePhone": "",
+    "website": "https://sriiamogamhospital.com/",
+    "address": "C-12, H1, RM Colony Main Rd, RM Colony, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "RM Colony",
+    "landmark": "RM Colony Main Rd",
+    "emergencyContact": "096269 56666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMtfZ-qkcUg5iCquQwC18pCSdUScDVITd_tM1bHhRVvsSu8EHImkUQdOvVobl-xWnh0MboPX4zbEXYe5dJfJbS-Ij9Kvz6eeca1kZ91RjvxjD9duVN7jVxOAI9uamrO1q24jrQ_g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMtfZ-qkcUg5iCquQwC18pCSdUScDVITd_tM1bHhRVvsSu8EHImkUQdOvVobl-xWnh0MboPX4zbEXYe5dJfJbS-Ij9Kvz6eeca1kZ91RjvxjD9duVN7jVxOAI9uamrO1q24jrQ_g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO20ugeuFMCt1zZIb_XlF1nON7tKiZ4YNpj8bNt=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPW0SRlNVZsh6zoKGbPjgzZ9AdLfZy1Von2_Nj7=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNfjRKaxM9fRKX_PwRRe-bc-UAk-6WgpkZltLp_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMvYnOq4rXuuLFEAyW_0FRjCbBYNwaDBRl0unQ9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3757852,
+      "lng": 77.9745513,
+      "label": "Srii Amogam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "st-joseph-hospital-dindigul",
+    "name": "St. Joseph Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dindigul, St. Joseph Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Dindigul. Hospital capacity markers such as Google rating 3.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "0451 242 6091",
+    "alternatePhone": "",
+    "website": "https://www.stjosephhospitaldindigul.in/",
+    "address": "15, Trichy - Dindugal Rd, Nehruji Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Nehruji Nagar",
+    "landmark": "Nehruji Nagar",
+    "emergencyContact": "0451 242 6091",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMc6f2r_IZ2KC2hVTJA_VRNmyHdxQlYN1y65rzOu844XASvHtyY1Epih8df7reXLKcdvPH4ciFvtv7Xk0XqoxBm-EeNK4jS9WEggcjPUnfWQgRIKTg2jZWZqA1Fw39JREmHBWngA=w1200-h900-p-k-no",
+    "logo": "https://www.stjosephhospitaldindigul.in/home/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMc6f2r_IZ2KC2hVTJA_VRNmyHdxQlYN1y65rzOu844XASvHtyY1Epih8df7reXLKcdvPH4ciFvtv7Xk0XqoxBm-EeNK4jS9WEggcjPUnfWQgRIKTg2jZWZqA1Fw39JREmHBWngA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEKl9fjbHiWq2rrKdC9OvYhvVxRn6Ya_C2C4TxFs7SO5ib0EffcJbxQHo-kDNS_QEZrESvY6taG-Z0D9Tzmeu8td-HkITlJ2ODdHTAa1fUCnqA-N95foYUnwHpzeQigJfiGPDh9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3694237,
+      "lng": 77.9821737,
+      "label": "St. Joseph Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "starkids-women-and-children-hospital-dindigul",
+    "name": "Starkids Women & Children Hospital",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Starkids Women & Children Hospital is a prominent children's hospital in Dindigul, known for structured tertiary care across Laparoscopic Surgery In Dindigul and Women and Child Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dindigul.",
+    "email": "",
+    "phone": "090921 92100",
+    "alternatePhone": "",
+    "website": "http://starkidschildrenshospitals.com/",
+    "address": "1, 2, Trichy - Dindugal Rd, opposite to Martin mills, Gandhiji Nagar, Cooperative Nagar, Dindigul, Tamil Nadu 624005",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624005",
+    "locality": "Cooperative Nagar",
+    "landmark": "opposite to Martin mills, Gandhiji Nagar, Cooperative Nagar, Dindigul, Tamil Nadu 624005",
+    "emergencyContact": "090921 92100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dindigul",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCQzRscc74h7XagE8V-OrrDA7dOcW0yY88L-yzBoxxSldeXqQ0fsx0ZNyi5BXGLYCiAKaKes1QnIxlPshCNkGtr23A506E7sVLmwUTKAPNxg6gecO4A7jaCVzyYkTn88VXCa26TllO6_49=w1200-h900-p-k-no",
+    "logo": "https://www.starkidschildrenshospitals.com/_next/image?url=%2Fassets%2Flogo%2Flogo.svg&w=256&q=75",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCQzRscc74h7XagE8V-OrrDA7dOcW0yY88L-yzBoxxSldeXqQ0fsx0ZNyi5BXGLYCiAKaKes1QnIxlPshCNkGtr23A506E7sVLmwUTKAPNxg6gecO4A7jaCVzyYkTn88VXCa26TllO6_49=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPKUvliuqVr5rqGhRCzYXFiznR29ITRJV68O3ub=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3731824,
+      "lng": 77.9897848,
+      "label": "Starkids Women & Children Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "united-welfare-hospital-hasanathpuram",
+    "name": "United welfare Hospital ஐக்கிய நல மருத்துவமனை",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "United welfare Hospital ஐக்கிய நல மருத்துவமனை is a prominent hospital in Hasanathpuram, known for structured tertiary care across Kidney Transplant Surgery In Dindigul. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Hasanathpuram.",
+    "email": "",
+    "phone": "097915 29455",
+    "alternatePhone": "",
+    "website": "",
+    "address": "227/86B, Madurai Rd, Begambur, Hasanathpuram, Tamil Nadu 624002",
+    "city": "Hasanathpuram",
+    "state": "Tamil Nadu",
+    "pincode": "624002",
+    "locality": "Begambur",
+    "landmark": "Begambur",
+    "emergencyContact": "097915 29455",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOP93n75IRdds6SlxKbkHZfDM3UzAfUHQzjCL7CYEE5BFYqPtlxdhW0azgiI-YAu4njjU3lSbfcPleTpveea-qxkCWOWjPPU7uWcLnDrMqjnGztUOp8OH1RFDgVLo7qJ_5nfNuFErlrZv7=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOP93n75IRdds6SlxKbkHZfDM3UzAfUHQzjCL7CYEE5BFYqPtlxdhW0azgiI-YAu4njjU3lSbfcPleTpveea-qxkCWOWjPPU7uWcLnDrMqjnGztUOp8OH1RFDgVLo7qJ_5nfNuFErlrZv7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3532738,
+      "lng": 77.9654971,
+      "label": "United welfare Hospital ஐக்கிய நல மருத்துவமனை",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vadamalayan-hospitals-pvt-ltd-dindigul",
+    "name": "Vadamalayan Hospitals Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dindigul often choose Vadamalayan Hospitals Pvt Ltd for its strength in Liver Transplant Surgery In Dindigul. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "0451 356 1000",
+    "alternatePhone": "",
+    "website": "https://vadamalayanhospitals.com/services/hospitals-in-dindigul/",
+    "address": "649/ A2, Chettinaikanpatti village Road, Angu Bharathi Nagar, J.J. Nagar, Dindigul, Tamil Nadu 624004",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624004",
+    "locality": "J.J. Nagar",
+    "landmark": "Angu Bharathi Nagar",
+    "emergencyContact": "0451 356 1000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCtBPmriaJ-TyHRoSnrSsvsEbkXaCYiQTJ47H3f3VwPNyBvd5sqDAEXnN1ta9OiDxH-uIut3kgGMohuTFq3mwTH4S8aN9rloWy__rsv-V2vsQZ7wgEs8adwxcdDyRoocexoI4Tag=w1200-h900-p-k-no",
+    "logo": "https://vadamalayanhospitals.com/wp-content/uploads/2025/05/69-logo-sixnine.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCtBPmriaJ-TyHRoSnrSsvsEbkXaCYiQTJ47H3f3VwPNyBvd5sqDAEXnN1ta9OiDxH-uIut3kgGMohuTFq3mwTH4S8aN9rloWy__rsv-V2vsQZ7wgEs8adwxcdDyRoocexoI4Tag=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.380779,
+      "lng": 77.9689421,
+      "label": "Vadamalayan Hospitals Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vasan-eye-care-hospital-spencer-compound-dindigul-dindigul",
+    "name": "Vasan Eye Care Hospital - (Spencer Compound, Dindigul)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dindigul, Vasan Eye Care Hospital - (Spencer Compound, Dindigul) delivers integrated care across Laparoscopic Surgery In Dindigul. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "1800 571 2222",
+    "alternatePhone": "",
+    "website": "https://clinic.vasaneye.com/vasan-eye-care/stores-in-dindigul/stores-in-Spencer-Compound/vasan-eye-care-hospital-in-Spencer-Compound-dindigul--7FD3z7/home",
+    "address": "No. 3A, 6, Railway Station Rd, nearby Ganesh Theatre, Spencer Compound, Dindigul, Tamil Nadu 624003",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624003",
+    "locality": "Spencer Compound",
+    "landmark": "Railway Station Rd",
+    "emergencyContact": "1800 571 2222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6tPeG1-WssfItDDuRFJRGpQE7_cVXbPHxrzpIXT4TjQzDCGwWIQ4Dd_h0AwAWmgiTPHDhwEjPLGl2u2l1gMNLQ79XFmwUmTgYN4ChFCofkXfcOKJp9AsTkjiwuAW7p78byyW7SLfGZ14=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6tPeG1-WssfItDDuRFJRGpQE7_cVXbPHxrzpIXT4TjQzDCGwWIQ4Dd_h0AwAWmgiTPHDhwEjPLGl2u2l1gMNLQ79XFmwUmTgYN4ChFCofkXfcOKJp9AsTkjiwuAW7p78byyW7SLfGZ14=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP6BkUR_8jyy7dBNhyUecMm4EW-tiT5cv1oX19M=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOnmxJEWbBCjZBrjVEh9KbOlae95fr1orJ-m4e-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNCTLKUE5jlcWf1vVjb7Q1E6HnZLKl1zeQShlB5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOCQZTyJtiuXQSAppscVGeh66XbyoMkxCnzHrn8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3586975,
+      "lng": 77.9764867,
+      "label": "Vasan Eye Care Hospital - (Spencer Compound, Dindigul)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vignesh-hospital-dindigul",
+    "name": "Vignesh Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dindigul, Vignesh Hospital delivers integrated care across Liver Transplant Surgery In Dindigul. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dindigul.",
+    "email": "",
+    "phone": "097506 33415",
+    "alternatePhone": "",
+    "website": "https://www.vigneshhospital.org/",
+    "address": "22, Palani Rd, opp. to ram bajaj service, New Agraharam, Govindapuram, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Govindapuram",
+    "landmark": "opp. to ram bajaj service",
+    "emergencyContact": "097506 33415",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH26nr-xNbbfnQFsfrRbFN8vGuPRIGj7YMCplo7Va94ER6IIoNmgxIbr_zAw3d4g12AUuQngSFzH3p5MBF_1Cit2d6uCAnXpQ1uNz2KfvOeTQXIBW4wMVLwxvAHwCTXwcpFJEgY=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH26nr-xNbbfnQFsfrRbFN8vGuPRIGj7YMCplo7Va94ER6IIoNmgxIbr_zAw3d4g12AUuQngSFzH3p5MBF_1Cit2d6uCAnXpQ1uNz2KfvOeTQXIBW4wMVLwxvAHwCTXwcpFJEgY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3671349,
+      "lng": 77.9761196,
+      "label": "Vignesh Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vijaya-hospital-dindigul",
+    "name": "Vijaya Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dindigul often choose Vijaya Hospital for its strength in Kidney Transplant Surgery In Dindigul. Operational strengths including Google rating 3.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "0451 243 1410",
+    "alternatePhone": "",
+    "website": "http://www.vijayahospitaldindigul.org/",
+    "address": "11, 80 Feet Road, E.V.R Periyar Salai, West Govindhapuram, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "West Govindhapuram",
+    "landmark": "E.V.R Periyar Salai",
+    "emergencyContact": "0451 243 1410",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHseW-r82oYirRxYhXtglgH3MB96lNhR8JGZTXjF1qmexWpPfTsAjQx0_yr4KRCiAle6kZh4bnc3dA-LeufYipD_FwsDSckBNu88dxOzqrhW4g9_6tymW6_cFyid_lfkVRtsRA0=w1200-h900-p-k-no",
+    "logo": "http://www.vijayahospitaldindigul.org/img/core-img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHseW-r82oYirRxYhXtglgH3MB96lNhR8JGZTXjF1qmexWpPfTsAjQx0_yr4KRCiAle6kZh4bnc3dA-LeufYipD_FwsDSckBNu88dxOzqrhW4g9_6tymW6_cFyid_lfkVRtsRA0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3711841,
+      "lng": 77.9709028,
+      "label": "Vijaya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vishnu-clinic-dindigul",
+    "name": "Vishnu clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dindigul often choose Vishnu clinic for its strength in Liver Transplant Surgery In Dindigul. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dindigul can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "116, E Car St, Begambur, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Begambur",
+    "landmark": "Begambur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.3599766%2C77.9716779&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.3599766%2C77.9716779&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3599766%2C77.9716779&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3599766%2C77.9716779&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3599766,
+      "lng": 77.9716779,
+      "label": "Vishnu clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vishnu-suriya-hospital-dindigul",
+    "name": "Vishnu Suriya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dindigul often choose Vishnu Suriya Hospital for its strength in Laparoscopic Surgery In Dindigul. The facility stands out for Google rating 3.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dindigul can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099407 33942",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X7J+4X3, Aarthi Theatre Rd, Mendonsa Colony, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Mendonsa Colony",
+    "landmark": "Mendonsa Colony",
+    "emergencyContact": "099407 33942",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhXfSTs_omZpMaC2LDskiITU-c8lUOJsPdwbRT9289T0qM3lFJ7GdwAyab4wmWq07-5Dlwi9t70fs6GP6yIQlxjVsyJqRvwbnrIQY5Wnls4_3SNcNwKk-22Uh1LUxMIPUHXCtgjQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhXfSTs_omZpMaC2LDskiITU-c8lUOJsPdwbRT9289T0qM3lFJ7GdwAyab4wmWq07-5Dlwi9t70fs6GP6yIQlxjVsyJqRvwbnrIQY5Wnls4_3SNcNwKk-22Uh1LUxMIPUHXCtgjQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3627628,
+      "lng": 77.9824105,
+      "label": "Vishnu Suriya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vpb-memorial-hospital-dindigul",
+    "name": "VPB MEMORIAL HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dindigul, VPB MEMORIAL HOSPITAL delivers integrated care across Laparoscopic Surgery In Dindigul. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9X9H+7MR, Pandian Nagar, Nehruji Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Nehruji Nagar",
+    "landmark": "Nehruji Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrvuXVq1IMoRE3Bv3zBquFUjV7E_aD0ycHzhVRFAIBjmjy5XDvvnH85SCeZjMgkzaYlXIRsOdduzAfmWrYfVyzJ--VMQHYwjggOMpfAvEqYPiE-HXVapE-oRPQ5xZI6Q7e6vqobpxwwwez=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrvuXVq1IMoRE3Bv3zBquFUjV7E_aD0ycHzhVRFAIBjmjy5XDvvnH85SCeZjMgkzaYlXIRsOdduzAfmWrYfVyzJ--VMQHYwjggOMpfAvEqYPiE-HXVapE-oRPQ5xZI6Q7e6vqobpxwwwez=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3682386,
+      "lng": 77.97915,
+      "label": "VPB MEMORIAL HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dindigul",
+    "name": "ஞானாம்பிகை கிளினிக்",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dindigul, ஞானாம்பிகை கிளினிக் brings together specialists for Liver Transplant Surgery In Dindigul. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9XCF+FFM, Ashok Nagar, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Ashok Nagar",
+    "landmark": "Dindigul",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=10.3712014%2C77.973676&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=10.3712014%2C77.973676&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3712014%2C77.973676&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=10.3712014%2C77.973676&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3712014,
+      "lng": 77.973676,
+      "label": "ஞானாம்பிகை கிளினிக்",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ambulance-dindigul",
+    "name": "மிதரன் ambulance",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dindigul often choose மிதரன் ambulance for its strength in Liver Transplant Surgery In Dindigul. The facility stands out for Google rating 3.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dindigul can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0451 243 0017",
+    "alternatePhone": "",
+    "website": "",
+    "address": "gh hospital, Begambur, Dindigul, Tamil Nadu 624001",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624001",
+    "locality": "Begambur",
+    "landmark": "Dindigul",
+    "emergencyContact": "0451 243 0017",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dindigul"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJ3aaJIBQ-XhTCalnYW5nCJTYKU-QfK2kfQ6hChIyFqrIWcAlYfANaPqiobbJiKVF5n_daUub9Dd_zkaBVUy1pGl_aq85BbeIuQUGqTnnvXBEuxIYJ1oT9_13CHS8ONn4_BdOYrQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJ3aaJIBQ-XhTCalnYW5nCJTYKU-QfK2kfQ6hChIyFqrIWcAlYfANaPqiobbJiKVF5n_daUub9Dd_zkaBVUy1pGl_aq85BbeIuQUGqTnnvXBEuxIYJ1oT9_13CHS8ONn4_BdOYrQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3638935,
+      "lng": 77.9763633,
+      "label": "மிதரன் ambulance",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

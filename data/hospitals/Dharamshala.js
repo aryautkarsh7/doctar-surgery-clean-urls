@@ -1,0 +1,2856 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "apex-multi-speciality-hospital-dharamshala",
+    "name": "Apex Multi-Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dharamshala, Apex Multi-Speciality Hospital delivers integrated care across Urologist Surgery In Dharamshala and Speciality Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dharamshala.",
+    "email": "",
+    "phone": "082192 81258",
+    "alternatePhone": "",
+    "website": "https://apexdharamshala.in/",
+    "address": "Mcleodganj Bypass road, near bus stand, Dharamshala, Himachal Pradesh 176215",
+    "city": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "pincode": "176215",
+    "locality": "near bus stand",
+    "landmark": "near bus stand, Dharamshala, Himachal Pradesh 176215",
+    "emergencyContact": "082192 81258",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Dharamshala",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-FP84MR7EH6IxDbwOA49kQbmFhXuxXJwmW2l2sAipJMq6D8tvYm2WoHFeebNOLhWOKRv9VcTpVyPOsu6qctcTCm6gpjAg_8zd28sKRoF5IL2fuBtsBSGwbqlsrdK-8IbmJFU=w1200-h900-p-k-no",
+    "logo": "https://apexdharamshala.in/wp-content/uploads/2024/07/apex-logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-FP84MR7EH6IxDbwOA49kQbmFhXuxXJwmW2l2sAipJMq6D8tvYm2WoHFeebNOLhWOKRv9VcTpVyPOsu6qctcTCm6gpjAg_8zd28sKRoF5IL2fuBtsBSGwbqlsrdK-8IbmJFU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.2272423,
+      "lng": 76.3157684,
+      "label": "Apex Multi-Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bhardwaj-multispeciality-hospital-palampur",
+    "name": "Bhardwaj MultiSpeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Palampur, Bhardwaj MultiSpeciality Hospital delivers integrated care across Laparoscopic Surgery In Dharamshala and Speciality Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Palampur.",
+    "email": "",
+    "phone": "098055 73338",
+    "alternatePhone": "",
+    "website": "http://www.bmhpalampur.in/",
+    "address": "VPO, Arla, Palampur, Himachal Pradesh 176102",
+    "city": "Palampur",
+    "state": "Himachal Pradesh",
+    "pincode": "176102",
+    "locality": "Arla",
+    "landmark": "Palampur",
+    "emergencyContact": "098055 73338",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dharamshala",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG95B8wLAl16R_ywwhqElkE9aL6d2k7VsR0_4VYeWCvNiazlyqVr8KS6OtY8Lma_Sy55eVFaSoIcfgWMhSw8Qagyxv5IEHk08pMLpVz_tQY4fzK8uMfhG7zAORk6qqLb46iBf2_8w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG95B8wLAl16R_ywwhqElkE9aL6d2k7VsR0_4VYeWCvNiazlyqVr8KS6OtY8Lma_Sy55eVFaSoIcfgWMhSw8Qagyxv5IEHk08pMLpVz_tQY4fzK8uMfhG7zAORk6qqLb46iBf2_8w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.0831962,
+      "lng": 76.5040871,
+      "label": "Bhardwaj MultiSpeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cancer-hospital-mcleod-ganj",
+    "name": "Cancer Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cancer Hospital is a prominent hospital in McLeod Ganj, known for structured tertiary care across Oncologist Surgery In Dharamshala. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in McLeod Ganj.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "68VC+2GJ, Unnamed Road, McLeod Ganj, Himachal Pradesh 176215",
+    "city": "McLeod Ganj",
+    "state": "Himachal Pradesh",
+    "pincode": "176215",
+    "locality": "Unnamed Road",
+    "landmark": "McLeod Ganj",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdkpQ2HgvGdZkRp56fIaiUDG1YhB_FxjcoZMKNLlbMaKW28kfu-orfpQ9xjP-Jh4VIQQT-UvjdSonHavTUJB75U5V-CSV1QSl8em80196lGGRRFfrYGkPrX22MxK7BQSWHrQyr4Z1eHU9c=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdkpQ2HgvGdZkRp56fIaiUDG1YhB_FxjcoZMKNLlbMaKW28kfu-orfpQ9xjP-Jh4VIQQT-UvjdSonHavTUJB75U5V-CSV1QSl8em80196lGGRRFfrYGkPrX22MxK7BQSWHrQyr4Z1eHU9c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.2425758,
+      "lng": 76.3212781,
+      "label": "Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "city-care-multispeciality-hospital-gaggal",
+    "name": "City Care Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gaggal, City Care Multispeciality Hospital brings together specialists for Laparoscopic Surgery In Dharamshala and Speciality Care. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gaggal.",
+    "email": "",
+    "phone": "088945 28888",
+    "alternatePhone": "",
+    "website": "https://citycaremultispecialityhospital.online/",
+    "address": "Air Port, opposite Kangra, Kuthman, Gaggal, Himachal Pradesh 176209",
+    "city": "Gaggal",
+    "state": "Himachal Pradesh",
+    "pincode": "176209",
+    "locality": "Kuthman",
+    "landmark": "opposite Kangra, Kuthman, Gaggal, Himachal Pradesh 176209",
+    "emergencyContact": "088945 28888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dharamshala",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0Y5yAGkRXj_WhurZnJw1DqSsbBYjWmobm330SWFAHzqtFZ_s9m3oUMTEcjPVb0B2enJSEiXi2qYXt8jrVxR-8sRnp8096AeMxff26uVglLnp7k8Hde0dW2-Lf6SgqNGL7pq9K=w1200-h900-p-k-no",
+    "logo": "https://citycaremultispecialityhospital.online/vite.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0Y5yAGkRXj_WhurZnJw1DqSsbBYjWmobm330SWFAHzqtFZ_s9m3oUMTEcjPVb0B2enJSEiXi2qYXt8jrVxR-8sRnp8096AeMxff26uVglLnp7k8Hde0dW2-Lf6SgqNGL7pq9K=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOzUka4sfixkpJCQI539zsr55dEoXP7208EMPHd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO6vWIH2_e9YO_t56kx9r6nBwKWXqzOqD0w5nw9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNA26M7TqnnnkWnXLzIJQy4O3w34haUQ-u5bfQO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNqNgsR6Q9QvJAkfajOq7zsjRMImhsVCEZE977r=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.1624974,
+      "lng": 76.2594142,
+      "label": "City Care Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "city-superspeciality-hospital-ghurkari-khas",
+    "name": "City Superspeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "City Superspeciality Hospital is a prominent hospital in Ghurkari Khas, known for structured tertiary care across Neurosurgeon In Dharamshala and Speciality Care. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Ghurkari Khas.",
+    "email": "",
+    "phone": "086479 70000",
+    "alternatePhone": "",
+    "website": "https://www.citysuperspeciality.com/",
+    "address": "City Hospital, Palampur Rd, opp. Sant Hyundai, Kangra, Ghurkari Khas, Himachal Pradesh 176001",
+    "city": "Ghurkari Khas",
+    "state": "Himachal Pradesh",
+    "pincode": "176001",
+    "locality": "Kangra",
+    "landmark": "opp. Sant Hyundai",
+    "emergencyContact": "086479 70000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Dharamshala",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGw3PEN-lHzSwSQIfeukKPSx_3_dql2VYonpcFCcfmqfs1CWoUq3jdjl2jeqIjZE3KpbklWaevDhe7DnoF8X6jqxvXvzRlJFABiNk6mPDH5gxj5fCdMXOERFOe8RARI6_t7Y5lF=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGw3PEN-lHzSwSQIfeukKPSx_3_dql2VYonpcFCcfmqfs1CWoUq3jdjl2jeqIjZE3KpbklWaevDhe7DnoF8X6jqxvXvzRlJFABiNk6mPDH5gxj5fCdMXOERFOe8RARI6_t7Y5lF=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.1249326,
+      "lng": 76.2957214,
+      "label": "City Superspeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dattal-hospital-kasoti",
+    "name": "Dattal Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kasoti, Dattal Hospital delivers integrated care across Orthopedic Surgery In Dharamshala. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kasoti.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Maranda, Thakurdwara, Kasoti, Himachal Pradesh 176102",
+    "city": "Kasoti",
+    "state": "Himachal Pradesh",
+    "pincode": "176102",
+    "locality": "Thakurdwara",
+    "landmark": "Kasoti",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEgpqfn6Gs-kyWxCr6UhC8CjHcgm5CB2SgdI1MWks3XrtF3G245KTlCiTmQ3ySVPLvvg9MF4k1kNltKpbePFdJjniy4N9PI0vnaG93z_f3GKpoEywf-O4OGYpWut2nAAb5usOVcwg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEgpqfn6Gs-kyWxCr6UhC8CjHcgm5CB2SgdI1MWks3XrtF3G245KTlCiTmQ3ySVPLvvg9MF4k1kNltKpbePFdJjniy4N9PI0vnaG93z_f3GKpoEywf-O4OGYpWut2nAAb5usOVcwg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.0837946,
+      "lng": 76.5117654,
+      "label": "Dattal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "delek-hospital-dharamshala",
+    "name": "Delek Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dharamshala often choose Delek Hospital for its strength in Spine Neurosurgeon In Dharamshala. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dharamshala.",
+    "email": "",
+    "phone": "0189 222 2053",
+    "alternatePhone": "",
+    "website": "https://delekhospital.org/",
+    "address": "Tibetan Delek Hospital Gangchen Kyishong, Dharamshala, Himachal Pradesh 176215",
+    "city": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "pincode": "176215",
+    "locality": "Tibetan Delek Hospital Gangchen Kyishong",
+    "landmark": "Himachal Pradesh 176215",
+    "emergencyContact": "0189 222 2053",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEElEaGkPGUr9QbQ_X8ZkSNKApCksjS7-m6KI91P_p3sVDnTIS9meU1sZgcG_1K-V8tLPqwEN8I5COSBGvw4cByEi9tBblwr0LWoXNmwYvusZZvqP4gI7iVBW6Rd9sfgkTglz2Z7g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEElEaGkPGUr9QbQ_X8ZkSNKApCksjS7-m6KI91P_p3sVDnTIS9meU1sZgcG_1K-V8tLPqwEN8I5COSBGvw4cByEi9tBblwr0LWoXNmwYvusZZvqP4gI7iVBW6Rd9sfgkTglz2Z7g=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.2254332,
+      "lng": 76.3227436,
+      "label": "Delek Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dharamshila-narayana-superspeciality-hospital-delhi-dharamshala",
+    "name": "Dharamshila Narayana Superspeciality Hospital, Delhi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dharamshila Narayana Superspeciality Hospital, Delhi is a prominent hospital in Dharamshala, known for structured tertiary care across Liver Transplant Surgery In Dharamshala and Speciality Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Dharamshala.",
+    "email": "",
+    "phone": "080 6215 4155",
+    "alternatePhone": "",
+    "website": "https://www.narayanahealth.org/hospitals/delhi/dharamshila-narayana-superspeciality-hospital/?utm_source",
+    "address": "Metro Station, Dharamshila Rd, near Ashok Nagar, Vasundhara Enclave, New Delhi, Delhi, 110096",
+    "city": "Dharamshala",
+    "state": "West Bengal",
+    "pincode": "110096",
+    "locality": "",
+    "landmark": "near Ashok Nagar, Vasundhara Enclave, New Delhi, Delhi, 110096",
+    "emergencyContact": "080 6215 4155",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dharamshala",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHhKz9-3OnwMD6siTmIofIN2i7zTLLBcm8W8hT9WVFGWafgsG4ULoCo3HeRRc8CtklFWdt-W1bbkeQj0Pv4RWVhG-0_WimEmzsZsn5iOB4rVxro0mBZExHklvKCBOO-0SHTq5LJ4S81Ahk=w1200-h900-p-k-no",
+    "logo": "https://www.narayanahealth.org/images/nh-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHhKz9-3OnwMD6siTmIofIN2i7zTLLBcm8W8hT9WVFGWafgsG4ULoCo3HeRRc8CtklFWdt-W1bbkeQj0Pv4RWVhG-0_WimEmzsZsn5iOB4rVxro0mBZExHklvKCBOO-0SHTq5LJ4S81Ahk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM8VgCj-jbmziIRyf4-YjwTfEcN3i3FfBwDe5am=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMzwN-OBdDXLKaXgtDe7QGtW8aosgHLGRscBgfS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO8yKXXgKkLmyVvP1qYYBECmXRxnRU8LfbZ1CPx=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPbg6DCpiiLR58L-TA2fWvlQfUZnL_EvpOp9poB=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 28.6025901,
+      "lng": 77.3141381,
+      "label": "Dharamshila Narayana Superspeciality Hospital, Delhi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "district-ayurvedic-hospital-dharamshala",
+    "name": "District Ayurvedic Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "District Ayurvedic Hospital has built a strong reputation in Dharamshala for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Dharamshala. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dharamshala.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "687C+G4P, Chilgari, Dharamshala, Himachal Pradesh 176215",
+    "city": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "pincode": "176215",
+    "locality": "Chilgari",
+    "landmark": "Dharamshala",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzUpKNQZU9RtfL2AAMj0qyWRy9eX8ZpfXZzAWavqVn0n1CWoxdJtuDDevbOaFhPOQecXWfrDWLTMD8FV9ieNu9JeYpiOG8pdrO8rKt4-Qq8Dprvg48fi-7Sk8AFTh7rCFWleybVQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzUpKNQZU9RtfL2AAMj0qyWRy9eX8ZpfXZzAWavqVn0n1CWoxdJtuDDevbOaFhPOQecXWfrDWLTMD8FV9ieNu9JeYpiOG8pdrO8rKt4-Qq8Dprvg48fi-7Sk8AFTh7rCFWleybVQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.2138404,
+      "lng": 76.3203168,
+      "label": "District Ayurvedic Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fortis-hospital-kangra-best-hospital-in-kangra-palampur-dharamshala-road-adarsh-nagar",
+    "name": "Fortis Hospital, Kangra - Best Hospital in Kangra",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Fortis Hospital, Kangra - Best Hospital in Kangra is a prominent general hospital in Palampur - Dharamshala Road Adarsh nagar, known for structured tertiary care across Orthopedic Surgery In Dharamshala. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Palampur - Dharamshala Road Adarsh nagar.",
+    "email": "",
+    "phone": "088947 24025",
+    "alternatePhone": "",
+    "website": "https://fortishospitalkangra.com/",
+    "address": "Palampur - Dharamshala Road Adarsh nagar, Himachal Pradesh 176001",
+    "city": "Palampur - Dharamshala Road Adarsh nagar",
+    "state": "Himachal Pradesh",
+    "pincode": "176001",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "088947 24025",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEer7luaS9mMo9-BaWfVpofucp_lwhZcet4qFc7iecTj9vZu3w_-iVNst869M2lV2YN3NKjZfvibTM-F7A6SfwFde0ODL4a9Y35ehhM7liL-81Fx6zU11WER0B2-fGnYbzbcKxGIdT6k3Bc=w1200-h900-p-k-no",
+    "logo": "https://fortishospitalkangra.com/assets/img/logo/logo-white.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEer7luaS9mMo9-BaWfVpofucp_lwhZcet4qFc7iecTj9vZu3w_-iVNst869M2lV2YN3NKjZfvibTM-F7A6SfwFde0ODL4a9Y35ehhM7liL-81Fx6zU11WER0B2-fGnYbzbcKxGIdT6k3Bc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPTFXSDD1OgNkIYEGqnRf1eovgYHIRY70LQqBvy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNs2PKCt8A3SieP30Cc9hUgJa14YYqK2e1FSnIp=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPBnfZTFm6clJFT5wb2GBKhxJj1856KQR7fGqc1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGXoT1aWGHNJfdDrXza_fCHln91NqD6R70HRgltlB-LIAfxEJRntSyKnb9tLjvcVHbO_swz6K4O5gmUDD8Swgk9mcQ59omXbd3Zvh2JXjTpooJ10InZ8D9VyrsfX1JgbSbIOg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.1160198,
+      "lng": 76.282065,
+      "label": "Fortis Hospital, Kangra - Best Hospital in Kangra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "karan-hospital-tanda",
+    "name": "Karan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Karan Hospital has built a strong reputation in Tanda for multidisciplinary treatment pathways covering Laparoscopic Surgery In Dharamshala. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Tanda can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "062300 65277",
+    "alternatePhone": "",
+    "website": "https://drkaranhospital.com/",
+    "address": "Mandi - Pathankot Rd, Palampur, Tanda, Himachal Pradesh 176061",
+    "city": "Tanda",
+    "state": "Himachal Pradesh",
+    "pincode": "176061",
+    "locality": "Palampur",
+    "landmark": "Tanda",
+    "emergencyContact": "062300 65277",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGNi3DHMidWMkweq--xfPtHnBzkLrfHXuRmkwpiyLrikXTPUoVnyneHSEa2y1bXxCA0mm6E8CQ4lPEscXR7Df0mUchUJzayjxZ71pf9th1JV6VLhm4CjpqqU5x3SOchAM1emrPPR2JvkvNM=w1200-h900-p-k-no",
+    "logo": "https://drkaranhospital.com/wp-content/uploads/2025/02/Karan-Hospital-Logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGNi3DHMidWMkweq--xfPtHnBzkLrfHXuRmkwpiyLrikXTPUoVnyneHSEa2y1bXxCA0mm6E8CQ4lPEscXR7Df0mUchUJzayjxZ71pf9th1JV6VLhm4CjpqqU5x3SOchAM1emrPPR2JvkvNM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPfDvI5HGmuLSsYsk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPfDvI5HGmuLSsYskbP9YEccLdB-kjLf5XVintn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO_tnviJshmDtaSqbvoNu2gpiQ4d_ETL-54iyQP=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPOdaelGFfnpKGRKqlgiSqeVFrOvHBn7O-pp1vb=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.0957316,
+      "lng": 76.5301548,
+      "label": "Karan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "motherkraft-hospital-kangra",
+    "name": "Motherkraft hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kangra often choose Motherkraft hospital for its strength in Gynecologist Surgery In Dharamshala. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kangra can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080914 11088",
+    "alternatePhone": "",
+    "website": "http://www.motherkraft.co.in/",
+    "address": "Motherkraft hospital, Palampur Rd, Ghurkari, Kangra, Himachal Pradesh 176001",
+    "city": "Kangra",
+    "state": "Himachal Pradesh",
+    "pincode": "176001",
+    "locality": "Ghurkari",
+    "landmark": "Ghurkari",
+    "emergencyContact": "080914 11088",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYxTEIY7J4qZC-f7fGFRimOi_LjKdmbVyDi-4yqk5YU0CAl6OdtqmKU6e6ntqo0L0Y2EN9nmGaCn2OZo8lEd6BSRTZ_6PbaEdFEwjQrSppQtcuQ1fInneWu3KGBnaOpMBdTd5n=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYxTEIY7J4qZC-f7fGFRimOi_LjKdmbVyDi-4yqk5YU0CAl6OdtqmKU6e6ntqo0L0Y2EN9nmGaCn2OZo8lEd6BSRTZ_6PbaEdFEwjQrSppQtcuQ1fInneWu3KGBnaOpMBdTd5n=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.1196121,
+      "lng": 76.2969962,
+      "label": "Motherkraft hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nav-jeevan-hospital-jawalamukhi",
+    "name": "Nav Jeevan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nav Jeevan Hospital is a prominent hospital in Jawalamukhi, known for structured tertiary care across Laparoscopic Surgery In Dharamshala. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Jawalamukhi.",
+    "email": "",
+    "phone": "098057 91751",
+    "alternatePhone": "",
+    "website": "http://www.navjeevanhospital.org/",
+    "address": "Kohala, Jawalamukhi, Himachal Pradesh 176031",
+    "city": "Jawalamukhi",
+    "state": "Himachal Pradesh",
+    "pincode": "176031",
+    "locality": "Kohala",
+    "landmark": "Himachal Pradesh 176031",
+    "emergencyContact": "098057 91751",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhw_mmgbvIjX2aiQzjMQ4qIGwvalR4Ao3Ud-_eWFHUtBNvEcOCzzwCCsNqcm49Ap8lOF5rA-up7sGwA1DlONz3a4p2mJii_MCtismDEjLoZi8tvToqBn4xSfJQgQVlD7zYJirbhA=w1200-h900-p-k-no",
+    "logo": "https://navjeevanhospital.org/assets/images/logo2.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhw_mmgbvIjX2aiQzjMQ4qIGwvalR4Ao3Ud-_eWFHUtBNvEcOCzzwCCsNqcm49Ap8lOF5rA-up7sGwA1DlONz3a4p2mJii_MCtismDEjLoZi8tvToqBn4xSfJQgQVlD7zYJirbhA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOmyJEmSF3IbCU-QwGaLqTAeHkBam807XjFI-gV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOjZOuQ7=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOjZOuQ7m2fZOwwzL9posBz1Wt4j_DR4nWmYGkQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOd4T5VCEX_7k6tRnmqahH_IP6QSh1dHv4d2w7K=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 31.8788793,
+      "lng": 76.3148905,
+      "label": "Nav Jeevan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nursing-dharamshala",
+    "name": "Nursing",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dharamshala often choose Nursing for its strength in Gynecologist Surgery In Dharamshala. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dharamshala.",
+    "email": "",
+    "phone": "094180 80000",
+    "alternatePhone": "",
+    "website": "",
+    "address": "688F+QF7, Gurudwara Rd, near, Dharamshala, Himachal Pradesh 176215",
+    "city": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "pincode": "176215",
+    "locality": "near",
+    "landmark": "near",
+    "emergencyContact": "094180 80000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnuI2o5MoZXgo6SfkQ8eD0pnxBCYJuDRNkzPSJzU6_xVdEXbYOgfQO4x8-0cjcFntIrTa2kmmwRLZZGG2iOO6v-rjPlztfC5ESj3v5kALi50MHkJK794uXyPnMM1YZRb6IM_4T=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnuI2o5MoZXgo6SfkQ8eD0pnxBCYJuDRNkzPSJzU6_xVdEXbYOgfQO4x8-0cjcFntIrTa2kmmwRLZZGG2iOO6v-rjPlztfC5ESj3v5kALi50MHkJK794uXyPnMM1YZRb6IM_4T=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.2169196,
+      "lng": 76.3236565,
+      "label": "Nursing",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "raahat-bone-and-joint-clinic-dehra-gopipur",
+    "name": "Raahat Bone and Joint clinic",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dehra Gopipur, Raahat Bone and Joint clinic brings together specialists for Hip Replacement Surgery In Dharamshala and Orthopaedics. The facility stands out for Google rating 3.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dehra Gopipur.",
+    "email": "",
+    "phone": "070181 67326",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hanuman chowk, near Chamunda hardware store, Dehra Gopipur, Himachal Pradesh 177101",
+    "city": "Dehra Gopipur",
+    "state": "Himachal Pradesh",
+    "pincode": "177101",
+    "locality": "near Chamunda hardware store",
+    "landmark": "near Chamunda hardware store, Dehra Gopipur, Himachal Pradesh 177101",
+    "emergencyContact": "070181 67326",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Dharamshala",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeLQiVXuDOE7uMajHnzvN_7DtLFa6VroGfCSJWXSgqqNvul2bt2qelFoUBuzfqsMJXwedb3SCONeVdD6rz63py_dTsijJp7oB7T_KWzzMmjGnNAHAUepD9kikVyXqSYMFxC0ErQA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeLQiVXuDOE7uMajHnzvN_7DtLFa6VroGfCSJWXSgqqNvul2bt2qelFoUBuzfqsMJXwedb3SCONeVdD6rz63py_dTsijJp7oB7T_KWzzMmjGnNAHAUepD9kikVyXqSYMFxC0ErQA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 31.8787379,
+      "lng": 76.2254161,
+      "label": "Raahat Bone and Joint clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sai-hospital-and-ivf-center-hamirpur",
+    "name": "Sai Hospital & IVF Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hamirpur, Sai Hospital & IVF Center offers coordinated hospital care with major focus on IVF In Dharamshala and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Hamirpur.",
+    "email": "",
+    "phone": "093178 12552",
+    "alternatePhone": "",
+    "website": "http://saihospital.co.in/",
+    "address": "Sai hospital Dugha, Shimla Dharamshala Road, Dugha, Hamirpur, Himachal Pradesh 177001",
+    "city": "Hamirpur",
+    "state": "Himachal Pradesh",
+    "pincode": "177001",
+    "locality": "Dugha",
+    "landmark": "Dugha",
+    "emergencyContact": "093178 12552",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Dharamshala",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfxEAjtowSborDcQeaejEFJ9JiX_T6MW1dJDIQRra4c6tgoe_vRBurq39zHPlXNJYWscwdBbMcEYSRWl_MmW1FCnSwvLBN3_ACn6pWk9y0R9p7Jxc1JL_6wNR5p252l_FA96rWMNBIKBs=w1200-h900-p-k-no",
+    "logo": "http://www.saihospital.co.in/wp-content/uploads/2025/07/nabh-pre-accredited-logo-png_seeklogo-408931-e1752846758989.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfxEAjtowSborDcQeaejEFJ9JiX_T6MW1dJDIQRra4c6tgoe_vRBurq39zHPlXNJYWscwdBbMcEYSRWl_MmW1FCnSwvLBN3_ACn6pWk9y0R9p7Jxc1JL_6wNR5p252l_FA96rWMNBIKBs=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 31.6707835,
+      "lng": 76.5360929,
+      "label": "Sai Hospital & IVF Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sai-mahima-shukla-hospital-ram-nagar-dharamshala",
+    "name": "Sai Mahima Shukla Hospital Ram Nagar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dharamshala, Sai Mahima Shukla Hospital Ram Nagar offers coordinated hospital care with major focus on Spine Surgery In Dharamshala. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dharamshala.",
+    "email": "",
+    "phone": "098163 69787",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hospital Road, Ram Nagar, Dharamshala, Himachal Pradesh 176215",
+    "city": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "pincode": "176215",
+    "locality": "Ram Nagar",
+    "landmark": "Dharamshala",
+    "emergencyContact": "098163 69787",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGB-8ci0tTqTqI8x_jVLowOHF7n9dNYzpXJ5_OToW1MpNploMCid13uFi5of3hAbbba5wgOrelHL62nUcTfIgjWtLeXfx_kk6Aihg4V5Ti-vdOJdkCUpxebsYY7KEqaAE-5UTWddA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGB-8ci0tTqTqI8x_jVLowOHF7n9dNYzpXJ5_OToW1MpNploMCid13uFi5of3hAbbba5wgOrelHL62nUcTfIgjWtLeXfx_kk6Aihg4V5Ti-vdOJdkCUpxebsYY7KEqaAE-5UTWddA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.2169196,
+      "lng": 76.3236567,
+      "label": "Sai Mahima Shukla Hospital Ram Nagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sandeepni-ayurvedic-chikitsalya-palampur",
+    "name": "Sandeepni Ayurvedic Chikitsalya",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Palampur, Sandeepni Ayurvedic Chikitsalya delivers integrated care across Laparoscopic Surgery In Dharamshala. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Palampur.",
+    "email": "",
+    "phone": "094182 91589",
+    "alternatePhone": "",
+    "website": "http://www.sandeepniayurveda.in/",
+    "address": "Aima, Palampur, Himachal Pradesh 176061",
+    "city": "Palampur",
+    "state": "Himachal Pradesh",
+    "pincode": "176061",
+    "locality": "Aima",
+    "landmark": "Himachal Pradesh 176061",
+    "emergencyContact": "094182 91589",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH82jU5MXjawPWe3sBChykG3cy2IPmMN1kjW3iF5bIGXZh3L2O9YUlOt-ZwcXiIqEzLvHB5sVbyws11CO-J1Ez7Alggq0v-FBPkXikhytpZAsJb9mla6lh-UeZyxxqk1ts5H9s9=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH82jU5MXjawPWe3sBChykG3cy2IPmMN1kjW3iF5bIGXZh3L2O9YUlOt-ZwcXiIqEzLvHB5sVbyws11CO-J1Ez7Alggq0v-FBPkXikhytpZAsJb9mla6lh-UeZyxxqk1ts5H9s9=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.1162173,
+      "lng": 76.5342136,
+      "label": "Sandeepni Ayurvedic Chikitsalya",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-balaji-hospital-kangra",
+    "name": "Shree Balaji Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Balaji Hospital is a prominent hospital in Kangra, known for structured tertiary care across Liver Transplant Surgery In Dharamshala. Its infrastructure includes Google rating 4.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kangra.",
+    "email": "",
+    "phone": "094594 40797",
+    "alternatePhone": "",
+    "website": "http://shreebalajihospital.com/",
+    "address": "Balaji Vihar, Dharamsala Rd, near Bus Stand, Adarsh Colony, Kangra, Himachal Pradesh 176001",
+    "city": "Kangra",
+    "state": "Himachal Pradesh",
+    "pincode": "176001",
+    "locality": "Adarsh Colony",
+    "landmark": "near Bus Stand, Adarsh Colony, Kangra, Himachal Pradesh 176001",
+    "emergencyContact": "094594 40797",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEh8VgpBew4F0556HDHFGO-P2myBNt3NTwhEKAZtprRzl9nX_6zKwVkmjIawzWVde91B4QrRUgvLiaI5Id3WZnit8RPei2b0YAb25J9CG-VVLeFLk-dnpd2e4mPVROa9P6ePcM=w1200-h900-p-k-no",
+    "logo": "https://shreebalajihospital.com/wp-content/uploads/2025/09/cropped-WEB-NEW-scaled-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEh8VgpBew4F0556HDHFGO-P2myBNt3NTwhEKAZtprRzl9nX_6zKwVkmjIawzWVde91B4QrRUgvLiaI5Id3WZnit8RPei2b0YAb25J9CG-VVLeFLk-dnpd2e4mPVROa9P6ePcM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGu4J9OekgaB5U79fhqvGimegGra_bPSUg2PTkVmApK3LSmbK1ZRB15X3dCvui62r2btqWaB3DrX2VdNHV1FB0PY-i82szOxO0minMnK-InX1W0j8WRfc44R3tXqIWlTkB3_o9ZauVk8WUA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFAyMRcHVuvA8GIpnobMdUBr02jae_oV7iikuG_B2bcil4awP7bQzTh5ZIvrOTIgqjy2g_9w2CUp0Iqjv3SKYglPsqBp6e0ZU3xD8Ah7gj6nvL0MmDe5tus_cW_4lHdDV-pxylNZ7ka46-B=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.1149076,
+      "lng": 76.2795558,
+      "label": "Shree Balaji Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sukhmani-hospital-infertility-iui-obsgynae-ultrasound-lab-and-dental-yol",
+    "name": "SUKHMANI HOSPITAL (INFERTILITY, IUI, ObsGynae, ULTRASOUND, LAB, & DENTAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SUKHMANI HOSPITAL (INFERTILITY, IUI, ObsGynae, ULTRASOUND, LAB, & DENTAL is a prominent hospital in Yol, known for structured tertiary care across IVF In Dharamshala and Fertility Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Yol.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Yol, Himachal Pradesh 176052",
+    "city": "Yol",
+    "state": "Himachal Pradesh",
+    "pincode": "176052",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Dharamshala",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFo_hL5Wr1u622BSlLAbas986mNoTss_Z0MHDOjhM0x7maQAGaJHnve6_nQ8mUFwkkDYkMYfeUVdvDcJGgP2tIktLMMtnkOLaBoWC1bjTWyKjdmklBsgXRBKeB2cFZQove_4sk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFo_hL5Wr1u622BSlLAbas986mNoTss_Z0MHDOjhM0x7maQAGaJHnve6_nQ8mUFwkkDYkMYfeUVdvDcJGgP2tIktLMMtnkOLaBoWC1bjTWyKjdmklBsgXRBKeB2cFZQove_4sk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.1836872,
+      "lng": 76.3710212,
+      "label": "SUKHMANI HOSPITAL (INFERTILITY, IUI, ObsGynae, ULTRASOUND, LAB, & DENTAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "surya-hospital-nurpur",
+    "name": "Surya Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Nurpur, Surya Hospital offers coordinated hospital care with major focus on Laparoscopic Surgery In Dharamshala. With public-facing highlights like Google rating 3.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Nurpur.",
+    "email": "",
+    "phone": "076963 07219",
+    "alternatePhone": "",
+    "website": "https://suryahospitalrajakatalab.com/",
+    "address": "Jassur Dhameta Road Raja Ka Talab, Nurpur, Himachal Pradesh 176051",
+    "city": "Nurpur",
+    "state": "Himachal Pradesh",
+    "pincode": "176051",
+    "locality": "Jassur Dhameta Road Raja Ka Talab",
+    "landmark": "Himachal Pradesh 176051",
+    "emergencyContact": "076963 07219",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlp5gH-ENMXE31V6DiwvuawRpU6z55v-L5OezaFglY3hEHWPkoK1hyFOFAf3D06BLBYiznS2Bq6z8CkDCSp4UFDgtc7A_krTwPEi1tdzED6bd2eyTiOrkIMvnbCxCmksgMAYbpog=w1200-h900-p-k-no",
+    "logo": "https://suryahospitalrajakatalab.com/wp-content/uploads/2026/03/Untitled-design-37.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlp5gH-ENMXE31V6DiwvuawRpU6z55v-L5OezaFglY3hEHWPkoK1hyFOFAf3D06BLBYiznS2Bq6z8CkDCSp4UFDgtc7A_krTwPEi1tdzED6bd2eyTiOrkIMvnbCxCmksgMAYbpog=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.2074823,
+      "lng": 75.9114744,
+      "label": "Surya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tanda-medical-college-opd-sadarpur",
+    "name": "Tanda Medical College OPD",
+    "type": "Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tanda Medical College OPD has built a strong reputation in Sadarpur for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Dharamshala. The facility stands out for Google rating 3.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Sadarpur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Tanda, Sadarpur, Himachal Pradesh 176002",
+    "city": "Sadarpur",
+    "state": "Himachal Pradesh",
+    "pincode": "176002",
+    "locality": "Tanda",
+    "landmark": "Himachal Pradesh 176002",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHU4Gw2WjydIdu9RZwenZT9xV97TsMBGDvrgLjheaI6aYIL3opAuMf81aEeYqgqviXkvU9j53AMzZ0bR9HWxwfh5V059BEANAJd8tbu_nXYA8U0f2zDEI4HGYCJPNmX6xeJjQEa=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHU4Gw2WjydIdu9RZwenZT9xV97TsMBGDvrgLjheaI6aYIL3opAuMf81aEeYqgqviXkvU9j53AMzZ0bR9HWxwfh5V059BEANAJd8tbu_nXYA8U0f2zDEI4HGYCJPNmX6xeJjQEa=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.0989315,
+      "lng": 76.3006691,
+      "label": "Tanda Medical College OPD",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ultrasound-and-maternity-hospital-dharamshala",
+    "name": "Ultrasound & Maternity Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ultrasound & Maternity Hospital is a prominent hospital in Dharamshala, known for structured tertiary care across Gynecologist Surgery In Dharamshala. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Dharamshala.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "688F+QF7 sai mahima hospital, Ram Nagar, Dharamshala, Himachal Pradesh 176215",
+    "city": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "pincode": "176215",
+    "locality": "Ram Nagar",
+    "landmark": "Dharamshala",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=32.2169196%2C76.3236566&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=32.2169196%2C76.3236566&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=32.2169196%2C76.3236566&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=32.2169196%2C76.3236566&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.2169196,
+      "lng": 76.3236566,
+      "label": "Ultrasound & Maternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "zonal-hospital-dharamsala-dharamshala",
+    "name": "Zonal Hospital Dharamsala",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dharamshala often choose Zonal Hospital Dharamsala for its strength in Spine Surgery In Dharamshala. The facility stands out for Google rating 3.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Dharamshala can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0189 222 7595",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6879+6PH, Dharamsala Rd, Chilgari, Dharamshala, Himachal Pradesh 176215",
+    "city": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "pincode": "176215",
+    "locality": "Chilgari",
+    "landmark": "Chilgari",
+    "emergencyContact": "0189 222 7595",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Dharamshala"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFs5EfWTGlkcZidX7Juyc_OMhr4MGBnl9YG-lMvYq5f4ZuCSRG6r3gGrzqVWN--Z9Y89K9m_TjlN39kp85u8N42ktIiK4LUyu6Zie4XkX2pBdky-KQygLCzhLBPuQr_oYiKtMmU=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFs5EfWTGlkcZidX7Juyc_OMhr4MGBnl9YG-lMvYq5f4ZuCSRG6r3gGrzqVWN--Z9Y89K9m_TjlN39kp85u8N42ktIiK4LUyu6Zie4XkX2pBdky-KQygLCzhLBPuQr_oYiKtMmU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpL2s_B0u4uauSJaT8oKCuxSfR2Ilkp6UXUkyOFtuobfI2uucITgGHaY3rYsmmnYCj0yhUtXslIy-Owu5z2Q5rlMEEXuX5lz8KMgA0kh-yq0rH_Y5ruBpkEyYJhjCHyMlGQxrX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEKZxpGGmpsSIApJBfnI77A247Xa4hh-xIPtDJvfrQHKggfOtU_Cg3mYGDt2mjxNgi8Yx6ztbDsRcG34GIaT1uVxG5ggXgodn0fOb8OD6kJxrzdxPTkMqLBL4_MtwlRt7EybwBWHOCu5aoj=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 32.2130506,
+      "lng": 76.3193688,
+      "label": "Zonal Hospital Dharamsala",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

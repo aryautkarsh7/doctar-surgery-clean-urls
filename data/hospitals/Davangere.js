@@ -1,0 +1,5461 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aaraike-super-speciality-hospital-ktj-nagar-daavanagere-davangere",
+    "name": "Aaraike Super Speciality Hospital || KTJ Nagar || Daavanagere",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Davangere, Aaraike Super Speciality Hospital || KTJ Nagar || Daavanagere brings together specialists for Neurosurgeon In Davangere and Speciality Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davangere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084315 41487",
+    "alternatePhone": "",
+    "website": "http://www.aaraikehospitals.com/",
+    "address": "FW4C+842, KTJ Nagar, Nittuvalli, Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "Nittuvalli",
+    "landmark": "Nittuvalli",
+    "emergencyContact": "084315 41487",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Davangere",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhpitlVN_fWgOfGGTJoVMH8FekyOhEXkIuEJSYErM6NDXFggTIz48YsY3GhocJVef9HrLjV3lXHYOzF2rqzes0NxkhW5xY69dUnqgRRbhGD1dxWGMmv6BNTNip_WAKFto7vPJnag=w1200-h900-p-k-no",
+    "logo": "https://www.aaraikehospitals.com/img/aaraike-hospitals-logo-removebg-preview.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhpitlVN_fWgOfGGTJoVMH8FekyOhEXkIuEJSYErM6NDXFggTIz48YsY3GhocJVef9HrLjV3lXHYOzF2rqzes0NxkhW5xY69dUnqgRRbhGD1dxWGMmv6BNTNip_WAKFto7vPJnag=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4558307,
+      "lng": 75.9202438,
+      "label": "Aaraike Super Speciality Hospital || KTJ Nagar || Daavanagere",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aashraya-hospital-mcc-a-block-daavanagere-davangere",
+    "name": "Aashraya Hospital || MCC A Block || Daavanagere",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Davangere, Aashraya Hospital || MCC A Block || Daavanagere offers coordinated hospital care with major focus on Gynecologist Surgery In Davangere. Hospital capacity markers such as Google rating 3.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Davangere.",
+    "email": "",
+    "phone": "081922 24679",
+    "alternatePhone": "",
+    "website": "http://www.ashrayahospitals.co.in/",
+    "address": "1977/1-2, 1977/1-2, Shamanur Rd, MCC A Block, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "MCC A Block",
+    "landmark": "Shamanur Rd",
+    "emergencyContact": "081922 24679",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUBMOIxmRVSEHDvgNOE1aeok0vLxoyHrhN5mIUBY3V4d_MRnRRMU3CrCT5FOiNcmctfAC3ckYpVMFPwmhf4KQ-dlgBDew_hwLE3vnxifADJY3TimNyUayQ1maDLsQGAXkLP7-k=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUBMOIxmRVSEHDvgNOE1aeok0vLxoyHrhN5mIUBY3V4d_MRnRRMU3CrCT5FOiNcmctfAC3ckYpVMFPwmhf4KQ-dlgBDew_hwLE3vnxifADJY3TimNyUayQ1maDLsQGAXkLP7-k=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGMi1W3nLpTCCyqxKv7G9qk2gYZAQ2G6O-2_q6V_sEbk2NdzO8v1yjMmUhYLscJdFLK0PABE7ViBHX0NvC5qMgF9xWlnDWCD9oAoZhRfIQs1Rd6qa3Ly1OooHmd87lff_L4UovhOQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4569039,
+      "lng": 75.9087141,
+      "label": "Aashraya Hospital || MCC A Block || Daavanagere",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "alur-fertility-centre-davangere",
+    "name": "alur fertility centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Davangere, alur fertility centre brings together specialists for IVF In Davangere and Fertility Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Davangere.",
+    "email": "",
+    "phone": "088677 75564",
+    "alternatePhone": "",
+    "website": "https://alurfertilitycentre.com/",
+    "address": "2nd, main, AVK College Rd, Prince Jayachamaraja Wodeyar, Davanagere, Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "Davanagere",
+    "landmark": "AVK College Rd",
+    "emergencyContact": "088677 75564",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Davangere",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7MpbxruuEEdRaLLa8z-ecAuW8R_zjDN1LCSdKWOA5uyxR1jo7wUD7trEbwubPF5iEB2L55iII7eUYIN7UYC6MSIXYcJsUq40Tai1h3FFPxeHwOErb3k1wsVnLqXN5r3owFvVV=w1200-h900-p-k-no",
+    "logo": "https://cdn.dorik.com/66b7af1425863b0011cbd504/images/alur-fertility-center-LOGO-6zlVv.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7MpbxruuEEdRaLLa8z-ecAuW8R_zjDN1LCSdKWOA5uyxR1jo7wUD7trEbwubPF5iEB2L55iII7eUYIN7UYC6MSIXYcJsUq40Tai1h3FFPxeHwOErb3k1wsVnLqXN5r3owFvVV=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4586572,
+      "lng": 75.9191561,
+      "label": "alur fertility centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "anugraha-hospital-davangere",
+    "name": "Anugraha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Davangere, Anugraha Hospital delivers integrated care across Gynecologist Surgery In Davangere. Hospital capacity markers such as Google rating 3.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "081922 22292",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Main 2nd Cross Rd, near Mama's Joint Restaurant, MCC B Block, MCC, Davanagere, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "Davanagere",
+    "landmark": "near Mama's Joint Restaurant, MCC B Block, MCC, Davanagere, Davangere, Karnataka 577004",
+    "emergencyContact": "081922 22292",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=14.4553831%2C75.9143121&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=14.4553831%2C75.9143121&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4553831%2C75.9143121&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4553831%2C75.9143121&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4553831,
+      "lng": 75.9143121,
+      "label": "Anugraha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aryan-speciality-health-center-davangere",
+    "name": "Aryan Speciality Health Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Davangere, Aryan Speciality Health Center offers coordinated hospital care with major focus on Gynecologist Surgery In Davangere and Speciality Care. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mamas Joint Rd, MCC B Block, MCC, Davanagere, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "Davanagere",
+    "landmark": "MCC",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3h6KqOUhboBrpgFuaSswO8wZHVB6Hbfqo3C1JQrS7EiEz41V12Oj2R5sXNsc9EIczRyx1cBG99BGdUZX6Xqa7looOjrKfC7u2Q2fywUMGtnI-1jUcYvJEjTA-U9CpAkuC3j8=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3h6KqOUhboBrpgFuaSswO8wZHVB6Hbfqo3C1JQrS7EiEz41V12Oj2R5sXNsc9EIczRyx1cBG99BGdUZX6Xqa7looOjrKfC7u2Q2fywUMGtnI-1jUcYvJEjTA-U9CpAkuC3j8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.455116,
+      "lng": 75.9135106,
+      "label": "Aryan Speciality Health Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "city-central-hospital-davangere",
+    "name": "City Central Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Davangere often choose City Central Hospital for its strength in Neurosurgeon In Davangere. Operational strengths including Google rating 3.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davangere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099725 09780",
+    "alternatePhone": "",
+    "website": "https://cchdavangere.com/",
+    "address": "Akkamahadevi Road, 17, AVK College Rd, Prince Jayachamaraja Wodeyar, Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "Prince Jayachamaraja Wodeyar",
+    "landmark": "AVK College Rd",
+    "emergencyContact": "099725 09780",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOCC8Od3yZoGLm1P0FyvydVlOnnid_0HjbODP9oFT2CT6bmgLMWJ2btGidbAYcLEKAerPW86HDU1wtbMqZkHU7oJevwF4KC-K7ZAIOEBYr_3M-cwaze6jHu92Q8fjOMTb0ACWN=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOCC8Od3yZoGLm1P0FyvydVlOnnid_0HjbODP9oFT2CT6bmgLMWJ2btGidbAYcLEKAerPW86HDU1wtbMqZkHU7oJevwF4KC-K7ZAIOEBYr_3M-cwaze6jHu92Q8fjOMTb0ACWN=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4601512,
+      "lng": 75.9187772,
+      "label": "City Central Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "city-medical-center-davangere",
+    "name": "City Medical Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "City Medical Center is a prominent hospital in Davangere, known for structured tertiary care across Gynecologist Surgery In Davangere. Operational strengths including Google rating 3.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "081922 21201",
+    "alternatePhone": "",
+    "website": "https://www.citymedicalcenter.in/",
+    "address": "FW47+5W3, Medical College Rd, MCC B Block, MCC, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "MCC",
+    "landmark": "MCC B Block",
+    "emergencyContact": "081922 21201",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFctkXjngiFwIzWLhh9rrQ-V_ZrGHCo7wMD16iw77IxvMpttlgNpaAJ7fnd-wYNXMSAVdagYwaQxuXaGzYRlazE48692xqqFN2pfz8NuawRPkdWfsnd5ezZl2BUh6fZWH5HI9av=w1200-h900-p-k-no",
+    "logo": "https://www.citymedicalcenter.in/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFctkXjngiFwIzWLhh9rrQ-V_ZrGHCo7wMD16iw77IxvMpttlgNpaAJ7fnd-wYNXMSAVdagYwaQxuXaGzYRlazE48692xqqFN2pfz8NuawRPkdWfsnd5ezZl2BUh6fZWH5HI9av=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4553778,
+      "lng": 75.9147895,
+      "label": "City Medical Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dar-al-shifa-laser-and-laparoscopy-clinic-davangere",
+    "name": "Dar al Shifa Laser and Laparoscopy clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dar al Shifa Laser and Laparoscopy clinic is a prominent hospital in Davangere, known for structured tertiary care across Laparoscopic Surgery In Davangere. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "099019 24855",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Prince Jayachamaraja Wodeyar, Davanagere, Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "Davanagere",
+    "landmark": "Davangere",
+    "emergencyContact": "099019 24855",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=14.4615287%2C75.9198437&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=14.4615287%2C75.9198437&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4615287%2C75.9198437&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4615287%2C75.9198437&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4615287,
+      "lng": 75.9198437,
+      "label": "Dar al Shifa Laser and Laparoscopy clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "davangere-heart-hospital-davangere",
+    "name": "Davangere Heart Hospital",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Davangere often choose Davangere Heart Hospital for its strength in Heart Surgery In Davangere and Cardiac Care. Operational strengths including Google rating 3.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Davangere.",
+    "email": "",
+    "phone": "081922 20998",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9th Main Rd, MCC B Block, MCC, Davanagere, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "Davanagere",
+    "landmark": "MCC",
+    "emergencyContact": "081922 20998",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Davangere",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=14.450061%2C75.9120955&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=14.450061%2C75.9120955&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.450061%2C75.9120955&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.450061%2C75.9120955&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.450061,
+      "lng": 75.9120955,
+      "label": "Davangere Heart Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "esi-hospital-davangere",
+    "name": "ESI Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Davangere, ESI Hospital brings together specialists for General Surgery In Davangere. Hospital capacity markers such as Google rating 3.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davangere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081922 25983",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FW3H+82C, ESI Hospital Rd, Bhagat Singh Nagar, Nittuvalli, Davangere, Karnataka 577008",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577008",
+    "locality": "Nittuvalli",
+    "landmark": "Bhagat Singh Nagar",
+    "emergencyContact": "081922 25983",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4xKIEnO-JAhh2gHSW-rAiRhbKQ7VWx1Z3hg8A2WUg8neTWMnj3sRSY9Uuwd5K54Ksd2RzXSPRMFg6vUr2WFKEkS8PGrzc_xzFZPLYGzB00nSK81sUGIw8_bCIpyl2nI2at3-gqA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4xKIEnO-JAhh2gHSW-rAiRhbKQ7VWx1Z3hg8A2WUg8neTWMnj3sRSY9Uuwd5K54Ksd2RzXSPRMFg6vUr2WFKEkS8PGrzc_xzFZPLYGzB00nSK81sUGIw8_bCIpyl2nI2at3-gqA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3CKsT5ixbisZFnR8d6FcYZg10b-Met-FFZ9NyCVv09Wb2vsAeXlC8QR5rDvxVx9ybSBkqMRGLCMe2xrndnniHgf3FFOXsB6kxDIQbSZkC7yn7pwqIDoh1uRYSlmQFkumFTPgf1Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPuTvR1Pe4a-=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPuTvR1Pe4a-ldondrAJ4yNVWo7ZoqtClAn8mEH8=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPuTvR1Pe4a-ldondrAJ4yNVWo7ZoqtClAn8mEH8HthVc1colqcG0_yGRAMH61FFIK2bpxKzcU6gcn7xadsNAdkbNX-hVGv1hEvUhVZ0xMR72djF6cTjG50kVC_lNIogDS_Nj_=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4533064,
+      "lng": 75.9275225,
+      "label": "ESI Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gurushree-hospital-davangere",
+    "name": "Gurushree Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Davangere often choose Gurushree Hospital for its strength in Gynecologist Surgery In Davangere. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Davangere.",
+    "email": "",
+    "phone": "098862 69062",
+    "alternatePhone": "",
+    "website": "",
+    "address": "180, 3rd Main 9th Cross Road Prince Jayachamaraja Wodeyar, Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "3rd Main 9th Cross Road Prince Jayachamaraja Wodeyar",
+    "landmark": "Davangere",
+    "emergencyContact": "098862 69062",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=14.4598087%2C75.9181557&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=14.4598087%2C75.9181557&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4598087%2C75.9181557&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4598087%2C75.9181557&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4598087,
+      "lng": 75.9181557,
+      "label": "Gurushree Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "halesh-vijaya-davangere",
+    "name": "Halesh Vijaya",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Halesh Vijaya has built a strong reputation in Davangere for multidisciplinary treatment pathways covering Gynecologist Surgery In Davangere. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davangere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FV9V+484, Basweshwar Layout, Davanagere, Davangere, Karnataka 577006",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577006",
+    "locality": "Davanagere",
+    "landmark": "Davanagere",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEguIy9GuPcp6ryzu1tV6RQbUYZtCyKOVMiyxKskSlawf-VyquoLHLOAY1YChD5jqdKDamGXGsqkEEL5st0ulYQigv85fXsathW8szS-RSHcWTfOJsxMgWYn6OiXSgXtXQY39bR=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEguIy9GuPcp6ryzu1tV6RQbUYZtCyKOVMiyxKskSlawf-VyquoLHLOAY1YChD5jqdKDamGXGsqkEEL5st0ulYQigv85fXsathW8szS-RSHcWTfOJsxMgWYn6OiXSgXtXQY39bR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4677577,
+      "lng": 75.8933416,
+      "label": "Halesh Vijaya",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "heart-check-center-davanagere",
+    "name": "Heart Check Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Heart Check Center has built a strong reputation in Davanagere for multidisciplinary treatment pathways covering Heart Surgery In Davangere and Cardiac Care. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davanagere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094495 54451",
+    "alternatePhone": "",
+    "website": "",
+    "address": "pavilion road, Bapuji hospital stadium, near hegde diagnostic's, Davanagere, Karnataka 577004",
+    "city": "Davanagere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "near hegde diagnostic's",
+    "landmark": "near hegde diagnostic's, Davanagere, Karnataka 577004",
+    "emergencyContact": "094495 54451",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Davangere",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEBDGczCGcLXDskKt6gfTzlZ0s7sIeeJ3i50DzI2qY3qZLPn0QI6Q1f3KcWhFcvvGnXMuMqZOR478a57Gx1TlSpHt49GnL6ymA8ZujSdscHmSCbgDDq0aXp3eYVvjYECkuDFzYNGeGU9BW5=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEBDGczCGcLXDskKt6gfTzlZ0s7sIeeJ3i50DzI2qY3qZLPn0QI6Q1f3KcWhFcvvGnXMuMqZOR478a57Gx1TlSpHt49GnL6ymA8ZujSdscHmSCbgDDq0aXp3eYVvjYECkuDFzYNGeGU9BW5=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4574882,
+      "lng": 75.9189063,
+      "label": "Heart Check Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "janani-maternity-center-davanagere",
+    "name": "Janani Maternity Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Davanagere, Janani Maternity Center delivers integrated care across Gynecologist Surgery In Davangere. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davanagere.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "390/1, 8th main, 8th Cross Rd, Prince Jayachamaraja Wodeyar, Davanagere, Karnataka 577002",
+    "city": "Davanagere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "Prince Jayachamaraja Wodeyar",
+    "landmark": "8th Cross Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=14.4597636%2C75.9152782&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=14.4597636%2C75.9152782&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4597636%2C75.9152782&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4597636%2C75.9152782&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4597636,
+      "lng": 75.9152782,
+      "label": "Janani Maternity Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kadli-ningamma-memorial-hospital-davangere",
+    "name": "Kadli Ningamma Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Davangere, Kadli Ningamma Memorial Hospital brings together specialists for Brain Surgery In Davangere. Its infrastructure includes Google rating 3.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Davangere.",
+    "email": "",
+    "phone": "081922 72620",
+    "alternatePhone": "",
+    "website": "https://kadliningamma.in/",
+    "address": "FW38+C4F, 4th Cross Main Road, MCC B Block, Kuvempu Nagar, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "Kuvempu Nagar",
+    "landmark": "MCC B Block",
+    "emergencyContact": "081922 72620",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzkMCANnLo5AWQ5QZKINtGJM6hD1Twki0q4W9E1NeAaXCTmrff0nssgSw-kr_d8nRSMLICn7Hkjki0eXqzLnkVsQhgDLqMkvSo2t4NBlLFFSXgEovJ2DfJM_HIqcmBaTl8pvFJ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzkMCANnLo5AWQ5QZKINtGJM6hD1Twki0q4W9E1NeAaXCTmrff0nssgSw-kr_d8nRSMLICn7Hkjki0eXqzLnkVsQhgDLqMkvSo2t4NBlLFFSXgEovJ2DfJM_HIqcmBaTl8pvFJ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElH00AlryBYgydhRAL1Gmuadb89fTB60WlVNpHwehf9fPALXAHh89CVZPgI1bH-hq9_roglxSRGzWKHZgvR6E=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElH00AlryBYgydhRAL1Gmuadb89fTB60WlVNpHwehf9fPALXAHh89CVZPgI1bH-hq9_roglxSRGzWKHZgvR6EytGj89j9VYxzs1dIFwSkG01h1dfxHdW-t-zUHGhVg432CD7uCXe59Ifub=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFyoo=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFyoo8baf7R8VE-ih2Kf1Q98YluuoAEvJyCbKrimOUxFPgngokOQ50BEMH7MHtSR0jl32t9Kwp6guxLIAp6N2MrgnqT9ZpukFvuXe0Uj1uKeqNFO2Xj0kn2xB05v2ekTxGu7xP=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4535515,
+      "lng": 75.915297,
+      "label": "Kadli Ningamma Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "m-k-memorial-hospital-mcc-a-block-daavanagere-davangere",
+    "name": "M.K Memorial Hospital || MCC A Block || Daavanagere",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "M.K Memorial Hospital || MCC A Block || Daavanagere is a prominent hospital in Davangere, known for structured tertiary care across Gynecologist Surgery In Davangere. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "081922 21432",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MCC A, Block 3rd Main, 3rd Cross, Church Road, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "Church Road",
+    "landmark": "3rd Cross",
+    "emergencyContact": "081922 21432",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=14.4610631%2C75.9124458&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=14.4610631%2C75.9124458&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4610631%2C75.9124458&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4610631%2C75.9124458&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4610631,
+      "lng": 75.9124458,
+      "label": "M.K Memorial Hospital || MCC A Block || Daavanagere",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "madhavi-hospital-davangere",
+    "name": "Madhavi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Davangere, Madhavi Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Davangere. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "085542 45069",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FW66+FQW, MCC A Block, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "MCC A Block",
+    "landmark": "Davangere",
+    "emergencyContact": "085542 45069",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=14.4612267%2C75.9119402&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=14.4612267%2C75.9119402&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4612267%2C75.9119402&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4612267%2C75.9119402&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4612267,
+      "lng": 75.9119402,
+      "label": "Madhavi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "maha-raksha-hospitals-and-day-care-davangere",
+    "name": "Maha Raksha Hospitals & Day Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Maha Raksha Hospitals & Day Care is a prominent hospital in Davangere, known for structured tertiary care across Neurosurgeon In Davangere. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "081924 68669",
+    "alternatePhone": "",
+    "website": "",
+    "address": "680/2, SS Hi Tech Hospital Road, Bhagerathi circle, near Kariyamma Temple, Shakti nagar, Davangere, Karnataka 577008",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577008",
+    "locality": "Shakti nagar",
+    "landmark": "near Kariyamma Temple, Shakti nagar, Davangere, Karnataka 577008",
+    "emergencyContact": "081924 68669",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWje0QovQHmGgzfAi_HEdJ2SE0WZjmUqAd7UGKtDHxqXfCvwPziFOVwUl4M44KPaVtgIf7AuwqM54EmaqcG6xUvj2bJ0LoerYgNJoTS7ifTNiEy0JtQQE2ljNmW_QGlL0AxCin4w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWje0QovQHmGgzfAi_HEdJ2SE0WZjmUqAd7UGKtDHxqXfCvwPziFOVwUl4M44KPaVtgIf7AuwqM54EmaqcG6xUvj2bJ0LoerYgNJoTS7ifTNiEy0JtQQE2ljNmW_QGlL0AxCin4w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4487169,
+      "lng": 75.9313551,
+      "label": "Maha Raksha Hospitals & Day Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mathru-maternity-davangere",
+    "name": "Mathru maternity",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Davangere, Mathru maternity offers coordinated hospital care with major focus on Gynecologist Surgery In Davangere. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "60 Feet Ring Rd, Nittuvalli, Davanagere, Davangere, Karnataka 577005",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577005",
+    "locality": "Davanagere",
+    "landmark": "Davanagere",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGMLbcVk3E43hFTPDM4faHUmSvro_zcYO1yr-6pjHult35e_OuE3GY6sbMPLmgg98ZhfKlUHysQBg5k_8_3zHsI-7DvKDLOu9qxApLR61BlgNA1nGt5oXhUFEhB1-VxMts1MKIFQTj0z6s=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGMLbcVk3E43hFTPDM4faHUmSvro_zcYO1yr-6pjHult35e_OuE3GY6sbMPLmgg98ZhfKlUHysQBg5k_8_3zHsI-7DvKDLOu9qxApLR61BlgNA1nGt5oXhUFEhB1-VxMts1MKIFQTj0z6s=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4467034,
+      "lng": 75.9224253,
+      "label": "Mathru maternity",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mavintop-hospital-davangere",
+    "name": "Mavintop Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Davangere, Mavintop Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Davangere. The facility stands out for Google rating 4.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "098451 48562",
+    "alternatePhone": "",
+    "website": "https://www.mavintophospital.com/",
+    "address": "Shamanur Rd, MCC B Block, MCC, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "MCC",
+    "landmark": "MCC",
+    "emergencyContact": "098451 48562",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHpOBksVj8gw66RQwXYfO3L8XFhzH8_Y_mXQXK_04jK15-agoxIBUwQDidQLCCmcBlYXLet8WdPnA6P5Tr42N6IoYAaIrm36N6vthJkfNk-zTzxNfiojcFHeIRE9ZwAs8mpP81=w1200-h900-p-k-no",
+    "logo": "https://www.mavintophospital.com/src/assets/Images/Logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHpOBksVj8gw66RQwXYfO3L8XFhzH8_Y_mXQXK_04jK15-agoxIBUwQDidQLCCmcBlYXLet8WdPnA6P5Tr42N6IoYAaIrm36N6vthJkfNk-zTzxNfiojcFHeIRE9ZwAs8mpP81=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmMxYZKZOyBR_vQH_7OS83E7sdk3CB39AKQZela4ularFNQJdQSqHqZnjCAPLqkL5paM3oihYnOtPLrhGOcZxY6Dm01l5gILDS2E8fOSIJKvfN0SqBlq8Ykg5dJTH5dIgoV3b_f7UzjFu3=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4538648,
+      "lng": 75.9052645,
+      "label": "Mavintop Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "my-heart-care-clinic-davangere",
+    "name": "My Heart Care Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Davangere, My Heart Care Clinic brings together specialists for Heart Surgery In Davangere and Cardiac Care. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davangere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099028 77098",
+    "alternatePhone": "",
+    "website": "",
+    "address": "367/1, 9th Cross Road, behind Vishweshwaraiah park, Prince Jayachamaraja Wodeyar, Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "Prince Jayachamaraja Wodeyar",
+    "landmark": "behind Vishweshwaraiah park",
+    "emergencyContact": "099028 77098",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Davangere",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnRNzYtclee4dtKSF7KKZiGBMrOhn7qyswDeAiWX5Chhe9RG3EpBu4wu9vE06cj-iHa_5pC1jvRuCGUukZMzSqgnCTMD5Ds8DeUR-5gO7YzbWsEFKoKNdRkXT-xRN3U0QdTj9iyA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnRNzYtclee4dtKSF7KKZiGBMrOhn7qyswDeAiWX5Chhe9RG3EpBu4wu9vE06cj-iHa_5pC1jvRuCGUukZMzSqgnCTMD5Ds8DeUR-5gO7YzbWsEFKoKNdRkXT-xRN3U0QdTj9iyA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4596025,
+      "lng": 75.9163471,
+      "label": "My Heart Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nandini-hospital-davangere",
+    "name": "Nandini hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Davangere, Nandini hospital brings together specialists for Gynecologist Surgery In Davangere. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davangere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097417 48147",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CWX2+4PM, Shamanur Rd, BIET, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "BIET",
+    "landmark": "BIET",
+    "emergencyContact": "097417 48147",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFta6k0JmU_6MtsXQAapo-Sl8ng9wnRzzeoQ6itwNysjzS-rBPlU4yzFn6MQYKezxToxildoWpNWTaLXIQ-68JN0dAnKpHvdsD2Qgl5H9otwcSyebXaou-VSkj_AU01xDwLdyeMkAGgkyM=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFta6k0JmU_6MtsXQAapo-Sl8ng9wnRzzeoQ6itwNysjzS-rBPlU4yzFn6MQYKezxToxildoWpNWTaLXIQ-68JN0dAnKpHvdsD2Qgl5H9otwcSyebXaou-VSkj_AU01xDwLdyeMkAGgkyM=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4478467,
+      "lng": 75.9018033,
+      "label": "Nandini hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nanjappa-hospitals-davanagere-davangere",
+    "name": "Nanjappa Hospitals - Davanagere",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nanjappa Hospitals - Davanagere is a prominent private hospital in Davangere, known for structured tertiary care across Cancer Surgery In Davangere. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Davangere.",
+    "email": "",
+    "phone": "081922 60222",
+    "alternatePhone": "",
+    "website": "http://www.nanjappahealthcare.com/",
+    "address": "Arooda Dasohi, Sri Maganuru, Basappa Road, Tharalabalu Badavane, Davangere, Karnataka 577005",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577005",
+    "locality": "Tharalabalu Badavane",
+    "landmark": "Basappa Road",
+    "emergencyContact": "081922 60222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkwBRol3ke2OYvUVQPJE3MARYMty5MK0tPItHrXWa6NqVKWiOm_p89MN6LgOu-qQBbbR2ovp2kbXk4OYUnfmyISfg1_P_ZWCbALl-ZSkTbMu6hxhWQDBFvLGpp5mlyPxQsIcNf=w1200-h900-p-k-no",
+    "logo": "https://nanjappahealthcare.com/wp-content/themes/nanjappahealthcare/images/Nanjappa-life-care-logo-1-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkwBRol3ke2OYvUVQPJE3MARYMty5MK0tPItHrXWa6NqVKWiOm_p89MN6LgOu-qQBbbR2ovp2kbXk4OYUnfmyISfg1_P_ZWCbALl-ZSkTbMu6hxhWQDBFvLGpp5mlyPxQsIcNf=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPjRxO5-EY-_o-rYJ_7OZxTGH1sgCQQkiC_5tLQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMAj2caQ3zgc3wrATsdIXyIlAEzM_masY3l2WgB=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMm1EiX4qk723kOqynCILRu2bvi6pT1NCy3iVeD=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO23u38hxGQgHjbrRUnWh3Tp6b8VeLMvpTDdUXN=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4432412,
+      "lng": 75.9216086,
+      "label": "Nanjappa Hospitals - Davanagere",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "r-s-c-heart-centre-davangere",
+    "name": "R.S.C. Heart Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Davangere often choose R.S.C. Heart Centre for its strength in Heart Surgery In Davangere and Cardiac Care. Its infrastructure includes Google rating 3.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Davangere.",
+    "email": "",
+    "phone": "078291 16993",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8th Cross, Nandi Hospital Road, P.J. Exten., Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "P.J. Exten.",
+    "landmark": "P.J. Exten.",
+    "emergencyContact": "078291 16993",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Davangere",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=14.4601771%2C75.9146251&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=14.4601771%2C75.9146251&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4601771%2C75.9146251&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4601771%2C75.9146251&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4601771,
+      "lng": 75.9146251,
+      "label": "R.S.C. Heart Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sarvajith-urology-and-super-speciality-hospital-davangere",
+    "name": "Sarvajith Urology & Super speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sarvajith Urology & Super speciality Hospital is a prominent hospital in Davangere, known for structured tertiary care across General Surgery In Davangere and Speciality Care. Its infrastructure includes Google rating 3.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Davangere.",
+    "email": "",
+    "phone": "081924 64327",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FW68+74V, 7th Main, Prince Jayachamaraja Wodeyar, Davanagere, Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "Davanagere",
+    "landmark": "Prince Jayachamaraja Wodeyar",
+    "emergencyContact": "081924 64327",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Davangere",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6gpq_JtwqxWOIPt-SBNItcpIADvJflrZgzfKWNh49ELykRUy8KHL6qD5DVKAfL_ZZyp_mWcixS7qYZVCdBk7A_-PxJljRft2UFDQs7WoUtg4Z8KoTTrC1vWfd9vVcEvjBz2FG=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6gpq_JtwqxWOIPt-SBNItcpIADvJflrZgzfKWNh49ELykRUy8KHL6qD5DVKAfL_ZZyp_mWcixS7qYZVCdBk7A_-PxJljRft2UFDQs7WoUtg4Z8KoTTrC1vWfd9vVcEvjBz2FG=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4607219,
+      "lng": 75.9153216,
+      "label": "Sarvajith Urology & Super speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shivaprakash-memorial-hospital-davangere",
+    "name": "ShivaPrakash Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Davangere, ShivaPrakash Memorial Hospital brings together specialists for Gynecologist Surgery In Davangere. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davangere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094805 42277",
+    "alternatePhone": "",
+    "website": "",
+    "address": "311/1A, Pavilion Road, Prince Jayachamaraja Wodeyar, Davanagere, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "Davanagere",
+    "landmark": "Prince Jayachamaraja Wodeyar",
+    "emergencyContact": "094805 42277",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBrayR-rFSMHrVOHJ0wdCBJB9y_5s8BXha9bVotBj8VBlJmRTxJUVi05l63Cbc2jcsxmCLLS-iRvp0pmP07QSJE-o6rrPUzRir8ud6StYFg1ulVIvjSa9hFWhkveZN-0oUjZk2lQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBrayR-rFSMHrVOHJ0wdCBJB9y_5s8BXha9bVotBj8VBlJmRTxJUVi05l63Cbc2jcsxmCLLS-iRvp0pmP07QSJE-o6rrPUzRir8ud6StYFg1ulVIvjSa9hFWhkveZN-0oUjZk2lQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4582238,
+      "lng": 75.9187082,
+      "label": "ShivaPrakash Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-bhagwan-mahaveer-jain-hospital-davangere",
+    "name": "Shree Bhagwan Mahaveer Jain Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Davangere often choose Shree Bhagwan Mahaveer Jain Hospital for its strength in Gynecologist Surgery In Davangere. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Davangere.",
+    "email": "",
+    "phone": "096060 48422",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FW69+H7X, AVK College Rd, Prince Jayachamaraja Wodeyar, Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "Prince Jayachamaraja Wodeyar",
+    "landmark": "Prince Jayachamaraja Wodeyar",
+    "emergencyContact": "096060 48422",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyJApkUCESE7uluVVb5wRM85M3a1GqrvsRbeJFq3NcW-v3U5G_mcETLKNUUWDe7srnARLJJlgnvTY4LRjP-a_Enr4R9tBjUkLmf7gHR4DdGSAJlOKi_wHXHSP0eEuZe4zHyA3CVg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyJApkUCESE7uluVVb5wRM85M3a1GqrvsRbeJFq3NcW-v3U5G_mcETLKNUUWDe7srnARLJJlgnvTY4LRjP-a_Enr4R9tBjUkLmf7gHR4DdGSAJlOKi_wHXHSP0eEuZe4zHyA3CVg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4614983,
+      "lng": 75.9182272,
+      "label": "Shree Bhagwan Mahaveer Jain Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sneha-heart-centre-davangere",
+    "name": "Sneha Heart Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sneha Heart Centre has built a strong reputation in Davangere for multidisciplinary treatment pathways covering Heart Surgery In Davangere and Cardiac Care. The facility stands out for Google rating 3.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davangere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FW37+7P4, 3rd Main Rd, MCC B Block, MCC, Davanagere, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "Davanagere",
+    "landmark": "MCC B Block",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Davangere",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=14.4531484%2C75.9143138&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=14.4531484%2C75.9143138&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4531484%2C75.9143138&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4531484%2C75.9143138&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4531484,
+      "lng": 75.9143138,
+      "label": "Sneha Heart Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "soukhyada-hospital-davanagere-davangere",
+    "name": "Soukhyada Hospital, Davanagere",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Davangere, Soukhyada Hospital, Davanagere delivers integrated care across Brain Surgery In Davangere. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Davangere.",
+    "email": "",
+    "phone": "081922 25623",
+    "alternatePhone": "",
+    "website": "https://www.soukhyadahospitals.com/",
+    "address": "Bisineer Towers, 308/7, Pavillion Road, beside Hegde Diagnostic, Prince Jayachamaraja Wodeyar, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "Prince Jayachamaraja Wodeyar",
+    "landmark": "beside Hegde Diagnostic, Prince Jayachamaraja Wodeyar, Davangere, Karnataka 577004",
+    "emergencyContact": "081922 25623",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_MWZJqdPvPJyQpljnpgBCLUgpJFKw4yRy0ZYwi-sycUNsW-Ahh5T9yKZhHi880lkao-DtwMxp9HVCVVi0ovxh-y9CbAtf5vKC500OMKSOUSjEIeHyVRQ2zJyvgOIcX-WlIggGbA=w1200-h900-p-k-no",
+    "logo": "https://www.soukhyadahospitals.com/wp-content/uploads/2020/12/soukhyada-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_MWZJqdPvPJyQpljnpgBCLUgpJFKw4yRy0ZYwi-sycUNsW-Ahh5T9yKZhHi880lkao-DtwMxp9HVCVVi0ovxh-y9CbAtf5vKC500OMKSOUSjEIeHyVRQ2zJyvgOIcX-WlIggGbA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4585162,
+      "lng": 75.9186422,
+      "label": "Soukhyada Hospital, Davanagere",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sree-harsha-shashirekha-clinic-davangere",
+    "name": "Sree Harsha Shashirekha Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sree Harsha Shashirekha Clinic has built a strong reputation in Davangere for multidisciplinary treatment pathways covering Gynecologist Surgery In Davangere. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Davangere.",
+    "email": "",
+    "phone": "097424 42174",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FW68+9CM, 6th Main Rd, Prince Jayachamaraja Wodeyar, Davanagere, Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "Davanagere",
+    "landmark": "Prince Jayachamaraja Wodeyar",
+    "emergencyContact": "097424 42174",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtolyBIhXb0hpCXAuJyy-Z7RgkoDD_U4qI3wx-OUs2QGGTtrY5j919d1ZVoy9lm0ZoXtuVwaAfwaY1wwrvVETLtq1Np3Jod93AWbX1GBSAnZL510WXK-VHFaQx5xY8acM-qwI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtolyBIhXb0hpCXAuJyy-Z7RgkoDD_U4qI3wx-OUs2QGGTtrY5j919d1ZVoy9lm0ZoXtuVwaAfwaY1wwrvVETLtq1Np3Jod93AWbX1GBSAnZL510WXK-VHFaQx5xY8acM-qwI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4609625,
+      "lng": 75.9160339,
+      "label": "Sree Harsha Shashirekha Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-durga-hospital-davangere",
+    "name": "Sri durga hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Davangere, Sri durga hospital brings together specialists for Gynecologist Surgery In Davangere. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davangere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073378 53762",
+    "alternatePhone": "",
+    "website": "http://www.sridurgahospital.com/",
+    "address": "1461/6 8th cross, Shamanur Rd, opp. bapuji bank samudaya bhavana, Siddaveerappa Layout, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "Siddaveerappa Layout",
+    "landmark": "opp. bapuji bank samudaya bhavana",
+    "emergencyContact": "073378 53762",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTjeQn-rVc3rNkZzFL_g-puCED_MrmRumS_9RSHH9xgcyFiqxoPJSsHBwXlIhBsE2AakLaf1P1AZOGQNu-WEYi2qrbzzEELa_T8mdCTIZsUbFF7k8NfIJ2_m_6H_9mFoyFoLcC=w1200-h900-p-k-no",
+    "logo": "http://www.sridurgahospital.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTjeQn-rVc3rNkZzFL_g-puCED_MrmRumS_9RSHH9xgcyFiqxoPJSsHBwXlIhBsE2AakLaf1P1AZOGQNu-WEYi2qrbzzEELa_T8mdCTIZsUbFF7k8NfIJ2_m_6H_9mFoyFoLcC=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4486842,
+      "lng": 75.9021123,
+      "label": "Sri durga hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-mruthyunjaya-healthcare-davangere",
+    "name": "SRI MRUTHYUNJAYA HEALTHCARE ಶ್ರೀ ಮೃತ್ಯುಂಜಯ ಹೆಲ್ತ್ ಕೇರ್",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SRI MRUTHYUNJAYA HEALTHCARE ಶ್ರೀ ಮೃತ್ಯುಂಜಯ ಹೆಲ್ತ್ ಕೇರ್ has built a strong reputation in Davangere for multidisciplinary treatment pathways covering Gynecologist Surgery In Davangere. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Davangere.",
+    "email": "",
+    "phone": "080736 93266",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PB Rd, opp. Old Bus Stand, KB Extension, Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "KB Extension",
+    "landmark": "KB Extension",
+    "emergencyContact": "080736 93266",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPmRvRPP1dZrS1VOReqj1pv-buKKfb6jYtv5ozu6sGF4HIxg_mVVMLMaqjSXuKrzRugmWXev7cnTQnJ_HP5S0K3-upt4DiYsGLZoWIbP74SGjOuoVas-lAN-DvqJLklWjmcSSJyQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPmRvRPP1dZrS1VOReqj1pv-buKKfb6jYtv5ozu6sGF4HIxg_mVVMLMaqjSXuKrzRugmWXev7cnTQnJ_HP5S0K3-upt4DiYsGLZoWIbP74SGjOuoVas-lAN-DvqJLklWjmcSSJyQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEi6lpbhFtvuhO2cEIA35d--QZpOka7tHBoX1xryrXJml8PXJXTOwR26lgv5DOAwiG0Gj5zDhbd0psURugBfyuFxnsToPU01MgLjmu8KGRuXWMydqmEoCHd5TOdhlMc0kp-XGW5Xg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4667004,
+      "lng": 75.9224451,
+      "label": "SRI MRUTHYUNJAYA HEALTHCARE ಶ್ರೀ ಮೃತ್ಯುಂಜಯ ಹೆಲ್ತ್ ಕೇರ್",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-someshwara-multi-speciality-hospital-hadadi-rd-davangere",
+    "name": "Sri Someshwara Multi-Speciality Hospital || Hadadi Rd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Someshwara Multi-Speciality Hospital || Hadadi Rd has built a strong reputation in Davangere for multidisciplinary treatment pathways covering Gynecologist Surgery In Davangere and Speciality Care. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Davangere.",
+    "email": "",
+    "phone": "081922 63555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1252/A4-13C, 4TH CROSS ROAD, Hadadi Rd, SHIVAKUMARSWAMY BADAVANE, Davangere, Karnataka 577005",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577005",
+    "locality": "SHIVAKUMARSWAMY BADAVANE",
+    "landmark": "Hadadi Rd",
+    "emergencyContact": "081922 63555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGFRyUiS54BmeAtJZAWStxl-kInsC0lduRVpt94N8pHHnhj0wM0oqVM10ePEj6o6S6_ezcfGap8C0EDQAASvTO933xKvmNcWCXgeUy82aKFpwXHwnPbGxlruCtQ6z_F-QyFORO=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGFRyUiS54BmeAtJZAWStxl-kInsC0lduRVpt94N8pHHnhj0wM0oqVM10ePEj6o6S6_ezcfGap8C0EDQAASvTO933xKvmNcWCXgeUy82aKFpwXHwnPbGxlruCtQ6z_F-QyFORO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4361243,
+      "lng": 75.9227684,
+      "label": "Sri Someshwara Multi-Speciality Hospital || Hadadi Rd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ss-hospital-davangere",
+    "name": "SS hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Davangere often choose SS hospital for its strength in Brain Surgery In Davangere. Its infrastructure includes Google rating 2.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davangere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CWMR+4X3, SS Hospital Rd, Saraswathi Nagar, S O G Colony, Jayanagara B Block, Davangere, Karnataka 577005",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577005",
+    "locality": "Jayanagara B Block",
+    "landmark": "Saraswathi Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGC7GuEWrjwQyHN_uB_NBfaC1WwYbrZ3k669qXNmvQE_dCcZjsdEQL1H4y1G29tVIeeo8547r84azl_uor8oHYMJjP88gPTsusJ7LmqVa2i3mVv7MJfrN_ibp__Kmk17aRs5cN1-Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGC7GuEWrjwQyHN_uB_NBfaC1WwYbrZ3k669qXNmvQE_dCcZjsdEQL1H4y1G29tVIeeo8547r84azl_uor8oHYMJjP88gPTsusJ7LmqVa2i3mVv7MJfrN_ibp__Kmk17aRs5cN1-Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4327704,
+      "lng": 75.9424131,
+      "label": "SS hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ss-narayana-super-speciality-centre-davangere-bypass-road",
+    "name": "SS Narayana Super Speciality Centre, Davangere",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bypass Road, SS Narayana Super Speciality Centre, Davangere offers coordinated hospital care with major focus on Cancer Surgery In Davangere and Speciality Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Bypass Road.",
+    "email": "",
+    "phone": "080 6215 4101",
+    "alternatePhone": "",
+    "website": "https://www.narayanahealth.org/hospitals/davangere/ss-narayana-health-super-specialty-center/?utm_source",
+    "address": "SS High Tech Hospital Campus Jnanashankara, NH-4, Bypass Road, Karnataka 577005",
+    "city": "Bypass Road",
+    "state": "Karnataka",
+    "pincode": "577005",
+    "locality": "NH-4",
+    "landmark": "Bypass Road",
+    "emergencyContact": "080 6215 4101",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Davangere",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElYIWKjAtQ-OVgNnYAvGLKS3wT3yS9LDwY0QkpwHexICcuD2Ko_juM4iClOYwsjQStygHyMIgZP3H9xzxTLZ6unHJgw9sVf6LVBkbOFl9i6IihKhWYWwFpuaLx0jiEwMeKhbGUgw=w1200-h900-p-k-no",
+    "logo": "https://www.narayanahealth.org/images/nh-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElYIWKjAtQ-OVgNnYAvGLKS3wT3yS9LDwY0QkpwHexICcuD2Ko_juM4iClOYwsjQStygHyMIgZP3H9xzxTLZ6unHJgw9sVf6LVBkbOFl9i6IihKhWYWwFpuaLx0jiEwMeKhbGUgw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMJ9FIGOKj0fadUBGOIbAhyBvAEWdfRKFzmgORv=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMMThChIWvRjVgFTytNa_uTlyE5rjqT-SpZHIFY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMFTQ4BSrIrkJxLuMcyvegRAlcwGi0Day6PHcp9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOieqNi1nOpVY1MpypjD92CvIIUgUznvWG00-gt=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4319929,
+      "lng": 75.9413317,
+      "label": "SS Narayana Super Speciality Centre, Davangere",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "suchethana-hospital-davangere-ward-price-davangere",
+    "name": "Suchethana Hospital Davangere ward price",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Davangere, Suchethana Hospital Davangere ward price brings together specialists for Gynecologist Surgery In Davangere. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Davangere.",
+    "email": "",
+    "phone": "081922 30203",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FW59+J3X, 3rd Main Rd, Prince Jayachamaraja Wodeyar, Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "Prince Jayachamaraja Wodeyar",
+    "landmark": "Prince Jayachamaraja Wodeyar",
+    "emergencyContact": "081922 30203",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVib-C_AwwDaBs-h_JwOQ-XqRcKs9WXL79kziYLTiJNHQpk78dCAtylNxEMfdaOXt58gqA0uO_D0Tfogml4Lkp43UAnBwCfISmRTS1MX2zL3yXoUdEDytyZZUNo0FfRSdIpkfO=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVib-C_AwwDaBs-h_JwOQ-XqRcKs9WXL79kziYLTiJNHQpk78dCAtylNxEMfdaOXt58gqA0uO_D0Tfogml4Lkp43UAnBwCfISmRTS1MX2zL3yXoUdEDytyZZUNo0FfRSdIpkfO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4591116,
+      "lng": 75.9177378,
+      "label": "Suchethana Hospital Davangere ward price",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sukshema-hospital-davangere",
+    "name": "Sukshema Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sukshema Hospital has built a strong reputation in Davangere for multidisciplinary treatment pathways covering Brain Surgery In Davangere. Hospital capacity markers such as Google rating 3.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Davangere.",
+    "email": "",
+    "phone": "081922 23863",
+    "alternatePhone": "",
+    "website": "http://www.sukshemahospital.com/",
+    "address": "FW45+CJ9, MCC B Block, MCC, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "MCC",
+    "landmark": "MCC",
+    "emergencyContact": "081922 23863",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHabxnsQJxYTaippZMTO7ahONuXMXe30ntQfew9QR47641aEKoslxG1JzQ6tmkorCObOC6KCmgWHa7aAJ10oEeDRq6Xr_uwduZL3Tl4w_M-YvXAiK0AiAI1B_jschE1qhuEBUXMCg=w1200-h900-p-k-no",
+    "logo": "https://www.sukshemahospital.com/wp-content/uploads/2019/02/Sukshema-Hospital-Davangere-Logo-img.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHabxnsQJxYTaippZMTO7ahONuXMXe30ntQfew9QR47641aEKoslxG1JzQ6tmkorCObOC6KCmgWHa7aAJ10oEeDRq6Xr_uwduZL3Tl4w_M-YvXAiK0AiAI1B_jschE1qhuEBUXMCg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4560381,
+      "lng": 75.909198,
+      "label": "Sukshema Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "suryodaya-hospital-davanagere",
+    "name": "Suryodaya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Suryodaya Hospital is a prominent hospital in Davanagere, known for structured tertiary care across Gynecologist Surgery In Davangere. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davanagere.",
+    "email": "",
+    "phone": "099725 23910",
+    "alternatePhone": "",
+    "website": "",
+    "address": "#310, Shiva Sadana Building, Pavilion Road, Prince Jayachamaraja Wodeyar, Davanagere, Karnataka 577004",
+    "city": "Davanagere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "Prince Jayachamaraja Wodeyar",
+    "landmark": "Pavilion Road",
+    "emergencyContact": "099725 23910",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiA6DeSzhbBlayxO9flN09PY-n-vkCLTrWzeqVhnGIU0K8ZokgrtX-twuoQvVmau0ilq7XCAGRED91OVyie_S763ulNge1aTGjiBc5upe7XO3eh4rOLDKq0b3IcKRONZ32G3pm=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiA6DeSzhbBlayxO9flN09PY-n-vkCLTrWzeqVhnGIU0K8ZokgrtX-twuoQvVmau0ilq7XCAGRED91OVyie_S763ulNge1aTGjiBc5upe7XO3eh4rOLDKq0b3IcKRONZ32G3pm=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4583726,
+      "lng": 75.9186618,
+      "label": "Suryodaya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "tawakkul-hospital-davangere",
+    "name": "Tawakkul hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Davangere often choose Tawakkul hospital for its strength in Gynecologist Surgery In Davangere. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Davangere.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.tawakkulhospital.com/",
+    "address": "FWP8+6JJ, Davangere, Karnataka 577001",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577001",
+    "locality": "",
+    "landmark": "Karnataka 577001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0QUB6iv4Hg3jhO0if4AoaHcNc40S-z3-8RFbh-dabJJUX136_fvrFjOQXtaYV47i4dpL-bOZgujuizIB7HqK6is2QFcGWBIYxy_h3Pb3cmno73w1PmBxOA0mUnpbrCdo7tp3l=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0QUB6iv4Hg3jhO0if4AoaHcNc40S-z3-8RFbh-dabJJUX136_fvrFjOQXtaYV47i4dpL-bOZgujuizIB7HqK6is2QFcGWBIYxy_h3Pb3cmno73w1PmBxOA0mUnpbrCdo7tp3l=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4855909,
+      "lng": 75.916517,
+      "label": "Tawakkul hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "veda-maternal-and-child-health-centre-davangere",
+    "name": "Veda Maternal And Child Health Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Davangere often choose Veda Maternal And Child Health Centre for its strength in Gynecologist Surgery In Davangere and Women and Child Care. With public-facing highlights like Google rating 3.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davangere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FW36+RJW, 7th Main Road, MCC B Block, MCC, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "MCC",
+    "landmark": "MCC B Block",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6mo6ZA53EqinQxGQbE1DRjHQ1GsMzYchKZtnz1Z6F8kSC43kchLoR6tNeYW7oS2TVy0tV69QKa7p_Uz3c2CbgIu_-5L6oMr7XN0g4r9FTS5U7pTUIw0c3U3UQEyjvOX5uAcT-kHyVzcY8=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6mo6ZA53EqinQxGQbE1DRjHQ1GsMzYchKZtnz1Z6F8kSC43kchLoR6tNeYW7oS2TVy0tV69QKa7p_Uz3c2CbgIu_-5L6oMr7XN0g4r9FTS5U7pTUIw0c3U3UQEyjvOX5uAcT-kHyVzcY8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4545622,
+      "lng": 75.9115597,
+      "label": "Veda Maternal And Child Health Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vishwaradhya-cancer-hospital-and-research-institute-davangere",
+    "name": "Vishwaradhya Cancer Hospital and Research Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vishwaradhya Cancer Hospital and Research Institute is a prominent hospital in Davangere, known for structured tertiary care across Cancer Surgery In Davangere. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "098444 58881",
+    "alternatePhone": "",
+    "website": "https://www.vchindia.org/",
+    "address": "Apoorva Resort, Bada Cross, Avaragere, Davangere, Karnataka 577003",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577003",
+    "locality": "Avaragere",
+    "landmark": "Avaragere",
+    "emergencyContact": "098444 58881",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSVWzmvpTaICDq5rTWb9xrQIZnNmILOTLbOX3el_Pp9VLd3BWsOw9l0vLJ8y4uE0KzEkm4BMJKDHSzt9XNqp-QXro5eB6gWngD-P4VZP3B5J-wZOFWaZmchyb2nqCodWwa5rWl8cQHuwO4=w1200-h900-p-k-no",
+    "logo": "https://www.vchindia.org/assets/img/logo/onco-india.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSVWzmvpTaICDq5rTWb9xrQIZnNmILOTLbOX3el_Pp9VLd3BWsOw9l0vLJ8y4uE0KzEkm4BMJKDHSzt9XNqp-QXro5eB6gWngD-P4VZP3B5J-wZOFWaZmchyb2nqCodWwa5rWl8cQHuwO4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4331643,
+      "lng": 75.9623503,
+      "label": "Vishwaradhya Cancer Hospital and Research Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vishwas-life-care-davangere",
+    "name": "Vishwas Life Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Davangere, Vishwas Life Care brings together specialists for Gynecologist Surgery In Davangere. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Davangere can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075800 75866",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FW59+9VW, Maganuru Basappa Rd, Davanagere, Davangere, Karnataka 577002",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577002",
+    "locality": "Davanagere",
+    "landmark": "Davanagere",
+    "emergencyContact": "075800 75866",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHq8bxEm-_x21ipfWopjPHqDLVPINWVT35VkendGfxGgsXbh1oisSYb5RmhJW5Y71a8WuvqlO8Hro7TcSLepl-JlIVXQEvLvRmwsSYjNA9kRezYXYar8brINWAEQT7X_KkEsd97Iw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHq8bxEm-_x21ipfWopjPHqDLVPINWVT35VkendGfxGgsXbh1oisSYb5RmhJW5Y71a8WuvqlO8Hro7TcSLepl-JlIVXQEvLvRmwsSYjNA9kRezYXYar8brINWAEQT7X_KkEsd97Iw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJgvmcCgyJwNWB9gYv-UIHakC4pokXfbGc_kFUqYheAYzpzGJjSWzkVa6yi8KftpNQiPDXSKSLMqmrxsw5rw6hJkaaOi7WQDcQy1R52GQt1ZJkTcNSJi5GcyJTVXXOglmY38U=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4584875,
+      "lng": 75.9197031,
+      "label": "Vishwas Life Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vishwas-super-speciality-hospital-davangere-davangere",
+    "name": "VISHWAS SUPER SPECIALITY HOSPITAL, DAVANGERE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "VISHWAS SUPER SPECIALITY HOSPITAL, DAVANGERE is a prominent hospital in Davangere, known for structured tertiary care across Brain Surgery In Davangere and Speciality Care. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "097435 86350",
+    "alternatePhone": "",
+    "website": "https://vishwashospitals.com/",
+    "address": "1st Main Rd, near LAKSHMI FLOUR MILL, Nijalingappa Layout, Davangere, Karnataka 577004",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577004",
+    "locality": "Nijalingappa Layout",
+    "landmark": "near LAKSHMI FLOUR MILL, Nijalingappa Layout, Davangere, Karnataka 577004",
+    "emergencyContact": "097435 86350",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Davangere",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHT8v0LU0L08UENFjKoUwaUBtKrN0CySYmPKiwlk1OIK1JvPUXfvNBEXA4TuA96yKgYSDE-cZJMz7fctBeMHVoS7T6FqsqreDgRcbm37LS33zzRd6WguSMB6yrySwxxfq5ksuk=w1200-h900-p-k-no",
+    "logo": "http://vishwashospitals.com/wp-content/uploads/2024/03/LOGO-removebg-preview.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHT8v0LU0L08UENFjKoUwaUBtKrN0CySYmPKiwlk1OIK1JvPUXfvNBEXA4TuA96yKgYSDE-cZJMz7fctBeMHVoS7T6FqsqreDgRcbm37LS33zzRd6WguSMB6yrySwxxfq5ksuk=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4574341,
+      "lng": 75.9071243,
+      "label": "VISHWAS SUPER SPECIALITY HOSPITAL, DAVANGERE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "women-and-children-hospital-davanagere-davangere",
+    "name": "Women and Children Hospital || Davanagere",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted government hospital in Davangere, Women and Children Hospital || Davanagere delivers integrated care across Gynecologist Surgery In Davangere and Women and Child Care. The facility stands out for Google rating 3.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FWCF+329, Mandipet, Davanagere, Davangere, Karnataka 577001",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577001",
+    "locality": "Davanagere",
+    "landmark": "Davanagere",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Davangere",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEcDxlbr1u9M9ls2qYAgV2RqBNqjIcQTjSyk0gSKC-t9_0D-ndFXYyeOrR5A2hI74NSUppBWxVXycZJ3uzgVTfDJ22LPn6fFctIFMKbrUd0FtDohtgY12OXtgIXI0Zjsko1C8I=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEcDxlbr1u9M9ls2qYAgV2RqBNqjIcQTjSyk0gSKC-t9_0D-ndFXYyeOrR5A2hI74NSUppBWxVXycZJ3uzgVTfDJ22LPn6fFctIFMKbrUd0FtDohtgY12OXtgIXI0Zjsko1C8I=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE13wUhyu3Gn8FF8CB7fg6t3AhQM-Q6r9j987-SNAEsAbHGkSDSp56r2DgKwiAhRhMi0imkvieLAloMrX5XVIIznqYyxBcgyvoi2Nodc-nEtipiZkZlt_bgR26-uCHwU0WbT7Om=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4701539,
+      "lng": 75.9225983,
+      "label": "Women and Children Hospital || Davanagere",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "women-s-health-care-and-raj-fertility-centre-davangere",
+    "name": "Women's Health Care & Raj Fertility Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Davangere, Women's Health Care & Raj Fertility Centre delivers integrated care across IVF In Davangere, Women and Child Care, and Fertility Care. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Davangere.",
+    "email": "",
+    "phone": "099457 09334",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1253/3, Hadadi Rd, beside Ambassador Hotel, opposite Lakshmi Venkateswara granites, Jeevan Bhima Nagara, Shivakumara swamy Badavane, Shivakumara Swamy Nagara, Lokikere, Davangere, Karnataka 577005",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577005",
+    "locality": "Lokikere",
+    "landmark": "beside Ambassador Hotel, opposite Lakshmi Venkateswara granites, Jeevan Bhima Nagara, Shivakumara swamy Badavane, Shivakumara Swamy Nagara, Lokikere, Davangere, Karnataka 577005",
+    "emergencyContact": "099457 09334",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Davangere",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVnJ2liYjUM8L9GzWQ_hoP0CV9ASukj2KTaPEpJUuGNQI_KJM9hYuZWP2tbr7abkI5x2LyY1maKGRAE1-9uBSznRCpQQZtsyTQ-CET4bxydorYN4Ftn_dqO1fbViumjC2tSwj5=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVnJ2liYjUM8L9GzWQ_hoP0CV9ASukj2KTaPEpJUuGNQI_KJM9hYuZWP2tbr7abkI5x2LyY1maKGRAE1-9uBSznRCpQQZtsyTQ-CET4bxydorYN4Ftn_dqO1fbViumjC2tSwj5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2RjOp4GVQTXzBhPWZBEW8gsh_ll5dEEyBjkGHTxCbkErB851VH73XergGDtAXhx_x9LYJv5DEfWp66t0iK9e5MOaD02EzG9GGZgfw452jASr5LPpYtZKMb48opkMmIl9J9-2S=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjbICYrNV3fDyELnMKrc1weC889P4uBdiLVlmK-s1Huq6lcycaeQZIh-tIxT9CBwR7JaQ6_Y61wzfuCSclsmOyfkoZEFSUZ6t_eCP9IHXf42-BpAm88_ZATii_i8OPhOQuVm3V=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHW-TSrbHq8DwTE5kg4Zz15KpAvq6kWU_Sblur7tAq1sW9EGLXcd2c9_QhRnEbpIaIq0duQ3sH2lOt2TeaUMd8eJ1LoTQuTOMRyBEQ4EEtRHN7JfIHle5Me9LkgSAycmwJ_6M=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4351146,
+      "lng": 75.9229857,
+      "label": "Women's Health Care & Raj Fertility Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "women-s-healthcare-and-raj-fertility-centre-davangere",
+    "name": "Women's Healthcare & Raj Fertility centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Davangere, Women's Healthcare & Raj Fertility centre delivers integrated care across IVF In Davangere, Women and Child Care, and Fertility Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Davangere.",
+    "email": "",
+    "phone": "070223 21966",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CWXH+3MP, 236/17, Opp Ninchana Public School, Durgambika, Ganesh Temple Rd, opposite Nittuvalli Road, Durgambika Layout, Nittuvalli, Davangere, Karnataka 577008",
+    "city": "Davangere",
+    "state": "Karnataka",
+    "pincode": "577008",
+    "locality": "Nittuvalli",
+    "landmark": "opposite Nittuvalli Road, Durgambika Layout, Nittuvalli, Davangere, Karnataka 577008",
+    "emergencyContact": "070223 21966",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Davangere",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=14.4476415%2C75.9292899&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=14.4476415%2C75.9292899&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4476415%2C75.9292899&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=14.4476415%2C75.9292899&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 14.4476415,
+      "lng": 75.9292899,
+      "label": "Women's Healthcare & Raj Fertility centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

@@ -1,0 +1,18161 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "abc-medical-centre-erode",
+    "name": "ABC Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, ABC Medical Centre offers coordinated hospital care with major focus on Heart Surgery In Erode. Operational strengths including Google rating 4.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "097509 34568",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H 18, Periyar Nagar, Opp Periyar Nagar Arch, Surampatti, 368, Periyar Nagar Rd, Periyar Nagar, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Periyar Nagar",
+    "landmark": "Opp Periyar Nagar Arch",
+    "emergencyContact": "097509 34568",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErfs-a0ZJxGPT2zbnq7nZM8FLJi0XRX6hccsPeYmHjSgfPI8kLwJDS779MhQEpGJbkbwPmdo0i8Z_HUcsXegDpiSLzGsaf-AstBbME_NYu_YT1YmrUc7IZgKykg5YVxlXVywZv6Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErfs-a0ZJxGPT2zbnq7nZM8FLJi0XRX6hccsPeYmHjSgfPI8kLwJDS779MhQEpGJbkbwPmdo0i8Z_HUcsXegDpiSLzGsaf-AstBbME_NYu_YT1YmrUc7IZgKykg5YVxlXVywZv6Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3308244,
+      "lng": 77.7201571,
+      "label": "ABC Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "abi-hospital-maternity-and-child-care-erode",
+    "name": "Abi Hospital(Maternity and Child Care )",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Abi Hospital(Maternity and Child Care ) is a prominent hospital in Erode, known for structured tertiary care across Gynecologist Surgery In Erode and Women and Child Care. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "0424 222 2219",
+    "alternatePhone": "",
+    "website": "",
+    "address": "195, Cauvery Rd, opposite to Paari complex, Janakiammal Layout, Karungalpalayam, Erode, Tamil Nadu 638003",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638003",
+    "locality": "Karungalpalayam",
+    "landmark": "opposite to Paari complex, Janakiammal Layout, Karungalpalayam, Erode, Tamil Nadu 638003",
+    "emergencyContact": "0424 222 2219",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMece63xUAzPUxcn95obSB8xbEWmW_duUKD9mC3MqxR3ajE0xYwVug7kT1LHnkrg8l4DtU8UR9NX3Gf71pFB5hu1yr8thY46WKt1o21j3vDJVUFxV-ebWXiGyz7ApS6sRKKf07=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMece63xUAzPUxcn95obSB8xbEWmW_duUKD9mC3MqxR3ajE0xYwVug7kT1LHnkrg8l4DtU8UR9NX3Gf71pFB5hu1yr8thY46WKt1o21j3vDJVUFxV-ebWXiGyz7ApS6sRKKf07=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGci3MxWBlQivb_5s4iVLmbwbMBR3G-cbwNohEd0ydtJ-uAIFrcLZtxDZMd4v-aQITUg0RlZcv-LfT-Niu4qIef8pKVrRUmG6VisgUdxksjb-9wmeN__fHKLXU-Qg3Qyo4MDegS=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHaErb9NJDNhqXeLuQtUuX9uLMVUnTUHG8jWYNzc3Leuv9A1fqcGuJuGX7phfr8gSjrWquiAuqfgd7Q-QPLWY7N28-5FCGA_tPth3N4M644BJ6SHxrjkPkyePTTQNGyj_JEF3F4omhCBj3W=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.350139,
+      "lng": 77.7326267,
+      "label": "Abi Hospital(Maternity and Child Care )",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "abirami-eye-hospital-erode",
+    "name": "Abirami Eye hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Abirami Eye hospital delivers integrated care across Spine Neurosurgeon In Erode. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "093608 16240",
+    "alternatePhone": "",
+    "website": "",
+    "address": "EVN Rd, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "EVN Rd",
+    "landmark": "Tamil Nadu 638009",
+    "emergencyContact": "093608 16240",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVFFFYgbiJKev_YwtUlCuffTMWVI6OeV2PprimPzu1e0MhxLfEt57PykFN7dXy35wUWct7pjap6y9rKjNsxf4E3QOade6wd_jtG1R8tRueL6Uw1pJ7ss0Zb8DYfzuIrhEONwbRVA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVFFFYgbiJKev_YwtUlCuffTMWVI6OeV2PprimPzu1e0MhxLfEt57PykFN7dXy35wUWct7pjap6y9rKjNsxf4E3QOade6wd_jtG1R8tRueL6Uw1pJ7ss0Zb8DYfzuIrhEONwbRVA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.337436,
+      "lng": 77.7177371,
+      "label": "Abirami Eye hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "abishek-hospital-erode",
+    "name": "Abishek hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Abishek hospital delivers integrated care across Cancer Surgery In Erode. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://abishekhospital.com/",
+    "address": "Erode Fort, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Erode Fort",
+    "landmark": "Tamil Nadu 638001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpAmndg7mvkpXKh59Ljwpip6MOab0LavqhKScREMCZjM84j3k5cjOLRScvjQTbQ0OSSayq549xVi2jqjtNEyT9NlD0aRj2uAlva7-9mwOZoAz6jgwtc8DnMe65sD0NxVbp4mX6Uw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpAmndg7mvkpXKh59Ljwpip6MOab0LavqhKScREMCZjM84j3k5cjOLRScvjQTbQ0OSSayq549xVi2jqjtNEyT9NlD0aRj2uAlva7-9mwOZoAz6jgwtc8DnMe65sD0NxVbp4mX6Uw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.341532,
+      "lng": 77.7191778,
+      "label": "Abishek hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "adhitya-multicare-hospital-erode",
+    "name": "Adhitya Multicare Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Adhitya Multicare Hospital is a prominent hospital in Erode, known for structured tertiary care across General Surgery In Erode. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "092822 10001",
+    "alternatePhone": "",
+    "website": "",
+    "address": "5, Kumarasamy St, Kaikolar Thottam, Chidambaram Colony, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Chidambaram Colony",
+    "landmark": "Kaikolar Thottam",
+    "emergencyContact": "092822 10001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVoKcxz-NCFT3LYeh8Q2-_sw70HmC4a9tp_f30Qbnjr0Y8-yNZTapZRIxty2aws1PouNTJFD63KEirvsGcrWHdzkk_Ws-q9F3BgfGtoLee_8xv6hH4kAtsoAIa-MYLhl5uWgYr=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVoKcxz-NCFT3LYeh8Q2-_sw70HmC4a9tp_f30Qbnjr0Y8-yNZTapZRIxty2aws1PouNTJFD63KEirvsGcrWHdzkk_Ws-q9F3BgfGtoLee_8xv6hH4kAtsoAIa-MYLhl5uWgYr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_kVOiMnlpNIJe51ZfGY2PN24tYiYmVKLjT3vHRNeqwTtStgMFo7WxGAX_PgFWZu-cw4hAPmtcQhJ5179QSM1zWWGH6YY_n2AGEeIyRa9aLXls728mvsXzyC2pPxHXYUJ1kPL3CFa-io9Y=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3352067,
+      "lng": 77.719769,
+      "label": "Adhitya Multicare Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aditya-medical-centre-and-hospital-erode",
+    "name": "Aditya Medical Centre and Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aditya Medical Centre and Hospital is a prominent hospital in Erode, known for structured tertiary care across Gynecologist Surgery In Erode. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 228 3526",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SH 37, Housing Unit, Nadarmedu, Erode, Tamil Nadu 638002",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638002",
+    "locality": "Nadarmedu",
+    "landmark": "Nadarmedu",
+    "emergencyContact": "0424 228 3526",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEf49HGh6IXwF2khuF3OOhP8kkzTEx5TyITjaWgIsaIa7mssKK90O-M0OwnfX44lsIEqZAqDxz_ib4rayZcD4iysIUpf598wzunGcDXd05VcWZA0k4s_TV_FwERGQwdcNwtpg1K=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEf49HGh6IXwF2khuF3OOhP8kkzTEx5TyITjaWgIsaIa7mssKK90O-M0OwnfX44lsIEqZAqDxz_ib4rayZcD4iysIUpf598wzunGcDXd05VcWZA0k4s_TV_FwERGQwdcNwtpg1K=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3210554,
+      "lng": 77.7276304,
+      "label": "Aditya Medical Centre and Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "agathiyar-siddha-hospital-erode",
+    "name": "Agathiyar Siddha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Agathiyar Siddha Hospital is a prominent hospital in Erode, known for structured tertiary care across Cancer Surgery In Erode. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "099949 22222",
+    "alternatePhone": "",
+    "website": "https://www.agathiyarsiddhahospital.in/",
+    "address": "17, Main Street, inside LIC Arch, LIC Nagar, Bharathi Nagar, Moolapalayam, Erode, Tamil Nadu 638002",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638002",
+    "locality": "Moolapalayam",
+    "landmark": "inside LIC Arch",
+    "emergencyContact": "099949 22222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEYEZ2t_oTUvBRJNpxGGrgPZzaFDlqmQcySX45mC-B0psOGKaad50UDnsZFhaFymi5r7InoqONcF98tiXdSvQEc9A3-PlgINDiialIwKPe2LrZDQmEKGvtD4lUaJ_yRZvbx0m3Q=w1200-h900-p-k-no",
+    "logo": "https://www.agathiyarsiddhahospital.in/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEYEZ2t_oTUvBRJNpxGGrgPZzaFDlqmQcySX45mC-B0psOGKaad50UDnsZFhaFymi5r7InoqONcF98tiXdSvQEc9A3-PlgINDiialIwKPe2LrZDQmEKGvtD4lUaJ_yRZvbx0m3Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3173825,
+      "lng": 77.7254865,
+      "label": "Agathiyar Siddha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ajay-gastro-hospital-erode",
+    "name": "Ajay Gastro Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Ajay Gastro Hospital brings together specialists for Liver Transplant Surgery In Erode and Gastroenterology. Operational strengths including Google rating 3.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PJC+P7Q, Periyar Nagar, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Periyar Nagar",
+    "landmark": "Erode",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3318448%2C77.720727&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3318448%2C77.720727&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3318448%2C77.720727&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3318448%2C77.720727&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3318448,
+      "lng": 77.720727,
+      "label": "Ajay Gastro Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ajay-hospital-diabetes-care-erode",
+    "name": "Ajay Hospital Diabetes Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ajay Hospital Diabetes Care has built a strong reputation in Erode for multidisciplinary treatment pathways covering Liver Transplant Surgery In Erode and Diabetology. Its infrastructure includes Google rating 3.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PJC+P6W, Erode-Dharapuram Rd, Periyar Nagar, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Periyar Nagar",
+    "landmark": "Periyar Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode",
+      "Diabetology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3318636%2C77.7205761&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3318636%2C77.7205761&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3318636%2C77.7205761&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3318636%2C77.7205761&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3318636,
+      "lng": 77.7205761,
+      "label": "Ajay Hospital Diabetes Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "anusha-hospital-erode",
+    "name": "Anusha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Anusha Hospital has built a strong reputation in Erode for multidisciplinary treatment pathways covering Gynecologist Surgery In Erode. The facility stands out for Google rating 3.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PQ8+VP8, EVN Rd, Chidambaram Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Chidambaram Colony",
+    "landmark": "Chidambaram Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdBtvKc5wFPOjccVEe0pLqslTjIL2VRC2OEkiu_OuNbYLUNqsZG9ZEmh2unqKn6deCfpwpHyCN1GOcykCMLqjJfg1J7g0Nq9pT9-VgVIXEtxjOtFWwvL4GDOBV6-X0i_jfwsI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdBtvKc5wFPOjccVEe0pLqslTjIL2VRC2OEkiu_OuNbYLUNqsZG9ZEmh2unqKn6deCfpwpHyCN1GOcykCMLqjJfg1J7g0Nq9pT9-VgVIXEtxjOtFWwvL4GDOBV6-X0i_jfwsI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.339655,
+      "lng": 77.7168251,
+      "label": "Anusha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "appachi-hospital-erode",
+    "name": "Appachi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Appachi Hospital has built a strong reputation in Erode for multidisciplinary treatment pathways covering General Surgery In Erode. With public-facing highlights like Google rating 3.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "26, Periyar Nagar Rd, Periyar Nagar, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Periyar Nagar",
+    "landmark": "Periyar Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3343154%2C77.7260738&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3343154%2C77.7260738&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3343154%2C77.7260738&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3343154%2C77.7260738&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3343154,
+      "lng": 77.7260738,
+      "label": "Appachi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aram-kidney-care-erode",
+    "name": "Aram kidney care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Aram kidney care delivers integrated care across Kidney Transplant Surgery In Erode and Kidney Care. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Nalan Hospital, 210, EVN Rd, opp. to Thanthai Periyar Government Headquarters Hospital, Nggo Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Nggo Colony",
+    "landmark": "EVN Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3398493%2C77.7168035&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3398493%2C77.7168035&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3398493%2C77.7168035&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3398493%2C77.7168035&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3398493,
+      "lng": 77.7168035,
+      "label": "Aram kidney care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "arun-hospital-erode",
+    "name": "Arun Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Arun Hospital delivers integrated care across Cancer Surgery In Erode. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "094861 92200",
+    "alternatePhone": "",
+    "website": "https://arunhospitalerode.com/",
+    "address": "89, Chinnamuthu 3rd St, Municipal Colony, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "Municipal Colony",
+    "emergencyContact": "094861 92200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3445977%2C77.7138837&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://arunhospitalerode.com/wp-content/uploads/2023/06/logo-arun-hospital.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3445977%2C77.7138837&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3445977%2C77.7138837&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3445977%2C77.7138837&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3445977,
+      "lng": 77.7138837,
+      "label": "Arun Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ashwin-hospital-and-fertility-centre-erode",
+    "name": "Ashwin Hospital & Fertility Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ashwin Hospital & Fertility Centre is a prominent hospital in Erode, known for structured tertiary care across Spine Neurosurgeon In Erode and Fertility Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 225 8393",
+    "alternatePhone": "",
+    "website": "http://www.ashwinhospitals.in/",
+    "address": "545, SKC Road, Kaikolar Thottam, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Kaikolar Thottam",
+    "landmark": "Kaikolar Thottam",
+    "emergencyContact": "0424 225 8393",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEy1B0JTOHVVGB6dYAqBkclkYh5t48d8BP5V27ppNgEfgqNJ4jGaNDqacZ9wCyjuY8l4im_W5K2DwU-1Za02CaXsPm8JtwrUx4tnGF6uyvar1Cq9knfkkIXMDvLS3dAxn21TFrYY8oiHkZE=w1200-h900-p-k-no",
+    "logo": "https://ashwinhospitals.in/wp-content/uploads/2025/12/Ashwin-Hospital-Logo-200x163.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEy1B0JTOHVVGB6dYAqBkclkYh5t48d8BP5V27ppNgEfgqNJ4jGaNDqacZ9wCyjuY8l4im_W5K2DwU-1Za02CaXsPm8JtwrUx4tnGF6uyvar1Cq9knfkkIXMDvLS3dAxn21TFrYY8oiHkZE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3330116,
+      "lng": 77.7197555,
+      "label": "Ashwin Hospital & Fertility Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ashwin-hospital-best-laparoscopy-surgery-and-multispecialty-hospital-in-gandhipuram-coimbatore-gandhipuram",
+    "name": "Ashwin Hospital | Best Laparoscopy Surgery and Multispecialty Hospital in Gandhipuram, Coimbatore",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ashwin Hospital | Best Laparoscopy Surgery and Multispecialty Hospital in Gandhipuram, Coimbatore is a prominent private hospital in Gandhipuram, known for structured tertiary care across Liver Transplant Surgery In Erode and Speciality Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Gandhipuram.",
+    "email": "",
+    "phone": "090478 00007",
+    "alternatePhone": "",
+    "website": "http://www.ashwinhospital.com/",
+    "address": "Sathy Main Road, 1, Alamu Nagar Rd, Near GP Theatre, Gandhipuram, Tamil Nadu 641006",
+    "city": "Gandhipuram",
+    "state": "Tamil Nadu",
+    "pincode": "641006",
+    "locality": "Near GP Theatre",
+    "landmark": "Near GP Theatre, Gandhipuram, Tamil Nadu 641006",
+    "emergencyContact": "090478 00007",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwcy2mhy4d7fC8ZNkeDFLDCXk58uXWWKUn7VAVhR3fxyI1jxdgmYezXqG8xii2RH5Y_rsYBIxj6_ohl4GDomX8oEUM3ixfPZYu0nIHWGLVjniCdmy8ev5KzGWYFdckEPzBHckyCA=w1200-h900-p-k-no",
+    "logo": "https://www.ashwinhospital.com/wp-content/uploads/2023/11/ashwin-hospital-logo.png.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwcy2mhy4d7fC8ZNkeDFLDCXk58uXWWKUn7VAVhR3fxyI1jxdgmYezXqG8xii2RH5Y_rsYBIxj6_ohl4GDomX8oEUM3ixfPZYu0nIHWGLVjniCdmy8ev5KzGWYFdckEPzBHckyCA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMN-KBMyQdQ3ty1qkFEkEidcn8GnkXwt74mVXEF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM7UfwAiWVFsKyArN82d2TrPY5TumqExCCtPmLC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPPPJtvGNA7QwuWnZZ57J2ViHCw815AbhhbriFI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMQ55v81WX3ax_UQhF4cbROJ5rEg8kfIXoeD8pf=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.0241257,
+      "lng": 76.9731625,
+      "label": "Ashwin Hospital | Best Laparoscopy Surgery and Multispecialty Hospital in Gandhipuram, Coimbatore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "baby-hospital-erode",
+    "name": "BABY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, BABY HOSPITAL delivers integrated care across Gynecologist Surgery In Erode. Hospital capacity markers such as Google rating 4.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "098427 08880",
+    "alternatePhone": "",
+    "website": "http://babyhospital.in/",
+    "address": "171, Nethaji Rd, Kalukadimedu, Surampattivalasu, Marapalam, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Marapalam",
+    "landmark": "Kalukadimedu",
+    "emergencyContact": "098427 08880",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGztEqRQZeUM6gGJZTTK1Mpp9wr5HMXhVtVHLsOn-SRH0lZraFGCsWhj9YJ_kIE0TzL_fLws8FXwJeBkyKsGnv0l5GBqzt5qLv-e20X28GIpcN4s3yHhCLr4saCx7PvwKzaB5bOzQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGztEqRQZeUM6gGJZTTK1Mpp9wr5HMXhVtVHLsOn-SRH0lZraFGCsWhj9YJ_kIE0TzL_fLws8FXwJeBkyKsGnv0l5GBqzt5qLv-e20X28GIpcN4s3yHhCLr4saCx7PvwKzaB5bOzQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHa6_M89uagkvUe_OMY-6XuBOpVSKIo4BmSZWE-uJhWmqkd9kt_B2JW0JLkOXu66iIWNfFmgs-2g3y7Kmzcw5M4mcWOjFdB3R30BgGb1=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHa6_M89uagkvUe_OMY-6XuBOpVSKIo4BmSZWE-uJhWmqkd9kt_B2JW0JLkOXu66iIWNfFmgs-2g3y7Kmzcw5M4mcWOjFdB3R30BgGb1foDf5s8mYYdOPITUifMzjFuejtznGVW=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3359332,
+      "lng": 77.7315662,
+      "label": "BABY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "be-well-hospitals-erode-erode",
+    "name": "Be Well Hospitals Erode",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Be Well Hospitals Erode brings together specialists for Liver Transplant Surgery In Erode. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096983 00300",
+    "alternatePhone": "",
+    "website": "https://bewellhospitals.in/24-hours-hospital-in-erode.php",
+    "address": "5&7, Gandhiji Rd, Surampattivalasu, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Surampattivalasu",
+    "landmark": "Surampattivalasu",
+    "emergencyContact": "096983 00300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXhbukPJgahJQGc_Tn3FA2-5DIr4m-txZVjTVdux_1yKHSXQXmRROuX7W5Wd0FwIWY4M-CzrF_kpDHva6L0dvpfXXhvoJw1S3C4LZdSWiVRsXv-ITpfo2Lk7i9CDY9-TjLWtv_XRTLQftt=w1200-h900-p-k-no",
+    "logo": "https://www.bewellhospitals.in/images/bewell-newLOGO.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXhbukPJgahJQGc_Tn3FA2-5DIr4m-txZVjTVdux_1yKHSXQXmRROuX7W5Wd0FwIWY4M-CzrF_kpDHva6L0dvpfXXhvoJw1S3C4LZdSWiVRsXv-ITpfo2Lk7i9CDY9-TjLWtv_XRTLQftt=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMC1LjEL43BXBBEgpwC2f9UI3VORxk6eNroMdIc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOjYssWdJGFSHmU7ifJmBaEl8fMDo6tvQ7TfRQL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPXZ32i47ZYk4D7I-4L3jp6w2HY7o6Z9c80MWRZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOM-MlWnPPr6C7xIRNnLFUsQGDfOWHLPXukyAY1=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.336717,
+      "lng": 77.727044,
+      "label": "Be Well Hospitals Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "best-children-s-hospital-erode",
+    "name": "BEST CHILDREN'S HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, BEST CHILDREN'S HOSPITAL brings together specialists for Spine Neurosurgeon In Erode and Women and Child Care. Its infrastructure includes Google rating 3.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099943 72322",
+    "alternatePhone": "",
+    "website": "",
+    "address": "947,EVN road , ERODE Opp. LKM HOSPITAL Near Surampatty, Nall road, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Nall road",
+    "landmark": "Near Surampatty, Nall road, Erode, Tamil Nadu 638009",
+    "emergencyContact": "099943 72322",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdoYqkrMcJ64UfG6pT1ZTdmznYs6sNvJuh97pHDcn8Vwk3xGMeFXk_0BC8-ARRiFePXwFoAmhhKWGYZYR-rTD-N1z2PHbbzcC8fcZkdvDt1ESRUQJxYZ8k751zIO6fj1RqCtZb=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdoYqkrMcJ64UfG6pT1ZTdmznYs6sNvJuh97pHDcn8Vwk3xGMeFXk_0BC8-ARRiFePXwFoAmhhKWGYZYR-rTD-N1z2PHbbzcC8fcZkdvDt1ESRUQJxYZ8k751zIO6fj1RqCtZb=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3344077,
+      "lng": 77.7183259,
+      "label": "BEST CHILDREN'S HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "best-neuro-erode-gayathri-best-pulmonologist-erode-umasankar-erode",
+    "name": "BEST NEURO ERODE GAYATHRI / BEST PULMONOLOGIST ERODE UMASANKAR",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BEST NEURO ERODE GAYATHRI / BEST PULMONOLOGIST ERODE UMASANKAR has built a strong reputation in Erode for multidisciplinary treatment pathways covering Cancer Surgery In Erode and Neurosciences. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "097882 55001",
+    "alternatePhone": "",
+    "website": "",
+    "address": "67, Pari Nagar, Shakthi Mahal, Backside, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Backside",
+    "landmark": "Shakthi Mahal",
+    "emergencyContact": "097882 55001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Erode",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH96tkenVRkmiGM6bKiSEGlIHOJx4P3WCWLx-TschZ2uiVUU8edNTreKM1bFZMFLruJDCKuXzV8fp2ir6jHH2RsuEXt2dlqeiw3QqKNidpzB8CIYfr-QvGHFwiVElja09U08w_Pqw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH96tkenVRkmiGM6bKiSEGlIHOJx4P3WCWLx-TschZ2uiVUU8edNTreKM1bFZMFLruJDCKuXzV8fp2ir6jHH2RsuEXt2dlqeiw3QqKNidpzB8CIYfr-QvGHFwiVElja09U08w_Pqw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3314483,
+      "lng": 77.6991171,
+      "label": "BEST NEURO ERODE GAYATHRI / BEST PULMONOLOGIST ERODE UMASANKAR",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bethesda-hospital-erode",
+    "name": "Bethesda Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bethesda Hospital has built a strong reputation in Erode for multidisciplinary treatment pathways covering Gynecologist Surgery In Erode. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "099768 39972",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Eswaran St, Periyar Nagar, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Periyar Nagar",
+    "landmark": "Erode",
+    "emergencyContact": "099768 39972",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2Q-EHRmKNJbYPHMj5yL393hCsMVPpk2dH7rkg444_XUZnyLwiUzsueGq2fiN0Pi4LBgVnfBgR1n1iwwt2hJLycSyhdCZpBC1cIsGgXlyf8xlwvUGSN_oQZ_os5cdgDpdE7F7QV62rFF3x=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2Q-EHRmKNJbYPHMj5yL393hCsMVPpk2dH7rkg444_XUZnyLwiUzsueGq2fiN0Pi4LBgVnfBgR1n1iwwt2hJLycSyhdCZpBC1cIsGgXlyf8xlwvUGSN_oQZ_os5cdgDpdE7F7QV62rFF3x=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3314589,
+      "lng": 77.7266595,
+      "label": "Bethesda Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bharani-paventhan-multispeciality-hospital-erode",
+    "name": "Bharani Paventhan multispeciality hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Bharani Paventhan multispeciality hospital delivers integrated care across Orthopedic Surgery In Erode and Speciality Care. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "098423 99798",
+    "alternatePhone": "",
+    "website": "",
+    "address": "74, Sampath Nagar, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "Edayankattuvalasu",
+    "emergencyContact": "098423 99798",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqwLxe40yqO10eqiakVKAKI98GJf6btsHO5yUtB_tdSpgzh3u73XLUfX7BBhBS2QDcSfP2XbkBVFRPzd-Qf9Kz8pJ0P5F0l7fXuogvejNHIgtGF64EC8SDe3aJyawtbaX9mF3k=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqwLxe40yqO10eqiakVKAKI98GJf6btsHO5yUtB_tdSpgzh3u73XLUfX7BBhBS2QDcSfP2XbkBVFRPzd-Qf9Kz8pJ0P5F0l7fXuogvejNHIgtGF64EC8SDe3aJyawtbaX9mF3k=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.335832,
+      "lng": 77.7081406,
+      "label": "Bharani Paventhan multispeciality hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bharath-hospital-erode",
+    "name": "Bharath Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bharath Hospital is a prominent hospital in Erode, known for structured tertiary care across Spine Neurosurgeon In Erode. With public-facing highlights like Google rating 4.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PP9+QFP, Power House Rd, Kaikolar Thottam, Chidambaram Colony, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Chidambaram Colony",
+    "landmark": "Kaikolar Thottam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGndhOGx2vwH9Hikmc3sZbVeMjOQ2Jemgoz9-Nf7t8wgvWc3_VjTpknY8xDIMey1f5eEaZkAwo770MQ4cJ2YqmW1KjVyIiWfCVSYui-krcRqu68_DY7LWFjM4_QMDFNPY6HOIZ-=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGndhOGx2vwH9Hikmc3sZbVeMjOQ2Jemgoz9-Nf7t8wgvWc3_VjTpknY8xDIMey1f5eEaZkAwo770MQ4cJ2YqmW1KjVyIiWfCVSYui-krcRqu68_DY7LWFjM4_QMDFNPY6HOIZ-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3369702,
+      "lng": 77.7187163,
+      "label": "Bharath Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bharathi-heart-and-maternity-hospital-erode",
+    "name": "Bharathi Heart & Maternity Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Bharathi Heart & Maternity Hospital for its strength in Brain Surgery In Erode and Cardiac Care. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0424 227 7001",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PM9+3G3, Nggo Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Nggo Colony",
+    "landmark": "Erode",
+    "emergencyContact": "0424 227 7001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Erode",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3fjuoFyEjdm-1XGZ7tfpuugOC6flwFICRcbnbepEaPSl1xAJU8pr22Cx9ddPDVvkeKLFIsRc0f5ut3rbLMdMoxG1Dv1MVYXHSs2nSEbHs96BNoySyhK385EBzUuWaF4YOPotELw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3fjuoFyEjdm-1XGZ7tfpuugOC6flwFICRcbnbepEaPSl1xAJU8pr22Cx9ddPDVvkeKLFIsRc0f5ut3rbLMdMoxG1Dv1MVYXHSs2nSEbHs96BNoySyhK385EBzUuWaF4YOPotELw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3326433,
+      "lng": 77.7187932,
+      "label": "Bharathi Heart & Maternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bharathiraja-medical-centre-erode",
+    "name": "Bharathiraja Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Bharathiraja Medical Centre offers coordinated hospital care with major focus on Cardiac Surgery In Erode. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 225 7079",
+    "alternatePhone": "",
+    "website": "",
+    "address": "26 ECM Layout, SKC Road, Kaikolar Thottam, Chidambaram Colony, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Chidambaram Colony",
+    "landmark": "Kaikolar Thottam",
+    "emergencyContact": "0424 225 7079",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDzugP81XWxU4RxaOVO8xfX3pnC_49HHXGdg6OFZ5lAwCDK4WQFUdllsUm06Uf4yZ4TkyYkthH7-Ne5XymshvDP_kyvqns1u0d-IIPSCJDMAqMnL1HgXYjwBl1yjezedHDsKYxpQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDzugP81XWxU4RxaOVO8xfX3pnC_49HHXGdg6OFZ5lAwCDK4WQFUdllsUm06Uf4yZ4TkyYkthH7-Ne5XymshvDP_kyvqns1u0d-IIPSCJDMAqMnL1HgXYjwBl1yjezedHDsKYxpQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3356148,
+      "lng": 77.7208552,
+      "label": "Bharathiraja Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "c-s-i-hospital-institutions-erode-erode",
+    "name": "C.S.I. Hospital Institutions Erode",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "C.S.I. Hospital Institutions Erode is a prominent hospital in Erode, known for structured tertiary care across Brain Surgery In Erode. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "084893 56521",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PB no 4, Brough Rd, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Brough Rd",
+    "landmark": "Erode",
+    "emergencyContact": "084893 56521",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF10Pf5qTvLMU7VZ1fjhrE9ICV5eDUGpHji1vMqlreSMornSbue2sc3J18Z9pMvOi4WJXTSeBKZ_EdN_pjlk8SNGbumHvABfHBj66_etyJrsDiOqWHx_PXJ4jVwLZlmRrxH75tc=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF10Pf5qTvLMU7VZ1fjhrE9ICV5eDUGpHji1vMqlreSMornSbue2sc3J18Z9pMvOi4WJXTSeBKZ_EdN_pjlk8SNGbumHvABfHBj66_etyJrsDiOqWHx_PXJ4jVwLZlmRrxH75tc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3391354,
+      "lng": 77.7251159,
+      "label": "C.S.I. Hospital Institutions Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cancare-onco-centre-erode",
+    "name": "Cancare Onco Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cancare Onco Centre has built a strong reputation in Erode for multidisciplinary treatment pathways covering Oncologist Surgery In Erode. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://cancareoncocentre.com/",
+    "address": "OA Ramasamy St, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "OA Ramasamy St",
+    "landmark": "Tamil Nadu 638009",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.337708%2C77.7155072&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.337708%2C77.7155072&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.337708%2C77.7155072&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.337708%2C77.7155072&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.337708,
+      "lng": 77.7155072,
+      "label": "Cancare Onco Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "care-24-fertility-centre-erode",
+    "name": "Care 24 Fertility Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Care 24 Fertility Centre for its strength in IVF In Erode and Fertility Care. Operational strengths including Google rating 3.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://care24fertilitycentre.com/",
+    "address": "3rd Floor, Care 24, Medical Centre & Hospital, Perundurai Rd, near Parimalam Mahal, Maruthi Nagar, Nalliyampalayam, Erode, Tamil Nadu 638012",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638012",
+    "locality": "Nalliyampalayam",
+    "landmark": "near Parimalam Mahal, Maruthi Nagar, Nalliyampalayam, Erode, Tamil Nadu 638012",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Erode",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3265519%2C77.6881457&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://care24fertilitycentre.com/wp-content/uploads/2023/08/care24-logo-2.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3265519%2C77.6881457&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3265519%2C77.6881457&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3265519%2C77.6881457&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3265519,
+      "lng": 77.6881457,
+      "label": "Care 24 Fertility Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "care-24-medical-center-and-hospital-erode",
+    "name": "Care 24 Medical Center & Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Erode, Care 24 Medical Center & Hospital delivers integrated care across Liver Transplant Surgery In Erode. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "0424 266 6666",
+    "alternatePhone": "",
+    "website": "http://care24hospital.in/",
+    "address": "No: 78/1-10, Perundurai Road, Parimalam Mahal, behind Skoda Show Room, Erode, Tamil Nadu 638012",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638012",
+    "locality": "behind Skoda Show Room",
+    "landmark": "Parimalam Mahal",
+    "emergencyContact": "0424 266 6666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpSRryNtw-6JEQyuYdd3f3XgDlXFbyugiap9aiO7U8sPSSkcbivFmw41By4Y9vjB3_29x-Cq32NT6pEY8kLLaITO0Rc8KM0p5_jYn-Be3DyBJYMOyHi6j4HOusuuzs6VIEP-8H=w1200-h900-p-k-no",
+    "logo": "https://care24hospital.in/wp-content/uploads/2023/09/favicon.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpSRryNtw-6JEQyuYdd3f3XgDlXFbyugiap9aiO7U8sPSSkcbivFmw41By4Y9vjB3_29x-Cq32NT6pEY8kLLaITO0Rc8KM0p5_jYn-Be3DyBJYMOyHi6j4HOusuuzs6VIEP-8H=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGNW5b8yOc2QwHSuzjb2qBmr4he8c-mVvp7fDuFW0ZUaofbUlu4k-28eY4P8nskKGZptCqSdBZ-PI7jxadSWiqNsZQCnqp2OzKxNfecm_NqhLH29iu24XK81ef5DT8KBSt9RuVh0A=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGD7GidDsOr5yyRGJzqMJ0siN9cef7W1G3cMZDQgsR0q-5wGD83IlHFBOvth6CL3P8ePvrbhWVcAuwoIP3z3v3SISdwtGq5OileIvWnWrBGp2sbdw-Sp4Wrv4hpeB_R2F9no7Rr4Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3265504,
+      "lng": 77.6881456,
+      "label": "Care 24 Medical Center & Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cauvery-nature-cure-centre-ayurvedic-hospital-naturopathy-hospital-in-erode-komarapalayam",
+    "name": "Cauvery Nature Cure Centre | Ayurvedic Hospital | Naturopathy Hospital in Erode",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cauvery Nature Cure Centre | Ayurvedic Hospital | Naturopathy Hospital in Erode is a prominent hospital in Komarapalayam, known for structured tertiary care across General Surgery In Erode. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Komarapalayam.",
+    "email": "",
+    "phone": "095142 95242",
+    "alternatePhone": "",
+    "website": "http://cauverynaturecurecentre.in/",
+    "address": "4/27-1, Therkkupalayam Pallipalayam, Agraharam, Taluk, post, Komarapalayam, Tamil Nadu 638008",
+    "city": "Komarapalayam",
+    "state": "Tamil Nadu",
+    "pincode": "638008",
+    "locality": "post",
+    "landmark": "Agraharam",
+    "emergencyContact": "095142 95242",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHU-dEAEEOcv6tl5e0uLGm76ISkheLVUyh9Zg9TTgUj1__Acy10AZA4hd8BFsl3wp-TACtzO7-iYHuuMcxyL8YeRLV56UaVEfv5MHD09eKpQjQgKvXRXZgcuCPyqScwbGrTaUw=w1200-h900-p-k-no",
+    "logo": "https://cauverynaturecurecentre.in/wp-content/uploads/2020/01/cauvery_logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHU-dEAEEOcv6tl5e0uLGm76ISkheLVUyh9Zg9TTgUj1__Acy10AZA4hd8BFsl3wp-TACtzO7-iYHuuMcxyL8YeRLV56UaVEfv5MHD09eKpQjQgKvXRXZgcuCPyqScwbGrTaUw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3830684,
+      "lng": 77.7711106,
+      "label": "Cauvery Nature Cure Centre | Ayurvedic Hospital | Naturopathy Hospital in Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "chandran-skin-clinic-erode",
+    "name": "Chandran Skin Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Chandran Skin Clinic has built a strong reputation in Erode for multidisciplinary treatment pathways covering Cosmetic Surgery In Erode. Hospital capacity markers such as Google rating 3.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0424 225 8993",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mettur Rd, Erode Fort, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Erode Fort",
+    "landmark": "Erode",
+    "emergencyContact": "0424 225 8993",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFow7OLWgcs6lFvGxHXnkVm9_4QUMZZpp5l7--V5AdUyMl3fkJzu4TaUGFjt3ueI8PspL9OI2az7o7ujbAkkItguWJdOL2tPkIHDqV1T0jmZYPFn9NiQenGcQCXvbErMyZ9TW8j7w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFow7OLWgcs6lFvGxHXnkVm9_4QUMZZpp5l7--V5AdUyMl3fkJzu4TaUGFjt3ueI8PspL9OI2az7o7ujbAkkItguWJdOL2tPkIHDqV1T0jmZYPFn9NiQenGcQCXvbErMyZ9TW8j7w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3411044,
+      "lng": 77.7174633,
+      "label": "Chandran Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "city-hospital-erode",
+    "name": "City Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose City Hospital for its strength in Orthopedic Surgery In Erode. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "0424 221 4000",
+    "alternatePhone": "",
+    "website": "https://www.cityhospitalerode.com/",
+    "address": "87, RKV Rd, opposite Krishna Theater, Erode, Tamil Nadu 638003",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638003",
+    "locality": "opposite Krishna Theater",
+    "landmark": "opposite Krishna Theater, Erode, Tamil Nadu 638003",
+    "emergencyContact": "0424 221 4000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0N4giNXWin9IywqGATcpRcKetKge6MQ5m5vrFvTVIDjR3afhLMRdg73lb-UzmkIOmsNrIxX6qAwDTTvJ2_9TWq2gxcIlcZM4L5bU8uwrUeVBqxc3omxR8acCKIS1IRF27w_5F6w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0N4giNXWin9IywqGATcpRcKetKge6MQ5m5vrFvTVIDjR3afhLMRdg73lb-UzmkIOmsNrIxX6qAwDTTvJ2_9TWq2gxcIlcZM4L5bU8uwrUeVBqxc3omxR8acCKIS1IRF27w_5F6w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.345132,
+      "lng": 77.730142,
+      "label": "City Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ck-medical-center-hospital-erode",
+    "name": "CK Medical Center Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, CK Medical Center Hospital delivers integrated care across Spine Surgery In Erode. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "098427 66444",
+    "alternatePhone": "",
+    "website": "https://ckmh.in/",
+    "address": "41, Balasubbarayalu St, Surampattivalasu, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Surampattivalasu",
+    "landmark": "Surampattivalasu",
+    "emergencyContact": "098427 66444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHNQiG9hsXRm6de2VlCf_XrW7kCyT3jIWlZtDkKVWHMy1KTbGjhZRhdsSx0d2zjcZyQwFd_nVPhl_fVcDJ4Y0nJHQcaQms3csyEBc1e2j3xGoUoiTauGbM3Ij3yb3wuecO_jQ=w1200-h900-p-k-no",
+    "logo": "https://www.ckmh.in/wp-content/uploads/2021/09/ckmh-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHNQiG9hsXRm6de2VlCf_XrW7kCyT3jIWlZtDkKVWHMy1KTbGjhZRhdsSx0d2zjcZyQwFd_nVPhl_fVcDJ4Y0nJHQcaQms3csyEBc1e2j3xGoUoiTauGbM3Ij3yb3wuecO_jQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNOY0SI4KImn0lGv6as2G1dr4oSW1vVwpY-KehY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPlPFDTPW2cYuW7H_8EMuqvIjNdpeINsTV1jMH4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO-510K8f9bjqZjsdqTsIvULc_twG1ATaSTJcjl=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNLbo9UjdJO_w_mLJCtX7vETK8FSP1zbf8U3fFI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.332718,
+      "lng": 77.7280918,
+      "label": "CK Medical Center Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "crescent-health-care-erode",
+    "name": "Crescent Health Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Crescent Health Care offers coordinated hospital care with major focus on Cancer Surgery In Erode. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "080157 91290",
+    "alternatePhone": "",
+    "website": "",
+    "address": "220, 1-A, EVN Rd, opposite to GH, Nggo Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Nggo Colony",
+    "landmark": "opposite to GH, Nggo Colony, Erode, Tamil Nadu 638009",
+    "emergencyContact": "080157 91290",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgw5EuCbZT59Bg1GaI7KC5M5oYxqYTiOymk1-L3ye49EXGjmkAgsPIbOyjjvmCDAkDCwvBFqQwLstJoNrV9OTI_LbqadLZXnzlYN6Xxy5QATl1sU0bJ2MkqtksI85SYVlumben=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgw5EuCbZT59Bg1GaI7KC5M5oYxqYTiOymk1-L3ye49EXGjmkAgsPIbOyjjvmCDAkDCwvBFqQwLstJoNrV9OTI_LbqadLZXnzlYN6Xxy5QATl1sU0bJ2MkqtksI85SYVlumben=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3392696,
+      "lng": 77.7168702,
+      "label": "Crescent Health Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "curie-hospital-ortho-erode",
+    "name": "CURIE HOSPITAL ORTHO",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CURIE HOSPITAL ORTHO has built a strong reputation in Erode for multidisciplinary treatment pathways covering Orthopedic Surgery In Erode and Orthopaedics. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PQ7+6JG, V Chatram, Nggo Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Nggo Colony",
+    "landmark": "Nggo Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFg-9wn0xI5g2dV5mfMYX39qgmN2mGn7baipElb3DEuQVuLnGxKSrGCsfvRK48GCNx5SByE0rAJ6w-8yuYNJ60-IgTDqlLaIsotezcxk9tXJwsBFQp3We7L2-lIC0fk-1AZjs-KFg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFg-9wn0xI5g2dV5mfMYX39qgmN2mGn7baipElb3DEuQVuLnGxKSrGCsfvRK48GCNx5SByE0rAJ6w-8yuYNJ60-IgTDqlLaIsotezcxk9tXJwsBFQp3We7L2-lIC0fk-1AZjs-KFg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.338053,
+      "lng": 77.7140858,
+      "label": "CURIE HOSPITAL ORTHO",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "daisy-hospital-erode-ayush-integrated-erode",
+    "name": "Daisy Hospital Erode [AYUSH Integrated]",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Daisy Hospital Erode [AYUSH Integrated] brings together specialists for Heart Surgery In Erode. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "091761 14400",
+    "alternatePhone": "",
+    "website": "https://daisyhospital.in/",
+    "address": "First Floor, RANM Business Center, No 33A, Thirunagar Colony Rd, above the Axis bank, Thirunagar Colony, Erode, Tamil Nadu 638003",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638003",
+    "locality": "Thirunagar Colony",
+    "landmark": "No 33A",
+    "emergencyContact": "091761 14400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHhGx_6V0u3QPMGvBKPKHPzR02RDzNSnjB3tYdaZh_d_MxCrCzIlDI298rEQLSRecHsNX5H610zw2k7XqAMOlp_OOhywd5Z8XHXtrhXwOrMxG1XUzsHrzs7zcEDhiCQEpYoJtNkOGBREuA=w1200-h900-p-k-no",
+    "logo": "https://daisyhospital.in/wp-content/uploads/2025/12/logo-out-for-website-01-scaled-125x125.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHhGx_6V0u3QPMGvBKPKHPzR02RDzNSnjB3tYdaZh_d_MxCrCzIlDI298rEQLSRecHsNX5H610zw2k7XqAMOlp_OOhywd5Z8XHXtrhXwOrMxG1XUzsHrzs7zcEDhiCQEpYoJtNkOGBREuA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNVhQVxzL6pvfL2xOmEPASXTOI6bWOoobcVsjsV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOIAm5HeK5WiTqCmE7DBmk_sSaYXcKHrVaABgcF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPJ7IC5U9zgi0EBkiRM8v1TxW6CdiIzkX3H95RQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNT7do1c05N49K-c95MvlFQ2yvlmrIdDJwtSyGU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3526707,
+      "lng": 77.7232763,
+      "label": "Daisy Hospital Erode [AYUSH Integrated]",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "devi-hospital-maternity-centre-in-erode-erode",
+    "name": "Devi Hospital - Maternity Centre in Erode",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Devi Hospital - Maternity Centre in Erode has built a strong reputation in Erode for multidisciplinary treatment pathways covering Gynecologist Surgery In Erode. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6, Devi Hospital, 453, Brough Road, Vasuki St, opp. Universal Hospital, Erode Fort, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Erode Fort",
+    "landmark": "453",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8N3n4DXW1E_McQAgxnQX7NvnoBtgacFOwg7AV7Pc37Fr1QnFr_GaQFgK2lxtIMFCi6CZKxRLj19NjMcUX90wSSa8zQ_OIovv6i45q1nD4gZXF98fBcP5BnaVUoLqQu88q4n_p=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8N3n4DXW1E_McQAgxnQX7NvnoBtgacFOwg7AV7Pc37Fr1QnFr_GaQFgK2lxtIMFCi6CZKxRLj19NjMcUX90wSSa8zQ_OIovv6i45q1nD4gZXF98fBcP5BnaVUoLqQu88q4n_p=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3411124,
+      "lng": 77.718462,
+      "label": "Devi Hospital - Maternity Centre in Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dhanvantri-critical-care-center-erode-heart-hospital-institute-of-clinical-toxicology-erode-erode",
+    "name": "Dhanvantri Critical Care Center, Erode Heart Hospital Institute Of Clinical Toxicology, Erode",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Dhanvantri Critical Care Center, Erode Heart Hospital Institute Of Clinical Toxicology, Erode offers coordinated hospital care with major focus on Heart Surgery In Erode and Cardiac Care. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.dhanvantrihospitals.com/",
+    "address": "No.27, 28, Poongundranar St, Janakiammal Layout, Karungalpalayam, Erode, Tamil Nadu 638003",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638003",
+    "locality": "Karungalpalayam",
+    "landmark": "Poongundranar St",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Erode",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQGgdedJJe-r__wIkNO_ouiwv0wVqhaloEtl34mzXtQ-wJJYsS8Y8S7h4MZDLsYauEm392AZGuL1tkGPiHzRGa1tO09YP6JPWHDHjqm10ohi4xldrrnjwq40CrvdLv7W6a5Hlarg=w1200-h900-p-k-no",
+    "logo": "https://www.dhanvantrihospitals.com/u/25321548227448/s/dhanvantri-multi-speciality-hospitals-logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQGgdedJJe-r__wIkNO_ouiwv0wVqhaloEtl34mzXtQ-wJJYsS8Y8S7h4MZDLsYauEm392AZGuL1tkGPiHzRGa1tO09YP6JPWHDHjqm10ohi4xldrrnjwq40CrvdLv7W6a5Hlarg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3508033,
+      "lng": 77.7303059,
+      "label": "Dhanvantri Critical Care Center, Erode Heart Hospital Institute Of Clinical Toxicology, Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dharan-multispeciality-hospital-salem",
+    "name": "Dharan Multispeciality Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Salem, Dharan Multispeciality Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Erode and Speciality Care. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Salem.",
+    "email": "",
+    "phone": "0427 270 9999",
+    "alternatePhone": "",
+    "website": "http://www.dharanhospital.com/",
+    "address": "14, Byepass, Selva Nagar, Chinnusamy Nagar, Seelanaickenpatti, Salem, Tamil Nadu 636201",
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "pincode": "636201",
+    "locality": "Seelanaickenpatti",
+    "landmark": "Selva Nagar",
+    "emergencyContact": "0427 270 9999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1dc6wMLIItHpog1ZNJ58Cifz3zvpxgJzNaUCqHGXwlLLsmVRqM3DRPgkvLAyyOiC9wBvXD_YfquIGGM9giDtTj6qkBWCU_kQ5cmv1XqNXKoD1btBw9LdexDqg7X7kusT7ydJnvA=w1200-h900-p-k-no",
+    "logo": "https://www.dharanhospital.com/images/logo.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1dc6wMLIItHpog1ZNJ58Cifz3zvpxgJzNaUCqHGXwlLLsmVRqM3DRPgkvLAyyOiC9wBvXD_YfquIGGM9giDtTj6qkBWCU_kQ5cmv1XqNXKoD1btBw9LdexDqg7X7kusT7ydJnvA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMEai9-8llV3MqI8cvwUAM_49iGODvnys3czky4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM3UESU5V9Nlvq8nAd1FUrw6uYOkk38mPF1DAaL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN9VHm1TvAzvSUxzUY1FQuzAnYGbxcus8N0J19s=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPSFoEfPwpQ0aeJxj8bJL36MCLY_544jKzH_sjb=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.6252778,
+      "lng": 78.1451344,
+      "label": "Dharan Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "dhinesh-ortho-care-anthiyur",
+    "name": "DHINESH ORTHO CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Anthiyur, DHINESH ORTHO CARE delivers integrated care across Orthopedic Surgery In Erode and Orthopaedics. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Anthiyur.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HHFM+M8R, Thavittupalayam, Anthiyur, Tamil Nadu 638501",
+    "city": "Anthiyur",
+    "state": "Tamil Nadu",
+    "pincode": "638501",
+    "locality": "Thavittupalayam",
+    "landmark": "Anthiyur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.5733063%2C77.5811417&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.5733063%2C77.5811417&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.5733063%2C77.5811417&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.5733063%2C77.5811417&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.5733063,
+      "lng": 77.5811417,
+      "label": "DHINESH ORTHO CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "duraisamy-ortho-hospital-erode",
+    "name": "Duraisamy Ortho Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Erode, Duraisamy Ortho Hospital delivers integrated care across Orthopedic Surgery In Erode and Orthopaedics. Its infrastructure includes Google rating 3.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PQ9+MFP, Kalaimagal Kalvi Nilayam Rd, Kaikolar Thottam, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Kaikolar Thottam",
+    "landmark": "Kaikolar Thottam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2nMfjHHRiLGNAciJsZLHdJhxs9JDsXWYYFO38stX-iNjYwtAcCbuWC6vmQRB-4rUnH26hjmt1W_MVxNBk1GPusWfAHpcImRfKZY6E_4AaCcRYYLNiYa0VZD0G_jE0w5OngNpC=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2nMfjHHRiLGNAciJsZLHdJhxs9JDsXWYYFO38stX-iNjYwtAcCbuWC6vmQRB-4rUnH26hjmt1W_MVxNBk1GPusWfAHpcImRfKZY6E_4AaCcRYYLNiYa0VZD0G_jE0w5OngNpC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElZND3rEepG2xfgh1Rr9J7NBIHAKtvZGvL91VHt6chjI8M87JqcD7Xp73bmPaJM9eKENF84bEsPSNnA7xoTiFU4-_neP6EjW8NNFgmU3lYMbaWjrdt6Jf_1rNoD75cGOhdtvq_gYyohxeO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3392018,
+      "lng": 77.7187003,
+      "label": "Duraisamy Ortho Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "eogs-erode",
+    "name": "EOGS",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, EOGS delivers integrated care across Gynecologist Surgery In Erode. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "094430 22764",
+    "alternatePhone": "",
+    "website": "http://erodeogsociety.com/contact.php",
+    "address": "3rd, Kovalan St, Teacher's colony, Teachers Colony, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Teachers Colony",
+    "landmark": "Teacher's colony",
+    "emergencyContact": "094430 22764",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3300127%2C77.7060345&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3300127%2C77.7060345&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3300127%2C77.7060345&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3300127%2C77.7060345&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3300127,
+      "lng": 77.7060345,
+      "label": "EOGS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "erode-cancer-cantre-erode",
+    "name": "Erode Cancer Cantre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Erode Cancer Cantre offers coordinated hospital care with major focus on Oncologist Surgery In Erode. Operational strengths including Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "0424 233 9704",
+    "alternatePhone": "",
+    "website": "https://erodecancercentre.com/",
+    "address": "1/393, Perundurai Rd, Velavan Nagar, Maruthi Nagar, Nalliyampalayam, Thindal, Erode, Tamil Nadu 638012",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638012",
+    "locality": "Thindal",
+    "landmark": "Velavan Nagar",
+    "emergencyContact": "0424 233 9704",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3236124%2C77.6808174&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://erodecancercentre.com/wp-content/uploads/elementor/thumbs/xErode-Cancer-Centre-Logo-PNG-2019-r06tzdwc2trmn0v1pumnpxqb7oq6to46ueml6yi7eo.png.pagespeed.ic.3qiA4LPDYx.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3236124%2C77.6808174&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3236124%2C77.6808174&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3236124%2C77.6808174&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3236124,
+      "lng": 77.6808174,
+      "label": "Erode Cancer Cantre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "erode-childcare-and-ortho-hospital-erode",
+    "name": "Erode Childcare and Ortho Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Erode Childcare and Ortho Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Erode, Orthopaedics, and Women and Child Care. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Thiru Vee Ka St, Surampatty, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Surampatty",
+    "landmark": "Erode",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode",
+      "Orthopaedics",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVT5qTC9zfRGGVeZtqLlo6J9sxBw__hYPTloADatR2Z4h-AhYL94chNeWh-E5p1dKKvREtFGE0pZWOaHvX1KPAoGpQga9NnElI9OuFTLPVPMSxLFxzulSpV9dwBaurJy96UHVh=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVT5qTC9zfRGGVeZtqLlo6J9sxBw__hYPTloADatR2Z4h-AhYL94chNeWh-E5p1dKKvREtFGE0pZWOaHvX1KPAoGpQga9NnElI9OuFTLPVPMSxLFxzulSpV9dwBaurJy96UHVh=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3273091,
+      "lng": 77.7081464,
+      "label": "Erode Childcare and Ortho Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "erode-diabetes-foundation-erode",
+    "name": "Erode Diabetes Foundation",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Erode Diabetes Foundation offers coordinated hospital care with major focus on Liver Transplant Surgery In Erode and Diabetology. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "093627 33330",
+    "alternatePhone": "",
+    "website": "https://www.erodediabetesfoundation.org/",
+    "address": "564, Maaruthi medical centre and hospital, Perundurai Rd, V Chatram, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "V Chatram",
+    "landmark": "Perundurai Rd",
+    "emergencyContact": "093627 33330",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode",
+      "Diabetology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/geougc/AF1QipN_zH5Xb_ex3Vz2QNGUhC3f4XcwcG7xGF719xTj=w1200-h900-p-k-no",
+    "logo": "https://erodediabetesfoundation.org/favicon.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/geougc/AF1QipN_zH5Xb_ex3Vz2QNGUhC3f4XcwcG7xGF719xTj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNJ_maf7WZd2mR_2tz1x60nZd6YdgSCa9lnDYV0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNpvyW93M0y0yZ3ayarbPWMeQ7kax=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNpvyW93M0y0yZ3ayarbPWMeQ7kaxV2IKDVHJQE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPnuvPXQY82bzh5GyVBQ-ApgW-9V6-ZVZr3ikmV=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3382719,
+      "lng": 77.7135699,
+      "label": "Erode Diabetes Foundation",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "erode-emergency-care-hospital-eech-erode",
+    "name": "Erode Emergency Care Hospital (EECH)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Erode Emergency Care Hospital (EECH) offers coordinated hospital care with major focus on Cardiac Surgery In Erode. Its infrastructure includes Google rating 3.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8MJM+V3R, Maruthi Nagar, Erode, Tamil Nadu 638012",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638012",
+    "locality": "Maruthi Nagar",
+    "landmark": "Erode",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3_Ouy7To-1Uxr7Sy_YWdWc4R_CrMRZhXztthn2742RhlFl5GsX6MSmVGCzODf9G8l2Yi3UoH85siyIo4XIsydYWRjkkFhrDjEqyOOlXp6ehP26uPP3-Ei8GrvUB_gufzg2CBO=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3_Ouy7To-1Uxr7Sy_YWdWc4R_CrMRZhXztthn2742RhlFl5GsX6MSmVGCzODf9G8l2Yi3UoH85siyIo4XIsydYWRjkkFhrDjEqyOOlXp6ehP26uPP3-Ei8GrvUB_gufzg2CBO=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3322394,
+      "lng": 77.6826341,
+      "label": "Erode Emergency Care Hospital (EECH)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "erode-fetal-medicine-centre-erode",
+    "name": "Erode Fetal Medicine Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Erode Fetal Medicine Centre has built a strong reputation in Erode for multidisciplinary treatment pathways covering Heart Surgery In Erode and Fetal Medicine. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "075399 22442",
+    "alternatePhone": "",
+    "website": "https://erodefetalmedicine.com/",
+    "address": "004/005, Muthukaruppan street, next to Gem hospital, Erode 9, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Erode 9",
+    "landmark": "next to Gem hospital",
+    "emergencyContact": "075399 22442",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Erode",
+      "Fetal Medicine"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0DXD576cccC1xEiAcZbwul-HUzqHpYYhGBd8Nks3xr93uWUlBXTG25A8r0yUxM5BW8_M2wlBfoDdcMQteZdeDt_SOZjMJ-EKdUbAeM5VMzgXQelRamPN9YR5ddgakNUeGDixR=w1200-h900-p-k-no",
+    "logo": "https://erodefetalmedicine.com/wp-content/uploads/2022/12/Logo-2-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0DXD576cccC1xEiAcZbwul-HUzqHpYYhGBd8Nks3xr93uWUlBXTG25A8r0yUxM5BW8_M2wlBfoDdcMQteZdeDt_SOZjMJ-EKdUbAeM5VMzgXQelRamPN9YR5ddgakNUeGDixR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3380896,
+      "lng": 77.7155056,
+      "label": "Erode Fetal Medicine Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "erode-kaveri-multispeciality-hospital-erode",
+    "name": "Erode Kaveri Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Erode Kaveri Multispeciality Hospital delivers integrated care across Liver Transplant Surgery In Erode and Speciality Care. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 355 3600",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mosuvanna St, Kaikolar Thottam, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Kaikolar Thottam",
+    "landmark": "Erode",
+    "emergencyContact": "0424 355 3600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3350721%2C77.7193533&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3350721%2C77.7193533&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3350721%2C77.7193533&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3350721%2C77.7193533&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3350721,
+      "lng": 77.7193533,
+      "label": "Erode Kaveri Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "erode-kidneys-centre-erode",
+    "name": "Erode Kidneys Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Erode Kidneys Centre brings together specialists for Liver Transplant Surgery In Erode and Kidney Care. With public-facing highlights like Google rating 3.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0424 225 6434",
+    "alternatePhone": "",
+    "website": "",
+    "address": "13, Muthu Karuppan St, Nggo Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Nggo Colony",
+    "landmark": "Nggo Colony",
+    "emergencyContact": "0424 225 6434",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.338405%2C77.7166186&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.338405%2C77.7166186&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.338405%2C77.7166186&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.338405%2C77.7166186&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.338405,
+      "lng": 77.7166186,
+      "label": "Erode Kidneys Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "erode-medical-centre-erode",
+    "name": "Erode Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Erode Medical Centre delivers integrated care across Liver Transplant Surgery In Erode. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "073730 97188",
+    "alternatePhone": "",
+    "website": "http://www.emcerode.com/",
+    "address": "No.374/2, R.S, 3, & 5, Perundurai Rd, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Perundurai Rd",
+    "landmark": "3",
+    "emergencyContact": "073730 97188",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxEUNHMYoaIH1WVeCNsc1N_dzpYOO4g3VKydIKKtXW0BnzCJT67BWwQYiiPrmLyX4CIJ_66DGwafVvH4l0dpk-_dI5dEeX0w-dBJHUrQKLu4UAB-WSbmljPUBqkz_cHVPcef-FFR3pswcj=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxEUNHMYoaIH1WVeCNsc1N_dzpYOO4g3VKydIKKtXW0BnzCJT67BWwQYiiPrmLyX4CIJ_66DGwafVvH4l0dpk-_dI5dEeX0w-dBJHUrQKLu4UAB-WSbmljPUBqkz_cHVPcef-FFR3pswcj=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZdb620Rs8HKIfnPpzc3A3qpiphO8tkzBR-nNW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZdb620Rs8HKIfnPpzc3A3qpiphO8tkzBR-nNWgsk7oYtK3-FkuLursw5FAYfsDlRf1M8nvWoCexP7ybZLrEeT1uX5O3cBRKNm0pBCyizjnHUWUtN3W1GpRmNSPvxgdV9lYVIE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3348704,
+      "lng": 77.704512,
+      "label": "Erode Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "erode-neuro-centre-erode",
+    "name": "Erode Neuro Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Erode Neuro Centre offers coordinated hospital care with major focus on Spine Neurosurgeon In Erode and Neurosciences. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "077080 05599",
+    "alternatePhone": "",
+    "website": "",
+    "address": "12, OA Ramasamy St, near vadivu subramaniyam hospital, Gandhi Nagar, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Gandhi Nagar",
+    "landmark": "near vadivu subramaniyam hospital, Gandhi Nagar, Erode, Tamil Nadu 638009",
+    "emergencyContact": "077080 05599",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDinA9G4LF5dPpsqdvYKlYxV-uPdFQYCvz-RhSDylHtyH4HFlLpYscKoCMtsGNLnQcKF7s_y1dH9jX5YAGtckgKtYd0trNQpLSAzAhekcrKu_ojyAvZ8Hqt4uL8pppzbzY2F5Zdw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDinA9G4LF5dPpsqdvYKlYxV-uPdFQYCvz-RhSDylHtyH4HFlLpYscKoCMtsGNLnQcKF7s_y1dH9jX5YAGtckgKtYd0trNQpLSAzAhekcrKu_ojyAvZ8Hqt4uL8pppzbzY2F5Zdw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3367103,
+      "lng": 77.7156642,
+      "label": "Erode Neuro Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "erode-trust-hospital-erode",
+    "name": "Erode Trust Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Erode Trust Hospital for its strength in Liver Transplant Surgery In Erode. With public-facing highlights like Google rating 3.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "42/14, Chinnamuthu Ii Street, Natersar Mill Enclave, Perundurai Rd, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Perundurai Rd",
+    "landmark": "Natersar Mill Enclave",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFAlCyAqPDTkBKiTnlsr86BNlD_yS7OObeaLOSImwPOt4mi4KGxS5vdKsJBuZK_F73lb2AJRy5N0GByZuL0U4lwsV_5yPHDHo6Igsg8I1eEhDuDTVa8h4Yo0q3fwOjbkzVwLsbgBQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFAlCyAqPDTkBKiTnlsr86BNlD_yS7OObeaLOSImwPOt4mi4KGxS5vdKsJBuZK_F73lb2AJRy5N0GByZuL0U4lwsV_5yPHDHo6Igsg8I1eEhDuDTVa8h4Yo0q3fwOjbkzVwLsbgBQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3399827,
+      "lng": 77.7135679,
+      "label": "Erode Trust Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "erode-women-and-children-clinic-erode",
+    "name": "ERODE WOMEN AND CHILDREN CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, ERODE WOMEN AND CHILDREN CLINIC brings together specialists for Gynecologist Surgery In Erode and Women and Child Care. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "077085 33832",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No.195, Chinnamuthu Main St, near Jayasurya & Navasakthi stores, Adukku Parai, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "near Jayasurya & Navasakthi stores, Adukku Parai, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "emergencyContact": "077085 33832",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEiQZSA8d0Yjv6qO8WGZB2U9XKHRsXNSKYatxK3xti0KLwyfIZuiVOgdu2y_cj_yX8iQeD3ND0hnpyNI3zcCnV-AR9yZyqPU3IqzJXM-MoK-uuLEf-5ZijnVI6KyQXYbjhiqIYo=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEiQZSA8d0Yjv6qO8WGZB2U9XKHRsXNSKYatxK3xti0KLwyfIZuiVOgdu2y_cj_yX8iQeD3ND0hnpyNI3zcCnV-AR9yZyqPU3IqzJXM-MoK-uuLEf-5ZijnVI6KyQXYbjhiqIYo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3420911,
+      "lng": 77.7117045,
+      "label": "ERODE WOMEN AND CHILDREN CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ethnic-health-care-erode-erode",
+    "name": "Ethnic Health Care Erode",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ethnic Health Care Erode is a prominent hospital in Erode, known for structured tertiary care across Liver Transplant Surgery In Erode. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 225 6905",
+    "alternatePhone": "",
+    "website": "https://www.ethnichealthcare.com/",
+    "address": "18, PAVADAI 1ST Street, Kalaimagal Kalvi Nilayam Rd, opposite to Shalimar Agencies, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "opposite to Shalimar Agencies",
+    "landmark": "opposite to Shalimar Agencies, Erode, Tamil Nadu 638001",
+    "emergencyContact": "0424 225 6905",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZxTCoVEVt4eR8LXJrOXIQKVgpvUUUwIX2vtGj4QK32qNwdykwEl4UjLvm0pgOE3F2eal3_umCJZjl-oAUTbO2QIYdC1ZxH9P6JhlM2_1qnUneEqcSV8KfWpY7dji4d7Wd-ccH=w1200-h900-p-k-no",
+    "logo": "https://www.ethnichealthcare.com/home/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZxTCoVEVt4eR8LXJrOXIQKVgpvUUUwIX2vtGj4QK32qNwdykwEl4UjLvm0pgOE3F2eal3_umCJZjl-oAUTbO2QIYdC1ZxH9P6JhlM2_1qnUneEqcSV8KfWpY7dji4d7Wd-ccH=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3383434,
+      "lng": 77.7188808,
+      "label": "Ethnic Health Care Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gem-hospital-coimbatore-coimbatore",
+    "name": "GEM Hospital Coimbatore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Coimbatore, GEM Hospital Coimbatore delivers integrated care across Liver Transplant Surgery In Erode. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Coimbatore.",
+    "email": "",
+    "phone": "0422 469 5100",
+    "alternatePhone": "",
+    "website": "https://gemhospitals.com/",
+    "address": "45, Pankaja Mills Rd, Palaniappa Nagar, Sowripalayam Pirivu, Ramanathapuram, Coimbatore, Tamil Nadu 641045",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "pincode": "641045",
+    "locality": "Ramanathapuram",
+    "landmark": "Palaniappa Nagar",
+    "emergencyContact": "0422 469 5100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnYM5UW7IToH2TSLC1gHRysXR2KcCdStrGBUPTAiHVPcXR_0AjfXR295E0bNXAUNuxvuOyWvc-GiM7x4BgE2MABu3CRbX0CYd-A9WPl2Ie_Xwk0N9ex2RgJ378zXgA01xz6lHiwA=w1200-h900-p-k-no",
+    "logo": "https://gemhospitals.com/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnYM5UW7IToH2TSLC1gHRysXR2KcCdStrGBUPTAiHVPcXR_0AjfXR295E0bNXAUNuxvuOyWvc-GiM7x4BgE2MABu3CRbX0CYd-A9WPl2Ie_Xwk0N9ex2RgJ378zXgA01xz6lHiwA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNsjqFHDGO4UPsw4M3MuH7LWfSf6UbtVv1Aif=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNsjqFHDGO4UPsw4M3MuH7LWfSf6UbtVv1Aifp5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMYcyGqi8niluJevQyyjvNv2qjcnah7nyPIQNG_=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipM3rXPHHNF6S2PYADHXXDeMLOLzENCEczWBRwkN=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.9996215,
+      "lng": 76.9954638,
+      "label": "GEM Hospital Coimbatore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gem-hospital-erode-erode",
+    "name": "GEM Hospital Erode",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, GEM Hospital Erode offers coordinated hospital care with major focus on Liver Transplant Surgery In Erode. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 403 1355",
+    "alternatePhone": "",
+    "website": "https://www.gemhospitals.com/",
+    "address": "5, 8PM7+GRG, Street, Muthu Karuppan St, Gandhi Nagar, Nggo Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Nggo Colony",
+    "landmark": "Street",
+    "emergencyContact": "0424 403 1355",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHU4sOFauibTBvUWKBeGbuYGSgE3mUHnz5PCv1p8TJnUhgBNtaBqGpTzF7V49Hlv8xQyRwRF5AGWjRJq_y1ZdO-6RoW1pvSbevi7g2ZbW_sZ63T5pQcgZx1greReeqnIcq31287=w1200-h900-p-k-no",
+    "logo": "https://gemhospitals.com/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHU4sOFauibTBvUWKBeGbuYGSgE3mUHnz5PCv1p8TJnUhgBNtaBqGpTzF7V49Hlv8xQyRwRF5AGWjRJq_y1ZdO-6RoW1pvSbevi7g2ZbW_sZ63T5pQcgZx1greReeqnIcq31287=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNJK6t7k7F4sjt_cPIsvpL0iSyybLWuONcZcYDV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNm-ZDyFsYbMB1JzOq8b3iJQxoiKoDUh5d1x0hC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMAJrA8wTuwqFQUyAtI7uY8ES2XopqSK3mFFhQ5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOw3xlDhC1UtyVlGJA4doksC0JJp-T_RfG4lZTN=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3380359,
+      "lng": 77.7154354,
+      "label": "GEM Hospital Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gomathi-sekar-hospital-erode",
+    "name": "Gomathi Sekar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Gomathi Sekar Hospital offers coordinated hospital care with major focus on Neurosurgeon In Erode. Hospital capacity markers such as Google rating 2.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No 11, Mettur Rd, Muncipal Colony, Erode, Tamil Nadu 638004",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638004",
+    "locality": "Muncipal Colony",
+    "landmark": "Muncipal Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjXVO7lBx5UVsaoTYzyeCaTnuqMPT0swexwTSauRoi7PVp9dUfiP9GsmbA6GmxbjHHMC8XIqkQQuosyhGGQ0DdwgadkWsOUg1agl8iXofPFXB3nuHN4iKHj7080JJyJDv-GpkEqQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjXVO7lBx5UVsaoTYzyeCaTnuqMPT0swexwTSauRoi7PVp9dUfiP9GsmbA6GmxbjHHMC8XIqkQQuosyhGGQ0DdwgadkWsOUg1agl8iXofPFXB3nuHN4iKHj7080JJyJDv-GpkEqQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.347178,
+      "lng": 77.7188285,
+      "label": "Gomathi Sekar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "hcg-centre-of-oncology-erode",
+    "name": "HCG Centre Of Oncology",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, HCG Centre Of Oncology offers coordinated hospital care with major focus on Oncologist Surgery In Erode. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 226 2035",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PQ7+477, Erode - Perundurai - Kangeyam Rd, V Chatram, Nggo Colony, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Nggo Colony",
+    "landmark": "V Chatram",
+    "emergencyContact": "0424 226 2035",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.337795%2C77.7131653&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.337795%2C77.7131653&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.337795%2C77.7131653&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.337795%2C77.7131653&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.337795,
+      "lng": 77.7131653,
+      "label": "HCG Centre Of Oncology",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "j-b-hospital-gastro-women-care-and-laparoscopic-centre-erode",
+    "name": "J.B. Hospital - Gastro , Women care & Laparoscopic Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "J.B. Hospital - Gastro , Women care & Laparoscopic Centre is a prominent hospital in Erode, known for structured tertiary care across Liver Transplant Surgery In Erode, Women and Child Care, and Gastroenterology. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 226 4345",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No 26 , Veterinary Hospital Road, opposite to Head Post Office, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "opposite to Head Post Office",
+    "landmark": "opposite to Head Post Office, Erode, Tamil Nadu 638001",
+    "emergencyContact": "0424 226 4345",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode",
+      "Women and Child Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGi27Zq6rDODrlU_TBkhmK3Buy_DQc2x2sUadjAwHu6YjRl4rFbqDuBNNbfwMYWeeGIJMf6iyGzBU8wJ9kPyM9l1peNqQhK_Eu0wOoG4UD2-QRaLTBcu6bz2Enj-imvXAaFbv1vzg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGi27Zq6rDODrlU_TBkhmK3Buy_DQc2x2sUadjAwHu6YjRl4rFbqDuBNNbfwMYWeeGIJMf6iyGzBU8wJ9kPyM9l1peNqQhK_Eu0wOoG4UD2-QRaLTBcu6bz2Enj-imvXAaFbv1vzg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3351101,
+      "lng": 77.7284659,
+      "label": "J.B. Hospital - Gastro , Women care & Laparoscopic Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jai-maruthi-hospital-erode",
+    "name": "Jai Maruthi hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jai Maruthi hospital is a prominent hospital in Erode, known for structured tertiary care across Gynecologist Surgery In Erode. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 225 9300",
+    "alternatePhone": "",
+    "website": "",
+    "address": "146/1, Gandhiji Rd, near Fire Service, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "near Fire Service",
+    "landmark": "near Fire Service, Erode, Tamil Nadu 638001",
+    "emergencyContact": "0424 225 9300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGTXDvUxyGKdVngxSabp5NdOm1b0n2FQQ7fU_jlyqsvt4aJy24nfxLIuPub0ZAFGGHS0zLnb9AQaGR3tct2AmXIBFPLtg8Bwc6ZOzFbxvC1uYqQTcmo5P1mqtlwOQmSRBOVCqXFpkaXInoR=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGTXDvUxyGKdVngxSabp5NdOm1b0n2FQQ7fU_jlyqsvt4aJy24nfxLIuPub0ZAFGGHS0zLnb9AQaGR3tct2AmXIBFPLtg8Bwc6ZOzFbxvC1uYqQTcmo5P1mqtlwOQmSRBOVCqXFpkaXInoR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3320245,
+      "lng": 77.7273535,
+      "label": "Jai Maruthi hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "joseph-hospital-erode",
+    "name": "Joseph Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Joseph Hospital for its strength in Laparoscopic Surgery In Erode. Its infrastructure includes Google rating 4.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094875 54848",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Erode-Chennimalai Rd, Cheran Nagar, Rangampalayam, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Rangampalayam",
+    "landmark": "Rangampalayam",
+    "emergencyContact": "094875 54848",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGT9W0i3Thyjs5JaJnl0M1fQlcgf56F2T9jXmVkJq528Nj-lKGxiR9hvJNg8j5-xRw_JbLPzEnXD1PT3-1zd7sT7CwOg96GL-3PXBCFrcBuEbloDnWEqURcIA3Vk0WRYATpfjbfGg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGT9W0i3Thyjs5JaJnl0M1fQlcgf56F2T9jXmVkJq528Nj-lKGxiR9hvJNg8j5-xRw_JbLPzEnXD1PT3-1zd7sT7CwOg96GL-3PXBCFrcBuEbloDnWEqURcIA3Vk0WRYATpfjbfGg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3079787,
+      "lng": 77.7045824,
+      "label": "Joseph Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kalingarayan-medical-centre-erode-erode",
+    "name": "Kalingarayan Medical Centre - Erode",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kalingarayan Medical Centre - Erode has built a strong reputation in Erode for multidisciplinary treatment pathways covering Liver Transplant Surgery In Erode. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "091507 91555",
+    "alternatePhone": "",
+    "website": "https://kalingarayanmc.com/",
+    "address": "Perundurai Rd, Gandhi Nagar, Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Colony",
+    "landmark": "Colony",
+    "emergencyContact": "091507 91555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwwgXH-UM2gcUC3IABSTOI56pMf3RxNM8cEFdvJUVDo_VhcIieZR2vvywTPwVHC9-Iy9nyGkINVrqRoHKj8oB51xRoFF170WDuOm7aH2Oc9LM_OL3wVLXR10kywNfEQQZnqoKxIQ=w1200-h900-p-k-no",
+    "logo": "https://kalingarayanmc.com/wp-content/themes/kmctheme/images/header-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwwgXH-UM2gcUC3IABSTOI56pMf3RxNM8cEFdvJUVDo_VhcIieZR2vvywTPwVHC9-Iy9nyGkINVrqRoHKj8oB51xRoFF170WDuOm7aH2Oc9LM_OL3wVLXR10kywNfEQQZnqoKxIQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3381764,
+      "lng": 77.7140251,
+      "label": "Kalingarayan Medical Centre - Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kalyani-kidney-care-centre-erode",
+    "name": "Kalyani Kidney Care Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Kalyani Kidney Care Centre for its strength in Urologist Surgery In Erode and Kidney Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "0424 226 6949",
+    "alternatePhone": "",
+    "website": "http://kidneystoneindia.com/",
+    "address": "104, Sampath Nagar Rd, near to Kongu Kalaiyarangam, Sanjay Nagar, Sampath Nagar, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Sampath Nagar",
+    "landmark": "near to Kongu Kalaiyarangam, Sanjay Nagar, Sampath Nagar, Erode, Tamil Nadu 638009",
+    "emergencyContact": "0424 226 6949",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Erode",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCuZbhzkTrtgFG2Cdb5k99FyrlxG7_RazB50wDIaa9qKETapcJeoCffNwKKubSOK7R2b31KGIZZk7i-nnALzDfyAB6kq-jcEyVqqboV6-C5IogP4dTSTGvZrkANSyaj8tRQjlA=w1200-h900-p-k-no",
+    "logo": "https://kidneystoneindia.com/wp-content/uploads/2026/01/chola-logo-300x225.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCuZbhzkTrtgFG2Cdb5k99FyrlxG7_RazB50wDIaa9qKETapcJeoCffNwKKubSOK7R2b31KGIZZk7i-nnALzDfyAB6kq-jcEyVqqboV6-C5IogP4dTSTGvZrkANSyaj8tRQjlA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3383308,
+      "lng": 77.7082941,
+      "label": "Kalyani Kidney Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kauvery-hospital-salem",
+    "name": "Kauvery Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Salem often choose Kauvery Hospital for its strength in Liver Transplant Surgery In Erode. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Salem can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0427 267 7777",
+    "alternatePhone": "",
+    "website": "https://www.kauveryhospital.com/our-locations/salem/?utm_source",
+    "address": "9/50, Trichy Main Rd, Opp.to Chandra Mahal, M G R Nagar, Seelanaickenpatti, Salem, Tamil Nadu 636201",
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "pincode": "636201",
+    "locality": "Seelanaickenpatti",
+    "landmark": "Opp.to Chandra Mahal",
+    "emergencyContact": "0427 267 7777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqwejYO2tquDEKWSxCatyagV2EPCDVMMhv-VluxIP34l4HYOOmnBEnFvwCW6UVQkHhfKnSfnRu3Vuce1nRTqgSysOPFnIMJ0gZgtpxrwLt2o1tgfPPEjee1lTaubuAi_WDDNX99g=w1200-h900-p-k-no",
+    "logo": "https://www.kauveryhospital.com/wp-content/themes/KauveryHospital/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqwejYO2tquDEKWSxCatyagV2EPCDVMMhv-VluxIP34l4HYOOmnBEnFvwCW6UVQkHhfKnSfnRu3Vuce1nRTqgSysOPFnIMJ0gZgtpxrwLt2o1tgfPPEjee1lTaubuAi_WDDNX99g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFLP0LanvZMW0So3ZHcsQSKKonil08yzq-7s8Twhni9qO6TJwOhglVFG8-ZSn1mzy9sj4nSAeg0kkEuYG9tQbUtg0B3ezNksrG7_6PXB2QwMOv9x8I8IIRoU1-yg-C-0BrSybpr=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.6291662,
+      "lng": 78.1486689,
+      "label": "Kauvery Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kavin-hospital-erode",
+    "name": "Kavin Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Kavin Hospital brings together specialists for Liver Transplant Surgery In Erode. With public-facing highlights like Google rating 3.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.kavinmedicalcenter.com/",
+    "address": "Colony 37/68, Perundurai Rd, Gandhi Nagar, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Gandhi Nagar",
+    "landmark": "Gandhi Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_Vpz5GOwKbcx5ymZslzRZ1UlFD45V3JQPC6aFOWDGpyupXj0U2oyKrfalAH1EX4WVOfrn_ZYURhazdD9vWj7TXFikKQ3BsZ8NI-ROdcA7u5fSNPDpsTI59HZDdFFQw3pZ0-SsgA=w1200-h900-p-k-no",
+    "logo": "http://www.kavinmedicalcenter.com/assets/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_Vpz5GOwKbcx5ymZslzRZ1UlFD45V3JQPC6aFOWDGpyupXj0U2oyKrfalAH1EX4WVOfrn_ZYURhazdD9vWj7TXFikKQ3BsZ8NI-ROdcA7u5fSNPDpsTI59HZDdFFQw3pZ0-SsgA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3383234,
+      "lng": 77.7138826,
+      "label": "Kavin Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kmc-hospital-erode",
+    "name": "KMC Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, KMC Hospital offers coordinated hospital care with major focus on General Surgery In Erode. With public-facing highlights like Google rating 3.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "02/2, Gandhi Nagar Colony, Perundurai Road, Erode, Tamil Nadu 638052",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638052",
+    "locality": "Perundurai Road",
+    "landmark": "Perundurai Road",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqHjn30iXFOqFc7nUil68vvCoC9GRsNXRYmwDm3LzWV9t0ibB-lewdvc_NpphxsqaafXdkZ7uZRFSLASha6vK1PKt0vriCAHxvjHw68nH5_GnVHNVYHnGdKIjC6xQ1zHnoHa5tTg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqHjn30iXFOqFc7nUil68vvCoC9GRsNXRYmwDm3LzWV9t0ibB-lewdvc_NpphxsqaafXdkZ7uZRFSLASha6vK1PKt0vriCAHxvjHw68nH5_GnVHNVYHnGdKIjC6xQ1zHnoHa5tTg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMPHPTvTYm2lial_x4tA4ez7Vr024IPlizLP4vmiietGy5llav74u0-1wS319xh7I_gG-ywVprjORzun5UcTEW2IOLuCiFfq6GcZy6QMhBHh94zhfs4lGnIDa-Bo1Oyr_ePhE6-A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.2854272,
+      "lng": 77.6039702,
+      "label": "KMC Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kmch-speciality-hospital-erode",
+    "name": "KMCH Speciality Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KMCH Speciality Hospital has built a strong reputation in Erode for multidisciplinary treatment pathways covering Liver Transplant Surgery In Erode and Speciality Care. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "097888 22223",
+    "alternatePhone": "",
+    "website": "https://www.kmchhospitals.com/kmch-speciality-hospital/",
+    "address": "16 GH, Palaniappa St, Nggo Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Nggo Colony",
+    "landmark": "Nggo Colony",
+    "emergencyContact": "097888 22223",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXMwPeknpbi5u_Voesn4cNyD2OO6xrEEfUMNcpQkznxYccV1fqbx9HdFUpymekiRL_9GH_MqJJJ_AiISTorj3tGfDg5r0YPx8l63DO3S3IWWL5C8af-cE-bgFADoorxjzGeeW_Aw=w1200-h900-p-k-no",
+    "logo": "https://kmchhospitals.com/wp-content/uploads/2025/07/cropped-KMCH-Logo_1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXMwPeknpbi5u_Voesn4cNyD2OO6xrEEfUMNcpQkznxYccV1fqbx9HdFUpymekiRL_9GH_MqJJJ_AiISTorj3tGfDg5r0YPx8l63DO3S3IWWL5C8af-cE-bgFADoorxjzGeeW_Aw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3395737,
+      "lng": 77.7162364,
+      "label": "KMCH Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kottakkal-arya-vaidya-sala-erode-erode",
+    "name": "Kottakkal Arya Vaidya Sala Erode",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kottakkal Arya Vaidya Sala Erode has built a strong reputation in Erode for multidisciplinary treatment pathways covering Spine Neurosurgeon In Erode. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094428 81005",
+    "alternatePhone": "",
+    "website": "https://kottakkalerode.com/",
+    "address": "50, New, Agraharam St, near Ragavendra Temple, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "near Ragavendra Temple",
+    "landmark": "near Ragavendra Temple, Erode, Tamil Nadu 638001",
+    "emergencyContact": "094428 81005",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHA4J4yVJC-4FJg8VGv4mgPgRS5PNZbiUY5Q62n3zqXzDtgqgh4HN9zYGRniKK7L4NtlnzwDvFmicXxqxncp-MEluCxmGmLSHy2Z_luvYz4XW891QPyBWqXmZxf7aj3tcZfgbboBQ=w1200-h900-p-k-no",
+    "logo": "https://kottakkalerode.com/wp-content/uploads/2024/04/aryavydyashala-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHA4J4yVJC-4FJg8VGv4mgPgRS5PNZbiUY5Q62n3zqXzDtgqgh4HN9zYGRniKK7L4NtlnzwDvFmicXxqxncp-MEluCxmGmLSHy2Z_luvYz4XW891QPyBWqXmZxf7aj3tcZfgbboBQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP5Wep6sqwvq2NgR7f26C3VKpZKFFQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP5Wep6sqwvq2NgR7f26C3VKpZKFFQpyve18h5o=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPdHz2ayhOYSBIi7dpJDxD3S4gYQCi1vNkpcxP9=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMYBbR-XUdu-PUo8eRChtRsuq6qjA-8IrWfYlLA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3396802,
+      "lng": 77.7338686,
+      "label": "Kottakkal Arya Vaidya Sala Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "krishna-speciality-hospital-erode",
+    "name": "Krishna Speciality Hospital",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Krishna Speciality Hospital brings together specialists for Neurosurgeon In Erode and Speciality Care. Hospital capacity markers such as Google rating 2.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "333, Brough Rd, Kaikolar Thottam, Nggo Colony, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Nggo Colony",
+    "landmark": "Kaikolar Thottam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEk60NFOA-4YYWj9_7lDrWlAx8dYoxsHzqbhay6AE4x8PqiwJD5PDM3YDd-qsnSNjQPQk4sDdPXiCitaUYCQGTWXZReHD6soHCWE0mRIYfddMm7MjRUIGg9pF09TADXmoCic5_H=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEk60NFOA-4YYWj9_7lDrWlAx8dYoxsHzqbhay6AE4x8PqiwJD5PDM3YDd-qsnSNjQPQk4sDdPXiCitaUYCQGTWXZReHD6soHCWE0mRIYfddMm7MjRUIGg9pF09TADXmoCic5_H=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3401464,
+      "lng": 77.7192961,
+      "label": "Krishna Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "krishnan-medical-centre-erode",
+    "name": "Krishnan Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Krishnan Medical Centre for its strength in Kidney Transplant Surgery In Erode. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9P27+G5X, Erode, Tamil Nadu 638004",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638004",
+    "locality": "",
+    "landmark": "Tamil Nadu 638004",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3513745%2C77.7129815&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3513745%2C77.7129815&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3513745%2C77.7129815&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3513745%2C77.7129815&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3513745,
+      "lng": 77.7129815,
+      "label": "Krishnan Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kumudha-hospital-erode",
+    "name": "Kumudha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kumudha Hospital has built a strong reputation in Erode for multidisciplinary treatment pathways covering Gynecologist Surgery In Erode. Operational strengths including Google rating 3.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "094436 17084",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PWJ+M75, Thirunagar Colony Rd, Karungalpalayam, Erode, Tamil Nadu 638003",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638003",
+    "locality": "Karungalpalayam",
+    "landmark": "Karungalpalayam",
+    "emergencyContact": "094436 17084",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkdDRXKbcRiK4SncpXyunaUGvzhkEbHUBmtBqS9NpVyDgwJM595d88q5qg5p_jZEucUTbnOdV2egU6wt3B7rvVQ-bPOdRAsJacTKYfDEFEZVvjeifgXqSZHUvNJk2MrTVA-o0xOA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkdDRXKbcRiK4SncpXyunaUGvzhkEbHUBmtBqS9NpVyDgwJM595d88q5qg5p_jZEucUTbnOdV2egU6wt3B7rvVQ-bPOdRAsJacTKYfDEFEZVvjeifgXqSZHUvNJk2MrTVA-o0xOA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3466378,
+      "lng": 77.7307466,
+      "label": "Kumudha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "limbus-medical-center-dr-s-sekar-mch-neuro-erode",
+    "name": "Limbus Medical Center (Dr S Sekar Mch Neuro)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Limbus Medical Center (Dr S Sekar Mch Neuro) delivers integrated care across Spine Neurosurgeon In Erode and Neurosciences. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "098427 86169",
+    "alternatePhone": "",
+    "website": "",
+    "address": "12, SKC Road, Periyar Nagar, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Periyar Nagar",
+    "landmark": "Periyar Nagar",
+    "emergencyContact": "098427 86169",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJWCjWWEVnpbAK2R1jTbYNkDgoqChZy_d53u5w8Dt8zPNB-B0SYbUeY52S7kZ9ua-hJEKirOpfsfs4V0XlYmss1T7a6rOYLlYDjgVU4weOLHLyw-iN05uR1Y561ANsQZ3XrRr_mg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJWCjWWEVnpbAK2R1jTbYNkDgoqChZy_d53u5w8Dt8zPNB-B0SYbUeY52S7kZ9ua-hJEKirOpfsfs4V0XlYmss1T7a6rOYLlYDjgVU4weOLHLyw-iN05uR1Y561ANsQZ3XrRr_mg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.333239,
+      "lng": 77.7200002,
+      "label": "Limbus Medical Center (Dr S Sekar Mch Neuro)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lkm-hospital-erode",
+    "name": "LKM Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "LKM Hospital is a prominent hospital in Erode, known for structured tertiary care across Orthopedic Surgery In Erode. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "61/1, Mosuvanna St, Kaikolar Thottam, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Kaikolar Thottam",
+    "landmark": "Kaikolar Thottam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIWfsKLw-y9CAX83xkrlVS5ECH7todnOyruv8AJvxgWN5YhyqtMrTS5BFI7K2QOEIV5fOwkuzb3vDAJtO0gZstdZMiNqxqV_drCkJJV6EgbJoZni0i6b6tGoZDr0RUNX8tI1X3=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIWfsKLw-y9CAX83xkrlVS5ECH7todnOyruv8AJvxgWN5YhyqtMrTS5BFI7K2QOEIV5fOwkuzb3vDAJtO0gZstdZMiNqxqV_drCkJJV6EgbJoZni0i6b6tGoZDr0RUNX8tI1X3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXZzC4OxghelKaVBndHbyJB_V60cigvq2RxKW6fVEzP4RQfX1nfbw7WoqvhwI3vKv0IAPEReKttZd8oWaAMjswo0jEol-KqSvxDale2dHk-uJp1NvnOWFpjr17E7BVMhN4zhBqWQSCNHft=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3336445,
+      "lng": 77.7190055,
+      "label": "LKM Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lotus-fetal-medicine-centre-erode",
+    "name": "Lotus Fetal Medicine Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Lotus Fetal Medicine Centre offers coordinated hospital care with major focus on Gynecologist Surgery In Erode and Fetal Medicine. Hospital capacity markers such as Google rating 3.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "095978 07622",
+    "alternatePhone": "",
+    "website": "https://lotusfetalmedicinecentre.com/",
+    "address": "11, Nehruji St, Vellode - Poondurai Rd, Main Road, Erode, Tamil Nadu 638002",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638002",
+    "locality": "Main Road",
+    "landmark": "Vellode - Poondurai Rd",
+    "emergencyContact": "095978 07622",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode",
+      "Fetal Medicine"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUQ0sunN403Sxag98Zk_bnzRVcOdN1eyfHkgGR0ua9F5rre7T3uCCz7jiTsi8lkti1JzWYlPU9_15NuBKy3nAwUZ79q3932J_SEZ89rx8b5pIpOcBg2nTzbUUCMN0G1Dz8WF1f=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUQ0sunN403Sxag98Zk_bnzRVcOdN1eyfHkgGR0ua9F5rre7T3uCCz7jiTsi8lkti1JzWYlPU9_15NuBKy3nAwUZ79q3932J_SEZ89rx8b5pIpOcBg2nTzbUUCMN0G1Dz8WF1f=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3252919,
+      "lng": 77.7287644,
+      "label": "Lotus Fetal Medicine Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lotus-hospital-erode",
+    "name": "Lotus Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lotus Hospital is a prominent private hospital in Erode, known for structured tertiary care across Urologist Surgery In Erode. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 228 2828",
+    "alternatePhone": "",
+    "website": "http://www.lotushospitals.com/",
+    "address": "Housing Unit, Nadarmedu, Erode, Tamil Nadu 638002",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638002",
+    "locality": "Nadarmedu",
+    "landmark": "Erode",
+    "emergencyContact": "0424 228 2828",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSvkwovnZ4xZe_GGRE_hrfEh9VW1-obtONKD5PoVgG5mAmGa61tqvf_zXSrl0dBKgEiyhq00UHjAARNSDmlPSzyO14QhO-5_WMDQdVOz6caWZXVEJULf4Df8zGgtmqGXM5qRo5=w1200-h900-p-k-no",
+    "logo": "https://www.lotushospitals.com/images/resource/lh-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSvkwovnZ4xZe_GGRE_hrfEh9VW1-obtONKD5PoVgG5mAmGa61tqvf_zXSrl0dBKgEiyhq00UHjAARNSDmlPSzyO14QhO-5_WMDQdVOz6caWZXVEJULf4Df8zGgtmqGXM5qRo5=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGad1vCO3ZIDyh1f9u8Cv8w6RqM1qWo5vJEzaQsi0ueg7jLSPz5cBV-Ep0fcM_DFQ4HcFyeHKAMJoZmjLpy5UTLJUNFYhyPxYtVQE_Rhc0z4Us7HId_8T29cinTpfNMpDkKoe5psg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_3ZnPdHKfLnYrx_5jH-EF5r48xY5oolX1XvVhv8HAG4qINgGnnMAMPFQH8gPnRzJbZ1mrTvOAM46nwirl6xVWH7Ksx_7D-EpTJu8OMrUQYWKqgge7xS-RS6l4Guo9x2mHPtFBzg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.326011,
+      "lng": 77.730096,
+      "label": "Lotus Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "m-r-hospital-erode",
+    "name": "M R Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, M R Hospital brings together specialists for Kidney Transplant Surgery In Erode. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0424 225 6862",
+    "alternatePhone": "",
+    "website": "",
+    "address": "246, Nethaji Rd, Marapalam, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Marapalam",
+    "landmark": "Marapalam",
+    "emergencyContact": "0424 225 6862",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGukCTu95DSMyc32bikTdYrPIX8WkIO486ZUFefwliBPA3f5VcOiHo7h7d07OwgYYS8DeaYz16siSRVlgS0F9Qh1J6hK0tNmSAd1JOLX1feZ2WcDXbzj5QsyUfUA6NriILjujJ5pA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGukCTu95DSMyc32bikTdYrPIX8WkIO486ZUFefwliBPA3f5VcOiHo7h7d07OwgYYS8DeaYz16siSRVlgS0F9Qh1J6hK0tNmSAd1JOLX1feZ2WcDXbzj5QsyUfUA6NriILjujJ5pA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3386864,
+      "lng": 77.7294476,
+      "label": "M R Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "madhu-surgical-clinic-and-hospital-erode",
+    "name": "MADHU SURGICAL CLINIC AND HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, MADHU SURGICAL CLINIC AND HOSPITAL brings together specialists for Liver Transplant Surgery In Erode. Its infrastructure includes Google rating 3.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "399, Perundurai Rd, near Sakthi Super Market, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "near Sakthi Super Market, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErkdK00kCJaT9wqDoUZ3kSx-JPzTRnS7C581VvoGtKxPw_xw5JskUi9XR_LrG3kyO4Jp8RkmY1RVgom6ifw1Zj3mgcp51iwaZ2_THsBanrl5BB0yFLbo8WsUM73BDdH8PBD21wnw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErkdK00kCJaT9wqDoUZ3kSx-JPzTRnS7C581VvoGtKxPw_xw5JskUi9XR_LrG3kyO4Jp8RkmY1RVgom6ifw1Zj3mgcp51iwaZ2_THsBanrl5BB0yFLbo8WsUM73BDdH8PBD21wnw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3387322,
+      "lng": 77.7143265,
+      "label": "MADHU SURGICAL CLINIC AND HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mahalakshmi-hospital-erode",
+    "name": "Mahalakshmi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mahalakshmi Hospital is a prominent hospital in Erode, known for structured tertiary care across Gynecologist Surgery In Erode. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "095854 26336",
+    "alternatePhone": "",
+    "website": "https://drmahalakshmi.com/",
+    "address": "64/10, Perundurai Rd, Paari Nagar, Kumalan Kuttai, Palayapalayam, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Palayapalayam",
+    "landmark": "Paari Nagar",
+    "emergencyContact": "095854 26336",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmNQ7mfX_PdeVL3ea1ZV0QO-y5331ld0oTyGctjjJ5IYHvoC_gtTMrdU5SwqlPI3dUdyXHZuU1uVMFxVARNWc8WoHcs1t7z48c_ugBkxgFJWHvBez9io2nnoiajDWGoHKJ8-nlNSQkocA=w1200-h900-p-k-no",
+    "logo": "https://drmahalakshmi.com/wp-content/uploads/2026/04/mahalakshmi-hospital-logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmNQ7mfX_PdeVL3ea1ZV0QO-y5331ld0oTyGctjjJ5IYHvoC_gtTMrdU5SwqlPI3dUdyXHZuU1uVMFxVARNWc8WoHcs1t7z48c_ugBkxgFJWHvBez9io2nnoiajDWGoHKJ8-nlNSQkocA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3308444,
+      "lng": 77.6994658,
+      "label": "Mahalakshmi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manian-medical-centre-erode",
+    "name": "MANIAN MEDICAL CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose MANIAN MEDICAL CENTRE for its strength in Liver Transplant Surgery In Erode. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "085319 19191",
+    "alternatePhone": "",
+    "website": "http://manianmedicalcentre.in/",
+    "address": "100,Power House Road, Erode, M, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Power House Road",
+    "landmark": "Erode",
+    "emergencyContact": "085319 19191",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGjVnmSDJFfFQ8EA6mX3okH6D_8HA9DgaUTUqU9aqQfq6VG-i-34GwYAoLkpjwF3xxfzy5wZn3CWhgiACLlTYqy42hqkeCovp1ipiPxrXJ-KLNKrds_cLDfKOyV0d7imHCe3XWb_j7kYc=w1200-h900-p-k-no",
+    "logo": "https://manianmedicalcentre.in/wp-content/uploads/2022/05/logo-img-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGjVnmSDJFfFQ8EA6mX3okH6D_8HA9DgaUTUqU9aqQfq6VG-i-34GwYAoLkpjwF3xxfzy5wZn3CWhgiACLlTYqy42hqkeCovp1ipiPxrXJ-KLNKrds_cLDfKOyV0d7imHCe3XWb_j7kYc=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3370035,
+      "lng": 77.7188598,
+      "label": "MANIAN MEDICAL CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manipal-hospital-salem-salem",
+    "name": "Manipal Hospital Salem",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Salem often choose Manipal Hospital Salem for its strength in Liver Transplant Surgery In Erode. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Salem can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "1800 102 4647",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/salem/blog/right-side-stomach-pain/",
+    "address": "Dalmia Board, Salem - Bangalore Highway, Vellakalpatti, Salem, Tamil Nadu 636012",
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "pincode": "636012",
+    "locality": "Vellakalpatti",
+    "landmark": "Vellakalpatti",
+    "emergencyContact": "1800 102 4647",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdAhhDBmFDqRel4foFJ6PqDK-UPvmwS-dqNCb74-tvZfTa46Lsu7qLGkdbj_0DgzC_IBIOLF0FoWUVc_2WcT500jYCAkveqAG8eUSFddGxZ1s1-8_9Xk464rW2ptmuej346sc=w1200-h900-p-k-no",
+    "logo": "https://www.manipalhospitals.com/salem/assets/images/homepage/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdAhhDBmFDqRel4foFJ6PqDK-UPvmwS-dqNCb74-tvZfTa46Lsu7qLGkdbj_0DgzC_IBIOLF0FoWUVc_2WcT500jYCAkveqAG8eUSFddGxZ1s1-8_9Xk464rW2ptmuej346sc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMGsUoeTP2pLNvO6tUxRPQeW8c2cRH0Rj7oWyYF=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO4RAvDicweBfV1xTgeZM4ISGlWIyIQQjAA476M=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipO1yILKl6UXym8H1mYzLKt5kZ6ZFk7R8VceMtlV=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNoEpZB1hK2i2dlifUgOxNr_x-MzUMukWgzUzKi=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.7030185,
+      "lng": 78.1027645,
+      "label": "Manipal Hospital Salem",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manohar-hospital-erode",
+    "name": "Manohar hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Manohar hospital for its strength in Cancer Surgery In Erode. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0424 229 0689",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9, Sathy Rd, Annai Sathya Nagar, EPB Nagar, Veerappanchatram, Erode, Tamil Nadu 638004",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638004",
+    "locality": "Veerappanchatram",
+    "landmark": "Annai Sathya Nagar",
+    "emergencyContact": "0424 229 0689",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEY03uwYjNebwtyqmG0NUduJ713Hb1e2qfIfHyKYAzmQNJk0YANmvMOs9yoalyNgeenpx6Rx8TLbMQxL1iPrLeApcBVrHjKb6WylwRzrqM08qufPbndNg7MdK-EoyHTTLtiEqhCJ0--jynr=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEY03uwYjNebwtyqmG0NUduJ713Hb1e2qfIfHyKYAzmQNJk0YANmvMOs9yoalyNgeenpx6Rx8TLbMQxL1iPrLeApcBVrHjKb6WylwRzrqM08qufPbndNg7MdK-EoyHTTLtiEqhCJ0--jynr=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3594754,
+      "lng": 77.7030621,
+      "label": "Manohar hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mayil-skin-clinic-erode",
+    "name": "Mayil Skin Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Mayil Skin Clinic brings together specialists for Plastic Surgery In Erode. With public-facing highlights like Google rating 3.1, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "097896 85910",
+    "alternatePhone": "",
+    "website": "",
+    "address": "267, Brough Rd, Kaikolar Thottam, Chidambaram Colony, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Chidambaram Colony",
+    "landmark": "Kaikolar Thottam",
+    "emergencyContact": "097896 85910",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGpJ2NZUEj6-3a7VNdUGgZTWUeMQnqactStupOqffcIdJlCbfiTE3RO0-iHhHtVPeShtKLM6mVqMuozaRWXVWzhmKTUc_IQ9dMggSzSCW2NQ0_8atW-E5xKV7eROPqd1ea7bTfu=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGpJ2NZUEj6-3a7VNdUGgZTWUeMQnqactStupOqffcIdJlCbfiTE3RO0-iHhHtVPeShtKLM6mVqMuozaRWXVWzhmKTUc_IQ9dMggSzSCW2NQ0_8atW-E5xKV7eROPqd1ea7bTfu=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3398328,
+      "lng": 77.7215301,
+      "label": "Mayil Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "medway-hospitals-erode-best-hospital-in-erode-multispecialty-hospital-erode-erode",
+    "name": "Medway Hospitals - Erode | Best Hospital in Erode | Multispecialty Hospital Erode",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Medway Hospitals - Erode | Best Hospital in Erode | Multispecialty Hospital Erode brings together specialists for Orthopedic Surgery In Erode and Speciality Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "096981 12500",
+    "alternatePhone": "",
+    "website": "https://www.medwayhospitals.com/",
+    "address": "West Pudhur Main Street, No: 132, Perundurai Road, Nasiyanur, Erode, Tamil Nadu 638107",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638107",
+    "locality": "Nasiyanur",
+    "landmark": "Perundurai Road",
+    "emergencyContact": "096981 12500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHvYvKf76eZEViasq8zmMUegYzVddRqR612gGui4j8XfgIyhDPdZNI08ei-6Znscee6nVz8KmPuwYJj9TEW4hh5grJTMmh9QBTH6StzFvuvwvSE84prw_FtVxGlXGip9kP2_zzMlKHSI2W=w1200-h900-p-k-no",
+    "logo": "https://medwayhospitals.com/wp-content/uploads/2021/12/medway-hospitals-logo-1.webp",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHvYvKf76eZEViasq8zmMUegYzVddRqR612gGui4j8XfgIyhDPdZNI08ei-6Znscee6nVz8KmPuwYJj9TEW4hh5grJTMmh9QBTH6StzFvuvwvSE84prw_FtVxGlXGip9kP2_zzMlKHSI2W=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3366877,
+      "lng": 77.6367491,
+      "label": "Medway Hospitals - Erode | Best Hospital in Erode | Multispecialty Hospital Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "meena-pasupathi-plastic-surgery-clinic-erode",
+    "name": "Meena Pasupathi Plastic Surgery Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Meena Pasupathi Plastic Surgery Clinic for its strength in Plastic Surgery In Erode. Operational strengths including Google rating 3.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098427 64539",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Municipal Colony, Muncipal Colony, Edayankattuvalasu, Veerappanchatram, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Veerappanchatram",
+    "landmark": "Edayankattuvalasu",
+    "emergencyContact": "098427 64539",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYQKYmOXGBX3yI_99cRK6MblhIwyW54zXGR4H79ANUIlguRep25J076R2ureFklJNmXZBa8KTEmLvVDQcFHQQff0rGVFv0c5HuG58Zd25cfX3dfQWOM3FEVOFq1IzRL1SUZYId9Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYQKYmOXGBX3yI_99cRK6MblhIwyW54zXGR4H79ANUIlguRep25J076R2ureFklJNmXZBa8KTEmLvVDQcFHQQff0rGVFv0c5HuG58Zd25cfX3dfQWOM3FEVOFq1IzRL1SUZYId9Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3418132,
+      "lng": 77.7143494,
+      "label": "Meena Pasupathi Plastic Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "metarnity-hospital-erode",
+    "name": "Metarnity hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Metarnity hospital delivers integrated care across Liver Transplant Surgery In Erode. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PH4+XJG, Teachers Colony, Palayapalayam, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Palayapalayam",
+    "landmark": "Palayapalayam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3299414%2C77.706569&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3299414%2C77.706569&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3299414%2C77.706569&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3299414%2C77.706569&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3299414,
+      "lng": 77.706569,
+      "label": "Metarnity hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mrc-eye-hospital-erode",
+    "name": "MRC Eye Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, MRC Eye Hospital delivers integrated care across Spine Neurosurgeon In Erode. Operational strengths including Google rating 3.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "098427 66999",
+    "alternatePhone": "",
+    "website": "http://www.mrceyehospital.org/",
+    "address": "Bus Stop, 1/581, Erode - Perundurai Rd, near Veppampalayam, opp. MuthuMahal Kalyana mandapam, Erode, Tamil Nadu 638112",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638112",
+    "locality": "opp. MuthuMahal Kalyana mandapam",
+    "landmark": "near Veppampalayam, opp. MuthuMahal Kalyana mandapam, Erode, Tamil Nadu 638112",
+    "emergencyContact": "098427 66999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1Xdv9_CSvQOTD-kAuXeGa5zr4Ff0bxQM8SKOfElOiAfQqiAfNFtf5mm9dAgS4eaV7VePsDMlp2upvcfIkZUn0WAGB2_aHnUJi-HTjqKfTAspsmq4Qd5rxEhxuhfNPqecsYTPT=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1Xdv9_CSvQOTD-kAuXeGa5zr4Ff0bxQM8SKOfElOiAfQqiAfNFtf5mm9dAgS4eaV7VePsDMlp2upvcfIkZUn0WAGB2_aHnUJi-HTjqKfTAspsmq4Qd5rxEhxuhfNPqecsYTPT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.301562,
+      "lng": 77.6562543,
+      "label": "MRC Eye Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "muthumeenakshi-hospitals-pvt-ltd-pudukkottai",
+    "name": "MuthuMeenakshi Hospitals Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pudukkottai often choose MuthuMeenakshi Hospitals Pvt Ltd for its strength in Liver Transplant Surgery In Erode. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pudukkottai.",
+    "email": "",
+    "phone": "075051 75051",
+    "alternatePhone": "",
+    "website": "http://muthumeenakshihospitals.com/",
+    "address": "S 4th St, near Anna Statue, Marthandapuram, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Marthandapuram",
+    "landmark": "near Anna Statue, Marthandapuram, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "075051 75051",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEK84QXzPvo7q8seCLgsewL0Xl8fbXVYifdJRC7260iQvdNS0CdzqOuv6JKswfe9cEyC664KXnAKA2aPGT4Wj2ZXfgGV920yyh31LfPJ8HSY8U1xfU_lrAKsItzGi3Zemu81_Y_EQ=w1200-h900-p-k-no",
+    "logo": "https://muthumeenakshihospitals.com/wp-content/uploads/2025/10/01Artboard-1-scaled.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEK84QXzPvo7q8seCLgsewL0Xl8fbXVYifdJRC7260iQvdNS0CdzqOuv6JKswfe9cEyC664KXnAKA2aPGT4Wj2ZXfgGV920yyh31LfPJ8HSY8U1xfU_lrAKsItzGi3Zemu81_Y_EQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPOfe-E7NuEupklRmtJRFJz7qysosJbJQ_xrblO=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPG53-D90wYQ-dnyvt8RC8eJym422SCFA0rsZLZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1GsHi2EnScQmFB5qIrHMorXPzjTmfJAeUr_9RsoHtupH7nr7NFgDtn8w_265HJJpH-BSaPehTdRGe5S2HR6LW9lZyIC6JQiYJgAUCIvkDHl4S7uYkov4KT5CWFfjdWTbj-qbG=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.3794013,
+      "lng": 78.82189,
+      "label": "MuthuMeenakshi Hospitals Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nalan-hospital-erode",
+    "name": "Nalan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Nalan Hospital brings together specialists for Kidney Transplant Surgery In Erode. Operational strengths including Google rating 3.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0424 222 1022",
+    "alternatePhone": "",
+    "website": "http://nalanhospital.in/",
+    "address": "210, EVN Rd, opposite to Erode GH, Nggo Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Nggo Colony",
+    "landmark": "opposite to Erode GH, Nggo Colony, Erode, Tamil Nadu 638009",
+    "emergencyContact": "0424 222 1022",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8fDJhfb-4ugPWY2BURK3d9I3u6HVyjYIbTMYjkJ4VQ3XQb2Ac588mvZG53-s5ed0TS_qlClYDzV4gPsIF4DuXNEbJsCeuinwtVRDDX4NjdCeNXq_lLAqkYukEgEYp6PMdyTI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8fDJhfb-4ugPWY2BURK3d9I3u6HVyjYIbTMYjkJ4VQ3XQb2Ac588mvZG53-s5ed0TS_qlClYDzV4gPsIF4DuXNEbJsCeuinwtVRDDX4NjdCeNXq_lLAqkYukEgEYp6PMdyTI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3398494,
+      "lng": 77.7168034,
+      "label": "Nalan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "narmadha-hospital-erode",
+    "name": "Narmadha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Narmadha Hospital for its strength in General Surgery In Erode. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "097872 62229",
+    "alternatePhone": "",
+    "website": "",
+    "address": "361/E, 361/E, near Nathagoundenpalayam, Mullamparappu, Erode, Tamil Nadu 638115",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638115",
+    "locality": "Mullamparappu",
+    "landmark": "near Nathagoundenpalayam, Mullamparappu, Erode, Tamil Nadu 638115",
+    "emergencyContact": "097872 62229",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEgn-sWIoMK-B_GFOR_3aSA2lyC3kJ9KL0uFp-zcBKRQhhWHoklwYuRRoHl9SBKNfFbFrD5iw3cHM9bxCz3Zb7sdmjBGPfItHKlkRlxn2t1JQBAlW54w4Hxlr9zpF7BhWkvk6yY=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEgn-sWIoMK-B_GFOR_3aSA2lyC3kJ9KL0uFp-zcBKRQhhWHoklwYuRRoHl9SBKNfFbFrD5iw3cHM9bxCz3Zb7sdmjBGPfItHKlkRlxn2t1JQBAlW54w4Hxlr9zpF7BhWkvk6yY=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.2859026,
+      "lng": 77.7268829,
+      "label": "Narmadha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "neoprime-hospitals-erode",
+    "name": "NeoPrime Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, NeoPrime Hospitals offers coordinated hospital care with major focus on Kidney Transplant Surgery In Erode. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "0424 355 8832",
+    "alternatePhone": "",
+    "website": "https://www.neoprimehospitals.com/",
+    "address": "6, SKC Road, near telephone bhawan, opposite to Ishwarya Hotels, Kaikolar Thottam, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Kaikolar Thottam",
+    "landmark": "near telephone bhawan, opposite to Ishwarya Hotels, Kaikolar Thottam, Erode, Tamil Nadu 638001",
+    "emergencyContact": "0424 355 8832",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHNNtQEpJJhYd1vUVG2qT8RfwQn8ps3lFZceOlU7YOKo_gc5R5q2CXg0IzKFtvLK_0caRdli8TM8eQhEbzf1_vTVFTMdzm8oUrNwceEjSVaIFBZhYUYcR15RVs1S5cI0xO-xZJf9NsbPFMR=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHNNtQEpJJhYd1vUVG2qT8RfwQn8ps3lFZceOlU7YOKo_gc5R5q2CXg0IzKFtvLK_0caRdli8TM8eQhEbzf1_vTVFTMdzm8oUrNwceEjSVaIFBZhYUYcR15RVs1S5cI0xO-xZJf9NsbPFMR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3392513,
+      "lng": 77.7214499,
+      "label": "NeoPrime Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nephroplus-at-abirami-kidney-care-erode",
+    "name": "Nephroplus at Abirami Kidney Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nephroplus at Abirami Kidney Care has built a strong reputation in Erode for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Erode and Kidney Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078934 96889",
+    "alternatePhone": "",
+    "website": "http://www.nephroplus.com/",
+    "address": "8PQ6+6WH, Adukku Parai, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "Edayankattuvalasu",
+    "emergencyContact": "078934 96889",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3380721%2C77.7123559&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://nephroplus.com/assets/images/logo_nephro.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3380721%2C77.7123559&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3380721%2C77.7123559&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3380721%2C77.7123559&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3380721,
+      "lng": 77.7123559,
+      "label": "Nephroplus at Abirami Kidney Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nephroplus-dialysis-and-kidney-care-centre-erode",
+    "name": "NephroPlus Dialysis & Kidney Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, NephroPlus Dialysis & Kidney Care Centre brings together specialists for Kidney Transplant Surgery In Erode and Kidney Care. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093445 79467",
+    "alternatePhone": "",
+    "website": "https://www.nephroplus.com/",
+    "address": "Abirami Kidney Care, Chinnamuthu Main St, Municipal Colony, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "Municipal Colony",
+    "emergencyContact": "093445 79467",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2c_P7lIFbiIXQDoM20v4jKI_F59OIdDXlG3ThYKvFI-Phwg4hFDIv1yaPDVfrCKZwMhfWL5KymphC0kLDuWIuEn9uxloQpQxISudLOkgxXd4oKBbmMRMpA84ij6uNb_sIPliI7XqkRto3=w1200-h900-p-k-no",
+    "logo": "https://nephroplus.com/assets/images/logo_nephro.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2c_P7lIFbiIXQDoM20v4jKI_F59OIdDXlG3ThYKvFI-Phwg4hFDIv1yaPDVfrCKZwMhfWL5KymphC0kLDuWIuEn9uxloQpQxISudLOkgxXd4oKBbmMRMpA84ij6uNb_sIPliI7XqkRto3=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3419456,
+      "lng": 77.7136788,
+      "label": "NephroPlus Dialysis & Kidney Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "neuro-speciality-hospital-erode",
+    "name": "Neuro Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Neuro Speciality Hospital brings together specialists for Brain Surgery In Erode, Neurosciences, and Speciality Care. Operational strengths including Google rating 3.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PM9+QF2, Poosari Chennimalai St, Chidambaram Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Chidambaram Colony",
+    "landmark": "Chidambaram Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Erode",
+      "Neurosciences",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3343758%2C77.7186519&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3343758%2C77.7186519&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3343758%2C77.7186519&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3343758%2C77.7186519&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3343758,
+      "lng": 77.7186519,
+      "label": "Neuro Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "neuro-super-specialty-clinic-erode-erode",
+    "name": "Neuro Super Specialty Clinic, Erode",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Neuro Super Specialty Clinic, Erode for its strength in Spine Neurosurgeon In Erode, Neurosciences, and Speciality Care. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "073733 73133",
+    "alternatePhone": "",
+    "website": "",
+    "address": "63/1, Nalli Hospital Rd, opp. Bus stand, Municipal Colony, Muncipal Colony, Erode, Tamil Nadu 638004",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638004",
+    "locality": "Muncipal Colony",
+    "landmark": "opp. Bus stand",
+    "emergencyContact": "073733 73133",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode",
+      "Neurosciences",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_1Dovzu6DRf6pWEuRgoprIorKahowiN79yGRgo3kib9PUzSb7B0fe25nj_oF7KIm22dS20LJKhYR1ty_SW02RNMELCTuxIMHn7ZfREUG8T_NIdKLnI3dLTMHVe8KMjcH1hg_3=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_1Dovzu6DRf6pWEuRgoprIorKahowiN79yGRgo3kib9PUzSb7B0fe25nj_oF7KIm22dS20LJKhYR1ty_SW02RNMELCTuxIMHn7ZfREUG8T_NIdKLnI3dLTMHVe8KMjcH1hg_3=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3466693,
+      "lng": 77.716801,
+      "label": "Neuro Super Specialty Clinic, Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "newlife-fertility-center-erode",
+    "name": "Newlife Fertility Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Newlife Fertility Center delivers integrated care across Kidney Transplant Surgery In Erode and Fertility Care. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "094437 65959",
+    "alternatePhone": "",
+    "website": "",
+    "address": "17, Kulanthu Poonai Colony Rd, Periyar Nagar, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Periyar Nagar",
+    "landmark": "Periyar Nagar",
+    "emergencyContact": "094437 65959",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0e-q85Vj9mcMjg_haGymcHscGdXGL-wJvNBzj6EVAIBkKNE6ukIvyx8coMeK6B7XjwblBeRZmFJYTfbJZcsJVgzYt-6KC1A_UmgiLVkxss3ym4YxJ_0iuJH9RBhFILG6eQ10=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0e-q85Vj9mcMjg_haGymcHscGdXGL-wJvNBzj6EVAIBkKNE6ukIvyx8coMeK6B7XjwblBeRZmFJYTfbJZcsJVgzYt-6KC1A_UmgiLVkxss3ym4YxJ_0iuJH9RBhFILG6eQ10=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3339905,
+      "lng": 77.7260178,
+      "label": "Newlife Fertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "om-sakthi-hospital-and-test-tube-baby-centre-erode",
+    "name": "Om Sakthi Hospital & Test Tube Baby Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Om Sakthi Hospital & Test Tube Baby Centre brings together specialists for Gynecologist Surgery In Erode. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0424 228 1571",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No 1/3, NGGO Nagar Main Rd, near Am Mahal, State Bank Nagar, Chettipalayam, Erode, Tamil Nadu 638002",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638002",
+    "locality": "Chettipalayam",
+    "landmark": "near Am Mahal, State Bank Nagar, Chettipalayam, Erode, Tamil Nadu 638002",
+    "emergencyContact": "0424 228 1571",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfb4F67tnmvo50mqkIhcGM53Feta2REYOcPhZ1neKP5grQ8OpdUeunW9km1Qx8SjZy6gh8nhd6Ph8X7_79fGZAC8_kpmOrdZgJf2kHaniYBmARTEeWYpPgoh5eQPNBAM4uN1Y=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfb4F67tnmvo50mqkIhcGM53Feta2REYOcPhZ1neKP5grQ8OpdUeunW9km1Qx8SjZy6gh8nhd6Ph8X7_79fGZAC8_kpmOrdZgJf2kHaniYBmARTEeWYpPgoh5eQPNBAM4uN1Y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRW5OtD876k7daHAWPmpDA5MmnF0doLOHYfk15XKLUn_FZ-BydJdMTyc0ffzkOAVmhDLJtVCJbi2YSI39RxZx1gQJDWQ_CwLcq2qhxUmtN0xdPxtCSboH63sGJfgNetBrNBCJ9DA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3109434,
+      "lng": 77.7261465,
+      "label": "Om Sakthi Hospital & Test Tube Baby Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "onco-foundation-cancer-hospital-erode",
+    "name": "Onco Foundation Cancer Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Onco Foundation Cancer Hospital delivers integrated care across Oncologist Surgery In Erode. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "089404 04444",
+    "alternatePhone": "",
+    "website": "http://www.oncofoundation.com/",
+    "address": "1/1, Poosari Chennimalai Street, Subha hospital Complex Surampatti, Post, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Post",
+    "landmark": "Subha hospital Complex Surampatti",
+    "emergencyContact": "089404 04444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-5Z4Ajb9YGV2zq5-V3tTG6MO4nJ-OMQOz3g8R-1nwZxzsXR19eVc9cIsIu9SW80yTZDMJRchy18hCPE-AwWVFiVMfbp2NAAVvyI96r8r46DeOq5s0V7EbV_YFQTh5Cd7mXGkm8_Y19IjZ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-5Z4Ajb9YGV2zq5-V3tTG6MO4nJ-OMQOz3g8R-1nwZxzsXR19eVc9cIsIu9SW80yTZDMJRchy18hCPE-AwWVFiVMfbp2NAAVvyI96r8r46DeOq5s0V7EbV_YFQTh5Cd7mXGkm8_Y19IjZ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3341297,
+      "lng": 77.7181001,
+      "label": "Onco Foundation Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "padma-kidney-center-erode",
+    "name": "Padma Kidney Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Padma Kidney Center brings together specialists for Kidney Transplant Surgery In Erode and Kidney Care. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Paari Nagar, Kumalan Kuttai, Palayapalayam, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Palayapalayam",
+    "landmark": "Palayapalayam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGNiFMm1rsm09a24PiCwTBNY8GI_UqLN_GxhL8VIiQBH6kp4x_TfH08_yRew_1oD5MpCMaXh03xl37GKkeIWl7Q0NdBMcKf21AGXo7gEUTeUmDcCsdGsgfvuAaSXRddkS4qPiPs3JT1Ytvn=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGNiFMm1rsm09a24PiCwTBNY8GI_UqLN_GxhL8VIiQBH6kp4x_TfH08_yRew_1oD5MpCMaXh03xl37GKkeIWl7Q0NdBMcKf21AGXo7gEUTeUmDcCsdGsgfvuAaSXRddkS4qPiPs3JT1Ytvn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGN-RmtTBhuzWTDOoaZP_Aa5nBz7zFG9JID3GwfjqlvnuAXQ9WJnlvBEXx_pKXugzh8lMi4ZHyzfaqZ6R5YGpHwmrLxxEp01_x7xeToBn-6lBOpIrCJu9FxImNlrlQWoNnZUw6l=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.330383,
+      "lng": 77.69731,
+      "label": "Padma Kidney Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "priya-hospital-perundurai",
+    "name": "Priya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Perundurai, Priya Hospital offers coordinated hospital care with major focus on Spine Neurosurgeon In Erode. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Perundurai.",
+    "email": "",
+    "phone": "095147 23861",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Agraharam Street, Perundurai, Tamil Nadu 638052",
+    "city": "Perundurai",
+    "state": "Tamil Nadu",
+    "pincode": "638052",
+    "locality": "Agraharam Street",
+    "landmark": "Tamil Nadu 638052",
+    "emergencyContact": "095147 23861",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjwauQ4ksOtXKXLcI4e2B5EYPELcLvv_XUEEUtG_gt548NK9-GdSXlPwd7Vpfaq468pEGMhgnGST4UoRTsCvM5xuKTKJnI_XadnBygAu5cIvN0EVWEhxmdLMWi8fGnf7OmPOTq=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjwauQ4ksOtXKXLcI4e2B5EYPELcLvv_XUEEUtG_gt548NK9-GdSXlPwd7Vpfaq468pEGMhgnGST4UoRTsCvM5xuKTKJnI_XadnBygAu5cIvN0EVWEhxmdLMWi8fGnf7OmPOTq=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.2762331,
+      "lng": 77.5863308,
+      "label": "Priya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "pure-and-cure-speciality-centre-siddha-erode",
+    "name": "Pure & Cure Speciality Centre (SIDDHA)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Pure & Cure Speciality Centre (SIDDHA) delivers integrated care across Cancer Surgery In Erode and Speciality Care. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PV8+F5P, opp. to Srm sweets, Municipal Colony, Muncipal Colony, Edayankattuvalasu, Erode, Tamil Nadu 638004",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638004",
+    "locality": "Edayankattuvalasu",
+    "landmark": "Municipal Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3437075%2C77.7154623&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3437075%2C77.7154623&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3437075%2C77.7154623&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3437075%2C77.7154623&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3437075,
+      "lng": 77.7154623,
+      "label": "Pure & Cure Speciality Centre (SIDDHA)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ranm-malathy-vijayakumar-hospital-sampath-nagar-erode-erode",
+    "name": "RANM Malathy Vijayakumar Hospital, Sampath Nagar, Erode",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, RANM Malathy Vijayakumar Hospital, Sampath Nagar, Erode brings together specialists for Gynecologist Surgery In Erode. Its infrastructure includes Google rating 4.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "091504 96284",
+    "alternatePhone": "",
+    "website": "",
+    "address": "66, Sampath Nagar Rd, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Sampath Nagar Rd",
+    "landmark": "Erode",
+    "emergencyContact": "091504 96284",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHQUOee1QRkeGmZNrRaDFtDrc_QPCj98zSrDyujfU3jsZIGvXip1AZXktWhGwFhG-6VyaHxJ_xOkb4Wagz-GUpcgMDa5Z98s5aqxS5M3DbpsLaRW59MbjVSKUhtG6DfQoi5fEu=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHQUOee1QRkeGmZNrRaDFtDrc_QPCj98zSrDyujfU3jsZIGvXip1AZXktWhGwFhG-6VyaHxJ_xOkb4Wagz-GUpcgMDa5Z98s5aqxS5M3DbpsLaRW59MbjVSKUhtG6DfQoi5fEu=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5WdVfajWIQFJZIV83s6uj1UcIL9DtZoEEta6wIUd67RH0oo2W65e-Atw3x9ynVKpnqHEzy2d7SCxGKGe34tj8po73GqbGB7V9mMd84vGpwADns4eDi9a7gwZCVDUKZSoQ86nZRw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTwPPINcpv08qCeQSQLbKkOccki4SomY77zlknyVDsKsCtLYZHyt9WLbywN9BXdbJwE59rQkAwxP-r4QduQXqSV2IPRyuWrnwvnOIYvz-SciPZk7FnQ5fLQh-HDRaRu6p5BP8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3413707,
+      "lng": 77.708975,
+      "label": "RANM Malathy Vijayakumar Hospital, Sampath Nagar, Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rhythm-medical-centre-and-hospital-erode",
+    "name": "Rhythm Medical Centre and Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Rhythm Medical Centre and Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Erode. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "099430 43033",
+    "alternatePhone": "",
+    "website": "http://www.rhythmhospitalerode.com/",
+    "address": "10, Karur Rd, near Carmel School, Sakthi Nagar, Erode, Tamil Nadu 638002",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638002",
+    "locality": "Sakthi Nagar",
+    "landmark": "near Carmel School, Sakthi Nagar, Erode, Tamil Nadu 638002",
+    "emergencyContact": "099430 43033",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeO8jdVrrZ6oRyV1Kiusk9ChqAazqdjOyOj9xQHI7YcApxyvnu2qCBvG8dwLmoqYx9t5YV3CADD3rvjqN27YDq0x2aRcjgbnb99i6JZJc1d0L5KPRZbfAW9_wg85fh6PXNCBtR6xXMfjvQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeO8jdVrrZ6oRyV1Kiusk9ChqAazqdjOyOj9xQHI7YcApxyvnu2qCBvG8dwLmoqYx9t5YV3CADD3rvjqN27YDq0x2aRcjgbnb99i6JZJc1d0L5KPRZbfAW9_wg85fh6PXNCBtR6xXMfjvQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3233697,
+      "lng": 77.7412962,
+      "label": "Rhythm Medical Centre and Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rkr-neuro-speciality-hospital-erode",
+    "name": "RKR Neuro Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose RKR Neuro Speciality Hospital for its strength in Spine Neurosurgeon In Erode, Neurosciences, and Speciality Care. Operational strengths including Google rating 3.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094877 81324",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Indu Nagar, EB Officer's Colony, Palayapalayam, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Palayapalayam",
+    "landmark": "Palayapalayam",
+    "emergencyContact": "094877 81324",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode",
+      "Neurosciences",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWOy3zNgHxsRLSJl5wz5ataGTaEVTzGwLC1sUzN9TrwARJuSDj388tb2jRHbS-jQ9CsLI4mVDV_kjt4a-P7UKueIaPIfshOKMSz_Neq5zCJUgMf6Ef8hrYs8P57OWtB7OVr3fAww=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWOy3zNgHxsRLSJl5wz5ataGTaEVTzGwLC1sUzN9TrwARJuSDj388tb2jRHbS-jQ9CsLI4mVDV_kjt4a-P7UKueIaPIfshOKMSz_Neq5zCJUgMf6Ef8hrYs8P57OWtB7OVr3fAww=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3279249,
+      "lng": 77.6992138,
+      "label": "RKR Neuro Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rv-hospital-pallipalayam",
+    "name": "RV Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RV Hospital is a prominent hospital in Pallipalayam, known for structured tertiary care across Gynecologist Surgery In Erode. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Pallipalayam.",
+    "email": "",
+    "phone": "096599 09593",
+    "alternatePhone": "",
+    "website": "http://www.rvhosp.com/",
+    "address": "Thillai nagar, 1st St, Pallipalayam, Tamil Nadu 638008",
+    "city": "Pallipalayam",
+    "state": "Tamil Nadu",
+    "pincode": "638008",
+    "locality": "1st St",
+    "landmark": "Pallipalayam",
+    "emergencyContact": "096599 09593",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-ev61Akg6BgVuEHLN5bX5u2qDfY9PopXL9nyD6lj9_bPyNl3pBlXVieQvlEHfpRKCo9VJL6O1HOYmVJS52kJ6U2e6DCM-gmymF5mCiUvJHOKdPrPnCDLgQmBceNjUPXPWcXBP=w1200-h900-p-k-no",
+    "logo": "http://www.rvhosp.com/src/RV-01.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-ev61Akg6BgVuEHLN5bX5u2qDfY9PopXL9nyD6lj9_bPyNl3pBlXVieQvlEHfpRKCo9VJL6O1HOYmVJS52kJ6U2e6DCM-gmymF5mCiUvJHOKdPrPnCDLgQmBceNjUPXPWcXBP=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3696361,
+      "lng": 77.7425073,
+      "label": "RV Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "s-c-s-hospital-erode",
+    "name": "S.C.S Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Erode, S.C.S Hospital delivers integrated care across Kidney Transplant Surgery In Erode. Its infrastructure includes Google rating 3.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 225 5727",
+    "alternatePhone": "",
+    "website": "",
+    "address": "466, Brough Rd, Erode Fort, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Erode Fort",
+    "landmark": "Erode Fort",
+    "emergencyContact": "0424 225 5727",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIicu2q5b=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIicu2q5b=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIicu2q5b55en3OrWVfM0AsauGuvolObmdXFh_o-tI3oRVVTO5WBtt5ZO7BAaCSG9Z6l7VCvJ_0C9WTfLAmDcOw_Vs7UXmBcIAWzf0jiE1Ik1PA_UPDNcH8pEAFYpo4DNEzqSyUE9_fNs=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3410862,
+      "lng": 77.7179842,
+      "label": "S.C.S Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sabari-speciality-hospital-erode",
+    "name": "Sabari Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Sabari Speciality Hospital brings together specialists for Orthopedic Surgery In Erode and Speciality Care. Its infrastructure includes Google rating 3.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "0424 226 2702",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PM9+PF3, EVN Rd, Kaikolar Thottam, Chidambaram Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Chidambaram Colony",
+    "landmark": "Kaikolar Thottam",
+    "emergencyContact": "0424 226 2702",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFChMEUklaizrbk2On8hqhAqd28iccmcnACLxjsugcjZZ52WcYDJjcYXydgLSoYjDPrGyQav_UmRTweawbIALgAM04pfuBFqSZswupVUSnYlVXtOvbCQJBkGviQenZyoCf281P69Q=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFChMEUklaizrbk2On8hqhAqd28iccmcnACLxjsugcjZZ52WcYDJjcYXydgLSoYjDPrGyQav_UmRTweawbIALgAM04pfuBFqSZswupVUSnYlVXtOvbCQJBkGviQenZyoCf281P69Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3342745,
+      "lng": 77.7186805,
+      "label": "Sabari Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sakthi-hospital-erode",
+    "name": "Sakthi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Sakthi Hospital brings together specialists for Laparoscopic Surgery In Erode. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8P9G+2V3, Poondurai Rd, Moolapalayam, Erode, Tamil Nadu 638002",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638002",
+    "locality": "Moolapalayam",
+    "landmark": "Moolapalayam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQACnzwvutIYe6yEITbOf-cdoSbN3TdJoVQjlikOf_VDvGW4OV39ubcCNoj8-UGZZwpGwlzwOP_H927nGUyDWk3S-xf4FMiIotGxcaPXbEQSccTlCVXX5-0fsqcrBQbvkV0sAI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQACnzwvutIYe6yEITbOf-cdoSbN3TdJoVQjlikOf_VDvGW4OV39ubcCNoj8-UGZZwpGwlzwOP_H927nGUyDWk3S-xf4FMiIotGxcaPXbEQSccTlCVXX5-0fsqcrBQbvkV0sAI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3175229,
+      "lng": 77.7271823,
+      "label": "Sakthi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sakthipriyaa-hospital-erode",
+    "name": "Sakthipriyaa Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sakthipriyaa Hospital has built a strong reputation in Erode for multidisciplinary treatment pathways covering Cardiac Surgery In Erode. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0424 225 4997",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PQ6+5G9, Perundurai Road, Balasubramaniyam St, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Balasubramaniyam St",
+    "landmark": "Balasubramaniyam St",
+    "emergencyContact": "0424 225 4997",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYVVOm41A3xRXc8OwI6CqHj0O6OdBqcWXakTA39Bo1CBgODFn2XI_YCDxXc_GMg-fYxB_fG2fUxfkiXlZNy--yncnAksmkhsQFI45y3KVMY7xSeXRkX1z9XBq0oByUeRNLQ_8=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYVVOm41A3xRXc8OwI6CqHj0O6OdBqcWXakTA39Bo1CBgODFn2XI_YCDxXc_GMg-fYxB_fG2fUxfkiXlZNy--yncnAksmkhsQFI45y3KVMY7xSeXRkX1z9XBq0oByUeRNLQ_8=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3379047,
+      "lng": 77.7113591,
+      "label": "Sakthipriyaa Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "salem-gopi-hospitals-salem",
+    "name": "Salem Gopi Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Salem Gopi Hospitals is a prominent hospital in Salem, known for structured tertiary care across Liver Transplant Surgery In Erode. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Salem.",
+    "email": "",
+    "phone": "098943 52229",
+    "alternatePhone": "",
+    "website": "https://salemgopihospital.in/",
+    "address": "23, B, Gopi Hospital, Ramakrishna Rd, Hasthampatti, Salem, Tamil Nadu 636007",
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "pincode": "636007",
+    "locality": "Hasthampatti",
+    "landmark": "Gopi Hospital",
+    "emergencyContact": "098943 52229",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHt6SPCV9fQxi9mOA40bYp40TW42i_XYieodTMv8I9UcJEVChWm0BaaGwb5_zJGrCxaFAs18eCpjAsBfUZqaZEc2TAqEB2ZmiPC41vgqmRMkK84Y_o3BwKwXHpHOprJeYUBbD7L=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHt6SPCV9fQxi9mOA40bYp40TW42i_XYieodTMv8I9UcJEVChWm0BaaGwb5_zJGrCxaFAs18eCpjAsBfUZqaZEc2TAqEB2ZmiPC41vgqmRMkK84Y_o3BwKwXHpHOprJeYUBbD7L=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzkHgbhZVisKh_1tdNQWpzN5P7xnnZtQjUy5MoHFV4lImGZN6XfJuUUdm8Y1Hmg8jD5YXXSW0YY2PnsHaoSsIt0e53ot_meU8WkUrnpXxXpSqc9hJEhw_3JpFL5_rc_EHa1yb6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.674297,
+      "lng": 78.1512757,
+      "label": "Salem Gopi Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sanjit-health-care-piles-clinic-in-erode-fistula-treatment-center-in-erode-and-fissure-clinic-in-erode-erode",
+    "name": "Sanjit Health Care (piles clinic in erode, fistula treatment center in erode and fissure clinic in erode)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Sanjit Health Care (piles clinic in erode, fistula treatment center in erode and fissure clinic in erode) delivers integrated care across Liver Transplant Surgery In Erode. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "088480 44066",
+    "alternatePhone": "",
+    "website": "https://sanjitpilesclinic.com/",
+    "address": "13/3, Bharathidasan Street, Teachers Colony, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Teachers Colony",
+    "landmark": "Teachers Colony",
+    "emergencyContact": "088480 44066",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZkdBwvexkh14uxLKM4XfYJjDsj0OjQ0od9TITgToL8EqlzhJWDTLQbIyalXIK8LCerUulQUIwc3BIFtrOfNt4K8ikr7vm3c0vqTR52dBzVXQi6cum8z__AZSODss8UUjo6BQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZkdBwvexkh14uxLKM4XfYJjDsj0OjQ0od9TITgToL8EqlzhJWDTLQbIyalXIK8LCerUulQUIwc3BIFtrOfNt4K8ikr7vm3c0vqTR52dBzVXQi6cum8z__AZSODss8UUjo6BQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNypTLhmqJ18SMdpRSGN0i_0G4wUznvxjdXS1ZZ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOIeIFLTn0AqQP-iUb-YRMtgSpPyE565eulg_2B=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMJ7dPnMlSgpS88DuaWfcv7aBHKC8DVKqUg_u7z=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOb0pGb39ZJk_uDotUGe5yu4JAAy0F2PTzLH0cC=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3311857,
+      "lng": 77.7044292,
+      "label": "Sanjit Health Care (piles clinic in erode, fistula treatment center in erode and fissure clinic in erode)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "scs-hospital-and-urology-clinic-erode-tn-erode",
+    "name": "Scs Hospital And Urology Clinic Erode Tn.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Scs Hospital And Urology Clinic Erode Tn. delivers integrated care across Urologist Surgery In Erode. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PR9+R3V, Erode Fort, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Erode Fort",
+    "landmark": "Erode",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7YpQG78AJTVWwhFhdz08NUX_B2rUdjCGcw8nK6ETnlHKvuVpnd_yv1aMd6wn31KKVOdcwUvMf8cALnNRrZxtoRQn-TTQB7KaPqfqlRa5PQ_hUAFRe5xvmP13PHL0oY8gEHvDD=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7YpQG78AJTVWwhFhdz08NUX_B2rUdjCGcw8nK6ETnlHKvuVpnd_yv1aMd6wn31KKVOdcwUvMf8cALnNRrZxtoRQn-TTQB7KaPqfqlRa5PQ_hUAFRe5xvmP13PHL0oY8gEHvDD=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.342117,
+      "lng": 77.7176837,
+      "label": "Scs Hospital And Urology Clinic Erode Tn.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "seethalakshmi-hospital-gobichettipalayam",
+    "name": "Seethalakshmi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Seethalakshmi Hospital has built a strong reputation in Gobichettipalayam for multidisciplinary treatment pathways covering Liver Transplant Surgery In Erode. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Gobichettipalayam.",
+    "email": "",
+    "phone": "04285 222 244",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CCXM+2J7, Modachur Rd, Cheran Nagar, Chinna Modachur, Gobichettipalayam, Tamil Nadu 638476",
+    "city": "Gobichettipalayam",
+    "state": "Tamil Nadu",
+    "pincode": "638476",
+    "locality": "Chinna Modachur",
+    "landmark": "Cheran Nagar",
+    "emergencyContact": "04285 222 244",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUrr2jzQgqJUtwkI6bS6eubCbAW3RmdvhT6DILfHwnnZy7B4znTJKlYWtjGYFrFbRpnBCRwikfXGQjujL-Ae6mAgxLlMEtCoUyXPGG5q-GvbH0gUSvxxPXw4TwfAJWJWtw1ZQy=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUrr2jzQgqJUtwkI6bS6eubCbAW3RmdvhT6DILfHwnnZy7B4znTJKlYWtjGYFrFbRpnBCRwikfXGQjujL-Ae6mAgxLlMEtCoUyXPGG5q-GvbH0gUSvxxPXw4TwfAJWJWtw1ZQy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.4475386,
+      "lng": 77.4340423,
+      "label": "Seethalakshmi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "senthil-heart-centre-erode",
+    "name": "Senthil Heart Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted heart hospital in Erode, Senthil Heart Centre delivers integrated care across Kidney Transplant Surgery In Erode and Cardiac Care. With public-facing highlights like Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://smshospitals.in/",
+    "address": "8PQ7+XFC, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "Erode",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3399387%2C77.7136282&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://smshospitals.in/images/new/logo-hd.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3399387%2C77.7136282&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3399387%2C77.7136282&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3399387%2C77.7136282&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3399387,
+      "lng": 77.7136282,
+      "label": "Senthil Heart Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "senthil-kidney-centre-erode",
+    "name": "Senthil Kidney Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Senthil Kidney Centre has built a strong reputation in Erode for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Erode and Kidney Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "097914 35037",
+    "alternatePhone": "",
+    "website": "https://drgowrishankar.com/",
+    "address": "Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "Tamil Nadu 638011",
+    "emergencyContact": "097914 35037",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLHZbFHKbSi0NgsyF1xn74ahOeoBhFtffRSxtq2C-uJZqdF-EVqTRzfCs1IiuayXTcaUlPCBMGVKP9n36A0U9BsOK68yNRsf4YJE4yO58l4u-PBZHAJZKJ17KTBhUbCODhJnr2kg=w1200-h900-p-k-no",
+    "logo": "https://drgowrishankar.com/images/fevi.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLHZbFHKbSi0NgsyF1xn74ahOeoBhFtffRSxtq2C-uJZqdF-EVqTRzfCs1IiuayXTcaUlPCBMGVKP9n36A0U9BsOK68yNRsf4YJE4yO58l4u-PBZHAJZKJ17KTBhUbCODhJnr2kg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3392387,
+      "lng": 77.7139717,
+      "label": "Senthil Kidney Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "senthil-multi-speciality-hospital-erode",
+    "name": "Senthil Multi Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Senthil Multi Speciality Hospital is a prominent hospital in Erode, known for structured tertiary care across Urologist Surgery In Erode and Speciality Care. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "088830 55555",
+    "alternatePhone": "",
+    "website": "http://smshospitals.in/",
+    "address": "NATESAR MILL COMPOUND, 547, Perundurai Rd, behind senthil multispeciality hospital, near Trust Hospital, Nggo Colony, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Nggo Colony",
+    "landmark": "near Trust Hospital, Nggo Colony, Erode, Tamil Nadu 638011",
+    "emergencyContact": "088830 55555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbzp0CTh6uvcnC_ktIA1VVQ_iHMLoJpr8-eXEewyZ8v4DXY_ZPTG3uduDxFcmOzbCprI-y61-GEGSU7fc6wVqfjUDOL2f5mUQwaVIr4B5s5Yp7sUaLrU_ysKzbv-elh3SWbqQHPA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbzp0CTh6uvcnC_ktIA1VVQ_iHMLoJpr8-eXEewyZ8v4DXY_ZPTG3uduDxFcmOzbCprI-y61-GEGSU7fc6wVqfjUDOL2f5mUQwaVIr4B5s5Yp7sUaLrU_ysKzbv-elh3SWbqQHPA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5NNx7rLWSx6uOZacDy6aO_7ADzCCfekc2DrA75kgMm8qBXTC6Lec_RyB6DS-hCJjRLlktX-RUFG13s0rZLuPmDirfHxn_nJthJqYVNrtOxJelKsHYoyOTE1vg_B1sYdPvh1A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3389415,
+      "lng": 77.713883,
+      "label": "Senthil Multi Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sg-met-hospital-erode",
+    "name": "SG MET Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SG MET Hospital is a prominent hospital in Erode, known for structured tertiary care across Liver Transplant Surgery In Erode. Hospital capacity markers such as Google rating 2.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "080125 10888",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot N0: 15, Nachiyappa 2nd Street, Erode Fort, 4, Agilmedu 4th St, Erode Fort, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Erode Fort",
+    "landmark": "Erode Fort",
+    "emergencyContact": "080125 10888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHagv7fOXLg8N-78gIG7iKNcDtZJBPqwhQfZCgQ7UrQJu5qKk0r3cgtfvzrJwa3MbtxpWz-sbSD1HZ4gjqWjLivtTGksIpTXJsCkjP2-Q3JNuOO35NkK9jaXOK_M674HhdB13DC=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHagv7fOXLg8N-78gIG7iKNcDtZJBPqwhQfZCgQ7UrQJu5qKk0r3cgtfvzrJwa3MbtxpWz-sbSD1HZ4gjqWjLivtTGksIpTXJsCkjP2-Q3JNuOO35NkK9jaXOK_M674HhdB13DC=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcsbl6chsrJpsgZ8vc19GwpfFYsKZmfltw3de2sjTISW0IfiPvzxsrdVfGkUiD2DD_PrXZcuo2I2ntqOJpKZqqtjrwM34wPPQm1t3792in=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcsbl6chsrJpsgZ8vc19GwpfFYsKZmfltw3de2sjTISW0IfiPvzxsrdVfGkUiD2DD_PrXZcuo2I2ntqOJpKZqqtjrwM34wPPQm1t3792inbLOfW1uhLmdqrBI5jjMhFiLMozj3G8_zF_A=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3446765,
+      "lng": 77.7204158,
+      "label": "SG MET Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shabber-hospital-erode",
+    "name": "Shabber Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Shabber Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Erode. The facility stands out for Google rating 3.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "096559 51444",
+    "alternatePhone": "",
+    "website": "http://shabeerhospital.com/",
+    "address": "Veterinary Hospital Rd, Surampattivalasu, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Surampattivalasu",
+    "landmark": "Erode",
+    "emergencyContact": "096559 51444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3351925%2C77.7284131&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3351925%2C77.7284131&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3351925%2C77.7284131&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3351925%2C77.7284131&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3351925,
+      "lng": 77.7284131,
+      "label": "Shabber Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shanmuga-hospital-limited-salem",
+    "name": "Shanmuga Hospital Limited",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shanmuga Hospital Limited is a prominent hospital in Salem, known for structured tertiary care across Liver Transplant Surgery In Erode. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Salem.",
+    "email": "",
+    "phone": "0427 270 6666",
+    "alternatePhone": "",
+    "website": "http://www.shanmugahospital.com/",
+    "address": "24, Sarada College Rd, LRN Colony, Chinna Pudur, Salem, Tamil Nadu 636007",
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "pincode": "636007",
+    "locality": "Chinna Pudur",
+    "landmark": "LRN Colony",
+    "emergencyContact": "0427 270 6666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeMwrj1ATfx4Sc3JHNEEWLOqRs7NwWBbI_JJr09UhdQmrETwQCeoDxFVzfMxY619hpwKFOcYR7SbckmIdQs_xx2iJEuoVg8QGbZuY-jy1yKd5S-60awe6ik3YrU-C7YcjGN1rNhg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeMwrj1ATfx4Sc3JHNEEWLOqRs7NwWBbI_JJr09UhdQmrETwQCeoDxFVzfMxY619hpwKFOcYR7SbckmIdQs_xx2iJEuoVg8QGbZuY-jy1yKd5S-60awe6ik3YrU-C7YcjGN1rNhg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.676736,
+      "lng": 78.1529594,
+      "label": "Shanmuga Hospital Limited",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sholai-medical-centre-erode",
+    "name": "Sholai Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sholai Medical Centre is a prominent hospital in Erode, known for structured tertiary care across Gynecologist Surgery In Erode. With public-facing highlights like Google rating 4.1, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "089037 33709",
+    "alternatePhone": "",
+    "website": "",
+    "address": "20, Perundurai Rd, opp. Sudha Hospital, V Chatram, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "V Chatram",
+    "landmark": "opp. Sudha Hospital",
+    "emergencyContact": "089037 33709",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFG4_sNJKdhGfk4C463SqBwcoYUua7w0mXvNbtiei_VtJ2oPmJtuYvtpWciDQW9oz2y7nn98vZgzvopAWjR85ICgZAp0GMNGlTbkZvynAW3Dbd6cchKEhZqQ2sMk7kD91x7IHds=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFG4_sNJKdhGfk4C463SqBwcoYUua7w0mXvNbtiei_VtJ2oPmJtuYvtpWciDQW9oz2y7nn98vZgzvopAWjR85ICgZAp0GMNGlTbkZvynAW3Dbd6cchKEhZqQ2sMk7kD91x7IHds=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3365468,
+      "lng": 77.7109035,
+      "label": "Sholai Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shree-s-chest-clinic-erode",
+    "name": "SHREE'S CHEST CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, SHREE'S CHEST CLINIC brings together specialists for Liver Transplant Surgery In Erode. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "094897 08996",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RPL PLAZA, Kalaimagal Kalvi Nilayam Rd, Kaikolar Thottam, Surampattivalasu, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Surampattivalasu",
+    "landmark": "Kaikolar Thottam",
+    "emergencyContact": "094897 08996",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4hybzQ_gLJ3ChvVrpXI9qGYDebek4RgkyZrCWOZBliXd7PJVheDrMQi6klfQtkqvSJ8naZS-4OMPdgxAtydhXtzBoOqZCb_DmSzHA0gjG9BjCjoZUZnBv7RltlgNkpSxMvo1-=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4hybzQ_gLJ3ChvVrpXI9qGYDebek4RgkyZrCWOZBliXd7PJVheDrMQi6klfQtkqvSJ8naZS-4OMPdgxAtydhXtzBoOqZCb_DmSzHA0gjG9BjCjoZUZnBv7RltlgNkpSxMvo1-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3392318,
+      "lng": 77.7191845,
+      "label": "SHREE'S CHEST CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shri-anantha-surgicals-erode",
+    "name": "Shri Anantha Surgicals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Shri Anantha Surgicals brings together specialists for Liver Transplant Surgery In Erode. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "094422 25899",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PR9+99G, Vasuki St, Erode Fort, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Erode Fort",
+    "landmark": "Erode Fort",
+    "emergencyContact": "094422 25899",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVJZiTrNsihINnWIhtfX0p2xmmPH5KeXQ2Ni0pQg3pzWe82sadoDg0xo1fGZz6ncJreT5MXwPOU7tXR8hygop764WwjIDs0mZsG-m7s8bnp4DhP-qBCpoF9Jiya-GjpGziDAudYg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVJZiTrNsihINnWIhtfX0p2xmmPH5KeXQ2Ni0pQg3pzWe82sadoDg0xo1fGZz6ncJreT5MXwPOU7tXR8hygop764WwjIDs0mZsG-m7s8bnp4DhP-qBCpoF9Jiya-GjpGziDAudYg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3409424,
+      "lng": 77.7184562,
+      "label": "Shri Anantha Surgicals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "shri-preethe-hospital-nggo-colony-erode-erode",
+    "name": "Shri Preethe Hospital | Nggo Colony, Erode",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Erode, Shri Preethe Hospital | Nggo Colony, Erode delivers integrated care across Brain Surgery In Erode. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "098427 40440",
+    "alternatePhone": "",
+    "website": "",
+    "address": "15, Palaniappa St, opposite to GH, Nggo Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Nggo Colony",
+    "landmark": "opposite to GH, Nggo Colony, Erode, Tamil Nadu 638009",
+    "emergencyContact": "098427 40440",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAESDEkgyWgCt7FO52pEqQ2e7H5yYuc8LOGNoEiqmZR60CpjOyuT_NrZdYl-L432PQsMRoTkVM3-l1sA_TznQPb0Xw8DzXxHK5nNOte64J7jyPlegwbkywyiVThLse2oVNKfe_k=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAESDEkgyWgCt7FO52pEqQ2e7H5yYuc8LOGNoEiqmZR60CpjOyuT_NrZdYl-L432PQsMRoTkVM3-l1sA_TznQPb0Xw8DzXxHK5nNOte64J7jyPlegwbkywyiVThLse2oVNKfe_k=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3386667,
+      "lng": 77.715845,
+      "label": "Shri Preethe Hospital | Nggo Colony, Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sims-children-hospital-erode",
+    "name": "SIMS Children Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, SIMS Children Hospital offers coordinated hospital care with major focus on Brain Surgery In Erode and Women and Child Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.sudhahospitals.com/",
+    "address": "8PQ6+F58, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "Erode",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Erode",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkQTwfiOIrYD5b9ZxiFA8QD5VzquYWUAz6rgwZvNXAnSFzrSTnJj1CFptggKyxCh47xb-0T5vigjlvLlS1kTxVfpSaVg7IVDiFZ87uRDZEPA4fDPlYL0LiQeH8g6HbvpxxDb_PCw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkQTwfiOIrYD5b9ZxiFA8QD5VzquYWUAz6rgwZvNXAnSFzrSTnJj1CFptggKyxCh47xb-0T5vigjlvLlS1kTxVfpSaVg7IVDiFZ87uRDZEPA4fDPlYL0LiQeH8g6HbvpxxDb_PCw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.338661,
+      "lng": 77.7104486,
+      "label": "SIMS Children Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sims-hospitals-multi-speciality-hospital-in-chennai-chennai",
+    "name": "SIMS Hospitals - Multi Speciality Hospital in chennai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SIMS Hospitals - Multi Speciality Hospital in chennai has built a strong reputation in Chennai for multidisciplinary treatment pathways covering Liver Transplant Surgery In Erode and Speciality Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Chennai.",
+    "email": "",
+    "phone": "044 2000 2001",
+    "alternatePhone": "",
+    "website": "https://simshospitals.com/",
+    "address": "Metro No.1 Jawaharlal Nehru Road, Landmark:, next to Vadapalani, Chennai, Tamil Nadu 600026",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600026",
+    "locality": "next to Vadapalani",
+    "landmark": "next to Vadapalani",
+    "emergencyContact": "044 2000 2001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2J0qRrfUXLLTXj8pzHN7tozBS1oTr6g9F6o5SXAzTgN9NZGResVvFKq5qcWmjKodyKnWoWSzWCm2Y_oyPsOFwjvNEE3IN-_Iy_S4QwQkwq_hsLk-lcXkNF9S6HN2BzyPMu1bWuw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2J0qRrfUXLLTXj8pzHN7tozBS1oTr6g9F6o5SXAzTgN9NZGResVvFKq5qcWmjKodyKnWoWSzWCm2Y_oyPsOFwjvNEE3IN-_Iy_S4QwQkwq_hsLk-lcXkNF9S6HN2BzyPMu1bWuw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1eyTok68N7MFxRJoHuq48CMKG0Gm7CLzRJF4I0mfaSp8AizFzJgZJeUlnDJmBIF3JnTTog8VCuPtJLJecE96vFpEmOmHaHX5dD-PJQrXPmnHOgRYpzE5a43HP37ZRi8Ga-WLd=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF51dJzkdhtwxlOoy4P4-MWQzLMSTlu-uShzB0E9CMn83MI-bY1G53NNJm3smTSbjbOivy1azMHtkX9Vc-nv8LQkKdRK5m6DDtAafByXDJIFBxxDB-QyMbLImFYjNOMgM5uGZvo=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5bOrvnSt6CRDpUQBgmh7G7FVd5NpzWnIhzvdFQ97LwxaC8BGGgwKU7CuP-DqEiLxTt8BlSLyyXap4sw39BrKgBYJQ6wXn7ja0FR4ojFCidZTrwXn5BtwpU3VL_Ytmgb9bB0bOfV6dSIiu=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 13.0516924,
+      "lng": 80.2117546,
+      "label": "SIMS Hospitals - Multi Speciality Hospital in chennai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sisu-opd-centre-erode",
+    "name": "SISU OPD CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SISU OPD CENTRE is a prominent hospital in Erode, known for structured tertiary care across IVF In Erode. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "094433 00000",
+    "alternatePhone": "",
+    "website": "https://www.sisuhospital.com/",
+    "address": "Sami Building, Reliance Petrol Bunk, S.K, near Sudha Hospital, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "near Sudha Hospital, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "emergencyContact": "094433 00000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/geougc/AF1QipM8z8t_Z8tpFR_NnoHO-xeTyXqjx8Xncj3pYc1g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/geougc/AF1QipM8z8t_Z8tpFR_NnoHO-xeTyXqjx8Xncj3pYc1g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNWmSuDlnXtEcrbF0xmC0-3FWzn3hW9zN6RSHZr=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPlBwa8ykMTZSdaOxp2zpSbuSVht5cJaFR_oorE=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOlEzdqPDOQgoQMwPRYy7t55GSuFpPAQnNm894o=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNmqq5nLJiUuIF70a_0z1x0C4bCdDR9qazvCpSA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3364608,
+      "lng": 77.7100598,
+      "label": "SISU OPD CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sk-hospital-erode",
+    "name": "SK Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, SK Hospital offers coordinated hospital care with major focus on Spine Surgery In Erode. The facility stands out for Google rating 4.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "086677 27100",
+    "alternatePhone": "",
+    "website": "https://www.skhospitalerode.com/",
+    "address": "4, Poosari Chennimalai Street, EVN Rd, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "EVN Rd",
+    "landmark": "EVN Rd",
+    "emergencyContact": "086677 27100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHedOnzq63DcPebZ_zp5p3RKynU_0BnFnTzQtwvz4ueJAaVyihHMYjDHFOV_iM0pt-YAzaxsBonS_hg_i5uWKHWEuTM7tU98A5ETeRxE0jLBgc4OWP-J0OnFsZKWEEuTL8dKF0oXg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHedOnzq63DcPebZ_zp5p3RKynU_0BnFnTzQtwvz4ueJAaVyihHMYjDHFOV_iM0pt-YAzaxsBonS_hg_i5uWKHWEuTM7tU98A5ETeRxE0jLBgc4OWP-J0OnFsZKWEEuTL8dKF0oXg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMjRha2-NkDxZi3Sb_L8A2_n7gPZXlmwwuNC-kv=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3344233,
+      "lng": 77.7180462,
+      "label": "SK Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "spt-hospitals-24x7-kidney-cardiac-and-bone-care-coimbatore",
+    "name": "SPT Hospitals 24x7 KIDNEY ,CARDIAC & BONE CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SPT Hospitals 24x7 KIDNEY ,CARDIAC & BONE CARE is a prominent hospital in Coimbatore, known for structured tertiary care across Liver Transplant Surgery In Erode, Cardiac Care, Kidney Care, and Orthopaedics. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Coimbatore.",
+    "email": "",
+    "phone": "0422 223 2525",
+    "alternatePhone": "",
+    "website": "https://spthospitals.com/",
+    "address": "50, Vivekananda Rd, Peranaidu Layout, Ram Nagar, Coimbatore, Tamil Nadu 641009",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "pincode": "641009",
+    "locality": "Ram Nagar",
+    "landmark": "Peranaidu Layout",
+    "emergencyContact": "0422 223 2525",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode",
+      "Cardiac Care",
+      "Kidney Care",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnwtqDTGej0uKbP26C5Xix07MlM4EUSPg9rD6M4fntPyal9Hkla8a_JQPeZNIJofqlhHXiy1KJqD7nJaNZXUQDVLXaaUm8Bs6aXD8f-vdAtzLfMICvvK1rIfVYcfKGZ8JlytYm=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnwtqDTGej0uKbP26C5Xix07MlM4EUSPg9rD6M4fntPyal9Hkla8a_JQPeZNIJofqlhHXiy1KJqD7nJaNZXUQDVLXaaUm8Bs6aXD8f-vdAtzLfMICvvK1rIfVYcfKGZ8JlytYm=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.01434,
+      "lng": 76.9614552,
+      "label": "SPT Hospitals 24x7 KIDNEY ,CARDIAC & BONE CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sree-shaanthi-hospital-erode",
+    "name": "Sree Shaanthi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Sree Shaanthi Hospital brings together specialists for General Surgery In Erode. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "04294 226 085",
+    "alternatePhone": "",
+    "website": "",
+    "address": "268/4, Ram Nagar, Road State Highway 96, Erode, Perundurai, Tamil Nadu 638052",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638052",
+    "locality": "Road State Highway 96",
+    "landmark": "Road State Highway 96",
+    "emergencyContact": "04294 226 085",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMKWIPxlr9OC_y8YorxjquDyrBaIX5v06I9yB78tJjCltIUAf777SyImNIZBpyBQrOk1LHt1TVTubhB6MO4NbUCWgZsJQ1LpiOLTq2Teip_QNH6ISDh2ALggdL8FsPykmrKniByQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMKWIPxlr9OC_y8YorxjquDyrBaIX5v06I9yB78tJjCltIUAf777SyImNIZBpyBQrOk1LHt1TVTubhB6MO4NbUCWgZsJQ1LpiOLTq2Teip_QNH6ISDh2ALggdL8FsPykmrKniByQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.2777162,
+      "lng": 77.5885039,
+      "label": "Sree Shaanthi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-athi-sathya-hospital-erode",
+    "name": "Sri Athi Sathya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Sri Athi Sathya Hospital for its strength in Orthopedic Surgery In Erode. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0424 226 9518",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MRI, Perundurai Rd, opp. Johnsons, V Chatram, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "V Chatram",
+    "landmark": "opp. Johnsons",
+    "emergencyContact": "0424 226 9518",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFt4kyWPwyYXhN8nM76Cf5Z19YJlJ7GGvusDz1LBNPVTuInjLvIO-RFQY1KBUeXsErKVrmLnG_fL5TTENy7EGP_VT2phyIufcikVJjNyBdYlSi3lAD0YtdPvq8aNCASph0lY8mK=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFt4kyWPwyYXhN8nM76Cf5Z19YJlJ7GGvusDz1LBNPVTuInjLvIO-RFQY1KBUeXsErKVrmLnG_fL5TTENy7EGP_VT2phyIufcikVJjNyBdYlSi3lAD0YtdPvq8aNCASph0lY8mK=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3371602,
+      "lng": 77.7126721,
+      "label": "Sri Athi Sathya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-gokulam-hospital-salem",
+    "name": "Sri Gokulam Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Gokulam Hospital has built a strong reputation in Salem for multidisciplinary treatment pathways covering Liver Transplant Surgery In Erode. Operational strengths including Google rating 3.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Salem.",
+    "email": "",
+    "phone": "0427 244 8171",
+    "alternatePhone": "",
+    "website": "http://www.srigokulamhospital.com/",
+    "address": "3, 60, Meyyanur Main Rd, Pallapatti, Salem, Tamil Nadu 636004",
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "pincode": "636004",
+    "locality": "Pallapatti",
+    "landmark": "Meyyanur Main Rd",
+    "emergencyContact": "0427 244 8171",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEL4Lt06l0CveU7wretzGuxJM21UfaWWnW5Xc0yLm7vpn_TF_NjxGsbQ48IzNjZrY-zVfriwQiHPZRgS4-frBjlCkzpEqCzWFNls8RWlblKx3uOiy2DrG1LTyq36C-2rQ4swURlaA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEL4Lt06l0CveU7wretzGuxJM21UfaWWnW5Xc0yLm7vpn_TF_NjxGsbQ48IzNjZrY-zVfriwQiHPZRgS4-frBjlCkzpEqCzWFNls8RWlblKx3uOiy2DrG1LTyq36C-2rQ4swURlaA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.672718,
+      "lng": 78.1339232,
+      "label": "Sri Gokulam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-hari-medical-centre-care-hospital-erode",
+    "name": "SRI HARI MEDICAL CENTRE (Care Hospital)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose SRI HARI MEDICAL CENTRE (Care Hospital) for its strength in General Surgery In Erode. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "094433 19590",
+    "alternatePhone": "",
+    "website": "https://smchcare.com/",
+    "address": "Care Hospital, 11, Muthu Karuppan St, Opp.Government Hospital, Previously, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Previously",
+    "landmark": "Muthu Karuppan St",
+    "emergencyContact": "094433 19590",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFzhT9Q5r2xFizRijepB5Ey9Biu3p2dvetfrAqrPE_ZOUePF_BoRbPVK4-sVglEJS8-bIYEzP7ExirglBgvXG-9h3g90ogSmBgJOUqYneHCIHmhKvdAGFAsnc7grRP1hoOHLQEyQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFzhT9Q5r2xFizRijepB5Ey9Biu3p2dvetfrAqrPE_ZOUePF_BoRbPVK4-sVglEJS8-bIYEzP7ExirglBgvXG-9h3g90ogSmBgJOUqYneHCIHmhKvdAGFAsnc7grRP1hoOHLQEyQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3383031,
+      "lng": 77.7163832,
+      "label": "SRI HARI MEDICAL CENTRE (Care Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-hari-sakthivel-hospital-erode",
+    "name": "Sri Hari Sakthivel Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, Sri Hari Sakthivel Hospital delivers integrated care across Heart Surgery In Erode. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9P3J+4WX, Vinayagar Koil Street 2, Ramamoorthy Nagar, Karungalpalayam, Erode, Tamil Nadu 638003",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638003",
+    "locality": "Karungalpalayam",
+    "landmark": "Ramamoorthy Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnshH2CvPEvyqTTg7mJxjgSbEayppGyGt8C-1XFJluQlJ_iLMciDFF7-HWOeUF3q0cwwu_D86GeY9CmgyNch-9aAtFo41Bt_Ir4tgxEJ3t8t6CKHP_L_anqANldExvEKSLMA1ZXA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnshH2CvPEvyqTTg7mJxjgSbEayppGyGt8C-1XFJluQlJ_iLMciDFF7-HWOeUF3q0cwwu_D86GeY9CmgyNch-9aAtFo41Bt_Ir4tgxEJ3t8t6CKHP_L_anqANldExvEKSLMA1ZXA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3528602,
+      "lng": 77.732347,
+      "label": "Sri Hari Sakthivel Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-indhu-hospital-erode",
+    "name": "Sri Indhu Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Sri Indhu Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Erode. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "088700 30456",
+    "alternatePhone": "",
+    "website": "",
+    "address": "14/5, Jaganathapuram Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Jaganathapuram Colony",
+    "landmark": "Erode",
+    "emergencyContact": "088700 30456",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTqmLQVUzvFWhFDsUyUkDzX2rIEssNkLUERDr850NV3Et1Ie9bu2ALL7znmnrUm8BwuKxlNbVzhRRa0iUSJWaxPOxSktpstC3igrH4bqAg94LHa_3PTWD9ntSOZAdXt0QswHOb=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTqmLQVUzvFWhFDsUyUkDzX2rIEssNkLUERDr850NV3Et1Ie9bu2ALL7znmnrUm8BwuKxlNbVzhRRa0iUSJWaxPOxSktpstC3igrH4bqAg94LHa_3PTWD9ntSOZAdXt0QswHOb=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3284668,
+      "lng": 77.7130183,
+      "label": "Sri Indhu Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-jothi-hospital-erode",
+    "name": "Sri Jothi Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Sri Jothi Hospital brings together specialists for Gynecologist Surgery In Erode. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "0424 228 2344",
+    "alternatePhone": "",
+    "website": "",
+    "address": "72, 73, Nehru St, Housing Unit, Erode Fort, Nadarmedu, Erode, Tamil Nadu 638002",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638002",
+    "locality": "Nadarmedu",
+    "landmark": "Nehru St",
+    "emergencyContact": "0424 228 2344",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFU8r-4vM7SaHqtihohKqoHAq5A1zXNg95CjD2ScVTVlp1RualmXC28xCet2DElWXZoiNzZyC9afInrTzzMu11IGl_05WHjWM8dTZ67RWgggFJIsKjajk-ObcATljqmODjnM2h=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFU8r-4vM7SaHqtihohKqoHAq5A1zXNg95CjD2ScVTVlp1RualmXC28xCet2DElWXZoiNzZyC9afInrTzzMu11IGl_05WHjWM8dTZ67RWgggFJIsKjajk-ObcATljqmODjnM2h=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQV9uOrPxR_lh2xA5vUYGrZkb_OIJ_1tYjTqJsQiRcVtURH723VtH8-lISHUn3JUiXl5DqHmUzW7EvadTKJhQkw7bTBlakbPGxSvOjPCv38-LmCiuv970ZtWWCMmm2SvycOJi4pedFI0gy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3216866,
+      "lng": 77.7276519,
+      "label": "Sri Jothi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-krishna-hospital-pallipalayam",
+    "name": "Sri Krishna Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pallipalayam often choose Sri Krishna Hospital for its strength in Gynecologist Surgery In Erode. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Pallipalayam.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9P8X+64W, SH 79A, Pallipalayam, Tamil Nadu 638006",
+    "city": "Pallipalayam",
+    "state": "Tamil Nadu",
+    "pincode": "638006",
+    "locality": "SH 79A",
+    "landmark": "Pallipalayam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdcc-CbYSo0ktKFeR7UHDhGYVPUQbjsNU7-wZBaEGKC5lbWb_0n5PX5KN_SGuNEXyuWaJyWmivRyj2zn45GPivuo6zIWUUalvEyZST_7rOx7Dq0H3T3sdk0V5m6l9BrU9gaFwjdw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdcc-CbYSo0ktKFeR7UHDhGYVPUQbjsNU7-wZBaEGKC5lbWb_0n5PX5KN_SGuNEXyuWaJyWmivRyj2zn45GPivuo6zIWUUalvEyZST_7rOx7Dq0H3T3sdk0V5m6l9BrU9gaFwjdw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3656228,
+      "lng": 77.7478208,
+      "label": "Sri Krishna Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-kumaran-hospital-erode",
+    "name": "Sri Kumaran Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Kumaran Hospital has built a strong reputation in Erode for multidisciplinary treatment pathways covering Brain Surgery In Erode. With public-facing highlights like Google rating 2.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0424 227 7736",
+    "alternatePhone": "",
+    "website": "http://srikumaranhospitalerode.com/",
+    "address": "Surampatti Four Rd, Anna Nagar, Nggo Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Nggo Colony",
+    "landmark": "Nggo Colony",
+    "emergencyContact": "0424 227 7736",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9Xe-N8uBdTSom2yrqvYJpztsQxSUm8shZqTbOKr_1aPUI93w11EltUEnIH5zd1Wv9lm-BX_Eb5T-3ZJOI-W9OCLor6-OfGMFts_s4iY5rtuOZ9ZK9LtlTW6FkQzDaOTtDXIjB=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9Xe-N8uBdTSom2yrqvYJpztsQxSUm8shZqTbOKr_1aPUI93w11EltUEnIH5zd1Wv9lm-BX_Eb5T-3ZJOI-W9OCLor6-OfGMFts_s4iY5rtuOZ9ZK9LtlTW6FkQzDaOTtDXIjB=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3311272,
+      "lng": 77.7182936,
+      "label": "Sri Kumaran Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sri-vijaya-hitech-hospital-eye-surgery-neuro-surgery-and-neurology-hospital-erode",
+    "name": "Sri Vijaya Hitech Hospital | Eye Surgery, Neuro Surgery and Neurology Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Vijaya Hitech Hospital | Eye Surgery, Neuro Surgery and Neurology Hospital has built a strong reputation in Erode for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Erode and Neurosciences. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081108 11086",
+    "alternatePhone": "",
+    "website": "https://srivijayahitechhospital.com/",
+    "address": "14/2, Muthu Karuppan St, opposite to GH, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "opposite to GH",
+    "landmark": "opposite to GH, Erode, Tamil Nadu 638009",
+    "emergencyContact": "081108 11086",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEcW0LUax7Q76EeHvV5b2gfcsBVf9_KSLvmXixsCEGJUCA3-KMfBGUDKzjhhgnTE--de5r9cZVJiso0HL-2UGbcGOvj5zuWLS5bZgO8Ehnx423lMXLTNN5Kiuv1Eb86Nv5kkGQX=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEcW0LUax7Q76EeHvV5b2gfcsBVf9_KSLvmXixsCEGJUCA3-KMfBGUDKzjhhgnTE--de5r9cZVJiso0HL-2UGbcGOvj5zuWLS5bZgO8Ehnx423lMXLTNN5Kiuv1Eb86Nv5kkGQX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPT-1rTuXXdZrjp40jtddjVov5-k-yPwM-0cyM=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipME7oPz3zDGFkBxcrRiCX9xuvKoFDYDZfy0k1Y=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP_3ZF1rEI81GDgj3S_0bfpb1DjjXuSFuH1I5Q=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipOOGm9dBbq2qbrAtcwOMo5vulVSTTy6s5iezes=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3383388,
+      "lng": 77.7165164,
+      "label": "Sri Vijaya Hitech Hospital | Eye Surgery, Neuro Surgery and Neurology Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "srinivasa-speciality-hospital-erode",
+    "name": "Srinivasa Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Srinivasa Speciality Hospital brings together specialists for Cancer Surgery In Erode and Speciality Care. Hospital capacity markers such as Google rating 3.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "0424 225 5001",
+    "alternatePhone": "",
+    "website": "",
+    "address": "67, Pari Nagar, Shakthimahal, Backside, Palayapalayam, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Palayapalayam",
+    "landmark": "Shakthimahal",
+    "emergencyContact": "0424 225 5001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcCBYpSiC5A32EBrMj8lf-2Zn9g0wD40rz19_yu4Twumts2buenaFhHw1CfjW0Bz5tt7ZFnm83WRvUKq7XCN6ihPkcdG7d-1khIzmN20cxE2H8sGDpBHoDfa1AFQ8j_JgHz7ygXw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcCBYpSiC5A32EBrMj8lf-2Zn9g0wD40rz19_yu4Twumts2buenaFhHw1CfjW0Bz5tt7ZFnm83WRvUKq7XCN6ihPkcdG7d-1khIzmN20cxE2H8sGDpBHoDfa1AFQ8j_JgHz7ygXw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3323842,
+      "lng": 77.6985413,
+      "label": "Srinivasa Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "srs-clinic-chithode",
+    "name": "SRS Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SRS Clinic is a prominent hospital in Chithode, known for structured tertiary care across Spine Neurosurgeon In Erode. Operational strengths including Google rating 3.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Chithode.",
+    "email": "",
+    "phone": "097897 63098",
+    "alternatePhone": "",
+    "website": "http://www.spinesurgerysalem.com/",
+    "address": "#1, 638102, Nadupalayam, Chithode, Tamil Nadu 638102",
+    "city": "Chithode",
+    "state": "Tamil Nadu",
+    "pincode": "638102",
+    "locality": "Nadupalayam",
+    "landmark": "Nadupalayam",
+    "emergencyContact": "097897 63098",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=11.3951978%2C77.6560569&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=11.3951978%2C77.6560569&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3951978%2C77.6560569&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=11.3951978%2C77.6560569&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3951978,
+      "lng": 77.6560569,
+      "label": "SRS Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ss-hospital-erode",
+    "name": "SS Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SS Hospital has built a strong reputation in Erode for multidisciplinary treatment pathways covering Orthopedic Surgery In Erode. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "0424 226 0139",
+    "alternatePhone": "",
+    "website": "",
+    "address": "145, Nethaji Rd, Kalukadimedu, Surampattivalasu, Marapalam, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Marapalam",
+    "landmark": "Kalukadimedu",
+    "emergencyContact": "0424 226 0139",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIuwDKXCclGuOlYUBDjfyLMDeEtgd2p67D4JPL7Mh00J2y1Q9TFmz_HtCJQDEWSvj48O_jb6hQzZPNTrLupC0A5cJwATwAXlwPOpC8tFy2rzK1nZQSDKZPLLlb3JHY8YtLTfpV=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIuwDKXCclGuOlYUBDjfyLMDeEtgd2p67D4JPL7Mh00J2y1Q9TFmz_HtCJQDEWSvj48O_jb6hQzZPNTrLupC0A5cJwATwAXlwPOpC8tFy2rzK1nZQSDKZPLLlb3JHY8YtLTfpV=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3348285,
+      "lng": 77.7322546,
+      "label": "SS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sss-superspeciality-hospital-erode",
+    "name": "SSS superspeciality hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Erode, SSS superspeciality hospital delivers integrated care across Kidney Transplant Surgery In Erode and Speciality Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "077298 88777",
+    "alternatePhone": "",
+    "website": "http://www.ssshospitals.in/",
+    "address": "Perundurai Rd, Diamond Nagar, Nalliyampalayam, Erode, Tamil Nadu 638012",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638012",
+    "locality": "Nalliyampalayam",
+    "landmark": "Nalliyampalayam",
+    "emergencyContact": "077298 88777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGpEt0ei7tHaHjxsUtQRqvT3saWWTpa2xjrNRg2NTCBCoJJd4IaezSeBV3MAZs7WrqTsna5syV8hQpHTroOdyfuxf2FACM0RHCqXvo8sWSzcg7LpKtn4L6-Y0nGQLEFAnk8A4D8TQlnZNI7=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGpEt0ei7tHaHjxsUtQRqvT3saWWTpa2xjrNRg2NTCBCoJJd4IaezSeBV3MAZs7WrqTsna5syV8hQpHTroOdyfuxf2FACM0RHCqXvo8sWSzcg7LpKtn4L6-Y0nGQLEFAnk8A4D8TQlnZNI7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3249718,
+      "lng": 77.6894414,
+      "label": "SSS superspeciality hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sudha-cancer-centre-erode",
+    "name": "Sudha Cancer Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Sudha Cancer Centre brings together specialists for Oncologist Surgery In Erode. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "070944 70073",
+    "alternatePhone": "",
+    "website": "https://sudhacancercentre.com/",
+    "address": "155, Perundurai Rd, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "Edayankattuvalasu",
+    "emergencyContact": "070944 70073",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3xrgHtjd6X0WsJroLfsRJhhx5nc8IQneeOSqLbQm3GAhTe-HXn90bJJERf49Sct-mAiDA1l_Bk902eZcbE1c0q2kfJnlZMKiViV73pR7ACusnQgM8UmoolL6awAtNC_ec_nV1HA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH3xrgHtjd6X0WsJroLfsRJhhx5nc8IQneeOSqLbQm3GAhTe-HXn90bJJERf49Sct-mAiDA1l_Bk902eZcbE1c0q2kfJnlZMKiViV73pR7ACusnQgM8UmoolL6awAtNC_ec_nV1HA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMOhtxg-MK0B40wx_bz4e3cow2pmdM-6PZPbMn6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMc3Mkj0nX_PQ2v9ohkv7bMdafePxoEMiVklpTA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPA9DqkaTQqPvL6JO7qmiyavGouCywTj-C5xiVm=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMwORlntwT_CV-NzBUZe0LkAhMMMlVMGw2YfJG-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3369172,
+      "lng": 77.7108509,
+      "label": "Sudha Cancer Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "sudha-hospitals-multispeciality-hospital-in-erode-erode",
+    "name": "Sudha Hospitals - Multispeciality Hospital in Erode",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Sudha Hospitals - Multispeciality Hospital in Erode offers coordinated hospital care with major focus on Urologist Surgery In Erode and Speciality Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 245 4545",
+    "alternatePhone": "",
+    "website": "https://www.sudhahospitals.com/",
+    "address": "No.162, 181, Perundurai Rd, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "Perundurai Rd",
+    "emergencyContact": "0424 245 4545",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFlTjO7ikkCli5qBlTiNhO72Ba5bwTJhNP9mXVwjZM1g5QUXAQWRV0K5GPMRtosWatgt3_meSXLiWv8UQ86AkPoFFoHUbIY5cA40s1QjfTuZVPoshE756Pp4EVSfVNd5Jboz7FX=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFlTjO7ikkCli5qBlTiNhO72Ba5bwTJhNP9mXVwjZM1g5QUXAQWRV0K5GPMRtosWatgt3_meSXLiWv8UQ86AkPoFFoHUbIY5cA40s1QjfTuZVPoshE756Pp4EVSfVNd5Jboz7FX=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipMk5MQJLe8uzdn7z-kfvJgwDJ-lp0IMQTuTw3s3=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipONoKNdmuK42IoCurqR9mHZPiKEKJXEGUPC3DYn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNbBq_riXh2-q6qzTDVMM_EN_kui_0EFmWUSADA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNH4CC1_K55zDEP8RB_lAoKZBj5ILGYG1ORch0x=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3369904,
+      "lng": 77.7109361,
+      "label": "Sudha Hospitals - Multispeciality Hospital in Erode",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "thangam-hospital-erode",
+    "name": "Thangam Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Thangam Hospital is a prominent hospital in Erode, known for structured tertiary care across Laparoscopic Surgery In Erode. With public-facing highlights like Google rating 3.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "0424 225 9030",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PMG+MG7, Periyar Nagar Rd, Periyar Nagar, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Periyar Nagar",
+    "landmark": "Periyar Nagar",
+    "emergencyContact": "0424 225 9030",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFenTQnzHsLiT7kkudO3Z-7i3rCdiGlpnYb1CN70tJKLmrajqAA6Y9rmvzQe3U2xSA8afZ3fyPP72rg7Iz1szVtdL7YtVp2k7xL1Ynud1WphJMEVSlZJWBjMGGy54_J8wQshejQGw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFenTQnzHsLiT7kkudO3Z-7i3rCdiGlpnYb1CN70tJKLmrajqAA6Y9rmvzQe3U2xSA8afZ3fyPP72rg7Iz1szVtdL7YtVp2k7xL1Ynud1WphJMEVSlZJWBjMGGy54_J8wQshejQGw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3341503,
+      "lng": 77.726282,
+      "label": "Thangam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "thanthai-periyar-government-headquarters-hospital-erode",
+    "name": "Thanthai Periyar Government Headquarters Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Thanthai Periyar Government Headquarters Hospital is a prominent government hospital in Erode, known for structured tertiary care across General Surgery In Erode. With public-facing highlights like Google rating 3.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Erode.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "EVN Rd, Kaikolar Thottam, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Kaikolar Thottam",
+    "landmark": "Erode",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkpkoIrReAd2oHXNkedtpaY-Z-W7kgdsg-ii6xGPYkxGsG41ZBrQeT60RyyTR8EAWpdpjHvhC52D-A0RJ4oCKRfI0LNxv9b3FbYLHNevygkeOQ5aMvKURbvJ8EUWRvOR7v1PkI=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkpkoIrReAd2oHXNkedtpaY-Z-W7kgdsg-ii6xGPYkxGsG41ZBrQeT60RyyTR8EAWpdpjHvhC52D-A0RJ4oCKRfI0LNxv9b3FbYLHNevygkeOQ5aMvKURbvJ8EUWRvOR7v1PkI=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiqeizz-ISvAslf43wzmonBwlZL_cWsnWsYTy0hH6qaexAYJVCYoTC7lZN5S23Mbo9aYShDk--ILlwxCfe4JE_kf1gHGQ6b0BNAJQ3eLKgpX4JLiagujtWq_GHYO7aQ_XOMcGQEA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3398213,
+      "lng": 77.7172966,
+      "label": "Thanthai Periyar Government Headquarters Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "thirukarthi-hospitals-erode",
+    "name": "THIRUKARTHI HOSPITALS",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, THIRUKARTHI HOSPITALS brings together specialists for General Surgery In Erode. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097464 79930",
+    "alternatePhone": "",
+    "website": "",
+    "address": "169-A, Komarapalayam Main road, Agraharam, Pallipalayam, Erode, Tamil Nadu 638008",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638008",
+    "locality": "Pallipalayam",
+    "landmark": "Agraharam",
+    "emergencyContact": "097464 79930",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGR9-t2ZCtXnfQS3aPGQXKzZk7UEDPI2pyiCW155UOocW4coysBegIUjEoFRr531dz6NAii66lexkpiUSVmtfhdeyFDjy-hz_FhCthhToXAFOiXssdRNlcz6BPV3cAQC7uiNXlPhg_DK7c=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGR9-t2ZCtXnfQS3aPGQXKzZk7UEDPI2pyiCW155UOocW4coysBegIUjEoFRr531dz6NAii66lexkpiUSVmtfhdeyFDjy-hz_FhCthhToXAFOiXssdRNlcz6BPV3cAQC7uiNXlPhg_DK7c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3730038,
+      "lng": 77.7404734,
+      "label": "THIRUKARTHI HOSPITALS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "universal-hospital-erode",
+    "name": "Universal Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Erode, Universal Hospital offers coordinated hospital care with major focus on Heart Surgery In Erode. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Erode.",
+    "email": "",
+    "phone": "0424 225 0897",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8PR9+FC6, Erode Fort, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Erode Fort",
+    "landmark": "Erode",
+    "emergencyContact": "0424 225 0897",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGWV3Idk69KpjJdWZ4NNVSfr7l3G2mY9YSKjxyk-hAoRre-L_9eSW8Y_7tkIq_YGcOAKqTFKZYfz2UNqfgyhR96nyu90LpiZ_MgczrpnLh83b4hPHTYMjDX-EZLwDO6ZG58uE4=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGWV3Idk69KpjJdWZ4NNVSfr7l3G2mY9YSKjxyk-hAoRre-L_9eSW8Y_7tkIq_YGcOAKqTFKZYfz2UNqfgyhR96nyu90LpiZ_MgczrpnLh83b4hPHTYMjDX-EZLwDO6ZG58uE4=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGWV3Idk69KpjJdWZ4NNVSfr7l3G2mY9YSKjxyk-hAoRre-L_9eSW8Y_7tkIq_YGcOAKqTFKZYfz2UNqfgyhR96nyu90LpiZ_MgczrpnLh83b4hPHTYMjDX-EZLwDO6=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3411586,
+      "lng": 77.71853,
+      "label": "Universal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vadamalayan-hospitals-pvt-ltd-dindigul",
+    "name": "Vadamalayan Hospitals Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dindigul often choose Vadamalayan Hospitals Pvt Ltd for its strength in Liver Transplant Surgery In Erode. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Dindigul.",
+    "email": "",
+    "phone": "0451 356 1000",
+    "alternatePhone": "",
+    "website": "https://vadamalayanhospitals.com/services/hospitals-in-dindigul/",
+    "address": "649/ A2, Chettinaikanpatti village Road, Angu Bharathi Nagar, J.J. Nagar, Dindigul, Tamil Nadu 624004",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624004",
+    "locality": "J.J. Nagar",
+    "landmark": "Angu Bharathi Nagar",
+    "emergencyContact": "0451 356 1000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCtBPmriaJ-TyHRoSnrSsvsEbkXaCYiQTJ47H3f3VwPNyBvd5sqDAEXnN1ta9OiDxH-uIut3kgGMohuTFq3mwTH4S8aN9rloWy__rsv-V2vsQZ7wgEs8adwxcdDyRoocexoI4Tag=w1200-h900-p-k-no",
+    "logo": "https://vadamalayanhospitals.com/wp-content/uploads/2025/05/69-logo-sixnine.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCtBPmriaJ-TyHRoSnrSsvsEbkXaCYiQTJ47H3f3VwPNyBvd5sqDAEXnN1ta9OiDxH-uIut3kgGMohuTFq3mwTH4S8aN9rloWy__rsv-V2vsQZ7wgEs8adwxcdDyRoocexoI4Tag=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 10.380779,
+      "lng": 77.9689421,
+      "label": "Vadamalayan Hospitals Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "valli-hospital-erode",
+    "name": "VALLI HOSPITAL",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose VALLI HOSPITAL for its strength in Liver Transplant Surgery In Erode. Operational strengths including Google rating 3.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "0424 227 7477",
+    "alternatePhone": "",
+    "website": "http://www.vallihospital.org/",
+    "address": "20, EVN Rd, Chidambaram Colony, Erode, Tamil Nadu 638009",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638009",
+    "locality": "Chidambaram Colony",
+    "landmark": "Chidambaram Colony",
+    "emergencyContact": "0424 227 7477",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErPTX8BeDkPoc8RqaJc4T9qbbV6r3Q-8L5bXOe6D2NAIG7CpxPxpRHxga7cCIiiP7WMNnittm5D-VOVe_BJ80jD30MRAd7ucMA9LVZ-U-Jua2FajxIBmq8Ib42yFHU5zt4o6gSvw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErPTX8BeDkPoc8RqaJc4T9qbbV6r3Q-8L5bXOe6D2NAIG7CpxPxpRHxga7cCIiiP7WMNnittm5D-VOVe_BJ80jD30MRAd7ucMA9LVZ-U-Jua2FajxIBmq8Ib42yFHU5zt4o6gSvw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErPTX8BeDkPoc8RqaJc4T9qbbV6r3Q-8L5bXOe6D2NAIG7CpxPxpRHxga7cCIiiP7WMNnittm5D-VOVe=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6a3dDZHEZ1BG_lnUPfATPWUp1xGukKmzfTlNSG1Vhj7IKaIpl1WbJBe-ryOJDQoX2pje5ifYWv0G-UM4aM79m9zGcccudbPwziKivcidCguCdzQAIz-ILAa1jQAavSdW7dbGMb33mcC2g=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3339253,
+      "lng": 77.7185266,
+      "label": "VALLI HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vanjee-multispeciality-dental-centre-erode",
+    "name": "Vanjee Multispeciality Dental Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vanjee Multispeciality Dental Centre has built a strong reputation in Erode for multidisciplinary treatment pathways covering Oral Surgery In Erode and Speciality Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Erode can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099524 12697",
+    "alternatePhone": "",
+    "website": "",
+    "address": "147, Chinnamuthu Main St, Adukku Parai, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "Adukku Parai",
+    "emergencyContact": "099524 12697",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQY9orEbQ6HNLIagESZJQapQTJDn8MFBMXRbshlfV7lSHQn7iVrsSIaSZoglr5vilDjmksoEJsGpb43wX4R02ZDmxXTeTvKDOwDVRDDi1GDI7Sb8CppWTJqgrU8GE8Gu4eVYk=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQY9orEbQ6HNLIagESZJQapQTJDn8MFBMXRbshlfV7lSHQn7iVrsSIaSZoglr5vilDjmksoEJsGpb43wX4R02ZDmxXTeTvKDOwDVRDDi1GDI7Sb8CppWTJqgrU8GE8Gu4eVYk=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4ZUHidg10-RIfmyKVNwk58nuOQkfSBJayI2o8LN1FL-qRq3ezq5quc5YRRPyLQPiGCUdvCtcKylZZD6nruSfsONoAfm2Kh6CljIYp2G4mQ6Ex4B83ivSegmu5yTV9e7y2uDs9Aw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3418689,
+      "lng": 77.7131891,
+      "label": "Vanjee Multispeciality Dental Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vasan-eye-care-hospital-kaikolar-thottam-erode-erode",
+    "name": "Vasan Eye Care Hospital - (Kaikolar Thottam, Erode)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Erode often choose Vasan Eye Care Hospital - (Kaikolar Thottam, Erode) for its strength in Spine Neurosurgeon In Erode. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "1800 571 2222",
+    "alternatePhone": "",
+    "website": "https://clinic.vasaneye.com/vasan-eye-care/stores-in-erode/stores-in-Kaikolar-Thottam/vasan-eye-care-hospital-in-Kaikolar-Thottam-erode--21YNv0/home",
+    "address": "283, EVN Rd, opposite Power House Road, Erode, Tamil Nadu 638001",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "opposite Power House Road",
+    "landmark": "opposite Power House Road, Erode, Tamil Nadu 638001",
+    "emergencyContact": "1800 571 2222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFkr1G5l2paD0qsYSZdr_lScN5WeuX6SbNzMPdGH7GaxoyOIsoypwpuAPI67rzhCY73r0zinNnytN80JhXpuEHJ0PbWY7bnVUb53j8mWP-k9VK5G9H96AUa0lboOa3Nr6ndjFeFhc7tMPW=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFkr1G5l2paD0qsYSZdr_lScN5WeuX6SbNzMPdGH7GaxoyOIsoypwpuAPI67rzhCY73r0zinNnytN80JhXpuEHJ0PbWY7bnVUb53j8mWP-k9VK5G9H96AUa0lboOa3Nr6ndjFeFhc7tMPW=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/A=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPWmClEGYrRVDMwpCb6sMD1ZkR407Rs6w1fz9Fc=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipN6nk8ZhhVFFruLu28sIf_E4d2JG__KMH3OTMLn=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPVVb4Evih573WLG0buyZakqWxtkV0KRMzi76xj=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3365503,
+      "lng": 77.7180425,
+      "label": "Vasan Eye Care Hospital - (Kaikolar Thottam, Erode)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "veena-hospital-nasiyanur-rd",
+    "name": "Veena Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Nasiyanur Rd, Veena Hospital delivers integrated care across Spine Neurosurgeon In Erode. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Nasiyanur Rd.",
+    "email": "",
+    "phone": "0424 255 5657",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH 47, Nasiyanur Rd, Tamil Nadu 638107",
+    "city": "Nasiyanur Rd",
+    "state": "Tamil Nadu",
+    "pincode": "638107",
+    "locality": "NH 47",
+    "landmark": "Tamil Nadu 638107",
+    "emergencyContact": "0424 255 5657",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLsOhXk-OEJCWwbEOSmK_USpsPnMOzO0mQSq0TC2OLL_lyf0-9k6Es-edp63zdEQA9mNVNc5sRiG4jZBIVuwQvN54p2FE1dG4OR7-yOq6poFWHup6eJrnzcn8vg2OUQOR11dpcxw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLsOhXk-OEJCWwbEOSmK_USpsPnMOzO0mQSq0TC2OLL_lyf0-9k6Es-edp63zdEQA9mNVNc5sRiG4jZBIVuwQvN54p2FE1dG4OR7-yOq6poFWHup6eJrnzcn8vg2OUQOR11dpcxw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3366799,
+      "lng": 77.6367464,
+      "label": "Veena Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "velavan-hospital-erode",
+    "name": "Velavan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Erode, Velavan Hospital brings together specialists for Liver Transplant Surgery In Erode. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "0424 226 5575",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MMCH, 564, Perundurai Rd, Edayankattuvalasu, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Edayankattuvalasu",
+    "landmark": "Perundurai Rd",
+    "emergencyContact": "0424 226 5575",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Erode"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7iW_bPAY5ncxsvjwoAVoyrGiEt9vIxYwjDIa5u3_V4E5cJmAr8l3PccEf9M3xGDvtSxuj1rOs-7vY7sW-AAuMtqkMh7h3luGtHOxNBl4_7xdDhZnsqGPavzVn7EPZgBMrLm4=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7iW_bPAY5ncxsvjwoAVoyrGiEt9vIxYwjDIa5u3_V4E5cJmAr8l3PccEf9M3xGDvtSxuj1rOs-7vY7sW-AAuMtqkMh7h3luGtHOxNBl4_7xdDhZnsqGPavzVn7EPZgBMrLm4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3383939,
+      "lng": 77.7124226,
+      "label": "Velavan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "vilva-cosmetic-science-and-speciality-centre-erode",
+    "name": "Vilva Cosmetic science & Speciality Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vilva Cosmetic science & Speciality Centre has built a strong reputation in Erode for multidisciplinary treatment pathways covering Plastic Surgery In Erode and Speciality Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Erode.",
+    "email": "",
+    "phone": "095002 13335",
+    "alternatePhone": "",
+    "website": "https://vilvacssc.com/",
+    "address": "40, Gandhi Nagar, Erode, Tamil Nadu 638011",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "pincode": "638011",
+    "locality": "Gandhi Nagar",
+    "landmark": "Erode",
+    "emergencyContact": "095002 13335",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Erode",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFrtVPDRmz33jpnyW3oO8BPuoNINZD8Py0AEIoMwylxIZXQVyjRG4bQSWlSDOHob0XGOXdK-1g-zpk2BEKkJ7ZYV0IhaDdQ_BSGKom3v6AMwb1mJBKMfVUwds7xGnEmm6edIBQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFrtVPDRmz33jpnyW3oO8BPuoNINZD8Py0AEIoMwylxIZXQVyjRG4bQSWlSDOHob0XGOXdK-1g-zpk2BEKkJ7ZYV0IhaDdQ_BSGKom3v6AMwb1mJBKMfVUwds7xGnEmm6edIBQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 11.3366923,
+      "lng": 77.7129425,
+      "label": "Vilva Cosmetic science & Speciality Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]
