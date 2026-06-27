@@ -1,0 +1,1108 @@
+[
+  {
+    "name": "Dr. Patel's Clinic",
+    "slug": "dr-patel-s-clinic-kidney-transplant",
+    "specialty": "Kidney Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.8,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Khushi Heights",
+    "hospitals": [
+      {
+        "name": "Khushi Heights",
+        "slug": "khushi-heights-bilimora",
+        "address": "Sankalp Society, Bilimora",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Sankalp Society, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Dr. Patel's Clinic is known in Bilimora for kidney transplant surgeon care with attention to skin care clinic. Drawing on strong clinical and procedural experience, Dr. Patel's Clinic supports both routine and complex cases with clarity and confidence. Patients visiting Khushi Heights rely on Dr. Patel's Clinic for systematic evaluation, clear recommendations, and well-planned treatment pathways. Dr. Patel's Clinic is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "kidney-transplant",
+      "kidney-transplant-surgeon",
+      "skin-care-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Divyang Patel",
+    "slug": "dr-divyang-patel-kidney-transplant",
+    "specialty": "Kidney Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Gupta Hospital",
+    "hospitals": [
+      {
+        "name": "Gupta Hospital",
+        "slug": "gupta-hospital-bilimora",
+        "address": "Navapura, Bilimora",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "Navapura, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Dr. Divyang Patel is a highly experienced Kidney Transplant Surgeon based in Bilimora, specializing in doctor. Backed by strong clinical and procedural experience, Dr. Divyang Patel combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Gupta Hospital, Dr. Divyang Patel is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Divyang Patel is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "kidney-transplant",
+      "kidney-transplant-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/dr-divyang-patel.webp"
+  },
+  {
+    "name": "Dr. Jyotindra Mehta",
+    "slug": "dr-jyotindra-mehta-kidney-transplant",
+    "specialty": "Kidney Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Goharbaug",
+    "hospitals": [
+      {
+        "name": "Goharbaug",
+        "slug": "goharbaug-bilimora",
+        "address": "Sankalp Society, Bilimora",
+        "timing": "Opens 9:30 am Su"
+      }
+    ],
+    "location": "Sankalp Society, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Serving patients in Bilimora, Dr. Jyotindra Mehta practices as an established Kidney Transplant Surgeon with focused expertise in hospital. Over years of hands-on practice, Dr. Jyotindra Mehta has built a reputation for evidence-based care and consistent treatment results. Consulting from Goharbaug, Dr. Jyotindra Mehta focuses on patient-centric care, realistic expectations, and dependable clinical support. Dr. Jyotindra Mehta continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "kidney-transplant",
+      "kidney-transplant-surgeon",
+      "hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Deepak Gandhi",
+    "slug": "dr-deepak-gandhi-paediatrics",
+    "specialty": "Pediatrician",
+    "degree": "",
+    "experience": "",
+    "rating": 4.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "apartment",
+    "hospitals": [
+      {
+        "name": "apartment",
+        "slug": "apartment-bilimora",
+        "address": "Shanti Nagar Twp, Bilimora",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Shanti Nagar Twp, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "As a dedicated Pediatrician in Bilimora, Dr. Deepak Gandhi provides structured care for child health evaluation, growth and development concerns, common pediatric illnesses, and preventive child care. Dr. Deepak Gandhi applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with apartment, Dr. Deepak Gandhi helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. Deepak Gandhi a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "paediatrics",
+      "kidney-transplant-surgeon",
+      "pediatrician"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Zakirhusain Shaikh",
+    "slug": "dr-zakirhusain-shaikh-kidney-transplant",
+    "specialty": "Kidney Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 3.8,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Shanti Nagar Twp",
+    "hospitals": [
+      {
+        "name": "Shanti Nagar Twp",
+        "slug": "shanti-nagar-twp-bilimora",
+        "address": "Shanti Nagar Twp, Bilimora",
+        "timing": "Open · Closes 9 pm   Claim this busi"
+      }
+    ],
+    "location": "Shanti Nagar Twp, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Dr. Zakirhusain Shaikh is a highly experienced Kidney Transplant Surgeon based in Bilimora, specializing in doctor. Backed by strong clinical and procedural experience, Dr. Zakirhusain Shaikh combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Shanti Nagar Twp, Dr. Zakirhusain Shaikh is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Zakirhusain Shaikh is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "kidney-transplant",
+      "kidney-transplant-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Ashok Gandhi",
+    "slug": "dr-ashok-gandhi-kidney-transplant",
+    "specialty": "Kidney Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Aashish Apt.",
+    "hospitals": [
+      {
+        "name": "Aashish Apt.",
+        "slug": "aashish-apt-bilimora",
+        "address": "Desra Station Rd, Bilimora",
+        "timing": ""
+      }
+    ],
+    "location": "Desra Station Rd, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Dr. Ashok Gandhi is a highly experienced Kidney Transplant Surgeon based in Bilimora, specializing in fertility clinic. Backed by strong clinical and procedural experience, Dr. Ashok Gandhi combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Aashish Apt., Dr. Ashok Gandhi is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Ashok Gandhi is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "kidney-transplant",
+      "kidney-transplant-surgeon",
+      "fertility-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Swetang Eye Hospital",
+    "slug": "dr-swetang-eye-hospital-kidney-transplant",
+    "specialty": "Kidney Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 3.7,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "1st floor",
+    "hospitals": [
+      {
+        "name": "1st floor",
+        "slug": "1st-floor-bilimora",
+        "address": "Railway Colony, Bilimora",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Railway Colony, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "As a dedicated Kidney Transplant Surgeon in Bilimora, Dr. Swetang Eye Hospital provides structured care for hospital. Dr. Swetang Eye Hospital applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with 1st floor, Dr. Swetang Eye Hospital helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. Swetang Eye Hospital a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "kidney-transplant",
+      "kidney-transplant-surgeon",
+      "hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/dr-swetang-eye-hospital.webp"
+  },
+  {
+    "name": "Dr. Amratlal Clinic",
+    "slug": "dr-amratlal-clinic-kidney-transplant",
+    "specialty": "Kidney Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.2,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Navapura",
+    "hospitals": [
+      {
+        "name": "Navapura",
+        "slug": "navapura-bilimora",
+        "address": "Navapura, Bilimora",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "Navapura, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Dr. Amratlal Clinic is a highly experienced Kidney Transplant Surgeon based in Bilimora, specializing in doctor. Backed by strong clinical and procedural experience, Dr. Amratlal Clinic combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Navapura, Dr. Amratlal Clinic is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Amratlal Clinic is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "kidney-transplant",
+      "kidney-transplant-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/dr-amratlal-clinic.webp"
+  },
+  {
+    "name": "Dr. Shoeb G Kasli Heal Fly Clinic",
+    "slug": "dr-shoeb-g-kasli-heal-fly-clinic-kidney-transplant",
+    "specialty": "Kidney Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Chimodiya Naka",
+    "hospitals": [
+      {
+        "name": "Chimodiya Naka",
+        "slug": "chimodiya-naka-bilimora",
+        "address": "near Parimal Plywood, Bilimora",
+        "timing": "Opens 10 am Su"
+      }
+    ],
+    "location": "near Parimal Plywood, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Patients searching for a trusted Kidney Transplant Surgeon in Bilimora often consult Dr. Shoeb G Kasli Heal Fly Clinic for medical center. Dr. Shoeb G Kasli Heal Fly Clinic brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. Shoeb G Kasli Heal Fly Clinic supports patients visiting Chimodiya Naka with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. Shoeb G Kasli Heal Fly Clinic. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "kidney-transplant",
+      "kidney-transplant-surgeon",
+      "medical-center"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Bipin Lad Clinic",
+    "slug": "dr-bipin-lad-clinic-occupational-medical-physician",
+    "specialty": "Occupational medical physician",
+    "degree": "",
+    "experience": "",
+    "rating": 4.3,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "7",
+    "hospitals": [
+      {
+        "name": "7",
+        "slug": "7-bilimora",
+        "address": "Navjivan Colony, Bilimora",
+        "timing": ""
+      }
+    ],
+    "location": "Navjivan Colony, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Patients searching for a trusted Occupational medical physician in Bilimora often consult Dr. Bipin Lad Clinic for kidney transplant surgeon. Dr. Bipin Lad Clinic brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. Bipin Lad Clinic supports patients visiting 7 with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. Bipin Lad Clinic. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "occupational-medical-physician",
+      "kidney-transplant-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. B.B.Vaidya",
+    "slug": "dr-b-b-vaidya-gastro-surgery",
+    "specialty": "Anesthesiologist",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Triveni Society",
+    "hospitals": [
+      {
+        "name": "Triveni Society",
+        "slug": "triveni-society-bilimora",
+        "address": "Maruti Nagar Society, Bilimora",
+        "timing": ""
+      }
+    ],
+    "location": "Maruti Nagar Society, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Dr. B.B.Vaidya is a highly experienced Anesthesiologist based in Bilimora, specializing in gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. Backed by strong clinical and procedural experience, Dr. B.B.Vaidya combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Triveni Society, Dr. B.B.Vaidya is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. B.B.Vaidya is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "gastro-surgery",
+      "kidney-transplant-surgeon",
+      "anesthesiologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "NMIS Hospital, Dr. Urvish Doshi",
+    "slug": "nmis-hospital-dr-urvish-doshi-kidney-transplant",
+    "specialty": "Kidney Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "32b",
+    "hospitals": [
+      {
+        "name": "32b",
+        "slug": "32b-bilimora",
+        "address": "Navjivan Colony, Bilimora",
+        "timing": ""
+      }
+    ],
+    "location": "Navjivan Colony, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "NMIS Hospital, Dr. Urvish Doshi is known in Bilimora for kidney transplant surgeon care with attention to hospital. Drawing on strong clinical and procedural experience, NMIS Hospital, Dr. Urvish Doshi supports both routine and complex cases with clarity and confidence. Patients visiting 32b rely on NMIS Hospital, Dr. Urvish Doshi for systematic evaluation, clear recommendations, and well-planned treatment pathways. NMIS Hospital, Dr. Urvish Doshi is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "kidney-transplant",
+      "kidney-transplant-surgeon",
+      "hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/nmis-hospital-dr-urvish-doshi.webp"
+  },
+  {
+    "name": "Dr. Vijay N. Desai",
+    "slug": "dr-vijay-n-desai-kidney-transplant",
+    "specialty": "Kidney Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Triveni Society",
+    "hospitals": [
+      {
+        "name": "Triveni Society",
+        "slug": "triveni-society-bilimora",
+        "address": "Maruti Nagar Society, Bilimora",
+        "timing": ""
+      }
+    ],
+    "location": "Maruti Nagar Society, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Serving patients in Bilimora, Dr. Vijay N. Desai practices as an established Kidney Transplant Surgeon with focused expertise in doctor. Over years of hands-on practice, Dr. Vijay N. Desai has built a reputation for evidence-based care and consistent treatment results. Consulting from Triveni Society, Dr. Vijay N. Desai focuses on patient-centric care, realistic expectations, and dependable clinical support. Dr. Vijay N. Desai continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "kidney-transplant",
+      "kidney-transplant-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/dr-vijay-n-desai.webp"
+  },
+  {
+    "name": "Dr. lila ramiya hospital",
+    "slug": "dr-lila-ramiya-hospital-kidney-transplant",
+    "specialty": "Kidney Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Kalpana Nursing Home",
+    "hospitals": [
+      {
+        "name": "Kalpana Nursing Home",
+        "slug": "kalpana-nursing-home-bilimora",
+        "address": "near Railway Station, Bilimora",
+        "timing": ""
+      }
+    ],
+    "location": "near Railway Station, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Dr. lila ramiya hospital offers specialized kidney transplant surgeon services in Bilimora, with particular emphasis on hospital. With strong clinical and procedural experience, Dr. lila ramiya hospital is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Dr. lila ramiya hospital emphasizes transparent communication, safe decision-making, and individualized management at Kalpana Nursing Home. The practice style of Dr. lila ramiya hospital is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "kidney-transplant",
+      "kidney-transplant-surgeon",
+      "hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Kartik Patel",
+    "slug": "dr-kartik-patel-urology",
+    "specialty": "Urologist",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Luhar Tekra",
+    "hospitals": [
+      {
+        "name": "Luhar Tekra",
+        "slug": "luhar-tekra-valsad",
+        "address": "Mota Taiwad, Valsad",
+        "timing": ""
+      }
+    ],
+    "location": "Mota Taiwad, Valsad",
+    "city": "Valsad",
+    "language": "",
+    "bio": "Serving patients in Valsad, Dr. Kartik Patel practices as an established Urologist with focused expertise in kidney stone treatment, prostate care, urinary disorders, and male urology concerns. Over years of hands-on practice, Dr. Kartik Patel has built a reputation for evidence-based care and consistent treatment results. Consulting from Luhar Tekra, Dr. Kartik Patel focuses on patient-centric care, realistic expectations, and dependable clinical support. Dr. Kartik Patel continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "urology",
+      "kidney-transplant-surgeon",
+      "urologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Krushi Seva Kendra",
+    "slug": "krushi-seva-kendra-laparoscopy",
+    "specialty": "General store",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 2,
+    "fee": 0,
+    "hospital": "Antaliya",
+    "hospitals": [
+      {
+        "name": "Antaliya",
+        "slug": "antaliya-bilimora",
+        "address": "Antalia, Bilimora",
+        "timing": "Open · Closes 12 am   099096 31611    QX7R+XH Bilimora, Gujarat    Suggest"
+      }
+    ],
+    "location": "Antalia, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Serving patients in Bilimora, Krushi Seva Kendra practices as an established General store with focused expertise in gallbladder stones, hernia surgery, appendix treatment, and piles and fistula care. Over years of hands-on practice, Krushi Seva Kendra has built a reputation for evidence-based care and consistent treatment results. Consulting from Antaliya, Krushi Seva Kendra focuses on patient-centric care, realistic expectations, and dependable clinical support. Krushi Seva Kendra continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "laparoscopy",
+      "general-surgery",
+      "spine-surgeon",
+      "general-store"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/krushi-seva-kendra.webp"
+  },
+  {
+    "name": "𝗠𝗦 𝗡𝗘𝗨𝗥𝗢𝗡 𝗕𝗥𝗔𝗜𝗡 & 𝗦𝗣𝗜𝗡𝗘 𝗖𝗟𝗜𝗡𝗜𝗖",
+    "slug": "urology",
+    "specialty": "Neurologist",
+    "degree": "",
+    "experience": "",
+    "rating": 4.7,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "303",
+    "hospitals": [
+      {
+        "name": "303",
+        "slug": "303-navsari",
+        "address": "Ashram, Navsari",
+        "timing": ""
+      }
+    ],
+    "location": "Ashram, Navsari",
+    "city": "Navsari",
+    "language": "",
+    "bio": "Patients searching for a trusted Neurologist in Navsari often consult 𝗠𝗦 𝗡𝗘𝗨𝗥𝗢𝗡 𝗕𝗥𝗔𝗜𝗡 & 𝗦𝗣𝗜𝗡𝗘 𝗖𝗟𝗜𝗡𝗜𝗖 for kidney stone treatment, prostate care, urinary disorders, and male urology concerns. 𝗠𝗦 𝗡𝗘𝗨𝗥𝗢𝗡 𝗕𝗥𝗔𝗜𝗡 & 𝗦𝗣𝗜𝗡𝗘 𝗖𝗟𝗜𝗡𝗜𝗖 brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. 𝗠𝗦 𝗡𝗘𝗨𝗥𝗢𝗡 𝗕𝗥𝗔𝗜𝗡 & 𝗦𝗣𝗜𝗡𝗘 𝗖𝗟𝗜𝗡𝗜𝗖 supports patients visiting 303 with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by 𝗠𝗦 𝗡𝗘𝗨𝗥𝗢𝗡 𝗕𝗥𝗔𝗜𝗡 & 𝗦𝗣𝗜𝗡𝗘 𝗖𝗟𝗜𝗡𝗜𝗖. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "urology",
+      "spine-neurosurgeon",
+      "neurologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. HIMANSHU PATEL",
+    "slug": "dr-himanshu-patel-neurosurgery",
+    "specialty": "Neurosurgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "SECOND FLOOR",
+    "hospitals": [
+      {
+        "name": "SECOND FLOOR",
+        "slug": "second-floor-abrama",
+        "address": "Valsad, Abrama",
+        "timing": ""
+      }
+    ],
+    "location": "Valsad, Abrama",
+    "city": "Abrama",
+    "language": "",
+    "bio": "Dr. HIMANSHU PATEL is a highly experienced Neurosurgeon based in Abrama, specializing in brain and spine disorders, disc problems, nerve compression, and complex neurosurgical evaluation. Backed by strong clinical and procedural experience, Dr. HIMANSHU PATEL combines clinical judgment with modern treatment pathways and patient-friendly guidance. At SECOND FLOOR, Dr. HIMANSHU PATEL is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. HIMANSHU PATEL is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "neurosurgery",
+      "spine",
+      "spine-neurosurgeon",
+      "neurosurgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Mohit Goyal",
+    "slug": "dr-mohit-goyal-neurosurgery",
+    "specialty": "Neurosurgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 1,
+    "fee": 0,
+    "hospital": "NIRALI MEMORIAL MEDICAL TRUST",
+    "hospitals": [
+      {
+        "name": "NIRALI MEMORIAL MEDICAL TRUST",
+        "slug": "nirali-memorial-medical-trust-navsari",
+        "address": "Tighra, Navsari",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "Tighra, Navsari",
+    "city": "Navsari",
+    "language": "",
+    "bio": "As a dedicated Neurosurgeon in Navsari, Dr. Mohit Goyal provides structured care for brain and spine disorders, disc problems, nerve compression, and complex neurosurgical evaluation. Dr. Mohit Goyal applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with NIRALI MEMORIAL MEDICAL TRUST, Dr. Mohit Goyal helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. Mohit Goyal a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "neurosurgery",
+      "spine",
+      "neurosurgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/dr-mohit-goyal.webp"
+  },
+  {
+    "name": "Dr. Jagdish Gandhi",
+    "slug": "dr-jagdish-gandhi-laparoscopy",
+    "specialty": "General practitioner",
+    "degree": "",
+    "experience": "",
+    "rating": 4.8,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Desra",
+    "hospitals": [
+      {
+        "name": "Desra",
+        "slug": "desra-bilimora",
+        "address": "Desra, Bilimora",
+        "timing": ""
+      }
+    ],
+    "location": "Desra, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "As a dedicated General practitioner in Bilimora, Dr. Jagdish Gandhi provides structured care for gallbladder stones, hernia surgery, appendix treatment, and piles and fistula care. Dr. Jagdish Gandhi applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Desra, Dr. Jagdish Gandhi helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. Jagdish Gandhi a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "laparoscopy",
+      "general-surgery",
+      "laparoscopic-surgeon",
+      "general-practitioner"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "RS ORAL CARE DR. DHAVAL V. SHAH",
+    "slug": "rs-oral-care-dr-dhaval-v-shah-dentistry",
+    "specialty": "Oral Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 120,
+    "fee": 0,
+    "hospital": "106",
+    "hospitals": [
+      {
+        "name": "106",
+        "slug": "106-bilimora",
+        "address": "Sankalp Society, Bilimora",
+        "timing": "Opens 9 am Su"
+      }
+    ],
+    "location": "Sankalp Society, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "RS ORAL CARE DR. DHAVAL V. SHAH is known in Bilimora for oral surgeon care with attention to oral surgery, wisdom tooth removal, jaw disorders, and dental alignment support. Drawing on strong clinical and procedural experience, RS ORAL CARE DR. DHAVAL V. SHAH supports both routine and complex cases with clarity and confidence. Patients visiting 106 rely on RS ORAL CARE DR. DHAVAL V. SHAH for systematic evaluation, clear recommendations, and well-planned treatment pathways. RS ORAL CARE DR. DHAVAL V. SHAH is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "dentistry",
+      "oral-surgeon",
+      "dental-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/rs-oral-care-dr-dhaval-v-shah.webp"
+  },
+  {
+    "name": "Dr. Hiral Vaidya",
+    "slug": "dr-hiral-vaidya-dentistry",
+    "specialty": "Oral Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 82,
+    "fee": 0,
+    "hospital": "Shop no 2",
+    "hospitals": [
+      {
+        "name": "Shop no 2",
+        "slug": "shop-no-2-bilimora",
+        "address": "Sankalp Society, Bilimora",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Sankalp Society, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Dr. Hiral Vaidya is a highly experienced Oral Surgeon based in Bilimora, specializing in oral surgery, wisdom tooth removal, jaw disorders, and dental alignment support. Backed by strong clinical and procedural experience, Dr. Hiral Vaidya combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Shop no 2, Dr. Hiral Vaidya is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Hiral Vaidya is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "dentistry",
+      "oral-surgeon",
+      "dental-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/dr-hiral-vaidya.webp"
+  },
+  {
+    "name": "ProSmile by Dr. Preet & Dental Implant Centre",
+    "slug": "prosmile-by-dr-preet-dental-implant-centre-dentistry",
+    "specialty": "Oral Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 33,
+    "fee": 0,
+    "hospital": "Shop No. 2&3",
+    "hospitals": [
+      {
+        "name": "Shop No. 2&3",
+        "slug": "shop-no-2-3-bilimora",
+        "address": "Antalia, Bilimora",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Antalia, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "ProSmile by Dr. Preet & Dental Implant Centre is known in Bilimora for oral surgeon care with attention to oral surgery, wisdom tooth removal, jaw disorders, and dental alignment support. Drawing on strong clinical and procedural experience, ProSmile by Dr. Preet & Dental Implant Centre supports both routine and complex cases with clarity and confidence. Patients visiting Shop No. 2&3 rely on ProSmile by Dr. Preet & Dental Implant Centre for systematic evaluation, clear recommendations, and well-planned treatment pathways. ProSmile by Dr. Preet & Dental Implant Centre is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "dentistry",
+      "oral-surgeon",
+      "dental-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/prosmile-by-dr-preet-dental-implant-centre.webp"
+  },
+  {
+    "name": "V Dental Clinic",
+    "slug": "v-dental-clinic-dentistry",
+    "specialty": "Oral Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 2,
+    "fee": 0,
+    "hospital": "Tatanagar society",
+    "hospitals": [
+      {
+        "name": "Tatanagar society",
+        "slug": "tatanagar-society-bilimora",
+        "address": "Navapura, Bilimora",
+        "timing": "Opens 9:30 am Mo"
+      }
+    ],
+    "location": "Navapura, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "V Dental Clinic is a highly experienced Oral Surgeon based in Bilimora, specializing in oral surgery, wisdom tooth removal, jaw disorders, and dental alignment support. Backed by strong clinical and procedural experience, V Dental Clinic combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Tatanagar society, V Dental Clinic is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. V Dental Clinic is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "dentistry",
+      "oral-surgeon",
+      "dental-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/v-dental-clinic.webp"
+  },
+  {
+    "name": "RS oral care",
+    "slug": "rs-oral-care-dentistry",
+    "specialty": "Oral Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 3.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "panchvati appartment",
+    "hospitals": [
+      {
+        "name": "panchvati appartment",
+        "slug": "panchvati-appartment-bilimora",
+        "address": "Railway Colony, Bilimora",
+        "timing": ""
+      }
+    ],
+    "location": "Railway Colony, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "RS oral care is a highly experienced Oral Surgeon based in Bilimora, specializing in oral surgery, wisdom tooth removal, jaw disorders, and dental alignment support. Backed by strong clinical and procedural experience, RS oral care combines clinical judgment with modern treatment pathways and patient-friendly guidance. At panchvati appartment, RS oral care is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. RS oral care is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "dentistry",
+      "oral-surgeon",
+      "dental-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "PARSHWA PLASTICS",
+    "slug": "parshwa-plastics-aesthetics",
+    "specialty": "Plastic Injection Molding Workshop",
+    "degree": "DO",
+    "experience": "40+ Years",
+    "rating": 4.0,
+    "reviews": 1,
+    "fee": 0,
+    "hospital": "10-12",
+    "hospitals": [
+      {
+        "name": "10-12",
+        "slug": "10-12-bilimora",
+        "address": "DEVSAR, Bilimora",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "DEVSAR, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Serving patients in Bilimora, PARSHWA PLASTICS practices as an established Plastic Injection Molding Workshop with focused expertise in rhinoplasty, hair restoration, scar revision, and body contouring. Over years of hands-on practice, PARSHWA PLASTICS has built a reputation for evidence-based care and consistent treatment results. Consulting from 10-12, PARSHWA PLASTICS focuses on patient-centric care, realistic expectations, and dependable clinical support. PARSHWA PLASTICS continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "plastic-surgeon",
+      "plastic-injection-molding-workshop"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Charmi Shah Nutritionist & Nutrition Business Coach",
+    "slug": "dr-charmi-shah-nutritionist-nutrition-business-coach-nutritionist",
+    "specialty": "Nutritionist",
+    "degree": "",
+    "experience": "",
+    "rating": 4.7,
+    "reviews": 278,
+    "fee": 0,
+    "hospital": "404",
+    "hospitals": [
+      {
+        "name": "404",
+        "slug": "404-bilimora",
+        "address": "Sankalp Society, Bilimora",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Sankalp Society, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Dr. Charmi Shah Nutritionist & Nutrition Business Coach is known in Bilimora for nutritionist care with attention to cosmetic surgeon. Drawing on strong clinical and procedural experience, Dr. Charmi Shah Nutritionist & Nutrition Business Coach supports both routine and complex cases with clarity and confidence. Patients visiting 404 rely on Dr. Charmi Shah Nutritionist & Nutrition Business Coach for systematic evaluation, clear recommendations, and well-planned treatment pathways. Dr. Charmi Shah Nutritionist & Nutrition Business Coach is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "nutritionist",
+      "cosmetic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/dr-charmi-shah-nutritionist-nutrition-business-coach.webp"
+  },
+  {
+    "name": "Dr. Rathod Clinic",
+    "slug": "dr-rathod-clinic-aesthetics",
+    "specialty": "Cosmetic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 2,
+    "fee": 0,
+    "hospital": "Triveni Society",
+    "hospitals": [
+      {
+        "name": "Triveni Society",
+        "slug": "triveni-society-bilimora",
+        "address": "Navjivan Colony, Bilimora",
+        "timing": ""
+      }
+    ],
+    "location": "Navjivan Colony, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Dr. Rathod Clinic is a highly experienced Cosmetic Surgeon based in Bilimora, specializing in rhinoplasty, hair restoration, scar revision, and body contouring. Backed by strong clinical and procedural experience, Dr. Rathod Clinic combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Triveni Society, Dr. Rathod Clinic is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Rathod Clinic is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon",
+      "medical-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/dr-rathod-clinic.webp"
+  },
+  {
+    "name": "Dr. Dubey Hospital & Panchkarma Center",
+    "slug": "dr-dubey-hospital-panchkarma-center-aesthetics",
+    "specialty": "Cosmetic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.8,
+    "reviews": 25,
+    "fee": 0,
+    "hospital": "Antalia",
+    "hospitals": [
+      {
+        "name": "Antalia",
+        "slug": "antalia-bilimora",
+        "address": "Antalia, Bilimora",
+        "timing": "Opens 9 am Su"
+      }
+    ],
+    "location": "Antalia, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Dr. Dubey Hospital & Panchkarma Center is a highly experienced Cosmetic Surgeon based in Bilimora, specializing in rhinoplasty, hair restoration, scar revision, and body contouring. Backed by strong clinical and procedural experience, Dr. Dubey Hospital & Panchkarma Center combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Antalia, Dr. Dubey Hospital & Panchkarma Center is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Dubey Hospital & Panchkarma Center is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon",
+      "hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/dr-dubey-hospital-panchkarma-center.webp"
+  },
+  {
+    "name": "Dr. Ashwin D. Vashi",
+    "slug": "dr-ashwin-d-vashi-aesthetics",
+    "specialty": "Cosmetic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.0,
+    "reviews": 3,
+    "fee": 0,
+    "hospital": "Triveni Society",
+    "hospitals": [
+      {
+        "name": "Triveni Society",
+        "slug": "triveni-society-bilimora",
+        "address": "Maruti Nagar Society, Bilimora",
+        "timing": ""
+      }
+    ],
+    "location": "Maruti Nagar Society, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Dr. Ashwin D. Vashi is a highly experienced Cosmetic Surgeon based in Bilimora, specializing in rhinoplasty, hair restoration, scar revision, and body contouring. Backed by strong clinical and procedural experience, Dr. Ashwin D. Vashi combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Triveni Society, Dr. Ashwin D. Vashi is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Ashwin D. Vashi is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/dr-ashwin-d-vashi.webp"
+  },
+  {
+    "name": "Hema Ayurvedic Stores",
+    "slug": "hema-ayurvedic-stores-herbal-medicine-store",
+    "specialty": "Herbal medicine store",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 55,
+    "fee": 0,
+    "hospital": "opp. Laxmi Palace",
+    "hospitals": [
+      {
+        "name": "opp. Laxmi Palace",
+        "slug": "opp-laxmi-palace-bilimora",
+        "address": "west, Bilimora",
+        "timing": "Open · Closes 10:30 pm   facebook.com    099251 30805    QX98+95 Bilimora, Gu"
+      }
+    ],
+    "location": "west, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Hema Ayurvedic Stores offers specialized herbal medicine store services in Bilimora, with particular emphasis on cosmetic surgeon. With strong clinical and procedural experience, Hema Ayurvedic Stores is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Hema Ayurvedic Stores emphasizes transparent communication, safe decision-making, and individualized management at opp. Laxmi Palace. The practice style of Hema Ayurvedic Stores is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "herbal-medicine-store",
+      "cosmetic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/hema-ayurvedic-stores.webp"
+  },
+  {
+    "name": "Jivanraksha Medical Store",
+    "slug": "jivanraksha-medical-store-pharmacy",
+    "specialty": "Pharmacy",
+    "degree": "",
+    "experience": "",
+    "rating": 4.6,
+    "reviews": 29,
+    "fee": 0,
+    "hospital": "Ground Floor 7-8",
+    "hospitals": [
+      {
+        "name": "Ground Floor 7-8",
+        "slug": "ground-floor-7-8-bilimora",
+        "address": "opposite Arpan Hospital, Bilimora",
+        "timing": "Open · Closes 9 pm   094265 73800    QX9F+H8 Bilimora, Gujarat    Suggest a"
+      }
+    ],
+    "location": "opposite Arpan Hospital, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "As a dedicated Pharmacy in Bilimora, Jivanraksha Medical Store provides structured care for cosmetic surgeon. Jivanraksha Medical Store applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Ground Floor 7-8, Jivanraksha Medical Store helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Jivanraksha Medical Store a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "pharmacy",
+      "cosmetic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/jivanraksha-medical-store.webp"
+  },
+  {
+    "name": "Relax Medicals",
+    "slug": "relax-medicals-pharmacy",
+    "specialty": "Pharmacy",
+    "degree": "",
+    "experience": "",
+    "rating": 4.8,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "OPP.L.B COMPLEX",
+    "hospitals": [
+      {
+        "name": "OPP.L.B COMPLEX",
+        "slug": "opp-l-b-complex-bilimora",
+        "address": "MORARJI DESAI ROAD, BILIMORA",
+        "timing": ""
+      }
+    ],
+    "location": "MORARJI DESAI ROAD, BILIMORA",
+    "city": "BILIMORA",
+    "language": "",
+    "bio": "As a dedicated Pharmacy in BILIMORA, Relax Medicals provides structured care for cosmetic surgeon. Relax Medicals applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with OPP.L.B COMPLEX, Relax Medicals helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Relax Medicals a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "pharmacy",
+      "cosmetic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Vijay Desai Clinic",
+    "slug": "dr-vijay-desai-clinic-aesthetics",
+    "specialty": "Cosmetic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Gurukrupa Society",
+    "hospitals": [
+      {
+        "name": "Gurukrupa Society",
+        "slug": "gurukrupa-society-bilimora",
+        "address": "Navapura, Bilimora",
+        "timing": ""
+      }
+    ],
+    "location": "Navapura, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Patients searching for a trusted Cosmetic Surgeon in Bilimora often consult Dr. Vijay Desai Clinic for rhinoplasty, hair restoration, scar revision, and body contouring. Dr. Vijay Desai Clinic brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. Vijay Desai Clinic supports patients visiting Gurukrupa Society with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. Vijay Desai Clinic. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Jivandhara Pharma Pvt Ltd.",
+    "slug": "jivandhara-pharma-pvt-ltd-pharmaceutical-products-wholesaler",
+    "specialty": "Pharmaceutical Products Wholesaler",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 3,
+    "fee": 0,
+    "hospital": "Goharbaug",
+    "hospitals": [
+      {
+        "name": "Goharbaug",
+        "slug": "goharbaug-bilimora",
+        "address": "HORMAZAD BAUG, Bilimora",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "HORMAZAD BAUG, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Serving patients in Bilimora, Jivandhara Pharma Pvt Ltd. practices as an established Pharmaceutical Products Wholesaler with focused expertise in cosmetic surgeon. Over years of hands-on practice, Jivandhara Pharma Pvt Ltd. has built a reputation for evidence-based care and consistent treatment results. Consulting from Goharbaug, Jivandhara Pharma Pvt Ltd. focuses on patient-centric care, realistic expectations, and dependable clinical support. Jivandhara Pharma Pvt Ltd. continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "pharmaceutical-products-wholesaler",
+      "cosmetic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/jivandhara-pharma-pvt-ltd.webp"
+  },
+  {
+    "name": "Dr. jigar Patel",
+    "slug": "dr-jigar-patel-housing-society",
+    "specialty": "Housing society",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "960",
+    "hospitals": [
+      {
+        "name": "960",
+        "slug": "960-bilimora",
+        "address": "Navjivan Colony, Bilimora",
+        "timing": ""
+      }
+    ],
+    "location": "Navjivan Colony, Bilimora",
+    "city": "Bilimora",
+    "language": "",
+    "bio": "Serving patients in Bilimora, Dr. jigar Patel practices as an established Housing society with focused expertise in heart surgeon. Over years of hands-on practice, Dr. jigar Patel has built a reputation for evidence-based care and consistent treatment results. Consulting from 960, Dr. jigar Patel focuses on patient-centric care, realistic expectations, and dependable clinical support. Dr. jigar Patel continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "housing-society",
+      "heart-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/bilimora/dr-jigar-patel.webp"
+  }
+]

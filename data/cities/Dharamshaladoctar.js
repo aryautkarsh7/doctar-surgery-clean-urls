@@ -1,0 +1,1144 @@
+window.DOCTAR_TEMP_CITY = [
+  {
+    "name": "Khanna Clinic & Diagnostics",
+    "slug": "khanna-clinic-diagnostics-laparoscopy",
+    "specialty": "General practitioner",
+    "degree": "",
+    "experience": "",
+    "rating": 4.5,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Vishnu Bhawan",
+    "hospitals": [
+      {
+        "name": "Vishnu Bhawan",
+        "slug": "vishnu-bhawan-dharamshala",
+        "address": "McLeod Ganj, Dharamshala",
+        "timing": "Opens soo"
+      }
+    ],
+    "location": "McLeod Ganj, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "As a dedicated General practitioner in Dharamshala, Khanna Clinic & Diagnostics provides structured care for gallbladder stones, hernia surgery, appendix treatment, and piles and fistula care. Khanna Clinic & Diagnostics applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Vishnu Bhawan, Khanna Clinic & Diagnostics helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Khanna Clinic & Diagnostics a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "laparoscopy",
+      "general-surgery",
+      "urologist-surgeon",
+      "general-practitioner"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Das Kidney Care Clinic",
+    "slug": "dr-das-kidney-care-clinic-gastro-surgery",
+    "specialty": "Nephrologist",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "High School",
+    "hospitals": [
+      {
+        "name": "High School",
+        "slug": "high-school-bhubaneswar",
+        "address": "Chandrasekharpur, Bhubaneswar",
+        "timing": ""
+      }
+    ],
+    "location": "Chandrasekharpur, Bhubaneswar",
+    "city": "Bhubaneswar",
+    "language": "",
+    "bio": "Dr. Das Kidney Care Clinic offers specialized nephrologist services in Bhubaneswar, with particular emphasis on gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. With strong clinical and procedural experience, Dr. Das Kidney Care Clinic is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Dr. Das Kidney Care Clinic emphasizes transparent communication, safe decision-making, and individualized management at High School. The practice style of Dr. Das Kidney Care Clinic is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "gastro-surgery",
+      "kidney-transplant-surgeon",
+      "nephrologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Meliora Kidney and Urology Institute",
+    "slug": "meliora-kidney-and-urology-institute-urology",
+    "specialty": "Urologist",
+    "degree": "",
+    "experience": "",
+    "rating": 4.8,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "SCO 152",
+    "hospitals": [
+      {
+        "name": "SCO 152",
+        "slug": "sco-152-dharamshala",
+        "address": "SCO 152, Sector 24D, Sector 24, Chandigarh, 160023",
+        "timing": "Open · Closes 6 pm   bphi"
+      }
+    ],
+    "location": "SCO 152, Sector 24D, Sector 24, Chandigarh, 160023",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "As a dedicated Urologist in Dharamshala, Meliora Kidney and Urology Institute provides structured care for kidney stone treatment, prostate care, urinary disorders, and male urology concerns. Meliora Kidney and Urology Institute applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with SCO 152, Meliora Kidney and Urology Institute helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Meliora Kidney and Urology Institute a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "urology",
+      "kidney-transplant-surgeon",
+      "urologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "HimVeda",
+    "slug": "himveda-alternative-medicine-practitioner",
+    "specialty": "Alternative medicine practitioner",
+    "degree": "MD",
+    "experience": "",
+    "rating": 4.7,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Dharamshala",
+    "hospitals": [
+      {
+        "name": "Dharamshala",
+        "slug": "dharamshala-dharamshala",
+        "address": "Dharamshala, near International Cricket Stadium, Kangra, Himachal Pradesh 176215",
+        "timing": ""
+      }
+    ],
+    "location": "Dharamshala, near International Cricket Stadium, Kangra, Himachal Pradesh 176215",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Patients searching for a trusted Alternative medicine practitioner in Dharamshala often consult HimVeda for kidney transplant surgeon. HimVeda brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. HimVeda supports patients visiting Dharamshala with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by HimVeda. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "alternative-medicine-practitioner",
+      "kidney-transplant-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dhauladhar Orthopaedic Clinic",
+    "slug": "dhauladhar-orthopaedic-clinic-orthopedics",
+    "specialty": "Orthopedic surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "chowk",
+    "hospitals": [
+      {
+        "name": "chowk",
+        "slug": "chowk-dharamshala",
+        "address": "Fatehpur, Dharamshala",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "Fatehpur, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Dhauladhar Orthopaedic Clinic is known in Dharamshala for orthopedic surgeon care with attention to joint replacement, fracture care, knee pain, and hip disorders. Drawing on strong clinical and procedural experience, Dhauladhar Orthopaedic Clinic supports both routine and complex cases with clarity and confidence. Patients visiting chowk rely on Dhauladhar Orthopaedic Clinic for systematic evaluation, clear recommendations, and well-planned treatment pathways. Dhauladhar Orthopaedic Clinic is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "orthopedics",
+      "spine-surgeon",
+      "orthopedic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Bhushan Clinic",
+    "slug": "dr-bhushan-clinic-neurosurgery",
+    "specialty": "Spine Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.4,
+    "reviews": 9,
+    "fee": 0,
+    "hospital": "Sudher",
+    "hospitals": [
+      {
+        "name": "Sudher",
+        "slug": "sudher-dharamshala",
+        "address": "Sudher, Dharamshala",
+        "timing": "Open · Closes 7 pm   Claim this busi"
+      }
+    ],
+    "location": "Sudher, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Patients searching for a trusted Spine Surgeon in Dharamshala often consult Dr. Bhushan Clinic for brain and spine disorders, disc problems, nerve compression, and complex neurosurgical evaluation. Dr. Bhushan Clinic brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. Bhushan Clinic supports patients visiting Sudher with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. Bhushan Clinic. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "neurosurgery",
+      "spine",
+      "spine-surgeon",
+      "medical-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/dharamshala/dr-bhushan-clinic.webp"
+  },
+  {
+    "name": "Restore and balance physiotherapy",
+    "slug": "restore-and-balance-physiotherapy-physiotherapist",
+    "specialty": "Physiotherapist",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Shyam Nagar",
+    "hospitals": [
+      {
+        "name": "Shyam Nagar",
+        "slug": "shyam-nagar-dharamshala",
+        "address": "Shyam Nagar, Dharamshala",
+        "timing": "Open · Closes 5:30 pm   070185 96980    687G+W6 Dharamshala, Himachal Pradesh "
+      }
+    ],
+    "location": "Shyam Nagar, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Restore and balance physiotherapy is known in Dharamshala for physiotherapist care with attention to spine surgeon. Drawing on strong clinical and procedural experience, Restore and balance physiotherapy supports both routine and complex cases with clarity and confidence. Patients visiting Shyam Nagar rely on Restore and balance physiotherapy for systematic evaluation, clear recommendations, and well-planned treatment pathways. Restore and balance physiotherapy is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "physiotherapist",
+      "spine-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "My Healing Lounge",
+    "slug": "my-healing-lounge-physiotherapist",
+    "specialty": "Physiotherapist",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Shyam Nagar",
+    "hospitals": [
+      {
+        "name": "Shyam Nagar",
+        "slug": "shyam-nagar-dharamshala",
+        "address": "Mant Khas, Dharamshala",
+        "timing": ""
+      }
+    ],
+    "location": "Mant Khas, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "My Healing Lounge is known in Dharamshala for physiotherapist care with attention to spine surgeon. Drawing on strong clinical and procedural experience, My Healing Lounge supports both routine and complex cases with clarity and confidence. Patients visiting Shyam Nagar rely on My Healing Lounge for systematic evaluation, clear recommendations, and well-planned treatment pathways. My Healing Lounge is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "physiotherapist",
+      "spine-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Afecto Homeopathic Clinic",
+    "slug": "afecto-homeopathic-clinic-homeopath",
+    "specialty": "Homeopath",
+    "degree": "",
+    "experience": "",
+    "rating": 4.8,
+    "reviews": 211,
+    "fee": 0,
+    "hospital": "1st Floor",
+    "hospitals": [
+      {
+        "name": "1st Floor",
+        "slug": "1st-floor-dharamshala",
+        "address": "Distt, Dharamshala",
+        "timing": "Open · Closes 6:30 pm   afectocli"
+      }
+    ],
+    "location": "Distt, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Afecto Homeopathic Clinic offers specialized homeopath services in Dharamshala, with particular emphasis on orthopedic surgeon. With strong clinical and procedural experience, Afecto Homeopathic Clinic is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Afecto Homeopathic Clinic emphasizes transparent communication, safe decision-making, and individualized management at 1st Floor. The practice style of Afecto Homeopathic Clinic is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "homeopath",
+      "orthopedic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/dharamshala/afecto-homeopathic-clinic.webp"
+  },
+  {
+    "name": "Dr. Yeshi Dhonden Clinic",
+    "slug": "dr-yeshi-dhonden-clinic-alternative-medicine-practitioner",
+    "specialty": "Alternative medicine practitioner",
+    "degree": "",
+    "experience": "",
+    "rating": 4.1,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Below Pema Thang Guest House",
+    "hospitals": [
+      {
+        "name": "Below Pema Thang Guest House",
+        "slug": "below-pema-thang-guest-house-mcleod-ganj",
+        "address": "Last floor, McLeod Ganj",
+        "timing": ""
+      }
+    ],
+    "location": "Last floor, McLeod Ganj",
+    "city": "McLeod Ganj",
+    "language": "",
+    "bio": "Dr. Yeshi Dhonden Clinic is a highly experienced Alternative medicine practitioner based in McLeod Ganj, specializing in oncologist surgeon. Backed by strong clinical and procedural experience, Dr. Yeshi Dhonden Clinic combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Below Pema Thang Guest House, Dr. Yeshi Dhonden Clinic is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Yeshi Dhonden Clinic is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "alternative-medicine-practitioner",
+      "oncologist-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Tibet Cancer Medicine Dr Kelsang Dhonden",
+    "slug": "tibet-cancer-medicine-dr-kelsang-dhonden-gastro-surgery",
+    "specialty": "oncologist surgeon in Dharamshala",
+    "degree": "",
+    "experience": "",
+    "rating": 3.8,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Himachal Pradesh 176215",
+    "hospitals": [
+      {
+        "name": "Himachal Pradesh 176215",
+        "slug": "himachal-pradesh-176215-hotel-bhagsu-rd",
+        "address": "68MG+V35, Hotel Bhagsu Rd, Himachal Pradesh 176215",
+        "timing": ""
+      }
+    ],
+    "location": "68MG+V35, Hotel Bhagsu Rd, Himachal Pradesh 176215",
+    "city": "Hotel Bhagsu Rd",
+    "language": "",
+    "bio": "As a dedicated oncologist surgeon in Dharamshala in Hotel Bhagsu Rd, Tibet Cancer Medicine Dr Kelsang Dhonden provides structured care for gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. Tibet Cancer Medicine Dr Kelsang Dhonden applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Himachal Pradesh 176215, Tibet Cancer Medicine Dr Kelsang Dhonden helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Tibet Cancer Medicine Dr Kelsang Dhonden a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "gastro-surgery",
+      "oncologist-surgeon",
+      "cancer-treatment-center"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Kelsang Dhonden Sorig Herbal Clinic",
+    "slug": "dr-kelsang-dhonden-sorig-herbal-clinic-gastro-surgery",
+    "specialty": "Oncologist Surgeon",
+    "degree": "MD",
+    "experience": "",
+    "rating": 4.0,
+    "reviews": 0,
+    "fee": 200,
+    "hospital": "McLeod Ganj",
+    "hospitals": [
+      {
+        "name": "McLeod Ganj",
+        "slug": "mcleod-ganj-dharamshala",
+        "address": "McLeod Ganj, Dharamshala",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "McLeod Ganj, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Patients searching for a trusted Oncologist Surgeon in Dharamshala often consult Dr. Kelsang Dhonden Sorig Herbal Clinic for gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. Dr. Kelsang Dhonden Sorig Herbal Clinic brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. Kelsang Dhonden Sorig Herbal Clinic supports patients visiting McLeod Ganj with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. Kelsang Dhonden Sorig Herbal Clinic. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "gastro-surgery",
+      "oncologist-surgeon",
+      "medical-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Lobsang Dolma Khangkar Memorial Clinic",
+    "slug": "dr-lobsang-dolma-khangkar-memorial-clinic-oncology",
+    "specialty": "Cancer Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.7,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Dolma Chowk",
+    "hospitals": [
+      {
+        "name": "Dolma Chowk",
+        "slug": "dolma-chowk-dharamshala",
+        "address": "McLeod Ganj, Dharamshala",
+        "timing": "Open · Closes 5 pm   075900 32466    68PF+RM Dharamshala, Himachal Pradesh  "
+      }
+    ],
+    "location": "McLeod Ganj, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Dr. Lobsang Dolma Khangkar Memorial Clinic is known in Dharamshala for cancer surgeon care with attention to cancer surgery, tumor evaluation, multidisciplinary oncology care, and organ-specific cancer treatment. Drawing on strong clinical and procedural experience, Dr. Lobsang Dolma Khangkar Memorial Clinic supports both routine and complex cases with clarity and confidence. Patients visiting Dolma Chowk rely on Dr. Lobsang Dolma Khangkar Memorial Clinic for systematic evaluation, clear recommendations, and well-planned treatment pathways. Dr. Lobsang Dolma Khangkar Memorial Clinic is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "oncology",
+      "cancer-surgeon",
+      "medical-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Tibetan Cancer Society",
+    "slug": "tibetan-cancer-society-non-profit-organization",
+    "specialty": "Non-profit organization",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Manocha House",
+    "hospitals": [
+      {
+        "name": "Manocha House",
+        "slug": "manocha-house-dharamshala",
+        "address": "Upmuhal, Dharamshala",
+        "timing": "Opens 9 am Wed   tibeta"
+      }
+    ],
+    "location": "Upmuhal, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Tibetan Cancer Society offers specialized non-profit organization services in Dharamshala, with particular emphasis on cancer surgeon. With strong clinical and procedural experience, Tibetan Cancer Society is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Tibetan Cancer Society emphasizes transparent communication, safe decision-making, and individualized management at Manocha House. The practice style of Tibetan Cancer Society is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "non-profit-organization",
+      "cancer-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Choephel Kalsang",
+    "slug": "dr-choephel-kalsang-oncology",
+    "specialty": "cancer surgeon in Dharamshala",
+    "degree": "",
+    "experience": "",
+    "rating": 4.2,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "MDR45",
+    "hospitals": [
+      {
+        "name": "MDR45",
+        "slug": "mdr45-ruhru",
+        "address": "Dhar, Ruhru",
+        "timing": ""
+      }
+    ],
+    "location": "Dhar, Ruhru",
+    "city": "Ruhru",
+    "language": "",
+    "bio": "Dr. Choephel Kalsang offers specialized cancer surgeon in dharamshala services in Ruhru, with particular emphasis on cancer surgery, tumor evaluation, multidisciplinary oncology care, and organ-specific cancer treatment. With strong clinical and procedural experience, Dr. Choephel Kalsang is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Dr. Choephel Kalsang emphasizes transparent communication, safe decision-making, and individualized management at MDR45. The practice style of Dr. Choephel Kalsang is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "oncology",
+      "cancer-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Arun Saroha",
+    "slug": "dr-arun-saroha-neurosurgery",
+    "specialty": "Neurosurgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.8,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Max Hospital",
+    "hospitals": [
+      {
+        "name": "Max Hospital",
+        "slug": "max-hospital-gurugram",
+        "address": "Sector 43, Gurugram",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "Sector 43, Gurugram",
+    "city": "Gurugram",
+    "language": "",
+    "bio": "Dr. Arun Saroha is known in Gurugram for neurosurgeon care with attention to brain and spine disorders, disc problems, nerve compression, and complex neurosurgical evaluation. Drawing on strong clinical and procedural experience, Dr. Arun Saroha supports both routine and complex cases with clarity and confidence. Patients visiting Max Hospital rely on Dr. Arun Saroha for systematic evaluation, clear recommendations, and well-planned treatment pathways. Dr. Arun Saroha is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "neurosurgery",
+      "spine",
+      "spine-neurosurgeon",
+      "neurosurgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "𝗗𝗿. 𝗣𝗿𝗮𝘃𝗲𝗲𝗻 𝗧𝗵𝗮𝗸𝘂𝗿",
+    "slug": "neurosurgery",
+    "specialty": "Neurosurgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "City Hospital",
+    "hospitals": [
+      {
+        "name": "City Hospital",
+        "slug": "city-hospital-ghurkari-khas",
+        "address": "Kangra, Ghurkari Khas",
+        "timing": ""
+      }
+    ],
+    "location": "Kangra, Ghurkari Khas",
+    "city": "Ghurkari Khas",
+    "language": "",
+    "bio": "Patients searching for a trusted Neurosurgeon in Ghurkari Khas often consult 𝗗𝗿. 𝗣𝗿𝗮𝘃𝗲𝗲𝗻 𝗧𝗵𝗮𝗸𝘂𝗿 for brain and spine disorders, disc problems, nerve compression, and complex neurosurgical evaluation. 𝗗𝗿. 𝗣𝗿𝗮𝘃𝗲𝗲𝗻 𝗧𝗵𝗮𝗸𝘂𝗿 brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. 𝗗𝗿. 𝗣𝗿𝗮𝘃𝗲𝗲𝗻 𝗧𝗵𝗮𝗸𝘂𝗿 supports patients visiting City Hospital with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by 𝗗𝗿. 𝗣𝗿𝗮𝘃𝗲𝗲𝗻 𝗧𝗵𝗮𝗸𝘂𝗿. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "neurosurgery",
+      "spine",
+      "neurosurgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Deepak Das",
+    "slug": "dr-deepak-das-neurosurgery",
+    "specialty": "neurosurgeon in Dharamshala",
+    "degree": "",
+    "experience": "",
+    "rating": 4.7,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Sriram Hospital",
+    "hospitals": [
+      {
+        "name": "Sriram Hospital",
+        "slug": "sriram-hospital-cuttack",
+        "address": "Jobra Rd, Cuttack",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "Jobra Rd, Cuttack",
+    "city": "Cuttack",
+    "language": "",
+    "bio": "Dr. Deepak Das is a highly experienced neurosurgeon in Dharamshala based in Cuttack, specializing in brain and spine disorders, disc problems, nerve compression, and complex neurosurgical evaluation. Backed by strong clinical and procedural experience, Dr. Deepak Das combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Sriram Hospital, Dr. Deepak Das is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Deepak Das is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "neurosurgery",
+      "spine",
+      "neurosurgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Neena Pahwa Hospital",
+    "slug": "dr-neena-pahwa-hospital-neurosurgery",
+    "specialty": "neurosurgeon in Dharamshala",
+    "degree": "",
+    "experience": "",
+    "rating": 4.5,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Adarsh Colony",
+    "hospitals": [
+      {
+        "name": "Adarsh Colony",
+        "slug": "adarsh-colony-kangra",
+        "address": "Sibkara, Kangra",
+        "timing": ""
+      }
+    ],
+    "location": "Sibkara, Kangra",
+    "city": "Kangra",
+    "language": "",
+    "bio": "As a dedicated neurosurgeon in Dharamshala in Kangra, Dr. Neena Pahwa Hospital provides structured care for brain and spine disorders, disc problems, nerve compression, and complex neurosurgical evaluation. Dr. Neena Pahwa Hospital applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Adarsh Colony, Dr. Neena Pahwa Hospital helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. Neena Pahwa Hospital a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "neurosurgery",
+      "spine",
+      "neurosurgeon",
+      "hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Parveen Vij Child care clinic",
+    "slug": "dr-parveen-vij-child-care-clinic-fertility",
+    "specialty": "Ivf Specialist",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Shyam Nagar",
+    "hospitals": [
+      {
+        "name": "Shyam Nagar",
+        "slug": "shyam-nagar-dharamshala",
+        "address": "Mant Khas, Dharamshala",
+        "timing": ""
+      }
+    ],
+    "location": "Mant Khas, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Dr. Parveen Vij Child care clinic offers specialized ivf specialist services in Dharamshala, with particular emphasis on IVF treatment, IUI support, infertility workups, and egg freezing guidance. With strong clinical and procedural experience, Dr. Parveen Vij Child care clinic is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Dr. Parveen Vij Child care clinic emphasizes transparent communication, safe decision-making, and individualized management at Shyam Nagar. The practice style of Dr. Parveen Vij Child care clinic is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "fertility",
+      "gynaecology",
+      "ivf-specialist",
+      "child-health-care-center"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Deepanwita's Hospital",
+    "slug": "dr-deepanwita-s-hospital-gynaecology",
+    "specialty": "Obstetrician-gynecologist",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Dr. Deepanwita's Hospital VPO- Bhattu Samulla",
+    "hospitals": [
+      {
+        "name": "Dr. Deepanwita's Hospital VPO- Bhattu Samulla",
+        "slug": "dr-deepanwita-s-hospital-vpo-bhattu-samulla-palampur",
+        "address": "near Nalti Pull, Palampur",
+        "timing": ""
+      }
+    ],
+    "location": "near Nalti Pull, Palampur",
+    "city": "Palampur",
+    "language": "",
+    "bio": "Serving patients in Palampur, Dr. Deepanwita's Hospital practices as an established Obstetrician-gynecologist with focused expertise in high-risk pregnancy care, PCOS management, laparoscopic gynecological procedures, and menstrual disorders. Over years of hands-on practice, Dr. Deepanwita's Hospital has built a reputation for evidence-based care and consistent treatment results. Consulting from Dr. Deepanwita's Hospital VPO- Bhattu Samulla, Dr. Deepanwita's Hospital focuses on patient-centric care, realistic expectations, and dependable clinical support. Dr. Deepanwita's Hospital continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "gynaecology",
+      "gynecologist-surgeon",
+      "obstetrician-gynecologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Pallavi Ranjan (M.S.",
+    "slug": "dr-pallavi-ranjan-m-s-gynaecology",
+    "specialty": "gynecologist surgeon in Dharamshala",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Bharmoli chowk",
+    "hospitals": [
+      {
+        "name": "Bharmoli chowk",
+        "slug": "bharmoli-chowk-nurpur",
+        "address": "Jassur, Nurpur",
+        "timing": ""
+      }
+    ],
+    "location": "Jassur, Nurpur",
+    "city": "Nurpur",
+    "language": "",
+    "bio": "As a dedicated gynecologist surgeon in Dharamshala in Nurpur, Dr. Pallavi Ranjan (M.S. provides structured care for high-risk pregnancy care, PCOS management, laparoscopic gynecological procedures, and menstrual disorders. Dr. Pallavi Ranjan (M.S. applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Bharmoli chowk, Dr. Pallavi Ranjan (M.S. helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. Pallavi Ranjan (M.S. a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "gynaecology",
+      "gynecologist-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Rohit Sharma's Modern Dental Clinic",
+    "slug": "dr-rohit-sharma-s-modern-dental-clinic-laparoscopy",
+    "specialty": "laparoscopic surgeon in Dharamshala",
+    "degree": "",
+    "experience": "",
+    "rating": 4.7,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Backside Hotel centre point Dharamshala (H.P",
+    "hospitals": [
+      {
+        "name": "Backside Hotel centre point Dharamshala (H.P",
+        "slug": "backside-hotel-centre-point-dharamshala-h-p-backside-hotel-centre-point-dharamshala-h-p",
+        "address": "Civil lines (kachehri) opp.Dayanand model school, Backside Hotel centre point Dharamshala (H.P",
+        "timing": ""
+      }
+    ],
+    "location": "Civil lines (kachehri) opp.Dayanand model school, Backside Hotel centre point Dharamshala (H.P",
+    "city": "Backside Hotel centre point Dharamshala (H.P",
+    "language": "",
+    "bio": "Serving patients in Backside Hotel centre point Dharamshala (H.P, Dr. Rohit Sharma's Modern Dental Clinic practices as an established laparoscopic surgeon in Dharamshala with focused expertise in gallbladder stones, hernia surgery, appendix treatment, and piles and fistula care. Over years of hands-on practice, Dr. Rohit Sharma's Modern Dental Clinic has built a reputation for evidence-based care and consistent treatment results. Consulting from Backside Hotel centre point Dharamshala (H.P, Dr. Rohit Sharma's Modern Dental Clinic focuses on patient-centric care, realistic expectations, and dependable clinical support. Dr. Rohit Sharma's Modern Dental Clinic continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "laparoscopy",
+      "general-surgery",
+      "laparoscopic-surgeon",
+      "dental-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Ayur Health Veda Dr. Chakshu",
+    "slug": "ayur-health-veda-dr-chakshu-laparoscopy",
+    "specialty": "Laparoscopic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Ward No.16",
+    "hospitals": [
+      {
+        "name": "Ward No.16",
+        "slug": "ward-no-16-dharamshala",
+        "address": "near white Ridge, Dharamshala",
+        "timing": ""
+      }
+    ],
+    "location": "near white Ridge, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Ayur Health Veda Dr. Chakshu is a highly experienced Laparoscopic Surgeon based in Dharamshala, specializing in gallbladder stones, hernia surgery, appendix treatment, and piles and fistula care. Backed by strong clinical and procedural experience, Ayur Health Veda Dr. Chakshu combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Ward No.16, Ayur Health Veda Dr. Chakshu is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Ayur Health Veda Dr. Chakshu is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "laparoscopy",
+      "general-surgery",
+      "laparoscopic-surgeon",
+      "ayurvedic-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. SIBY'S Ayurveda Center",
+    "slug": "dr-siby-s-ayurveda-center-laparoscopy",
+    "specialty": "Laparoscopic Surgeon",
+    "degree": "",
+    "experience": "39+ Years",
+    "rating": 4.7,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Temple",
+    "hospitals": [
+      {
+        "name": "Temple",
+        "slug": "temple-dharamshala",
+        "address": "McLeod Ganj, Dharamshala",
+        "timing": ""
+      }
+    ],
+    "location": "McLeod Ganj, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Patients searching for a trusted Laparoscopic Surgeon in Dharamshala often consult Dr. SIBY'S Ayurveda Center for gallbladder stones, hernia surgery, appendix treatment, and piles and fistula care. Dr. SIBY'S Ayurveda Center brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. SIBY'S Ayurveda Center supports patients visiting Temple with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. SIBY'S Ayurveda Center. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "laparoscopy",
+      "general-surgery",
+      "laparoscopic-surgeon",
+      "ayurvedic-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Deep Medical and General Store",
+    "slug": "deep-medical-and-general-store-drug-store",
+    "specialty": "Drug store",
+    "degree": "",
+    "experience": "",
+    "rating": 4.8,
+    "reviews": 13,
+    "fee": 0,
+    "hospital": "Charan Khadd",
+    "hospitals": [
+      {
+        "name": "Charan Khadd",
+        "slug": "charan-khadd-dharamshala",
+        "address": "Jawahar Nagar, Dharamshala",
+        "timing": "Open · Closes 9:30 pm   684G+6X Dharamshala, Himachal Pradesh    Suggest a"
+      }
+    ],
+    "location": "Jawahar Nagar, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Deep Medical and General Store is a highly experienced Drug store based in Dharamshala, specializing in laparoscopic surgeon. Backed by strong clinical and procedural experience, Deep Medical and General Store combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Charan Khadd, Deep Medical and General Store is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Deep Medical and General Store is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "drug-store",
+      "laparoscopic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/dharamshala/deep-medical-and-general-store.webp"
+  },
+  {
+    "name": "Dr. Nisha Munjal Obstetrician",
+    "slug": "dr-nisha-munjal-obstetrician-gynaecology",
+    "specialty": "Obstetrician-gynecologist",
+    "degree": "",
+    "experience": "",
+    "rating": 4.6,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Fortis Hospital Opd No. 107",
+    "hospitals": [
+      {
+        "name": "Fortis Hospital Opd No. 107",
+        "slug": "fortis-hospital-opd-no-107-adarsh-nagar",
+        "address": "Fortis Hospital Opd No. 107, Adarsh Nagar",
+        "timing": ""
+      }
+    ],
+    "location": "Fortis Hospital Opd No. 107, Adarsh Nagar",
+    "city": "Adarsh Nagar",
+    "language": "",
+    "bio": "Dr. Nisha Munjal Obstetrician offers specialized obstetrician-gynecologist services in Adarsh Nagar, with particular emphasis on high-risk pregnancy care, PCOS management, laparoscopic gynecological procedures, and menstrual disorders. With strong clinical and procedural experience, Dr. Nisha Munjal Obstetrician is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Dr. Nisha Munjal Obstetrician emphasizes transparent communication, safe decision-making, and individualized management at Fortis Hospital Opd No. 107. The practice style of Dr. Nisha Munjal Obstetrician is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "gynaecology",
+      "laparoscopic-surgeon",
+      "obstetrician-gynecologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Baba medical And General store",
+    "slug": "baba-medical-and-general-store-drug-store",
+    "specialty": "Drug store",
+    "degree": "",
+    "experience": "",
+    "rating": 4.0,
+    "reviews": 51,
+    "fee": 0,
+    "hospital": "Sudher",
+    "hospitals": [
+      {
+        "name": "Sudher",
+        "slug": "sudher-dharamshala",
+        "address": "Sudher, Dharamshala",
+        "timing": "Open · Closes 8:30 pm   094188 85184    686C+XC Dharamshala, Himachal Pradesh "
+      }
+    ],
+    "location": "Sudher, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Baba medical And General store is a highly experienced Drug store based in Dharamshala, specializing in laparoscopic surgeon. Backed by strong clinical and procedural experience, Baba medical And General store combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Sudher, Baba medical And General store is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Baba medical And General store is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "drug-store",
+      "laparoscopic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/dharamshala/baba-medical-and-general-store.webp"
+  },
+  {
+    "name": "Dr. Priyanka",
+    "slug": "dr-priyanka-health-consultant",
+    "specialty": "Health consultant",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Adarsh Nagar",
+    "hospitals": [
+      {
+        "name": "Adarsh Nagar",
+        "slug": "adarsh-nagar-kangra",
+        "address": "near Big Bazaar, Kangra",
+        "timing": ""
+      }
+    ],
+    "location": "near Big Bazaar, Kangra",
+    "city": "Kangra",
+    "language": "",
+    "bio": "Dr. Priyanka is known in Kangra for health consultant care with attention to laparoscopic surgeon. Drawing on strong clinical and procedural experience, Dr. Priyanka supports both routine and complex cases with clarity and confidence. Patients visiting Adarsh Nagar rely on Dr. Priyanka for systematic evaluation, clear recommendations, and well-planned treatment pathways. Dr. Priyanka is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "health-consultant",
+      "laparoscopic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Vibe Hostel",
+    "slug": "vibe-hostel-backpacker-hostel",
+    "specialty": "Backpacker Hostel",
+    "degree": "",
+    "experience": "",
+    "rating": 4.8,
+    "reviews": 185,
+    "fee": 0,
+    "hospital": "Naddi view point",
+    "hospitals": [
+      {
+        "name": "Naddi view point",
+        "slug": "naddi-view-point-dharamshala",
+        "address": "McLeod Ganj, Dharamshala",
+        "timing": ""
+      }
+    ],
+    "location": "McLeod Ganj, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Vibe Hostel offers specialized backpacker hostel services in Dharamshala, with particular emphasis on laparoscopic surgeon. With strong clinical and procedural experience, Vibe Hostel is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Vibe Hostel emphasizes transparent communication, safe decision-making, and individualized management at Naddi view point. The practice style of Vibe Hostel is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "backpacker-hostel",
+      "laparoscopic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/dharamshala/vibe-hostel.webp"
+  },
+  {
+    "name": "DHARAMSHALA",
+    "slug": "dharamshala-laparoscopy",
+    "specialty": "General Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.8,
+    "reviews": 5,
+    "fee": 0,
+    "hospital": "Ram Nagar",
+    "hospitals": [
+      {
+        "name": "Ram Nagar",
+        "slug": "ram-nagar-dharamshala",
+        "address": "Ram Nagar, Dharamshala",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "Ram Nagar, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "DHARAMSHALA offers specialized general surgeon services in Dharamshala, with particular emphasis on gallbladder stones, hernia surgery, appendix treatment, and piles and fistula care. With strong clinical and procedural experience, DHARAMSHALA is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, DHARAMSHALA emphasizes transparent communication, safe decision-making, and individualized management at Ram Nagar. The practice style of DHARAMSHALA is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "laparoscopy",
+      "general-surgery",
+      "general-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "images/doctors/dharamshala/dharamshala.webp"
+  },
+  {
+    "name": "Dr. Ruchika's Dental Care N Implant Centre",
+    "slug": "dr-ruchika-s-dental-care-n-implant-centre-laparoscopy",
+    "specialty": "General Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.8,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "old chari",
+    "hospitals": [
+      {
+        "name": "old chari",
+        "slug": "old-chari-dharamshala",
+        "address": "Loharkadi Upper Sudher, Dharamshala",
+        "timing": ""
+      }
+    ],
+    "location": "Loharkadi Upper Sudher, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Patients searching for a trusted General Surgeon in Dharamshala often consult Dr. Ruchika's Dental Care N Implant Centre for gallbladder stones, hernia surgery, appendix treatment, and piles and fistula care. Dr. Ruchika's Dental Care N Implant Centre brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. Ruchika's Dental Care N Implant Centre supports patients visiting old chari with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. Ruchika's Dental Care N Implant Centre. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "laparoscopy",
+      "general-surgery",
+      "general-surgeon",
+      "dental-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "DENTISTREE GLOBAL",
+    "slug": "dentistree-global-dentistry",
+    "specialty": "Oral Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Dentistree",
+    "hospitals": [
+      {
+        "name": "Dentistree",
+        "slug": "dentistree-dharamshala",
+        "address": "opposite Bakes and Brews, Dharamshala",
+        "timing": ""
+      }
+    ],
+    "location": "opposite Bakes and Brews, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "DENTISTREE GLOBAL is known in Dharamshala for oral surgeon care with attention to oral surgery, wisdom tooth removal, jaw disorders, and dental alignment support. Drawing on strong clinical and procedural experience, DENTISTREE GLOBAL supports both routine and complex cases with clarity and confidence. Patients visiting Dentistree rely on DENTISTREE GLOBAL for systematic evaluation, clear recommendations, and well-planned treatment pathways. DENTISTREE GLOBAL is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "dentistry",
+      "oral-surgeon",
+      "dental-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "I",
+    "slug": "i-aesthetics",
+    "specialty": "Plastic surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "D 891",
+    "hospitals": [
+      {
+        "name": "D 891",
+        "slug": "d-891-amritsar",
+        "address": "Ranjit Avenue, Amritsar",
+        "timing": ""
+      }
+    ],
+    "location": "Ranjit Avenue, Amritsar",
+    "city": "Amritsar",
+    "language": "",
+    "bio": "I offers specialized plastic surgeon services in Amritsar, with particular emphasis on rhinoplasty, hair restoration, scar revision, and body contouring. With strong clinical and procedural experience, I is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, I emphasizes transparent communication, safe decision-making, and individualized management at D 891. The practice style of I is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "plastic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "MH Beauty Studio & Academy",
+    "slug": "mh-beauty-studio-academy-beauty-parlour",
+    "specialty": "Beauty Parlour",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "1st Floor",
+    "hospitals": [
+      {
+        "name": "1st Floor",
+        "slug": "1st-floor-dharamshala",
+        "address": "Dari, Dharamshala",
+        "timing": ""
+      }
+    ],
+    "location": "Dari, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "Patients searching for a trusted Beauty Parlour in Dharamshala often consult MH Beauty Studio & Academy for cosmetic surgeon. MH Beauty Studio & Academy brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. MH Beauty Studio & Academy supports patients visiting 1st Floor with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by MH Beauty Studio & Academy. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "beauty-parlour",
+      "cosmetic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Raman Puri Ophthalmologist",
+    "slug": "dr-raman-puri-ophthalmologist-ophthalmology",
+    "specialty": "Ophthalmologist",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Barol",
+    "hospitals": [
+      {
+        "name": "Barol",
+        "slug": "barol-dharamshala",
+        "address": "Dari, Dharamshala",
+        "timing": ""
+      }
+    ],
+    "location": "Dari, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "As a dedicated Ophthalmologist in Dharamshala, Dr. Raman Puri Ophthalmologist provides structured care for cataract surgery, vision correction, LASIK care, and retina treatment. Dr. Raman Puri Ophthalmologist applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Barol, Dr. Raman Puri Ophthalmologist helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. Raman Puri Ophthalmologist a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "ophthalmology",
+      "cosmetic-surgeon",
+      "ophthalmologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Mehta Clinic (Dr Dinesh Mahajan)",
+    "slug": "mehta-clinic-dr-dinesh-mahajan-aesthetics",
+    "specialty": "Cosmetic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Dharamshala",
+    "hospitals": [
+      {
+        "name": "Dharamshala",
+        "slug": "dharamshala-dharamshala",
+        "address": "near Shanti Guest House, Dharamshala",
+        "timing": ""
+      }
+    ],
+    "location": "near Shanti Guest House, Dharamshala",
+    "city": "Dharamshala",
+    "language": "",
+    "bio": "As a dedicated Cosmetic Surgeon in Dharamshala, Mehta Clinic (Dr Dinesh Mahajan) provides structured care for rhinoplasty, hair restoration, scar revision, and body contouring. Mehta Clinic (Dr Dinesh Mahajan) applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Dharamshala, Mehta Clinic (Dr Dinesh Mahajan) helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Mehta Clinic (Dr Dinesh Mahajan) a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon",
+      "medical-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  }
+];
