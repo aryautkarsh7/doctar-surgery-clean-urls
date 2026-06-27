@@ -96,26 +96,35 @@ function handleRoute() {
 
     const a = seg[0], b = seg[1], c = seg[2];
 
-    // Prefix routes (redirect disabled routes to home):
-    if (a === 'surgeons-near-me' || 
-        a === 'pet-surgery-near-me' || 
-        a.startsWith('surgeons-in-') || 
-        a.startsWith('surgeries-in-') || 
-        a.startsWith('hospitals-in-') || 
-        a.startsWith('pet-surgery-in-') || 
-        a.startsWith('pet-hospitals-in-')) {
-      return renderHomePage();
-    }
+    // Prefix routes (the trailing token carries the city/area):
+    if (a === 'surgeons-near-me')      return renderSurgeonsNearMe();
+    if (a === 'pet-surgery-near-me')   return renderPetSurgery();
+    if (a.startsWith('surgeons-in-'))  return renderAllDoctorsPage();                 // all doctors in a city
+    if (a.startsWith('surgeries-in-')) return renderAllProceduresPage(cityFromSlug(a.slice('surgeries-in-'.length)));
+    if (a.startsWith('hospitals-in-')) return renderAllHospitalsPage(null, cityFromSlug(a.slice('hospitals-in-'.length)));
+    if (a.startsWith('pet-surgery-in-'))   return renderPetSurgery(cityFromSlug(a.slice('pet-surgery-in-'.length)));
+    if (a.startsWith('pet-hospitals-in-')) return renderPetHospitals(cityFromSlug(a.slice('pet-hospitals-in-'.length)));
 
     switch (a) {
       case 'specialities':
-      case 'surgeons':
-      case 'hospitals':
-      case 'hospital':
-      case 'procedures':
-      case 'treatment':
-        return renderHomePage();
+        // /specialities/s -> all categories
+        if (seg.length === 1) return renderAllCategoriesPage();
+        // /specialities/:cat/s -> category page
+        if (seg.length === 2) return renderCategoryPage(b);
+        // /specialities/:cat/:sub/hospital-near-me/s -> hospitals near me (by specialty)
+        if (seg[3] === 'hospital-near-me') return renderHospitalsNearMe(b, c);
+        // /specialities/:cat/:sub/hospital-in-:location/s -> hospitals near a specific area+city
+        if (seg[3] && seg[3].startsWith('hospital-in-')) return renderHospitalsNearMe(b, c, seg[3].slice('hospital-in-'.length));
+        // /specialities/:cat/:sub/surgeons-in-:city/s -> treatment / doctors-by-subcategory
+        return renderTreatmentPage(c);
 
+      case 'surgeons':
+        // /surgeons/:cat/:slug/s -> profile ; /surgeons/:cat/s -> listing
+        return seg.length >= 3 ? renderDoctorProfilePage(c) : renderDoctorsListingPage(b);
+
+      case 'hospitals':           return renderAllHospitalsPage();
+      case 'hospital':            return renderHospitalDetailPage(b); // :area-city segment is decorative
+      case 'procedures':          return renderAllProceduresPage();
       case 'blogs':               return renderBlogsPage();
       case 'blog':                return renderBlogPage(b);
       case 'search':              return renderSearchPage(decodeURIComponent(b || ''));
@@ -126,6 +135,9 @@ function handleRoute() {
       case 'about':               return renderAboutPage();
       case 'contact':             return renderContactPage();
       case 'careers':             return renderCareersPage();
+
+      // Back-compat: old single-segment treatment links.
+      case 'treatment':           return renderTreatmentPage(b);
 
       default:
         // Unknown -> home.
