@@ -161,7 +161,8 @@ function setupLinkInterception() {
   document.addEventListener('click', (e) => {
     if (e.defaultPrevented || e.button !== 0) return;
     if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
-    const anchor = e.target.closest && e.target.closest('a');
+    const target = e.target as any;
+    const anchor = target && target.closest && target.closest('a');
     if (!anchor) return;
     const href = anchor.getAttribute('href');
     if (!href || !href.startsWith('/') || href.startsWith('//')) return; // internal paths only

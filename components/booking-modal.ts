@@ -58,7 +58,7 @@
   };
 
   window.submitClaim = async function() {
-    const val = id => (document.getElementById(id)?.value || '').trim();
+    const val = id => ((document.getElementById(id) as any)?.value || '').trim();
     const payload = {
       doctorName: val('claim-doctor'),
       doctorSlug: val('claim-slug'),
@@ -74,7 +74,7 @@
       msgEl.textContent = 'Please fill in your name, email, phone and registration number.';
       return;
     }
-    const btn = document.getElementById('claim-submit');
+    const btn = document.getElementById('claim-submit') as any;
     btn.disabled = true; btn.textContent = 'Submitting…';
     try {
       const res = await fetch(API_BASE + '/api/doctor-claims', {
@@ -98,12 +98,12 @@
       } else {
         msgEl.className = 'claim-msg err';
         msgEl.textContent = json.error || json.message || 'Could not submit. Please try again.';
-        btn.disabled = false; btn.textContent = 'Submit Claim';
+        if (btn) { btn.disabled = false; btn.textContent = 'Submit Claim'; }
       }
     } catch (e) {
       msgEl.className = 'claim-msg err';
       msgEl.textContent = 'Network error. Please call +91-8877772277.';
-      btn.disabled = false; btn.textContent = 'Submit Claim';
+      if (btn) { btn.disabled = false; btn.textContent = 'Submit Claim'; }
     }
   };
 
@@ -113,7 +113,7 @@
       return;
     }
     try {
-      const body = { name, phone, disease };
+      const body: any = { name, phone, disease };
       if (email) body.email = email;
       const res = await fetch(API_BASE + '/api/bookings/book', {
         method: 'POST',
@@ -134,14 +134,14 @@
   };
 
   window.submitDoctorBooking = function(specialty) {
-    const name = document.getElementById('dpp-patient-name')?.value.trim();
-    const phone = document.getElementById('dpp-patient-phone')?.value.trim();
-    const email = document.getElementById('dpp-patient-email')?.value.trim();
+    const name = (document.getElementById('dpp-patient-name') as any)?.value.trim();
+    const phone = (document.getElementById('dpp-patient-phone') as any)?.value.trim();
+    const email = (document.getElementById('dpp-patient-email') as any)?.value.trim();
     window.submitBooking(name, phone, specialty, 'Appointment booked! Our team will call you to confirm.', email);
   };
 
   window.submitHospitalBooking = function(hospitalName) {
-    const form = document.getElementById('hpp-booking-form');
+    const form = document.getElementById('hpp-booking-form') as HTMLFormElement;
     if (form) form.requestSubmit();
   };
 
@@ -302,7 +302,7 @@
     window.bmSetDate('today', document.getElementById('bm-date-today'));
 
     // Auto-fill City from the city switcher (only if still empty).
-    const cityEl = document.getElementById('bm-city');
+    const cityEl = document.getElementById('bm-city') as any;
     if (cityEl && !cityEl.value.trim()) {
       try { cityEl.value = getCurrentCity ? getCurrentCity() : ''; } catch (e) { /* ignore */ }
     }
@@ -328,14 +328,14 @@
       try {
         const user = JSON.parse(localStorage.getItem('doctar_user') || 'null');
         if (user) {
-          if (user.name) document.getElementById('bm-name').value = user.name;
-          if (user.email) document.getElementById('bm-email').value = user.email;
-          if (user.phone) document.getElementById('bm-phone').value = user.phone;
+          if (user.name) (document.getElementById('bm-name') as any).value = user.name;
+          if (user.email) (document.getElementById('bm-email') as any).value = user.email;
+          if (user.phone) (document.getElementById('bm-phone') as any).value = user.phone;
           if (user.sex) window.bmSetSex(user.sex, document.getElementById('bm-sex-' + user.sex.toLowerCase()));
-          if (user.dob) document.getElementById('bm-dob').value = user.dob;
-          if (user.postal) document.getElementById('bm-postal').value = user.postal;
-          if (user.city) document.getElementById('bm-city').value = user.city;
-          if (user.address) document.getElementById('bm-address').value = user.address;
+          if (user.dob) (document.getElementById('bm-dob') as any).value = user.dob;
+          if (user.postal) (document.getElementById('bm-postal') as any).value = user.postal;
+          if (user.city) (document.getElementById('bm-city') as any).value = user.city;
+          if (user.address) (document.getElementById('bm-address') as any).value = user.address;
         } else {
           bmClearForm();
         }
@@ -347,7 +347,7 @@
 
   function bmClearForm() {
     ['bm-name','bm-email','bm-phone','bm-dob','bm-postal','bm-city','bm-address'].forEach(id => {
-      const el = document.getElementById(id);
+      const el = document.getElementById(id) as any;
       if (el) el.value = '';
     });
     window.bmSetSex('Male', document.getElementById('bm-sex-male'));
@@ -355,7 +355,7 @@
 
   window.bmSetDate = function(type, btn, val) {
     document.querySelectorAll('.bm-date-pill').forEach(b => b.classList.remove('active'));
-    const picker = document.getElementById('bm-date-picker');
+    const picker = document.getElementById('bm-date-picker') as any;
 
     if (type === 'today') {
       window._bmState.date = new Date().toISOString().split('T')[0];
@@ -369,7 +369,7 @@
     } else if (type === 'other') {
       picker.style.display = 'block';
       if (btn) btn.classList.add('active');
-      picker.min = new Date().toISOString().split('T')[0];
+      if (picker) picker.min = new Date().toISOString().split('T')[0];
     } else if (type === 'pick' && val) {
       window._bmState.date = val;
       document.getElementById('bm-date-other').classList.add('active');
@@ -384,8 +384,8 @@
     // On mobile, collapse the slots grid into a compact summary (show/hide,
     // no innerHTML swap — so the grid is always available to re-expand).
     if (window.innerWidth <= 768) {
-      const full = document.querySelector('.bm-slots-full');
-      const summary = document.getElementById('bm-slot-summary');
+      const full = document.querySelector('.bm-slots-full') as any;
+      const summary = document.getElementById('bm-slot-summary') as any;
       const selectedTime = btn.textContent.trim();
       const selectedDate = document.querySelector('.bm-date-pill.active')?.textContent.trim() || '';
 
@@ -417,28 +417,28 @@
 
   // Re-expand the collapsed slots grid (mobile "← Change" button).
   window.expandSlots = function() {
-    const full = document.querySelector('.bm-slots-full');
-    const summary = document.getElementById('bm-slot-summary');
+    const full = document.querySelector('.bm-slots-full') as any;
+    const summary = document.getElementById('bm-slot-summary') as any;
     if (full) full.style.display = '';
     if (summary) { summary.style.display = 'none'; summary.innerHTML = ''; }
   };
 
   window.bmSetSex = function(sex, btn) {
     window._bmState.sex = sex;
-    document.querySelectorAll('.bm-sex-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.bm-sex-btn').forEach((b: any) => b.classList.remove('active'));
     if (btn) btn.classList.add('active');
   };
 
   window.bmUseCurrentCity = function() {
     const city = getCurrentCity ? getCurrentCity() : '';
-    if (city) document.getElementById('bm-city').value = city;
+    if (city) (document.getElementById('bm-city') as any).value = city;
   };
 
   window.bmSubmit = async function() {
-    const name = document.getElementById('bm-name').value.trim();
-    const email = document.getElementById('bm-email').value.trim();
-    const rawPhone = document.getElementById('bm-phone').value.replace(/\D/g, '') || '';
-    const bmPhoneErr = document.getElementById('bm-phone-error');
+    const name = (document.getElementById('bm-name') as any).value.trim();
+    const email = (document.getElementById('bm-email') as any).value.trim();
+    const rawPhone = (document.getElementById('bm-phone') as any).value.replace(/\D/g, '') || '';
+    const bmPhoneErr = document.getElementById('bm-phone-error') as any;
 
     if (!name) {
       alert('Please enter the patient name.');
@@ -446,7 +446,7 @@
     }
     if (rawPhone.length !== 10) {
       if (bmPhoneErr) bmPhoneErr.style.display = 'block';
-      document.getElementById('bm-phone')?.focus();
+      (document.getElementById('bm-phone') as any)?.focus();
       return;
     }
     if (bmPhoneErr) bmPhoneErr.style.display = 'none';
@@ -454,15 +454,15 @@
 
     // Date pills use class `.bm-date-pill`; slots use `.bm-slot`.
     const activeDateEl = document.querySelector('.bm-date-pill.active');
-    const picker = document.getElementById('bm-date-picker');
+    const picker = document.getElementById('bm-date-picker') as any;
     // When "Other Days" is chosen the pill text isn't a real date — use the picker value.
     let selectedDate = activeDateEl?.textContent?.trim() || '';
     if (picker && picker.value && (selectedDate === 'Other Days' || activeDateEl?.id === 'bm-date-other')) {
       selectedDate = picker.value;
     }
 
-    const selectedSlot = document.querySelector('.bm-slot.active')?.dataset?.slot
-      || document.querySelector('.bm-slot.active')?.textContent?.trim()
+    const selectedSlot = (document.querySelector('.bm-slot.active') as any)?.dataset?.slot
+      || (document.querySelector('.bm-slot.active') as any)?.textContent?.trim()
       || '';
 
     console.log('Selected date el:', document.querySelector('.bm-date-pill.active'));
@@ -476,10 +476,10 @@
       patientEmail: email,
       phone,
       sex: window._bmState.sex,
-      dob: document.getElementById('bm-dob').value,
-      postal: document.getElementById('bm-postal').value.trim(),
-      city: document.getElementById('bm-city').value.trim(),
-      address: document.getElementById('bm-address').value.trim(),
+      dob: (document.getElementById('bm-dob') as any).value,
+      postal: (document.getElementById('bm-postal') as any).value.trim(),
+      city: (document.getElementById('bm-city') as any).value.trim(),
+      address: (document.getElementById('bm-address') as any).value.trim(),
       doctorName: window._bmState.doctorName,
       doctorSlug: window._bmState.doctorSlug,
       hospital: window._bmState.hospitalName,
@@ -488,16 +488,20 @@
       appointmentDate: selectedDate,
       appointmentTime: selectedSlot,
       disease: 'Consultation',
-      location: document.getElementById('bm-city').value.trim(),
+      location: (document.getElementById('bm-city') as any).value.trim(),
     };
 
-    const submitBtn = document.querySelector('.bm-btn-submit');
-    submitBtn.disabled = true;
-    submitBtn.textContent = 'Sending...';
+    const submitBtn = document.querySelector('.bm-btn-submit') as any;
+    if (submitBtn) {
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Sending...';
+    }
 
     const resetBtn = () => {
-      submitBtn.disabled = false;
-      submitBtn.innerHTML = '<i class="fa-solid fa-calendar-check"></i> Send Request';
+      if (submitBtn) {
+        submitBtn.disabled = false;
+        submitBtn.innerHTML = '<i class="fa-solid fa-calendar-check"></i> Send Request';
+      }
     };
 
     try {

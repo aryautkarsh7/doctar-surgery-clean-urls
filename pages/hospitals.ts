@@ -238,13 +238,13 @@
   }
 
   function setupHospitalBookingForm(hospital) {
-    const form = document.getElementById('hpp-booking-form');
+    const form = document.getElementById('hpp-booking-form') as any;
     if (!form) return;
 
-    const phoneInput = document.getElementById('hpp-patient-phone');
+    const phoneInput = document.getElementById('hpp-patient-phone') as any;
     const msgEl = document.getElementById('hpp-booking-message');
     const errEl = document.getElementById('hpp-phone-error');
-    const btn = document.getElementById('hpp-submit-btn');
+    const btn = document.getElementById('hpp-submit-btn') as any;
     const defaultBtnHTML = btn ? btn.innerHTML : '';
 
     if (phoneInput) {
@@ -258,12 +258,12 @@
       event.preventDefault();
       if (!msgEl || !btn) return;
 
-      const name = document.getElementById('hpp-patient-name')?.value.trim() || '';
+      const name = (document.getElementById('hpp-patient-name') as any)?.value.trim() || '';
       const rawPhone = phoneInput?.value.replace(/\D/g, '') || '';
-      const email = document.getElementById('hpp-patient-email')?.value.trim() || '';
-      const disease = document.getElementById('hpp-visit-reason')?.value || '';
-      const appointmentDate = document.getElementById('hpp-preferred-date')?.value || '';
-      const appointmentTime = document.getElementById('hpp-preferred-time')?.value || '';
+      const email = (document.getElementById('hpp-patient-email') as any)?.value.trim() || '';
+      const disease = (document.getElementById('hpp-visit-reason') as any)?.value || '';
+      const appointmentDate = (document.getElementById('hpp-preferred-date') as any)?.value || '';
+      const appointmentTime = (document.getElementById('hpp-preferred-time') as any)?.value || '';
 
       msgEl.className = 'hpp-booking-message';
       msgEl.textContent = '';
@@ -384,7 +384,7 @@
       (pos) => {
         const userLat = pos.coords.latitude;
         const userLng = pos.coords.longitude;
-        document.querySelectorAll('.hosp-distance').forEach(el => {
+        document.querySelectorAll('.hosp-distance').forEach((el: any) => {
           const lat = parseFloat(el.dataset.lat);
           const lng = parseFloat(el.dataset.lng);
           if (!isNaN(lat) && !isNaN(lng)) {
@@ -762,9 +762,9 @@
   // Toggle the All Hospitals page between List and Map views.
   window.setHospitalsView = function(view) {
     const listEl = document.getElementById('hospitalsListView');
-    const emptyEl = document.querySelector('.tpl-cards-col .tpl-empty');
+    const emptyEl = document.querySelector('.tpl-cards-col .tpl-empty') as any;
     const mapView = document.getElementById('hospitalsMapView');
-    document.querySelectorAll('.hvt-btn').forEach(b => b.classList.toggle('is-active', b.dataset.view === view));
+    document.querySelectorAll('.hvt-btn').forEach((b: any) => b.classList.toggle('is-active', b.dataset.view === view));
     window._allHospitalsView = view;
     if (view === 'map') {
       if (listEl) listEl.style.display = 'none';
@@ -835,7 +835,7 @@
   // LOCATION MODAL
   // =====================================================
 
-  const CITY_DATA = [
+  var CITY_DATA: any = [
     { name: 'Delhi NCR',  lat: 28.6139, lng: 77.2090, available: true  },
     { name: 'Mumbai',     lat: 19.0760, lng: 72.8777, available: true  },
     { name: 'Kolkata',    lat: 22.5726, lng: 88.3639, available: true  },

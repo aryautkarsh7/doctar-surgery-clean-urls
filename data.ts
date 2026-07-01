@@ -3,7 +3,7 @@
 // All categories, treatments, doctors, testimonials
 // =====================================================
 
-const SITE_CONFIG = {
+var SITE_CONFIG: any = {
   name: 'DOCTAR',
   tagline: 'Surgery Care, Simplified.',
   phone: '+91-8877772277',
@@ -15,7 +15,7 @@ const SITE_CONFIG = {
 // =====================================================
 // CATEGORIES (12)
 // =====================================================
-const CATEGORIES = [
+var CATEGORIES: any[] = [
   {
     id: 1,
     name: 'Proctology',
@@ -165,7 +165,7 @@ const CATEGORIES = [
 // =====================================================
 // TREATMENTS (keyed by category slug)
 // =====================================================
-const TREATMENTS = {
+var TREATMENTS: Record<string, any[]> = {
   proctology: [
     { name: 'Piles / Hemorrhoids Treatment', slug: 'piles-treatment', brief: 'Laser & stapler treatment for hemorrhoids with same-day discharge.', recovery: '2-3 days', costRange: '₹35,000 - ₹90,000', procedure: 'Minimally invasive laser hemorrhoidoplasty or stapled hemorrhoidopexy performed under local/spinal anesthesia. The laser precisely shrinks hemorrhoidal tissue with minimal bleeding.', benefits: ['Painless laser procedure', 'Same-day discharge', '30-min procedure time', 'No cuts or stitches', 'Quick return to work'] },
     { name: 'Anal Fissure Treatment', slug: 'anal-fissure', brief: 'Laser treatment for chronic anal fissures with minimal pain.', recovery: '3-5 days', costRange: '₹35,000 - ₹75,000', procedure: 'Lateral internal sphincterotomy (LIS) using laser technology to relax the internal sphincter muscle and promote healing of the fissure.', benefits: ['Painless laser surgery', 'Quick healing', 'No recurrence risk', 'Daycare procedure', 'Minimal downtime'] },
@@ -369,9 +369,9 @@ const POPULAR_TREATMENTS = [
 // =====================================================
 // DOCTORS
 // =====================================================
-const DOCTORS = [];
+var DOCTORS: any[] = [];
 
-const HOSPITALS = [];
+var HOSPITALS: any[] = [];
 
 
 // =====================================================

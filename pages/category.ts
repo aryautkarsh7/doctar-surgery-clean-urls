@@ -101,7 +101,7 @@
 
     function getCardWidth() {
       if (!cards[0]) return 0;
-      return cards[0].offsetWidth + 20; // 20 = gap
+      return (cards[0] as any).offsetWidth + 20; // 20 = gap
     }
 
     function update() {
@@ -120,14 +120,14 @@
 
     scroller.addEventListener('scroll', update, { passive: true });
 
-    scroller.addEventListener('pointerdown', (event) => {
+    scroller.addEventListener('pointerdown', (event: any) => {
       isDragging = true;
       dragMoved = false;
       startX = event.clientX;
       startScrollLeft = scroller.scrollLeft;
     });
 
-    scroller.addEventListener('pointermove', (event) => {
+    scroller.addEventListener('pointermove', (event: any) => {
       if (!isDragging) return;
       const delta = event.clientX - startX;
       // Only start dragging once the pointer moves past the threshold, so a

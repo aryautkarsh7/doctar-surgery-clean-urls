@@ -204,10 +204,10 @@
     if (!track || !prevBtn || !nextBtn) return;
 
     let scrollPos = 0;
-    const cardWidth = track.querySelector('.blog-card')?.offsetWidth || 280;
+    const cardWidth = (track.querySelector('.blog-card') as any)?.offsetWidth || 280;
     const gap = 24;
     const step = cardWidth + gap;
-    const maxScroll = Math.max(0, track.scrollWidth - track.parentElement.offsetWidth);
+    const maxScroll = Math.max(0, track.scrollWidth - (track.parentElement as any).offsetWidth);
 
     prevBtn.addEventListener('click', () => {
       scrollPos = Math.max(0, scrollPos - step);

@@ -320,7 +320,7 @@
 
   // Treatment / sub-category page: doctors for a sub-category at the user's
   // real area+city (from GPS), e.g. /specialities/proctology/piles-treatment/surgeons-in-salt-lake-kolkata/s
-  function urlTreatment(subSlug, catSlug, city) {
+  function urlTreatment(subSlug, catSlug?, city?) {
     const cs = catSlug || categorySlugForTreatment(subSlug);
     const loc = city ? cityToSlug(city) : currentLocationSlug();
     return `/specialities/${cs}/${subSlug}/surgeons-in-${loc}/s`;
@@ -331,7 +331,7 @@
     return `/surgeons/${cat}/${doc.slug}/s`;
   }
   function urlDoctorsByCat(catSlug) { return `/surgeons/${catSlug}/s`; }
-  function urlAllDoctors(city) {
+  function urlAllDoctors(city?: string) {
     const loc = city ? cityToSlug(city) : currentLocationSlug();
     return `/surgeons-in-${loc}/s`;
   }

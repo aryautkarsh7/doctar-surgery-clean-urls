@@ -127,20 +127,20 @@
     if (!list) return;
     list.innerHTML = buildCityListHTML();
     const current = getCurrentCity();
-    document.querySelectorAll('.loc-city-item').forEach(el => {
+    document.querySelectorAll('.loc-city-item').forEach((el: any) => {
       el.classList.toggle('loc-city-active', el.dataset.city === current);
     });
     // Keep the current search filter applied to the freshly-built list.
-    const searchInput = document.getElementById('loc-search-input');
+    const searchInput = document.getElementById('loc-search-input') as any;
     if (searchInput && searchInput.value) window.locFilterCities(searchInput.value);
   }
 
   window.openLocationModal = function() {
     injectLocationModal();
     window._locPending = null;
-    document.getElementById('loc-confirm-btn').disabled = true;
+    (document.getElementById('loc-confirm-btn') as any).disabled = true;
     document.getElementById('loc-selected-hint').textContent = 'Select a location from the list or map';
-    document.getElementById('loc-search-input').value = '';
+    (document.getElementById('loc-search-input') as any).value = '';
     window.locFilterCities('');
     // Always rebuild the list from the latest AVAILABLE_CITIES on every open.
     refreshCityList();
@@ -213,10 +213,10 @@
     }
     window._locPending = cityName;
     const lcName = String(cityName).toLowerCase();
-    document.querySelectorAll('.loc-city-item').forEach(el => {
+    document.querySelectorAll('.loc-city-item').forEach((el: any) => {
       el.classList.toggle('loc-city-active', (el.dataset.city || '').toLowerCase() === lcName);
     });
-    const confirmBtn = document.getElementById('loc-confirm-btn');
+    const confirmBtn = document.getElementById('loc-confirm-btn') as any;
     const hint = document.getElementById('loc-selected-hint');
     if (available === true || available === 'true') {
       hint.textContent = `📍 ${cityName} selected`;
@@ -226,7 +226,7 @@
       confirmBtn.disabled = true;
     }
     const item = [...document.querySelectorAll('.loc-city-item')]
-      .find(el => (el.dataset.city || '').toLowerCase() === lcName);
+      .find((el: any) => (el.dataset.city || '').toLowerCase() === lcName);
     if (item) item.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
     // Zoom the map into the selected city.
     const coords = locCityCoords(cityName);
@@ -237,12 +237,12 @@
 
   window.locFilterCities = function(query) {
     const q = (query || '').toLowerCase();
-    document.querySelectorAll('.loc-city-item').forEach(el => {
+    document.querySelectorAll('.loc-city-item').forEach((el: any) => {
       const name = (el.dataset.city || '').toLowerCase();
       const state = (el.dataset.state || '').toLowerCase();
       el.style.display = (name.includes(q) || state.includes(q)) ? '' : 'none';
     });
-    const label = document.querySelector('.loc-cities-label');
+    const label = document.querySelector('.loc-cities-label') as any;
     if (label) label.style.display = q ? 'none' : '';
   };
 
@@ -340,7 +340,7 @@
 
   window.locUseCurrentLocation = function() {
     if (!navigator.geolocation) { alert('Geolocation not supported.'); return; }
-    const btn = document.querySelector('.loc-current-btn');
+    const btn = document.querySelector('.loc-current-btn') as any;
     btn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Detecting...';
     btn.disabled = true;
     detectCurrentLocation()
@@ -407,7 +407,7 @@
 
   // =====================================================
   function initHeaderSearch() {
-    const wrap = document.querySelector('.header-search');
+    const wrap = document.querySelector('.header-search') as any;
     if (!wrap) return;
     const input = wrap.querySelector('input');
     const goBtn = wrap.querySelector('.search-go');
@@ -523,6 +523,6 @@
     if (goBtn) goBtn.addEventListener('click', goToSearchPage);
 
     document.addEventListener('click', e => {
-      if (!wrap.contains(e.target)) closeDropdown();
+      if (!wrap.contains(e.target as any)) closeDropdown();
     });
   }

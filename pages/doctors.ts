@@ -405,7 +405,7 @@
   window.dpp2SwitchTab = function(tab, btn) {
     // Works for both dpp-tab/dpp-tab-content (profile page) and dpp2-tab/dpp2-tab-pane
     document.querySelectorAll('.dpp-tab, .dpp2-tab').forEach(t => t.classList.remove('active'));
-    document.querySelectorAll('.dpp-tab-content, .dpp2-tab-pane').forEach(p => p.style.display = 'none');
+    document.querySelectorAll('.dpp-tab-content, .dpp2-tab-pane').forEach((p: any) => p.style.display = 'none');
     // Sync active state across BOTH tab sets (mobile top bar + in-main bar).
     document.querySelectorAll('.dpp-tab[data-tab="' + tab + '"], .dpp2-tab[data-tab="' + tab + '"]')
       .forEach(t => t.classList.add('active'));
@@ -426,7 +426,7 @@
     const open  = panel.style.display === 'none';
 
     // Close all others
-    document.querySelectorAll('.dpp2-slots-panel').forEach(p => { p.style.display = 'none'; });
+    document.querySelectorAll('.dpp2-slots-panel').forEach((p: any) => { p.style.display = 'none'; });
     document.querySelectorAll('.dpp2-chevron').forEach(c => c.classList.remove('rotated'));
     document.querySelectorAll('.dpp2-view-slots-btn').forEach(b => b.classList.remove('active'));
 
@@ -453,7 +453,7 @@
         document.getElementById('bm-date-tomorrow')?.click();
       } else {
         const otherBtn = document.getElementById('bm-date-other');
-        const picker   = document.getElementById('bm-date-picker');
+        const picker   = document.getElementById('bm-date-picker') as any;
         if (otherBtn && picker) {
           otherBtn.click();
           picker.value = iso;
@@ -461,7 +461,7 @@
         }
       }
       // Highlight the slot
-      document.querySelectorAll('.bm-slot').forEach(b => {
+      document.querySelectorAll('.bm-slot').forEach((b: any) => {
         b.classList.toggle('active', b.dataset.slot === slot);
       });
     }, 60);
@@ -470,9 +470,9 @@
   // Keep legacy switchDppTab for any other pages that reference it
   window.switchDppTab = function(tab, btn) {
     document.querySelectorAll('.dpp-tab').forEach(t => t.classList.remove('active'));
-    document.querySelectorAll('.dpp-tab-content').forEach(c => c.style.display = 'none');
+    document.querySelectorAll('.dpp-tab-content').forEach((c: any) => c.style.display = 'none');
     btn.classList.add('active');
-    document.getElementById('dpp-tab-' + tab).style.display = 'block';
+    (document.getElementById('dpp-tab-' + tab) as any).style.display = 'block';
   };
 
   // =====================================================

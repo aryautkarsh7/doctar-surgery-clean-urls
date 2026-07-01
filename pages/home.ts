@@ -767,7 +767,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
     initCarousel('ds-track', 'ds-prev', 'ds-next', 3);
     initHospitalMapHover();
     // Defer map init until the user opens the details panel — avoids ~20 tile requests on every homepage load
-    const mapDetails = document.querySelector('.fh-map-details');
+    const mapDetails = document.querySelector('.fh-map-details') as HTMLDetailsElement;
     if (mapDetails) {
       let mapInited = false;
       mapDetails.addEventListener('toggle', function onToggle() {
@@ -829,7 +829,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
       new IntersectionObserver(entries => {
         if (!entries[0].isIntersecting || counted) return;
         counted = true;
-        metricsEl.querySelectorAll('[data-pr-count]').forEach(el => {
+        metricsEl.querySelectorAll('[data-pr-count]').forEach((el: any) => {
           const target = parseInt(el.dataset.prCount, 10);
           const startTime = performance.now();
           const duration = 1600;
@@ -977,7 +977,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
   }
 
   window.highlightHospitalPin = function(slug) {
-    const mapDetails = document.querySelector('.fh-map-details');
+    const mapDetails = document.querySelector('.fh-map-details') as HTMLDetailsElement;
     if (mapDetails) mapDetails.open = true;
 
     const map = document.querySelector('.fh-map-panel');
@@ -1004,7 +1004,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
     const markers = Object.values(window._featuredHospitalMarkers || {});
     if (markers.length > 1) {
-      const bounds = L.latLngBounds(markers.map(marker => marker.getLatLng()));
+      const bounds = L.latLngBounds(markers.map((marker: any) => marker.getLatLng()));
       map.fitBounds(bounds, { padding: [36, 36], maxZoom: 13 });
     }
   };

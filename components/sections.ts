@@ -7,7 +7,7 @@
   // =============================================
   // PATIENT STORIES (Reels) section
   // =============================================
-  function generateReelsSectionHTML(uniqueId, videos, opts) {
+  function generateReelsSectionHTML(uniqueId, videos, opts?) {
     opts = opts || {};
     const reels = (videos || VIDEOS).filter(v => v.type === 'reel');
     if (!reels.length) return '';
@@ -51,7 +51,7 @@
   // =============================================
   // EXPERT HEALTH TIPS (Landscape Videos) section
   // =============================================
-  function generateLandscapeSectionHTML(uniqueId, videos, opts) {
+  function generateLandscapeSectionHTML(uniqueId, videos, opts?) {
     opts = opts || {};
     const vids = (videos || VIDEOS).filter(v => v.type === 'landscape');
     if (!vids.length) return '';
@@ -234,7 +234,7 @@
   }
 
   // Generate FAQ Section HTML (reusable)
-  function generateFAQSectionHTML(faqs, title, subtitle) {
+  function generateFAQSectionHTML(faqs, title?, subtitle?) {
     title = title || 'Frequently Asked Questions';
     subtitle = subtitle || 'Everything you need to know about booking surgery and consultations through Doctar.';
     return `

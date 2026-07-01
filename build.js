@@ -1,35 +1,63 @@
 const { minify } = require('terser');
 const CleanCSS = require('clean-css');
+const esbuild = require('esbuild');
 const fs = require('fs');
 const path = require('path');
 
-// Correct order of scripts as loaded in index.html
-const jsFiles = [
-  'data.js',
-  'utils/helpers.js',
-  'utils/api.js',
-  'components/sections.js',
-  'components/footer-dynamic.js',
-  'components/header.js',
-  'components/booking-modal.js',
-  'pages/blog.js',
-  'pages/home.js',
-  'pages/category.js',
-  'pages/treatment.js',
-  'pages/doctors.js',
-  'pages/hospitals.js',
-  'pages/search.js',
-  'pages/pet.js',
-  'pages/static.js',
-  'main.js'
+// Base module filenames (without extensions) in dependency load order
+const modules = [
+  'data',
+  'utils/helpers',
+  'utils/api',
+  'components/sections',
+  'components/footer-dynamic',
+  'components/header',
+  'components/booking-modal',
+  'pages/blog',
+  'pages/home',
+  'pages/category',
+  'pages/treatment',
+  'pages/doctors',
+  'pages/hospitals',
+  'pages/search',
+  'pages/pet',
+  'pages/static',
+  'main'
 ];
+
+async function loadModuleSource(base) {
+  const tsPath = base + '.ts';
+  const jsPath = base + '.js';
+  
+  if (fs.existsSync(tsPath)) {
+    const ts = fs.readFileSync(tsPath, 'utf8');
+    // Transpile TypeScript code to JS without modules bundling/resolution
+    const out = await esbuild.transform(ts, {
+      loader: 'ts',
+      target: 'es2020',
+    });
+    return out.code;
+  }
+  
+  if (fs.existsSync(jsPath)) {
+    return fs.readFileSync(jsPath, 'utf8');
+  }
+  
+  throw new Error(`Source not found for module: ${base} (.ts or .js)`);
+}
 
 async function buildJS() {
   let combinedJS = '';
-  for(const file of jsFiles) {
-    const src = fs.readFileSync(file, 'utf8');
-    combinedJS += `\n/* --- ${file} --- */\n` + src;
+  for (const base of modules) {
+    try {
+      const code = await loadModuleSource(base);
+      combinedJS += `\n/* --- ${base} --- */\n` + code;
+    } catch (err) {
+      console.error(`Error loading source for module ${base}:`, err.message);
+      throw err;
+    }
   }
+  
   const result = await minify(combinedJS, { compress: true, mangle: true });
   fs.mkdirSync('dist', { recursive: true });
   fs.writeFileSync(path.join('dist', 'bundle.js'), result.code);
@@ -62,8 +90,7 @@ async function build() {
   
   fs.writeFileSync('dist/index.html', html);
 
-  // Copy the service worker verbatim so dist (served first in production)
-  // never ships a stale cache version behind the source.
+  // Copy the service worker verbatim
   fs.copyFileSync('sw.js', 'dist/sw.js');
   console.log('Copied: sw.js');
 
@@ -88,4 +115,7 @@ async function build() {
   console.log('Build complete!');
 }
 
-build().catch(console.error);
+build().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

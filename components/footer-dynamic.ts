@@ -8,7 +8,7 @@
   // Reuses already-loaded HOSPITALS / DOCTORS / CATEGORIES — no extra API calls.
   // Pass opts to tailor lists/headings per page (see STEP 4 callers).
   // =====================================================
-  function renderDynamicFooterSection(city, opts) {
+  function renderDynamicFooterSection(city, opts?: any) {
     city = city || getCurrentCity() || 'Kolkata';
     opts = opts || {};
 

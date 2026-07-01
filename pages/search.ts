@@ -3,7 +3,7 @@
 // Loaded as a classic script — shares global scope with data.js & siblings.
 // =====================================================
   // Returns matched keyword entries that link to the parent category page.
-  function searchSubSubKeywords(q, limit) {
+  function searchSubSubKeywords(q, limit?) {
     const out = [];
     const seen = new Set();
     if (!q || typeof SUBSUBCATEGORIES === 'undefined') return out;
@@ -45,7 +45,7 @@
   window.srShowAll = function(section) { renderSearchPage(_srQuery, section); };
   window.srSubmitSearch = function(ev) {
     if (ev) ev.preventDefault();
-    const val = (document.getElementById('sr-page-input') || {}).value || '';
+    const val = (document.getElementById('sr-page-input') as any)?.value || '';
     const q = val.trim();
     if (q) navigate('/search/' + encodeURIComponent(q) + '/s');
   };
@@ -64,7 +64,7 @@
       .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
     // Keep the header search bar in sync with the active query.
-    const headerInput = document.querySelector('.header-search input');
+    const headerInput = document.querySelector('.header-search input') as any;
     if (headerInput) headerInput.value = query || '';
 
     const r = runSiteSearch(query);

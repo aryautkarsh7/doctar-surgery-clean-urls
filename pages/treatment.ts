@@ -244,7 +244,7 @@
 
     if (!sidebar || !backdrop) return;
 
-    const shouldOpen = open !== undefined ? open : !sidebar.classList.contains('is-open');
+    const shouldOpen = typeof open === 'boolean' ? open : !sidebar.classList.contains('is-open');
     sidebar.classList.toggle('is-open', shouldOpen);
     backdrop.classList.toggle('is-open', shouldOpen);
     document.body.classList.toggle('tpl-filter-open', shouldOpen);

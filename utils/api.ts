@@ -82,18 +82,18 @@
     }
   ];
 
-  let BLOG_POSTS = [...BLOG_POSTS_FALLBACK];
+  var BLOG_POSTS: any[] = [...BLOG_POSTS_FALLBACK];
   let VIDEOS = [];
   let SUBCATEGORIES = window.STATIC_SUBCATEGORIES || [];
   let SUBSUBCATEGORIES = [];
   let PET_HOSPITALS = [];
-  let AVAILABLE_CITIES = ['Kolkata'];
-  let CITIES = []; // full city directory from MongoDB (name/slug/state/lat/lng)
+  var AVAILABLE_CITIES = ['Kolkata'];
+  var CITIES = []; // full city directory from MongoDB (name/slug/state/lat/lng)
 
   function formatBlogDate(raw) {
     if (!raw) return '';
     const d = new Date(raw);
-    if (isNaN(d)) return raw;
+    if (isNaN(d.getTime())) return raw;
     return d.toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' });
   }
 
